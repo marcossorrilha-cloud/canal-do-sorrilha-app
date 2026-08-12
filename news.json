@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-12T17:43:50.124Z",
+  "updatedAt": "2026-08-12T17:55:47.447Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Kilmeade predicts 'kinetic war' with Iran before Labor Day",
+      "link": "https://thehill.com/policy/defense/6025480-kilmeade-predicts-iran-war/",
+      "summary": "Fox News’s Brian Kilmeade on Tuesday predicted a “kinetic war” between the U.S. and Iran will take place prior to Labor Day, just two months before the midterm elections. Kilmeade…",
+      "publishedAt": "2026-08-12T17:54:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Thousands sign petition calling for expulsion of US ambassador to Canada",
+      "link": "https://thehill.com/homenews/administration/6025482-petition-remove-us-ambassador-hoekstra/",
+      "summary": "More than 60,000 Canadians are backing an effort to remove U.S. Ambassador Pete Hoekstra from the country, accusing him of undermining relations between the neighboring countries…",
+      "publishedAt": "2026-08-12T17:47:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lawsuit launched over sale of early access to Truth Social posts",
+      "link": "https://thehill.com/regulation/court-battles/6025465-trump-media-lawsuit-truth-social-api/",
+      "summary": "A left-leaning publication sued President Trump’s media company on Wednesday over its new product that gives paying Wall Street firms faster access to the president’s Truth Social…",
+      "publishedAt": "2026-08-12T17:47:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Treasury Department repeals Biden-era reporting requirement for US businesses",
+      "link": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/",
+      "summary": "The Treasury Department on Tuesday officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes…",
+      "publishedAt": "2026-08-12T17:47:02.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Fetterman says he won't campaign against McCormick",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-08-12T17:25:53.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
-      "link": "https://thehill.com/homenews/senate/6025443-tim-scott-darline-graham-south-carolina-senate/",
-      "summary": "Sen. Tim Scott (R-S.C.), chair of the National Republican Senatorial Committee (NRSC), announced Wednesday that he voted for Sen. Darline Graham (R-S.C.) and will support her in…",
-      "publishedAt": "2026-08-12T17:16:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump-Backed Mike Lindell Loses Minnesota Governor Primary to Lisa Demuth",
-      "link": "https://www.nytimes.com/2026/08/12/us/politics/trump-lindell-minnesota-republican-primary.html",
-      "summary": "After his loss in the state’s Republican primary for governor, Mike Lindell, a leading election denier, floated familiar, baseless claims of “anomalies” in his double-digit defeat.",
-      "publishedAt": "2026-08-12T17:10:53.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Scoop: Private equity firms circle Trimble's transportation unit",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1NmZlJ4Skt1NDM3UUJkZ3o3Q0hkcXhSN2Q2YldlN0FDRE1hOURuZldYYkozQ2tQUHVycWpXOXU3blh3ckpKRFc4Z09qcm10WmNaRDM1RjRjUmE4TEd2cjdqTkFXcDZ3a1pIMktTVURxYjRmX2Q3Yk5pYW02b3FuLV82Z2xRNGw4eElLS21mdXMwWlhGcS01ZXZ4SmVNbFlXZ2c?oc=5",
-      "summary": "Scoop: Private equity firms circle Trimble's transportation unit Axios",
-      "publishedAt": "2026-08-12T17:06:43.000Z"
-    },
-    {
-      "source": "Washington Post",
-      "title": "Minnesota is first state to set all-female matchups for the biggest races",
-      "link": "https://www.washingtonpost.com/politics/2026/08/12/minnesota-sets-all-female-matchups-governor-senate-elections/",
-      "summary": "Democratic Lt. Gov. Peggy Flanagan and Republican Michele Tafoya are running for Senate, while Sen. Amy Klobuchar (D) and state House Speaker Lisa Demuth are running for governor.",
-      "publishedAt": "2026-08-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Projected 2027 Social Security COLA adjusted slightly after new inflation report",
-      "link": "https://thehill.com/business/personal-finance/6025313-projected-2027-social-security-cola-adjusted-slightly-after-new-inflation-report/",
-      "summary": "The formal COLA isn't expected for a couple of months, but projections say it could be one of the largest in years.",
-      "publishedAt": "2026-08-12T16:55:31.000Z"
+      "title": "ICE plans to put electric-shock gloves on officers' hands",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ajRvUF85VmEyNGstUGttSm5rdi0zTy1qQ0FxZnJWVUZmeXVLRjI1UW9ySWxYLUNyVTgxbjd3QmlJMmhRVjFXQkR3RXNMQlU4Y3ZkNW56aHgxM1JCUlhlcmlSMHQ1QTl0OEZWM1NDY3k1cHI2d1E?oc=5",
+      "summary": "ICE plans to put electric-shock gloves on officers' hands Axios",
+      "publishedAt": "2026-08-12T17:17:50.000Z"
     }
   ]
 }

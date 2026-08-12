@@ -1,9 +1,37 @@
 {
-  "updatedAt": "2026-08-11T12:00:00.000Z",
+  "updatedAt": "2026-08-12T17:55:48.317Z",
   "archiveUrl": "https://marcossorrilha.substack.com/archive",
-  "count": 2,
+  "count": 5,
   "items": [
-    { "title": "Clipping completo — Política dos Estados Unidos (10 de agosto)", "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-69a", "date": "10/08/2026", "note": "Seleção de 48 horas: Irã, Will Scharf, Max Miller, ICE e IA no Congresso." },
-    { "title": "Clipping completo — Política dos Estados Unidos (7 de agosto)", "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-c7b", "date": "07/08/2026", "note": "Seleção de 48 horas: cidadania por nascimento, IRS, Fauci, redistricting e economia." }
+    {
+      "title": "Clipping | Política dos Estados Unidos | 12 de agosto de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-34d",
+      "date": "12/08/2026",
+      "note": "Seleção de 24 horas • 12 de agosto de 2026. O que aconteceu, por que importa e o que merece atenção."
+    },
+    {
+      "title": "Clipping | Política dos Estados Unidos | 11 de agosto de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-d53",
+      "date": "11/08/2026",
+      "note": "Seleção de 24 horas • 11 de agosto de 2026. O que aconteceu, por que importa e o que merece atenção."
+    },
+    {
+      "title": "Clipping | Política dos Estados Unidos | 10 de agosto de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-69a",
+      "date": "10/08/2026",
+      "note": "Seleção de 48 horas • 10 de agosto de 2026. O que aconteceu, por que importa e o que merece atenção."
+    },
+    {
+      "title": "Clipping | Política dos Estados Unidos | 08 de agosto de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-5ac",
+      "date": "08/08/2026",
+      "note": "Seleção de 24 horas • 8 de agosto de 2026 O que aconteceu, por que importa e o que merece atenção."
+    },
+    {
+      "title": "Clipping | Política dos Estados Unidos | 07 de agosto de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-c7b",
+      "date": "07/08/2026",
+      "note": "Seleção de 48 horas • 7 de agosto de 2026 O que aconteceu, por que importa e o que merece atenção."
+    }
   ]
 }
