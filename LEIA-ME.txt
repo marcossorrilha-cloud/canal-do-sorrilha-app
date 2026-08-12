@@ -1,0 +1,6 @@
+Coloque aqui o logo do canal com o nome exato:  logo.png
+
+O cabeçalho do app (index.html) já aponta para assets/logo.png.
+Se o arquivo não existir, aparece "CS" como reserva — sem erro.
+
+Opcional (caso queira usar no futuro): donkey.png, elephant.png (mascotes).

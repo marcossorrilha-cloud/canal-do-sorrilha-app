@@ -1,0 +1,56 @@
+name: Atualizar aprovação de Trump (Silver Bulletin)
+
+on:
+  schedule:
+    - cron: "0 12 * * *"     # 1x por dia, 12:00 UTC (~9h de Brasília)
+  workflow_dispatch:
+    # Rodada manual: preencha os campos abaixo para forçar valores (fallback do README).
+    # Deixe em branco para tentar a extração automática.
+    inputs:
+      approval:
+        description: "Aprovação % (opcional, ex: 40)"
+        required: false
+      disapproval:
+        description: "Desaprovação % (opcional, ex: 56)"
+        required: false
+      net:
+        description: "Saldo líquido (opcional, ex: -16)"
+        required: false
+      trend:
+        description: "Texto de tendência (opcional)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-trump
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: Coletar aprovação
+        env:
+          TRUMP_APPROVAL: ${{ github.event.inputs.approval }}
+          TRUMP_DISAPPROVAL: ${{ github.event.inputs.disapproval }}
+          TRUMP_NET: ${{ github.event.inputs.net }}
+          TRUMP_TREND: ${{ github.event.inputs.trend }}
+        run: npm run fetch:trump
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "canal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/trump.json; then
+            git add data/trump.json
+            git commit -m "chore(trump): atualização automática $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          else
+            echo "Sem mudanças em data/trump.json."
+          fi

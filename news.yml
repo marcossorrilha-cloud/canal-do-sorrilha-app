@@ -1,0 +1,35 @@
+name: Atualizar notícias (de hora em hora)
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # todo minuto 0 de cada hora (UTC)
+  workflow_dispatch: {}        # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - run: npm run fetch:news
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "canal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/news.json; then
+            git add data/news.json
+            git commit -m "chore(news): atualização automática $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          else
+            echo "Sem mudanças em data/news.json."
+          fi

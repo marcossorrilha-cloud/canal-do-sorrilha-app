@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canal do Sorrilha — Política Americana</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#153a63; --red:#c8332b; --blue:#2a5db0; --purple:#7d4f9e;
+    --gray:#c7cdd4; --bg:#f4f2ee; --ink:#1c1c1c; --border:#e2ded6;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);
+    font-family:'Barlow',sans-serif;-webkit-font-smoothing:antialiased;}
+  a{color:var(--navy);text-decoration:none;}
+  a:hover{color:var(--red);}
+
+  header{background:var(--navy);color:#fff;padding:14px 24px;display:flex;
+    align-items:center;gap:16px;flex-wrap:wrap;}
+  .logo{height:56px;width:56px;flex:none;border-radius:50%;background:#fff;
+    color:var(--navy);display:flex;align-items:center;justify-content:center;
+    font-family:'Oswald',sans-serif;font-weight:700;font-size:20px;overflow:hidden;}
+  .logo img{height:100%;width:100%;object-fit:contain;}
+  .brand-title{font-family:'Oswald',sans-serif;font-size:22px;font-weight:700;
+    letter-spacing:.5px;text-transform:uppercase;}
+  .brand-sub{font-size:12px;opacity:.75;}
+
+  .tabs{display:flex;background:#fff;border-bottom:2px solid var(--border);overflow-x:auto;}
+  .tab-btn{flex:1;min-width:150px;padding:14px 10px;background:transparent;border:none;
+    cursor:pointer;font-family:'Oswald',sans-serif;font-size:14px;font-weight:600;
+    text-transform:uppercase;letter-spacing:.5px;color:#6b6b6b;
+    border-bottom:4px solid transparent;}
+  .tab-btn.active{color:var(--navy);border-bottom-color:var(--red);}
+
+  .wrap{max-width:880px;margin:0 auto;padding:24px 18px 50px;}
+  .wrap.narrow{max-width:640px;}
+  .wrap.wide{max-width:1100px;padding:18px;}
+  .meta{font-size:12px;color:#888;margin-bottom:14px;display:flex;gap:10px;
+    align-items:center;flex-wrap:wrap;}
+  .refresh{margin-left:auto;background:var(--navy);color:#fff;border:none;border-radius:6px;
+    padding:6px 12px;font-family:'Oswald',sans-serif;font-size:12px;font-weight:600;
+    text-transform:uppercase;letter-spacing:.5px;cursor:pointer;}
+  .refresh:hover{background:#0e2947;}
+  .refresh:disabled{opacity:.6;cursor:default;}
+
+  .card{background:#fff;border:1px solid var(--border);border-radius:8px;
+    padding:16px 18px;margin-bottom:12px;}
+  .card .src{font-size:11px;font-weight:700;color:var(--red);text-transform:uppercase;
+    letter-spacing:.5px;margin-bottom:4px;}
+  .card .title{font-family:'Oswald',sans-serif;font-size:17px;font-weight:600;
+    display:block;margin-bottom:6px;}
+  .card .summary{font-size:14px;color:#555;}
+
+  .clip{display:flex;gap:12px;padding:14px 18px;}
+  .clip .rank{font-family:'Oswald',sans-serif;font-weight:700;color:var(--navy);
+    flex:none;width:64px;}
+  .clip .title{font-weight:600;font-size:15px;display:block;margin-bottom:4px;}
+  .clip .note{font-size:13px;color:#555;}
+  .archive-link{display:inline-block;margin-top:6px;font-family:'Oswald',sans-serif;
+    font-weight:600;text-transform:uppercase;letter-spacing:.5px;font-size:13px;}
+
+  .section-title{font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;margin-bottom:2px;}
+
+  iframe.sim{width:100%;height:900px;border:1px solid var(--border);border-radius:8px;}
+
+  .approval-box{background:#fff;border:1px solid var(--border);border-radius:8px;padding:20px;}
+  .approval-nums{display:flex;justify-content:space-between;font-family:'Oswald',sans-serif;
+    font-weight:600;font-size:15px;margin-bottom:6px;}
+  .approval-nums .yes{color:var(--blue);}
+  .approval-nums .no{color:var(--red);}
+  .bar{position:relative;height:30px;background:var(--gray);border-radius:4px;overflow:hidden;}
+  .bar .yes{position:absolute;left:0;top:0;bottom:0;background:var(--blue);}
+  .bar .no{position:absolute;right:0;top:0;bottom:0;background:var(--red);}
+  .trend{font-size:13px;color:#555;margin-top:14px;}
+  .stale-flag{font-size:12px;color:#a3271f;margin-top:8px;}
+  .empty{font-size:14px;color:#888;padding:20px 0;}
+</style>
+</head>
+<body>
+  <header>
+    <div class="logo"><img src="assets/logo.png" alt="" onerror="this.remove()"><span>CS</span></div>
+    <div style="flex:1;min-width:200px;">
+      <div class="brand-title">Canal do Sorrilha</div>
+      <div class="brand-sub">Notícias, clipping e ferramentas sobre política americana</div>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="inicio">Início</button>
+    <button class="tab-btn" data-tab="clipping">Clipping Diário</button>
+    <button class="tab-btn" data-tab="simulador">Simulador Eleições</button>
+    <button class="tab-btn" data-tab="trump">Popularidade Trump</button>
+  </nav>
+
+  <!-- INÍCIO -->
+  <section class="wrap" data-panel="inicio">
+    <div class="meta">
+      <span>Principais manchetes — Politico, The Hill, NYT, WaPo, AP e Axios.</span>
+      <span id="news-updated"></span>
+      <button class="refresh" data-refresh="news">Atualizar agora</button>
+    </div>
+    <div id="news-list"><div class="empty">Carregando…</div></div>
+  </section>
+
+  <!-- CLIPPING -->
+  <section class="wrap" data-panel="clipping" hidden>
+    <div class="section-title">Clipping Diário</div>
+    <div class="meta">
+      <span>Baseado na newsletter <a href="https://marcossorrilha.substack.com/" target="_blank" rel="noopener">marcossorrilha.substack.com</a>.</span>
+      <span id="clip-updated"></span>
+      <button class="refresh" data-refresh="clipping">Atualizar agora</button>
+    </div>
+    <div id="clip-list"><div class="empty">Carregando…</div></div>
+    <a class="archive-link" id="archive-link" href="https://marcossorrilha.substack.com/archive" target="_blank" rel="noopener">Ver arquivo completo →</a>
+  </section>
+
+  <!-- SIMULADOR -->
+  <section class="wrap wide" data-panel="simulador" hidden>
+    <iframe class="sim" src="simulador.html" title="Simulador Eleições EUA" loading="lazy"></iframe>
+  </section>
+
+  <!-- TRUMP -->
+  <section class="wrap narrow" data-panel="trump" hidden>
+    <div class="section-title">Popularidade de Trump</div>
+    <div class="meta">
+      <span>Fonte: <a href="https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin" target="_blank" rel="noopener">Silver Bulletin</a>.</span>
+      <span id="trump-updated"></span>
+      <button class="refresh" data-refresh="trump">Atualizar agora</button>
+    </div>
+    <div class="approval-box" id="trump-box"><div class="empty">Carregando…</div></div>
+  </section>
+
+<script>
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
+  ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+const fmtUpdated = (iso) => {
+  const t = Date.parse(iso);
+  if (!Number.isFinite(t)) return "";
+  return "Atualizado em " + new Date(t).toLocaleString("pt-BR", {
+    timeZone: "America/Sao_Paulo", day:"2-digit", month:"2-digit",
+    year:"numeric", hour:"2-digit", minute:"2-digit" });
+};
+
+async function loadJson(path) {
+  const res = await fetch(path + "?t=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  return res.json();
+}
+
+async function renderNews() {
+  const list = document.getElementById("news-list");
+  try {
+    const data = await loadJson("data/news.json");
+    document.getElementById("news-updated").textContent = fmtUpdated(data.updatedAt);
+    const items = data.items || [];
+    list.innerHTML = items.length ? items.map((it) => `
+      <div class="card">
+        <div class="src">${esc(it.source)}</div>
+        <a class="title" href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+        ${it.summary ? `<div class="summary">${esc(it.summary)}</div>` : ""}
+      </div>`).join("") : `<div class="empty">Nenhuma manchete disponível.</div>`;
+  } catch (e) {
+    list.innerHTML = `<div class="empty">Não foi possível carregar as notícias.</div>`;
+  }
+}
+
+async function renderClipping() {
+  const list = document.getElementById("clip-list");
+  try {
+    const data = await loadJson("data/clipping.json");
+    document.getElementById("clip-updated").textContent = fmtUpdated(data.updatedAt);
+    if (data.archiveUrl) document.getElementById("archive-link").href = data.archiveUrl;
+    const items = data.items || [];
+    list.innerHTML = items.length ? items.map((it, i) => `
+      <div class="card clip">
+        <div class="rank">${esc(it.date || String(i + 1).padStart(2, "0"))}</div>
+        <div>
+          <a class="title" href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+          <div class="note">${esc(it.note || "")}</div>
+        </div>
+      </div>`).join("") : `<div class="empty">Nenhum clipping disponível.</div>`;
+  } catch (e) {
+    list.innerHTML = `<div class="empty">Não foi possível carregar o clipping.</div>`;
+  }
+}
+
+async function renderTrump() {
+  const box = document.getElementById("trump-box");
+  try {
+    const d = await loadJson("data/trump.json");
+    document.getElementById("trump-updated").textContent = fmtUpdated(d.updatedAt);
+    const a = Number(d.approval) || 0, n = Number(d.disapproval) || 0;
+    const total = a + n || 1;
+    box.innerHTML = `
+      <div class="approval-nums">
+        <span class="yes">APROVA ${esc(a)}%</span>
+        <span class="no">DESAPROVA ${esc(n)}%</span>
+      </div>
+      <div class="bar">
+        <div class="yes" style="width:${(a / total) * 100}%"></div>
+        <div class="no" style="width:${(n / total) * 100}%"></div>
+      </div>
+      <div class="trend">${esc(d.trend || "")}</div>
+      ${d.stale ? `<div class="stale-flag">⚠ Números da última coleta bem-sucedida — a extração automática mais recente não encontrou valores novos.</div>` : ""}`;
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Não foi possível carregar a aprovação.</div>`;
+  }
+}
+
+const RENDERERS = { news: renderNews, clipping: renderClipping, trump: renderTrump };
+
+// Abas
+document.querySelectorAll(".tab-btn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const tab = btn.dataset.tab;
+    document.querySelectorAll(".tab-btn").forEach((b) => b.classList.toggle("active", b === btn));
+    document.querySelectorAll("[data-panel]").forEach((p) => { p.hidden = p.dataset.panel !== tab; });
+  });
+});
+
+// Botões "Atualizar agora" — recarregam o JSON já publicado (não a fonte original;
+// quem busca a fonte é o GitHub Actions no cron).
+document.querySelectorAll("[data-refresh]").forEach((btn) => {
+  btn.addEventListener("click", async () => {
+    btn.disabled = true; const old = btn.textContent; btn.textContent = "Atualizando…";
+    try { await RENDERERS[btn.dataset.refresh](); } finally { btn.textContent = old; btn.disabled = false; }
+  });
+});
+
+renderNews(); renderClipping(); renderTrump();
+</script>
+</body>
+</html>

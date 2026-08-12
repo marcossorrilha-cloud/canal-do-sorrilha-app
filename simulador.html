@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulador Eleições EUA — Canal do Sorrilha</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<style>
+  :root{
+    --navy:#153a63; --navy-dark:#0e2947; --red:#c8332b; --red-dark:#a3271f;
+    --blue:#2a5db0; --purple:#7d4f9e; --gray:#c7cdd4; --gray-dark:#9aa3ad;
+    --bg:#f4f2ee; --ink:#1c1c1c;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Barlow',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+  h1,h2,.headline{font-family:'Oswald',sans-serif;}
+  header{background:var(--navy);color:#fff;padding:14px 28px;display:flex;align-items:center;gap:18px;flex-wrap:wrap;}
+  header img{height:64px;width:64px;flex:none;}
+  header .titles{flex:1;min-width:200px;}
+  header .titles h1{margin:0;font-size:26px;letter-spacing:1px;text-transform:uppercase;font-weight:700;}
+  header .titles p{margin:2px 0 0;font-size:13px;opacity:.75;font-weight:400;}
+  header .actions{display:flex;gap:8px;flex-wrap:wrap;}
+  header .actions button{
+    background:rgba(255,255,255,.08);color:#fff;border:1px solid rgba(255,255,255,.35);
+    padding:8px 14px;border-radius:6px;font-family:'Barlow',sans-serif;font-size:13px;font-weight:600;
+    cursor:pointer;transition:background .15s;
+  }
+  header .actions button:hover{background:rgba(255,255,255,.2);}
+  header .actions button.preset{background:var(--red);border-color:var(--red-dark);}
+  header .actions button.preset:hover{background:var(--red-dark);}
+
+  .tabs{display:flex;justify-content:center;gap:0;background:#fff;border-bottom:2px solid #e2ded6;}
+  .tabs button{
+    flex:1;max-width:280px;padding:14px 10px;border:none;background:transparent;cursor:pointer;
+    font-family:'Oswald',sans-serif;font-size:15px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;
+    color:#6b6b6b;border-bottom:4px solid transparent;transition:.15s;
+  }
+  .tabs button:hover{color:var(--navy);}
+  .tabs button.active{color:var(--navy);border-bottom-color:var(--red);}
+
+  main{max-width:1080px;margin:0 auto;padding:22px 20px 50px;}
+
+  .bar-section{display:flex;align-items:center;gap:14px;margin-bottom:8px;}
+  .mascot{height:56px;flex:none;}
+  .bar-wrap{flex:1;}
+  .bar-labels{display:flex;justify-content:space-between;font-family:'Oswald',sans-serif;font-weight:600;font-size:15px;margin-bottom:4px;}
+  .bar-labels .lbl-blue{color:var(--blue);} .bar-labels .lbl-purple{color:var(--purple);text-align:center;flex:1;} .bar-labels .lbl-red{color:var(--red);text-align:right;}
+  .bar-track{position:relative;height:34px;background:var(--gray);border-radius:4px;overflow:hidden;border:1px solid #d8dbe0;}
+  .bar-fill{position:absolute;top:0;bottom:0;transition:width .25s ease;}
+  .bar-fill.blue{left:0;background:var(--blue);}
+  .bar-fill.red{right:0;background:var(--red);}
+  .bar-fill.purple{background:var(--purple);}
+  .bar-threshold{position:absolute;top:-6px;bottom:-6px;width:2px;background:var(--navy-dark);}
+  .bar-threshold::after{content:attr(data-label);position:absolute;top:-20px;left:50%;transform:translateX(-50%);font-size:11px;font-weight:600;color:var(--navy-dark);white-space:nowrap;}
+  .bar-caption{text-align:center;font-size:12px;color:#777;margin-top:14px;}
+
+  .legend{display:flex;justify-content:center;gap:22px;flex-wrap:wrap;margin:18px 0 6px;font-size:13px;font-weight:600;}
+  .legend .item{display:flex;align-items:center;gap:6px;white-space:nowrap;}
+  .legend .swatch{width:14px;height:14px;border-radius:3px;border:1px solid rgba(0,0,0,.15);}
+  .instructions{text-align:center;font-size:13px;color:#666;margin-bottom:10px;}
+
+  .small-states-panel{background:#fff;border:1px solid #e2ded6;border-radius:8px;padding:14px 16px;margin-top:14px;}
+  .small-states-panel h3{margin:0 0 10px;font-family:'Oswald',sans-serif;font-size:14px;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);}
+  .small-states-grid{display:flex;flex-wrap:wrap;gap:10px;}
+  .small-card{border:1px solid #d8dbe0;border-radius:6px;overflow:hidden;min-width:110px;}
+  .small-card .name{font-size:11px;font-weight:600;text-align:center;padding:4px 6px;background:#f4f2ee;color:#444;}
+  .small-card .swatches{display:flex;}
+  .small-card button{flex:1;height:32px;border:none;cursor:pointer;transition:opacity .1s;}
+  .small-card button:hover{opacity:.82;}
+  .small-card button.single{width:100%;}
+
+  .map-wrap{background:#fff;border:1px solid #e2ded6;border-radius:8px;padding:14px 10px 6px;}
+  svg#map{width:100%;height:auto;display:block;}
+  path.state{cursor:pointer;stroke:#fff;stroke-width:1.1px;transition:opacity .1s;}
+  path.state:hover{opacity:.82;}
+  path.dc-disabled{cursor:not-allowed;}
+  .state-label{font-family:'Barlow',sans-serif;font-weight:700;font-size:9.5px;fill:#fff;pointer-events:none;paint-order:stroke;stroke:rgba(0,0,0,.55);stroke-width:2px;}
+  .senate-divider{stroke:#fff;stroke-width:1px;pointer-events:none;}
+
+  footer{text-align:center;font-size:12px;color:#999;padding:20px 0 6px;}
+
+  @media (max-width: 640px){
+    header{padding:10px 14px;gap:10px;}
+    header img{height:44px;width:44px;}
+    header .titles h1{font-size:19px;}
+    header .titles p{font-size:11px;}
+    header .actions{width:100%;justify-content:center;}
+    header .actions button{flex:1;min-width:auto;padding:9px 8px;font-size:12px;}
+    .tabs{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+    .tabs button{font-size:12px;padding:12px 6px;max-width:none;}
+    main{padding:14px 10px 40px;}
+    .mascot{height:38px;}
+    .bar-section{gap:8px;}
+    .bar-labels{font-size:12px;}
+    .bar-track{height:28px;}
+    .legend{gap:12px;font-size:12px;}
+    .small-states-grid{gap:8px;}
+    .small-card{min-width:92px;}
+    .zoom-controls{bottom:10px;right:10px;}
+    .social-bar{gap:10px;flex-wrap:wrap;}
+    .social-bar a{font-size:12px;padding:6px 12px;}
+  }
+  @media (pointer: coarse){
+    path.state{stroke-width:1.4px;}
+    .small-card button{min-height:38px;}
+  }
+  .social-bar{display:flex;justify-content:center;gap:16px;padding:10px 0 26px;}
+  .social-bar a{display:flex;align-items:center;gap:6px;color:var(--navy);text-decoration:none;font-size:13px;font-weight:600;padding:7px 14px;border:1px solid #d8dbe0;border-radius:20px;background:#fff;transition:background .15s,color .15s;}
+  .social-bar a:hover{background:var(--navy);color:#fff;border-color:var(--navy);}
+  .social-bar svg{width:18px;height:18px;flex:none;}
+
+  .zoom-controls{position:fixed;bottom:16px;right:16px;display:flex;align-items:center;gap:2px;background:#fff;border:1px solid #d8dbe0;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:1000;overflow:hidden;}
+  .zoom-controls button{width:49px;height:49px;border:none;background:#fff;color:var(--navy);font-size:26px;font-weight:700;cursor:pointer;}
+  .zoom-controls button:hover{background:#eef1f5;}
+  .zoom-controls .zlabel{font-size:17.3px;font-weight:600;color:#555;min-width:60px;text-align:center;}
+</style>
+<template id="__bundler_thumbnail">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#153a63"/><rect x="30" y="30" width="18" height="40" fill="#2a5db0"/><rect x="52" y="30" width="18" height="40" fill="#c8332b"/></svg>
+</template>
+</head>
+<body>
+<header>
+  <img src="assets/logo.png" alt="Canal do Sorrilha">
+  <div class="titles">
+    <h1>Simulador Eleições EUA</h1>
+    <p>Colégio Eleitoral · Senado · Governadores — clique nos estados para votar</p>
+  </div>
+  <div class="actions">
+    <button id="btnPreset" class="preset" style="display:none">Pré-carregar disputa 2026</button>
+    <button id="btnSave">Salvar cenário</button>
+    <button id="btnLoad">Carregar cenário</button>
+    <button id="btnReset">Limpar o mapa</button>
+  </div>
+</header>
+
+<div class="tabs">
+  <button data-layer="electoral" class="active">Colégio Eleitoral</button>
+  <button data-layer="senate">Senado</button>
+  <button data-layer="governor">Governadores</button>
+</div>
+
+<main>
+  <div class="bar-section">
+    <img class="mascot" src="./logotipo-do-partido-democr-tico-donkey-l-msg2x2l5-rpgv.webp" alt="Democrata" width="800" height="792" style="width:30px;height:37px;aspect-ratio:800/792">
+    <div class="bar-wrap">
+      <div class="bar-labels">
+        <span class="lbl-blue" id="lblBlue">DEMOCRATAS 0</span>
+        <span class="lbl-purple" id="lblPurple">EM DISPUTA 0</span>
+        <span class="lbl-red" id="lblRed">REPUBLICANOS 0</span>
+      </div>
+      <div class="bar-track" id="barTrack">
+        <div class="bar-fill blue" id="fillBlue" style="width:0%"></div>
+        <div class="bar-fill purple" id="fillPurple" style="width:0%;left:50%"></div>
+        <div class="bar-fill red" id="fillRed" style="width:0%"></div>
+        <div class="bar-threshold" id="thresholdLine" style="left:50%"></div>
+      </div>
+    </div>
+    <img class="mascot" src="./logotipo-elefante-do-partido-republicano-msg2xcy3-kdf5.webp" alt="Republicano" width="800" height="758" style="width:38px;height:41px;aspect-ratio:800/758">
+  </div>
+  <p class="bar-caption" id="barCaption">538 votos no Colégio Eleitoral — 270 para vencer</p>
+
+  <p class="instructions" id="instructions">Clique em um estado para alternar entre cinza → azul → vermelho → roxo.</p>
+
+  <div class="legend">
+    <div class="item"><span class="swatch" style="background:#c7cdd4"></span> Indefinido</div>
+    <div class="item"><span class="swatch" style="background:#2a5db0"></span> Democrata</div>
+    <div class="item"><span class="swatch" style="background:#c8332b"></span> Republicano</div>
+    <div class="item"><span class="swatch" style="background:#7d4f9e"></span> Em disputa</div>
+  </div>
+
+  <div class="map-wrap">
+    <svg id="map" viewBox="0 0 975 610"></svg>
+  </div>
+
+  <div class="small-states-panel">
+    <h3>Estados pequenos (clique aqui para votar)</h3>
+    <div class="small-states-grid" id="smallStatesGrid"></div>
+  </div>
+
+  <footer>Canal do Sorrilha — História dos EUA</footer>
+  <div class="social-bar">
+    <a href="https://www.youtube.com/@CanaldoSorrilha" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.8 12Z"/></svg>
+      @CanaldoSorrilha
+    </a>
+    <a href="https://www.instagram.com/canaldosorrilha/" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2.5" y="2.5" width="19" height="19" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.2" cy="6.8" r="0.9" fill="currentColor" stroke="none"/></svg>
+      @canaldosorrilha
+    </a>
+  </div>
+</main>
+
+<div class="zoom-controls">
+  <button id="zoomOut" title="Diminuir zoom">−</button>
+  <span class="zlabel" id="zoomLabel">100%</span>
+  <button id="zoomIn" title="Aumentar zoom">+</button>
+</div>
+
+<script>
+const COLORS = { gray:'#c7cdd4', blue:'#2a5db0', red:'#c8332b', purple:'#7d4f9e' };
+const CYCLE = ['gray','blue','red','purple'];
+
+// FIPS -> {abbr, ev}
+const STATE_DATA = {
+  "01":{abbr:"AL",ev:9},"02":{abbr:"AK",ev:3},"04":{abbr:"AZ",ev:11},"05":{abbr:"AR",ev:6},
+  "06":{abbr:"CA",ev:54},"08":{abbr:"CO",ev:10},"09":{abbr:"CT",ev:7},"10":{abbr:"DE",ev:3},
+  "11":{abbr:"DC",ev:3},"12":{abbr:"FL",ev:30},"13":{abbr:"GA",ev:16},"15":{abbr:"HI",ev:4},
+  "16":{abbr:"ID",ev:4},"17":{abbr:"IL",ev:19},"18":{abbr:"IN",ev:11},"19":{abbr:"IA",ev:6},
+  "20":{abbr:"KS",ev:6},"21":{abbr:"KY",ev:8},"22":{abbr:"LA",ev:8},"23":{abbr:"ME",ev:4},
+  "24":{abbr:"MD",ev:10},"25":{abbr:"MA",ev:11},"26":{abbr:"MI",ev:15},"27":{abbr:"MN",ev:10},
+  "28":{abbr:"MS",ev:6},"29":{abbr:"MO",ev:10},"30":{abbr:"MT",ev:4},"31":{abbr:"NE",ev:5},
+  "32":{abbr:"NV",ev:6},"33":{abbr:"NH",ev:4},"34":{abbr:"NJ",ev:14},"35":{abbr:"NM",ev:5},
+  "36":{abbr:"NY",ev:28},"37":{abbr:"NC",ev:16},"38":{abbr:"ND",ev:3},"39":{abbr:"OH",ev:17},
+  "40":{abbr:"OK",ev:7},"41":{abbr:"OR",ev:8},"42":{abbr:"PA",ev:19},"44":{abbr:"RI",ev:4},
+  "45":{abbr:"SC",ev:9},"46":{abbr:"SD",ev:3},"47":{abbr:"TN",ev:11},"48":{abbr:"TX",ev:40},
+  "49":{abbr:"UT",ev:6},"50":{abbr:"VT",ev:3},"51":{abbr:"VA",ev:13},"53":{abbr:"WA",ev:12},
+  "54":{abbr:"WV",ev:4},"55":{abbr:"WI",ev:10},"56":{abbr:"WY",ev:3}
+};
+const DC_FIPS = "11";
+const LABEL_OFFSET = { "12": {dx:27, dy:-8} };
+const SMALL_STATE_NAMES = {
+  "11":"D.C.", "24":"Maryland", "10":"Delaware", "34":"Nova Jersey", "44":"Rhode Island",
+  "09":"Connecticut", "25":"Massachusetts", "50":"Vermont", "33":"Nova Hampshire"
+};
+const SMALL_STATE_FIPS = Object.keys(SMALL_STATE_NAMES);
+
+// Disputa real de 2026: assento não disputado (cinza) x assento já definido pela cor do titular atual
+const SENATE_PRESET_2026 = {
+  "01":{left:'red',right:'gray'}, "02":{left:'red',right:'gray'}, "04":{left:'blue',right:'blue'},
+  "05":{left:'red',right:'gray'}, "06":{left:'blue',right:'blue'}, "08":{left:'blue',right:'gray'},
+  "09":{left:'blue',right:'blue'}, "10":{left:'blue',right:'gray'}, "12":{left:'red',right:'gray'},
+  "13":{left:'blue',right:'gray'}, "15":{left:'blue',right:'blue'}, "16":{left:'red',right:'gray'},
+  "17":{left:'blue',right:'gray'}, "18":{left:'red',right:'red'}, "19":{left:'red',right:'gray'},
+  "20":{left:'red',right:'gray'}, "21":{left:'red',right:'gray'}, "22":{left:'red',right:'gray'},
+  "23":{left:'blue',right:'gray'}, "24":{left:'blue',right:'blue'}, "25":{left:'blue',right:'gray'},
+  "26":{left:'blue',right:'gray'}, "27":{left:'blue',right:'gray'}, "28":{left:'red',right:'gray'},
+  "29":{left:'red',right:'red'}, "30":{left:'red',right:'gray'}, "31":{left:'red',right:'gray'},
+  "32":{left:'blue',right:'blue'}, "33":{left:'blue',right:'gray'}, "34":{left:'blue',right:'gray'},
+  "35":{left:'blue',right:'gray'}, "36":{left:'blue',right:'blue'}, "37":{left:'red',right:'gray'},
+  "38":{left:'red',right:'red'}, "39":{left:'red',right:'gray'}, "40":{left:'red',right:'gray'},
+  "41":{left:'blue',right:'gray'}, "42":{left:'blue',right:'red'}, "44":{left:'blue',right:'gray'},
+  "45":{left:'red',right:'gray'}, "46":{left:'red',right:'gray'}, "47":{left:'red',right:'gray'},
+  "48":{left:'red',right:'gray'}, "49":{left:'red',right:'red'}, "50":{left:'blue',right:'blue'},
+  "51":{left:'blue',right:'gray'}, "53":{left:'blue',right:'blue'}, "54":{left:'red',right:'gray'},
+  "55":{left:'blue',right:'red'}, "56":{left:'red',right:'gray'}
+};
+// Governadores sem eleição em 2026 mantêm a cor do titular atual; os demais ficam em disputa (cinza)
+const GOVERNOR_NOT_UP_2026 = {
+  "10":'blue', "18":'red', "21":'blue', "22":'red', "28":'red', "29":'red', "30":'red',
+  "34":'blue', "37":'blue', "38":'red', "49":'red', "51":'blue', "53":'blue', "54":'red'
+};
+const GOVERNOR_PRESET_2026 = {};
+Object.keys(STATE_DATA).forEach(fips=>{
+  if(fips===DC_FIPS) return;
+  GOVERNOR_PRESET_2026[fips] = GOVERNOR_NOT_UP_2026[fips] || 'gray';
+});
+const TOTAL_EV = Object.values(STATE_DATA).reduce((a,s)=>a+s.ev,0);
+console.log('Total electoral votes:', TOTAL_EV);
+
+const LAYER_CONFIG = {
+  electoral: { capacity: TOTAL_EV, threshold: Math.floor(TOTAL_EV/2)+1, caption: TOTAL_EV+' votos no Colégio Eleitoral — '+(Math.floor(TOTAL_EV/2)+1)+' para vencer' },
+  senate: { capacity: 100, threshold: 51, caption: '100 cadeiras do Senado (2 por estado) — 51 para maioria' },
+  governor: { capacity: 50, threshold: 26, caption: '50 governos estaduais — 26 para maioria' }
+};
+
+const STORAGE_KEY = 'sorrilha_eleicoes_estado_v1';
+const SCENARIO_KEY = 'sorrilha_eleicoes_cenario_salvo_v1';
+
+function blankState(){
+  const electoral = {}, governor = {}, senate = {};
+  Object.keys(STATE_DATA).forEach(fips=>{
+    electoral[fips]='gray';
+    if(fips!==DC_FIPS){ governor[fips]='gray'; senate[fips]={left:'gray',right:'gray'}; }
+  });
+  return { electoral, senate, governor };
+}
+
+let appState = blankState();
+try{
+  const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
+  if(saved && saved.electoral) appState = saved;
+}catch(e){}
+
+let currentLayer = 'electoral';
+
+function persist(){ localStorage.setItem(STORAGE_KEY, JSON.stringify(appState)); }
+
+function nextColor(c){ return CYCLE[(CYCLE.indexOf(c)+1)%CYCLE.length]; }
+
+let pathIndex = {}; // fips -> {feature, bounds}
+let els = { electoralPaths:{}, governorPaths:{}, senatePaths:{} };
+
+function buildMap(topology){
+  const svg = d3.select('#map');
+  const path = d3.geoPath();
+  const features = topojson.feature(topology, topology.objects.states).features;
+  const defs = svg.append('defs');
+
+  const gElectoral = svg.append('g').attr('id','layer-electoral');
+  const gGovernor = svg.append('g').attr('id','layer-governor').attr('display','none');
+  const gSenate = svg.append('g').attr('id','layer-senate').attr('display','none');
+  const gLabels = { electoral: svg.append('g'), governor: svg.append('g').attr('display','none'), senate: svg.append('g').attr('display','none') };
+
+  features.forEach(f=>{
+    const fips = f.id;
+    const info = STATE_DATA[fips];
+    if(!info) return;
+    const d = path(f);
+    const bounds = path.bounds(f);
+    let cx = (bounds[0][0]+bounds[1][0])/2;
+    let cy = (bounds[0][1]+bounds[1][1])/2;
+    if(LABEL_OFFSET[fips]){ cx += LABEL_OFFSET[fips].dx; cy += LABEL_OFFSET[fips].dy; }
+    pathIndex[fips] = { d, bounds, cx, cy };
+
+    // Electoral layer: full state, clickable
+    const pe = gElectoral.append('path').attr('class','state').attr('d',d)
+      .attr('fill', COLORS[appState.electoral[fips]])
+      .on('click', ()=>{ appState.electoral[fips]=nextColor(appState.electoral[fips]); persist(); render(); });
+    els.electoralPaths[fips]=pe;
+    gLabels.electoral.append('text').attr('class','state-label').attr('x',cx).attr('y',cy+3).attr('text-anchor','middle').text(info.abbr);
+
+    if(fips===DC_FIPS){
+      gGovernor.append('path').attr('class','state dc-disabled').attr('d',d).attr('fill','#e5e5e5').attr('stroke','#bbb');
+      gSenate.append('path').attr('class','state dc-disabled').attr('d',d).attr('fill','#e5e5e5').attr('stroke','#bbb');
+      return;
+    }
+
+    // Governor layer: full state, clickable
+    const pg = gGovernor.append('path').attr('class','state').attr('d',d)
+      .attr('fill', COLORS[appState.governor[fips]])
+      .on('click', ()=>{ appState.governor[fips]=nextColor(appState.governor[fips]); persist(); render(); });
+    els.governorPaths[fips]=pg;
+    gLabels.governor.append('text').attr('class','state-label').attr('x',cx).attr('y',cy+3).attr('text-anchor','middle').text(info.abbr);
+
+    // Senate layer: split into left/right halves via clipPath
+    const midX = (bounds[0][0]+bounds[1][0])/2;
+    const clipL = defs.append('clipPath').attr('id','clip-L-'+fips);
+    clipL.append('rect').attr('x',bounds[0][0]-2).attr('y',bounds[0][1]-2).attr('width',midX-bounds[0][0]+2).attr('height',bounds[1][1]-bounds[0][1]+4);
+    const clipR = defs.append('clipPath').attr('id','clip-R-'+fips);
+    clipR.append('rect').attr('x',midX).attr('y',bounds[0][1]-2).attr('width',bounds[1][0]-midX+2).attr('height',bounds[1][1]-bounds[0][1]+4);
+
+    const psL = gSenate.append('path').attr('class','state').attr('d',d).attr('clip-path','url(#clip-L-'+fips+')')
+      .attr('fill', COLORS[appState.senate[fips].left])
+      .on('click', ()=>{ appState.senate[fips].left=nextColor(appState.senate[fips].left); persist(); render(); });
+    const psR = gSenate.append('path').attr('class','state').attr('d',d).attr('clip-path','url(#clip-R-'+fips+')')
+      .attr('fill', COLORS[appState.senate[fips].right])
+      .on('click', ()=>{ appState.senate[fips].right=nextColor(appState.senate[fips].right); persist(); render(); });
+    els.senatePaths[fips]={left:psL,right:psR};
+    gSenate.append('line').attr('class','senate-divider').attr('x1',midX).attr('x2',midX).attr('y1',bounds[0][1]).attr('y2',bounds[1][1]);
+    gLabels.senate.append('text').attr('class','state-label').attr('x',cx).attr('y',cy+3).attr('text-anchor','middle').text(info.abbr);
+  });
+
+  window.__mapGroups = { gElectoral, gGovernor, gSenate, gLabels };
+  render();
+}
+
+function tally(){
+  const cfg = LAYER_CONFIG[currentLayer];
+  let blue=0, red=0, purple=0;
+  if(currentLayer==='electoral'){
+    Object.entries(appState.electoral).forEach(([fips,c])=>{
+      const ev = STATE_DATA[fips].ev;
+      if(c==='blue') blue+=ev; else if(c==='red') red+=ev; else if(c==='purple') purple+=ev;
+    });
+  } else if(currentLayer==='senate'){
+    Object.entries(appState.senate).forEach(([fips,sides])=>{
+      ['left','right'].forEach(side=>{
+        const c = sides[side];
+        if(c==='blue') blue++; else if(c==='red') red++; else if(c==='purple') purple++;
+      });
+    });
+  } else {
+    Object.entries(appState.governor).forEach(([fips,c])=>{
+      if(c==='blue') blue++; else if(c==='red') red++; else if(c==='purple') purple++;
+    });
+  }
+  return { blue, red, purple, capacity: cfg.capacity };
+}
+
+function render(){
+  document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('active', b.dataset.layer===currentLayer));
+  const g = window.__mapGroups;
+  if(g){
+    g.gElectoral.attr('display', currentLayer==='electoral' ? null : 'none');
+    g.gGovernor.attr('display', currentLayer==='governor' ? null : 'none');
+    g.gSenate.attr('display', currentLayer==='senate' ? null : 'none');
+    g.gLabels.electoral.attr('display', currentLayer==='electoral' ? null : 'none');
+    g.gLabels.governor.attr('display', currentLayer==='governor' ? null : 'none');
+    g.gLabels.senate.attr('display', currentLayer==='senate' ? null : 'none');
+  }
+
+  Object.entries(els.electoralPaths).forEach(([fips,p])=>p.attr('fill', COLORS[appState.electoral[fips]]));
+  Object.entries(els.governorPaths).forEach(([fips,p])=>p.attr('fill', COLORS[appState.governor[fips]]));
+  Object.entries(els.senatePaths).forEach(([fips,sides])=>{
+    sides.left.attr('fill', COLORS[appState.senate[fips].left]);
+    sides.right.attr('fill', COLORS[appState.senate[fips].right]);
+  });
+
+  const { blue, red, purple, capacity } = tally();
+  const cfg = LAYER_CONFIG[currentLayer];
+  document.getElementById('lblBlue').textContent = 'DEMOCRATAS ' + blue;
+  document.getElementById('lblRed').textContent = 'REPUBLICANOS ' + red;
+  document.getElementById('lblPurple').textContent = 'EM DISPUTA ' + purple;
+  document.getElementById('barCaption').textContent = cfg.caption;
+
+  const bluePct = (blue/capacity)*100;
+  const redPct = (red/capacity)*100;
+  const purplePct = (purple/capacity)*100;
+  document.getElementById('fillBlue').style.width = bluePct+'%';
+  document.getElementById('fillRed').style.width = redPct+'%';
+  document.getElementById('fillPurple').style.width = purplePct+'%';
+  document.getElementById('fillPurple').style.left = (50 - purplePct/2)+'%';
+  const thresholdPct = (cfg.threshold/capacity)*100;
+  const th = document.getElementById('thresholdLine');
+  th.style.left = thresholdPct+'%';
+  th.setAttribute('data-label', cfg.threshold);
+
+  document.getElementById('instructions').textContent = currentLayer==='senate'
+    ? 'Clique na metade esquerda ou direita de cada estado (2 cadeiras por estado) para alternar entre cinza → azul → vermelho → roxo.'
+    : 'Clique em um estado para alternar entre cinza → azul → vermelho → roxo.';
+  btnPreset.style.display = (currentLayer==='senate' || currentLayer==='governor') ? '' : 'none';
+  renderSmallPanel();
+  fitToViewport();
+}
+
+let manualZoom = null;
+function applyZoom(z){
+  manualZoom = z;
+  document.body.style.zoom = z;
+  document.getElementById('zoomLabel').textContent = Math.round(z*100)+'%';
+}
+
+function fitToViewport(){
+  if(manualZoom !== null){ applyZoom(manualZoom); return; }
+  document.body.style.zoom = 1;
+  requestAnimationFrame(()=>{
+    const needed = document.documentElement.scrollHeight;
+    const available = window.innerHeight;
+    if(needed > available){
+      let z = Math.max(0.35, (available / needed) * 0.97);
+      document.body.style.zoom = z;
+      document.getElementById('zoomLabel').textContent = Math.round(z*100)+'%';
+      requestAnimationFrame(()=>{
+        if(document.documentElement.scrollHeight > window.innerHeight){
+          z = Math.max(0.3, z * (window.innerHeight / document.documentElement.scrollHeight) * 0.97);
+          document.body.style.zoom = z;
+          document.getElementById('zoomLabel').textContent = Math.round(z*100)+'%';
+        }
+      });
+    } else {
+      document.getElementById('zoomLabel').textContent = '100%';
+    }
+  });
+}
+document.getElementById('zoomIn').addEventListener('click', ()=>{
+  const cur = parseFloat(document.body.style.zoom) || 1;
+  applyZoom(Math.min(2, +(cur+0.1).toFixed(2)));
+});
+document.getElementById('zoomOut').addEventListener('click', ()=>{
+  const cur = parseFloat(document.body.style.zoom) || 1;
+  applyZoom(Math.max(0.3, +(cur-0.1).toFixed(2)));
+});
+window.addEventListener('resize', fitToViewport);
+
+function renderSmallPanel(){
+  const grid = document.getElementById('smallStatesGrid');
+  grid.innerHTML = '';
+  const list = SMALL_STATE_FIPS.filter(fips => currentLayer==='electoral' || fips!==DC_FIPS);
+  list.forEach(fips=>{
+    const card = document.createElement('div');
+    card.className = 'small-card';
+    const name = document.createElement('div');
+    name.className = 'name';
+    name.textContent = SMALL_STATE_NAMES[fips] + ' (' + STATE_DATA[fips].abbr + ')';
+    card.appendChild(name);
+    const sw = document.createElement('div');
+    sw.className = 'swatches';
+    if(currentLayer==='senate'){
+      ['left','right'].forEach(side=>{
+        const b = document.createElement('button');
+        b.style.background = COLORS[appState.senate[fips][side]];
+        b.title = side==='left' ? 'Cadeira 1' : 'Cadeira 2';
+        b.addEventListener('click', ()=>{ appState.senate[fips][side]=nextColor(appState.senate[fips][side]); persist(); render(); });
+        sw.appendChild(b);
+      });
+    } else {
+      const b = document.createElement('button');
+      b.className = 'single';
+      const store = currentLayer==='electoral' ? appState.electoral : appState.governor;
+      b.style.background = COLORS[store[fips]];
+      b.addEventListener('click', ()=>{ store[fips]=nextColor(store[fips]); persist(); render(); });
+      sw.appendChild(b);
+    }
+    card.appendChild(sw);
+    grid.appendChild(card);
+  });
+}
+
+document.querySelectorAll('.tabs button').forEach(btn=>{
+  btn.addEventListener('click', ()=>{ currentLayer = btn.dataset.layer; render(); });
+});
+
+const btnPreset = document.getElementById('btnPreset');
+btnPreset.addEventListener('click', ()=>{
+  if(currentLayer==='senate'){
+    Object.entries(SENATE_PRESET_2026).forEach(([fips,v])=>{ appState.senate[fips] = { left:v.left, right:v.right }; });
+  } else if(currentLayer==='governor'){
+    Object.entries(GOVERNOR_PRESET_2026).forEach(([fips,c])=>{ appState.governor[fips] = c; });
+  }
+  persist(); render();
+});
+
+document.getElementById('btnReset').addEventListener('click', ()=>{
+  if(!confirm('Reiniciar todos os estados para cinza?')) return;
+  appState = blankState();
+  persist();
+  render();
+});
+document.getElementById('btnSave').addEventListener('click', ()=>{
+  localStorage.setItem(SCENARIO_KEY, JSON.stringify(appState));
+  alert('Cenário salvo.');
+});
+document.getElementById('btnLoad').addEventListener('click', ()=>{
+  try{
+    const s = JSON.parse(localStorage.getItem(SCENARIO_KEY));
+    if(!s || !s.electoral){ alert('Nenhum cenário salvo encontrado.'); return; }
+    appState = s;
+    persist();
+    render();
+  }catch(e){ alert('Nenhum cenário salvo encontrado.'); }
+});
+
+d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json').then(buildMap);
+</script>
+</body>
+</html>

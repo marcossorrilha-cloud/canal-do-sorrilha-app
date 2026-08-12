@@ -1,0 +1,35 @@
+name: Atualizar clipping (Substack)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"    # a cada 3 horas — pega um clipe novo poucas horas após você postar
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-clipping
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - run: npm run fetch:clipping
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "canal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/clipping.json; then
+            git add data/clipping.json
+            git commit -m "chore(clipping): atualização automática $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          else
+            echo "Sem mudanças em data/clipping.json."
+          fi
