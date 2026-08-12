@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-12T18:21:30.796Z",
+  "updatedAt": "2026-08-12T20:10:34.252Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Congress breaks for summer recess with little to show",
-      "link": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
-      "summary": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal…",
-      "publishedAt": "2026-08-12T18:11:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump administration to spend at least $900 million on White House construction projects: Report",
-      "link": "https://thehill.com/homenews/administration/6025430-trump-white-house-construction-costs/",
-      "summary": "The Trump administration is expected to spend at least $900 million on White House construction projects that will be fueled in part by taxpayer dollars without the approval of…",
-      "publishedAt": "2026-08-12T18:04:40.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "A Look Inside Trump’s Patriot Games",
-      "link": "https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html",
-      "summary": "President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs dialed in Natalie Kitroeff on “The Call” to break down what he…",
-      "publishedAt": "2026-08-12T18:00:13.000Z"
+      "title": "Karoline Leavitt, Trump’s Press Secretary, to Depart White House",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html",
+      "summary": "President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family.",
+      "publishedAt": "2026-08-12T20:03:10.000Z"
+    },
+    {
+      "source": "Washington Post",
+      "title": "Nick Reiner pleads not guilty to murder charges following indictment",
+      "link": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
+      "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner’s parents were found dead in December.",
+      "publishedAt": "2026-08-12T20:00:00.000Z"
+    },
+    {
+      "source": "Washington Post",
+      "title": "White House press secretary Karoline Leavitt to leave administration",
+      "link": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
+      "summary": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday.",
+      "publishedAt": "2026-08-12T19:58:13.000Z"
     },
     {
       "source": "Axios",
-      "title": "The first Midwest Meta Lab is coming to Chicago",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjQwN2NueHFWVnFVazFGYkQxZVNsVEw1N3RqRmxyeFktWkxLOHl4R05OWjFtS291MTZ6WV9ObXNya281WFRJSDJBRjhDWmZQeUMtWTZqbFFiWS0xQ3QwUFJnUl9UWTdCUEd3S1VCU0FuR1JrRzZSbFBuWC04VE9PdGxtUXREMUxRR3hPV2lFOEtQbDNsNXF6RVVEMnE5RXc?oc=5",
-      "summary": "The first Midwest Meta Lab is coming to Chicago Axios",
-      "publishedAt": "2026-08-12T17:58:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Kilmeade predicts 'kinetic war' with Iran before Labor Day",
-      "link": "https://thehill.com/policy/defense/6025480-kilmeade-predicts-iran-war/",
-      "summary": "Fox News’s Brian Kilmeade on Tuesday predicted a “kinetic war” between the U.S. and Iran will take place prior to Labor Day, just two months before the midterm elections. Kilmeade…",
-      "publishedAt": "2026-08-12T17:54:47.000Z"
+      "title": "Karoline Leavitt stepping down as White House press secretary",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FRlFaSndjeUl0dW00MklmQzVNckptRUtsTkw5TE9RSDVObHpTQ0daUjJtSUU5N3hpVDBLcHl1bDFfcTZ0dEluWG5ySjNkc2JWUWhpR0RmZ1ZxNDQ5Wk0ya0JvUzhXeFNHY3dGT3RhSGdiVWdtVER0SEZwOUNkUQ?oc=5",
+      "summary": "Karoline Leavitt stepping down as White House press secretary Axios",
+      "publishedAt": "2026-08-12T19:52:30.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
-      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
-      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
-      "publishedAt": "2026-08-12T17:54:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
-      "summary": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century AP News",
-      "publishedAt": "2026-08-12T17:50:00.000Z"
+      "title": "Which Cabinet Members Joined Trump on His Secret Flight Out of Turkey?",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html",
+      "summary": "The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.",
+      "publishedAt": "2026-08-12T19:49:59.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Thousands sign petition calling for expulsion of US ambassador to Canada",
-      "link": "https://thehill.com/homenews/administration/6025482-petition-remove-us-ambassador-hoekstra/",
-      "summary": "More than 60,000 Canadians are backing an effort to remove U.S. Ambassador Pete Hoekstra from the country, accusing him of undermining relations between the neighboring countries…",
-      "publishedAt": "2026-08-12T17:47:24.000Z"
+      "title": "Leavitt to leave White House press secretary role, Trump says",
+      "link": "https://thehill.com/homenews/6025953-leavitt-leave-white-house-press-secretary-role-trump/",
+      "summary": "President Trump announced via TruthSocial that White House press secretary Karoline Leavitt will step down from her role at the end of the month to focus on her family.",
+      "publishedAt": "2026-08-12T19:49:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "With Big Choices Ahead, Ocasio-Cortez Navigates New Territory",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html",
+      "summary": "Representative Alexandria Ocasio-Cortez’s sharing of her decision to freeze her eggs, the news that her longtime relationship had ended and talk of a presidential run have…",
+      "publishedAt": "2026-08-12T19:48:05.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Lawsuit launched over sale of early access to Truth Social posts",
-      "link": "https://thehill.com/regulation/court-battles/6025465-trump-media-lawsuit-truth-social-api/",
-      "summary": "A left-leaning publication sued President Trump’s media company on Wednesday over its new product that gives paying Wall Street firms faster access to the president’s Truth Social…",
-      "publishedAt": "2026-08-12T17:47:12.000Z"
+      "title": "DOJ announces indictments in sham marriages case",
+      "link": "https://thehill.com/homenews/administration/6025881-justice-department-marriage-fraud-charges/",
+      "summary": "The Department of Justice (DOJ) announced charges Wednesday against 11 people for their alleged involvement in a decadelong \"multimillion-dollar marriage fraud scheme\" that…",
+      "publishedAt": "2026-08-12T19:45:49.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Treasury Department repeals Biden-era reporting requirement for US businesses",
-      "link": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/",
-      "summary": "The Treasury Department on Tuesday officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes…",
-      "publishedAt": "2026-08-12T17:47:02.000Z"
+      "title": "Freight railroads lose challenge to crew size rule",
+      "link": "https://thehill.com/regulation/court-battles/6025865-eleventh-circuit-rejects-railroad-challenge/",
+      "summary": "A federal appeals court upheld a Federal Railroad Administration rule mandating certain trains must operate with two crew members after a challenge from railroad companies and…",
+      "publishedAt": "2026-08-12T19:45:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Palestinian students, staff allege discrimination at Columbia",
+      "link": "https://thehill.com/regulation/court-battles/6025585-columbia-university-discrimination-lawsuit-palestinian-students/",
+      "summary": "Palestinian students, faculty and alumni are suing Columbia University for discrimination, alleging the school fostered a \"hostile campus climate\" and unfairly targeted them with…",
+      "publishedAt": "2026-08-12T19:45:10.000Z"
     }
   ]
 }
