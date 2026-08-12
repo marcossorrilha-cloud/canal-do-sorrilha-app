@@ -1,11 +1,20 @@
 // Atualiza trump.json com a aprovação de Trump segundo o Silver Bulletin.
-// Extração best-effort + fallback manual (variáveis TRUMP_*).
+//
+// A raspagem é best-effort e VALIDADA: nunca aceita valor implausível (foi o que
+// deixou "12%" aparecer). Prioriza o "net approval" (número que o Silver Bulletin
+// escreve no texto). Se nada confiável for extraído, mantém o último valor bom e
+// marca stale=true. Também aceita override manual pelas variáveis TRUMP_*.
 import { fetchText, stripHtml, readJson, writeJson } from "./lib.mjs";
 
 const ARTICLE_URL =
   "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin";
 const FEED_URL = "https://www.natesilver.net/feed";
 const SOURCE_LABEL = "Silver Bulletin";
+
+// Faixas plausíveis (aprovação de um presidente moderno raramente sai disso).
+const OK_APPROVAL = (v) => v != null && v >= 25 && v <= 60;
+const OK_DISAPPROVAL = (v) => v != null && v >= 35 && v <= 70;
+const OK_NET = (v) => v != null && v >= -45 && v <= 20;
 
 const PREV = readJson("trump.json", {
   approval: 38,
@@ -23,16 +32,12 @@ function extract(text) {
   const t = text.replace(/\s+/g, " ");
   const res = {};
   const net =
-    t.match(/net approval(?: rating)?(?: of)?\s*(-?\d{1,2}(?:\.\d)?)/i) ||
-    t.match(/approval\s*(?:is|of|at)?\s*(-\d{1,2}(?:\.\d)?)\s*(?:points|pts|net)/i);
+    t.match(/net approval(?: rating)?(?: of| is| at| stands at)?\s*(-?\d{1,2}(?:\.\d)?)/i) ||
+    t.match(/approval\s*(?:of|at)?\s*(-\d{1,2}(?:\.\d)?)\s*(?:points|pts)/i);
   if (net) res.net = num(net[1]);
-  const approve =
-    t.match(/(\d{2}(?:\.\d)?)\s*%?\s*(?:approve|approval rating)/i) ||
-    t.match(/approval rating[^0-9]{0,20}(\d{2}(?:\.\d)?)/i);
+  const approve = t.match(/(\d{2}(?:\.\d)?)\s*%\s*(?:approve|approval)/i);
   if (approve) res.approval = num(approve[1]);
-  const disapprove =
-    t.match(/(\d{2}(?:\.\d)?)\s*%?\s*disapprove/i) ||
-    t.match(/disapproval[^0-9]{0,20}(\d{2}(?:\.\d)?)/i);
+  const disapprove = t.match(/(\d{2}(?:\.\d)?)\s*%\s*disapprove/i);
   if (disapprove) res.disapproval = num(disapprove[1]);
   return res;
 }
@@ -49,50 +54,67 @@ async function scrape() {
   let found = {};
   for (const txt of texts) {
     const e = extract(txt);
-    found = { ...e, ...found };
+    found = { ...e, ...found }; // prioriza o primeiro (artigo)
   }
   return found;
+}
+
+function fmtDate() {
+  return new Date().toLocaleDateString("pt-BR", { timeZone: "America/Sao_Paulo" });
 }
 
 async function main() {
   console.log("Atualizando aprovação de Trump…");
 
-  const manual = {
+  // Começa dos valores anteriores (bons) e só troca o que for validado.
+  let approval = PREV.approval;
+  let disapproval = PREV.disapproval;
+  let net = PREV.net;
+  let trend = PREV.trend;
+  let stale = true;
+
+  // 1) Override manual (Run workflow com inputs).
+  const m = {
     approval: num(process.env.TRUMP_APPROVAL),
     disapproval: num(process.env.TRUMP_DISAPPROVAL),
     net: num(process.env.TRUMP_NET),
     trend: process.env.TRUMP_TREND || null,
   };
-  const hasManual =
-    manual.approval != null || manual.disapproval != null || manual.net != null;
-
-  let approval = PREV.approval;
-  let disapproval = PREV.disapproval;
-  let net = PREV.net;
-  let stale = true;
-  let trend = PREV.trend;
-
-  if (hasManual) {
-    if (manual.approval != null) approval = manual.approval;
-    if (manual.disapproval != null) disapproval = manual.disapproval;
-    net = manual.net != null ? manual.net : +(approval - disapproval).toFixed(1);
+  if (m.approval != null || m.disapproval != null || m.net != null) {
+    if (m.approval != null) approval = m.approval;
+    if (m.disapproval != null) disapproval = m.disapproval;
+    net = m.net != null ? m.net : +(approval - disapproval).toFixed(1);
+    trend = m.trend || `Aprovação líquida de ${String(net).replace(".", ",")} (Silver Bulletin, ajuste manual).`;
     stale = false;
-    trend = manual.trend || `Aprovação líquida de ${net} (Silver Bulletin, ajuste manual).`;
     console.log("  · usando valores manuais.");
   } else {
+    // 2) Raspagem validada.
     const f = await scrape();
-    const gotBoth = f.approval != null && f.disapproval != null;
-    if (gotBoth || f.net != null) {
-      if (f.approval != null) approval = f.approval;
-      if (f.disapproval != null) disapproval = f.disapproval;
-      net = f.net != null ? f.net : +(approval - disapproval).toFixed(1);
+
+    // Só aceita o par aprovação/desaprovação se AMBOS forem plausíveis
+    // e coerentes (desaprovação > aprovação, como é o caso do Trump).
+    if (OK_APPROVAL(f.approval) && OK_DISAPPROVAL(f.disapproval) && f.disapproval > f.approval) {
+      approval = f.approval;
+      disapproval = f.disapproval;
       stale = false;
-      const netStr = String(net).replace(".", ",");
-      const dateStr = new Date().toLocaleDateString("pt-BR", { timeZone: "America/Sao_Paulo" });
-      trend = `Aprovação líquida de ${netStr} (Silver Bulletin, ${dateStr}).`;
-      console.log(`  · extraído: aprova ${approval} / desaprova ${disapproval} / líquido ${net}`);
+      console.log(`  · split aceito: ${approval} / ${disapproval}`);
+    } else if (f.approval != null || f.disapproval != null) {
+      console.warn(`  ! split rejeitado (implausível): ${f.approval} / ${f.disapproval}`);
+    }
+
+    // net: aceita se plausível; senão deriva do split atual.
+    if (OK_NET(f.net)) {
+      net = f.net;
+      stale = false;
+      console.log(`  · net aceito: ${net}`);
+    } else if (!stale) {
+      net = +(approval - disapproval).toFixed(1);
+    }
+
+    if (!stale) {
+      trend = `Aprovação líquida de ${String(net).replace(".", ",")} (Silver Bulletin, ${fmtDate()}).`;
     } else {
-      console.warn("  ! não extraí números novos — mantendo os anteriores (stale).");
+      console.warn("  ! nada confiável extraído — mantendo o valor anterior (stale).");
     }
   }
 

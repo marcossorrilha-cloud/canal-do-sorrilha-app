@@ -1,13 +1,14 @@
 // Coleta os posts mais recentes do seu Substack e grava clipping.json.
+// Busca o feed com User-Agent de navegador (o Substack rejeita requisições "cruas")
+// e faz o parse do texto — mais robusto que deixar o rss-parser buscar sozinho.
 import Parser from "rss-parser";
-import { writeJson, truncate, toTime } from "./lib.mjs";
+import { fetchText, writeJson, truncate, toTime } from "./lib.mjs";
 
 const SUBSTACK_FEED = "https://marcossorrilha.substack.com/feed";
 const ARCHIVE_URL = "https://marcossorrilha.substack.com/archive";
 const MAX_ITEMS = 5;
 
 const parser = new Parser({
-  timeout: 20000,
   customFields: { item: [["content:encoded", "contentEncoded"]] },
 });
 
@@ -22,9 +23,25 @@ function fmtDate(dateStr) {
   });
 }
 
+async function loadFeed() {
+  // 1) tenta buscar o XML com nosso User-Agent e parsear o texto
+  try {
+    const xml = await fetchText(SUBSTACK_FEED, {
+      headers: {
+        Accept: "application/rss+xml, application/xml, text/xml, */*",
+      },
+    });
+    return await parser.parseString(xml);
+  } catch (e) {
+    console.warn(`  ! fetch direto falhou (${e.message}); tentando parseURL…`);
+  }
+  // 2) fallback: deixa o rss-parser buscar
+  return parser.parseURL(SUBSTACK_FEED);
+}
+
 async function main() {
   console.log("Coletando clipping do Substack…");
-  const feed = await parser.parseURL(SUBSTACK_FEED);
+  const feed = await loadFeed();
   const items = (feed.items || [])
     .map((item) => ({
       title: (item.title || "").trim(),
