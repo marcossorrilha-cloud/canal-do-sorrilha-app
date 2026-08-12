@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "App do Canal do Sorrilha — notícias, clipping (Substack), simulador de eleições e popularidade de Trump, com coleta automática via GitHub Actions.",
+  "description": "App do Canal do Sorrilha — notícias, clipping (Substack), simulador e popularidade de Trump, com coleta automática via GitHub Actions. Versão 'tudo na raiz'.",
   "scripts": {
-    "fetch:news": "node scripts/fetch-news.mjs",
-    "fetch:clipping": "node scripts/fetch-clipping.mjs",
-    "fetch:trump": "node scripts/fetch-trump.mjs",
-    "fetch:all": "npm run fetch:news && npm run fetch:clipping && npm run fetch:trump"
+    "fetch:news": "node fetch-news.mjs",
+    "fetch:clipping": "node fetch-clipping.mjs",
+    "fetch:trump": "node fetch-trump.mjs",
+    "fetch:all": "node fetch-news.mjs && node fetch-clipping.mjs && node fetch-trump.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

@@ -80,7 +80,7 @@
 </head>
 <body>
   <header>
-    <div class="logo"><img src="assets/logo.png" alt="" onerror="this.remove()"><span>CS</span></div>
+    <div class="logo"><img src="logo.png" alt="" onerror="this.remove()"><span>CS</span></div>
     <div style="flex:1;min-width:200px;">
       <div class="brand-title">Canal do Sorrilha</div>
       <div class="brand-sub">Notícias, clipping e ferramentas sobre política americana</div>
@@ -153,7 +153,7 @@ async function loadJson(path) {
 async function renderNews() {
   const list = document.getElementById("news-list");
   try {
-    const data = await loadJson("data/news.json");
+    const data = await loadJson("news.json");
     document.getElementById("news-updated").textContent = fmtUpdated(data.updatedAt);
     const items = data.items || [];
     list.innerHTML = items.length ? items.map((it) => `
@@ -170,7 +170,7 @@ async function renderNews() {
 async function renderClipping() {
   const list = document.getElementById("clip-list");
   try {
-    const data = await loadJson("data/clipping.json");
+    const data = await loadJson("clipping.json");
     document.getElementById("clip-updated").textContent = fmtUpdated(data.updatedAt);
     if (data.archiveUrl) document.getElementById("archive-link").href = data.archiveUrl;
     const items = data.items || [];
@@ -190,7 +190,7 @@ async function renderClipping() {
 async function renderTrump() {
   const box = document.getElementById("trump-box");
   try {
-    const d = await loadJson("data/trump.json");
+    const d = await loadJson("trump.json");
     document.getElementById("trump-updated").textContent = fmtUpdated(d.updatedAt);
     const a = Number(d.approval) || 0, n = Number(d.disapproval) || 0;
     const total = a + n || 1;

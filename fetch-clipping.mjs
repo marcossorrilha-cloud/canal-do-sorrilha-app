@@ -1,5 +1,4 @@
-// Coleta os posts mais recentes do seu Substack e grava data/clipping.json.
-// Mostra os 5 mais recentes; a aba tem link para o arquivo completo do Substack.
+// Coleta os posts mais recentes do seu Substack e grava clipping.json.
 import Parser from "rss-parser";
 import { writeJson, truncate, toTime } from "./lib.mjs";
 
@@ -12,7 +11,6 @@ const parser = new Parser({
   customFields: { item: [["content:encoded", "contentEncoded"]] },
 });
 
-// Formata a data como dd/mm/aaaa (fuso de Brasília).
 function fmtDate(dateStr) {
   const t = toTime(dateStr);
   if (!t) return "";
@@ -48,7 +46,7 @@ async function main() {
     return;
   }
 
-  writeJson("data/clipping.json", {
+  writeJson("clipping.json", {
     updatedAt: new Date().toISOString(),
     archiveUrl: ARCHIVE_URL,
     count: items.length,
