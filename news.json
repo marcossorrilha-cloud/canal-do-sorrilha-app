@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-08-12T17:55:47.447Z",
+  "updatedAt": "2026-08-12T18:21:30.796Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Congress breaks for summer recess with little to show",
+      "link": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
+      "summary": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal…",
+      "publishedAt": "2026-08-12T18:11:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump administration to spend at least $900 million on White House construction projects: Report",
+      "link": "https://thehill.com/homenews/administration/6025430-trump-white-house-construction-costs/",
+      "summary": "The Trump administration is expected to spend at least $900 million on White House construction projects that will be fueled in part by taxpayer dollars without the approval of…",
+      "publishedAt": "2026-08-12T18:04:40.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A Look Inside Trump’s Patriot Games",
+      "link": "https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html",
+      "summary": "President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs dialed in Natalie Kitroeff on “The Call” to break down what he…",
+      "publishedAt": "2026-08-12T18:00:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "The first Midwest Meta Lab is coming to Chicago",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjQwN2NueHFWVnFVazFGYkQxZVNsVEw1N3RqRmxyeFktWkxLOHl4R05OWjFtS291MTZ6WV9ObXNya281WFRJSDJBRjhDWmZQeUMtWTZqbFFiWS0xQ3QwUFJnUl9UWTdCUEd3S1VCU0FuR1JrRzZSbFBuWC04VE9PdGxtUXREMUxRR3hPV2lFOEtQbDNsNXF6RVVEMnE5RXc?oc=5",
+      "summary": "The first Midwest Meta Lab is coming to Chicago Axios",
+      "publishedAt": "2026-08-12T17:58:31.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Kilmeade predicts 'kinetic war' with Iran before Labor Day",
       "link": "https://thehill.com/policy/defense/6025480-kilmeade-predicts-iran-war/",
       "summary": "Fox News’s Brian Kilmeade on Tuesday predicted a “kinetic war” between the U.S. and Iran will take place prior to Labor Day, just two months before the midterm elections. Kilmeade…",
       "publishedAt": "2026-08-12T17:54:47.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
+      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
+      "publishedAt": "2026-08-12T17:54:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
+      "summary": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century AP News",
+      "publishedAt": "2026-08-12T17:50:00.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "link": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/",
       "summary": "The Treasury Department on Tuesday officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes…",
       "publishedAt": "2026-08-12T17:47:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Fetterman says he won't campaign against McCormick",
-      "link": "https://thehill.com/homenews/senate/6025406-fetterman-wont-oppose-mccormick-2030/",
-      "summary": "Sen. John Fetterman (D-Penn.) said he would not campaign against Sen. Dave McCormick (R-Penn.) in 2030 if the Republican chooses to run for a second term. In remarks made to the…",
-      "publishedAt": "2026-08-12T17:36:27.000Z"
-    },
-    {
-      "source": "Washington Post",
-      "title": "How mainstream Democrats pulled off a big upset against a democratic socialist",
-      "link": "https://www.washingtonpost.com/politics/2026/08/12/how-david-crowley-upset-francesca-hong-wisconsins-primary-governor/",
-      "summary": "Supporters and detractors agreed that voters appeared to be increasingly worried over whether Hong could beat GOP nominee Tom Tiffany.",
-      "publishedAt": "2026-08-12T17:36:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
-      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
-      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
-      "publishedAt": "2026-08-12T17:36:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw?oc=5",
-      "summary": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit AP News",
-      "publishedAt": "2026-08-12T17:26:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.",
-      "link": "https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html",
-      "summary": "The agency that polices the industry does not have the staffing, the legal tools or the will to broadly crack down on wagers that are easily manipulated, experts say.",
-      "publishedAt": "2026-08-12T17:25:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "ICE plans to put electric-shock gloves on officers' hands",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ajRvUF85VmEyNGstUGttSm5rdi0zTy1qQ0FxZnJWVUZmeXVLRjI1UW9ySWxYLUNyVTgxbjd3QmlJMmhRVjFXQkR3RXNMQlU4Y3ZkNW56aHgxM1JCUlhlcmlSMHQ1QTl0OEZWM1NDY3k1cHI2d1E?oc=5",
-      "summary": "ICE plans to put electric-shock gloves on officers' hands Axios",
-      "publishedAt": "2026-08-12T17:17:50.000Z"
     }
   ]
 }
