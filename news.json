@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-12T17:31:56.035Z",
+  "updatedAt": "2026-08-12T17:42:44.825Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Fetterman says he won't campaign against McCormick",
+      "link": "https://thehill.com/homenews/senate/6025406-fetterman-wont-oppose-mccormick-2030/",
+      "summary": "Sen. John Fetterman (D-Penn.) said he would not campaign against Sen. Dave McCormick (R-Penn.) in 2030 if the Republican chooses to run for a second term. In remarks made to the…",
+      "publishedAt": "2026-08-12T17:36:27.000Z"
+    },
+    {
+      "source": "Washington Post",
+      "title": "How mainstream Democrats pulled off a big upset against a democratic socialist",
+      "link": "https://www.washingtonpost.com/politics/2026/08/12/how-david-crowley-upset-francesca-hong-wisconsins-primary-governor/",
+      "summary": "Supporters and detractors agreed that voters appeared to be increasingly worried over whether Hong could beat GOP nominee Tom Tiffany.",
+      "publishedAt": "2026-08-12T17:36:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
+      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
+      "publishedAt": "2026-08-12T17:36:02.000Z"
+    },
     {
       "source": "AP News",
       "title": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit",
@@ -17,17 +38,10 @@
       "publishedAt": "2026-08-12T17:25:53.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Why Were Polls So Wrong in Wisconsin?",
-      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
-      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
-      "publishedAt": "2026-08-12T17:22:30.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
       "link": "https://thehill.com/homenews/senate/6025443-tim-scott-darline-graham-south-carolina-senate/",
-      "summary": "Sen. Tim Scott (R-S.C.), the chairman of the National Republican Senatorial Committee (NRSC), announced Wednesday that he voted for Sen. Darline Graham (R-S.C.) and will support…",
+      "summary": "Sen. Tim Scott (R-S.C.), chair of the National Republican Senatorial Committee (NRSC), announced Wednesday that he voted for Sen. Darline Graham (R-S.C.) and will support her in…",
       "publishedAt": "2026-08-12T17:16:38.000Z"
     },
     {
@@ -57,20 +71,6 @@
       "link": "https://thehill.com/business/personal-finance/6025313-projected-2027-social-security-cola-adjusted-slightly-after-new-inflation-report/",
       "summary": "The formal COLA isn't expected for a couple of months, but projections say it could be one of the largest in years.",
       "publishedAt": "2026-08-12T16:55:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Minneapolis mayor proposes steepest levy hike in recent memory",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWZwYktpNlZxcVU2TElkR05QeXRyNWRibE1zeXNqRFBGVFZ3dldOcExRUVk0RmI4aGtRUnBxdnQ2cXBHV3dBNWNadk4zQ25IV1E4NDZUNFhhbGJZVVJXWDY0ODhYUHhtdmlnVk5jQmQyWHdidVJ6a2RpZzZ5d1ZPS05NWVdsQVZlOTVrbFZkb1V5akhIRXNfb0ZIVnlCeTBJOHF6eEFwMENZZl9fNGc?oc=5",
-      "summary": "Minneapolis mayor proposes steepest levy hike in recent memory Axios",
-      "publishedAt": "2026-08-12T16:48:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "6 things to know about Marco Rubio's joint interview with wife, Jeanette, on Katie Miller's podcast",
-      "link": "https://thehill.com/homenews/administration/6025167-rubio-family-life-podcast/",
-      "summary": "Secretary of State Marco Rubio shared more than usual about his personal life in a Tuesday interview alongside his wife, Jeanette, on Katie Miller’s weekly podcast. His candid…",
-      "publishedAt": "2026-08-12T16:40:04.000Z"
     }
   ]
 }
