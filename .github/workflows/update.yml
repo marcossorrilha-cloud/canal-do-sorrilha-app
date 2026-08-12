@@ -1,0 +1,65 @@
+name: Atualizar conteúdo do app
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      approval:
+        description: "Trump — Aprovação % (opcional)"
+        required: false
+      disapproval:
+        description: "Trump — Desaprovação % (opcional)"
+        required: false
+      net:
+        description: "Trump — Saldo líquido (opcional)"
+        required: false
+      trend:
+        description: "Trump — Texto de tendência (opcional)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-conteudo
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+
+      - name: Coletar notícias
+        run: node fetch-news.mjs
+        continue-on-error: true
+
+      - name: Coletar clipping (Substack)
+        run: node fetch-clipping.mjs
+        continue-on-error: true
+
+      - name: Atualizar aprovação de Trump
+        env:
+          TRUMP_APPROVAL: ${{ github.event.inputs.approval }}
+          TRUMP_DISAPPROVAL: ${{ github.event.inputs.disapproval }}
+          TRUMP_NET: ${{ github.event.inputs.net }}
+          TRUMP_TREND: ${{ github.event.inputs.trend }}
+        run: node fetch-trump.mjs
+        continue-on-error: true
+
+      - name: Commitar o que mudou
+        run: |
+          git config user.name "canal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json clipping.json trump.json
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "chore: atualização automática $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
