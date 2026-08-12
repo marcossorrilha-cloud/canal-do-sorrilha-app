@@ -1,11 +1,76 @@
 {
-  "updatedAt": "2026-08-11T12:00:00.000Z",
-  "count": 5,
+  "updatedAt": "2026-08-12T17:31:56.035Z",
+  "count": 10,
   "items": [
-    { "source": "Axios", "title": "Trump reduz o tom militar contra o Irã e aposta em pressão econômica", "link": "https://www.axios.com/2026/08/09/trump-iran-interview", "summary": "Após considerar nova ofensiva, presidente sinaliza preferir sanções e negociação sobre Hormuz.", "publishedAt": "2026-08-09T14:00:00.000Z" },
-    { "source": "AP News", "title": "Will Scharf será o novo advogado da Casa Branca", "link": "https://apnews.com/article/trump-white-house-counsel-will-scharf-c37ebefbd5786879d2ce2bedc5223133", "summary": "Ex-advogado pessoal de Trump assume o posto jurídico central da Presidência em 1º de setembro.", "publishedAt": "2026-08-09T12:00:00.000Z" },
-    { "source": "Axios", "title": "Max Miller permanece na disputa e expõe distrito republicano de Ohio", "link": "https://www.axios.com/2026/08/09/ohio-gop-max-miller-7th-district-moreno-2026", "summary": "Deputado nega acusações e obriga GOP a defender cadeira vulnerável rumo às midterms.", "publishedAt": "2026-08-09T10:00:00.000Z" },
-    { "source": "AP News", "title": "ICE promete câmeras corporais para todos os agentes até o fim de agosto", "link": "https://apnews.com/article/84a5b1eaa26a4d0e165f4a31a7ed9773", "summary": "Expansão ocorre após mortes em operações, mas agência mantém controle sobre divulgação das imagens.", "publishedAt": "2026-08-09T08:00:00.000Z" },
-    { "source": "Axios", "title": "Bernie Sanders pede pausa no desenvolvimento de IA e ameaça ação do Congresso", "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause", "summary": "Senador cobra OpenAI, Anthropic e Meta e antecipa disputa regulatória sobre segurança em IA.", "publishedAt": "2026-08-10T09:00:00.000Z" }
+    {
+      "source": "AP News",
+      "title": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw?oc=5",
+      "summary": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit AP News",
+      "publishedAt": "2026-08-12T17:26:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html",
+      "summary": "The agency that polices the industry does not have the staffing, the legal tools or the will to broadly crack down on wagers that are easily manipulated, experts say.",
+      "publishedAt": "2026-08-12T17:25:53.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Why Were Polls So Wrong in Wisconsin?",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
+      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What…",
+      "publishedAt": "2026-08-12T17:22:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
+      "link": "https://thehill.com/homenews/senate/6025443-tim-scott-darline-graham-south-carolina-senate/",
+      "summary": "Sen. Tim Scott (R-S.C.), the chairman of the National Republican Senatorial Committee (NRSC), announced Wednesday that he voted for Sen. Darline Graham (R-S.C.) and will support…",
+      "publishedAt": "2026-08-12T17:16:38.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump-Backed Mike Lindell Loses Minnesota Governor Primary to Lisa Demuth",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/trump-lindell-minnesota-republican-primary.html",
+      "summary": "After his loss in the state’s Republican primary for governor, Mike Lindell, a leading election denier, floated familiar, baseless claims of “anomalies” in his double-digit defeat.",
+      "publishedAt": "2026-08-12T17:10:53.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Scoop: Private equity firms circle Trimble's transportation unit",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1NmZlJ4Skt1NDM3UUJkZ3o3Q0hkcXhSN2Q2YldlN0FDRE1hOURuZldYYkozQ2tQUHVycWpXOXU3blh3ckpKRFc4Z09qcm10WmNaRDM1RjRjUmE4TEd2cjdqTkFXcDZ3a1pIMktTVURxYjRmX2Q3Yk5pYW02b3FuLV82Z2xRNGw4eElLS21mdXMwWlhGcS01ZXZ4SmVNbFlXZ2c?oc=5",
+      "summary": "Scoop: Private equity firms circle Trimble's transportation unit Axios",
+      "publishedAt": "2026-08-12T17:06:43.000Z"
+    },
+    {
+      "source": "Washington Post",
+      "title": "Minnesota is first state to set all-female matchups for the biggest races",
+      "link": "https://www.washingtonpost.com/politics/2026/08/12/minnesota-sets-all-female-matchups-governor-senate-elections/",
+      "summary": "Democratic Lt. Gov. Peggy Flanagan and Republican Michele Tafoya are running for Senate, while Sen. Amy Klobuchar (D) and state House Speaker Lisa Demuth are running for governor.",
+      "publishedAt": "2026-08-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Projected 2027 Social Security COLA adjusted slightly after new inflation report",
+      "link": "https://thehill.com/business/personal-finance/6025313-projected-2027-social-security-cola-adjusted-slightly-after-new-inflation-report/",
+      "summary": "The formal COLA isn't expected for a couple of months, but projections say it could be one of the largest in years.",
+      "publishedAt": "2026-08-12T16:55:31.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Minneapolis mayor proposes steepest levy hike in recent memory",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWZwYktpNlZxcVU2TElkR05QeXRyNWRibE1zeXNqRFBGVFZ3dldOcExRUVk0RmI4aGtRUnBxdnQ2cXBHV3dBNWNadk4zQ25IV1E4NDZUNFhhbGJZVVJXWDY0ODhYUHhtdmlnVk5jQmQyWHdidVJ6a2RpZzZ5d1ZPS05NWVdsQVZlOTVrbFZkb1V5akhIRXNfb0ZIVnlCeTBJOHF6eEFwMENZZl9fNGc?oc=5",
+      "summary": "Minneapolis mayor proposes steepest levy hike in recent memory Axios",
+      "publishedAt": "2026-08-12T16:48:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "6 things to know about Marco Rubio's joint interview with wife, Jeanette, on Katie Miller's podcast",
+      "link": "https://thehill.com/homenews/administration/6025167-rubio-family-life-podcast/",
+      "summary": "Secretary of State Marco Rubio shared more than usual about his personal life in a Tuesday interview alongside his wife, Jeanette, on Katie Miller’s weekly podcast. His candid…",
+      "publishedAt": "2026-08-12T16:40:04.000Z"
+    }
   ]
 }
