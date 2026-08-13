@@ -1,24 +1,26 @@
 {
-  "updatedAt": "2026-08-13T12:00:00.000Z",
-  "day": "",
+  "updatedAt": "2026-08-13T13:37:36.144Z",
+  "day": "2026-08-13",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
-      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
-      "source": "Imprensa de esquerda",
-      "coverage": 3
+      "title": "Veja o Eclipse Solar Europeu de 2026, em Fotos e Vídeos",
+      "titleOriginal": "See the 2026 European Solar Eclipse, in Photos and Videos",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHNVSlBqVV9QRDNZSHhndjBNWDVYU3pQckI0amgxTXFKdHZ1QW96SFhhSTYtZnJYLXJjZ0FDSkFpZGR2ODR5UGhWRVJ0Yi1ZR2o4SmZfT0hkLXQ5MzdZZEZwdXZEbDNVNEFXa2dlcXhrWjJIZkh3NUxGWUhQOFpuZGZUeTVHOUE?oc=5",
+      "source": "New York Times",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
-      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
-      "source": "Imprensa de direita",
-      "coverage": 3
+      "title": "Fraudadores facilitaram centenas de casamentos com Green Card para cidadãos chineses",
+      "titleOriginal": "Fraudsters Facilitated Hundreds Of Green Card Marriages For Chinese Nationals",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNbWpTNk1aekpiVk9DT2JYY3ZkSWp3QWlqTG5hbVFBcThSVUxwWHFOSkFuTWMxVmY2WnVfZEc1dGNxY3RPbXdtSlpOVV9MbVJqa3ZnVkktb0VJMEVaX3I2SVR5YWhEeDh4TU91a0d3VTlQSzV2YTFoWDBwNy1nV2l5MFA4amJzVGd3eHlqSUtMMWZZdk4tcE95azkxeGpQd3FKTHBMelcwYUNVeUJQUHRPRUJtQmRaZFFtTGp1M2ZEcWo0d2YxME1ldTMydzJuOW1POGdlaHVSN3lNMUNMaDlxbXNweDRoNE9kQ25qcUd3cjh1cWVMQjhJLWpPeGtwZ3lCYkhXSHVTRGlIcnFZOWRhQ1hLdlRiZ0I4TlZjNWd2bjBtdDRMZDdrdWRPOU0tdWFWeGo5U2YxQ1cxLXdqU19aZUloSU9oS2g3QVpPUmVib2pTWVl0aFVLU0hmcTk5QzFsYW1GMko4OERqNzM5cERfVkJZQkJxTkNNQmxZOE5vOWYxYzRIRXZkSkd0ZlBfVXJy?oc=5",
+      "source": "Daily Wire",
+      "coverage": 4
     }
   ]
 }
