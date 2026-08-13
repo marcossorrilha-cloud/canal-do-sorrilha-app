@@ -1,9 +1,13 @@
 name: Atualizar conteúdo do app
 
+# Roda de hora em hora e atualiza notícias, clipping e aprovação de Trump.
+# Cada arquivo só gera commit se realmente mudou, então não há "barulho".
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"      # toda hora cheia (UTC)
   workflow_dispatch:
+    # Rodada manual. Para forçar a aprovação de Trump na mão, preencha os campos;
+    # deixe em branco para coleta automática.
     inputs:
       approval:
         description: "Trump — Aprovação % (opcional)"
@@ -52,11 +56,15 @@ jobs:
         run: node fetch-trump.mjs
         continue-on-error: true
 
+      - name: Calcular Blind Spot (1x/dia)
+        run: node fetch-blindspot.mjs
+        continue-on-error: true
+
       - name: Commitar o que mudou
         run: |
           git config user.name "canal-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json clipping.json trump.json
+          git add news.json clipping.json trump.json blindspot.json
           if git diff --cached --quiet; then
             echo "Nada mudou."
           else
