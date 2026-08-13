@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-13T13:37:31.674Z",
+  "updatedAt": "2026-08-13T13:53:20.990Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump renova pressão sobre o Senado para aprovar projeto de lei que torna o horário de verão permanente",
+      "titleOriginal": "Trump renews pressure on Senate to pass bill making daylight savings time permanent",
+      "link": "https://thehill.com/homenews/administration/6027083-trump-urges-senate-daylight-savings/",
+      "publishedAt": "2026-08-13T13:49:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Whole Foods faz recall de produtos adicionais feitos com pimenta jalapeño por causa de preocupações com salmonela",
+      "titleOriginal": "Whole Foods recalls additional products made with jalapeño peppers over salmonella concerns",
+      "link": "https://thehill.com/policy/healthcare/6026982-whole-foods-recalls-additional-products-made-with-jalapeno-peppers-over-salmonella-concerns/",
+      "publishedAt": "2026-08-13T13:49:22.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O Congresso deve proteger a pesquisa por trás das curas de amanhã",
@@ -38,6 +52,13 @@
       "publishedAt": "2026-08-13T12:49:44.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Índice de preços ao produtor dos EUA inalterado em julho",
+      "titleOriginal": "U.S. Producer-Price Index Unchanged in July",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1ZUSlduYXZ1TzN5OEhNak5scGJhY0dxVXdhZy0xUlRCc1MxOVhmYmRYTHVDQXRiSVY2bEw5T3UzZzFPZEY1R2FwTVBkMWVvRkwzLU5CczNhUGEyUU9qTHlQcmYwSmlkcXluMS04OEF4T0F6VkUyRUdSbkZEbE9jWDhLY0x6OXZzT2VmSDVUSzB5UG5GNTR1WGwxSQ?oc=5",
+      "publishedAt": "2026-08-13T12:48:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Os recalls da Taylor Farms estão conectados?",
       "titleOriginal": "Are the Taylor Farms recalls connected?",
@@ -49,28 +70,7 @@
       "title": "Exclusivo: Startup ganha dinheiro por solução de rede “massiva”",
       "titleOriginal": "Exclusive: Startup gets cash for \"massive\" grid solution",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nOUpWQlZPeG1PeTRrRTMyUUQ3NVJwXzljby1BNktsZ00zdy1RMTFBdlJOQkx5cDE0UXRfRzllR3pQVC1YVjFQYmpaWTd4QkQ1dFBoUUgyMVY5ZDNsR2RuVFBrYnZvY0dKUGtUQWFUcjFWQ1JoMU8zZmFn?oc=5",
-      "publishedAt": "2026-08-13T12:32:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Lei de Segurança de Veículos Conectados envolve mais do que apenas segurança",
-      "titleOriginal": "The Connected Vehicle Security Act is about more than just security",
-      "link": "https://thehill.com/opinion/technology/6025338-cvsa-security-automotive-innovation/",
-      "publishedAt": "2026-08-13T12:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "PGA Tour olha para Colorado para novo evento",
-      "titleOriginal": "PGA Tour eyes Colorado for new event",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0o2czEyTElza2R0RGxDdWZrRmlFY0pFTzUxM1VaalFUVHY0M05mYUpaNWhxVGZTMkY4Q01xcGI1N2RPVTJsei1GQ2pJRGxfNmhhTE9fWF82SGUxQ09ZQXdPeDk2MTFyQmE1UEEzZlF1TDVyNVlrRnlwZzI4VDhRc1h3?oc=5",
-      "publishedAt": "2026-08-13T12:26:39.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O príncipe herdeiro do Japão, Akishino, tem “sentimentos confusos” sobre a revisão da lei de sucessão imperial exclusiva para homens",
-      "titleOriginal": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
-      "publishedAt": "2026-08-13T12:26:00.000Z"
+      "publishedAt": "2026-08-13T12:32:20.000Z"
     }
   ]
 }
