@@ -8,7 +8,8 @@
     "fetch:news": "node fetch-news.mjs",
     "fetch:clipping": "node fetch-clipping.mjs",
     "fetch:trump": "node fetch-trump.mjs",
-    "fetch:all": "node fetch-news.mjs && node fetch-clipping.mjs && node fetch-trump.mjs"
+    "fetch:blindspot": "node fetch-blindspot.mjs",
+    "fetch:all": "node fetch-news.mjs && node fetch-clipping.mjs && node fetch-trump.mjs && node fetch-blindspot.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

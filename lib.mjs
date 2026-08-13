@@ -68,3 +68,43 @@ export function toTime(dateStr) {
   const t = Date.parse(dateStr || "");
   return Number.isFinite(t) ? t : 0;
 }
+
+// Traduz um texto EN -> PT-BR. Usa o endpoint gratuito do Google e, se falhar,
+// o MyMemory; se ambos falharem, devolve o texto original (nunca quebra).
+export async function translateToPt(text) {
+  const t = String(text || "").trim();
+  if (!t) return "";
+
+  // 1) Google (gtx, gratuito, sem chave)
+  try {
+    const url =
+      "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pt&dt=t&q=" +
+      encodeURIComponent(t);
+    const json = JSON.parse(await fetchText(url, { timeoutMs: 15000 }));
+    const out = (json[0] || []).map((seg) => (seg && seg[0]) || "").join("").trim();
+    if (out) return out;
+  } catch {}
+
+  // 2) MyMemory (gratuito, sem chave)
+  try {
+    const url =
+      "https://api.mymemory.translated.net/get?langpair=en|pt-BR&q=" +
+      encodeURIComponent(t);
+    const json = JSON.parse(await fetchText(url, { timeoutMs: 15000 }));
+    const out = (json && json.responseData && json.responseData.translatedText) || "";
+    if (out && !/MYMEMORY WARNING|QUOTA/i.test(out)) return out.trim();
+  } catch {}
+
+  // 3) fallback: original em inglês
+  return t;
+}
+
+// Traduz uma lista, com pequena pausa entre chamadas (evita rate-limit).
+export async function translateAll(texts) {
+  const out = [];
+  for (const t of texts) {
+    out.push(await translateToPt(t));
+    await new Promise((r) => setTimeout(r, 150));
+  }
+  return out;
+}

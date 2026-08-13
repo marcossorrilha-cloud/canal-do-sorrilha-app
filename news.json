@@ -1,76 +1,11 @@
 {
-  "updatedAt": "2026-08-13T12:35:56.968Z",
-  "count": 10,
+  "updatedAt": "2026-08-11T12:00:00.000Z",
+  "count": 5,
   "items": [
-    {
-      "source": "The Hill",
-      "title": "The Connected Vehicle Security Act is about more than just security",
-      "link": "https://thehill.com/opinion/technology/6025338-cvsa-security-automotive-innovation/",
-      "summary": "As automobiles become more connected, they also become potential targets for espionage, cyberattack and strategic disruption.",
-      "publishedAt": "2026-08-13T12:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "PGA Tour eyes Colorado for new event",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0o2czEyTElza2R0RGxDdWZrRmlFY0pFTzUxM1VaalFUVHY0M05mYUpaNWhxVGZTMkY4Q01xcGI1N2RPVTJsei1GQ2pJRGxfNmhhTE9fWF82SGUxQ09ZQXdPeDk2MTFyQmE1UEEzZlF1TDVyNVlrRnlwZzI4VDhRc1h3?oc=5",
-      "summary": "PGA Tour eyes Colorado for new event Axios",
-      "publishedAt": "2026-08-13T12:26:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "What's behind the recent drop in labor force participation?",
-      "link": "https://thehill.com/business/6026636-labor-force-dropping-analysis-st-louis-federal-reserve-bank/",
-      "summary": "Have people stopped looking for jobs?",
-      "publishedAt": "2026-08-13T12:12:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Big Insurance is trying to gut the No Surprises Act",
-      "link": "https://thehill.com/opinion/healthcare/6026050-insurers-attack-no-surprises-act/",
-      "summary": "The House and Senate should investigate this attempt to gut their signature patient protection law.",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "On the Ballot: What went wrong for Hong in Wisconsin?",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6025407-on-the-ballot-francesca-hong-wisconsin-governor-loss/",
-      "summary": "Democratic socialist Francesca Hong lost Wisconsin’s Democratic primary for governor this week, defying expectations and dealing a blow to progressives in the Midwest. Polls had…",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "2 soldiers killed in Texas helicopter crash",
-      "link": "https://thehill.com/policy/defense/6026762-army-helicopter-crash-army-2-dead/",
-      "summary": "Two Fort Hood soldiers were killed after an Army helicopter crashed Wednesday in Central Texas, local authorities and military officials said. The aircraft, an AH-64 Apache attack…",
-      "publishedAt": "2026-08-13T11:56:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Inc. 5000 list includes 50+ Louisiana companies",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlUNXhwUzVPd0dXeEFKWXlpT0xLVHNtaTloWHpJRUVoVWxFdTdWUUhfVVR5YUZtZHlSYW9ZMFBfTUJEbUxSY1VXYnNfRjBIb1RRb0NFN1c5NVZjZ1h4RE9mMGFiVXJmQTVGSlJqRkdNUFZNVFlBUEE4UGxXVXkxMF9EdXliUGRwc3Y5QXJWN1VhbnRPOHAybmJMS1I?oc=5",
-      "summary": "Inc. 5000 list includes 50+ Louisiana companies Axios",
-      "publishedAt": "2026-08-13T11:42:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "CDC has made sure detransitioners are no longer invisible",
-      "link": "https://thehill.com/opinion/healthcare/5992273-cdc-adds-detransitioner-codes/",
-      "summary": "These patients deserve a medical system that recognizes them, because recognition is the first step to ensuring they get the right care.",
-      "publishedAt": "2026-08-13T11:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "What could happen in Benton County judge race after nominee's arrest",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWJXNjZzMmQyTGNFMFRJNVNqZ182ZXN4dTJJR1NySms2djNFYjd3cFNIYnNOSE9wV0R6V0k2REVXa21ZY28taUVpbHVENUVBSVNmbF9BcWlDemtKb2JNaGJaSWpsVjhPUnFReXdwVXByQVlud1hwUTBOZ1ROd0VSSkoxUEpSMzI1Qi0xTTlmNDhXOWFjR0lCalR1NG05V2tieHIxYTFmejlLYkdURjE3dno0anBqVXpzMTRj?oc=5",
-      "summary": "What could happen in Benton County judge race after nominee's arrest Axios",
-      "publishedAt": "2026-08-13T11:28:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Over 3,700 Austin-area students are using Texas' new school vouchers",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFQwQlBnUEdva216aThqbGd2SmJncjFmbEJpVDNPNFhoUWZZZy0xUldnTnJ5RUlRWHNJRGxCMWUzSHg0bThRQjd3eUpXVFhyTkxZUjU5eFJBZ3NsRE9uSnMyb2pZT3Rrd3dRRXg0RGVydXozOFJfUWN5VFNKZk9mTUtkWTdrZFd1c0NXU3pGZjZFLUFyRDUxZ1didkI?oc=5",
-      "summary": "Over 3,700 Austin-area students are using Texas' new school vouchers Axios",
-      "publishedAt": "2026-08-13T11:21:23.000Z"
-    }
+    { "source": "Axios", "title": "Trump reduz o tom militar contra o Irã e aposta em pressão econômica", "link": "https://www.axios.com/2026/08/09/trump-iran-interview", "summary": "Após considerar nova ofensiva, presidente sinaliza preferir sanções e negociação sobre Hormuz.", "publishedAt": "2026-08-09T14:00:00.000Z" },
+    { "source": "AP News", "title": "Will Scharf será o novo advogado da Casa Branca", "link": "https://apnews.com/article/trump-white-house-counsel-will-scharf-c37ebefbd5786879d2ce2bedc5223133", "summary": "Ex-advogado pessoal de Trump assume o posto jurídico central da Presidência em 1º de setembro.", "publishedAt": "2026-08-09T12:00:00.000Z" },
+    { "source": "Axios", "title": "Max Miller permanece na disputa e expõe distrito republicano de Ohio", "link": "https://www.axios.com/2026/08/09/ohio-gop-max-miller-7th-district-moreno-2026", "summary": "Deputado nega acusações e obriga GOP a defender cadeira vulnerável rumo às midterms.", "publishedAt": "2026-08-09T10:00:00.000Z" },
+    { "source": "AP News", "title": "ICE promete câmeras corporais para todos os agentes até o fim de agosto", "link": "https://apnews.com/article/84a5b1eaa26a4d0e165f4a31a7ed9773", "summary": "Expansão ocorre após mortes em operações, mas agência mantém controle sobre divulgação das imagens.", "publishedAt": "2026-08-09T08:00:00.000Z" },
+    { "source": "Axios", "title": "Bernie Sanders pede pausa no desenvolvimento de IA e ameaça ação do Congresso", "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause", "summary": "Senador cobra OpenAI, Anthropic e Meta e antecipa disputa regulatória sobre segurança em IA.", "publishedAt": "2026-08-10T09:00:00.000Z" }
   ]
 }
