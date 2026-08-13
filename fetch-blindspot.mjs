@@ -78,6 +78,34 @@ function cleanTitle(t = "") {
   return stripHtml(t).replace(/\s+-\s+[^-]+$/, "").trim();
 }
 
+// Só interessam histórias de POLÍTICA (evita eclipse, esporte, celebridade...).
+// Mantém itens cujo título tenha algum termo político.
+const POLITICS = [
+  "trump", "biden", "harris", "vance", "newsom", "desantis", "obama", "pelosi",
+  "mcconnell", "johnson", "schumer", "aoc", "musk",
+  "congress", "senate", "house", "senator", "representative", "lawmaker",
+  "republican", "democrat", "gop", "maga", "bipartisan",
+  "election", "campaign", "midterm", "primary", "ballot", "vote", "voter",
+  "poll", "approval", "caucus", "redistrict",
+  "white house", "president", "presidential", "administration", "cabinet",
+  "governor", "mayor", "attorney general", "secretary",
+  "supreme court", "scotus", "justice", "court", "doj", "fbi", "indict",
+  "impeach", "subpoena", "pardon", "grand jury", "lawsuit",
+  "immigration", "ice", "border", "deportation", "asylum", "migrant",
+  "tariff", "sanction", "trade war", "shutdown", "budget", "spending",
+  "debt ceiling", "filibuster", "veto", "executive order", "legislation",
+  "bill", "law", "policy", "politic", "capitol", "federal", "nomination",
+  "confirmation", "senate hearing", "congressional",
+  "foreign policy", "state department", "pentagon", "nato", "ukraine",
+  "israel", "gaza", "iran", "china", "russia", "putin", "zelensky",
+  "abortion", "guns", "gun control", "healthcare", "medicare", "medicaid",
+  "epstein", "diplomacy", "sanctions", "treaty", "national guard",
+];
+function isPolitics(title = "") {
+  const t = title.toLowerCase();
+  return POLITICS.some((k) => t.includes(k));
+}
+
 async function collect(map, side) {
   const out = [];
   for (const [domain, name] of Object.entries(map)) {
@@ -147,9 +175,15 @@ async function main() {
   const [left, right] = await Promise.all([collect(LEFT, "left"), collect(RIGHT, "right")]);
   const items = [...left, ...right].sort((a, b) => b._t - a._t);
 
-  // dedup por link e agrupamento por assunto
+  // mantém só política e remove duplicados por link
   const seen = new Set();
-  const uniq = items.filter((i) => (seen.has(i.link) ? false : seen.add(i.link)));
+  const uniq = items.filter((i) => {
+    if (!isPolitics(i.title)) return false;
+    if (seen.has(i.link)) return false;
+    seen.add(i.link);
+    return true;
+  });
+  console.log(`  · itens de política: ${uniq.length} (de ${items.length})`);
   const clusters = [];
   for (const it of uniq) {
     const c = clusters.find((cl) => sameTopic(cl.seed, it._tok));
