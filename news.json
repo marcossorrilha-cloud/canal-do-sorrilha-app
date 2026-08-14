@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-14T15:38:08.772Z",
+  "updatedAt": "2026-08-14T18:35:50.564Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Como não corrigir a Resolução sobre os Poderes de Guerra",
-      "titleOriginal": "How not to fix the War Powers Resolution",
-      "link": "https://thehill.com/opinion/white-house/6029248-larson-bill-war-powers-failed/",
-      "publishedAt": "2026-08-14T15:30:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como 10.000 cidades americanas receberam seus nomes",
-      "titleOriginal": "How 10,000 American Cities Got Their Names",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-14T15:24:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pirro anuncia acusações no caso de vandalismo relacionado à Segunda Guerra Mundial",
-      "titleOriginal": "Pirro announces charges in WWII vandalism case",
-      "link": "https://thehill.com/homenews/administration/6029979-woman-charged-wwii-memorial-vandalism/",
-      "publishedAt": "2026-08-14T15:03:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quantas pessoas realmente têm ciclosporíase? Por que é tão difícil rastrear?",
-      "titleOriginal": "How many people actually have cyclosporiasis? Why it's so hard to track",
-      "link": "https://thehill.com/policy/healthcare/6028033-why-cyclosporiasis-cases-are-hard-to-track/",
-      "publishedAt": "2026-08-14T15:01:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A FDA atribui a classificação de Classe I, de risco máximo, ao recall de quase 1,6 milhão de caixas de ovos",
-      "titleOriginal": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs",
-      "link": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
-      "publishedAt": "2026-08-14T14:54:26.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Governo de Trump pede à Suprema Corte que autorize o uso do salão de baile da Casa Branca",
-      "titleOriginal": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
-      "publishedAt": "2026-08-14T14:45:48.000Z"
+      "title": "Ela costurou os trajes de voo dos Blue Angels. Depois, uma grande empresa ficou com o trabalho.",
+      "titleOriginal": "She Sewed the Blue Angels’ Flight Suits. Then a Big Company Got the Job.",
+      "link": "https://www.nytimes.com/2026/08/14/us/blue-angels-uniforms-contract-shop.html",
+      "publishedAt": "2026-08-14T18:16:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Tesla solicitou autorização para 5.000 robotáxis em Las Vegas. Recebeu 10.",
+      "titleOriginal": "Tesla sought permit for 5,000 robotaxis in Las Vegas. It got 10.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3hUaExYalVoeUVRYWczeGVJTTItbmVRYWZmby16eUhQN2I3eTFBbzJOUUx6b0hKOXRYb0xnbC1zQzY3U0JsN01uTjI5RUV1NXk1LTFMTEZvbnNBVXhzTk81dEdMd1M1Q2ZhLWVienNQSDQ4VGRYSmFpaEJiNTJaVUUxUnFEa05ydkVFOG9ySFFkanR0MjdDQ1BR?oc=5",
+      "publishedAt": "2026-08-14T18:11:41.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump minimiza as preocupações sobre o USS Abraham Lincoln",
+      "titleOriginal": "Trump shrugs off concerns about USS Abraham Lincoln",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5",
+      "publishedAt": "2026-08-14T18:10:23.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A mensagem do acordo de Meca para Washington",
-      "titleOriginal": "The Mecca agreement's message to Washington",
-      "link": "https://thehill.com/opinion/national-security/6027593-mecca-joint-defense-agreement/",
-      "publishedAt": "2026-08-14T14:30:00.000Z"
+      "title": "Assista ao vivo: Trump destaca a repressão federal ao crime em comício em Nova York",
+      "titleOriginal": "Watch live: Trump touts federal crackdown on crime at New York rally",
+      "link": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
+      "publishedAt": "2026-08-14T18:03:12.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suspeito é preso por vandalismo no Memorial da Segunda Guerra Mundial, em Washington",
+      "titleOriginal": "Suspect arrested in World War II Memorial vandalism in Washington",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
+      "publishedAt": "2026-08-14T17:40:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A vontade de viajar dos americanos atinge novos patamares",
+      "titleOriginal": "Americans' wanderlust hits new heights",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZ0ZCYlVaeFBKMWdTeHN1aWJ1MnlReWlqZTU2UTdpWGVRZkhJZC1uSG1NbTZfNG91Zm9mczhKVHZ4UGJWWW9QNTdhSWVsb0FNZUV1ZDAyZFRlLUJQVzgyR0lrcE5SNTVTLWVnSGZrWlBoZk1xUzdWNmY5VEQ?oc=5",
+      "publishedAt": "2026-08-14T17:30:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Exclusivo da AP: Escolas em bases militares dos EUA dão nova ênfase à civilização ocidental e ao cristianismo",
+      "titleOriginal": "AP Exclusive: US military base schools put new emphasis on Western civilization and Christianity",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
+      "publishedAt": "2026-08-14T17:30:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Vance insta o Departamento de Justiça a investigar hospitais quanto à cobrança por atendimento a pessoas transgênero",
-      "titleOriginal": "Vance urges DOJ investigation into hospitals over billing for transgender care",
-      "link": "https://thehill.com/policy/healthcare/6029844-vance-fraudulent-billing-gender-affirming-care/",
-      "publishedAt": "2026-08-14T14:28:30.000Z"
+      "title": "A EPA é processada por aprovar produtos químicos para semicondutores que podem representar riscos à saúde",
+      "titleOriginal": "EPA sued for approving semiconductor chemicals that may pose health risks",
+      "link": "https://thehill.com/policy/energy-environment/6030328-epa-chemical-approval-lawsuit/",
+      "publishedAt": "2026-08-14T17:23:42.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Kevin Rideout, missionário americano sequestrado no Níger, é libertado",
-      "titleOriginal": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
-      "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
-      "publishedAt": "2026-08-14T14:23:59.000Z"
+      "source": "Axios",
+      "title": "Os quartos dos dormitórios são minúsculos. Mas o mercado de decoração para dormitórios não é.",
+      "titleOriginal": "Dorm rooms are tiny. The dorm decor economy is not.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNUFGTFV0Q2QxWnpTY1JVdDdjamMzazlJZUltbEhUTUlHMm9Tc3o2ajBSZ2hFaDMtUDBXc0J4Sm5tY1E1Z1BQTXFZcHA3cnQ5a09WRHlzaGU4YnhzZk5VRk1UNEZrbHBwTmJj?oc=5",
+      "publishedAt": "2026-08-14T17:18:30.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "S&P se mantém estável após fechamento recorde",
-      "titleOriginal": "S&P Steady After Record Close",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTBNclR3NW5JUmZ1dEhGVVh1OUpyRFY2cVFvQjNiQnVDdmxuYVNvSEZZeURDZ2pfXzE4dzZ3OTdsaGlMc2xETTVHQS1BS2FOakt0SVJBMFl1NzAzLTI1UGd6QXdDbUZyblU4MTR4bVhWZTNlelRNZE5PTEs2elROdFlyNWJFZTlXOEprUW5sQWYzcEdn?oc=5",
-      "publishedAt": "2026-08-14T14:12:36.000Z"
+      "source": "AP News",
+      "title": "Um crédito inesperado após uma compra no exterior: os reembolsos de tarifas agora estão sendo repassados pelas transportadoras",
+      "titleOriginal": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk?oc=5",
+      "publishedAt": "2026-08-14T17:12:00.000Z"
     }
   ]
 }
