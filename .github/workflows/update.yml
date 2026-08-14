@@ -40,6 +40,8 @@ jobs:
       - run: npm install --no-audit --no-fund
 
       - name: Coletar notícias
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: node fetch-news.mjs
         continue-on-error: true
 
@@ -57,6 +59,8 @@ jobs:
         continue-on-error: true
 
       - name: Calcular Blind Spot (1x/dia)
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: node fetch-blindspot.mjs
         continue-on-error: true
 
