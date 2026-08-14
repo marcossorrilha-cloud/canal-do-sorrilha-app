@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-14T22:53:44.004Z",
+  "updatedAt": "2026-08-14T23:50:27.001Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Espaço no sul da Flórida cancela comício com a presença de uma deputada pró-palestina",
+      "titleOriginal": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html",
+      "publishedAt": "2026-08-14T23:34:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rove: Trump precisa parar de “manipular” os americanos em relação à economia",
+      "titleOriginal": "Rove: Trump must stop 'gaslighting' Americans over economy",
+      "link": "https://thehill.com/homenews/administration/6030997-rove-criticizes-trump-economy/",
+      "publishedAt": "2026-08-14T23:18:20.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Será que a política progressista do senador Ed Markey pode ajudá-lo a superar a questão da idade?",
+      "titleOriginal": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
+      "publishedAt": "2026-08-14T23:08:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Edição impressa | Wall Street Journal",
+      "titleOriginal": "Print Edition | Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
+      "publishedAt": "2026-08-14T23:07:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Senado inicia uma investigação sobre o Roblox devido a preocupações com a segurança",
+      "titleOriginal": "Senate launches investigation into Roblox due to safety concerns",
+      "link": "https://thehill.com/newsletters/technology/6030992-senate-launches-investigation-into-roblox-due-to-safety-concerns/",
+      "publishedAt": "2026-08-14T23:06:47.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O governador DeSantis é o mais recente a não apoiar o deputado Mills antes das primárias da Flórida",
@@ -14,14 +49,21 @@
       "title": "O mais recente modelo de peso aberto da China rivaliza com os modelos norte-americanos em termos de hacking",
       "titleOriginal": "China's latest open-weight model rivals U.S. models at hacking",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5",
-      "publishedAt": "2026-08-14T22:33:58.000Z"
+      "publishedAt": "2026-08-14T22:34:46.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por dentro da operação da Coreia do Norte para conquistar o mercado de trabalho americano",
-      "titleOriginal": "Inside North Korea’s Operation to Conquer the American Job Market",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV5blRwczVPcUExcUhuMXhkTzJjWFhUNmJvcGFxRGRPUXNVTDc5Y3lzcFlfQ0F3S3FhNGtOeG1nQWJ4SWZFNzdnSl9zLW81a05pRk42RXByRkdRbHNVVEpzcGVYb1RBMnZOQTd0dGJoUzhYLXFtbkwxSVJsUXRpTDhKem5XSjE1T21NbFo3VDdFQnNuM2FabGwwLThncl9SNXg2SUE3TXA2TVpT?oc=5",
-      "publishedAt": "2026-08-14T22:33:07.000Z"
+      "title": "Países do Golfo aceitam um novo normal no Estreito de Ormuz: o Irã está no controle",
+      "titleOriginal": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9iN0ctVVRidG0tcVJHSEZfSGVuZXQ5cU1BWFpWSWo2WlFmVGh3N25Ed3QwMWVRZGJpT1BRWjR3SzRqdEJWamowby1XbktQZzZET2MwVlR1ZFgxTlo5MUUxMElFYVRqdS1tTl9IRHJ0M3ZTbTNuckI1OEZKajB5Ny16QmRjU0JQNnJFb1FLakhjYU5wSjR1MFRDMFB3OGFtWVlETFRXcnpfRDg?oc=5",
+      "publishedAt": "2026-08-14T22:32:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Família do cofundador da Ryanair coloca à venda fazenda de cavalos no Kentucky por US$ 57,5 milhões",
+      "titleOriginal": "Exclusive | Ryanair Co-Founder’s Family Lists Kentucky Horse Farm for $57.5 Million",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2FiWjgzWFg4emV0TkN4ZDhPaE9CS2xBM2lVMVdaeUpfaThPem0tVlhlOHFkaC1VbWNXbmd1UE1jSTFWd2YzQ3M1dE01QmRpZGU1RW9iSFhJMTQtUDFPcEoxX25kSHFBdTExVm4tenRyS1hFS0QtalVnSHdzRjhHVTNfM0RPSW40TXA3WTlnV1pSaThhdWc?oc=5",
+      "publishedAt": "2026-08-14T22:31:37.000Z"
     },
     {
       "source": "AP News",
@@ -29,48 +71,6 @@
       "titleOriginal": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
       "publishedAt": "2026-08-14T22:27:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump descarta relatos sobre condições precárias a bordo do USS Abraham Lincoln",
-      "titleOriginal": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-      "publishedAt": "2026-08-14T22:14:44.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Um novo hotel de luxo cancelou a reserva de um YouTuber no valor de US$ 4.663. Em seguida, surgiu a briga que viralizou.",
-      "titleOriginal": "Exclusive | A New Luxury Hotel Canceled a YouTuber’s $4,663 Stay. Then Came the Viral Feud.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzhwWU1IT3ZWd1pucEJRNnVUSExWQUxpTi1xUE5POGM1cmtIdkpPM1ZpbzUzUXg0bGd3MWpITmxiZ0hWWTRXWEFBdEYzVDhuaVRzWnBkWnRIdUgwS09zM3pnLXFGUWh5enc4ZjlHeXZDcXBPMWZ6c0RPVDhVd1NUbWgzN1BsQQ?oc=5",
-      "publishedAt": "2026-08-14T22:12:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | As novas preferências raciais nas admissões universitárias",
-      "titleOriginal": "Opinion | The New College Race Preferences",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMm1XM3F4OGdDSTlsS200X0dPZkthMHhrczJ1bGNIYW9OM2I5OUtCQ3lobzZMS052MmdWWDhBUUpCTEozRFEwSVJXamNjU3lCaXJqclM3MV9MSThLd3RlX3FQbDFyeUt6MnhfSlpCdmcwWGwxZ2wxRXlodEFSMHJKeE53RVBMVTZOMGZQaE5CaGVjMGhjWnZV?oc=5",
-      "publishedAt": "2026-08-14T22:06:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump intensifica a luta contra os cuidados de saúde para pessoas transgênero",
-      "titleOriginal": "Trump admin escalates fight against transgender care",
-      "link": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/",
-      "publishedAt": "2026-08-14T22:00:04.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Será que a política progressista do senador Ed Markey pode ajudá-lo a superar a questão da idade?",
-      "titleOriginal": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
-      "publishedAt": "2026-08-14T21:57:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A democrata do Alasca, Mary Peltola, rejeita o apoio de Kamala Harris",
-      "titleOriginal": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
-      "publishedAt": "2026-08-14T21:49:49.000Z"
     }
   ]
 }
