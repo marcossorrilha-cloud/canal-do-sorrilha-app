@@ -69,13 +69,49 @@ export function toTime(dateStr) {
   return Number.isFinite(t) ? t : 0;
 }
 
-// Traduz um texto EN -> PT-BR. Usa o endpoint gratuito do Google e, se falhar,
-// o MyMemory; se ambos falharem, devolve o texto original (nunca quebra).
+// Traduz EN -> PT-BR. Ordem de qualidade: DeepL (se houver chave) > Google > MyMemory,
+// e por fim o texto original (nunca quebra).
+//
+// Para usar o DeepL, defina a variável de ambiente DEEPL_API_KEY (no GitHub, um "secret").
+// Chave gratuita termina em ":fx" e usa o host api-free; chave paga usa o host normal.
+async function viaDeepL(text) {
+  const key = (process.env.DEEPL_API_KEY || "").trim();
+  if (!key) return null;
+  const host = key.endsWith(":fx") ? "https://api-free.deepl.com" : "https://api.deepl.com";
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 15000);
+  try {
+    const res = await fetch(host + "/v2/translate", {
+      method: "POST",
+      signal: ctrl.signal,
+      headers: {
+        Authorization: "DeepL-Auth-Key " + key,
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: new URLSearchParams({ text, source_lang: "EN", target_lang: "PT-BR" }),
+    });
+    if (!res.ok) throw new Error("DeepL HTTP " + res.status);
+    const json = await res.json();
+    const out = json && json.translations && json.translations[0] && json.translations[0].text;
+    return out ? out.trim() : null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 export async function translateToPt(text) {
   const t = String(text || "").trim();
   if (!t) return "";
 
-  // 1) Google (gtx, gratuito, sem chave)
+  // 1) DeepL (melhor qualidade; só se houver chave)
+  try {
+    const out = await viaDeepL(t);
+    if (out) return out;
+  } catch (e) {
+    console.warn("  ! DeepL falhou: " + e.message);
+  }
+
+  // 2) Google (gtx, gratuito, sem chave)
   try {
     const url =
       "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pt&dt=t&q=" +
@@ -85,7 +121,7 @@ export async function translateToPt(text) {
     if (out) return out;
   } catch {}
 
-  // 2) MyMemory (gratuito, sem chave)
+  // 3) MyMemory (gratuito, sem chave)
   try {
     const url =
       "https://api.mymemory.translated.net/get?langpair=en|pt-BR&q=" +
@@ -95,7 +131,7 @@ export async function translateToPt(text) {
     if (out && !/MYMEMORY WARNING|QUOTA/i.test(out)) return out.trim();
   } catch {}
 
-  // 3) fallback: original em inglês
+  // 4) fallback: original em inglês
   return t;
 }
 
