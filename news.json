@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-14T18:35:50.564Z",
+  "updatedAt": "2026-08-14T20:17:55.720Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Edição impressa | Wall Street Journal",
+      "titleOriginal": "Print Edition | Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
+      "publishedAt": "2026-08-14T20:07:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O USS Abraham Lincoln está voltando para casa, afirma o secretário interino da Marinha",
+      "titleOriginal": "USS Abraham Lincoln is returning home, Acting Navy Secretary says",
+      "link": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
+      "publishedAt": "2026-08-14T20:06:07.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Ela costurou os trajes de voo dos Blue Angels. Depois, uma grande empresa ficou com o trabalho.",
-      "titleOriginal": "She Sewed the Blue Angels’ Flight Suits. Then a Big Company Got the Job.",
-      "link": "https://www.nytimes.com/2026/08/14/us/blue-angels-uniforms-contract-shop.html",
-      "publishedAt": "2026-08-14T18:16:14.000Z"
+      "title": "John Carro, jurista que teve um encontro inicial com Lee Harvey Oswald, morre aos 98 anos",
+      "titleOriginal": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html",
+      "publishedAt": "2026-08-14T20:04:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A Tesla solicitou autorização para 5.000 robotáxis em Las Vegas. Recebeu 10.",
-      "titleOriginal": "Tesla sought permit for 5,000 robotaxis in Las Vegas. It got 10.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3hUaExYalVoeUVRYWczeGVJTTItbmVRYWZmby16eUhQN2I3eTFBbzJOUUx6b0hKOXRYb0xnbC1zQzY3U0JsN01uTjI5RUV1NXk1LTFMTEZvbnNBVXhzTk81dEdMd1M1Q2ZhLWVienNQSDQ4VGRYSmFpaEJiNTJaVUUxUnFEa05ydkVFOG9ySFFkanR0MjdDQ1BR?oc=5",
-      "publishedAt": "2026-08-14T18:11:41.000Z"
+      "source": "New York Times",
+      "title": "Os 5 deputados cujas famílias mais negociam ações",
+      "titleOriginal": "The 5 Congress Members Whose Families Trade the Most Stocks",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
+      "publishedAt": "2026-08-14T19:46:35.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump minimiza as preocupações sobre o USS Abraham Lincoln",
-      "titleOriginal": "Trump shrugs off concerns about USS Abraham Lincoln",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5",
-      "publishedAt": "2026-08-14T18:10:23.000Z"
+      "source": "New York Times",
+      "title": "A negociação de ações no Congresso se torna um argumento de ataque nas campanhas para as eleições de meio de mandato",
+      "titleOriginal": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
+      "publishedAt": "2026-08-14T19:45:33.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump destaca a repressão federal ao crime em comício em Nova York",
-      "titleOriginal": "Watch live: Trump touts federal crackdown on crime at New York rally",
-      "link": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
-      "publishedAt": "2026-08-14T18:03:12.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Suspeito é preso por vandalismo no Memorial da Segunda Guerra Mundial, em Washington",
-      "titleOriginal": "Suspect arrested in World War II Memorial vandalism in Washington",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-      "publishedAt": "2026-08-14T17:40:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A vontade de viajar dos americanos atinge novos patamares",
-      "titleOriginal": "Americans' wanderlust hits new heights",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZ0ZCYlVaeFBKMWdTeHN1aWJ1MnlReWlqZTU2UTdpWGVRZkhJZC1uSG1NbTZfNG91Zm9mczhKVHZ4UGJWWW9QNTdhSWVsb0FNZUV1ZDAyZFRlLUJQVzgyR0lrcE5SNTVTLWVnSGZrWlBoZk1xUzdWNmY5VEQ?oc=5",
-      "publishedAt": "2026-08-14T17:30:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Exclusivo da AP: Escolas em bases militares dos EUA dão nova ênfase à civilização ocidental e ao cristianismo",
-      "titleOriginal": "AP Exclusive: US military base schools put new emphasis on Western civilization and Christianity",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
-      "publishedAt": "2026-08-14T17:30:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Stripe e Advent estão em negociações para adquirir o PayPal",
+      "titleOriginal": "Exclusive | Stripe, Advent in Talks to Buy PayPal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5",
+      "publishedAt": "2026-08-14T19:44:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A EPA é processada por aprovar produtos químicos para semicondutores que podem representar riscos à saúde",
-      "titleOriginal": "EPA sued for approving semiconductor chemicals that may pose health risks",
-      "link": "https://thehill.com/policy/energy-environment/6030328-epa-chemical-approval-lawsuit/",
-      "publishedAt": "2026-08-14T17:23:42.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os quartos dos dormitórios são minúsculos. Mas o mercado de decoração para dormitórios não é.",
-      "titleOriginal": "Dorm rooms are tiny. The dorm decor economy is not.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNUFGTFV0Q2QxWnpTY1JVdDdjamMzazlJZUltbEhUTUlHMm9Tc3o2ajBSZ2hFaDMtUDBXc0J4Sm5tY1E1Z1BQTXFZcHA3cnQ5a09WRHlzaGU4YnhzZk5VRk1UNEZrbHBwTmJj?oc=5",
-      "publishedAt": "2026-08-14T17:18:30.000Z"
+      "title": "Trump comemora o retorno do missionário norte-americano sequestrado na África Ocidental",
+      "titleOriginal": "Trump celebrates return of US missionary kidnapped in West Africa",
+      "link": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/",
+      "publishedAt": "2026-08-14T19:43:25.000Z"
     },
     {
       "source": "AP News",
-      "title": "Um crédito inesperado após uma compra no exterior: os reembolsos de tarifas agora estão sendo repassados pelas transportadoras",
-      "titleOriginal": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk?oc=5",
-      "publishedAt": "2026-08-14T17:12:00.000Z"
+      "title": "Trump afirma que o envio de uma força naval sem precedentes para apoiar as operações no Irã “não é nem de longe suficiente”",
+      "titleOriginal": "Trump says record-setting Navy deployment to support Iran operations 'not nearly long enough'",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVY0UXhLVGxQNngwZ3lKRjlhMVU0b01MLTVxQVBETlE2elRCc2U3U2t4SjVwVDMzd2hKWUFVUmo5MGZxMVNUTndLYkwzOTlHdy1lNkdMdncyOVQyNnoyOFhVQ2NOUERCWFNqNmloZXhwSzhBYkRuTk15UkJyM013RlJzd0p5MG9tX240eDVIUHg2dTY3RE94blZJMTV4NXRH?oc=5",
+      "publishedAt": "2026-08-14T19:42:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump discursa para a multidão em Long Island, com ênfase na redução da criminalidade",
+      "titleOriginal": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
+      "link": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
+      "publishedAt": "2026-08-14T19:27:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Filho do ex-presidente mexicano desafia Trump após revogação do visto",
+      "titleOriginal": "Son of former Mexican president challenges Trump after visa revoked",
+      "link": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/",
+      "publishedAt": "2026-08-14T19:16:50.000Z"
     }
   ]
 }
