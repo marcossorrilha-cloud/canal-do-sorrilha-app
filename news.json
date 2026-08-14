@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-14T20:17:55.720Z",
+  "updatedAt": "2026-08-14T21:52:37.661Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Edição impressa | Wall Street Journal",
-      "titleOriginal": "Print Edition | Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
-      "publishedAt": "2026-08-14T20:07:59.000Z"
+      "source": "New York Times",
+      "title": "A democrata do Alasca, Mary Peltola, rejeita o apoio de Kamala Harris",
+      "titleOriginal": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
+      "publishedAt": "2026-08-14T21:49:49.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O USS Abraham Lincoln está voltando para casa, afirma o secretário interino da Marinha",
-      "titleOriginal": "USS Abraham Lincoln is returning home, Acting Navy Secretary says",
-      "link": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
-      "publishedAt": "2026-08-14T20:06:07.000Z"
+      "title": "O USS Abraham Lincoln retorna ao porto de origem",
+      "titleOriginal": "USS Abraham Lincoln returning home",
+      "link": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
+      "publishedAt": "2026-08-14T21:39:25.000Z"
     },
     {
       "source": "New York Times",
       "title": "John Carro, jurista que teve um encontro inicial com Lee Harvey Oswald, morre aos 98 anos",
       "titleOriginal": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
       "link": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html",
-      "publishedAt": "2026-08-14T20:04:00.000Z"
+      "publishedAt": "2026-08-14T21:31:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz revoga liminar sobre o TPS para a Somália, abrindo caminho para as deportações",
+      "titleOriginal": "Judge lifts order on Somalia TPS, clearing way for deportations",
+      "link": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
+      "publishedAt": "2026-08-14T21:10:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As Forças Armadas reembolsarão os militares que congelarem óvulos e espermatozoides",
+      "titleOriginal": "Military to reimburse service members freezing eggs, sperm",
+      "link": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/",
+      "publishedAt": "2026-08-14T21:06:18.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Concessões de mineração demarcadas em terras retiradas dos monumentos Bears Ears e Grand Staircase",
+      "titleOriginal": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
+      "link": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html",
+      "publishedAt": "2026-08-14T21:04:28.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A indignação contra a UnitedHealth e outras seguradoras persiste após o assassinato de Brian Thompson",
+      "titleOriginal": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
+      "link": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
+      "publishedAt": "2026-08-14T21:02:34.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump descarta relatos sobre condições precárias a bordo do USS Abraham Lincoln",
+      "titleOriginal": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+      "publishedAt": "2026-08-14T20:59:22.000Z"
     },
     {
       "source": "New York Times",
       "title": "Os 5 deputados cujas famílias mais negociam ações",
       "titleOriginal": "The 5 Congress Members Whose Families Trade the Most Stocks",
       "link": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
-      "publishedAt": "2026-08-14T19:46:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A negociação de ações no Congresso se torna um argumento de ataque nas campanhas para as eleições de meio de mandato",
-      "titleOriginal": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-      "publishedAt": "2026-08-14T19:45:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Stripe e Advent estão em negociações para adquirir o PayPal",
-      "titleOriginal": "Exclusive | Stripe, Advent in Talks to Buy PayPal",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5",
-      "publishedAt": "2026-08-14T19:44:00.000Z"
+      "publishedAt": "2026-08-14T20:51:31.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump comemora o retorno do missionário norte-americano sequestrado na África Ocidental",
-      "titleOriginal": "Trump celebrates return of US missionary kidnapped in West Africa",
-      "link": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/",
-      "publishedAt": "2026-08-14T19:43:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que o envio de uma força naval sem precedentes para apoiar as operações no Irã “não é nem de longe suficiente”",
-      "titleOriginal": "Trump says record-setting Navy deployment to support Iran operations 'not nearly long enough'",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVY0UXhLVGxQNngwZ3lKRjlhMVU0b01MLTVxQVBETlE2elRCc2U3U2t4SjVwVDMzd2hKWUFVUmo5MGZxMVNUTndLYkwzOTlHdy1lNkdMdncyOVQyNnoyOFhVQ2NOUERCWFNqNmloZXhwSzhBYkRuTk15UkJyM013RlJzd0p5MG9tX240eDVIUHg2dTY3RE94blZJMTV4NXRH?oc=5",
-      "publishedAt": "2026-08-14T19:42:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump discursa para a multidão em Long Island, com ênfase na redução da criminalidade",
-      "titleOriginal": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
-      "link": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
-      "publishedAt": "2026-08-14T19:27:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Filho do ex-presidente mexicano desafia Trump após revogação do visto",
-      "titleOriginal": "Son of former Mexican president challenges Trump after visa revoked",
-      "link": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/",
-      "publishedAt": "2026-08-14T19:16:50.000Z"
+      "title": "Atleta olímpico acusado busca proteção contra futuras acusações relacionadas ao Reflecting Pool",
+      "titleOriginal": "Accused Olympian seeks protection from future Reflecting Pool charges",
+      "link": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
+      "publishedAt": "2026-08-14T20:34:16.000Z"
     }
   ]
 }
