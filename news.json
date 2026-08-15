@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-15T17:41:40.941Z",
+  "updatedAt": "2026-08-15T19:00:46.349Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O DNC aprova definitivamente o calendário das primárias de 2028, que terá início na Carolina do Sul",
+      "titleOriginal": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
+      "link": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
+      "publishedAt": "2026-08-15T18:35:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Irã ataca o terceiro petroleiro dos Emirados Árabes Unidos em uma semana",
+      "titleOriginal": "Iran attacks third UAE tanker within a week",
+      "link": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/",
+      "publishedAt": "2026-08-15T18:28:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Kalshi acusa investigadores de Nevada de violarem a lei federal em denúncia relacionada ao geofencing",
+      "titleOriginal": "Kalshi accuses Nevada investigators of violating federal law in geofencing complaint",
+      "link": "https://thehill.com/policy/technology/6031495-kalshi-nevada-geofencing-dispute/",
+      "publishedAt": "2026-08-15T18:14:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Esta é a nossa estratégia para o futuro em matéria de imigração",
+      "titleOriginal": "Here is our way forward on immigration",
+      "link": "https://thehill.com/opinion/immigration/6030434-immigration-policy-reset-america/",
+      "publishedAt": "2026-08-15T18:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como 10.000 cidades americanas receberam seus nomes",
+      "titleOriginal": "How 10,000 American Cities Got Their Names",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
+      "publishedAt": "2026-08-15T17:49:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataques aéreos israelenses no sul do Líbano matam 11 pessoas em mais um desafio à trégua",
+      "titleOriginal": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+      "publishedAt": "2026-08-15T17:45:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que comprar se dá para imprimir? Uma nação do “faça você mesmo” tem a solução para bugigangas quebradas",
+      "titleOriginal": "Why Buy It When You Can Print It? A DIY Nation Has a Fix for Broken Doodads",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazg4Mko5angyYVNqdmxyeUtQcHRtOHhxYlZaNWdMYU1CeUhiMlhJQ0NRZTJmQ09UMXFYVXJhQ1Y3UTl3Tlhmc1RTX19rc0ItRXo1aFprRzl1Q3ctdFZFM2tSUU5UYWp5bWlwOVdDaVR5UmF2dXNKUU1QcWNGZUNYNXJkOXRZYTV0RkZ1VXlsNndxNHJzSTlvT2otY05OVXZPMTgxTWtKMzBCSUhzN3NPUi1OMHVYNTg?oc=5",
+      "publishedAt": "2026-08-15T17:45:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Por que os americanos agora se odeiam mais do que nunca",
@@ -17,60 +66,11 @@
       "publishedAt": "2026-08-15T16:32:21.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A tecnologia de vigilância suscita preocupações com a privacidade em locais onde acontecem eventos ao vivo",
-      "titleOriginal": "Surveillance tech raises privacy concerns at live event venues",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmlReWVZV29laUpUSmMxM2NmQ1REYkxERXJDQXgxRTV6LTc0eW5ockNUV0NkUXZJX1N5YVQ5UGpRaTdtcW85VlUxY09uZkY1RU10OVRXNGNXam90MmJsbkt1Y1FtaF9GRXU5STcwS25DVzgzTHhIWGt6UGxEd25XMEg0UTRkYy1HV2l1VWlTYWFJSHZDYmZYNEIzRUtJZw?oc=5",
-      "publishedAt": "2026-08-15T16:26:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A mídia esportiva supera a venda de ingressos",
-      "titleOriginal": "Sports media outpaces ticketing",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDUwY2lSRnFQOVdsOHlLeGdka3BZT0pqcWVySFhPR0p4QUloWWFiWTBsYklkeFdmS1VpbHd3VVRmTkY2MUplLXJtWXNad1J3b0hxWmgzWnhsYUMyY21EVUk2X3hUYWI1VUNadWtyVlVJT3FIZHpoQ3Rhd2RpMWU5OFRhVXB0VTVwZklRbHRoaw?oc=5",
-      "publishedAt": "2026-08-15T16:23:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O mercado imobiliário de luxo do Maine está se parecendo cada vez mais com o dos Hamptons e de Nantucket",
-      "titleOriginal": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "publishedAt": "2026-08-15T16:21:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "“E a Garmin?” Testei a resposta da empresa ao Whoop",
-      "titleOriginal": "‘What About Garmin?’ I Tested the Company’s Answer to Whoop",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnUwTk1CZW1GVkxaVk5yako5OUdOSXB0eEVGMVdnaFVLblZ2Uy1fQVFyb19IMU5vV0ZKcjAybzh2djJxbk05anVyeHQwWkZMQi1DMGFfNV9ueW85X09nOWRsc3pBOElZNkI4OFZ6Rl9zMWFQdkw3cFVRckxsTHN5VFA2TFJSMnFEUGtpOEhKUjE5Vm80azZGb0dnN2pJZm4xWXpNdXBR?oc=5",
-      "publishedAt": "2026-08-15T16:19:37.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como 10.000 cidades americanas receberam seus nomes",
-      "titleOriginal": "How 10,000 American Cities Got Their Names",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-15T16:19:22.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As estrelas transformam o fandom online em multidões na vida real",
-      "titleOriginal": "Stars turn online fandom into IRL crowds",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3J4SjBTU2ViQ3lENGdidzFscmdyQ1p4S3hHSHV2RlFFenJjVy1oYi1Ud19NeEx4VGZfU09ZUlNnUDYtdkdEblRkVnBmRmFONWxNeEkwdVRSX1lseUtPNGVVN09XOHQ1aG1nRzF0VEc2QVhiYnJrbXVlUHZSaVJWSzFWcHh4ZUJYLXRnaWR1OA?oc=5",
-      "publishedAt": "2026-08-15T15:58:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump critica El-Sayed e o vandalismo no Memorial da Segunda Guerra Mundial em uma série de postagens no Truth Social",
-      "titleOriginal": "Trump targets El-Sayed, WWII Memorial vandalism in string of Truth Social posts",
-      "link": "https://thehill.com/homenews/administration/6031396-trump-targets-el-sayed-truth-social/",
-      "publishedAt": "2026-08-15T15:50:55.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O Liechtenstein altera suas regras para permitir que as mulheres herdem o trono do principado alpino",
-      "titleOriginal": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
-      "publishedAt": "2026-08-15T15:44:00.000Z"
+      "title": "Cinco pessoas foram baleadas na Universidade Estadual da Virgínia, enquanto a polícia investiga vários suspeitos",
+      "titleOriginal": "5 people shot at Virginia State University as police investigate multiple suspects",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+      "publishedAt": "2026-08-15T16:28:00.000Z"
     }
   ]
 }
