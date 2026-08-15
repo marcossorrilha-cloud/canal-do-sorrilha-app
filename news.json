@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-15T16:54:20.394Z",
+  "updatedAt": "2026-08-15T17:41:40.941Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Por que os americanos agora se odeiam mais do que nunca",
+      "titleOriginal": "Why Americans now hate each other more than ever",
+      "link": "https://thehill.com/opinion/white-house/6030279-us-societal-distrust-growth/",
+      "publishedAt": "2026-08-15T17:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Empresa de criptomoedas da família Trump recebe aprovação para licença bancária condicional",
       "titleOriginal": "Trump family crypto company receives approval for conditional banking charter",
       "link": "https://thehill.com/business/6031421-trump-family-crypto-firm-bank-charter/",
       "publishedAt": "2026-08-15T16:32:21.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A tecnologia de vigilância suscita preocupações com a privacidade em locais onde acontecem eventos ao vivo",
+      "titleOriginal": "Surveillance tech raises privacy concerns at live event venues",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmlReWVZV29laUpUSmMxM2NmQ1REYkxERXJDQXgxRTV6LTc0eW5ockNUV0NkUXZJX1N5YVQ5UGpRaTdtcW85VlUxY09uZkY1RU10OVRXNGNXam90MmJsbkt1Y1FtaF9GRXU5STcwS25DVzgzTHhIWGt6UGxEd25XMEg0UTRkYy1HV2l1VWlTYWFJSHZDYmZYNEIzRUtJZw?oc=5",
+      "publishedAt": "2026-08-15T16:26:38.000Z"
     },
     {
       "source": "Axios",
@@ -25,13 +39,6 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Lovable, startup especializada em “vibe-coding”, atinge avaliação de US$ 13 bilhões",
-      "titleOriginal": "Exclusive | Vibe-Coding Startup Lovable Hits $13 Billion Valuation",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhlbTNQV0YwRFpUM0k4eUZZV0o5Y3hpUENqUm9EbVhtWWtqU1hTOXBlczR0czZvYkVQRzFVQ0tndnRjbE1zU3ljdndHVm9ENjV1d3lIdE5FdHhxWnZzTHRyd0xXTEt3MGYwQnBOazdvWG8wM3lYdmRxeVR1R1NPaFRMeUY2QWl1UWFfUmZVLW9GNFBxbU90LXBhQ0NyblJ5RTI5VXlGaTIwaWRU?oc=5",
-      "publishedAt": "2026-08-15T16:19:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "“E a Garmin?” Testei a resposta da empresa ao Whoop",
       "titleOriginal": "‘What About Garmin?’ I Tested the Company’s Answer to Whoop",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnUwTk1CZW1GVkxaVk5yako5OUdOSXB0eEVGMVdnaFVLblZ2Uy1fQVFyb19IMU5vV0ZKcjAybzh2djJxbk05anVyeHQwWkZMQi1DMGFfNV9ueW85X09nOWRsc3pBOElZNkI4OFZ6Rl9zMWFQdkw3cFVRckxsTHN5VFA2TFJSMnFEUGtpOEhKUjE5Vm80azZGb0dnN2pJZm4xWXpNdXBR?oc=5",
@@ -45,18 +52,11 @@
       "publishedAt": "2026-08-15T16:19:22.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Casa da Semana: Uma residência no Lago Austin, em uma enseada privada",
-      "titleOriginal": "House of the Week: A Lake Austin Home on a Private Cove",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG1Mb2lDcGVMLWRqMEFOSkd2RFM5RkIxNzdxLVdVSUZ3WDk5a1NiX2xHd2RyRVo2RTRqMDlvZmhocTRsbTZrUC1yWDNoRDFyeHZ1aGRCcjNxZXVZSnY3T3ZfTThwVnlTanJTdmpJM3JEbllhVkI0NnEwNjVpSVh0WjJTY0JsMDRaZ25Kelhn?oc=5",
-      "publishedAt": "2026-08-15T16:14:26.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "A tecnologia de vigilância suscita preocupações com a privacidade em locais onde acontecem eventos ao vivo",
-      "titleOriginal": "Surveillance tech raises privacy concerns at live event venues",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmlReWVZV29laUpUSmMxM2NmQ1REYkxERXJDQXgxRTV6LTc0eW5ockNUV0NkUXZJX1N5YVQ5UGpRaTdtcW85VlUxY09uZkY1RU10OVRXNGNXam90MmJsbkt1Y1FtaF9GRXU5STcwS25DVzgzTHhIWGt6UGxEd25XMEg0UTRkYy1HV2l1VWlTYWFJSHZDYmZYNEIzRUtJZw?oc=5",
-      "publishedAt": "2026-08-15T15:59:31.000Z"
+      "title": "As estrelas transformam o fandom online em multidões na vida real",
+      "titleOriginal": "Stars turn online fandom into IRL crowds",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3J4SjBTU2ViQ3lENGdidzFscmdyQ1p4S3hHSHV2RlFFenJjVy1oYi1Ud19NeEx4VGZfU09ZUlNnUDYtdkdEblRkVnBmRmFONWxNeEkwdVRSX1lseUtPNGVVN09XOHQ1aG1nRzF0VEc2QVhiYnJrbXVlUHZSaVJWSzFWcHh4ZUJYLXRnaWR1OA?oc=5",
+      "publishedAt": "2026-08-15T15:58:31.000Z"
     },
     {
       "source": "The Hill",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-08-15T15:50:55.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O mais recente modelo de peso aberto da China rivaliza com os modelos norte-americanos em termos de hacking",
-      "titleOriginal": "China's latest open-weight model rivals U.S. models at hacking",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5",
-      "publishedAt": "2026-08-15T15:35:54.000Z"
+      "source": "AP News",
+      "title": "O Liechtenstein altera suas regras para permitir que as mulheres herdem o trono do principado alpino",
+      "titleOriginal": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
+      "publishedAt": "2026-08-15T15:44:00.000Z"
     }
   ]
 }
