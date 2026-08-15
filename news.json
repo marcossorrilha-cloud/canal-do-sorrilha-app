@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-15T10:49:13.947Z",
+  "updatedAt": "2026-08-15T11:39:53.391Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Edição impressa | Wall Street Journal",
+      "titleOriginal": "Print Edition | Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
+      "publishedAt": "2026-08-15T10:45:29.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Como 10.000 cidades americanas receberam seus nomes",
@@ -24,6 +31,13 @@
       "publishedAt": "2026-08-15T10:03:09.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Axios",
+      "titleOriginal": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxX0t4RUI2WDFmUGhnQ1pfYU93YXlnNFFVZHpFWXdFT2lCejRXTWhwTXVEQ0dDZk8tQ2EtcmdsSHpESFNsQUdXM0l2NFc?oc=5",
+      "publishedAt": "2026-08-15T10:00:13.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "A decisão de Ocasio-Cortez irrita alguns setores da direita, ao mesmo tempo em que desperta admiração",
       "titleOriginal": "Ocasio-Cortez's decision riles some on right, while also winning admiration",
@@ -38,39 +52,25 @@
       "publishedAt": "2026-08-15T09:58:59.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Terremoto de magnitude 7,7 atinge a costa da Indonésia, matando pelo menos 38 pessoas e derrubando prédios",
+      "titleOriginal": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+      "publishedAt": "2026-08-15T09:34:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
       "title": "O Maverick XL da Ford é uma armadilha nostálgica de baixa tecnologia",
-      "titleOriginal": "Ford’s Maverick XL is a Low-Tech Nostalgia Trap",
+      "titleOriginal": "Ford’s Maverick XL Is a Low-Tech Nostalgia Trap",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVkZiUzlFNnJuMG1udktRUGFieWtOWE8xZ3NTYWRnNEZOVFgzeFBld2l3d2dMb2NMcEVjNWNuenFSTmJpbFBXR0NXaEZhdTJ0NDAxQUViTTJwT0xfeFdPekVMQ0phaWJtaWJCcXozREFoMXJaNUE?oc=5",
       "publishedAt": "2026-08-15T09:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Promotores investigaram empresa ligada a juiz no julgamento do caso do pagamento para silenciar a ex-amante de Trump",
-      "titleOriginal": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "publishedAt": "2026-08-15T09:02:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Enquanto a China busca expandir sua influência na Ásia, Trump concentra-se no Irã",
-      "titleOriginal": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "publishedAt": "2026-08-15T09:01:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Sherrod Brown busca retorno ao Senado em Ohio, na esperança de que sua proposta populista ainda tenha repercussão",
-      "titleOriginal": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
-      "publishedAt": "2026-08-15T09:01:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataque aéreo israelense no sul do Líbano mata 7 pessoas, segundo a mídia estatal libanesa",
-      "titleOriginal": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
-      "publishedAt": "2026-08-15T08:30:00.000Z"
+      "source": "Axios",
+      "title": "A nova proposta do setor de tecnologia para a faculdade: não faça faculdade",
+      "titleOriginal": "Tech's new pitch for college: skip it",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdG9PTERuU2hiWW9XanIyZG1BWk1JZHM3SnZXdnVSWFZWbllRTUJ4amlzVjdQRG1WZThqWDdSeWx4RGNOYllTRUhfeHZ0SlBKMW10VnQwRmNQajhPVndsc1B2TndoQjFrVXIzbTlDSTlBc1ZhSUdRdzd4ZUdZM005VGdOQzQ5Zw?oc=5",
+      "publishedAt": "2026-08-15T09:20:57.000Z"
     }
   ]
 }
