@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:18:59.920Z",
+  "updatedAt": "2026-08-15T09:00:00.456Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,28 @@
       "title": "Como 10.000 cidades americanas receberam seus nomes",
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-15T07:12:17.000Z"
+      "publishedAt": "2026-08-15T08:49:15.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O mais recente modelo de peso aberto da China rivaliza com os modelos norte-americanos em termos de hacking",
+      "titleOriginal": "China's latest open-weight model rivals U.S. models at hacking",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5",
+      "publishedAt": "2026-08-15T07:26:22.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataque aéreo israelense no sul do Líbano mata 7 pessoas, segundo a mídia estatal libanesa",
+      "titleOriginal": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+      "publishedAt": "2026-08-15T06:55:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O agitador online Hasan Piker está deixando os democratas fora de si",
+      "titleOriginal": "Online Agitator Hasan Piker Is Driving Democrats Up a Wall",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02MWZ0cVo2RWhSUFVtRDdta2ZKOVpfYkZzN2NsdmJZR2loUmVQbW1Ebll1QjNmWU5HVTBTS2RxVVZUQ0luZHI5RTAzSFNYTUY2bGdvRkxxemNNeUdSQnIyYVRPZHRxT21VMUJjLWNENkx2TEV2?oc=5",
+      "publishedAt": "2026-08-15T06:37:20.000Z"
     },
     {
       "source": "AP News",
@@ -17,6 +38,13 @@
       "publishedAt": "2026-08-15T06:33:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-15T05:03:24.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Os EUA já estão na Quarta Guerra Mundial — e estão perdendo?",
       "titleOriginal": "Is the US already in World War IV — and losing?",
@@ -24,11 +52,11 @@
       "publishedAt": "2026-08-15T04:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "MLB | Últimas notícias, estatísticas e resultados",
-      "titleOriginal": "MLB | Latest News, Stats, and Scores",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-      "publishedAt": "2026-08-15T03:47:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "O mercado imobiliário de luxo do Maine está se parecendo cada vez mais com o dos Hamptons e de Nantucket",
+      "titleOriginal": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
+      "publishedAt": "2026-08-15T03:49:21.000Z"
     },
     {
       "source": "AP News",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-08-15T03:37:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O mercado imobiliário de luxo do Maine está se parecendo cada vez mais com o dos Hamptons e de Nantucket",
-      "titleOriginal": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "publishedAt": "2026-08-15T03:25:50.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Processo contra a BBC: Canal planeja intimar membros da família Trump",
       "titleOriginal": "BBC lawsuit: Channel plans to subpoena Trump family members",
       "link": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
       "publishedAt": "2026-08-15T03:06:54.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tiroteios em Michigan deixam cinco pessoas e o suspeito mortos após uma operação de busca em grande escala",
-      "titleOriginal": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
-      "publishedAt": "2026-08-15T02:22:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Edição impressa | Wall Street Journal",
-      "titleOriginal": "Print Edition | Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
-      "publishedAt": "2026-08-15T02:09:03.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A China está inaugurando a primeira rota regular de carga pelo Ártico",
-      "titleOriginal": "China Is Opening the First Regular Cargo Route Through the Arctic",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1RVLUszQlNmU3YweUF5cmR1RUpXMVlFUzRxMXpPc1ppWTgtcG41a19tRTJjOGdoR29TTmRON2hHY0FFNDFqVThxN1p1QzVfa3hoSmFQNmZGY2t2VTZ2cEhkMmRTb3RWSTZuZ3VhTmlZbXo0MHpIOFpHb1RscmI0enBYRFFQQm1DRFVGNXBBSWNvajIwRGVsRTB3NEtvOV9ybVE?oc=5",
-      "publishedAt": "2026-08-15T02:00:00.000Z"
     }
   ]
 }
