@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-15T09:00:00.456Z",
+  "updatedAt": "2026-08-15T09:52:37.666Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Promotores investigaram empresa ligada a juiz no julgamento do caso do pagamento para silenciar a ex-amante de Trump",
+      "titleOriginal": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "publishedAt": "2026-08-15T09:02:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto a China busca expandir sua presença na Ásia, Trump concentra-se no Irã",
+      "titleOriginal": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "publishedAt": "2026-08-15T09:01:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Sherrod Brown busca retorno ao Senado em Ohio, na esperança de que sua proposta populista ainda tenha repercussão",
+      "titleOriginal": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+      "publishedAt": "2026-08-15T09:01:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Como 10.000 cidades americanas receberam seus nomes",
@@ -15,6 +36,13 @@
       "titleOriginal": "China's latest open-weight model rivals U.S. models at hacking",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5",
       "publishedAt": "2026-08-15T07:26:22.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-15T07:15:56.000Z"
     },
     {
       "source": "AP News",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "MLB | Últimas notícias, estatísticas e resultados",
-      "titleOriginal": "MLB | Latest News, Stats, and Scores",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-      "publishedAt": "2026-08-15T05:03:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os EUA já estão na Quarta Guerra Mundial — e estão perdendo?",
-      "titleOriginal": "Is the US already in World War IV — and losing?",
-      "link": "https://thehill.com/opinion/cybersecurity/6028070-china-cyber-attack-scenario/",
-      "publishedAt": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O mercado imobiliário de luxo do Maine está se parecendo cada vez mais com o dos Hamptons e de Nantucket",
-      "titleOriginal": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "publishedAt": "2026-08-15T03:49:21.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Juiz se recusa a impedir que o governo Trump construa um muro na fronteira ao longo da reserva de uma tribo",
-      "titleOriginal": "Judge refuses to block Trump administration from building border wall along tribe's reservation",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
-      "publishedAt": "2026-08-15T03:37:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Processo contra a BBC: Canal planeja intimar membros da família Trump",
-      "titleOriginal": "BBC lawsuit: Channel plans to subpoena Trump family members",
-      "link": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
-      "publishedAt": "2026-08-15T03:06:54.000Z"
+      "title": "Mianmar afirma que mais de 300 mil refugiados rohingya foram verificados para o repatriamento, à medida que o êxodo entra em seu nono ano",
+      "titleOriginal": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw?oc=5",
+      "publishedAt": "2026-08-15T05:47:00.000Z"
     }
   ]
 }
