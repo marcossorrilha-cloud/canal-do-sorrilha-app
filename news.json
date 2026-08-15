@@ -1,34 +1,62 @@
 {
-  "updatedAt": "2026-08-15T11:39:53.391Z",
+  "updatedAt": "2026-08-15T13:20:30.949Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "Edição impressa | Wall Street Journal",
-      "titleOriginal": "Print Edition | Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R?oc=5",
-      "publishedAt": "2026-08-15T10:45:29.000Z"
-    },
     {
       "source": "Wall Street Journal",
       "title": "Como 10.000 cidades americanas receberam seus nomes",
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-15T10:19:16.000Z"
+      "publishedAt": "2026-08-15T13:19:19.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O podcast de Katie Miller funciona como um espaço seguro para o universo MAGA",
-      "titleOriginal": "Katie Miller’s podcast serves as safe space for MAGA world",
-      "link": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/",
-      "publishedAt": "2026-08-15T10:03:38.000Z"
+      "title": "Atualizações em tempo real: Irã responde aos comentários de Trump sobre o Estreito de Ormuz; o podcast de Katie Miller continua a crescer",
+      "titleOriginal": "Live updates: Iran responds to Trump's Strait of Hormuz comments; Katie Miller's podcast continues to grow",
+      "link": "https://thehill.com/homenews/administration/6031242-live-updates-iran-responds-to-trumps-strait-of-hormuz-comments-katie-millers-podcast-continues-to-grow/",
+      "publishedAt": "2026-08-15T13:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A FDA aprova mais medicamentos contra a larva da mosca-da-carne: você deve administrá-los aos seus animais de estimação?",
+      "titleOriginal": "FDA green lights more screwworm medications: Should you give them to your pets?",
+      "link": "https://thehill.com/homenews/6028718-fda-green-lights-more-screwworm-medications-should-you-give-them-to-your-pets/",
+      "publishedAt": "2026-08-15T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ninguém deveria ser enviado de volta para um regime talibã",
+      "titleOriginal": "No one should be sent back to Taliban rule",
+      "link": "https://thehill.com/opinion/international/6030093-afghanistan-taliban-returns-unsafe/",
+      "publishedAt": "2026-08-15T13:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Navio é atacado no Estreito de Ormuz, ataque israelense mata nove pessoas no Líbano e outras notícias do Oriente Médio",
+      "titleOriginal": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+      "publishedAt": "2026-08-15T11:18:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Edição impressa | Wall Street Journal",
+      "titleOriginal": "Print Edition | Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Sd3BNZnl2azJjZ2RDV2ZpSTRVTGtLM2s0UnA1Y0tnY0xsTGFHeU1ia2JEeC00X1VWRWczXzdjQV92eE9obFBpRDBPd1pEWWhSY2JZcWEyX3lvbmFBN2NpVmFn?oc=5",
+      "publishedAt": "2026-08-15T11:17:49.000Z"
     },
     {
       "source": "Axios",
-      "title": "A faculdade perde o monopólio do Sonho Americano",
-      "titleOriginal": "College loses its monopoly on the American Dream",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZUw3RzQtR053amJmMWQtdm8yRzNFVl9zNGprdHNmUko3ME0xQkZTa0JTNlRMclZjQkRMT2paUWJpRWstdjhCakpSNUIzTERoR2dwYTRRYU9TS2tTRnZlY0JOQm9JaTNnU3RjOFdKT2R2dzF5aGdydUo4QkZFdGs?oc=5",
-      "publishedAt": "2026-08-15T10:03:09.000Z"
+      "title": "\"Não adianta nada\": a IA faz com que os universitários repensem sua área de formação",
+      "titleOriginal": "\"There's no point\": AI forces college students to rethink their major",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVW02ek1FajR5N0tDTE9IMUliTEw4X3dSNlZWNVlkWkpZSUkxWVcyQktUa2xxc2V1b1VUTDJfTFQtRFJTMkFrUHNTcGJubVEzNWZ2c0FUZ0otU080Q1ktZ2xhTGFsVm8yREg0cnZPNkEwM241c2c?oc=5",
+      "publishedAt": "2026-08-15T10:16:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-15T10:03:11.000Z"
     },
     {
       "source": "Axios",
@@ -43,34 +71,6 @@
       "titleOriginal": "Ocasio-Cortez's decision riles some on right, while also winning admiration",
       "link": "https://thehill.com/homenews/campaign/6030686-aoc-egg-freezing-controversy/",
       "publishedAt": "2026-08-15T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"Não adianta nada\": a IA faz com que os universitários repensem sua área de formação",
-      "titleOriginal": "\"There's no point\": AI forces college students to rethink their major",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVW02ek1FajR5N0tDTE9IMUliTEw4X3dSNlZWNVlkWkpZSUkxWVcyQktUa2xxc2V1b1VUTDJfTFQtRFJTMkFrUHNTcGJubVEzNWZ2c0FUZ0otU080Q1ktZ2xhTGFsVm8yREg0cnZPNkEwM241c2c?oc=5",
-      "publishedAt": "2026-08-15T09:58:59.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Terremoto de magnitude 7,7 atinge a costa da Indonésia, matando pelo menos 38 pessoas e derrubando prédios",
-      "titleOriginal": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-      "publishedAt": "2026-08-15T09:34:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Maverick XL da Ford é uma armadilha nostálgica de baixa tecnologia",
-      "titleOriginal": "Ford’s Maverick XL Is a Low-Tech Nostalgia Trap",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVkZiUzlFNnJuMG1udktRUGFieWtOWE8xZ3NTYWRnNEZOVFgzeFBld2l3d2dMb2NMcEVjNWNuenFSTmJpbFBXR0NXaEZhdTJ0NDAxQUViTTJwT0xfeFdPekVMQ0phaWJtaWJCcXozREFoMXJaNUE?oc=5",
-      "publishedAt": "2026-08-15T09:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A nova proposta do setor de tecnologia para a faculdade: não faça faculdade",
-      "titleOriginal": "Tech's new pitch for college: skip it",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdG9PTERuU2hiWW9XanIyZG1BWk1JZHM3SnZXdnVSWFZWbllRTUJ4amlzVjdQRG1WZThqWDdSeWx4RGNOYllTRUhfeHZ0SlBKMW10VnQwRmNQajhPVndsc1B2TndoQjFrVXIzbTlDSTlBc1ZhSUdRdzd4ZUdZM005VGdOQzQ5Zw?oc=5",
-      "publishedAt": "2026-08-15T09:20:57.000Z"
     }
   ]
 }
