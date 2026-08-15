@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-08-15T21:41:59.954Z",
+  "updatedAt": "2026-08-15T22:49:55.310Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Promotores investigaram empresa ligada a juiz no julgamento do caso do pagamento para silenciar a ex-amante de Trump",
+      "titleOriginal": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "publishedAt": "2026-08-15T22:26:01.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Adolescente está entre as seis vítimas fatais, incluindo o suspeito dos tiroteios em Michigan; uma menina sobreviveu",
+      "titleOriginal": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE?oc=5",
+      "publishedAt": "2026-08-15T22:13:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Lala se intensifica e se transforma em furacão, avançando em direção à Ilha Grande do Havaí com chuvas fortes e ventos",
+      "titleOriginal": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
+      "publishedAt": "2026-08-15T21:54:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Tuberville diz que gosta de conversar com o ChatGPT durante viagens longas de carro",
       "titleOriginal": "Tuberville says he likes to talk to ChatGPT on long drives",
       "link": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
       "publishedAt": "2026-08-15T21:14:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Promotores investigaram empresa ligada a juiz no julgamento do caso do pagamento para silenciar a ex-amante de Trump",
-      "titleOriginal": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "publishedAt": "2026-08-15T21:09:45.000Z"
     },
     {
       "source": "The Hill",
@@ -38,15 +52,8 @@
       "publishedAt": "2026-08-15T20:49:26.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Aviva registra forte crescimento no lucro no primeiro semestre",
-      "titleOriginal": "Aviva Posts Strong First-Half Profit Growth",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGhhQWxsS20wM25VYlRJbmh0UWhrT1E4NTBUMF9GbzBKOGtWcmFXX2h5N0pQc3dNaWh0Wm1YbjJHVmRmU25lb0VPTXMwSEZoTHJnOWRRR3VmSzlPMVhpSlhaQVNyNTVHb3JuS0hNWlBhWU9GQ2R1Q0Z1bG1tc0dFNWpRS2RhSEgya3hYLWFpVk9qVktu?oc=5",
-      "publishedAt": "2026-08-15T20:33:44.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Brown e Acton mantêm vantagens estreitas sobre Husted e Ramaswamy nas principais disputas eleitorais de Ohio: pesquisa",
+      "title": "Brown e Acton mantêm vantagens estreitas sobre Husted e Ramaswamy nas principais disputas em Ohio: pesquisa",
       "titleOriginal": "Brown, Acton hold slim leads over Husted, Ramaswamy in key Ohio races: Poll",
       "link": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/",
       "publishedAt": "2026-08-15T20:20:52.000Z"
@@ -59,18 +66,11 @@
       "publishedAt": "2026-08-15T20:07:39.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Sherrod Brown busca retorno ao Senado em Ohio, na esperança de que sua proposta populista ainda tenha repercussão",
-      "titleOriginal": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
-      "link": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
-      "publishedAt": "2026-08-15T19:40:55.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O mercado imobiliário de luxo do Maine está se parecendo cada vez mais com o dos Hamptons e de Nantucket",
-      "titleOriginal": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "publishedAt": "2026-08-15T19:28:04.000Z"
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-15T19:48:39.000Z"
     }
   ]
 }
