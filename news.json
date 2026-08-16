@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-16T20:49:20.918Z",
+  "updatedAt": "2026-08-16T21:39:56.241Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Trump pede a Hegseth que reduza os exercícios militares entre os EUA e a Coreia do Sul",
+      "titleOriginal": "Trump tells Hegseth to cut U.S.-South Korea drills",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kYTNEd3hCYkhEY3FQVENlVUpQMHl3aHlMekktVUgtaU1GMEdZM0FRRUM4QUN3VkpKQWpZOERSVEZCQllRcFpBakpJYzdDZ1hkcDVnYUNHNl9fV2ZCdUs2TC1OcmVqRmJsazJOdV82Y21NNGJiQnhLdWpGNWZCdw?oc=5",
+      "publishedAt": "2026-08-16T21:33:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governador do Kentucky, Andy Beshear, afirma que “não recebeu absolutamente nenhuma resposta de Mitch McConnell”",
+      "titleOriginal": "Kentucky Gov. Andy Beshear says he's 'heard absolutely nothing back from Mitch McConnell'",
+      "link": "https://thehill.com/homenews/senate/6032276-beshear-mitch-mcconnell-health-silence/",
+      "publishedAt": "2026-08-16T21:15:05.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Mensagem do CEO da Allstate sobre computação quântica: “Entre nessa onda”",
+      "titleOriginal": "Allstate CEO’s Message on Quantum Computing: ‘Get on the Train’",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDBvVVZKU3dMeWZVbVg2SVg0YlBKbG9xRnVDdUw5ZlFPaWZrcEZPQkpGbDlSUGgtZmhpcTBSMXhxOWZ2QmQ5S3BPM2dBcDhPT2g5RmZ6Ym1fTDlBR1dPVmk0X3d6eWdEX3R0cGlJMHBsWmg3SmtuQ1M0U2gwSHdGX3NmSXpXU2lERDdtYmtvcU5fbUYxQnRzenJIM2pPQ1Zlcnc?oc=5",
+      "publishedAt": "2026-08-16T21:06:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como 10.000 cidades americanas receberam seus nomes",
+      "titleOriginal": "How 10,000 American Cities Got Their Names",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
+      "publishedAt": "2026-08-16T21:02:51.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Flock tenta acalmar os temores em relação à vigilância, à medida que as perguntas se acumulam",
+      "titleOriginal": "Flock tries to quell surveillance fears as questions pile up",
+      "link": "https://thehill.com/policy/technology/6030740-civil-liberties-backlash-ai-surveillance/",
+      "publishedAt": "2026-08-16T21:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nesta semana, no The Hill: a disputa pelo governo da Flórida e os legisladores em apuros serão o centro das atenções",
+      "titleOriginal": "This week on The Hill: Florida governor’s race, embattled lawmakers to take spotlight",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6030970-florida-primary-election-donalds-mills-california-redistricting/",
+      "publishedAt": "2026-08-16T21:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Alto almirante elogia marinheiros, mas reconhece as dificuldades após visita ao USS Lincoln",
@@ -10,67 +52,25 @@
       "publishedAt": "2026-08-16T20:40:41.000Z"
     },
     {
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-16T20:33:34.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Opinião | Luigi Mangione e a manobra dos democratas para desviar a atenção do Obamacare",
-      "titleOriginal": "Opinion | Luigi Mangione and Democrats’ ObamaCare Deflection",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG0xbmI4clNTekd1RER5SUxTelBIdmpiVlFsVWp4bklmSzIzQ1pqaC1haWZJeHdYazNVTUlhZFJqRzFjZmFneDJyNjNJRkVocldNQVliUExBVjREelcwQ2czNzdyZnZWUndXUEdGT1ZBdmZSZDV3NDFpUHRaN1dONGliMFJaUVppa1FyakkxOA?oc=5",
-      "publishedAt": "2026-08-16T20:15:48.000Z"
+      "title": "Inundações históricas atingem Indiana, onde o número de mortos sobe para pelo menos seis",
+      "titleOriginal": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFpSQ0ZDcEtraDZ3WHhuZkNRU1RJSUpuQ0pTOVdLc0E0Sm5pVldVUkVXR0RfOUJtZHRONjVFbDVTLVp0akRxRG50a2poNzRaZWEtSmRfTmd1cTdoSkg3MXdScV9ESGJibndkNmlEUkVDeG0zMUp0aW9XVUctdEJfZjVCNjgtNmx1aVl4V1F3R2c5UGpWcDBZUF9Kd0hvY3Nxb0lHNEQ2OWxuV0dwdC1Ea0E3VUdld3hhR0paQXJlTEQ?oc=5",
+      "publishedAt": "2026-08-16T20:14:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Cassidy sobre a ordem de Trump relativa à vacina e as alegações “loucas e estúpidas”: “É por isso que os índices de aprovação do presidente estão caindo”",
+      "title": "Cassidy sobre a ordem de Trump relativa à vacina e as alegações “loucas e estúpidas”: “É por isso que os índices de popularidade do presidente estão caindo”",
       "titleOriginal": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
       "link": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/",
       "publishedAt": "2026-08-16T20:13:41.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Este lar de idosos é um verdadeiro pesadelo",
-      "titleOriginal": "Opinion | This Nursing Home Is for the Birds",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSzlvVFNQUThpSWxIa0Z3V1RvNm1RVnBLVFIxcHJsaDJjdUwtN2JzNzgxN2tGaHlUOFI5Snc2UXIwU0Utcm8tLTBzeXpKZ2VlSUFHcGlRRkloajRMSTloRXgza2FiOFBDT3pqQ1RQRkJNRzVPWlgyWEdfNA?oc=5",
-      "publishedAt": "2026-08-16T19:52:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Blanche se recusa a garantir que o Departamento de Justiça sempre agirá de forma independente da Casa Branca",
-      "titleOriginal": "Blanche refuses to pledge DOJ will always act independently of White House",
-      "link": "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/",
-      "publishedAt": "2026-08-16T19:45:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Lições de uma vida sociável",
-      "titleOriginal": "Opinion | Lessons From a Sociable Life",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41cU5VNWRVbGNydVp0cEg2czlmbUxwcnE4ZlF6MXI0RUhFOVUtVTNqSFNGdzhmZHJzMm1URFNtQ3Naa1FPamRmeGw1SUtKd0FtVjZ6Vl90MkdieUZxNkM3S1ByVVFuMmtCZkFjOXozZVZLLUE?oc=5",
-      "publishedAt": "2026-08-16T19:43:53.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A Nova Síria: O inimigo do inimigo de Israel",
-      "titleOriginal": "Opinion | The New Syria: The Enemy of Israel’s Enemy",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkYxZEtEV1ctOHBYUzZMT0xPNE9sWEdheFZ5WmpvSnYwRHljYU1rbC1MQTJzenJiTUdQLXd4N2l3MExORFFzQ3ppWjRtNkVNQ1ZjMjByOW1PVHp5Zko2LUdPQ0ZUQ0ZsV0huR2h2UzFFSzZ2ckxpMnhBWmlZa1F0SlVDYw?oc=5",
-      "publishedAt": "2026-08-16T19:39:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As opiniões de Trump podem ser levadas em consideração em processos judiciais, afirma o procurador-geral Todd Blanche",
-      "titleOriginal": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
-      "publishedAt": "2026-08-16T19:38:36.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas enfrentam um possível momento semelhante ao do Tea Party",
-      "titleOriginal": "Democrats Face a Potential Tea Party Moment",
-      "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-      "publishedAt": "2026-08-16T19:35:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como 10.000 cidades americanas receberam seus nomes",
-      "titleOriginal": "How 10,000 American Cities Got Their Names",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-16T19:32:50.000Z"
     }
   ]
 }
