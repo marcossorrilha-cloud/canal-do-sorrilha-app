@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-16T10:51:38.404Z",
+  "updatedAt": "2026-08-16T11:40:49.496Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Axios",
+      "titleOriginal": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpalk0OElTLUVaUURfUFNGbHJQaGs1MWdLQTZRdTlIT2szZm1aYWZ3cGpBVENzUnMzZUZYblk5ODNwT25mSG9TYVdPb00?oc=5",
+      "publishedAt": "2026-08-16T10:40:24.000Z"
+    },
     {
       "source": "AP News",
       "title": "Resultados, notícias e estatísticas da NFL | Últimas notícias sobre o Super Bowl",
@@ -15,13 +22,6 @@
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
       "publishedAt": "2026-08-16T10:32:41.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "“E a Garmin?” Testei a resposta da empresa ao Whoop",
-      "titleOriginal": "‘What About Garmin?’ I Tested the Company’s Answer to Whoop",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnUwTk1CZW1GVkxaVk5yako5OUdOSXB0eEVGMVdnaFVLblZ2Uy1fQVFyb19IMU5vV0ZKcjAybzh2djJxbk05anVyeHQwWkZMQi1DMGFfNV9ueW85X09nOWRsc3pBOElZNkI4OFZ6Rl9zMWFQdkw3cFVRckxsTHN5VFA2TFJSMnFEUGtpOEhKUjE5Vm80azZGb0dnN2pJZm4xWXpNdXBR?oc=5",
-      "publishedAt": "2026-08-16T10:19:40.000Z"
     },
     {
       "source": "Axios",
@@ -60,17 +60,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A inteligência artificial de peso aberto não vai prejudicar a demanda por picaretas e pás",
-      "titleOriginal": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0lHME8wRVdUTU1wc3k2NmVneUpYejJYdnVYYlFxSklPQmFUeHBmVU05R0d0ay00Q0ZyZGNmemxMQm1XWk4zR1pxaWFES2VkR2lBaHBTX3VDYmg4YjctajR2WnhBRDFxNjBuWVNRdzdVLWdDSk1QN3E5VDh6b0cwTVIzTXFFQ2tSeTBkV28zcmNQR09MRmc?oc=5",
-      "publishedAt": "2026-08-16T09:30:00.000Z"
+      "title": "Os chatbots de saúde mental são seguros?",
+      "titleOriginal": "Are Mental-Health Chatbots Safe?",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXJvVTVNYm1uSXk4ek40enRsRG9ubHdYcEs1UkJFckVnZGxQMTF6R1ZhdGZ1WlhaU2JOZFFpOGI3N3YtaTlleVoyQ2NNVmw5b0pNUXQzYjQ0X3RHTDh2X0VDbTJVaWJyWW9hTzdwTW1qcUxQS3ExSy1oODRtVGtwNnotdmVGTWxwNGFnc1hhRU9HRkF4R2VpYUdTaFpsaUN4MGdsV0tDOFgzU2wy?oc=5",
+      "publishedAt": "2026-08-16T10:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Ações atingem novos máximos com o alívio em relação à inflação",
-      "titleOriginal": "Stocks Hit New Highs on Inflation Relief",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1BCdkwwYW92MUhlY3Q2ci1yN2NrbGpSVGw3clRkSmNodUZ0SkxlNlR5M0NwalBSRE9xNHQ5Z3V6MV96U2M3dE5QdVFFOThQLVNQT2hmS1RzcjBSaUtGNHl5T1RDcXN0ak9GV0YzdUVXSU9MLVRsYVZod2d4RTZhNmd5OGVCcUJZXzRUeQ?oc=5",
-      "publishedAt": "2026-08-16T09:27:28.000Z"
+      "source": "AP News",
+      "title": "Os corgis correm, latem e farejam em busca da glória em uma corrida internacional que vem ganhando cada vez mais popularidade",
+      "titleOriginal": "Corgis race, bark and sniff their way to glory at a growing international race",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjVFSk1Pdmcxb29Gb1lYWTIzSU0xdzhLcjc3V3NSNzhYVzc3SXp1VFZ0OUQ0ZU1MRHIyTkp4OF93bV92SlRQRHg2ZE1abE1sSkJ1Y2E1UlFGa3dJaS1JRlJJYnFQUWtpTnE0T2kzdVNjZVI4akd5SXpkNEFxeHl1ZW1obGpHbElGTHR3QXJjRjh5RjBsX2NHQ0NaMXM5T0c4dUxGRnJwUHkxbVU?oc=5",
+      "publishedAt": "2026-08-16T09:41:00.000Z"
     }
   ]
 }
