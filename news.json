@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-08-16T16:55:16.088Z",
+  "updatedAt": "2026-08-16T17:40:07.393Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Deputado republicano: “Os preços estão altos demais”",
+      "titleOriginal": "House Republican: 'Prices are too high'",
+      "link": "https://thehill.com/homenews/house/6032050-mike-flood-trump-iran-gas-prices/",
+      "publishedAt": "2026-08-16T17:35:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicano de Nova York afirma que os candidatos da DSA formarão um “grupo comunista” caso sejam eleitos para o Congresso",
+      "titleOriginal": "New York Republican says DSA candidates will make up 'commie caucus' if elected to Congress",
+      "link": "https://thehill.com/homenews/campaign/6031939-malliotakis-warns-commie-caucus-dsa/",
+      "publishedAt": "2026-08-16T17:04:06.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "A IA acaba de alcançar mais um avanço na matemática — com a ajuda de alguém que abandonou o ensino médio",
-      "titleOriginal": "AI Just Had Another Math Breakthrough—With Help From a High-School Dropout",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWhMOFh0b2VlT0UyN1VKelhjUUZUM0ZWREVlUWRLOVRKLXBhcEFoSDcxYVA4T2t0Tzk5eGpYeHlFUUU0enhacFRZTFJSWnltV0tBMVZtVGdLMGZFVmVEUTV1TU5idmk1ZndhVHVoa3F5dTFvb3dubUF6QXRqVkMtVDJXZ2wxbWM?oc=5",
-      "publishedAt": "2026-08-16T16:38:12.000Z"
+      "title": "Cada dia em Cuba representa um novo desafio para seus moradores carentes",
+      "titleOriginal": "Every Day in Cuba Presents a New Challenge for Its Impoverished Residents",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UX0dsTklKMXBNcm55aEZIb0ZVUzBIcW9JZDF1LVduUGJRNS1sVGNjYWppOXRtYkRrNV96aGZuNkE4Q2NHYzIyUGhqdDF0OTltb0hXMkl0RXFWUjluOXFQRGt1UldwSWgxNVl2MXJtbzlhRUYtMVBmMW9PaGczZw?oc=5",
+      "publishedAt": "2026-08-16T17:01:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que é um “aumento salarial de manteiga de amendoim” e por que você talvez não receba um no ano que vem",
+      "titleOriginal": "What is a peanut butter pay raise, and why you may not get one next year",
+      "link": "https://thehill.com/business/personal-finance/6025952-what-is-a-peanut-butter-pay-raise-and-why-you-may-not-get-one-next-year/",
+      "publishedAt": "2026-08-16T17:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como os modelos de IA da OpenAI e da Anthropic saíram do controle",
+      "titleOriginal": "How OpenAI's and Anthropic's AI Models Went Rogue",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnN5eUxnUDExY29ZcXVZbkFjTGFhZEwzcVlQTFpaQlBkcXhoaWpCZVlsZGx1WDVoQlh6RVVRT0NoSXdtVG5OTF9VQWRfUW1RUkEtdkczRWVzRmt5Y2N4VFhZV0NkSU5GdnlkdDJUSzVBQU5pUFNoUC10T3dmT0NVVDlUMkVWZnZiNEs1M011clBsaU1UUHA0endTN1pTWGZLTWRLa20yc2JpYzByR0E?oc=5",
+      "publishedAt": "2026-08-16T16:35:19.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -15,6 +43,13 @@
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
       "publishedAt": "2026-08-16T16:32:47.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pelo menos seis pessoas morreram devido às tempestades que duraram vários dias e às enchentes que bateram recordes em Indiana",
+      "titleOriginal": "At least 6 people have died from days of storms and record-setting flooding in Indiana",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
+      "publishedAt": "2026-08-16T16:23:00.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
       "link": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
       "publishedAt": "2026-08-16T16:14:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como os modelos de IA da OpenAI e da Anthropic saíram do controle",
-      "titleOriginal": "How OpenAI's and Anthropic's AI Models Went Rogue",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnN5eUxnUDExY29ZcXVZbkFjTGFhZEwzcVlQTFpaQlBkcXhoaWpCZVlsZGx1WDVoQlh6RVVRT0NoSXdtVG5OTF9VQWRfUW1RUkEtdkczRWVzRmt5Y2N4VFhZV0NkSU5GdnlkdDJUSzVBQU5pUFNoUC10T3dmT0NVVDlUMkVWZnZiNEs1M011clBsaU1UUHA0endTN1pTWGZLTWRLa20yc2JpYzByR0E?oc=5",
-      "publishedAt": "2026-08-16T16:05:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | O jogo da culpa da prefeitura do prefeito Mamdani",
-      "titleOriginal": "Opinion | Mayor Mamdani’s Corporation Blame Game",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUWVxTUpyNG91WmVFVDh2UFlxNUExUEQybW5tX0xPb0piSFpDWllvMXF5S2dka0xRRTVKVmZEd2JCWGNDTDhEcnRaSkxQdHpXYW1SZjBVTE5DbEtQZzRvbTV1aTJJd3JJeldmS2tPaUxXU3VhSWx5SkVpbTJNaHc?oc=5",
-      "publishedAt": "2026-08-16T16:05:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Devemos começar a criar uma proteção fiscal para a era da IA",
-      "titleOriginal": "We should start building fiscal insurance for the AI era",
-      "link": "https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/",
-      "publishedAt": "2026-08-16T16:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Surtos ameaçam a agenda do HHS em prol da “comida de verdade”",
-      "titleOriginal": "Outbreaks threaten HHS 'real food' agenda",
-      "link": "https://thehill.com/policy/healthcare/6030799-rfk-jr-real-food-agenda-outbreaks/",
-      "publishedAt": "2026-08-16T16:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como os republicanos acolheram Brandon Herrera, candidato republicano do Texas e influenciador na área de armas",
-      "titleOriginal": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "link": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "publishedAt": "2026-08-16T15:57:47.000Z"
     }
   ]
 }
