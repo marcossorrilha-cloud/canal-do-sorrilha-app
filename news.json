@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-17T19:22:40.193Z",
+  "updatedAt": "2026-08-17T19:42:13.562Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Como 10.000 cidades americanas receberam seus nomes",
-      "titleOriginal": "How 10,000 American Cities Got Their Names",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-17T19:20:26.000Z"
+      "source": "Axios",
+      "title": "Google paga US$ 10 milhões por e-mails, conversas e documentos da Spirit Airlines",
+      "titleOriginal": "Google pays $10M for Spirit Airlines emails, chats, documents",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McERONmw0Vzl4UF9JU1N3eFFQS0JSTU94MVdERXVzdlFod3NkZi1iRl9OUmxvUnc4RHU3U1M2UnFfNUl3ZkJjUHgxX2RTMUFENnREb3d6MFZQWDlCcjM0RW9RaHBGWnJpRGlfTlp1dFJ2ekpY?oc=5",
+      "publishedAt": "2026-08-17T19:35:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte é solicitada a analisar a exigência do Texas de que as escolas exibam os Dez Mandamentos",
+      "titleOriginal": "Supreme Court asked to review Texas’s Ten Commandment requirement for schools",
+      "link": "https://thehill.com/regulation/court-battles/6033860-aclu-texas-ten-commandments-supreme-court/",
+      "publishedAt": "2026-08-17T19:33:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Baldwin: “Nada de ICE em nossos locais de votação”",
+      "titleOriginal": "Baldwin: ‘No ICE at our polling places’",
+      "link": "https://thehill.com/homenews/state-watch/6033835-baldwin-opposes-ice-polling-places/",
+      "publishedAt": "2026-08-17T19:27:04.000Z"
     },
     {
       "source": "Axios",
@@ -18,10 +32,17 @@
     },
     {
       "source": "AP News",
-      "title": "Trump culpa vândalos pelos danos ao gramado no local onde realizou sua grande comemoração do 4 de julho",
+      "title": "Trump culpa vândalos pelos danos à grama no local onde realizou sua grande comemoração do 4 de julho",
       "titleOriginal": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
       "publishedAt": "2026-08-17T19:17:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Reunião maratona entre os EUA e Israel gera otimismo, mas não resulta em compromisso firme com o plano americano para Gaza",
+      "titleOriginal": "Marathon US-Israel meeting produces optimism but no firm commitment to American plan for Gaza",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
+      "publishedAt": "2026-08-17T19:13:00.000Z"
     },
     {
       "source": "Axios",
@@ -32,7 +53,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump: Missionário refém libertado volta para os EUA",
+      "title": "Senador democrata: os elogios de Trump à Coreia do Norte são “delirantes”",
+      "titleOriginal": "Democratic senator: Trump's praise of North Korea is 'delusional'",
+      "link": "https://thehill.com/policy/defense/6033746-reed-criticizes-trump-north-korea/",
+      "publishedAt": "2026-08-17T19:03:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump: Missionário que estava em cativeiro e foi libertado está voltando para os EUA",
       "titleOriginal": "Trump: Released missionary hostage coming home to US",
       "link": "https://thehill.com/homenews/administration/6033660-donald-trump-released-missionary-kevin-rideout-niger-release-to-us/",
       "publishedAt": "2026-08-17T19:01:36.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Californians divided on billionaire tax, new poll shows",
       "link": "https://thehill.com/homenews/campaign/6033661-prop-40-billionair-tax-poll/",
       "publishedAt": "2026-08-17T18:59:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Aumentam os avistamentos de ursos no Colorado à medida que a comida escasseia",
-      "titleOriginal": "Colorado bear sightings surge as food gets scarce",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDBZLW91aTFfTFh0OTBGZ0pfQ3RTQTZMWGtyZ3FEUGdOcDRPNHN1WnJVTEpoNkxSb3ctYlktOEJvcUZ3OGxmcW5sT0g3emVDZGNOWjkyZXYzUW1GTjgzZnZPckxmQkhOaEtSQWJUZTBGUENJTlRtUnEzblA2VDR0eUVvbWtVNkpVS2RseEVLSkk?oc=5",
-      "publishedAt": "2026-08-17T18:56:26.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A mãe e a irmã de Lindsay Clancy sobem ao banco das testemunhas para depor sobre o agravamento de seu estado mental",
-      "titleOriginal": "Lindsay Clancy’s mother and sister take stand to testify about her declining mental state",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmZnc2VjQW84ajBSWlRrZGZyaHRVTnUxcXAxUjJXSFBQamN4eDdzYjAzUnJGdVFTRzZSU05wOXNFTC1BMjdwa0piZ3Y0Q0ZzckZmY1hkQWNOV2ZnMExwZERBR3Z0ZHlEYmZmTmhQTnZYbmo0bldLaGR0SWJjeWpXMTRfX2lmNTNtQ1dVRUI4UG8xQVRlSWxfUDJKXzFJbGlxSGZFeWdRcUhudGpsVHZV?oc=5",
-      "publishedAt": "2026-08-17T18:55:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Comissão de Ética da Câmara investiga o deputado Jimmy Gomez por alegações de conduta sexual imprópria",
-      "titleOriginal": "House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzhfdHJVMDFqWjlZQ3FKX2hVSTNGS1BPcVVmN2ZHZUZBcDVZYTF6U0pnei1aa0pEbzRxRGtlOFdCOFNOTVZwTkRob2JNdFE0WGl4c293YVR3ZDJWWE9aaVRnd19USm5IREtCUGJnOVI5U3RPQWw2NGFrZnNwOGRBeTNveWZoMkwtSlNN?oc=5",
-      "publishedAt": "2026-08-17T18:53:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Fauci se recusa a conceder uma entrevista transcrita ao senador Ron Johnson",
-      "titleOriginal": "Fauci declines to sit for transcribed interview with Sen. Ron Johnson",
-      "link": "https://thehill.com/policy/healthcare/6033744-fauci-declines-gop-johnson-interview/",
-      "publishedAt": "2026-08-17T18:51:57.000Z"
     }
   ]
 }
