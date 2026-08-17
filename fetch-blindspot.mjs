@@ -157,17 +157,28 @@ function chooseBlindspot(clusters, coveredSide, ignoredSide) {
   return cands[0] || null;
 }
 
-function today() {
-  return new Date().toLocaleDateString("en-CA", { timeZone: "America/Sao_Paulo" }); // YYYY-MM-DD
+// "slot" de meio período: AAAA-MM-DD-AM (00h–11h) ou -PM (12h–23h), fuso de Brasília.
+// Assim o Blind Spot muda no máximo 2x por dia (uma de manhã, uma de tarde).
+function slotNow() {
+  const now = new Date();
+  const date = now.toLocaleDateString("en-CA", { timeZone: "America/Sao_Paulo" });
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Sao_Paulo",
+    hour: "numeric",
+    hour12: false,
+  }).formatToParts(now);
+  let h = Number(parts.find((p) => p.type === "hour").value);
+  if (h === 24) h = 0;
+  return date + (h < 12 ? "-AM" : "-PM");
 }
 
 async function main() {
-  const day = today();
+  const slot = slotNow();
   const prev = readJson("blindspot.json", null);
 
-  // Trava diária: se já calculamos hoje, não mexe.
-  if (prev && prev.day === day) {
-    console.log("Blind Spot já atualizado hoje — mantendo.");
+  // Trava de meio período: se já calculamos neste período (manhã/tarde), não mexe.
+  if (prev && prev.slot === slot) {
+    console.log("Blind Spot já atualizado neste período — mantendo.");
     return;
   }
 
@@ -234,7 +245,7 @@ async function main() {
     return;
   }
 
-  writeJson("blindspot.json", { updatedAt: new Date().toISOString(), day, items: out });
+  writeJson("blindspot.json", { updatedAt: new Date().toISOString(), slot, items: out });
 }
 
 main().catch((e) => {

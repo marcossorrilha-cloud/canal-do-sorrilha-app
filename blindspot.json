@@ -1,25 +1,23 @@
 {
-  "updatedAt": "2026-08-17T03:15:56.294Z",
-  "day": "2026-08-17",
+  "updatedAt": "2026-08-13T12:00:00.000Z",
+  "slot": "",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Notícias do governo Trump: presidente atribui a si mesmo o mérito pela queda acentuada nos índices de criminalidade com alegações falsas",
-      "titleOriginal": "Trump Administration News: President Takes Credit for Steep Crime Rate Declines With False Claims",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMeXVrVDZnUGNnTDVTUkJnR280bjh2aU1ETG9CYkNnZmctdzl2Z0lMdmIwdzQzdVlsZmdqWmlOMnJrd3dJVVlYbF80NEpKc1NMc002M2hOM3FibFVLNmtIbUdqZw?oc=5",
-      "source": "New York Times",
+      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
+      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
+      "source": "Imprensa de esquerda",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Deputado socialista afirma que o furto em lojas é uma “necessidade biológica”",
-      "titleOriginal": "Socialist Lawmaker Says Shoplifting Is A ‘Biological Need’",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDBoUjZQdlc1Q0Y5dGd4RV9udlJVY3NzN3NmU3UwcmdadHdJb0FNb00tWTcxR2hvYm9lVG1EOGp1M1VtWmZtR1BEVjBKUFdxOWd3bGI1TG5vXzZjLU5IYk14NlZvakIzZG1rNW1CbzlRMDV2aU5FcGtOZmNQcHlPTFZNVldYWjc1eDk4YmRLeXo?oc=5",
-      "source": "Daily Wire",
+      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
+      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
+      "source": "Imprensa de direita",
       "coverage": 3
     }
   ]

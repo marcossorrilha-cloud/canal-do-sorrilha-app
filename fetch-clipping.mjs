@@ -38,11 +38,17 @@ function normalize({ title, link, date, note }) {
   };
 }
 
+// Quebra-cache: adiciona um parâmetro único ao feed a cada busca, para os proxies
+// não devolverem uma versão em cache antiga (deixa o clipping novo aparecer mais rápido).
+function bust() {
+  return SUBSTACK_FEED + (SUBSTACK_FEED.includes("?") ? "&" : "?") + "nocache=" + Date.now();
+}
+
 // --- Estratégia 1: rss2json (devolve JSON já parseado) ---
 async function viaRss2json() {
   const url =
     "https://api.rss2json.com/v1/api.json?count=10&rss_url=" +
-    encodeURIComponent(SUBSTACK_FEED);
+    encodeURIComponent(bust());
   const data = JSON.parse(await fetchText(url));
   if (data.status !== "ok" || !Array.isArray(data.items)) {
     throw new Error("rss2json sem itens (status " + data.status + ")");
@@ -60,7 +66,7 @@ async function viaRss2json() {
 // --- Estratégias via proxy que devolve o XML cru (allorigins / corsproxy) ---
 function makeXmlProxy(buildUrl) {
   return async function () {
-    const xml = await fetchText(buildUrl(SUBSTACK_FEED), { timeoutMs: 30000 });
+    const xml = await fetchText(buildUrl(bust()), { timeoutMs: 30000 });
     const feed = await parser.parseString(xml);
     return (feed.items || []).map((it) =>
       normalize({
@@ -83,7 +89,7 @@ const viaJina = makeXmlProxy((u) => "https://r.jina.ai/" + u);
 
 // --- Acesso direto (normalmente 403 no GitHub) ---
 async function viaDireto() {
-  const xml = await fetchText(SUBSTACK_FEED, {
+  const xml = await fetchText(bust(), {
     headers: { Accept: "application/rss+xml, application/xml, text/xml, */*" },
   });
   const feed = await parser.parseString(xml);
