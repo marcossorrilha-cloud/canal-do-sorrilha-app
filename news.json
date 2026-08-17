@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-17T22:53:52.901Z",
+  "updatedAt": "2026-08-17T23:47:23.064Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "A Marinha concedeu um contrato de US$ 22,9 bilhões à Raytheon para acelerar a produção do míssil Tomahawk",
+      "titleOriginal": "Navy awarded $22.9B contract to Raytheon to accelerate Tomahawk missile production",
+      "link": "https://thehill.com/policy/defense/6034283-navy-raytheon-tomahawk-contract/",
+      "publishedAt": "2026-08-17T23:37:16.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Whitmire rebate a ameaça de Abbott sobre o financiamento do aeroporto",
+      "titleOriginal": "Whitmire counters Abbott's airport funding threat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3BDVXpvZ05HWllJOUktR2RlZVhFR0U4ZngtNUR2OExleDJxMjZPTU41Q1ZWc0FRaUM4dTBhM2hQYnEwWVk1M2s4Rmg0WHIyUFZleGx4YmpQXzRDYThUX2tpcWVTb3dabmRaMG5OaXFaNThpTmUtazR1MFE5QmhCTXZjTkRrZHNtUl8zczI2MVp5NXVvTFd3LUNTTGE?oc=5",
+      "publishedAt": "2026-08-17T23:29:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Juiz decide que o governo Trump não pode anular a transferência do FBI para Maryland",
+      "titleOriginal": "Judge Rules Trump Administration Can’t Scrap F.B.I. Move to Maryland",
+      "link": "https://www.nytimes.com/2026/08/17/us/politics/fbi-headquarters-maryland-trump.html",
+      "publishedAt": "2026-08-17T23:15:03.000Z"
+    },
     {
       "source": "Axios",
       "title": "O Airbnb oferece um bônus de US$ 200 para anfitriões do Sundance",
@@ -25,14 +46,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump votou por correspondência nas primárias da Flórida: Reportagem",
+      "title": "Trump votou por correspondência nas eleições primárias da Flórida: Reportagem",
       "titleOriginal": "Trump voted by mail in Florida primary election: Report",
       "link": "https://thehill.com/homenews/administration/6034201-trump-returns-mail-in-ballot/",
       "publishedAt": "2026-08-17T22:39:27.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como 10.000 cidades americanas receberam seus nomes",
+      "title": "Como 10 mil cidades americanas receberam seus nomes",
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
       "publishedAt": "2026-08-17T22:20:31.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "L3Harris Ousts CEO After Investigation Into Conduct",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXFZRkl3LVRmdVJPR3NnVjZjaXFuQzdhR2hXLUt5TFQ1Sk84VXdVLUZwMVk5NS1qc3hWbjhDbU9jRVpQRENaZzlQcjlwT0VJOHlUQ0ZxSVpHT2c1UlNKVTMxRjlVT2dKaWc1Qm5GM1hmdEY4VHRudzFpSWYzNWxXb1JlMDdiNC1vdV9QcEhtZkcxU3B5bTNrQk5BZW0?oc=5",
       "publishedAt": "2026-08-17T21:57:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Construção do muro na fronteira de Big Bend suspensa pelo governo Trump",
-      "titleOriginal": "Big Bend border wall construction paused by Trump administration",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHhaM1FOdnRwOEFmMTRFVUhGMDRmZnJWODV1TGtrM2g2aUJzUlJyUDB2OHpZbU91RC0zcjBVMWU4aGxoTTR1Q2xVX294eWQtenBfdlI0MWh3R1dYbGFhLUlXelpDRXdHOHlHc1NrWkNQakZSSl9zOVJzWHhrTVlkRmlLWlpTUQ?oc=5",
-      "publishedAt": "2026-08-17T21:53:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os alunos da NEIU, em Chicago, agora podem se formar em IA",
-      "titleOriginal": "Students at NEIU in Chicago can now major in AI",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlRnQk1mS2FrNG9FU2x0Ylp1eUlicENETktkb1BlMUhFa09hbGJheEtaeDcwV2h2djBrN19zQ2RwV0NLeHVfekRZQk1YUE1Xd3BCcGwwbTVEOGtOSnVJWC1tTmNycXJFOFQ2QUo2S2ZPNDNTX01CWE1SODBIYjctR2J6c1JXOWpHNDY5NWIxdGJBamxXVHFRMmZMR0d1dTVXS0I4SzZaRQ?oc=5",
-      "publishedAt": "2026-08-17T21:52:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump culpa vândalos pelos danos à grama no local onde realizou sua grande comemoração do 4 de julho",
-      "titleOriginal": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
-      "publishedAt": "2026-08-17T21:52:00.000Z"
     }
   ]
 }
