@@ -2,7 +2,7 @@
 // - Cacheia o "shell" (páginas, ícones, imagens) para abrir rápido e offline.
 // - Usa network-first para os dados (news/clipping/trump), assim o conteúdo
 //   fica sempre o mais novo quando há internet, mas ainda abre offline.
-const VERSION = "v7";
+const VERSION = "v8";
 const SHELL_CACHE = "sorrilha-shell-" + VERSION;
 const DATA_CACHE = "sorrilha-data-" + VERSION;
 

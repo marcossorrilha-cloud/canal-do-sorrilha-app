@@ -130,8 +130,6 @@
   </div>
   <div class="actions">
     <button id="btnPreset" class="preset" style="display:none">Pré-carregar disputa 2026</button>
-    <button id="btnSave">Salvar cenário</button>
-    <button id="btnLoad">Carregar cenário</button>
     <button id="btnReset">Limpar o mapa</button>
   </div>
 </header>
@@ -519,20 +517,6 @@ document.getElementById('btnReset').addEventListener('click', ()=>{
   persist();
   render();
 });
-document.getElementById('btnSave').addEventListener('click', ()=>{
-  localStorage.setItem(SCENARIO_KEY, JSON.stringify(appState));
-  alert('Cenário salvo.');
-});
-document.getElementById('btnLoad').addEventListener('click', ()=>{
-  try{
-    const s = JSON.parse(localStorage.getItem(SCENARIO_KEY));
-    if(!s || !s.electoral){ alert('Nenhum cenário salvo encontrado.'); return; }
-    appState = s;
-    persist();
-    render();
-  }catch(e){ alert('Nenhum cenário salvo encontrado.'); }
-});
-
 d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json').then(buildMap);
 </script>
 </body>

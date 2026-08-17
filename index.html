@@ -157,7 +157,6 @@
     <div class="meta">
       <span>Principais manchetes — Politico, Axios, AP, The Hill, NYT e WSJ.</span>
       <span id="news-updated"></span>
-      <button class="refresh" data-refresh="news">Atualizar agora</button>
     </div>
     <div id="news-list"><div class="empty">Carregando…</div></div>
   </section>
@@ -168,7 +167,6 @@
     <div class="meta">
       <span>Baseado na newsletter <a href="https://marcossorrilha.substack.com/" target="_blank" rel="noopener">marcossorrilha.substack.com</a>.</span>
       <span id="clip-updated"></span>
-      <button class="refresh" data-refresh="clipping">Atualizar agora</button>
     </div>
     <div id="clip-list"><div class="empty">Carregando…</div></div>
     <a class="archive-link" id="archive-link" href="https://marcossorrilha.substack.com/archive" target="_blank" rel="noopener">Ver arquivo completo →</a>
@@ -185,7 +183,6 @@
     <div class="meta">
       <span>Fonte: <a href="https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin" target="_blank" rel="noopener">Silver Bulletin</a>.</span>
       <span id="trump-updated"></span>
-      <button class="refresh" data-refresh="trump">Atualizar agora</button>
     </div>
     <div class="approval-box" id="trump-box"><div class="empty">Carregando…</div></div>
   </section>
@@ -196,7 +193,6 @@
     <div class="meta">
       <span>Previsão: <a href="https://fiftyplusone.news/forecast/house" target="_blank" rel="noopener">FiftyPlusOne</a> (<a href="https://fiftyplusone.news/forecast/senate" target="_blank" rel="noopener">Senado</a>).</span>
       <span id="mid-updated"></span>
-      <button class="refresh" data-refresh="midterms">Atualizar agora</button>
     </div>
     <div id="mid-box"><div class="empty">Carregando…</div></div>
   </section>
@@ -350,14 +346,6 @@ document.querySelectorAll(".tab-btn").forEach((btn) => {
   });
 });
 
-// Botões "Atualizar agora" — recarregam o JSON já publicado (não a fonte original;
-// quem busca a fonte é o GitHub Actions no cron).
-document.querySelectorAll("[data-refresh]").forEach((btn) => {
-  btn.addEventListener("click", async () => {
-    btn.disabled = true; const old = btn.textContent; btn.textContent = "Atualizando…";
-    try { await RENDERERS[btn.dataset.refresh](); } finally { btn.textContent = old; btn.disabled = false; }
-  });
-});
 
 renderBlindspot(); renderNews(); renderClipping(); renderTrump(); renderMidterms();
 
