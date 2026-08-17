@@ -106,6 +106,28 @@
   .bs-card .bs-orig{font-family:'Barlow',sans-serif;font-size:11px;color:#9a9a9a;margin-top:3px;font-style:italic;}
   .bs-card .bs-note{font-size:12px;color:#666;}
   .bs-card .bs-cov{font-size:11px;color:#999;margin-top:6px;}
+
+  .mid-chamber{background:#fff;border:1px solid var(--border);border-radius:8px;padding:16px 18px;margin-bottom:12px;}
+  .mid-chamber h3{font-family:'Oswald',sans-serif;font-size:16px;font-weight:600;margin:0 0 8px;}
+  .mid-nums{display:flex;justify-content:space-between;font-family:'Oswald',sans-serif;font-weight:600;font-size:14px;margin-bottom:6px;}
+  .mid-nums .dem{color:var(--blue);}
+  .mid-nums .rep{color:var(--red);}
+  .mid-bar{position:relative;height:26px;background:var(--gray);border-radius:4px;overflow:hidden;}
+  .mid-bar .dem{position:absolute;left:0;top:0;bottom:0;background:var(--blue);}
+  .mid-bar .rep{position:absolute;right:0;top:0;bottom:0;background:var(--red);}
+  .mid-fav{font-size:12px;color:#555;margin-top:8px;}
+  .mid-states-title{font-family:'Oswald',sans-serif;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);margin:18px 0 8px;}
+  .mid-state{background:#fff;border:1px solid var(--border);border-radius:8px;padding:12px 14px;margin-bottom:8px;display:flex;align-items:center;gap:12px;border-left:5px solid var(--gray);}
+  .mid-state.D{border-left-color:var(--blue);}
+  .mid-state.R{border-left-color:var(--red);}
+  .mid-state .st-info{flex:1;}
+  .mid-state .st-name{font-family:'Oswald',sans-serif;font-weight:600;font-size:15px;}
+  .mid-state .st-cand{font-size:12px;color:#777;}
+  .mid-state .st-odds{font-family:'Oswald',sans-serif;font-weight:700;font-size:14px;text-align:right;white-space:nowrap;}
+  .mid-state.D .st-odds{color:var(--blue);}
+  .mid-state.R .st-odds{color:var(--red);}
+  .mid-state .st-odds .st-sub{display:block;font-family:'Barlow',sans-serif;font-weight:500;font-size:11px;color:#999;}
+  .mid-note{font-size:11px;color:#999;margin-top:12px;font-style:italic;}
 </style>
 </head>
 <body>
@@ -122,6 +144,7 @@
     <button class="tab-btn" data-tab="clipping">Clipping Diário</button>
     <button class="tab-btn" data-tab="simulador">Simulador Eleições</button>
     <button class="tab-btn" data-tab="trump">Popularidade Trump</button>
+    <button class="tab-btn" data-tab="midterms">Midterms</button>
   </nav>
 
   <!-- INÍCIO -->
@@ -165,6 +188,17 @@
       <button class="refresh" data-refresh="trump">Atualizar agora</button>
     </div>
     <div class="approval-box" id="trump-box"><div class="empty">Carregando…</div></div>
+  </section>
+
+  <!-- MIDTERMS -->
+  <section class="wrap narrow" data-panel="midterms" hidden>
+    <div class="section-title">Midterms 2026</div>
+    <div class="meta">
+      <span>Previsão: <a href="https://fiftyplusone.news/forecast/house" target="_blank" rel="noopener">FiftyPlusOne</a> (<a href="https://fiftyplusone.news/forecast/senate" target="_blank" rel="noopener">Senado</a>).</span>
+      <span id="mid-updated"></span>
+      <button class="refresh" data-refresh="midterms">Atualizar agora</button>
+    </div>
+    <div id="mid-box"><div class="empty">Carregando…</div></div>
   </section>
 
 <script>
@@ -264,7 +298,48 @@ async function renderBlindspot() {
   }
 }
 
-const RENDERERS = { news: renderNews, clipping: renderClipping, trump: renderTrump };
+async function renderMidterms() {
+  const box = document.getElementById("mid-box");
+  try {
+    const d = await loadJson("midterms.json");
+    document.getElementById("mid-updated").textContent = d.asOf ? ("Atualizado em " + d.asOf) : fmtUpdated(d.updatedAt);
+    const chamber = (nome, o) => {
+      const dem = Number(o && o.dem) || 0, rep = Number(o && o.rep) || 0;
+      const total = dem + rep || 1;
+      const fav = dem >= rep ? `Democratas favoritos (${dem}%)` : `Republicanos favoritos (${rep}%)`;
+      return `
+      <div class="mid-chamber">
+        <h3>${esc(nome)}</h3>
+        <div class="mid-nums"><span class="dem">DEM ${esc(dem)}%</span><span class="rep">REP ${esc(rep)}%</span></div>
+        <div class="mid-bar"><div class="dem" style="width:${(dem / total) * 100}%"></div><div class="rep" style="width:${(rep / total) * 100}%"></div></div>
+        <div class="mid-fav">${esc(fav)}</div>
+      </div>`;
+    };
+    const states = (d.states || []).map((s) => {
+      const side = s.favored === "D" ? "D" : s.favored === "R" ? "R" : "";
+      const favLabel = side === "D" ? "Democratas" : side === "R" ? "Republicanos" : "Empate técnico";
+      const prob = Number(s.prob) || 50;
+      return `
+      <div class="mid-state ${side}">
+        <div class="st-info">
+          <div class="st-name">${esc(s.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(s.office || "")}</span></div>
+          ${s.candidates ? `<div class="st-cand">${esc(s.candidates)}</div>` : ""}
+        </div>
+        <div class="st-odds">${esc(prob)}%<span class="st-sub">${esc(favLabel)}</span></div>
+      </div>`;
+    }).join("");
+    box.innerHTML =
+      chamber("Câmara (House)", d.house) +
+      chamber("Senado (Senate)", d.senate) +
+      `<div class="mid-states-title">7 estados mais disputados</div>` +
+      (states || `<div class="empty">Sem dados de estados.</div>`) +
+      (d.note ? `<div class="mid-note">${esc(d.note)}</div>` : "");
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Não foi possível carregar os midterms.</div>`;
+  }
+}
+
+const RENDERERS = { news: renderNews, clipping: renderClipping, trump: renderTrump, midterms: renderMidterms };
 
 // Abas
 document.querySelectorAll(".tab-btn").forEach((btn) => {
@@ -284,7 +359,7 @@ document.querySelectorAll("[data-refresh]").forEach((btn) => {
   });
 });
 
-renderBlindspot(); renderNews(); renderClipping(); renderTrump();
+renderBlindspot(); renderNews(); renderClipping(); renderTrump(); renderMidterms();
 
 // PWA: registra o service worker (deixa o app instalável e abrir offline).
 if ("serviceWorker" in navigator) {

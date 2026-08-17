@@ -2,7 +2,7 @@
 // - Cacheia o "shell" (páginas, ícones, imagens) para abrir rápido e offline.
 // - Usa network-first para os dados (news/clipping/trump), assim o conteúdo
 //   fica sempre o mais novo quando há internet, mas ainda abre offline.
-const VERSION = "v5";
+const VERSION = "v7";
 const SHELL_CACHE = "sorrilha-shell-" + VERSION;
 const DATA_CACHE = "sorrilha-data-" + VERSION;
 
@@ -21,7 +21,7 @@ const SHELL = [
 ];
 
 // Arquivos de dados: sempre tentar a rede primeiro.
-const DATA_FILES = ["news.json", "clipping.json", "trump.json", "blindspot.json"];
+const DATA_FILES = ["news.json", "clipping.json", "trump.json", "blindspot.json", "midterms.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
