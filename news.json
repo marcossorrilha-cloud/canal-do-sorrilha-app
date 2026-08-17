@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-17T14:57:05.364Z",
+  "updatedAt": "2026-08-17T15:53:09.312Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Legisladores democratas exigem respostas de Hegseth sobre o USS Abraham Lincoln",
+      "titleOriginal": "Democratic lawmakers demands answers from Hegseth on USS Abraham Lincoln",
+      "link": "https://thehill.com/policy/defense/6033332-senators-demand-uss-abraham-lincoln-info/",
+      "publishedAt": "2026-08-17T15:50:03.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os fundadores de startups de IA estão em constante mudança",
+      "titleOriginal": "AI startup founders are in flux",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zdkRrclBUZ29QX0VnZ29wWUlEakxfbnBuUjJrSGMweVFTQTBwS0VLc0hiUDRKZnJGNi1nRTl5bE1SQVk5UjRsRlBLNFFMdEItZzBHZXo0dlk4eUtwTkhWQk1mT2FMS2dK?oc=5",
+      "publishedAt": "2026-08-17T15:36:53.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aumentam os surtos de Cyclospora sem fontes confirmadas: FDA",
+      "titleOriginal": "Cyclospora outbreaks with no confirmed sources grow: FDA",
+      "link": "https://thehill.com/policy/healthcare/6032961-cyclospora-outbreaks-with-no-confirmed-sources-grow-fda/",
+      "publishedAt": "2026-08-17T15:15:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Uma residência no Lago Austin, em uma enseada privada",
+      "titleOriginal": "House of the Week: A Lake Austin Home on a Private Cove",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG1Mb2lDcGVMLWRqMEFOSkd2RFM5RkIxNzdxLVdVSUZ3WDk5a1NiX2xHd2RyRVo2RTRqMDlvZmhocTRsbTZrUC1yWDNoRDFyeHZ1aGRCcjNxZXVZSnY3T3ZfTThwVnlTanJTdmpJM3JEbllhVkI0NnEwNjVpSVh0WjJTY0JsMDRaZ25Kelhn?oc=5",
+      "publishedAt": "2026-08-17T15:14:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Não, as tropas não são mentalmente fracas. Elas simplesmente têm uma liderança péssima.",
+      "titleOriginal": "No, the troops aren’t mentally weak. They just have terrible leadership.",
+      "link": "https://thehill.com/opinion/national-security/6032605-trump-hegseth-troop-welfare/",
+      "publishedAt": "2026-08-17T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A mais recente ordem de Trump sobre a cidadania por direito de nascimento também é inconstitucional",
+      "titleOriginal": "Trump's latest birthright citizenship order is also unconstitutional",
+      "link": "https://thehill.com/opinion/immigration/6030737-trump-birthright-citizenship-order/",
+      "publishedAt": "2026-08-17T15:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Turista norte-americano morre após ser atingido por um raio durante uma caminhada no Monte Etna, na Sicília",
+      "titleOriginal": "US tourist dies after being struck by lightning while hiking Sicily’s Mount Etna",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhmSklyVXlNc2NGM3BXVnlJOFFNaTlBNUNmUjJ3ODZRRjZWUkhsZEI3N0EwcHd0aFdYLTVpNU85OHA1NlItNkp2M0hMR3VwNjBmYXktT2phbDVmakU2Q2FIZmxobUlrMWlZbmViRWhjckxIYTZ5SWV6d2Y2SHVUc0llR05pdTR2X2dsdU9GODQ3S3Y0eHVMdS10MGNYeWpsWTkw?oc=5",
+      "publishedAt": "2026-08-17T14:58:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Como 10.000 cidades americanas receberam seus nomes",
@@ -11,66 +60,17 @@
     },
     {
       "source": "AP News",
+      "title": "Incêndio florestal na Bélgica se aproxima da Alemanha enquanto a Grécia investiga incêndio mortal",
+      "titleOriginal": "Belgian wildfire approaches Germany as Greece probes deadly blaze",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkEtaURhc3NWTDhHUDNMNDZ3bWVDZnFsQVk1ekdLZnQ3N1cwV04xN0VfYmNRcmxNbzNkVnZLXzQ2T2FCWDI5Z1lxREZvcVJERlhsSnc2ZkhLN1k4UmI2U3d5dzhiQk1INFZ2bjN6aHJxbmlhTmsxbjdVcDhKZTQyb2U2U2hvdllVR1FTMzQzUVpWbUthRkQ1Tjd5UG0ydm44dE1pVA?oc=5",
+      "publishedAt": "2026-08-17T14:48:00.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Trump ameaça Omã enquanto o país negocia com o Irã um acordo sobre o Estreito de Ormuz e outras notícias do Oriente Médio",
       "titleOriginal": "Trump threatens Oman as it works with Iran on Strait of Hormuz deal and other Middle East news",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5",
       "publishedAt": "2026-08-17T14:46:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Markey supera Moulton em nova pesquisa sobre as primárias para o Senado",
-      "titleOriginal": "Markey dominates Moulton in new Senate primary poll",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFdJM3I0TVFuT2RyWkMxcmhQay1RbC1MamFuZEJwN3h3bXVyc0RaOFlGSnFvN1pYcXdBeVFaaEFUVm9PNmEwRy1mM05DR2tWYnZsWUI3NTNXR2ZmcGlVcTJ5cm9ySGRJVU02TFZvTHI0YVQxZEpxa3M5bTBuWE82SklLWEdHX2s?oc=5",
-      "publishedAt": "2026-08-17T14:39:20.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações dos EUA se mantêm próximas de seus níveis recordes",
-      "titleOriginal": "US stocks hang near their record heights",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
-      "publishedAt": "2026-08-17T14:38:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quer “viver confortavelmente” no seu estado? Quanto você precisa ganhar, segundo um novo estudo",
-      "titleOriginal": "Want to 'live comfortably' in your state? How much you have to earn, per a new study",
-      "link": "https://thehill.com/business/personal-finance/6032428-want-to-live-comfortably-in-your-state-how-much-you-have-to-earn-per-a-new-study/",
-      "publishedAt": "2026-08-17T14:33:21.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A OpenAI anuncia um enorme centro de dados em Ohio com garantia da Nvidia",
-      "titleOriginal": "OpenAI announces massive data center in Ohio with Nvidia guarantee",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ?oc=5",
-      "publishedAt": "2026-08-17T14:31:53.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O plano secreto do Irã para intensificar a guerra",
-      "titleOriginal": "Iran’s Secret Plan to Escalate the War",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
-      "publishedAt": "2026-08-17T14:31:14.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Perspectivas para a próxima semana no mercado de câmbio e de títulos: atas do Fed e dados da China em destaque",
-      "titleOriginal": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHRHVk1kbERfZG14am9PVy1HQkJBU3R5ZTBVLVp6VjBLQS1MLWs0QS0xOG4xTC1pcnY5ZXd6cXFESUg5UmxGLUZHcjBhbzYySWFtNGo1SkpqdGxsQUh2NDZyUlZGTzNHdjh3QUlYQy16UVplOUxlMjVGVl9wMXFsWC1lZWJMaElxdWZuNHZYNU53Yy1VNG84?oc=5",
-      "publishedAt": "2026-08-17T14:30:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A esperança em ação está se conectando com o futuro da política dos EUA",
-      "titleOriginal": "Hope in action is connecting with the future of US politics",
-      "link": "https://thehill.com/opinion/campaign/6030546-young-elected-officials-network-gathering/",
-      "publishedAt": "2026-08-17T14:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Ballard poderia ter um metrô leve em 2042 — ou ter que esperar até 2060",
-      "titleOriginal": "Ballard could get light rail in 2042 — or wait until 2060",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejNKMW5KbEJMcGdXdVpRZG1Xc0k3MXcwSFB2T1hwQjd5RDF1SXZKZWJmUnRjdzN1SzBwUU8tdFVNT3FQRWM2Uzd1NWwzZHlPUXFnM2dBbGtkUkppNkNCTnFRVl9kU3pFbjdCWm5QNDZONl96VmczeW9DQW1mN0lxcUh4bVFUa1JIMDJTM3FjMktYUjVFYk00OW9DVHA?oc=5",
-      "publishedAt": "2026-08-17T14:24:01.000Z"
     }
   ]
 }
