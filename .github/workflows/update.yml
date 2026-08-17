@@ -1,13 +1,12 @@
 name: Atualizar conteúdo do app
 
-# Roda de hora em hora e atualiza notícias, clipping e aprovação de Trump.
-# Cada arquivo só gera commit se realmente mudou, então não há "barulho".
+# Roda de hora em hora: notícias (Em tempo real), aprovação de Trump e Blind Spot.
+# O clipping tem workflow próprio (clipping.yml), mais frequente.
+# Cada arquivo só gera commit se realmente mudou.
 on:
   schedule:
     - cron: "0 * * * *"      # toda hora cheia (UTC)
   workflow_dispatch:
-    # Rodada manual. Para forçar a aprovação de Trump na mão, preencha os campos;
-    # deixe em branco para coleta automática.
     inputs:
       approval:
         description: "Trump — Aprovação % (opcional)"
@@ -45,10 +44,6 @@ jobs:
         run: node fetch-news.mjs
         continue-on-error: true
 
-      - name: Coletar clipping (Substack)
-        run: node fetch-clipping.mjs
-        continue-on-error: true
-
       - name: Atualizar aprovação de Trump
         env:
           TRUMP_APPROVAL: ${{ github.event.inputs.approval }}
@@ -58,7 +53,7 @@ jobs:
         run: node fetch-trump.mjs
         continue-on-error: true
 
-      - name: Calcular Blind Spot (1x/dia)
+      - name: Calcular Blind Spot (2x/dia)
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: node fetch-blindspot.mjs
@@ -68,10 +63,11 @@ jobs:
         run: |
           git config user.name "canal-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json clipping.json trump.json blindspot.json
+          git add news.json trump.json blindspot.json
           if git diff --cached --quiet; then
             echo "Nada mudou."
           else
             git commit -m "chore: atualização automática $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git pull --rebase --autostash origin main || true
             git push
           fi
