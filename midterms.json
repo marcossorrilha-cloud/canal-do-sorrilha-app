@@ -9,10 +9,10 @@
   "states": [
     { "state": "Ohio", "office": "Senado", "candidates": "Sherrod Brown (D) × Jon Husted (R)", "favored": "D", "prob": 60 },
     { "state": "Michigan", "office": "Senado", "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)", "favored": "R", "prob": 58 },
-    { "state": "Texas", "office": "Senado", "candidates": "", "favored": "D", "prob": 52 },
-    { "state": "Carolina do Norte", "office": "Senado", "candidates": "", "favored": "D", "prob": 55 },
-    { "state": "Geórgia", "office": "Senado", "candidates": "", "favored": "D", "prob": 57 },
-    { "state": "Maine", "office": "Senado", "candidates": "", "favored": "", "prob": 50 },
-    { "state": "Iowa", "office": "Senado", "candidates": "", "favored": "R", "prob": 55 }
+    { "state": "Texas", "office": "Senado", "candidates": "James Talarico (D) × Ken Paxton (R)", "favored": "D", "prob": 52 },
+    { "state": "Carolina do Norte", "office": "Senado", "candidates": "Roy Cooper (D) × Michael Whatley (R)", "favored": "D", "prob": 55 },
+    { "state": "Geórgia", "office": "Senado", "candidates": "Jon Ossoff (D) × Mike Collins (R)", "favored": "D", "prob": 57 },
+    { "state": "Maine", "office": "Senado", "candidates": "Graham Platner (D) × Susan Collins (R)", "favored": "", "prob": 50 },
+    { "state": "Iowa", "office": "Senado", "candidates": "Josh Turek (D) × Ashley Hinson (R)", "favored": "R", "prob": 55 }
   ]
 }
