@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:51:31.217Z",
+  "updatedAt": "2026-08-18T17:58:15.630Z",
   "count": 10,
   "items": [
     {
@@ -11,14 +11,14 @@
     },
     {
       "source": "New York Times",
-      "title": "O panorama das pesquisas na Flórida é limitado, com exceção de uma disputa importante",
+      "title": "O panorama das pesquisas na Flórida é limitado, exceto por uma disputa importante",
       "titleOriginal": "Florida’s Polling Picture Is Limited Other Than One Key Race",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-polling-byron-donalds.html",
       "publishedAt": "2026-08-18T17:33:40.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Darline Graham não se pronuncia sobre se Thune deveria continuar como líder do Partido Republicano",
+      "title": "Darline Graham não se pronuncia sobre se Thune deve continuar como líder do Partido Republicano",
       "titleOriginal": "Darline Graham won't say whether Thune should remain GOP leader",
       "link": "https://thehill.com/homenews/senate/6035650-darline-graham-john-thune-gop-leadership/",
       "publishedAt": "2026-08-18T17:33:16.000Z"
@@ -60,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump cita as regras de identificação do eleitor na Índia para pedir a aprovação da Lei SAVE America",
+      "title": "Trump cita as regras de identificação do eleitor da Índia ao pedir a aprovação da Lei SAVE America",
       "titleOriginal": "Trump points to India’s voter ID rules in call to pass SAVE America Act",
       "link": "https://thehill.com/homenews/administration/6035569-trump-india-save-act/",
       "publishedAt": "2026-08-18T17:21:13.000Z"
