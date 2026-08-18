@@ -1,24 +1,59 @@
 {
-  "updatedAt": "2026-08-18T20:53:34.537Z",
+  "updatedAt": "2026-08-18T21:49:37.343Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Tribunal mantém norma da EPA que obriga os poluidores a arcar com os custos da poluição causada por “substâncias químicas eternas”",
+      "titleOriginal": "Court upholds EPA rule forcing polluters to pay for 'forever chemical' pollution",
+      "link": "https://thehill.com/policy/energy-environment/6036645-court-upholds-forever-chemicals-designation/",
+      "publishedAt": "2026-08-18T21:44:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump afirma que os EUA não têm negociações planejadas com o Irã e outras notícias do Oriente Médio",
+      "titleOriginal": "Trump says US has no talks planned with Iran and other news from the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+      "publishedAt": "2026-08-18T21:27:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Destruidor da Marinha ficou dias sem energia no Mar da China Meridional, deixando os marinheiros sem banheiros",
+      "titleOriginal": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
+      "link": "https://thehill.com/policy/defense/6036514-uss-benfold-south-china-sea-engineering-casualty/",
+      "publishedAt": "2026-08-18T21:24:21.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O salão de festas de Trump está sendo construído a uma velocidade alucinante: 20 horas por dia, 7 dias por semana",
+      "title": "Tribunal bloqueia a construção de estrada que atravessa o Refúgio Nacional de Vida Selvagem de Izembek",
+      "titleOriginal": "Court Blocks Road Through Izembek National Wildlife Refuge",
+      "link": "https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html",
+      "publishedAt": "2026-08-18T21:17:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A Flórida foi um dos campos de batalha na guerra pela redistribuição distrital vencida pelo Partido Republicano.",
+      "titleOriginal": "Florida was one front in a redistricting war won by the G.O.P.",
+      "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/republicans-redistricting-wars",
+      "publishedAt": "2026-08-18T21:03:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Resultados em tempo real: Wyoming escolhe candidatos para a disputa pelo cargo de governador",
+      "titleOriginal": "Live results: Wyoming picks candidates for open governor's race",
+      "link": "https://thehill.com/homenews/campaign/6032272-live-results-wyoming-governor-primary/",
+      "publishedAt": "2026-08-18T21:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O salão de festas de Trump está sendo construído a um ritmo alucinante: 20 horas por dia, 7 dias por semana",
       "titleOriginal": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
       "publishedAt": "2026-08-18T20:47:54.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Dan Sullivan afirma que votou em Peltola duas vezes nas eleições para a Câmara dos Deputados",
-      "titleOriginal": "Second Dan Sullivan says he voted for Peltola twice in House races",
-      "link": "https://thehill.com/homenews/campaign/6036297-dan-j-sullivan-alaska-senate-race-mary-peltola/",
-      "publishedAt": "2026-08-18T20:44:27.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Empresa de pesquisas divulgou dados falsos nas disputas eleitorais de Hong e Bass como um “experimento social”",
+      "title": "Empresa de pesquisas divulgou dados falsos nas disputas eleitorais de Hong e Bass como uma “experiência social”",
       "titleOriginal": "Polling Firm Released Fake Data in Hong and Bass Races as a ‘Social Experiment’",
       "link": "https://www.nytimes.com/2026/08/18/polls/median-strategies-polls-bass-california-wisconsin.html",
       "publishedAt": "2026-08-18T20:40:03.000Z"
@@ -32,45 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "O panorama das pesquisas na Flórida é limitado, exceto por uma disputa importante",
+      "title": "O panorama das pesquisas na Flórida é limitado, com exceção de uma disputa importante",
       "titleOriginal": "Florida’s Polling Picture Is Limited Other Than One Key Race",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-polling-byron-donalds.html",
       "publishedAt": "2026-08-18T20:14:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ossoff afirma que Trump é um “presidente vigarista que se esquivou do serviço militar” em reunião pública na Geórgia",
-      "titleOriginal": "Ossoff says Trump is 'draft-dodging crook president' at Georgia town hall meeting",
-      "link": "https://thehill.com/homenews/administration/6036115-ossoff-calls-trump-crook/",
-      "publishedAt": "2026-08-18T19:57:08.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Em busca de respostas do homem acusado de sabotar a disputa pelo Senado no Alasca",
-      "titleOriginal": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
-      "publishedAt": "2026-08-18T19:54:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A Flórida foi um dos campos de batalha na guerra pela redistribuição distrital vencida pelo Partido Republicano.",
-      "titleOriginal": "Florida was one front in a redistricting war won by the G.O.P.",
-      "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/republicans-redistricting-wars",
-      "publishedAt": "2026-08-18T19:42:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente da Câmara do Irã afirma que Bessent e Hegseth estão “muito acima do seu nível”",
-      "titleOriginal": "Iran's Speaker says Bessent and Hegseth are 'way out of their league'",
-      "link": "https://thehill.com/homenews/administration/6036181-iranian-speaker-bashes-bessent-hegseth/",
-      "publishedAt": "2026-08-18T19:41:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A ABC entra com uma ação judicial com base na Primeira Emenda contra a FCC",
-      "titleOriginal": "ABC files First Amendment lawsuit against FCC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94WnFGdGVrNk03bXg3cTZ3UElwcnZWR2VvNEUyeE44c3hLV3pjSXNtekZjSWVQR0h6YVhqUURzOWFwMi10Y3BUWERQRkowdmN4aDlHNnhMMmRQQzc4aGx1N2dKNm5tZ3NyQ3NlU25fNkJoQQ?oc=5",
-      "publishedAt": "2026-08-18T19:32:19.000Z"
     }
   ]
 }
