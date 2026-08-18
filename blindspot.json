@@ -1,24 +1,5 @@
 {
-  "updatedAt": "2026-08-18T13:19:51.872Z",
-  "slot": "2026-08-18-AM",
-  "items": [
-    {
-      "audience": "right",
-      "label": "Ponto cego da direita",
-      "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
-      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
-      "source": "Imprensa de esquerda",
-      "coverage": 3
-    },
-    {
-      "audience": "left",
-      "label": "Ponto cego da esquerda",
-      "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "(exemplo) O primeiro Blind Spot aparecerá após a próxima coleta automática",
-      "link": "https://marcossorrilha-cloud.github.io/canal-do-sorrilha-app/",
-      "source": "Imprensa de direita",
-      "coverage": 3
-    }
-  ]
+  "updatedAt": "2026-08-18T12:00:00.000Z",
+  "slot": "",
+  "items": []
 }

@@ -129,31 +129,25 @@ async function collect(map, side) {
     } catch (e) {
       console.warn(`  ! ${name} (${domain}) falhou: ${e.message}`);
     }
+    await new Promise((r) => setTimeout(r, 300)); // respiro p/ não ser bloqueado
   }
   return out;
 }
 
-// escolhe o melhor candidato de um lado: mais fontes cobrindo, depois mais recente
+// escolhe o melhor "ponto cego": história claramente de um lado — cobertura bem maior
+// de um lado do que do outro (não exige zero do outro, para sempre encontrar algo).
 function chooseBlindspot(clusters, coveredSide, ignoredSide) {
   const cands = [];
   for (const c of clusters) {
-    const coveredDomains = new Set(c.items.filter((i) => i.side === coveredSide).map((i) => i.domain));
-    const ignoredDomains = new Set(c.items.filter((i) => i.side === ignoredSide).map((i) => i.domain));
-    if (ignoredDomains.size === 0 && coveredDomains.size >= 2) {
-      // artigo representante = mais recente do lado que cobriu
-      const rep = c.items
-        .filter((i) => i.side === coveredSide)
-        .sort((a, b) => b._t - a._t)[0];
-      cands.push({ coverage: coveredDomains.size, t: rep._t, rep });
-    }
+    const cov = new Set(c.items.filter((i) => i.side === coveredSide).map((i) => i.domain)).size;
+    const ign = new Set(c.items.filter((i) => i.side === ignoredSide).map((i) => i.domain)).size;
+    if (cov < 2) continue; // pelo menos 2 fontes cobrindo
+    if (cov - ign < 2) continue; // e claramente de um lado (diferença >= 2)
+    const rep = c.items.filter((i) => i.side === coveredSide).sort((a, b) => b._t - a._t)[0];
+    cands.push({ coverage: cov, ignored: ign, t: rep._t, rep });
   }
-  // prioriza os que exigem >=3 fontes (sinal mais forte); depois cobertura; depois recência
-  cands.sort(
-    (a, b) =>
-      Number(b.coverage >= 3) - Number(a.coverage >= 3) ||
-      b.coverage - a.coverage ||
-      b.t - a.t
-  );
+  // ideal: ninguém do outro lado; depois mais cobertura; depois mais recente
+  cands.sort((a, b) => a.ignored - b.ignored || b.coverage - a.coverage || b.t - a.t);
   return cands[0] || null;
 }
 
