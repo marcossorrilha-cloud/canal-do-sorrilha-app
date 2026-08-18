@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-18T11:56:50.799Z",
+  "updatedAt": "2026-08-18T13:14:59.594Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Tina Peters recebeu uma proposta para trabalhar como consultora eleitoral na Califórnia",
+      "titleOriginal": "Tina Peters offered job as elections consultant in California",
+      "link": "https://thehill.com/homenews/state-watch/6034702-tina-peters-california-clerk/",
+      "publishedAt": "2026-08-18T12:59:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O salão de baile de Trump não é um “monumento” — é um abuso do poder constitucional",
+      "titleOriginal": "Trump's ballroom is no 'monument' — it's an abuse of constitutional power",
+      "link": "https://thehill.com/opinion/judiciary/6033438-supreme-court-white-house-project/",
+      "publishedAt": "2026-08-18T12:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça toma medidas para restabelecer o direito ao porte de armas para algumas pessoas condenadas por crimes graves",
+      "titleOriginal": "DOJ moves to restore gun rights for some convicted of felonies",
+      "link": "https://thehill.com/regulation/court-battles/6034618-doj-gun-rights-restoration-felons/",
+      "publishedAt": "2026-08-18T12:15:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ossoff: “Não tenho o menor interesse” em concorrer à presidência em 2028",
+      "titleOriginal": "Ossoff: 'Zero interest' in running for president in 2028",
+      "link": "https://thehill.com/homenews/senate/6034619-jon-ossoff-georgia-democrat-2028-ambitions/",
+      "publishedAt": "2026-08-18T12:08:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Se Trump quiser reduzir os custos, ele deveria revogar essa regra portuária da Califórnia",
+      "titleOriginal": "If Trump wants to lower costs, he should override this California port rule",
+      "link": "https://thehill.com/opinion/energy-environment/5981654-repeal-california-port-regulations/",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A grande esperança dos democratas para as eleições de meio de mandato: os governadores",
@@ -10,67 +45,32 @@
       "publishedAt": "2026-08-18T11:30:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Candidatos ao conselho escolar de Chicago estão divididos quanto ao compromisso com o uso da IA",
-      "titleOriginal": "Chicago school board candidates are divided on AI use pledge",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVh0Z1lfa3g3OTFZZDdyd0locVNoTFpXUFotTkYxaHNYX0NUUzJpYnh2QVpmMU5neVk4d2kzU2RqSFhMQ1pod1lBZFVhUEZ6QWxMWC1GZU5iUUpITFEtQmJIOTZkSkFUaERDVVZlZXZZczdaYUJTbkFCY0lHazJKMmx5TklPTHhRd0VBR0xpb21tTF9BX29V?oc=5",
-      "publishedAt": "2026-08-18T11:29:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Kansas City não consegue parar de pesquisar no Google “viagem sozinho”",
-      "titleOriginal": "Kansas City can't stop Googling \"solo travel\"",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkpLTS1CQXlzeHBBX25ORndsRFllRkM5R01Vb1hmVWFMV0h6ZllrLUc2T0dremQ0c0ZxMzN0cW1sRWJFZjRRMUdVTHU0bmhzbEFobVAzMHJoTVZDVUw5bFh2bmNGM3JQcVZLTlBNMXlBSWtObUxBQWpSVVhpUXBJc2pwTkFOYW92ZE00U0xhOGxXQ1Z6?oc=5",
-      "publishedAt": "2026-08-18T11:29:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Como as câmeras Flock são utilizadas na região metropolitana de Nova Orleans",
-      "titleOriginal": "How Flock cameras are used in New Orleans metro",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3hIVkh1MUVjRUVFTjFXbGN1ZnZmR2NSb3F1bDBQVjVpTXhJcWVOLUVleG9lNUYtTGJjOFdhc19QRmpwYlVYVWFDZXdyUnVQTFBXTHNyZXpTeV90ZWVkdThlakpWaEF4bW54aTlhdTZnSHFrd3Z1M2FNdHBxejlldEUzQ05nZTJ2SlBraVJDcEZUbmF2YWVkSDdFSQ?oc=5",
-      "publishedAt": "2026-08-18T11:29:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Como os órgãos governamentais da Louisiana estão utilizando a IA",
-      "titleOriginal": "How Louisiana government agencies are using AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVdhTlR1TEg3R0RmQTUwZzJSZDNaTUl2ZV9uUXptNTlvQUNUUURsaC1QWjdCWnNEQlZROTdUSC1JRUo1bTh0QnJnTThOamtlbVVXbFlsZDlrSDFNSW9hRm4yS0VOOG5nRC1JWFpVeUY3UDdVcEw2TTU0UVY4SDNOTWR2cHFJa01OR2VWaWNGeEc?oc=5",
-      "publishedAt": "2026-08-18T11:28:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O novo laboratório da Auburn tem como objetivo acelerar as aplicações nas áreas espacial e de defesa",
-      "titleOriginal": "Auburn's new lab aims to accelerate space and defense applications",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXJsemx2ODA2QU1BYUxqT0dBcTFrMFhLelZjOWRBaU5pLUZaS0RLSHVyYVR6anR5bHJhbVdVd3pWTUNvVlRtVWpvazJMT0tpUTdRdHY5TUo3dlJuV3BVWDZVY1F6TzdaZ1pOR2x0VFVubm5zLXlyV1ZSMG5NeVRPOFlWbVdOamJPaF9taXRwcUhUYWh2enF2RzlGZzVlbk8ydWtFM284STc0U0FtQUtVdFpTdzFuWGtxM1dLbU1zbDBCMVFm?oc=5",
-      "publishedAt": "2026-08-18T11:25:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Citação do dia: “Qual é o sentido de manter meu corpo vivo?”",
-      "titleOriginal": "Quote du jour: \"What is the point of keeping my body alive?\"",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFc4UDF4NEhpRHFETmVPNEY2ZTBwUEs4RHRhSjdiNWtpRTZHM01FWXRJNy1USmN3bjBxcVcwVU9CUnUtVmlodGF5eVRHa2l1cE1NaE9yNXhmaHpBbWQ4WEdFY0Y5NmpBUGsyYzlqQktwVmlfSEdFeDNjUXR0LVFZYnVIeFFGbjcyWG1NUzIxNWp4bGEzdzdUbQ?oc=5",
-      "publishedAt": "2026-08-18T11:19:37.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "KC perdeu seis cervejarias. Não é da cerveja que as pessoas sentem falta.",
-      "titleOriginal": "KC lost six breweries. The beer isn't what people miss.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1B4OV8xQ2NrVkVhdzMyUVNXV2tiU3hVM2hlWlNEQ2IyR0ktODU0SktKanM2RFZpVjk5NjU2Slo2eUxTOEoweF9DNnR5LUNmbTRJUVZVRHdiR2RlaHFrT1Z6SXFzUWluZ0V2YmlUeHM0bUtFamRFbjZRYXdZYUtmbnVVcEJTZ1BRcTZuVzV1dzNBUlRvZlA5QXMyV2Q?oc=5",
-      "publishedAt": "2026-08-18T11:14:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Amtrak comemora um ano de serviços na Costa do Golfo",
-      "titleOriginal": "Amtrak marks a year of Gulf Coast service",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY01vbEQ3cFQzZHdPaHQyQWZWLURaekJkOU5tejhoZEhrcXdPcEpRTVczTkhvM3BTemxTTHB2OEt4b2pTR2QxcVVadE9UMDg2dEFDUlI3VktoaXZMUnNmYTM1MGp6cjhubWNNY01hWWF2OHMya3JyNGFXVFFzNXBGVGgzZDBGTzExd19ZZGV5MDh0ZjJPVzU2NV9iOHpKUm11?oc=5",
-      "publishedAt": "2026-08-18T11:14:11.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "O futuro do Partido Republicano da Flórida está em jogo, com os Donalds na liderança",
+      "title": "O futuro do Partido Republicano da Flórida está em jogo, com Donalds na liderança",
       "titleOriginal": "Future of Florida GOP up for grabs with Donalds in pole position",
       "link": "https://thehill.com/newsletters/morning-report/6034576-florida-gop-primaries-future-byron-donalds/",
       "publishedAt": "2026-08-18T11:07:12.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As primárias da Flórida destacam a nova identidade do estado como uma potência republicana",
+      "titleOriginal": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
+      "publishedAt": "2026-08-18T09:03:48.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Em busca de respostas do homem acusado de sabotar a disputa pelo Senado no Alasca",
+      "titleOriginal": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
+      "publishedAt": "2026-08-18T09:02:59.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O que há por trás de um código de aeroporto? Em West Palm Beach, são as iniciais do presidente.",
+      "titleOriginal": "What’s in an Airport Code? In West Palm Beach, It’s the President’s Initials.",
+      "link": "https://www.nytimes.com/2026/08/18/travel/palm-beach-president-donald-trump-airport.html",
+      "publishedAt": "2026-08-18T09:02:51.000Z"
     }
   ]
 }
