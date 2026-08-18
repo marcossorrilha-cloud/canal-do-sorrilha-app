@@ -3,6 +3,7 @@
 Fonte: **FiftyPlusOne** (equipe ex-538) — forecast **grátis de ler** no site:
 - Câmara: <https://fiftyplusone.news/forecast/house>
 - Senado: <https://fiftyplusone.news/forecast/senate>
+- Corridas estado a estado (com % e rating): <https://fiftyplusone.news/forecast/senate> → seção **"By race"** (filtros Toss-Up / Lean Dem etc.). O número "X out of 100" é a chance de vitória daquele candidato.
 
 Os dados legíveis por máquina (API) deles são pagos e as páginas usam JavaScript, então
 **o robô não puxa sozinho** — esta aba é atualizada por você, editando o `midterms.json`.
@@ -29,7 +30,8 @@ graça nas páginas acima e digita no arquivo.
       "office": "Senado",                       // Senado / Câmara / Governo
       "candidates": "Sherrod Brown (D) × Jon Husted (R)",  // opcional
       "favored": "D",                           // "D", "R" ou "" (empate técnico)
-      "prob": 62                                // % do favorito vencer
+      "prob": 62,                               // % do favorito vencer (o "X out of 100")
+      "rating": "Toss-Up"                       // rótulo da FiftyPlusOne: Toss-Up / Lean Dem / Lean Rep…
     }
   ]
 }

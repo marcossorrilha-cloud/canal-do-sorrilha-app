@@ -315,19 +315,20 @@ async function renderMidterms() {
       const side = s.favored === "D" ? "D" : s.favored === "R" ? "R" : "";
       const favLabel = side === "D" ? "Democratas" : side === "R" ? "Republicanos" : "Empate técnico";
       const prob = Number(s.prob) || 50;
+      const sub = s.rating || favLabel;
       return `
       <div class="mid-state ${side}">
         <div class="st-info">
           <div class="st-name">${esc(s.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(s.office || "")}</span></div>
           ${s.candidates ? `<div class="st-cand">${esc(s.candidates)}</div>` : ""}
         </div>
-        <div class="st-odds">${esc(prob)}%<span class="st-sub">${esc(favLabel)}</span></div>
+        <div class="st-odds">${esc(prob)}%<span class="st-sub">${esc(sub)}</span></div>
       </div>`;
     }).join("");
     box.innerHTML =
       chamber("Câmara (House)", d.house) +
       chamber("Senado (Senate)", d.senate) +
-      `<div class="mid-states-title">7 estados mais disputados</div>` +
+      `<div class="mid-states-title">Estados mais disputados</div>` +
       (states || `<div class="empty">Sem dados de estados.</div>`) +
       (d.note ? `<div class="mid-note">${esc(d.note)}</div>` : "");
   } catch (e) {
