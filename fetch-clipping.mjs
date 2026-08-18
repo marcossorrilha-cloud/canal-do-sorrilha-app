@@ -7,7 +7,13 @@
 //   3) acesso direto (último recurso; normalmente 403 no GitHub)
 // Se TODAS falharem, mantém o clipping.json anterior e NÃO quebra o job.
 import Parser from "rss-parser";
-import { fetchText, writeJson, truncate, toTime } from "./lib.mjs";
+import { fetchText, writeJson, readJson, truncate, toTime } from "./lib.mjs";
+
+// "DD/MM/AAAA" -> timestamp (para comparar com o post mais novo já salvo).
+function parseBrDate(d) {
+  const m = /(\d{2})\/(\d{2})\/(\d{4})/.exec(d || "");
+  return m ? Date.UTC(+m[3], +m[2] - 1, +m[1]) : 0;
+}
 
 const SUBSTACK_FEED = "https://marcossorrilha.substack.com/feed";
 const ARCHIVE_URL = "https://marcossorrilha.substack.com/archive";
@@ -142,6 +148,18 @@ async function main() {
   results.sort((a, b) => b.newest - a.newest);
   console.log(`  · escolhida: ${results[0].name}`);
 
+  // NUNCA voltar para trás: se o que buscamos não é mais novo que o já salvo
+  // (ex.: proxy devolveu cache velho), mantém o atual e não sobrescreve.
+  const prev = readJson("clipping.json", {});
+  const prevNewest = Math.max(
+    Number(prev.newestTs) || 0,
+    ...(prev.items || []).map((i) => parseBrDate(i.date))
+  );
+  if (results[0].newest <= prevNewest) {
+    console.log("  · o que veio não é mais novo que o atual — mantendo o clipping.json.");
+    return;
+  }
+
   const items = results[0].items
     .sort((a, b) => b._t - a._t)
     .slice(0, MAX_ITEMS)
@@ -149,6 +167,7 @@ async function main() {
 
   writeJson("clipping.json", {
     updatedAt: new Date().toISOString(),
+    newestTs: results[0].newest,
     archiveUrl: ARCHIVE_URL,
     count: items.length,
     items,
