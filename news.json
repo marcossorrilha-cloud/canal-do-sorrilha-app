@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-18T13:49:56.523Z",
+  "updatedAt": "2026-08-18T14:05:43.370Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Uma pequena alteração pode garantir que o projeto de lei sobre esportes universitários não prejudique os esportes femininos",
+      "titleOriginal": "A tiny fix can ensure the college sports bill won't damage women's sports",
+      "link": "https://thehill.com/opinion/congress-blog/6032618-a-tiny-fix-can-ensure-the-college-sports-bill-wont-damage-womens-sports/",
+      "publishedAt": "2026-08-18T14:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump homenageia um salva-vidas adolescente e critica um repórter da CNN",
@@ -11,38 +18,45 @@
     },
     {
       "source": "The Hill",
-      "title": "Manchin pede mudanças nas eleições: “Não há competição”",
+      "title": "Manchin pede mudanças no sistema eleitoral: “Não há concorrência”",
       "titleOriginal": "Manchin calls for change in elections: 'There's no competition'",
       "link": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries/",
       "publishedAt": "2026-08-18T13:30:57.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Chegou a era dos republicanos que gastam à vontade",
+      "title": "Chegou a era dos republicanos que não medem gastos",
       "titleOriginal": "The age of big-spending Republicans is here",
       "link": "https://thehill.com/opinion/finance/6034392-federal-debt-hits-39-trillion/",
       "publishedAt": "2026-08-18T13:30:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Os preços da gasolina estão subindo, mas os motoristas que usam esse tipo de combustível estão em situação ainda pior",
+      "title": "Os preços do gás estão subindo, mas os motoristas que usam esse tipo de combustível estão em situação ainda pior",
       "titleOriginal": "Gas prices are rising, but drivers using this type of fuel have it worse",
       "link": "https://thehill.com/policy/energy-environment/6033834-gas-prices-are-rising-but-drivers-using-this-type-of-fuel-have-it-worse/",
       "publishedAt": "2026-08-18T13:29:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "A Ucrânia lança um ataque relâmpago com drones contra Moscou, enquanto mísseis russos matam 10 pessoas em um vilarejo ucraniano",
+      "title": "A Ucrânia lança uma ofensiva com drones contra Moscou, enquanto mísseis russos matam 10 pessoas em um vilarejo ucraniano",
       "titleOriginal": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
       "publishedAt": "2026-08-18T13:19:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Madonna lidera as indicações ao MTV Video Music Awards de 2026, seguida por Taylor Swift",
+      "title": "Madonna lidera as indicações ao MTV Video Music Awards 2026, seguida por Taylor Swift",
       "titleOriginal": "Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTNId3VKUlhEQkVEOHpPMzFkWlliYWZmb2tLcGJwb1F6ZkJWejdyRnlWZ04yMEljdDhQUlRwbWFCSEJXWERWOFYwSWRNZlViZWZ0emFBOWFhUWpFcEs3b0poaEw1ajU2Y25yTDdhVnlLSXRfdU9fRzNvaDE1RVhFZ0dpanVsQW1IUHl1MQ?oc=5",
-      "publishedAt": "2026-08-18T13:00:00.000Z"
+      "publishedAt": "2026-08-18T13:09:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "EUA e Canadá realizam negociações de última hora para impedir a imposição das tarifas de 50% por Trump",
+      "titleOriginal": "US and Canada hold last-minute talks to stop Trump’s 50% tariffs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
+      "publishedAt": "2026-08-18T13:08:00.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Democrats enter their thirst trap era",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRTZIb3ZtSkhHTE1GZ25VVnRwZFZDandpY001TG5tZHFMQ2tKRS1fMkJ6X1RSdVRRTXRFVGRhTEhkTnU4YmZJSUFQUXZrM21xUDQwczlrRFJ3VmlCSXB1ckxrUWVsU2UzU2FpTWRhSERtQzBqcnJfdnlhWQ?oc=5",
       "publishedAt": "2026-08-18T12:35:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O salão de festas de Trump não é nenhum “monumento” — é um abuso do poder constitucional",
-      "titleOriginal": "Trump's ballroom is no 'monument' — it's an abuse of constitutional power",
-      "link": "https://thehill.com/opinion/judiciary/6033438-supreme-court-white-house-project/",
-      "publishedAt": "2026-08-18T12:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Melat Kiros vive em uma ilha de eleitores democratas no Colorado",
-      "titleOriginal": "Melat Kiros sits on a Democratic island in Colorado",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZLclVrR2huUHVna1hvY2lJWjBCTlNTRkphY0pqeG53WmpfUTdJSEQ5MkFoZTA4UGhEOG5NNmtfdzAxOGRhVUFxc0RjRzZqOGg5UjQ5WDB3eDJLRkJ3cU1OOEhaTEdwdm9Oa3oxUjd5UkJGVGgzSURjSl9XWnd5ZTl4bU14b21oV0pKekUxUnZRZw?oc=5",
-      "publishedAt": "2026-08-18T12:20:45.000Z"
     }
   ]
 }
