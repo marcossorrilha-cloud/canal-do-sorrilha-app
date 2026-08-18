@@ -259,17 +259,17 @@ async function renderTrump() {
     document.getElementById("trump-updated").textContent = fmtUpdated(d.updatedAt);
     const a = Number(d.approval) || 0, n = Number(d.disapproval) || 0;
     const total = a + n || 1;
+    const fmt = (x) => Number(x).toFixed(1).replace(".", ",");
     box.innerHTML = `
       <div class="approval-nums">
-        <span class="yes">APROVA ${esc(a)}%</span>
-        <span class="no">DESAPROVA ${esc(n)}%</span>
+        <span class="yes">APROVA ${esc(fmt(a))}%</span>
+        <span class="no">DESAPROVA ${esc(fmt(n))}%</span>
       </div>
       <div class="bar">
         <div class="yes" style="width:${(a / total) * 100}%"></div>
         <div class="no" style="width:${(n / total) * 100}%"></div>
       </div>
-      <div class="trend">${esc(d.trend || "")}</div>
-      ${d.stale ? `<div class="stale-flag">⚠ Números da última coleta bem-sucedida — a extração automática mais recente não encontrou valores novos.</div>` : ""}`;
+      <div class="trend">${esc(d.trend || "")}</div>`;
   } catch (e) {
     box.innerHTML = `<div class="empty">Não foi possível carregar a aprovação.</div>`;
   }
