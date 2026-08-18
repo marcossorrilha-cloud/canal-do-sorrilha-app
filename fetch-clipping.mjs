@@ -114,32 +114,38 @@ async function main() {
     ["direto", viaDireto],
   ];
 
-  let items = [];
+  // Tenta TODAS as rotas e escolhe a que trouxer o post mais recente.
+  // (Alguns proxies devolvem cache velho; assim a rota fresca sempre vence.)
+  const results = [];
   for (const [name, fn] of strategies) {
     try {
       const got = await fn();
-      if (got && got.length) {
-        console.log(`  · sucesso via ${name}: ${got.length} itens`);
-        items = got;
-        break;
+      const valid = (got || []).filter((it) => it.title && it.link);
+      if (valid.length) {
+        const newest = Math.max(...valid.map((it) => it._t || 0));
+        results.push({ name, items: valid, newest });
+        console.log(`  · ${name}: ${valid.length} itens (mais novo: ${new Date(newest).toISOString().slice(0, 10)})`);
+      } else {
+        console.warn(`  ! ${name} não retornou itens`);
       }
-      console.warn(`  ! ${name} não retornou itens`);
     } catch (e) {
       console.warn(`  ! ${name} falhou: ${e.message}`);
     }
   }
 
-  items = items
-    .filter((it) => it.title && it.link)
-    .sort((a, b) => b._t - a._t)
-    .slice(0, MAX_ITEMS)
-    .map(({ _t, ...rest }) => rest);
-
-  if (items.length === 0) {
-    // Não quebra o job: mantém o clipping anterior e apenas avisa.
+  if (results.length === 0) {
     console.warn("Nenhuma rota funcionou — mantendo o clipping.json anterior.");
     return;
   }
+
+  // rota vencedora = a com o post mais recente
+  results.sort((a, b) => b.newest - a.newest);
+  console.log(`  · escolhida: ${results[0].name}`);
+
+  const items = results[0].items
+    .sort((a, b) => b._t - a._t)
+    .slice(0, MAX_ITEMS)
+    .map(({ _t, ...rest }) => rest);
 
   writeJson("clipping.json", {
     updatedAt: new Date().toISOString(),
