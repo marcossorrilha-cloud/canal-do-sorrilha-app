@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-08-17T12:00:00.000Z",
+  "updatedAt": "2026-08-18T12:00:00.000Z",
   "source": "FiftyPlusOne",
   "sourceUrl": "https://fiftyplusone.news/forecast/senate",
-  "asOf": "03/08/2026",
-  "note": "Números da FiftyPlusOne (grátis de ler no site). Estados são ponto de partida — ajuste pelas páginas de forecast House/Senate.",
+  "asOf": "18/08/2026",
+  "note": "Números da FiftyPlusOne (grátis de ler no site, aba 'By race'). Atualização manual.",
   "house": { "dem": 85, "rep": 15 },
   "senate": { "dem": 55, "rep": 45 },
   "states": [
-    { "state": "Ohio", "office": "Senado", "candidates": "Sherrod Brown (D) × Jon Husted (R)", "favored": "D", "prob": 60 },
-    { "state": "Michigan", "office": "Senado", "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)", "favored": "R", "prob": 58 },
-    { "state": "Texas", "office": "Senado", "candidates": "James Talarico (D) × Ken Paxton (R)", "favored": "D", "prob": 52 },
-    { "state": "Carolina do Norte", "office": "Senado", "candidates": "Roy Cooper (D) × Michael Whatley (R)", "favored": "D", "prob": 55 },
-    { "state": "Geórgia", "office": "Senado", "candidates": "Jon Ossoff (D) × Mike Collins (R)", "favored": "D", "prob": 57 },
-    { "state": "Maine", "office": "Senado", "candidates": "Democrata a definir (Platner desistiu) × Susan Collins (R)", "favored": "", "prob": 50 },
-    { "state": "Iowa", "office": "Senado", "candidates": "Josh Turek (D) × Ashley Hinson (R)", "favored": "R", "prob": 55 }
+    { "state": "Texas", "office": "Senado", "candidates": "James Talarico (D) × Ken Paxton (R)", "favored": "", "prob": 50, "rating": "Toss-Up" },
+    { "state": "Alasca", "office": "Senado", "candidates": "Democrata × Republicano (a definir)", "favored": "D", "prob": 56, "rating": "Toss-Up" },
+    { "state": "Iowa", "office": "Senado", "candidates": "Josh Turek (D) × Ashley Hinson (R)", "favored": "R", "prob": 58, "rating": "Toss-Up" },
+    { "state": "Ohio", "office": "Senado", "candidates": "Sherrod Brown (D) × Jon Husted (R)", "favored": "D", "prob": 59, "rating": "Toss-Up" },
+    { "state": "Michigan", "office": "Senado", "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)", "favored": "D", "prob": 65, "rating": "Lean Dem" },
+    { "state": "Maine", "office": "Senado", "candidates": "Troy Jackson (D) × Susan Collins (R)", "favored": "D", "prob": 68, "rating": "Lean Dem" }
   ]
 }
