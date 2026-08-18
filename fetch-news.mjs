@@ -90,6 +90,30 @@ function cleanTitle(title = "") {
   return stripHtml(title).replace(/\s+-\s+[^-]+$/, "").trim();
 }
 
+// Filtro de política (as fontes via Google News trazem todas as seções).
+const POLITICS = [
+  "trump", "biden", "harris", "vance", "newsom", "desantis", "obama", "pelosi",
+  "mcconnell", "schumer", "musk", "congress", "senate", "house", "senator",
+  "representative", "lawmaker", "republican", "democrat", "gop", "maga",
+  "bipartisan", "election", "campaign", "midterm", "primary", "ballot", "vote",
+  "voter", "poll", "approval", "caucus", "redistrict", "white house", "president",
+  "presidential", "administration", "cabinet", "governor", "mayor",
+  "attorney general", "secretary", "supreme court", "scotus", "justice", "court",
+  "doj", "fbi", "indict", "impeach", "subpoena", "pardon", "grand jury",
+  "lawsuit", "immigration", "ice", "border", "deportation", "asylum", "migrant",
+  "tariff", "sanction", "trade war", "shutdown", "budget", "spending",
+  "debt ceiling", "filibuster", "veto", "executive order", "legislation", "bill",
+  "law", "policy", "politic", "capitol", "federal", "nomination", "confirmation",
+  "congressional", "foreign policy", "state department", "pentagon", "nato",
+  "ukraine", "israel", "gaza", "iran", "china", "russia", "putin", "zelensky",
+  "abortion", "guns", "gun control", "healthcare", "medicare", "medicaid",
+  "epstein", "diplomacy", "treaty", "national guard", "filibuster",
+];
+function isPolitics(title = "") {
+  const t = title.toLowerCase();
+  return POLITICS.some((k) => t.includes(k));
+}
+
 async function fromSource(src) {
   const out = [];
   for (const url of src.feeds) {
@@ -125,13 +149,15 @@ async function main() {
   const results = await Promise.all(SOURCES.map(fromSource));
   let items = results.flat();
 
-  // remove duplicados exatos (mesmo link)
+  // mantém só política e remove duplicados exatos (mesmo link)
   const seenLink = new Set();
   items = items.filter((it) => {
+    if (!isPolitics(it.title)) return false;
     if (seenLink.has(it.link)) return false;
     seenLink.add(it.link);
     return true;
   });
+  console.log(`  · itens de política: ${items.length}`);
 
   // agrupa por assunto (greedy, na ordem de recência)
   items.sort((a, b) => b._t - a._t);
