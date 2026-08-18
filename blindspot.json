@@ -1,5 +1,26 @@
 {
-  "updatedAt": "2026-08-18T12:00:00.000Z",
-  "slot": "",
-  "items": []
+  "updatedAt": "2026-08-18T13:50:04.008Z",
+  "slot": "2026-08-18-AM",
+  "items": [
+    {
+      "audience": "right",
+      "label": "Ponto cego da direita",
+      "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
+      "title": "Destruidor da Marinha dos EUA ficou sem energia por 4 dias no Mar da China Meridional",
+      "titleOriginal": "U.S. Navy destroyer lost power for 4 days in South China Sea",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
+    },
+    {
+      "audience": "left",
+      "label": "Ponto cego da esquerda",
+      "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
+      "title": "Documentos do FBI divulgados revelam que Swalwell teve relações sexuais com “Fang Fang” várias vezes",
+      "titleOriginal": "Declassified FBI docs reveal Swalwell had sex with 'Fang Fang' multiple times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDh0SV9nVWxVdnotb0pJTWtNUmROX04tM2VYeHUtVUJhVXRKTUxTVVpwNlhZWDZBci1sV21nUXJudXZ4V2xGeVZjM08ycV82MEdpMnNEeE8wSGxPNl9KZGRLeU1XTFFmQ2EwYU9ZbS1DeVlENzQ3dVlZU3RWcXVMN3NEQmFQRVJkcTJPb0RMQnNwekUwYU9IUi1CcXVGN3dTMXBNWmVCV1R5Z2fSAbABQVVfeXFMTnA0LUFXSHFwQXNFOFI1UmtYYWJ6dXVnNW5fa182Tlc3eUZUcFpFdzNIbTRsbXd2Z3ozQ3dpazQwdUFXSVpGdWNjS2ZNODVReDRJUWlES25LN09LekRrc1Zqdk5MLW1vcGJ0bmtsVC11YW1DZ2lCWlRHbE9ZeEc2ZzFDSGR1NUJLOFBkTUxYcS11WUxpOGx0MHhxNm9yVzBrajloZW1Uczc1d1ptTlhhQmI?oc=5",
+      "source": "Fox News",
+      "coverage": 3
+    }
+  ]
 }

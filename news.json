@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-18T13:29:28.608Z",
+  "updatedAt": "2026-08-18T13:49:56.523Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump homenageia um salva-vidas adolescente e critica um repórter da CNN",
+      "titleOriginal": "Trump Honors a Teenage Lifeguard and Takes Aim at a CNN Reporter",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
+      "publishedAt": "2026-08-18T13:37:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Manchin pede mudanças nas eleições: “Não há competição”",
+      "titleOriginal": "Manchin calls for change in elections: 'There's no competition'",
+      "link": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries/",
+      "publishedAt": "2026-08-18T13:30:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Chegou a era dos republicanos que gastam à vontade",
+      "titleOriginal": "The age of big-spending Republicans is here",
+      "link": "https://thehill.com/opinion/finance/6034392-federal-debt-hits-39-trillion/",
+      "publishedAt": "2026-08-18T13:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os preços da gasolina estão subindo, mas os motoristas que usam esse tipo de combustível estão em situação ainda pior",
+      "titleOriginal": "Gas prices are rising, but drivers using this type of fuel have it worse",
+      "link": "https://thehill.com/policy/energy-environment/6033834-gas-prices-are-rising-but-drivers-using-this-type-of-fuel-have-it-worse/",
+      "publishedAt": "2026-08-18T13:29:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Ucrânia lança um ataque relâmpago com drones contra Moscou, enquanto mísseis russos matam 10 pessoas em um vilarejo ucraniano",
+      "titleOriginal": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
+      "publishedAt": "2026-08-18T13:19:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Madonna lidera as indicações ao MTV Video Music Awards de 2026, seguida por Taylor Swift",
+      "titleOriginal": "Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTNId3VKUlhEQkVEOHpPMzFkWlliYWZmb2tLcGJwb1F6ZkJWejdyRnlWZ04yMEljdDhQUlRwbWFCSEJXWERWOFYwSWRNZlViZWZ0emFBOWFhUWpFcEs3b0poaEw1ajU2Y25yTDdhVnlLSXRfdU9fRzNvaDE1RVhFZ0dpanVsQW1IUHl1MQ?oc=5",
+      "publishedAt": "2026-08-18T13:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Tina Peters recebeu uma oferta de emprego como consultora eleitoral na Califórnia",
@@ -18,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O salão de festas de Trump não é um “monumento” — é um abuso do poder constitucional",
+      "title": "O salão de festas de Trump não é nenhum “monumento” — é um abuso do poder constitucional",
       "titleOriginal": "Trump's ballroom is no 'monument' — it's an abuse of constitutional power",
       "link": "https://thehill.com/opinion/judiciary/6033438-supreme-court-white-house-project/",
       "publishedAt": "2026-08-18T12:30:00.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Melat Kiros sits on a Democratic island in Colorado",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZLclVrR2huUHVna1hvY2lJWjBCTlNTRkphY0pqeG53WmpfUTdJSEQ5MkFoZTA4UGhEOG5NNmtfdzAxOGRhVUFxc0RjRzZqOGg5UjQ5WDB3eDJLRkJ3cU1OOEhaTEdwdm9Oa3oxUjd5UkJGVGgzSURjSl9XWnd5ZTl4bU14b21oV0pKekUxUnZRZw?oc=5",
       "publishedAt": "2026-08-18T12:20:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ossoff: “Não tenho nenhum interesse” em concorrer à presidência em 2028",
-      "titleOriginal": "Ossoff: 'Zero interest' in running for president in 2028",
-      "link": "https://thehill.com/homenews/senate/6034619-jon-ossoff-georgia-democrat-2028-ambitions/",
-      "publishedAt": "2026-08-18T12:08:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Se Trump quiser reduzir os custos, ele deveria revogar essa regra portuária da Califórnia",
-      "titleOriginal": "If Trump wants to lower costs, he should override this California port rule",
-      "link": "https://thehill.com/opinion/energy-environment/5981654-repeal-california-port-regulations/",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Está previsto o início das alegações iniciais no julgamento federal da Meta sobre segurança infantil",
-      "titleOriginal": "Opening arguments set to begin in Meta’s federal trial over child safety",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
-      "publishedAt": "2026-08-18T11:59:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Erdogan, da Turquia, assina lei que concede perdão condicional a milhares de militantes do PKK",
-      "titleOriginal": "Turkey’s Erdogan signs law offering conditional pardon for thousands of PKK militants",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRi1pN19Oa3hDdmhQNTUyNjM4blhLTVZ6a1UwUkE4VVFncFNDaV81SFROQlZwYU9XbTlXdlQ2X0hZM2s5c0s5emtNSkFyZVMtM2ZaQXVWcmc1SXBGMWRWdDZfdTlzaEVBOElhbHZIcFlVS1lhQm14Qk15MmtMMjFuRkdTRXNhSW1nbFBJbmI3VUZHQzBLUzNiVVhUYURzYnZrV0lNb0pOcw?oc=5",
-      "publishedAt": "2026-08-18T11:55:08.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Amtrak comemora um ano de serviço na Costa do Golfo",
-      "titleOriginal": "Amtrak marks a year of Gulf Coast service",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY01vbEQ3cFQzZHdPaHQyQWZWLURaekJkOU5tejhoZEhrcXdPcEpRTVczTkhvM3BTemxTTHB2OEt4b2pTR2QxcVVadE9UMDg2dEFDUlI3VktoaXZMUnNmYTM1MGp6cjhubWNNY01hWWF2OHMya3JyNGFXVFFzNXBGVGgzZDBGTzExd19ZZGV5MDh0ZjJPVzU2NV9iOHpKUm11?oc=5",
-      "publishedAt": "2026-08-18T11:14:11.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O que acompanhar nesta terça-feira: o redesenho dos distritos eleitorais agita a Flórida, enquanto no Alasca Dan Sullivan enfrenta Dan Sullivan",
-      "titleOriginal": "What to watch Tuesday: Redistricting scrambles Florida as Alaska pits Dan Sullivan v. Dan Sullivan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
-      "publishedAt": "2026-08-18T10:58:00.000Z"
     }
   ]
 }
