@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-18T05:16:29.139Z",
+  "updatedAt": "2026-08-18T07:58:25.124Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Como os modelos de IA da OpenAI e da Anthropic se tornaram incontroláveis",
+      "titleOriginal": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+      "publishedAt": "2026-08-18T07:51:11.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "MLB | Últimas notícias, estatísticas e resultados",
+      "titleOriginal": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "publishedAt": "2026-08-18T07:49:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Petróleo Brent ultrapassa US$ 90 com o enfraquecimento das perspectivas de um acordo sobre o Estreito de Ormuz",
+      "titleOriginal": "Brent Above $90 As Hormuz Deal Prospects Dim",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWtNbUJLVWcwSXlhTWl0MjBhY2NxdG96cFYxUHRXN0c2U0FvSjZYTjdGeXZSMkU5czhMb0k4cXhYOXlhTTNES2oxVlpRZUY4c196RTVsd0pFTkhXSU8xLUp1ZzVhc043NUE0c3FsUGtuZmtoX3RyTTlvMmkwdG8wSU5qbWZmN3lCQlA5UUdackVqTGdrY2JfVUlpaE5jeFQ4dzZLZ1Fxc29MaUJDQjdVMmo5TTV2bmxIMENLa3d5NjA2VGJOMFhaTXdxRjZ6UQ?oc=5",
+      "publishedAt": "2026-08-18T07:36:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Notícias da América Latina | Últimas notícias da América Latina",
+      "titleOriginal": "Latin American News | Latest Latin American News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
+      "publishedAt": "2026-08-18T07:31:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ações europeias em baixa generalizada; setor de tecnologia enfraquece",
+      "titleOriginal": "European Stocks Largely Lower, Tech Weakens",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTRmbXVJYlRnYXhHYmZjTFBqdnpXWHlpQU5yV1pHb3U5YzduS3FzQjZKdXJnX2VXZWpnOXRUcU9XeWtFUzBrZkdOZFpzVHFCdXBDT0lJYVo1QWdqY2Mwa2V5bkVJV05uNDZaOERVQ1piVjlnZ0dnZG9HQ1RROVVVVWNQUDBJNjVscmhSN0hKMGRlaXc?oc=5",
+      "publishedAt": "2026-08-18T07:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Edição impressa | Wall Street Journal",
+      "titleOriginal": "Print Edition | Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DeVdReDBLZmZ1VnEyc3E2LUZEcWJkQjc5QWxtWDRmeVhGaEJMZk9pU1kwSmFTWW9WREZuTElSZnJEdzVDQ0VER3BfR1RrM0F0cXZDRUUxeDlLMEhMaVNjRTBR?oc=5",
+      "publishedAt": "2026-08-18T07:22:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Applied Materials planeja expandir sua capacidade à medida que o lucro e a receita crescem",
+      "titleOriginal": "Applied Materials Eyes Capacity Expansion as Profit, Revenue Grow",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ09NVmFzbUM1N0x5eVlZSmE3UTZsdmtpSE5MU1FNbl9LSXE4SWJXMnpjVDhxWkVDMW0tbDRNcVZqQjN5ck1GYTdCZWRjajhTeU95SWZPX2JtQ1Z2dHRJTElrelhQb2d1OGJJVXdKcEpwNmR1ME1XOERUanRaMEN5RWhwdFl3NDJMbEd4LURWWlhPdkRvdW9sWDc3LTNhSl9nRzA5ZGR3MFQ5QjVaNEZYaFladm9ldw?oc=5",
+      "publishedAt": "2026-08-18T07:21:06.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Como 10.000 cidades americanas receberam seus nomes",
       "titleOriginal": "How 10,000 American Cities Got Their Names",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXM2Q29FR0VLVEZoNlVlTVotemRzaEdWYUN4MWR6ZUlhM2I5Q0c2ZnlSWnhZTW5ZU0x2X29fNUxOeUdFM0NFd0xib0VzanNPb190bkxDU3FrSWlCMFNvZXk1MER2bWZRb0pJZlU4T3p2S3k2WlFhYldicExILTJsUlVHWmx5Zw?oc=5",
-      "publishedAt": "2026-08-18T04:20:41.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um desabamento iminente de rochas ameaça uma vila suíça, à medida que o degelo do permafrost desestabiliza os Alpes",
-      "titleOriginal": "A looming rock collapse threatens a Swiss village as thawing permafrost destabilizes the Alps",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWUxNXFrNnZ4ZXZhZEVuaUxTSXNBaDdva0pQelkta2kxeFBnUjM3aWtONkNwWUtWRVBDTXY0VHFUQ2NOdjYzOWxNeS15MHU3Yy1pQU9Wdjd5SW5OZXdVdm9FdGNvMkJUaG5wMzdicjJiMEptZklaTndKdHJUb3dZZ0RxcmZ4aVpXLThQTlg5MnZuQXNaZm1BVThEQzlLekpjZXlwTGEtOW1hVXJqZUJYWnpGTzJMUHl4NnNFblNVRQ?oc=5",
-      "publishedAt": "2026-08-18T04:04:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas planejam pressionar pela aprovação de poderes de guerra para Omã após Trump ameaçar com bombardeios",
-      "titleOriginal": "Dems plan Oman war powers push after Trump threatens bombing",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
-      "publishedAt": "2026-08-18T04:03:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Shakira faz visita surpresa à Colômbia, devastada pelo terremoto, e se compromete a reconstruir escolas",
-      "titleOriginal": "Shakira makes surprise visit in earthquake-damaged Colombia and commits to rebuilding schools",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB?oc=5",
-      "publishedAt": "2026-08-18T03:24:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pesquisa que mostrava a prefeita de Los Angeles, Karen Bass, à frente de Nithya Raman por uma ampla margem era falsa: empresa",
-      "titleOriginal": "Poll showing LA Mayor Karen Bass leading Nithya Raman by a wide margin was fake: company",
-      "link": "https://thehill.com/homenews/campaign/6034431-bass-raman-fake-poll/",
-      "publishedAt": "2026-08-18T02:56:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Aluno atirou em um colega de classe, matando-o, e depois se suicidou na escola, no sul das Filipinas, segundo o prefeito",
-      "titleOriginal": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
-      "publishedAt": "2026-08-18T02:55:00.000Z"
+      "publishedAt": "2026-08-18T07:20:45.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Os bancos centrais estão presos em um ciclo de crises que se repete incessantemente",
-      "titleOriginal": "Central Banks Are Stuck in a Rinse-and-Repeat Cycle of Crises",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0Q2VlFjWjJ3aEVoa3QxSEhwbDE4U3ZkaVl0eXczdEJnSTFiOXA5UmxleUxLSGhYa3JjWlhOQkYxdTBOYzdyejhfNnl0MU56cUktbTZUSjN5aTRpT2dYOGZ2R3RldVZjNHlKdmRFOWJDUFpKZlRYckw4SlhHOVRXaE1raG54UEVTZDdoLWlZZUJVN05oWlgybzBhNXBIb2xtYXotWXpRZXB0RjFwcEtqU3QwUTY?oc=5",
-      "publishedAt": "2026-08-18T02:54:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A mediocridade em Michigan",
-      "titleOriginal": "Opinion | Mediocrity in Michigan",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTZiUXJBaUd3REhGUXJRaUp6Q2RYVWtCRHpia1JUdVY5RWRzd2RjQmc4N21LTUpmM1NvUG5xRDNaX0dOaGIxUFBvOGtSSXVaekdqa2JUVWkybFdwNkZhNHQ0dFRFU285Z1JhQVdZeElfcnBmdGV4N0tkQUx2bElHbA?oc=5",
-      "publishedAt": "2026-08-18T02:54:42.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o novo diretor-geral de Saúde Pública da Louisiana pretende transformar a saúde pública",
-      "titleOriginal": "How Louisiana’s New Surgeon General Wants to Transform Public Health",
-      "link": "https://www.nytimes.com/2026/08/17/us/evelyn-griffin-surgeon-general.html",
-      "publishedAt": "2026-08-18T02:52:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dólar de Cingapura se estabiliza; alta nos preços do petróleo representa risco",
-      "titleOriginal": "Singapore Dollar Consolidates; Rising Oil Prices Pose Risk",
+      "title": "Dólar deve se recuperar, apesar do enfraquecimento das expectativas de aumento das taxas pelo Fed",
+      "titleOriginal": "Dollar Due for a Rebound Despite Fading Fed Hike Expectations",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEtpcmVYSDIxbk05aW4wWmh0LUFZQnBRckE3V09idHBGbjVfLVlFbi1pYlZXNFNDWklpSHlLaUV0N0I2MWtXMXhyUkp6RGNCdnN2cjZmZ3RCNldHU0R5Vk03YlFjTXNGWDhudEY1eGxFclV2TmtfVUc1Skc4UWNtVWxYQmtocXd1Q2tqOFNBbktqclJnUmNwTEhhY21XQXg1ajNLZ2pnTQ?oc=5",
-      "publishedAt": "2026-08-18T02:51:00.000Z"
+      "publishedAt": "2026-08-18T06:45:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um filme de animação chinês, ridicularizado como “péssimo”, vira sucesso de bilheteria",
+      "titleOriginal": "A Chinese animated film mocked as ‘terrible’ becomes a box-office hit",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGFpNXpGekZfeTNFUnZHV1hsaGZ4MGE5emFoZFpYYk9xRkFRTkpzUmcyN0NGQ01DcUU4X0tJYzNWVXVZQmdLQXNhUDIzU2Z3aFVSeUI5bGc0MzVMbmlfUGNPU0U2LWFJc2o1T3NCN202Y2lJbjFkV18tbFRfY0xNQlA5RF90dDdqYXQ1R2ZDRU1LQQ?oc=5",
+      "publishedAt": "2026-08-18T06:13:00.000Z"
     }
   ]
 }
