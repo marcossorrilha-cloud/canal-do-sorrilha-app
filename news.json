@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-18T17:58:15.630Z",
+  "updatedAt": "2026-08-18T19:18:36.809Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Trump demitiu seus inspetores-gerais. Seus substitutos têm uma missão diferente.",
+      "titleOriginal": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+      "publishedAt": "2026-08-18T19:04:45.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Senadores democratas exigem que o HHS pare de compartilhar informações do Medicaid com o ICE",
-      "titleOriginal": "Democratic senators demand HHS stop sharing Medicaid info with ICE",
-      "link": "https://thehill.com/policy/healthcare/6035797-democrats-demand-halted-hhs-ice-sharing/",
-      "publishedAt": "2026-08-18T17:48:56.000Z"
+      "title": "Rubio anuncia sanções contra o presidente do Tribunal Penal Internacional",
+      "titleOriginal": "Rubio announces sanctions on International Criminal Court president",
+      "link": "https://thehill.com/policy/international/6036022-rubio-sanctions-icc-president/",
+      "publishedAt": "2026-08-18T18:46:51.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Califórnia e outros 28 estados apresentam argumentos contra a Meta; eleitores da Flórida e do Alasca vão às urnas",
+      "titleOriginal": "Live updates: California, 28 other states lay out case against Meta; Florida, Alaska voters head to polls",
+      "link": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
+      "publishedAt": "2026-08-18T18:45:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Líder separatista de Quebec afirma que não haverá referendo sobre a independência até que Trump deixe o cargo",
+      "titleOriginal": "Quebec separatist leader says no independence referendum until Trump leaves office",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQy1hcWxsY1VqTGxYdHE0N2pOVVNWOXlnUE5KVGhNWnpCOWluQkxHSjloUTR2VjAxVXV6czhQTURsS1NEN3VreV9EdWR2S0I5QW9RUXFJYTNJRkFlTEpxbDBPa3kxeUo1VVhRM2ltQzU3eW9sYVBFQXEtNHRNTmF2eTQxeEltTWREZW1rNlJrYmlCYkFmNVlabUZCMmVKQXhIV2w4V1Zn?oc=5",
+      "publishedAt": "2026-08-18T18:32:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Denunciantes acusam o governo Trump de resultados “predeterminados” nas investigações sobre antissemitismo na Ivy League",
+      "titleOriginal": "Whistleblowers accuse Trump administration of 'predetermined' outcomes in Ivy League antisemitism investigations",
+      "link": "https://thehill.com/homenews/administration/6035835-doj-whistleblower-ivy-league-probes/",
+      "publishedAt": "2026-08-18T18:21:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Minnesota entra com ação contra o governador do Texas para forçar a extradição de um agente do ICE envolvido em um tiroteio",
+      "titleOriginal": "Minnesota sues Texas governor to force extradition of ICE agent involved in shooting",
+      "link": "https://thehill.com/regulation/court-battles/6035849-minnesota-texas-lawsuit-ice-shooting-extradition/",
+      "publishedAt": "2026-08-18T18:18:36.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O panorama das pesquisas na Flórida é limitado, exceto por uma disputa importante",
-      "titleOriginal": "Florida’s Polling Picture Is Limited Other Than One Key Race",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-polling-byron-donalds.html",
-      "publishedAt": "2026-08-18T17:33:40.000Z"
+      "title": "O que a Flórida ensinou ao nosso repórter sobre política nacional",
+      "titleOriginal": "What Florida Has Taught Our Reporter About National Politics",
+      "link": "https://www.nytimes.com/2026/08/18/insider/florida-reporter-national-politics.html",
+      "publishedAt": "2026-08-18T18:04:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Darline Graham não se pronuncia sobre se Thune deve continuar como líder do Partido Republicano",
-      "titleOriginal": "Darline Graham won't say whether Thune should remain GOP leader",
-      "link": "https://thehill.com/homenews/senate/6035650-darline-graham-john-thune-gop-leadership/",
-      "publishedAt": "2026-08-18T17:33:16.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que os EUA não têm negociações planejadas com o Irã e outras notícias do Oriente Médio",
-      "titleOriginal": "Trump says US has no talks planned with Iran and other news from the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-      "publishedAt": "2026-08-18T17:33:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jon Ossoff critica Trump por “viajar com Natalie”: Como assim?",
-      "titleOriginal": "Jon Ossoff smears Trump for 'traveling with Natalie': Say what?",
-      "link": "https://thehill.com/opinion/robbys-radar/6035747-ossoff-trump-natalie-harp/",
-      "publishedAt": "2026-08-18T17:32:51.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Empresa de pesquisas fecha as portas após falsificar pesquisas sobre Hong e Bass",
-      "titleOriginal": "Polling firm closes down after it faked Hong, Bass polls",
-      "link": "https://thehill.com/homenews/campaign/6035570-median-strategies-closes-fake-polls/",
-      "publishedAt": "2026-08-18T17:29:58.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump ameaçou bombardear Omã porque está insatisfeito com o acordo do país com o Irã, afirmam autoridades",
-      "titleOriginal": "Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmtkbmV0b1Bxa0pkWjZkMlVfV2xIN3E3MzdwWmlqWHpXTi1CYng3YVIxZGQtdEJ5b0VWX3llRzdNMTAzcGNLd0IzTmRXNkRGSnAtRlR2WWI2bDZCR1Q4RENTNERlM1VwZWNDQ1NsejlBcER1MDRCeEpCTjRtTGE3OGN2ZmhkM1htVkc4?oc=5",
-      "publishedAt": "2026-08-18T17:25:00.000Z"
+      "title": "Os Emirados Árabes Unidos afirmam ter detectado dois mísseis lançados do Irã; ambos caíram na água",
+      "titleOriginal": "UAE says it detected 2 missiles fired from Iran; both fell into water",
+      "link": "https://thehill.com/policy/defense/6035824-uae-detects-iranian-missiles/",
+      "publishedAt": "2026-08-18T18:02:40.000Z"
     },
     {
       "source": "New York Times",
       "title": "Trump critica a repórter da CNN Kristen Holmes durante evento em homenagem a um salva-vidas da Califórnia",
       "titleOriginal": "Trump Takes Aim at CNN Reporter Kristen Holmes During Event to Honor California Lifeguard",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
-      "publishedAt": "2026-08-18T17:22:10.000Z"
+      "publishedAt": "2026-08-18T18:01:28.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump cita as regras de identificação do eleitor da Índia ao pedir a aprovação da Lei SAVE America",
-      "titleOriginal": "Trump points to India’s voter ID rules in call to pass SAVE America Act",
-      "link": "https://thehill.com/homenews/administration/6035569-trump-india-save-act/",
-      "publishedAt": "2026-08-18T17:21:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Iranianos admitem que o bloqueio de Trump está surtindo efeito",
-      "titleOriginal": "Opinion | Iranians Admit Trump’s Blockade Is Working",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1ZYdXBLX1B2MEpiNE02WE1IZnBBOUw0aGlkWmNldUJpZ3BBYXZFblZlSGcwRVQybVNWOUVqSkI0ektxeG55elRaLVNNZnRFQnpWWUw1TFFvWGtldlJrRXE1SmVUMER4cF9Jby12MVlQUWc3VUk2TmE4bFhfMWpRdXNadmU?oc=5",
-      "publishedAt": "2026-08-18T17:17:22.000Z"
+      "title": "Senadores democratas exigem que o HHS pare de compartilhar informações do Medicaid com o ICE",
+      "titleOriginal": "Democratic senators demand HHS stop sharing Medicaid info with ICE",
+      "link": "https://thehill.com/policy/healthcare/6035797-democrats-demand-halted-hhs-ice-sharing/",
+      "publishedAt": "2026-08-18T17:48:56.000Z"
     }
   ]
 }
