@@ -34,6 +34,10 @@
   .brand-title{font-family:'Oswald',sans-serif;font-size:22px;font-weight:700;
     letter-spacing:.5px;text-transform:uppercase;}
   .brand-sub{font-size:12px;opacity:.75;}
+  .share-btn{flex:none;background:rgba(255,255,255,.14);border:none;color:#fff;width:42px;height:42px;
+    border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;}
+  .share-btn:hover{background:rgba(255,255,255,.26);}
+  .share-btn:active{transform:scale(.94);}
 
   .tabs{display:flex;background:#fff;border-bottom:2px solid var(--border);overflow-x:auto;}
   .tab-btn{flex:1;min-width:150px;padding:14px 10px;background:transparent;border:none;
@@ -137,6 +141,9 @@
       <div class="brand-title">Canal do Sorrilha</div>
       <div class="brand-sub">Notícias, clipping e ferramentas sobre política americana</div>
     </div>
+    <button class="share-btn" onclick="shareApp()" title="Compartilhar" aria-label="Compartilhar">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"></line><line x1="15.4" y1="6.5" x2="8.6" y2="10.5"></line></svg>
+    </button>
   </header>
 
   <nav class="tabs">
@@ -338,14 +345,33 @@ async function renderMidterms() {
 
 const RENDERERS = { news: renderNews, clipping: renderClipping, trump: renderTrump, midterms: renderMidterms };
 
-// Abas
+// Abas (lembra a aba escolhida, para não voltar sempre a "Notícias" ao atualizar)
+function activateTab(tab) {
+  document.querySelectorAll(".tab-btn").forEach((b) => b.classList.toggle("active", b.dataset.tab === tab));
+  document.querySelectorAll("[data-panel]").forEach((p) => { p.hidden = p.dataset.panel !== tab; });
+}
 document.querySelectorAll(".tab-btn").forEach((btn) => {
   btn.addEventListener("click", () => {
-    const tab = btn.dataset.tab;
-    document.querySelectorAll(".tab-btn").forEach((b) => b.classList.toggle("active", b === btn));
-    document.querySelectorAll("[data-panel]").forEach((p) => { p.hidden = p.dataset.panel !== tab; });
+    activateTab(btn.dataset.tab);
+    try { localStorage.setItem("activeTab", btn.dataset.tab); } catch (e) {}
   });
 });
+try {
+  const saved = localStorage.getItem("activeTab");
+  if (saved && document.querySelector('.tab-btn[data-tab="' + saved + '"]')) activateTab(saved);
+} catch (e) {}
+
+// Compartilhar o app: usa o compartilhamento nativo do aparelho; se não houver, copia o link.
+async function shareApp() {
+  const url = location.origin + location.pathname;
+  const data = { title: "Canal do Sorrilha", text: "Canal do Sorrilha — política americana", url };
+  if (navigator.share) {
+    try { await navigator.share(data); } catch (e) {}
+  } else {
+    try { await navigator.clipboard.writeText(url); alert("Link copiado:\n" + url); }
+    catch (e) { prompt("Copie o link do app:", url); }
+  }
+}
 
 
 renderBlindspot(); renderNews(); renderClipping(); renderTrump(); renderMidterms();
