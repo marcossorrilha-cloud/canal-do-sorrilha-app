@@ -198,7 +198,7 @@
   <section class="wrap narrow" data-panel="midterms" hidden>
     <div class="section-title">Midterms 2026</div>
     <div class="meta">
-      <span>Fonte: <a href="https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote" target="_blank" rel="noopener">RealClearPolitics</a> — voto genérico (Câmara) e <a href="https://www.realclearpolling.com/maps/senate/2026/toss-up" target="_blank" rel="noopener">mapa do Senado</a>.</span>
+      <span>Fonte: <a href="https://www.theargumentmag.com/p/split-ticket-2026-midterms-model" target="_blank" rel="noopener">Split Ticket</a> — modelo probabilístico (chance de maioria e vitória por estado).</span>
       <span id="mid-updated"></span>
     </div>
     <div id="mid-box"><div class="empty">Carregando…</div></div>
@@ -308,44 +308,41 @@ async function renderMidterms() {
     document.getElementById("mid-updated").textContent = d.asOf ? ("Atualizado em " + d.asOf) : fmtUpdated(d.updatedAt);
     const fmt1 = (x) => Number(x).toFixed(1).replace(".", ",");
 
-    // Câmara — média nacional do voto genérico do RCP. É intenção de voto, não cadeiras nem % de chance.
-    const g = d.generic || {};
-    const gd = Number(g.dem) || 0, gr = Number(g.rep) || 0, gt = gd + gr || 1;
-    const houseCard = `
+    // Câmara e Senado: chance de cada partido conquistar a maioria (probabilidade do modelo Split Ticket).
+    const chamber = (nome, o, favDem, favRep) => {
+      const dem = Number(o && o.dem) || 0, rep = Number(o && o.rep) || 0;
+      const total = dem + rep || 1;
+      const fav = dem >= rep ? favDem : favRep;
+      return `
       <div class="mid-chamber">
-        <h3>Câmara (House) — voto genérico</h3>
-        <div class="mid-nums"><span class="dem">DEM ${esc(fmt1(gd))}%</span><span class="rep">REP ${esc(fmt1(gr))}%</span></div>
-        <div class="mid-bar"><div class="dem" style="width:${(gd / gt) * 100}%"></div><div class="rep" style="width:${(gr / gt) * 100}%"></div></div>
-        <div class="mid-fav">Média nacional RCP: <b>${esc(g.spread || "")}</b> — intenção de voto, não número de cadeiras.</div>
+        <h3>${esc(nome)}</h3>
+        <div class="mid-nums"><span class="dem">DEM ${esc(fmt1(dem))}%</span><span class="rep">REP ${esc(fmt1(rep))}%</span></div>
+        <div class="mid-bar"><div class="dem" style="width:${(dem / total) * 100}%"></div><div class="rep" style="width:${(rep / total) * 100}%"></div></div>
+        <div class="mid-fav">${esc(fav)}</div>
       </div>`;
+    };
+    const houseCard = chamber("Câmara (House) — chance de maioria", d.house, "Democratas favoritos para a maioria", "Republicanos favoritos para a maioria");
+    const senateCard = chamber("Senado (Senate) — chance de maioria", d.senate, "Democratas favoritos para a maioria", "Republicanos favoritos para manter a maioria");
 
-    // Senado — cadeiras seguras/inclinadas de cada lado + toss-ups (RCP). Não é % de chance de vitória.
-    const s = d.senate || {};
-    const sd = Number(s.dem) || 0, sr = Number(s.rep) || 0, su = Number(s.tossup) || 0;
-    const stot = sd + sr + su || 100;
-    const senateCard = `
-      <div class="mid-chamber">
-        <h3>Senado (Senate) — cadeiras</h3>
-        <div class="mid-nums"><span class="dem">${esc(sd)} DEM</span><span style="color:#8a8a8a;">${esc(su)} TOSS-UP</span><span class="rep">${esc(sr)} REP</span></div>
-        <div class="mid-bar"><div class="dem" style="width:${(sd / stot) * 100}%"></div><div class="rep" style="width:${(sr / stot) * 100}%"></div></div>
-        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · RCP projeta ganho de <b>${esc(s.netPickup || "")}</b>. A faixa cinza são as ${esc(su)} em toss-up.</div>
-      </div>`;
-
+    // Estados-chave: probabilidade de vitória do candidato favorito (Split Ticket).
     const states = (d.states || []).map((st) => {
       const side = st.favored === "D" ? "D" : st.favored === "R" ? "R" : "";
+      const prob = Number(st.prob);
+      const probTxt = Number.isFinite(prob) ? esc(prob) + "%" : "";
+      const sub = [st.name, st.rating].filter(Boolean).join(" · ");
       return `
       <div class="mid-state ${side}">
         <div class="st-info">
           <div class="st-name">${esc(st.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(st.office || "Senado")}</span></div>
           ${st.candidates ? `<div class="st-cand">${esc(st.candidates)}</div>` : ""}
         </div>
-        <div class="st-odds">${esc(st.margin || "")}<span class="st-sub">${esc(st.rating || "")}</span></div>
+        <div class="st-odds">${probTxt}<span class="st-sub">${esc(sub)}</span></div>
       </div>`;
     }).join("");
 
     box.innerHTML =
       houseCard + senateCard +
-      `<div class="mid-states-title">Disputas em aberto · vantagem na média RCP</div>` +
+      `<div class="mid-states-title">Estados-chave · chance de vitória do favorito</div>` +
       (states || `<div class="empty">Sem dados de estados.</div>`) +
       (d.note ? `<div class="mid-note">${esc(d.note)}</div>` : "");
   } catch (e) {
