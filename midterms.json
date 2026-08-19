@@ -1,18 +1,21 @@
 {
-  "updatedAt": "2026-08-19T12:00:00.000Z",
+  "updatedAt": "2026-08-19T14:40:00.000Z",
   "source": "RealClearPolitics",
   "sourceUrl": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
   "asOf": "19/08/2026",
-  "note": "Dados do RealClearPolitics (RCP), 19/08. Câmara: média do voto genérico (DEM 48,7% x REP 42,0%). Senado: mapa de cadeiras do RCP — 47 D, 6 toss-ups, 47 R; 51 para a maioria; ganho líquido projetado Dem +3.",
+  "note": "Dados do RealClearPolitics (RCP), 19/08. Câmara: média nacional do voto genérico (Democratas +6,7; intenção de voto, não cadeiras). Senado: mapa de cadeiras do RCP — 47 D, 6 toss-ups, 47 R; 51 para a maioria; ganho líquido projetado Dem +3. À direita, a vantagem na média RCP de cada disputa em aberto.",
   "generic": { "dem": 48.7, "rep": 42.0, "spread": "Democratas +6,7" },
   "senate": { "dem": 47, "tossup": 6, "rep": 47, "majority": 51, "netPickup": "Democratas +3" },
   "states": [
-    { "state": "Carolina do Norte", "office": "Senado", "candidates": "Roy Cooper (D) × Michael Whatley (R)", "favored": "D", "rating": "Leans Dem" },
-    { "state": "Texas", "office": "Senado", "candidates": "James Talarico (D) × Ken Paxton (R)", "favored": "", "rating": "Toss-Up" },
-    { "state": "Ohio", "office": "Senado", "candidates": "Sherrod Brown (D) × Jon Husted (R)", "favored": "", "rating": "Toss-Up" },
-    { "state": "Michigan", "office": "Senado", "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)", "favored": "", "rating": "Toss-Up" },
-    { "state": "Maine", "office": "Senado", "candidates": "Troy Jackson (D) × Susan Collins (R)", "favored": "", "rating": "Toss-Up" },
-    { "state": "Iowa", "office": "Senado", "candidates": "Josh Turek (D) × Ashley Hinson (R)", "favored": "", "rating": "Toss-Up" },
-    { "state": "Alasca", "office": "Senado", "candidates": "Mary Peltola (D) × Dan Sullivan (R)", "favored": "", "rating": "Toss-Up" }
+    { "state": "Ohio", "office": "Senado", "candidates": "Sherrod Brown (D) × Jon Husted (R)", "favored": "D", "margin": "Brown +0,6", "rating": "Toss-Up" },
+    { "state": "Michigan", "office": "Senado", "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)", "favored": "D", "margin": "El-Sayed +0,7", "rating": "Toss-Up" },
+    { "state": "Iowa", "office": "Senado", "candidates": "Josh Turek (D) × Ashley Hinson (R)", "favored": "R", "margin": "Hinson +0,7", "rating": "Toss-Up" },
+    { "state": "Texas", "office": "Senado", "candidates": "James Talarico (D) × Ken Paxton (R)", "favored": "D", "margin": "Talarico +1,2", "rating": "Toss-Up" },
+    { "state": "Alasca", "office": "Senado", "candidates": "Mary Peltola (D) × Dan Sullivan (R)", "favored": "D", "margin": "Peltola +2,0", "rating": "Toss-Up" },
+    { "state": "Maine", "office": "Senado", "candidates": "Troy Jackson (D) × Susan Collins (R)", "favored": "D", "margin": "Jackson +2,3", "rating": "Toss-Up" },
+    { "state": "New Hampshire", "office": "Senado", "candidates": "Chris Pappas (D) × Chris Sununu (R)", "favored": "D", "margin": "Pappas +3,3", "rating": "Leans Dem" },
+    { "state": "Geórgia", "office": "Senado", "candidates": "Jon Ossoff (D) × Mike Collins (R)", "favored": "D", "margin": "Ossoff +7,5", "rating": "Leans Dem" },
+    { "state": "Flórida", "office": "Senado", "candidates": "Alexander Vindman (D) × Ashley Moody (R)", "favored": "R", "margin": "Moody +8,4", "rating": "Likely GOP" },
+    { "state": "Carolina do Norte", "office": "Senado", "candidates": "Roy Cooper (D) × Michael Whatley (R)", "favored": "D", "margin": "Cooper +8,5", "rating": "Leans Dem" }
   ]
 }
