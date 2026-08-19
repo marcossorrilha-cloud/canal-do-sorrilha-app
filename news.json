@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-19T03:14:03.350Z",
+  "updatedAt": "2026-08-19T05:16:54.169Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Bill Hill, candidato independente, avança na disputa pela vaga na Câmara dos Deputados do Alasca, atualmente ocupada pelo Partido Republicano",
+      "titleOriginal": "Independent Bill Hill advances in race for Alaska’s GOP-held House seat",
+      "link": "https://thehill.com/homenews/campaign/6028789-bill-hill-alaska-house/",
+      "publishedAt": "2026-08-19T05:09:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Confirmado o confronto entre Peltola e Sullivan na disputa decisiva pelo Senado do Alasca",
+      "titleOriginal": "Peltola, Sullivan matchup set in key Alaska Senate race",
+      "link": "https://thehill.com/homenews/campaign/6028751-peltola-sullivan-alaska-senate/",
+      "publishedAt": "2026-08-19T05:07:17.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Conclusões sobre as eleições: Donalds entra na disputa histórica e candidato progressista consegue vitória surpreendente na Flórida",
+      "titleOriginal": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
+      "publishedAt": "2026-08-19T04:11:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "5 coisas que você precisa saber sobre Dan Sullivan, o senador do Alasca que concorre à reeleição",
+      "titleOriginal": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
+      "publishedAt": "2026-08-19T03:40:05.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os eleitores da Flórida, ansiosos por mudanças, rejeitam a cúpula do Partido Democrata e até mesmo Trump",
+      "titleOriginal": "Florida voters, hungry for change, snub Dem establishment and even Trump",
+      "link": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
+      "publishedAt": "2026-08-19T03:20:52.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Ameaçando amigos e conquistando inimigos no “mundo de cabeça para baixo” de Trump",
@@ -11,66 +46,31 @@
     },
     {
       "source": "Politico",
-      "title": "O candidato indicado por Trump para o cargo de governador do Wyoming é o mais recente apoiado a ser derrotado nas primárias",
+      "title": "O candidato indicado por Trump para o cargo de governador do Wyoming é o mais recente apoiado a perder nas primárias",
       "titleOriginal": "Trump’s pick for Wyoming governor is the latest endorsee to lose primary",
       "link": "https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404",
       "publishedAt": "2026-08-19T03:04:23.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump suspende por três dias as tarifas de 50% sobre produtos canadenses",
-      "titleOriginal": "Trump pauses 50% tariffs on Canadian goods for 3 days",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
-      "publishedAt": "2026-08-19T02:38:25.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Natalie Harp, a assessora mais leal de Trump, está sempre ao lado dele. O que exatamente ela faz?",
-      "titleOriginal": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
-      "publishedAt": "2026-08-19T02:29:43.000Z"
+      "title": "Trump indicará Heidi Overton, uma importante assessora de política interna, para o cargo de comissária da FDA",
+      "titleOriginal": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
+      "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
+      "publishedAt": "2026-08-19T03:01:28.000Z"
     },
     {
       "source": "Axios",
-      "title": "Angie Nixon consegue uma vitória histórica para o socialismo na Flórida de Trump",
+      "title": "Angie Nixon consegue um avanço socialista na Flórida de Trump",
       "titleOriginal": "Angie Nixon scores socialist breakthrough in Trump's Florida",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdms0bGlrSmVfeW0zUTZ6YnpCSTc4Mk9KZjBIalQxcjNGcmloNnJLUUs4czlyNXAwTVd1ajR5NVR1VzJsQkZPMjJrbkEwWlEwS01RVlN6d2NsVUNVSXl5LWhLc2RNaVZuVnk3VUhUQ19rb3plbWdjRGRPdW51dmNna2M1UjU?oc=5",
-      "publishedAt": "2026-08-19T02:24:53.000Z"
+      "publishedAt": "2026-08-19T03:00:51.000Z"
     },
     {
       "source": "Axios",
       "title": "O deputado Cory Mills perde as primárias da Flórida em meio a uma investigação de ética",
       "titleOriginal": "Rep. Cory Mills loses Florida primary amid Ethics probe",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUdtQ3JRTzZLM1RudnZGNWw3d3ZNTkFnb0ZjZW00blFtX1h0N05sVHF3c1RwdGdnSVM3UkY1VkhDT3dVRmdXbVRkQW9NaC00UmJQZjA4ZHlyZlItcWt1Z3JvSExHUXhocl9TZTZvT1l4TkgzNmZMTlVwOGdTVHplN0dUUENWLTQ?oc=5",
-      "publishedAt": "2026-08-19T02:15:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que os EUA não têm negociações programadas com o Irã e outras notícias do Oriente Médio",
-      "titleOriginal": "Trump says US has no talks planned with Iran and other news from the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-      "publishedAt": "2026-08-19T02:06:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Outrora moldada pelos rituais da corte, a culinária imperial chinesa continua viva até hoje",
-      "titleOriginal": "Once shaped by court rituals, China’s imperial cuisine lives on today",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkJ0QmV1STR6c01fS21wQWZRZ3pvc0FmalhEN3lRMzJqUUlLVlVkd0I4cWNPaXJwUU41YnJleS1uVkNLVHYyY0xuMUhYWkxZM3g1cHhBTHg3YUtzVFZNajk4emNfc2FCckN1YXJvSEo0R1h0eXVkaXhvN2NzbWdZeWlwd2kzLTJXNnc?oc=5",
-      "publishedAt": "2026-08-19T01:43:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O ICE alega que os democratas da Câmara dos Deputados “interromperam as operações” no centro de detenção da Geórgia",
-      "titleOriginal": "ICE alleges House Democrats 'disrupted operations' at Georgia detention center",
-      "link": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/",
-      "publishedAt": "2026-08-19T01:29:20.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O deputado federal Byron Donalds conquista a indicação do Partido Republicano para o cargo de governador da Flórida, enfrentando o ex-deputado David Jolly, candidato dos democratas",
-      "titleOriginal": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
-      "publishedAt": "2026-08-19T01:29:00.000Z"
+      "publishedAt": "2026-08-19T02:44:53.000Z"
     }
   ]
 }
