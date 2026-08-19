@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-19T21:55:46.694Z",
+  "updatedAt": "2026-08-19T22:54:40.742Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O entusiasmo em torno dos data centers acirra a disputa pelo Senado em Ohio",
+      "title": "Trump cogita retomar o projeto Keystone XL",
+      "titleOriginal": "Trump eyes Keystone XL revival",
+      "link": "https://thehill.com/newsletters/energy-environment/6040098-trump-eyes-keystone-xl-revival/",
+      "publishedAt": "2026-08-19T22:50:43.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O Freedom Caucus está enfrentando uma campanha nas primárias bastante acirrada",
+      "titleOriginal": "The Freedom Caucus is having a brutal primary run",
+      "link": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990",
+      "publishedAt": "2026-08-19T22:49:36.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas em relação ao indicado para a FDA",
+      "titleOriginal": "Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html",
+      "publishedAt": "2026-08-19T22:44:08.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ministro das Relações Exteriores da Síria à Axios: o bombardeio israelense à base aérea foi injustificado",
+      "titleOriginal": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJtOERhVzF4QU45M3VwNVBNWjB4N1pINTA1ZFBJSVdNU0ZILXV0VWhSYUpvSU9ZYTZvUTRQdkRzejF0dTAzVm9EY1V0T3RXUFJHZnh2cS1kRlVVN29BZGdDQU1uaTlISHVxX2x5QmF3X253MVBVRUxrVm5aRVo1QlEtRmY?oc=5",
+      "publishedAt": "2026-08-19T22:36:58.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Advogado de alto escalão do DHS enfrenta queixa na Ordem dos Advogados por causa da lista dos “piores dos piores” para juízes",
+      "titleOriginal": "Top DHS lawyer faces bar complaint over 'worst of the worst' list for judges",
+      "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
+      "publishedAt": "2026-08-19T22:25:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O indicado de Trump para a FDA recebe reações mistas",
+      "titleOriginal": "Trump’s FDA nominee draws mixed reception",
+      "link": "https://thehill.com/newsletters/healthcare/6040025-trumps-fda-nominee-draws-mixed-reception/",
+      "publishedAt": "2026-08-19T22:24:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cassidy critica a escolha de Trump para a FDA e afirma que o papel dela na encomenda de vacinas é “quase desqualificante”",
+      "titleOriginal": "Cassidy criticizes Trump's FDA pick, says her role in vaccine order is 'almost disqualifying'",
+      "link": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
+      "publishedAt": "2026-08-19T22:06:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Democratas pressionam Kevin Warsh a divulgar ligações com Trump",
+      "titleOriginal": "Exclusive | Democrats Press Kevin Warsh to Disclose Calls With Trump",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkhfbzg4NFdERzVYRnY5YmN3aUZzNXFneTQ2YnAtTmF4UDdYVDJ2bFQyY2lyaUN1a3J5UXVON3VWZzBSbGtRNkpjYVdPdHNSTE1NaGdwZWtkY1VuMG1IdWQtZjRKUjZIWkl4dUJBRmJJa1VNOWxGbVZsU05tN0d5Sy05QXhENlJqc2x1VzdLLWJLb3VoVWgtTUwtQXlQdXVxWUlJ?oc=5",
+      "publishedAt": "2026-08-19T22:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O entusiasmo em torno dos centros de dados acirra a disputa pelo Senado em Ohio",
       "titleOriginal": "Data center fervor ignites Ohio Senate race",
       "link": "https://thehill.com/newsletters/technology/6039967-data-center-fervor-ignites-ohio-senate-race/",
       "publishedAt": "2026-08-19T21:52:09.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump, que acumulou uma fortuna colossal no mercado de criptomoedas, recebe líderes do setor",
+      "title": "Trump, que acumulou uma fortuna enorme no mercado de criptomoedas, recebe líderes do setor",
       "titleOriginal": "Trump, Who Has Amassed Enormous Wealth in Crypto, Hosts Industry Leaders",
       "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-crypto-executives.html",
       "publishedAt": "2026-08-19T21:49:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas do Alabama esperam uma reação da comunidade negra em relação aos direitos eleitorais",
-      "titleOriginal": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
-      "publishedAt": "2026-08-19T21:39:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tom Begich, um descendente da política democrata, chega ao segundo turno para o cargo de governador do Alasca",
-      "titleOriginal": "Tom Begich, a Scion of Democratic Politics, Makes Runoff for Alaska Governor",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html",
-      "publishedAt": "2026-08-19T21:20:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As Forças Armadas de Israel iniciam investigações criminais sobre as mortes de Hind Rajab e dos paramédicos palestinos",
-      "titleOriginal": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-      "publishedAt": "2026-08-19T21:18:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Lamentavelmente mal preparada”: críticos de Graham aproveitam seu deslize na política externa",
-      "titleOriginal": "‘Woefully underprepared’: Graham critics seize on her foreign policy misstep",
-      "link": "https://www.politico.com/news/2026/08/19/darline-graham-taiwan-flub-south-carolina-senate-01042395",
-      "publishedAt": "2026-08-19T21:12:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Natalie Harp, a assessora mais leal de Trump, está sempre ao lado dele. O que exatamente ela faz?",
-      "titleOriginal": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
-      "publishedAt": "2026-08-19T21:01:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal federal suspende as mudanças propostas por Trump no programa de Prevenção da Gravidez na Adolescência",
-      "titleOriginal": "Federal court pauses Trump changes to Teen Pregnancy Prevention program",
-      "link": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
-      "publishedAt": "2026-08-19T20:56:23.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump nomeia a Dra. Heidi Overton para chefiar a FDA",
-      "titleOriginal": "Trump Taps Dr. Heidi Overton to Lead FDA",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3pYQnl4a0puTGp4OEpFaE9sZ09ndEZSTVV3dXJ1U0p5dmV0c1pNbFRKdW00Q2tzT2lyUnJvR0tNR1FURG50d21wZ2Q4M3Y1X3pkT3BaNzhlY1A2THhBV1EtQmpGaW5xZGRfcnhfMjREUG56QWtJdlFOaEhHTmgwWEkyQQ?oc=5",
-      "publishedAt": "2026-08-19T20:54:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump indica Heidi Overton, uma importante assessora de política interna, para o cargo de comissária da FDA",
-      "titleOriginal": "Trump Nominates Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-      "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
-      "publishedAt": "2026-08-19T20:45:04.000Z"
     }
   ]
 }
