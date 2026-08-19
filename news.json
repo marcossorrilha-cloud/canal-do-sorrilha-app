@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-19T22:54:40.742Z",
+  "updatedAt": "2026-08-19T23:47:59.504Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Autoridades do Federal Reserve dão a entender que pode ser necessário um aumento nas taxas de juros",
+      "titleOriginal": "Federal Reserve officials hint rate increase may be necessary",
+      "link": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
+      "publishedAt": "2026-08-19T23:13:44.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Gravura em bala indica que Charlie Kirk foi alvo por motivos políticos, afirmam os promotores",
+      "titleOriginal": "Bullet engraving shows Charlie Kirk targeted for politics, prosecutors say",
+      "link": "https://thehill.com/regulation/court-battles/6040138-utah-university-shooting-evidence-dispute/",
+      "publishedAt": "2026-08-19T23:06:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump planeja tomar medidas severas contra o suposto “abuso” na obtenção de restituições de impostos por parte de alguns imigrantes",
+      "titleOriginal": "Trump administration plans crackdown on some immigrants' alleged tax refund 'abuse'",
+      "link": "https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/",
+      "publishedAt": "2026-08-19T22:57:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas sobre o indicado para a FDA",
+      "titleOriginal": "Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html",
+      "publishedAt": "2026-08-19T22:52:58.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump cogita retomar o projeto Keystone XL",
@@ -11,17 +39,17 @@
     },
     {
       "source": "Politico",
-      "title": "O Freedom Caucus está enfrentando uma campanha nas primárias bastante acirrada",
+      "title": "O Freedom Caucus está passando por uma campanha brutal nas primárias",
       "titleOriginal": "The Freedom Caucus is having a brutal primary run",
       "link": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990",
       "publishedAt": "2026-08-19T22:49:36.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas em relação ao indicado para a FDA",
-      "titleOriginal": "Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html",
-      "publishedAt": "2026-08-19T22:44:08.000Z"
+      "source": "Wall Street Journal",
+      "title": "Por que uma gigante do setor de pagamentos está pagando US$ 7 bilhões pela “Stripe da IA”",
+      "titleOriginal": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREs2TUE3OWFYYXV4Y0lma1VOZG8yZkFxcHpmeGVkSE1mWENZOG1td0JPYkdhMjFvT0dsZXJYY01xaExrT0taVXBLZVJ0QUdUazNMZmhoU3UtM3ZkbzlXVGM1a3dheDV6QUtpZEYzeFRUUU11QmpoN0U0RW9nZWNSd2otNFNpSm4wTlZYTVJqRlNDT1hRS2lNNE1QN2w3Qk0?oc=5",
+      "publishedAt": "2026-08-19T22:37:00.000Z"
     },
     {
       "source": "Axios",
@@ -32,45 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Advogado de alto escalão do DHS enfrenta queixa na Ordem dos Advogados por causa da lista dos “piores dos piores” para juízes",
+      "title": "Advogado sênior do DHS enfrenta queixa na Ordem dos Advogados por causa da lista dos “piores dos piores” para juízes",
       "titleOriginal": "Top DHS lawyer faces bar complaint over 'worst of the worst' list for judges",
       "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
       "publishedAt": "2026-08-19T22:25:30.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O indicado de Trump para a FDA recebe reações mistas",
+      "title": "O indicado de Trump para a FDA é recebido com reações mistas",
       "titleOriginal": "Trump’s FDA nominee draws mixed reception",
       "link": "https://thehill.com/newsletters/healthcare/6040025-trumps-fda-nominee-draws-mixed-reception/",
       "publishedAt": "2026-08-19T22:24:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cassidy critica a escolha de Trump para a FDA e afirma que o papel dela na encomenda de vacinas é “quase desqualificante”",
-      "titleOriginal": "Cassidy criticizes Trump's FDA pick, says her role in vaccine order is 'almost disqualifying'",
-      "link": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
-      "publishedAt": "2026-08-19T22:06:45.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Democratas pressionam Kevin Warsh a divulgar ligações com Trump",
-      "titleOriginal": "Exclusive | Democrats Press Kevin Warsh to Disclose Calls With Trump",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkhfbzg4NFdERzVYRnY5YmN3aUZzNXFneTQ2YnAtTmF4UDdYVDJ2bFQyY2lyaUN1a3J5UXVON3VWZzBSbGtRNkpjYVdPdHNSTE1NaGdwZWtkY1VuMG1IdWQtZjRKUjZIWkl4dUJBRmJJa1VNOWxGbVZsU05tN0d5Sy05QXhENlJqc2x1VzdLLWJLb3VoVWgtTUwtQXlQdXVxWUlJ?oc=5",
-      "publishedAt": "2026-08-19T22:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O entusiasmo em torno dos centros de dados acirra a disputa pelo Senado em Ohio",
-      "titleOriginal": "Data center fervor ignites Ohio Senate race",
-      "link": "https://thehill.com/newsletters/technology/6039967-data-center-fervor-ignites-ohio-senate-race/",
-      "publishedAt": "2026-08-19T21:52:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump, que acumulou uma fortuna enorme no mercado de criptomoedas, recebe líderes do setor",
-      "titleOriginal": "Trump, Who Has Amassed Enormous Wealth in Crypto, Hosts Industry Leaders",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-crypto-executives.html",
-      "publishedAt": "2026-08-19T21:49:00.000Z"
     }
   ]
 }
