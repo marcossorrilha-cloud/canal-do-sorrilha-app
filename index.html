@@ -198,7 +198,7 @@
   <section class="wrap narrow" data-panel="midterms" hidden>
     <div class="section-title">Midterms 2026</div>
     <div class="meta">
-      <span>Previsão: <a href="https://fiftyplusone.news/forecast/house" target="_blank" rel="noopener">FiftyPlusOne</a> (<a href="https://fiftyplusone.news/forecast/senate" target="_blank" rel="noopener">Senado</a>).</span>
+      <span>Fonte: <a href="https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote" target="_blank" rel="noopener">RealClearPolitics</a> — voto genérico (Câmara) e <a href="https://www.realclearpolling.com/maps/senate/2026/toss-up" target="_blank" rel="noopener">mapa do Senado</a>.</span>
       <span id="mid-updated"></span>
     </div>
     <div id="mid-box"><div class="empty">Carregando…</div></div>
@@ -306,36 +306,46 @@ async function renderMidterms() {
   try {
     const d = await loadJson("midterms.json");
     document.getElementById("mid-updated").textContent = d.asOf ? ("Atualizado em " + d.asOf) : fmtUpdated(d.updatedAt);
-    const chamber = (nome, o) => {
-      const dem = Number(o && o.dem) || 0, rep = Number(o && o.rep) || 0;
-      const total = dem + rep || 1;
-      const fav = dem >= rep ? `Democratas favoritos (${dem}%)` : `Republicanos favoritos (${rep}%)`;
-      return `
+    const fmt1 = (x) => Number(x).toFixed(1).replace(".", ",");
+
+    // Câmara — média do voto genérico do RCP (intenção de voto nacional).
+    const g = d.generic || {};
+    const gd = Number(g.dem) || 0, gr = Number(g.rep) || 0, gt = gd + gr || 1;
+    const houseCard = `
       <div class="mid-chamber">
-        <h3>${esc(nome)}</h3>
-        <div class="mid-nums"><span class="dem">DEM ${esc(dem)}%</span><span class="rep">REP ${esc(rep)}%</span></div>
-        <div class="mid-bar"><div class="dem" style="width:${(dem / total) * 100}%"></div><div class="rep" style="width:${(rep / total) * 100}%"></div></div>
-        <div class="mid-fav">${esc(fav)}</div>
+        <h3>Câmara (House) — voto genérico</h3>
+        <div class="mid-nums"><span class="dem">DEM ${esc(fmt1(gd))}%</span><span class="rep">REP ${esc(fmt1(gr))}%</span></div>
+        <div class="mid-bar"><div class="dem" style="width:${(gd / gt) * 100}%"></div><div class="rep" style="width:${(gr / gt) * 100}%"></div></div>
+        <div class="mid-fav">Margem RCP: ${esc(g.spread || "")}</div>
       </div>`;
-    };
-    const states = (d.states || []).map((s) => {
-      const side = s.favored === "D" ? "D" : s.favored === "R" ? "R" : "";
-      const favLabel = side === "D" ? "Democratas" : side === "R" ? "Republicanos" : "Empate técnico";
-      const prob = Number(s.prob) || 50;
-      const sub = s.rating || favLabel;
+
+    // Senado — mapa de cadeiras do RCP: barra azul (Dem) à esquerda, vermelha (Rep) à direita, faixa cinza no meio = toss-ups.
+    const s = d.senate || {};
+    const sd = Number(s.dem) || 0, sr = Number(s.rep) || 0, su = Number(s.tossup) || 0;
+    const stot = sd + sr + su || 100;
+    const senateCard = `
+      <div class="mid-chamber">
+        <h3>Senado (Senate) — mapa de cadeiras</h3>
+        <div class="mid-nums"><span class="dem">DEM ${esc(sd)}</span><span style="color:#8a8a8a;">TOSS-UP ${esc(su)}</span><span class="rep">REP ${esc(sr)}</span></div>
+        <div class="mid-bar"><div class="dem" style="width:${(sd / stot) * 100}%"></div><div class="rep" style="width:${(sr / stot) * 100}%"></div></div>
+        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · Projejpão RCP: ${esc(s.netPickup || "")}</div>
+      </div>`;
+
+    const states = (d.states || []).map((st) => {
+      const side = st.favored === "D" ? "D" : st.favored === "R" ? "R" : "";
       return `
       <div class="mid-state ${side}">
         <div class="st-info">
-          <div class="st-name">${esc(s.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(s.office || "")}</span></div>
-          ${s.candidates ? `<div class="st-cand">${esc(s.candidates)}</div>` : ""}
+          <div class="st-name">${esc(st.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(st.office || "")}</span></div>
+          ${st.candidates ? `<div class="st-cand">${esc(st.candidates)}</div>` : ""}
         </div>
-        <div class="st-odds">${esc(prob)}%<span class="st-sub">${esc(sub)}</span></div>
+        <div class="st-odds">${esc(st.rating || "")}</div>
       </div>`;
     }).join("");
+
     box.innerHTML =
-      chamber("Câmara (House)", d.house) +
-      chamber("Senado (Senate)", d.senate) +
-      `<div class="mid-states-title">Estados mais disputados</div>` +
+      houseCard + senateCard +
+      `<div class="mid-states-title">Cadeiras mais disputadas</div>` +
       (states || `<div class="empty">Sem dados de estados.</div>`) +
       (d.note ? `<div class="mid-note">${esc(d.note)}</div>` : "");
   } catch (e) {
