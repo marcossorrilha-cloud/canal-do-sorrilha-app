@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-19T20:58:46.686Z",
+  "updatedAt": "2026-08-19T21:55:46.694Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O entusiasmo em torno dos data centers acirra a disputa pelo Senado em Ohio",
+      "titleOriginal": "Data center fervor ignites Ohio Senate race",
+      "link": "https://thehill.com/newsletters/technology/6039967-data-center-fervor-ignites-ohio-senate-race/",
+      "publishedAt": "2026-08-19T21:52:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump, que acumulou uma fortuna colossal no mercado de criptomoedas, recebe líderes do setor",
+      "titleOriginal": "Trump, Who Has Amassed Enormous Wealth in Crypto, Hosts Industry Leaders",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-crypto-executives.html",
+      "publishedAt": "2026-08-19T21:49:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas do Alabama esperam uma reação da comunidade negra em relação aos direitos eleitorais",
+      "titleOriginal": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+      "publishedAt": "2026-08-19T21:39:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Tom Begich, um descendente da política democrata, chega ao segundo turno para o cargo de governador do Alasca",
+      "titleOriginal": "Tom Begich, a Scion of Democratic Politics, Makes Runoff for Alaska Governor",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html",
+      "publishedAt": "2026-08-19T21:20:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As Forças Armadas de Israel iniciam investigações criminais sobre as mortes de Hind Rajab e dos paramédicos palestinos",
+      "titleOriginal": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "publishedAt": "2026-08-19T21:18:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Lamentavelmente mal preparada”: críticos de Graham aproveitam seu deslize na política externa",
+      "titleOriginal": "‘Woefully underprepared’: Graham critics seize on her foreign policy misstep",
+      "link": "https://www.politico.com/news/2026/08/19/darline-graham-taiwan-flub-south-carolina-senate-01042395",
+      "publishedAt": "2026-08-19T21:12:54.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Natalie Harp, a assessora mais leal de Trump, está sempre ao lado dele. O que exatamente ela faz?",
+      "titleOriginal": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+      "publishedAt": "2026-08-19T21:01:34.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Tribunal federal suspende as mudanças propostas por Trump no programa de Prevenção da Gravidez na Adolescência",
@@ -10,67 +59,18 @@
       "publishedAt": "2026-08-19T20:56:23.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Trump nomeia a Dra. Heidi Overton para chefiar a FDA",
+      "titleOriginal": "Trump Taps Dr. Heidi Overton to Lead FDA",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3pYQnl4a0puTGp4OEpFaE9sZ09ndEZSTVV3dXJ1U0p5dmV0c1pNbFRKdW00Q2tzT2lyUnJvR0tNR1FURG50d21wZ2Q4M3Y1X3pkT3BaNzhlY1A2THhBV1EtQmpGaW5xZGRfcnhfMjREUG56QWtJdlFOaEhHTmgwWEkyQQ?oc=5",
+      "publishedAt": "2026-08-19T20:54:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Trump indica Heidi Overton, uma das principais assessoras de política interna, para o cargo de comissária da FDA",
+      "title": "Trump indica Heidi Overton, uma importante assessora de política interna, para o cargo de comissária da FDA",
       "titleOriginal": "Trump Nominates Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
       "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
       "publishedAt": "2026-08-19T20:45:04.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Coreia do Norte rejeita a proposta de Trump de reduzir os exercícios militares, considerando-a um gesto vazio",
-      "titleOriginal": "North Korea Rejects Trump’s Drills-Cut Overture as an Empty Gesture",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk5EQTdydlFTb2FYWWlyMkVGQlZlUGFVcWZYWDljMTlyaklXMlNzNFliSGF6OUVGU2taOWRadkhkS2xYaEN6WWstQ0F5ekxYTnZNQVpad0EyU2pxZzNQMVREeDZLeU1jMXk1WFdxd2wxN1RiWG5VRDBRR3lSODktdzBPWjFpM1J0ZGd6bWkxOUF4OVRFWnJ5VzR2SkZfSjUza25qZHdsajZBNG4wd3oyY3ctRm9Bcm8?oc=5",
-      "publishedAt": "2026-08-19T20:17:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas conquistam cadeira na Câmara Estadual da Pensilvânia em um distrito eleitoral de Trump",
-      "titleOriginal": "Democrats flip Pennsylvania state House seat in Trump district",
-      "link": "https://thehill.com/homenews/campaign/6039588-democrats-flip-pennsylvania-state-house-seat/",
-      "publishedAt": "2026-08-19T20:09:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump vai se reunir com Michael Cohen para uma entrevista, afirma ex-assessor",
-      "titleOriginal": "Trump to sit down with Michael Cohen for interview, former fixer says",
-      "link": "https://thehill.com/homenews/media/6039587-trump-cohen-radio-interview/",
-      "publishedAt": "2026-08-19T19:59:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Turley afirma que o pesquisador fraudulento “levanta uma questão jurídica interessante”",
-      "titleOriginal": "Turley says fake pollster 'raises an interesting legal question'",
-      "link": "https://thehill.com/homenews/campaign/6039452-turley-comments-median-strategies-polls/",
-      "publishedAt": "2026-08-19T19:51:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lindell pede recontagem às suas próprias custas após derrota por 11 pontos nas primárias para o cargo de governador de Minnesota",
-      "titleOriginal": "Lindell calls for self-funded recount after 11-point loss in Minnesota governor's primary",
-      "link": "https://thehill.com/homenews/campaign/6039547-lindell-funds-minnesota-recount/",
-      "publishedAt": "2026-08-19T19:48:41.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Ministério Público de Los Angeles reduz as acusações contra o policial da LAPD que gravou colegas fazendo comentários racistas",
-      "titleOriginal": "Los Angeles DA reduces charges against LAPD officer who taped colleagues making racist remarks",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFM5WTFLYVplYWFrMGVQY1lOSWpvMEF2VFFlRzdaVE9TNk5tb01oaGt2aV9kdlFId2JYZElaQmhRdUN4S2dvWERiTzE0ZzZzZUhrLUQ5MWtZeDMyS1RwWS1HNzV5OUptZmZndmo5NXIxR2lLVmp4UmpCYWFRUVNBc3dFU3h1cmtYSkVHNENINEpRRmJCSENYYktkdTB0TFJlMkpCWUx2dWZaT1JDaXIzSGl2MHZnUGlv?oc=5",
-      "publishedAt": "2026-08-19T19:21:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O entusiasmo em torno dos data centers acirra a disputa pelo Senado em Ohio",
-      "titleOriginal": "Fervor over data centers fires up competitive Ohio Senate race",
-      "link": "https://thehill.com/homenews/campaign/6039515-ohio-senate-race-data-centers-husted-brown/",
-      "publishedAt": "2026-08-19T19:17:44.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "McCarthy se mostra “preocupado” com o Partido Republicano nas eleições de meio de mandato: “Qual é o plano?”",
-      "titleOriginal": "McCarthy 'worried' for GOP in midterms: 'What is the plan?'",
-      "link": "https://thehill.com/homenews/campaign/6039123-kevin-mccarthy-gop-midterms-concerns/",
-      "publishedAt": "2026-08-19T19:00:23.000Z"
     }
   ]
 }
