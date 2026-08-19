@@ -1,8 +1,9 @@
 // Service worker do app Canal do Sorrilha.
-// - Cacheia o "shell" (páginas, ícones, imagens) para abrir rápido e offline.
-// - Usa network-first para os dados (news/clipping/trump), assim o conteúdo
-//   fica sempre o mais novo quando há internet, mas ainda abre offline.
-const VERSION = "v12";
+// - HTML (páginas): network-first, para o app atualizar na hora quando há internet
+//   (com fallback ao cache quando offline).
+// - Dados (news/clipping/trump/midterms/blindspot): network-first.
+// - Demais assets (ícones, imagens, manifest): cache-first, para abrir rápido e offline.
+const VERSION = "v13";
 const SHELL_CACHE = "sorrilha-shell-" + VERSION;
 const DATA_CACHE = "sorrilha-data-" + VERSION;
 
@@ -50,22 +51,26 @@ self.addEventListener("fetch", (event) => {
 
   const url = new URL(req.url);
   const isData = DATA_FILES.some((f) => url.pathname.endsWith("/" + f) || url.pathname.endsWith(f));
+  const isDoc = req.mode === "navigate" || url.pathname.endsWith(".html") || url.pathname.endsWith("/");
 
-  if (isData) {
-    // network-first
+  // Dados e HTML: network-first (conteúdo/versão sempre mais novos quando online).
+  if (isData || isDoc) {
+    const cacheName = isData ? DATA_CACHE : SHELL_CACHE;
     event.respondWith(
       fetch(req)
         .then((res) => {
           const copy = res.clone();
-          caches.open(DATA_CACHE).then((c) => c.put(req, copy));
+          caches.open(cacheName).then((c) => c.put(req, copy));
           return res;
         })
-        .catch(() => caches.match(req))
+        .catch(() =>
+          caches.match(req).then((r) => r || (isDoc ? caches.match("./index.html") : undefined))
+        )
     );
     return;
   }
 
-  // shell: cache-first, com atualização em segundo plano
+  // Demais assets (ícones, imagens, manifest): cache-first, com atualização em segundo plano.
   event.respondWith(
     caches.match(req).then((cached) => {
       const network = fetch(req)
