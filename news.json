@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-19T09:28:05.908Z",
+  "updatedAt": "2026-08-19T10:58:37.166Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "O Summerween chega a Washington, D.C., com festas e o sabor de abóbora",
+      "titleOriginal": "Summerween hits D.C. with parties and pumpkin spice",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0NrZElvNFdneXRJckVpd1R2ZjFRc2tIX0VITzB2ZlVtNms0d2ZYTHVuZVBnZVhEM0NfdzRTMDRaQUl1ai1mRFJQV2cyMnBMclN3cExhaDVnOTRGbHY3aVJpM3pZMDZSYTdseFFpaFB2RmtyUXQ2V3U5Qzg4WHJLc2lRN3RCT1B3U1prbWZHN2I4NW84eHJqM1dDcGdOT0JnU2RjOExmYk9acFRmNHFrMw?oc=5",
+      "publishedAt": "2026-08-19T10:47:14.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump usa o apoio a Netanyahu como isca em uma campanha de pressão contra Gaza",
+      "titleOriginal": "Trump dangles Netanyahu endorsement in pressure campaign on Gaza",
+      "link": "https://thehill.com/policy/international/6036801-trump-netanyahu-endorsement-gaza-pressure/",
+      "publishedAt": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Mark Kelly critica Trump por causa do USS Abraham Lincoln e dá força aos democratas",
+      "titleOriginal": "Mark Kelly takes on Trump over USS Abraham Lincoln, boosts Dems",
+      "link": "https://thehill.com/homenews/campaign/6036523-democrats-eye-kelly-ossoff-ticket/",
+      "publishedAt": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As forças armadas da Coreia do Sul e dos EUA encurtaram os exercícios em cerca de metade, após Trump ter ordenado uma redução",
+      "titleOriginal": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
+      "publishedAt": "2026-08-19T09:58:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O salão de festas de Trump está sendo construído a uma velocidade alucinante: 20 horas por dia, 7 dias por semana",
+      "titleOriginal": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
+      "publishedAt": "2026-08-19T09:57:50.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ossoff testa a disposição dos democratas de recorrer a táticas sujas",
+      "titleOriginal": "Ossoff tests Democrats' appetite for going low",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzT0w3RjJFSUVoQWVyX3FuV2kwLUllazNHbVlQbXR1ejZQZnJ2N2xhTWo5cmFUU0RsYU9KcDhqa1lXLXd3LW4xVkIzWml0MVN4TnFsZkRaYlAyYkFtMmlGSkZlRlR1dWRtcWJ0OUoxcnlEUXpVQVow?oc=5",
+      "publishedAt": "2026-08-19T09:23:29.000Z"
+    },
+    {
       "source": "Politico",
-      "title": "Pesquisa: Os americanos afirmam que a Casa Branca mudou sua campanha de deportação. Mas eles ainda não estão convencidos.",
+      "title": "Pesquisa: Os americanos afirmam que a Casa Branca mudou sua campanha de deportação. Mas eles ainda não estão acreditando nisso.",
       "titleOriginal": "Poll: Americans say the White House has shifted its deportation campaign. They’re still not buying it.",
       "link": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
       "publishedAt": "2026-08-19T09:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "EUA reduzem exercícios militares com a Coreia do Sul, enquanto Trump tenta se aproximar de Kim Jong-un",
-      "titleOriginal": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-      "publishedAt": "2026-08-19T07:15:13.000Z"
+      "source": "Wall Street Journal",
+      "title": "A SK Hynix planeja uma recompra de ações no valor de mais de US$ 28 bilhões",
+      "titleOriginal": "SK Hynix Plans More Than $28 Billion Share Buyback",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWd3dWZCRVRWV1NUcTFuTTA5OGNPaHlsZDhROWdvOU5mRm5pYVpYZGRmODJsYXNhSUlwcDBSRG02Zld0ZGF4WmVDLU8tVGRpci1WcGNUZnZHS3pXdzd4aEdfelo2UEtEeDUxUlNWbUR0YzNQYlRtNnJISkh5X2liZldmaGtLQzRmWXQ1ZU1ETXM?oc=5",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Socialista democrático conquista vitória surpreendente nas primárias para o Senado da Flórida: 5 pontos a serem destacados",
-      "titleOriginal": "Democratic socialist notches surprise win in Florida Senate primary: 5 takeaways",
-      "link": "https://thehill.com/homenews/campaign/6036787-nixon-vindman-peltola-primaries/",
-      "publishedAt": "2026-08-19T05:43:30.000Z"
+      "source": "AP News",
+      "title": "O senador Sullivan e a ex-deputada federal Peltola disputarão a vaga do Alasca no Senado dos EUA em novembro",
+      "titleOriginal": "Sen. Sullivan, former congresswoman Peltola will face off for Alaska US Senate seat in November",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlVZQTF6elRfTlRLdnpXYTdPVGVJclZ3eFRXY01jV21qTG8yd0x6OUduQldJVHlTNUFwRkRQTzlPYjNPQXJuVWRhYmU5NWVidWpsZ2txTWRJVkxfOFZsSXBzSk5fQkVwQXBzdVBHSl85U24zMVhzSVRNWjhpZFM2cjJIeGdoNnVHclVjTkd1bkxxY05kdXg4RFBQdmdHd1ZxRVQzNHNHdXFvUnc?oc=5",
+      "publishedAt": "2026-08-19T06:34:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Filho de uma família com tradição na política democrata chega ao segundo turno para o cargo de governador do Alasca",
-      "titleOriginal": "Scion of Democratic Politics Makes Runoff for Alaska Governor",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html",
-      "publishedAt": "2026-08-19T05:15:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bill Hill, candidato independente, avança na disputa pela vaga na Câmara dos Deputados do Alasca, atualmente ocupada pelo Partido Republicano",
-      "titleOriginal": "Independent Bill Hill advances in race for Alaska’s GOP-held House seat",
-      "link": "https://thehill.com/homenews/campaign/6028789-bill-hill-alaska-house/",
-      "publishedAt": "2026-08-19T05:09:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Confirmado o confronto entre Peltola e Sullivan na disputa decisiva pelo Senado do Alasca",
-      "titleOriginal": "Peltola, Sullivan matchup set in key Alaska Senate race",
-      "link": "https://thehill.com/homenews/campaign/6028751-peltola-sullivan-alaska-senate/",
-      "publishedAt": "2026-08-19T05:07:17.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "5 coisas que você precisa saber sobre Dan Sullivan, o senador do Alasca que busca a reeleição",
-      "titleOriginal": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
-      "publishedAt": "2026-08-19T03:40:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump suspende por três dias as tarifas de 50% sobre o Canadá",
-      "titleOriginal": "Trump pauses 50% tariffs on Canada for 3 days",
-      "link": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/",
-      "publishedAt": "2026-08-19T03:24:15.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os eleitores da Flórida, ansiosos por mudanças, deram as costas à cúpula do Partido Democrata e até mesmo a Trump",
-      "titleOriginal": "Florida voters, hungry for change, snub Dem establishment and even Trump",
-      "link": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
-      "publishedAt": "2026-08-19T03:20:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que democratas e republicanos estão apoiando adversários nas primárias para o Senado no Alasca",
-      "titleOriginal": "Why Democrats and Republicans Are Backing Rivals in Alaska’s Senate Primary",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html",
-      "publishedAt": "2026-08-19T03:17:42.000Z"
+      "source": "AP News",
+      "title": "Conclusões sobre as eleições: Donalds entra na disputa histórica e candidato progressista consegue vitória surpreendente na Flórida",
+      "titleOriginal": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
+      "publishedAt": "2026-08-19T05:49:00.000Z"
     }
   ]
 }
