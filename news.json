@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-19T07:58:12.859Z",
+  "updatedAt": "2026-08-19T09:28:05.908Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Pesquisa: Os americanos afirmam que a Casa Branca mudou sua campanha de deportação. Mas eles ainda não estão convencidos.",
+      "titleOriginal": "Poll: Americans say the White House has shifted its deportation campaign. They’re still not buying it.",
+      "link": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "EUA reduzem exercícios militares com a Coreia do Sul, enquanto Trump tenta se aproximar de Kim Jong-un",
@@ -10,25 +17,11 @@
       "publishedAt": "2026-08-19T07:15:13.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Conclusões sobre as eleições: Donalds entra na disputa histórica e candidato progressista consegue vitória surpreendente na Flórida",
-      "titleOriginal": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
-      "publishedAt": "2026-08-19T05:49:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Israel defende ataque à Síria enquanto cresce a frustração dos EUA com Bibi",
-      "titleOriginal": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
-      "publishedAt": "2026-08-19T05:42:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump suspende por três dias as tarifas de 50% sobre produtos canadenses",
-      "titleOriginal": "Trump pauses 50% tariffs on Canadian goods for 3 days",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
-      "publishedAt": "2026-08-19T05:35:03.000Z"
+      "source": "The Hill",
+      "title": "Socialista democrático conquista vitória surpreendente nas primárias para o Senado da Flórida: 5 pontos a serem destacados",
+      "titleOriginal": "Democratic socialist notches surprise win in Florida Senate primary: 5 takeaways",
+      "link": "https://thehill.com/homenews/campaign/6036787-nixon-vindman-peltola-primaries/",
+      "publishedAt": "2026-08-19T05:43:30.000Z"
     },
     {
       "source": "New York Times",
@@ -52,25 +45,32 @@
       "publishedAt": "2026-08-19T05:07:17.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A declaração de Trump sobre a tempestade em Indiana coloca a ajuda da FEMA a Illinois em destaque",
-      "titleOriginal": "Trump's Indiana storm declaration puts Illinois FEMA aid in spotlight",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUFDOTF5RmtNY1lSOWpKQ0tjUDBMblVYMGhFU0pmdm8wUFlnZHBGa2FvbkRUSnNVSlhHZFBwWUwwR1RwbU9OVkVObzM0Q1F3dEN3RThNWEJrMUE5TVpUMzBJTENCdzc1TXAyVWpLaUtQLTZTV2h3OTlDME9la1A3SFloWDFvTUZ1V2pLQUttN2syYlNtaDB6SmtDMWRQaTVWLVJIamZqYWJOX3haX3Zqa2h3emVGTk0?oc=5",
-      "publishedAt": "2026-08-19T04:43:03.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ações caem na Ásia, com o Kospi registrando queda de 5,2%, enquanto os preços do petróleo disparam",
-      "titleOriginal": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
-      "publishedAt": "2026-08-19T03:45:20.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "5 coisas que você precisa saber sobre Dan Sullivan, o senador do Alasca que concorre à reeleição",
+      "title": "5 coisas que você precisa saber sobre Dan Sullivan, o senador do Alasca que busca a reeleição",
       "titleOriginal": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
       "publishedAt": "2026-08-19T03:40:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump suspende por três dias as tarifas de 50% sobre o Canadá",
+      "titleOriginal": "Trump pauses 50% tariffs on Canada for 3 days",
+      "link": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/",
+      "publishedAt": "2026-08-19T03:24:15.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os eleitores da Flórida, ansiosos por mudanças, deram as costas à cúpula do Partido Democrata e até mesmo a Trump",
+      "titleOriginal": "Florida voters, hungry for change, snub Dem establishment and even Trump",
+      "link": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
+      "publishedAt": "2026-08-19T03:20:52.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que democratas e republicanos estão apoiando adversários nas primárias para o Senado no Alasca",
+      "titleOriginal": "Why Democrats and Republicans Are Backing Rivals in Alaska’s Senate Primary",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html",
+      "publishedAt": "2026-08-19T03:17:42.000Z"
     }
   ]
 }
