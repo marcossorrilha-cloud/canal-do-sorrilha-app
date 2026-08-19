@@ -3,7 +3,7 @@
 //   (com fallback ao cache quando offline).
 // - Dados (news/clipping/trump/midterms/blindspot): network-first.
 // - Demais assets (ícones, imagens, manifest): cache-first, para abrir rápido e offline.
-const VERSION = "v13";
+const VERSION = "v14";
 const SHELL_CACHE = "sorrilha-shell-" + VERSION;
 const DATA_CACHE = "sorrilha-data-" + VERSION;
 
