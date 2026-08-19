@@ -308,7 +308,7 @@ async function renderMidterms() {
     document.getElementById("mid-updated").textContent = d.asOf ? ("Atualizado em " + d.asOf) : fmtUpdated(d.updatedAt);
     const fmt1 = (x) => Number(x).toFixed(1).replace(".", ",");
 
-    // Câmara — média do voto genérico do RCP (intenção de voto nacional).
+    // Câmara — média nacional do voto genérico do RCP. É intenção de voto, não cadeiras nem % de chance.
     const g = d.generic || {};
     const gd = Number(g.dem) || 0, gr = Number(g.rep) || 0, gt = gd + gr || 1;
     const houseCard = `
@@ -316,19 +316,19 @@ async function renderMidterms() {
         <h3>Câmara (House) — voto genérico</h3>
         <div class="mid-nums"><span class="dem">DEM ${esc(fmt1(gd))}%</span><span class="rep">REP ${esc(fmt1(gr))}%</span></div>
         <div class="mid-bar"><div class="dem" style="width:${(gd / gt) * 100}%"></div><div class="rep" style="width:${(gr / gt) * 100}%"></div></div>
-        <div class="mid-fav">Margem RCP: ${esc(g.spread || "")}</div>
+        <div class="mid-fav">Média nacional RCP: <b>${esc(g.spread || "")}</b> — intenção de voto, não número de cadeiras.</div>
       </div>`;
 
-    // Senado — mapa de cadeiras do RCP: barra azul (Dem) à esquerda, vermelha (Rep) à direita, faixa cinza no meio = toss-ups.
+    // Senado — cadeiras seguras/inclinadas de cada lado + toss-ups (RCP). Não é % de chance de vitória.
     const s = d.senate || {};
     const sd = Number(s.dem) || 0, sr = Number(s.rep) || 0, su = Number(s.tossup) || 0;
     const stot = sd + sr + su || 100;
     const senateCard = `
       <div class="mid-chamber">
-        <h3>Senado (Senate) — mapa de cadeiras</h3>
-        <div class="mid-nums"><span class="dem">DEM ${esc(sd)}</span><span style="color:#8a8a8a;">TOSS-UP ${esc(su)}</span><span class="rep">REP ${esc(sr)}</span></div>
+        <h3>Senado (Senate) — cadeiras</h3>
+        <div class="mid-nums"><span class="dem">${esc(sd)} DEM</span><span style="color:#8a8a8a;">${esc(su)} TOSS-UP</span><span class="rep">${esc(sr)} REP</span></div>
         <div class="mid-bar"><div class="dem" style="width:${(sd / stot) * 100}%"></div><div class="rep" style="width:${(sr / stot) * 100}%"></div></div>
-        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · Projeção RCP: ${esc(s.netPickup || "")}</div>
+        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · RCP projeta ganho de <b>${esc(s.netPickup || "")}</b>. A faixa cinza são as ${esc(su)} em toss-up.</div>
       </div>`;
 
     const states = (d.states || []).map((st) => {
@@ -336,16 +336,16 @@ async function renderMidterms() {
       return `
       <div class="mid-state ${side}">
         <div class="st-info">
-          <div class="st-name">${esc(st.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(st.office || "")}</span></div>
+          <div class="st-name">${esc(st.state)} <span style="font-weight:400;color:#999;font-size:12px;">· ${esc(st.office || "Senado")}</span></div>
           ${st.candidates ? `<div class="st-cand">${esc(st.candidates)}</div>` : ""}
         </div>
-        <div class="st-odds">${esc(st.rating || "")}</div>
+        <div class="st-odds">${esc(st.margin || "")}<span class="st-sub">${esc(st.rating || "")}</span></div>
       </div>`;
     }).join("");
 
     box.innerHTML =
       houseCard + senateCard +
-      `<div class="mid-states-title">Cadeiras mais disputadas</div>` +
+      `<div class="mid-states-title">Disputas em aberto · vantagem na média RCP</div>` +
       (states || `<div class="empty">Sem dados de estados.</div>`) +
       (d.note ? `<div class="mid-note">${esc(d.note)}</div>` : "");
   } catch (e) {
