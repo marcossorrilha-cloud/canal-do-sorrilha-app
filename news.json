@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-19T05:16:54.169Z",
+  "updatedAt": "2026-08-19T07:58:12.859Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "EUA reduzem exercícios militares com a Coreia do Sul, enquanto Trump tenta se aproximar de Kim Jong-un",
+      "titleOriginal": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+      "publishedAt": "2026-08-19T07:15:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Conclusões sobre as eleições: Donalds entra na disputa histórica e candidato progressista consegue vitória surpreendente na Flórida",
+      "titleOriginal": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
+      "publishedAt": "2026-08-19T05:49:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Israel defende ataque à Síria enquanto cresce a frustração dos EUA com Bibi",
+      "titleOriginal": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
+      "publishedAt": "2026-08-19T05:42:44.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump suspende por três dias as tarifas de 50% sobre produtos canadenses",
+      "titleOriginal": "Trump pauses 50% tariffs on Canadian goods for 3 days",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
+      "publishedAt": "2026-08-19T05:35:03.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Filho de uma família com tradição na política democrata chega ao segundo turno para o cargo de governador do Alasca",
+      "titleOriginal": "Scion of Democratic Politics Makes Runoff for Alaska Governor",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html",
+      "publishedAt": "2026-08-19T05:15:13.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Bill Hill, candidato independente, avança na disputa pela vaga na Câmara dos Deputados do Alasca, atualmente ocupada pelo Partido Republicano",
@@ -17,11 +52,18 @@
       "publishedAt": "2026-08-19T05:07:17.000Z"
     },
     {
+      "source": "Axios",
+      "title": "A declaração de Trump sobre a tempestade em Indiana coloca a ajuda da FEMA a Illinois em destaque",
+      "titleOriginal": "Trump's Indiana storm declaration puts Illinois FEMA aid in spotlight",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUFDOTF5RmtNY1lSOWpKQ0tjUDBMblVYMGhFU0pmdm8wUFlnZHBGa2FvbkRUSnNVSlhHZFBwWUwwR1RwbU9OVkVObzM0Q1F3dEN3RThNWEJrMUE5TVpUMzBJTENCdzc1TXAyVWpLaUtQLTZTV2h3OTlDME9la1A3SFloWDFvTUZ1V2pLQUttN2syYlNtaDB6SmtDMWRQaTVWLVJIamZqYWJOX3haX3Zqa2h3emVGTk0?oc=5",
+      "publishedAt": "2026-08-19T04:43:03.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Conclusões sobre as eleições: Donalds entra na disputa histórica e candidato progressista consegue vitória surpreendente na Flórida",
-      "titleOriginal": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
-      "publishedAt": "2026-08-19T04:11:00.000Z"
+      "title": "As ações caem na Ásia, com o Kospi registrando queda de 5,2%, enquanto os preços do petróleo disparam",
+      "titleOriginal": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
+      "publishedAt": "2026-08-19T03:45:20.000Z"
     },
     {
       "source": "New York Times",
@@ -29,48 +71,6 @@
       "titleOriginal": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
       "publishedAt": "2026-08-19T03:40:05.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os eleitores da Flórida, ansiosos por mudanças, rejeitam a cúpula do Partido Democrata e até mesmo Trump",
-      "titleOriginal": "Florida voters, hungry for change, snub Dem establishment and even Trump",
-      "link": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
-      "publishedAt": "2026-08-19T03:20:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ameaçando amigos e conquistando inimigos no “mundo de cabeça para baixo” de Trump",
-      "titleOriginal": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html",
-      "publishedAt": "2026-08-19T03:07:15.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O candidato indicado por Trump para o cargo de governador do Wyoming é o mais recente apoiado a perder nas primárias",
-      "titleOriginal": "Trump’s pick for Wyoming governor is the latest endorsee to lose primary",
-      "link": "https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404",
-      "publishedAt": "2026-08-19T03:04:23.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump indicará Heidi Overton, uma importante assessora de política interna, para o cargo de comissária da FDA",
-      "titleOriginal": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-      "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
-      "publishedAt": "2026-08-19T03:01:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Angie Nixon consegue um avanço socialista na Flórida de Trump",
-      "titleOriginal": "Angie Nixon scores socialist breakthrough in Trump's Florida",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdms0bGlrSmVfeW0zUTZ6YnpCSTc4Mk9KZjBIalQxcjNGcmloNnJLUUs4czlyNXAwTVd1ajR5NVR1VzJsQkZPMjJrbkEwWlEwS01RVlN6d2NsVUNVSXl5LWhLc2RNaVZuVnk3VUhUQ19rb3plbWdjRGRPdW51dmNna2M1UjU?oc=5",
-      "publishedAt": "2026-08-19T03:00:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O deputado Cory Mills perde as primárias da Flórida em meio a uma investigação de ética",
-      "titleOriginal": "Rep. Cory Mills loses Florida primary amid Ethics probe",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUdtQ3JRTzZLM1RudnZGNWw3d3ZNTkFnb0ZjZW00blFtX1h0N05sVHF3c1RwdGdnSVM3UkY1VkhDT3dVRmdXbVRkQW9NaC00UmJQZjA4ZHlyZlItcWt1Z3JvSExHUXhocl9TZTZvT1l4TkgzNmZMTlVwOGdTVHplN0dUUENWLTQ?oc=5",
-      "publishedAt": "2026-08-19T02:44:53.000Z"
     }
   ]
 }
