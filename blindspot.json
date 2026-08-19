@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T03:14:30.054Z",
-  "slot": "2026-08-19-AM",
+  "updatedAt": "2026-08-19T16:02:37.201Z",
+  "slot": "2026-08-19-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Russos retiram bilhões dos bancos, temendo que o Kremlin confisque os depósitos para financiar a guerra",
-      "titleOriginal": "Russians pull billions from banks, fearing Kremlin will seize deposits for war",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2tNNGNwNGRDRkhjRlVtTUFYRkstR2xWZE51aF9GWFNIQnFabnFNRGJwbWJFb1ZmVmQzRlpEdXVweGUyRTZSNnI4STVyQWZyUzNNY0NyR1ctSkFvR1ZsN3hUcFR2aHVKYTctUjh1cWtDQWJKckMxN3dtMWdXV1RLQm81N0loUUtvb25QendNTmxQSFZyYlJVWUpISU5xVU5TbHZXMkMyYldKS1ZGbENDb2pKRQ?oc=5",
-      "source": "Washington Post",
+      "title": "A ABC entra com ação contra o governo Trump devido à ameaça da FCC às suas licenças de TV",
+      "titleOriginal": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTlqeXFVTlJGLVdRZXp3VW51TU94VzFIU2FYdVIxdm4wUVdWS2hGZEZrTTR4V0ZiSk8tWjQzMDQ1X01PbW9kZkZ3WnM1YzRyRmphZnJnSVIwdTFqamllNmRiM1ZuWTJ3SHBERUR1SkpBU2ZWbVdoVGhVWjRISmdkYzZrd1Q4aXE2aGVkN2tRZ21RMTA?oc=5",
+      "source": "New York Times",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "O Irã chama Trump de “delirante” e declara uma “ordem pós-americana” — depois que ele afirmou que o Estreito de Ormuz é um “novo território dos EUA”",
-      "titleOriginal": "Iran Calls Trump ‘Delusional,’ Declares ‘Post-American Order’ — After He Claims Hormuz as ‘New U.S. Territory’",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUswcEx0eG5YRERpWVdObE5faUZFRVVpem83UUhBX2JibzhaZ00ydkM1eEsycXR0MUtTN1Bxc3RXd3FWVXpCU0hrUTdaS042OHVJZC0tb1B6eEFsSFNwS0dpS1FQazZzYWZDSnFob1Y2TnZ5cEFGcUlMNnoyNjZHemQ5WkxpMkdmdzF3TGh0VDNLYUYyM1dFZ0JaUlNNb3VTTzQtdU1JdW1UbXRNYmlzN212ZEhjcmdNUS1qWWdGRWcwVE00YlBHdmhpUWFUTmNSWXpSV2ZiN0RQN19PTmJLTdIB5gFBVV95cUxNaGlNbkFwTDJGaFVaOU0zQVNvWnB4MXBkYTZacHlfSWNMNkpiT25FNXJDbk1RYk5vY3BYRjAzUlU1OTAtRFpzWVRxS095djhGWHF6SzZCS2dsVm1MU2tyTWcxUHZlUjVRT1ZGcGxNcHBFbmFSLXVHNGFCcWQ1RnFsQ01yUWxuNmY4TkJpTGJ2c19ac2RtWlBJSm1WM1pyNEh2bEUzNE52UXo2OWVWSS1JTGE0QURPdHN2R0RpR0NoWFVzY0N1V3pBcEowN0pDSzFSdHNzdlpTRnRVV0FxYVFVWEhLbjJNQQ?oc=5",
-      "source": "Breitbart",
-      "coverage": 4
+      "title": "Programa de Trump para a restauração do direito ao porte de armas: quem se qualifica e quem não se qualifica",
+      "titleOriginal": "Trump gun rights restoration program: Who qualifies and who doesn’t",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTM0Ql83TnhwSGViNFpIZ1ZYVjFWaElLdjJnbTdBajg0SUV5UGs3dVhIdWo2RUxHbnZUU2JVSFUzYy05a1d1T0VSRnZrN1AxNVdRWU5meWVScDRncFRXUnJ4T09ycUxYRk9zLWUzczExNXc2ejJvdC1Sa2ozY005bkZNWF8wV3BicGhjcXYtYy1Vdi14ZWlmXzBRaWg5TU1xVFo1cUcxQWM3MldSOUE?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 3
     }
   ]
 }
