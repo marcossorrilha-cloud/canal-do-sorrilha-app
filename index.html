@@ -328,7 +328,7 @@ async function renderMidterms() {
         <h3>Senado (Senate) — mapa de cadeiras</h3>
         <div class="mid-nums"><span class="dem">DEM ${esc(sd)}</span><span style="color:#8a8a8a;">TOSS-UP ${esc(su)}</span><span class="rep">REP ${esc(sr)}</span></div>
         <div class="mid-bar"><div class="dem" style="width:${(sd / stot) * 100}%"></div><div class="rep" style="width:${(sr / stot) * 100}%"></div></div>
-        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · Projejpão RCP: ${esc(s.netPickup || "")}</div>
+        <div class="mid-fav">${esc(Number(s.majority) || 51)} cadeiras para a maioria · Projeção RCP: ${esc(s.netPickup || "")}</div>
       </div>`;
 
     const states = (d.states || []).map((st) => {
