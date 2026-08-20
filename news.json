@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-20T23:00:09.098Z",
+  "updatedAt": "2026-08-20T23:54:26.573Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump diz a Cohen que foi “usado como arma” na disputa",
+      "titleOriginal": "Trump tells Cohen he was 'weaponized' in feud",
+      "link": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/",
+      "publishedAt": "2026-08-20T23:31:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A “viagem rodoviária” do secretário de Transportes, Sean Duffy, destaca os Estados Unidos e alguns de seus patrocinadores",
+      "titleOriginal": "Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html",
+      "publishedAt": "2026-08-20T23:25:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "EUA aprovam possível venda de aeronaves de reabastecimento ao Catar no valor de US$ 4,5 bilhões",
+      "titleOriginal": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
+      "link": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
+      "publishedAt": "2026-08-20T23:18:54.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por dentro do colapso de um marketplace do movimento MAGA apoiado por Trump Jr.",
+      "titleOriginal": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M?oc=5",
+      "publishedAt": "2026-08-20T23:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Nancy Kissinger, esposa do ex-secretário de Estado, morre aos 92 anos",
@@ -10,8 +38,15 @@
       "publishedAt": "2026-08-20T22:53:47.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Mulher de Nova York é acusada de planejar detonar explosivos no Capitólio estadual e matar legisladores",
+      "titleOriginal": "New York woman charged with plotting to set off explosives at state Capitol, kill lawmakers",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVIzQU15UEdjSjhKRVRDcEtNc3FSUk1tb0RySW94TnVlNjdOREE3aGNDeUNtNlQwOFpaVHozc3dKbWItRlFLRHJ3X1h3dXpOWDd5Y2hBUmFYczVhMHZrQUNmWlBOVVlpTUFZd2pwRlh3Z2Z6LU9tZ3Z3YV9nQkdWbldfNFJMSlgyc0llbG1PcDJ0YzFqc3dSLVpFZVY?oc=5",
+      "publishedAt": "2026-08-20T22:53:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Política sobre áreas úmidas gera atritos no Partido Republicano",
+      "title": "Política de áreas úmidas gera atritos no Partido Republicano",
       "titleOriginal": "Wetlands policy causes GOP friction",
       "link": "https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction/",
       "publishedAt": "2026-08-20T22:38:55.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Rogers courts Democrats in Michigan Senate race",
       "link": "https://thehill.com/homenews/campaign/6042554-mike-rogers-democrats-coalition-senate/",
       "publishedAt": "2026-08-20T22:17:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O maior distrito escolar do Nebraska pede à polícia que pare de usar luvas de choque elétrico nos alunos",
-      "titleOriginal": "Nebraska’s largest school district asks police to stop using electric shock gloves on students",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW1KMjh0RENPaGcyUU8xUHlRa2s5cVYyV0pUVmFGeG15M3hYbG9MbzIySDRWSS1zNFZEbEpOY2toOXQ1VVNSeHpfUUpuV1BoWDJqSjUwOHBKMVBnWjZoWDdmNVRuTlUtVzQtOVZoYlRoNnZTbjJTdXN2Ti0wRUJjUDkxYmpKUm5GZS1wZ2o2Z0dKUnQ0Mk5XNGY4b21oM2tTbTBZ?oc=5",
-      "publishedAt": "2026-08-20T22:11:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O FBI frustra suposto plano de atentado a bomba inspirado pelo ISIS que tinha como alvo o Capitólio de Nova York",
-      "titleOriginal": "FBI foils alleged ISIS-inspired bomb plot targeting New York Capitol",
-      "link": "https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot/",
-      "publishedAt": "2026-08-20T22:01:57.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O deslize de Darline Graham no debate põe à prova o interesse da Carolina do Sul por uma novata na política",
-      "titleOriginal": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
-      "publishedAt": "2026-08-20T21:35:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente da IndyCar: “Pode rolar um pouco de confusão” na corrida em Washington, D.C., neste fim de semana",
-      "titleOriginal": "IndyCar president: 'Could be a little bit of carnage' in DC race this weekend",
-      "link": "https://thehill.com/blogs/in-the-know/6042488-indycar-freedom-250-national-mall/",
-      "publishedAt": "2026-08-20T21:35:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump suspende antecipadamente as restrições de verão à gasolina, enquanto os preços continuam altos",
-      "titleOriginal": "Trump lifts summer gasoline restrictions early as prices remain stubborn",
-      "link": "https://thehill.com/policy/energy-environment/6042490-summer-smog-gas-prices-epa/",
-      "publishedAt": "2026-08-20T21:34:31.000Z"
     }
   ]
 }
