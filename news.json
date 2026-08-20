@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-20T19:46:19.699Z",
+  "updatedAt": "2026-08-20T21:01:54.853Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O consumo de álcool entre os americanos permanece em nível recorde de baixa: pesquisa",
+      "titleOriginal": "Americans' drinking remains at record low: poll",
+      "link": "https://thehill.com/policy/healthcare/6042392-american-drinking-reaches-historic-lows/",
+      "publishedAt": "2026-08-20T20:59:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Melania Trump anuncia novas bolsas de estudo para famílias de acolhimento antes do evento da IndyCar em Washington, D.C.",
+      "titleOriginal": "Melania Trump announces new foster scholarships ahead of IndyCar DC event",
+      "link": "https://thehill.com/homenews/administration/6042401-melania-trump-foster-scholarships-indycar-freedom-250-grand-prix/",
+      "publishedAt": "2026-08-20T20:58:11.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O republicano Mike Rogers apoia a moratória sobre centros de dados em Michigan",
+      "titleOriginal": "Republican Mike Rogers backs Michigan data center moratorium",
+      "link": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
+      "publishedAt": "2026-08-20T20:19:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O deslize de Darline Graham no debate põe à prova o interesse da Carolina do Sul por uma novata na política",
+      "titleOriginal": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
+      "publishedAt": "2026-08-20T20:14:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Agentes do FBI revistam a residência de Eric Swalwell como parte de uma investigação federal sobre agressão sexual",
+      "titleOriginal": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
+      "link": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
+      "publishedAt": "2026-08-20T20:12:08.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Presidente da CFTC promete “agir rapidamente” em relação às regras sobre criptomoedas caso o Congresso não aprove a legislação",
+      "titleOriginal": "CFTC chair vows to 'move swiftly' on crypto rules if Congress fails to pass legislation",
+      "link": "https://thehill.com/policy/technology/6042267-cftc-crypto-clarity-act/",
+      "publishedAt": "2026-08-20T20:09:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Partido Republicano e democratas lamentam a dívida de US$ 40 trilhões enquanto o Congresso tem dificuldade para agir",
+      "titleOriginal": "GOP, Democrats lament $40 trillion debt as Congress struggles to act",
+      "link": "https://thehill.com/homenews/house/6042281-lawmakers-debate-national-debt/",
+      "publishedAt": "2026-08-20T20:07:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Gabbard compartilha uma atualização comovente sobre o câncer do marido, meses após deixar a Casa Branca",
+      "titleOriginal": "Gabbard shares emotional update on husband’s cancer months after White House exit",
+      "link": "https://thehill.com/homenews/administration/6042243-tulsi-gabbard-husband-cancer-update/",
+      "publishedAt": "2026-08-20T19:48:28.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O governo Trump anuncia novas sanções contra Cuba, intensificando a pressão econômica",
@@ -11,66 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "O deslize de Darline Graham no debate põe à prova o interesse da Carolina do Sul por uma novata na política",
-      "titleOriginal": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
-      "publishedAt": "2026-08-20T19:25:55.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump se gaba de ter desclassificado segredos, mas mantém arquivos eleitorais importantes longe do público",
+      "title": "Trump se gaba de ter desclassificado segredos, mas mantém arquivos eleitorais importantes fora do alcance do público",
       "titleOriginal": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
       "link": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html",
       "publishedAt": "2026-08-20T19:16:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Mais uma empresa de pesquisas é alvo de críticas por “dados falsificados” sobre as primárias da Flórida",
-      "titleOriginal": "Another polling firm comes under fire for 'falsified data' on Florida primary",
-      "link": "https://thehill.com/homenews/campaign/6042103-pollsters-under-fire-midterms-false-data-florida-gubernatorial-primary/",
-      "publishedAt": "2026-08-20T19:10:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump e a primeira-dama são as principais atrações do evento “Fostering Future Together” no Rose Garden",
-      "titleOriginal": "Watch live: Trump, first lady headline Fostering Future Together event in Rose Garden",
-      "link": "https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar/",
-      "publishedAt": "2026-08-20T19:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“A Conversa Necessária” expõe abertamente as discussões políticas em família",
-      "titleOriginal": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-      "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-      "publishedAt": "2026-08-20T18:27:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rosie O’Donnell critica Trump e alimenta a expectativa em torno de Harp: “Deixe a Natalie te colocar para dormir”",
-      "titleOriginal": "Rosie O’Donnell jabs Trump, fuels Harp buzz: ‘Let Natalie tuck you in’",
-      "link": "https://thehill.com/blogs/in-the-know/6042076-rosie-odonnell-trump-harp-jabs/",
-      "publishedAt": "2026-08-20T18:27:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Autoridades do governo Trump tomam medidas para financiar as forças de paz em Gaza, mesmo com o plano de paz em risco",
-      "titleOriginal": "Trump Officials Move to Fund Gaza Peacekeepers Even as Peace Plan Falters",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/gaza-peacekeepers-funding.html",
-      "publishedAt": "2026-08-20T18:24:17.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A disputa pelo Senado no Texas e em Iowa fica acirrada à medida que se aproximam as eleições de meio de mandato",
-      "titleOriginal": "Texas and Iowa Senate races tighten heading into midterms",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNk1PWXU4QXFlM2RTZS04MW02RldsbGlDUzlobzF5cnJJeDRhUldIZEI5RlNURDg1SkZZUFRoSUVNNTdDSnVRaGNTSTF6MmpYUkdlM3k1Nk9aYUdWSk9DVXhUNV9FQ0xkSmY0aWVBZzZJZnpRbXBSV21KTlRPTzluYkJlV251Q0ZzMnZ1U2tEUW5wZDhUVjFoZmtXUk54blE?oc=5",
-      "publishedAt": "2026-08-20T18:08:11.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA realizam suas primeiras deportações no âmbito do acordo pelo qual a Libéria se compromete a aceitar 1.200 não-liberianos",
-      "titleOriginal": "US carries out its first deportations under pact for Liberia to accept 1,200 non-Liberians",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdpVDBxTDdneUNHSEZCNlQyeDRRVnZLeHdBdkJNbDVtcWdxVFBaRDdaQTFES0dOSzhoUEd4Q1ptcnpIY19jUlNiZ3VhYVZlTUNocllINUlFM2I2UFVXYXRRWXB5VFdQSV9ndTRYVkRjdW10ZF9rak1LUUVnUkZWeVdGYTRKSUk?oc=5",
-      "publishedAt": "2026-08-20T18:06:00.000Z"
     }
   ]
 }
