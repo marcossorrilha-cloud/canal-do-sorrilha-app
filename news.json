@@ -1,17 +1,59 @@
 {
-  "updatedAt": "2026-08-19T23:47:59.504Z",
+  "updatedAt": "2026-08-20T03:12:35.996Z",
   "count": 10,
   "items": [
     {
+      "source": "Politico",
+      "title": "Michael Cohen não revela se usará sua entrevista com Trump para solicitar um perdão",
+      "titleOriginal": "Michael Cohen won’t say if he’ll use his Trump interview to seek a pardon",
+      "link": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
+      "publishedAt": "2026-08-20T01:58:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um armazém pegou fogo perto de Moscou. Na Ucrânia, equipes de drones se preparam para atacar novamente",
+      "titleOriginal": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
+      "publishedAt": "2026-08-20T01:26:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas do Alabama esperam uma reação da comunidade negra em relação aos direitos eleitorais",
+      "titleOriginal": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+      "publishedAt": "2026-08-20T00:55:33.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Autoridades do governo Trump desistem da tentativa de recrutar advogados do Pentágono para representar crianças migrantes",
+      "titleOriginal": "Trump Officials Scrap Effort to Recruit Pentagon Lawyers to Represent Migrant Children",
+      "link": "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html",
+      "publishedAt": "2026-08-20T00:46:07.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Autoridades do Federal Reserve dão a entender que pode ser necessário um aumento nas taxas de juros",
+      "title": "Angie Nixon sobre a divisão entre democratas progressistas e do establishment: “Não se trata de rótulos”",
+      "titleOriginal": "Angie Nixon on division between progressive, establishment Democrats: 'It's not about labels'",
+      "link": "https://thehill.com/homenews/campaign/6040256-nixon-defeats-vindman-primary/",
+      "publishedAt": "2026-08-20T00:19:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump anuncia a “operação econômica mais devastadora de todos os tempos” contra o Irã",
+      "titleOriginal": "Trump announces ‘most crushing economic operation ever’ against Iran",
+      "link": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
+      "publishedAt": "2026-08-20T00:02:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Autoridades do Federal Reserve dão a entender que um aumento nas taxas pode ser necessário",
       "titleOriginal": "Federal Reserve officials hint rate increase may be necessary",
       "link": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
       "publishedAt": "2026-08-19T23:13:44.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Gravura em bala indica que Charlie Kirk foi alvo por motivos políticos, afirmam os promotores",
+      "title": "Gravação em bala indica que Charlie Kirk foi alvo por motivos políticos, afirmam os promotores",
       "titleOriginal": "Bullet engraving shows Charlie Kirk targeted for politics, prosecutors say",
       "link": "https://thehill.com/regulation/court-battles/6040138-utah-university-shooting-evidence-dispute/",
       "publishedAt": "2026-08-19T23:06:59.000Z"
@@ -25,52 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas sobre o indicado para a FDA",
+      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas em relação ao indicado para a FDA",
       "titleOriginal": "Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee",
       "link": "https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html",
       "publishedAt": "2026-08-19T22:52:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump cogita retomar o projeto Keystone XL",
-      "titleOriginal": "Trump eyes Keystone XL revival",
-      "link": "https://thehill.com/newsletters/energy-environment/6040098-trump-eyes-keystone-xl-revival/",
-      "publishedAt": "2026-08-19T22:50:43.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O Freedom Caucus está passando por uma campanha brutal nas primárias",
-      "titleOriginal": "The Freedom Caucus is having a brutal primary run",
-      "link": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990",
-      "publishedAt": "2026-08-19T22:49:36.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que uma gigante do setor de pagamentos está pagando US$ 7 bilhões pela “Stripe da IA”",
-      "titleOriginal": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREs2TUE3OWFYYXV4Y0lma1VOZG8yZkFxcHpmeGVkSE1mWENZOG1td0JPYkdhMjFvT0dsZXJYY01xaExrT0taVXBLZVJ0QUdUazNMZmhoU3UtM3ZkbzlXVGM1a3dheDV6QUtpZEYzeFRUUU11QmpoN0U0RW9nZWNSd2otNFNpSm4wTlZYTVJqRlNDT1hRS2lNNE1QN2w3Qk0?oc=5",
-      "publishedAt": "2026-08-19T22:37:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Ministro das Relações Exteriores da Síria à Axios: o bombardeio israelense à base aérea foi injustificado",
-      "titleOriginal": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJtOERhVzF4QU45M3VwNVBNWjB4N1pINTA1ZFBJSVdNU0ZILXV0VWhSYUpvSU9ZYTZvUTRQdkRzejF0dTAzVm9EY1V0T3RXUFJHZnh2cS1kRlVVN29BZGdDQU1uaTlISHVxX2x5QmF3X253MVBVRUxrVm5aRVo1QlEtRmY?oc=5",
-      "publishedAt": "2026-08-19T22:36:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Advogado sênior do DHS enfrenta queixa na Ordem dos Advogados por causa da lista dos “piores dos piores” para juízes",
-      "titleOriginal": "Top DHS lawyer faces bar complaint over 'worst of the worst' list for judges",
-      "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
-      "publishedAt": "2026-08-19T22:25:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O indicado de Trump para a FDA é recebido com reações mistas",
-      "titleOriginal": "Trump’s FDA nominee draws mixed reception",
-      "link": "https://thehill.com/newsletters/healthcare/6040025-trumps-fda-nominee-draws-mixed-reception/",
-      "publishedAt": "2026-08-19T22:24:30.000Z"
     }
   ]
 }
