@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-20T18:00:14.396Z",
+  "updatedAt": "2026-08-20T19:46:19.699Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Democratas devem escolher entre Boston, Denver e Filadélfia para a convenção de 2028",
-      "titleOriginal": "Democrats to decide between Boston, Denver, Philadelphia for 2028 convention",
-      "link": "https://thehill.com/homenews/campaign/6041940-dnc-narrows-2028-convention-sites/",
-      "publishedAt": "2026-08-20T17:54:41.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços disparam com o aumento do contrabando em Gaza. Autoridades, soldados e intermediários são acusados de lucrar com a situação",
-      "titleOriginal": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-      "publishedAt": "2026-08-20T17:27:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "'Não quer vencer': Charlamagne Tha God critica Hakeem Jeffries por causa da saúde",
-      "titleOriginal": "'Doesn't wanna win': Charlamagne Tha God bashes Hakeem Jeffries over healthcare",
-      "link": "https://thehill.com/opinion/lindseys-lens/6041882-jeffries-health-care-charlamagne-tha-god/",
-      "publishedAt": "2026-08-20T17:18:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas do Senado pressionam Hegseth por respostas sobre a independência do “Stars and Stripes”",
-      "titleOriginal": "Senate Dems press Hegseth for answers on Stars and Stripes independence",
-      "link": "https://thehill.com/policy/defense/6041767-hegseth-stars-and-stripes-dod/",
-      "publishedAt": "2026-08-20T17:08:52.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Joe Rogan sobre a ideologia dos socialistas democráticos: “É uma porcaria”",
-      "titleOriginal": "Joe Rogan on democratic socialists' ideology: 'It sucks'",
-      "link": "https://thehill.com/homenews/campaign/6041585-joe-rogan-democratic-socialists-marxist-claims/",
-      "publishedAt": "2026-08-20T17:07:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O FBI fez uma operação na residência de Swalwell e apreendeu dispositivos como parte de uma investigação sobre espionagem chinesa",
-      "titleOriginal": "FBI raided Swalwell's home, seized devices as part of Chinese spy probe",
-      "link": "https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home/",
-      "publishedAt": "2026-08-20T17:00:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "EUA alertam sobre cidadão americano detido na China",
-      "titleOriginal": "US raises alarm over American detained in China",
-      "link": "https://thehill.com/newsletters/1230-report/6041657-us-citizen-china-detained-darline-graham-ossoff-trump-harp/",
-      "publishedAt": "2026-08-20T16:48:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As disputas pelo Senado no Texas e em Iowa passam a ser consideradas acirradas: Cook Political Report",
-      "titleOriginal": "Texas, Iowa Senate races shift to toss-ups: Cook Political Report",
-      "link": "https://thehill.com/homenews/campaign/6041660-cook-political-report-texas-iowa-senate-races/",
-      "publishedAt": "2026-08-20T16:47:00.000Z"
+      "title": "O governo Trump anuncia novas sanções contra Cuba, intensificando a pressão econômica",
+      "titleOriginal": "Trump administration announces new sanctions on Cuba, escalating economic pressure",
+      "link": "https://thehill.com/policy/international/6042225-rubio-cuba-sanctions/",
+      "publishedAt": "2026-08-20T19:38:32.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Um novo estudo revela que poucos advogados especialistas dominam as audiências na Suprema Corte",
-      "titleOriginal": "A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html",
-      "publishedAt": "2026-08-20T16:29:45.000Z"
+      "title": "O deslize de Darline Graham no debate põe à prova o interesse da Carolina do Sul por uma novata na política",
+      "titleOriginal": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
+      "publishedAt": "2026-08-20T19:25:55.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Ações do setor de criptomoedas continuam em alta após reunião otimista na Casa Branca",
-      "titleOriginal": "Crypto Stocks Continue to Surge After Upbeat White House Meeting",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFMzREFDaGl0SVIzV3hWRUNtMVFValB0cExwSWJNeVYtZjFvazRUYmsyWlpEQlFnR2pMWk4zR01lWXBYc01LOWRVNGhMRXYxTVlDRHFFQ2ZNeWRNZWNocUFFY1pMODFscnk3am9KRWxEdWt0Wld3U0NjeDMxVzRMSEtiQjlPTy1vNzRnV3FkcW1MSXU4SmNhRzQ4WXROMzBZVWNFTUo0dUduUDBwY3RvUW9IWUlNdWh4aFlF?oc=5",
-      "publishedAt": "2026-08-20T16:14:00.000Z"
+      "source": "New York Times",
+      "title": "Trump se gaba de ter desclassificado segredos, mas mantém arquivos eleitorais importantes longe do público",
+      "titleOriginal": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html",
+      "publishedAt": "2026-08-20T19:16:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Mais uma empresa de pesquisas é alvo de críticas por “dados falsificados” sobre as primárias da Flórida",
+      "titleOriginal": "Another polling firm comes under fire for 'falsified data' on Florida primary",
+      "link": "https://thehill.com/homenews/campaign/6042103-pollsters-under-fire-midterms-false-data-florida-gubernatorial-primary/",
+      "publishedAt": "2026-08-20T19:10:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump e a primeira-dama são as principais atrações do evento “Fostering Future Together” no Rose Garden",
+      "titleOriginal": "Watch live: Trump, first lady headline Fostering Future Together event in Rose Garden",
+      "link": "https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar/",
+      "publishedAt": "2026-08-20T19:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“A Conversa Necessária” expõe abertamente as discussões políticas em família",
+      "titleOriginal": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
+      "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+      "publishedAt": "2026-08-20T18:27:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rosie O’Donnell critica Trump e alimenta a expectativa em torno de Harp: “Deixe a Natalie te colocar para dormir”",
+      "titleOriginal": "Rosie O’Donnell jabs Trump, fuels Harp buzz: ‘Let Natalie tuck you in’",
+      "link": "https://thehill.com/blogs/in-the-know/6042076-rosie-odonnell-trump-harp-jabs/",
+      "publishedAt": "2026-08-20T18:27:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Autoridades do governo Trump tomam medidas para financiar as forças de paz em Gaza, mesmo com o plano de paz em risco",
+      "titleOriginal": "Trump Officials Move to Fund Gaza Peacekeepers Even as Peace Plan Falters",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/gaza-peacekeepers-funding.html",
+      "publishedAt": "2026-08-20T18:24:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A disputa pelo Senado no Texas e em Iowa fica acirrada à medida que se aproximam as eleições de meio de mandato",
+      "titleOriginal": "Texas and Iowa Senate races tighten heading into midterms",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNk1PWXU4QXFlM2RTZS04MW02RldsbGlDUzlobzF5cnJJeDRhUldIZEI5RlNURDg1SkZZUFRoSUVNNTdDSnVRaGNTSTF6MmpYUkdlM3k1Nk9aYUdWSk9DVXhUNV9FQ0xkSmY0aWVBZzZJZnpRbXBSV21KTlRPTzluYkJlV251Q0ZzMnZ1U2tEUW5wZDhUVjFoZmtXUk54blE?oc=5",
+      "publishedAt": "2026-08-20T18:08:11.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA realizam suas primeiras deportações no âmbito do acordo pelo qual a Libéria se compromete a aceitar 1.200 não-liberianos",
+      "titleOriginal": "US carries out its first deportations under pact for Liberia to accept 1,200 non-Liberians",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdpVDBxTDdneUNHSEZCNlQyeDRRVnZLeHdBdkJNbDVtcWdxVFBaRDdaQTFES0dOSzhoUEd4Q1ptcnpIY19jUlNiZ3VhYVZlTUNocllINUlFM2I2UFVXYXRRWXB5VFdQSV9ndTRYVkRjdW10ZF9rak1LUUVnUkZWeVdGYTRKSUk?oc=5",
+      "publishedAt": "2026-08-20T18:06:00.000Z"
     }
   ]
 }
