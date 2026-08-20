@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-08-20T10:05:15.165Z",
+  "updatedAt": "2026-08-20T11:57:42.517Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Tribunal chinês condena o fundador da incorporadora imobiliária Evergrande, que passa por dificuldades, à prisão perpétua",
+      "titleOriginal": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+      "publishedAt": "2026-08-20T11:31:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Nova pesquisa mostra que o Partido Republicano está 8 pontos atrás dos democratas na disputa pelo Congresso",
-      "titleOriginal": "GOP trails Democrats by 8 points on congressional ballot in new poll",
-      "link": "https://thehill.com/homenews/campaign/6039546-democrats-lead-gop-midterm-poll/",
-      "publishedAt": "2026-08-20T10:00:00.000Z"
+      "title": "Helicóptero da Polícia Estadual da Pensilvânia colide violentamente com avião; piloto morre: FAA",
+      "titleOriginal": "Pennsylvania State Police helicopter violently collides with plane, pilot dead: FAA",
+      "link": "https://thehill.com/homenews/state-watch/6040336-pennsylvania-state-police-helicopter-violently-collides-with-plane-pilot-dead-faa/",
+      "publishedAt": "2026-08-20T11:00:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Até você, Fedorov? A traição de Volodymyr Zelensky.",
+      "titleOriginal": "Et tu, Fedorov? The betrayal of Volodymyr Zelensky.",
+      "link": "https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections/",
+      "publishedAt": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
+      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
+      "publishedAt": "2026-08-20T10:00:17.000Z"
     },
     {
       "source": "The Hill",
@@ -18,10 +39,31 @@
     },
     {
       "source": "The Hill",
+      "title": "Em nova pesquisa, o Partido Republicano fica 8 pontos atrás dos democratas na disputa pelo Congresso",
+      "titleOriginal": "GOP trails Democrats by 8 points on congressional ballot in new poll",
+      "link": "https://thehill.com/homenews/campaign/6039546-democrats-lead-gop-midterm-poll/",
+      "publishedAt": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
       "title": "Rubio supera Vance em confrontos hipotéticos para 2028: pesquisa",
       "titleOriginal": "Rubio outperforms Vance in hypothetical 2028 matchups: Poll",
       "link": "https://thehill.com/homenews/campaign/6039336-rubio-outperforms-vance-poll/",
       "publishedAt": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços disparam com o aumento do contrabando em Gaza. Autoridades, soldados e intermediários são acusados de lucrar com a situação",
+      "titleOriginal": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
+      "publishedAt": "2026-08-20T09:50:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Vance arrecada US$ 5 milhões em grande evento nos Hamptons",
+      "titleOriginal": "Vance raises $5 million at big Hamptons event",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmaThrdlpVRDRhbTNWZ212LXhMa0Fldm9UeENRcWxYRFdrbFVqNHJHZzJuRDdaX0RrQjVIQjUzYjFUbWdsRjcwQjFVYkVTNnRDSnotRkcxMVVtU2ZibTdFM29kcVRKLTk3WVB3YjhIUQ?oc=5",
+      "publishedAt": "2026-08-20T09:30:16.000Z"
     },
     {
       "source": "Axios",
@@ -29,48 +71,6 @@
       "titleOriginal": "When Mullin's friends in Congress call, DHS answers",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdlB3ZTVsU2hOWm5OVDRvV3BvOU1fOVFKZ1FSLW12TDFWbjk0TXlQMDlNWmttUTd6NWFuUlBiUWpsNXVoWjBmbEtKSXpxU193SHMwZXZzekstWjd0N3p6UmJfRXYyWElEZi05OA?oc=5",
       "publishedAt": "2026-08-20T09:25:24.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ordem de Trump para reduzir os exercícios militares com a Coreia do Sul traz riscos, afirmam especialistas",
-      "titleOriginal": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-      "publishedAt": "2026-08-20T09:04:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O petróleo continua subindo enquanto Trump ameaça lançar uma grande campanha econômica contra o Irã",
-      "titleOriginal": "Oil Gains Further as Trump Threatens to Launch Major Economic Campaign Against Iran",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWZNdzNnc01Rd0h4Wlh0Nno3YlZONXBucWU1OWFRbl9ld09qNTRkMGY1VWZJX2JqWW9WTHpVT1BfNjEzSDZkUjNIX213Z1pLOWFnbG50bW9CNmNYVU1VNW5oRHNYVGFUeWJsaFFhNHQzamNlLXczNENHY243bzNRTlQzYksyS2o2aERQNktZeEVSbDB1akpYUkRPNFg4eDgtcFhFTnl1dndHQkpDYWc?oc=5",
-      "publishedAt": "2026-08-20T09:04:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Polêmica em torno do data center abala as eleições de meio de mandato",
-      "titleOriginal": "Data center uproar scrambles the midterm election",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LeFVXOUEzSEpZcjE0TzdONTBxaDlSRTc1RE9rb3NEQktkRmtBT3ZQdnB3QWZYX2ExenJKWjJuN0czMXpFajh5VXVQNG0yN3N2TVRwTkowYUlmYkxxeXpRUEZaakVsN0Y2dlBXMGh6dWRELWs?oc=5",
-      "publishedAt": "2026-08-20T09:00:28.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“A Conversa Necessária” expõe abertamente as discussões políticas em família",
-      "titleOriginal": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-      "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-      "publishedAt": "2026-08-20T09:00:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump ameaça impor sanções econômicas aos países que ajudarem o Irã",
-      "titleOriginal": "Trump Threatens Economic Pain for Countries That Help Iran",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
-      "publishedAt": "2026-08-20T08:45:10.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "#Os democratas da “Resistência” estão indo mal nas primárias",
-      "titleOriginal": "#Resistance Democrats are flopping in primaries",
-      "link": "https://www.politico.com/news/2026/08/20/the-trump-resistance-is-losing-its-primaries-01042844",
-      "publishedAt": "2026-08-20T08:45:00.000Z"
     }
   ]
 }
