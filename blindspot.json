@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-20T03:12:54.422Z",
-  "slot": "2026-08-20-AM",
+  "updatedAt": "2026-08-20T16:04:26.979Z",
+  "slot": "2026-08-20-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Israel abre investigação criminal sobre os assassinatos de Hind Rajab e dos profissionais de saúde de Gaza",
-      "titleOriginal": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXRHWVBTb0dTeWk5cklDUHRVVWFOeTV1b0hGVHlDWU1sVmhyRzdtUzRZVGpsZzl2NU84UDlLVERSVk9xczhGR0g1MUJpS1R4Wms3eWJuTTBtZXBCUnh1R1pCNzdSczMzLXZZSmtjZ25zOEJTR0ZwZEVDSnprZXRlRUFXYmFiYlh2Rlp0Q1dvdGdEeU5wR1BNSnBWWnhyM2tXVVZHSlczdHVwQXFvcGYw?oc=5",
-      "source": "New York Times",
+      "title": "Opinião | Eu sei o que os marinheiros da Marinha dos EUA sacrificam. A indiferença de Trump dói.",
+      "titleOriginal": "Opinion | I know what U.S. Navy sailors sacrifice. Trump’s indifference stings.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0w2aDIwbE5JWUhBeWVXY1NxUGR1OFhXUld4bHNGZ3B0TDFibE9teHhzMlhjamF1eHA3WmtleUtjeDFQQmR0bFJ1WE41eHFyRmdJcWVzNUZqVVlKc09CWjh0S2tqeTE3elZ4R3M2dlJxOXNaQ0JxVVBsbDRLSWJ4Y0JrV1o4anRiSEcxR1Y2WnlFRTlva25zYm1GRk8tMU92dkJXVUxObzUzNlZUSDBfaWFPcmpHMU5TVE91Zi1MZTJRdGQ3d1Jv?oc=5",
+      "source": "Washington Post",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump fará uma volta de honra no Grande Prêmio Freedom 250",
-      "titleOriginal": "Trump to take honorary lap at Freedom 250 Grand Prix",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGlVSENZQ0VaWXowTnJZektqMS1MdXNyUmhJVmhjV09CSE1vaUVmQVVvU2FRNVJMSHZKVTBWUXpnQUNYRnZCaWJYZHBVYW9uRW9EQ1pLek1adFo3VTZRMmZKbFNpb3F5V0hrb0xkaVJOdDJEZGEwdGZ1ODVhSmN1TlV6c0pRRkFRS0N6ZUIxV0RIbDhRQThNV19KaGM4TWNOOU5JdFRpVHQyQUYyT3dsVjB4QTVhc1lCc3NrWVpYckNtaWNacjZB?oc=5",
-      "source": "Washington Examiner",
-      "coverage": 3
+      "title": "Republicanos obtêm vitória na redistribuição distrital em decisão judicial antes das eleições intermediárias",
+      "titleOriginal": "Republicans Score Redistricting Victory In Court Ruling Ahead Of Midterms",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWS1FVFUwRkVJaGQ3QXh0UzcwMFJQTXcwMWVkenRlSlZyOEhHSTRVNi1RSnBKQmUwbWc3RW0yZFhVTkxvYUxKbHZWUkdpeDVCQ1lzMGlMcEtFU1ItUnpWd01vaGM0cFRhRkl5R2FuUmxDVE92RThwVk10WDVvWmU5OWxVTWU3emdVNlRyWFc5eEdidk5KWXAwTG5VWnZIeGprMFc1ZDFWOA?oc=5",
+      "source": "Daily Wire",
+      "coverage": 2
     }
   ]
 }
