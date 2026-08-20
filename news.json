@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-08-20T05:18:10.707Z",
+  "updatedAt": "2026-08-20T08:03:24.247Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A rede de acordos secretos que levou o proprietário dos Dodgers a ser alvo de uma investigação federal",
+      "titleOriginal": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MdkU1M2Q3blN3cHVteWJhaDRzc1JGbE4tZkhqUUJ5aTdJcXg4dzB3RFZBcktuZkpucWFJUzRZaFV6VlZsdUhmaG5PbjFmVVpNaEVWQ0UzRnRCNEJVZ1FocERIQ1h2SEc0SkIycGxJTGNnekQySm5CMWt0OVo?oc=5",
+      "publishedAt": "2026-08-20T05:44:36.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ministro das Relações Exteriores da Síria à Axios: o bombardeio israelense à base aérea foi injustificado",
+      "titleOriginal": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJtOERhVzF4QU45M3VwNVBNWjB4N1pINTA1ZFBJSVdNU0ZILXV0VWhSYUpvSU9ZYTZvUTRQdkRzejF0dTAzVm9EY1V0T3RXUFJHZnh2cS1kRlVVN29BZGdDQU1uaTlISHVxX2x5QmF3X253MVBVRUxrVm5aRVo1QlEtRmY?oc=5",
+      "publishedAt": "2026-08-20T04:53:41.000Z"
+    },
     {
       "source": "AP News",
       "title": "As Forças Armadas de Israel iniciam investigações criminais sobre as mortes de Hind Rajab e dos paramédicos palestinos",
       "titleOriginal": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
       "publishedAt": "2026-08-20T04:20:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Conglomerado de Hong Kong pede indenização de US$ 1,5 bilhão ao Panamá pela aquisição dos portos do canal",
+      "titleOriginal": "Hong Kong conglomerate seeks $1.5 billion in damages from Panama for takeover of canal ports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmZ4b0hIVkkzbnNjUEFIeVFPNklYOXBoUjRMdS1wUEJvSnBLNWRrN3NKOGtvakJYd0tuRDRFdWVybV9FQ3lleWNuenQyT0ZZWjRuMy1jOXEyQUNTRDJ1aFRoalFQY3lmSTRnaEhTZmlKV0Z5Y2xsUVdpdllQMVFqOVlpNGZOOW0zMmUwYXNmc0dPaHlHYW5VNDVhWldIVHdQOUZRcmZhTUFnelRfYmc?oc=5",
+      "publishedAt": "2026-08-20T03:48:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O príncipe Harry destaca a necessidade de aproveitar melhor as habilidades dos veteranos durante uma mesa redonda com militares",
+      "titleOriginal": "Prince Harry emphasizes need to better apply veterans' skills during roundtable with service members",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGJBUWQxd0N3MzhscW1HcGdsX2lkZGVsZFp4U05sU1ZHd1NNOGtENEpwUXZ1X3hyRkZQc01tYzN6S05hVUlxRDJySlVtVDY3YmpmLTh6aGRaVHVVSFJnaTE1b1NUZW5mTHZTcy1fX0Y5ZHBIc1VydGsyWllHYl93OVZ3SWJuajMzd2pzQU9GcXZzcENKR3lSbXljVE44UWg4Umx4dE9WVEJ3MEJlQlAwSg?oc=5",
+      "publishedAt": "2026-08-20T03:23:00.000Z"
     },
     {
       "source": "The Hill",
@@ -25,24 +53,17 @@
     },
     {
       "source": "AP News",
-      "title": "Os ataques mortais de Israel em Gaza colocam em dúvida o avanço do cessar-fogo, poucos dias após a visita de Kushner",
+      "title": "Os ataques mortais de Israel em Gaza colocam em dúvida o progresso do cessar-fogo, poucos dias após a visita de Kushner",
       "titleOriginal": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3o3MnpVX0FDel85T2RxZC1SWGpMU09nSlF3SG8xTDQ1VWlhZDNSVzVWdWRBa3g1QXlpemJ3LXdNS1RicE9XaU5YaU81bnlzaV9JcEtSQ3lkUlJoWDJYdk5DWk96bG83R0JmaldOY3NaOE96clFIN3ZuNUZONGVPSnBtSmF0NzNYT0xqRkJWZ0YwNmFBRlF2QjJVczYzVTkxTU03RXN1c3Q?oc=5",
       "publishedAt": "2026-08-20T01:36:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um armazém pega fogo nas proximidades de Moscou. Na Ucrânia, equipes de drones se preparam para atacar novamente",
-      "titleOriginal": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
-      "publishedAt": "2026-08-20T01:26:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Democratas do Alabama esperam uma reação da comunidade negra em relação aos direitos eleitorais",
       "titleOriginal": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
       "link": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
-      "publishedAt": "2026-08-20T00:55:33.000Z"
+      "publishedAt": "2026-08-20T00:55:34.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "Trump Officials Scrap Effort to Recruit Pentagon Lawyers to Represent Migrant Children",
       "link": "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html",
       "publishedAt": "2026-08-20T00:46:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Angie Nixon sobre a divisão entre democratas progressistas e do establishment: “Não se trata de rótulos”",
-      "titleOriginal": "Angie Nixon on division between progressive, establishment Democrats: 'It's not about labels'",
-      "link": "https://thehill.com/homenews/campaign/6040256-nixon-defeats-vindman-primary/",
-      "publishedAt": "2026-08-20T00:19:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "“Não há dúvida de que” a postagem de Comey sobre a concha marítima poderia ser interpretada como uma ameaça a Trump, afirmam os promotores",
-      "titleOriginal": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
-      "publishedAt": "2026-08-20T00:19:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump anuncia a “operação econômica mais devastadora de todos os tempos” contra o Irã",
-      "titleOriginal": "Trump announces ‘most crushing economic operation ever’ against Iran",
-      "link": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
-      "publishedAt": "2026-08-20T00:02:05.000Z"
     }
   ]
 }
