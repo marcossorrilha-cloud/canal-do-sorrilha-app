@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-20T11:57:42.517Z",
+  "updatedAt": "2026-08-20T14:10:07.526Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Trump pode diminuir a hostilidade em relação à fiscalização da imigração — sem enfraquecê-la",
+      "titleOriginal": "Trump can reduce hostility for immigration enforcement — without weakening it",
+      "link": "https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility/",
+      "publishedAt": "2026-08-20T14:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Panamá é uma batalha na guerra de infraestrutura da China",
+      "titleOriginal": "Panama is one battle in China's infrastructure war",
+      "link": "https://thehill.com/opinion/national-security/6040093-reversing-chinese-belt-road/",
+      "publishedAt": "2026-08-20T13:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Diretor de assuntos legislativos da Casa Branca deixa o cargo antes das eleições de meio de mandato",
+      "titleOriginal": "White House legislative affairs director departs post ahead of midterms",
+      "link": "https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving/",
+      "publishedAt": "2026-08-20T13:25:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Darline Graham sobre o deslize na resposta durante o debate: “Não sou uma política”",
+      "titleOriginal": "Darline Graham on debate question stumble: 'I’m not a politician'",
+      "link": "https://thehill.com/homenews/campaign/6040608-darline-graham-south-carolina-gop-senate-debate-national-security-question/",
+      "publishedAt": "2026-08-20T13:17:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Às vezes, os presidentes desafiam o Congresso e os tribunais por meio de decretos presidenciais",
+      "titleOriginal": "Presidents sometimes defy Congress and the courts with executive orders",
+      "link": "https://thehill.com/opinion/congress-blog/6039117-trump-executive-order-history/",
+      "publishedAt": "2026-08-20T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Anotem na agenda — os democratas estão prontos para 2028",
+      "titleOriginal": "Mark your calendars — Democrats are ready for 2028",
+      "link": "https://thehill.com/opinion/campaign/6039208-dnc-approves-2028-primary-calendar/",
+      "publishedAt": "2026-08-20T12:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ossoff: “É incrível ver essa Casa Branca entrar em colapso” por causa do comentário sobre Harp",
+      "titleOriginal": "Ossoff: 'Amazing to watch this White House melt down' over Harp remark",
+      "link": "https://thehill.com/homenews/senate/6040557-jon-ossoff-white-house-feud-donald-trump-natalie-harp/",
+      "publishedAt": "2026-08-20T12:14:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na cédula eleitoral: Casais bipartidários enfrentam grandes dificuldades. Mas esses casais conseguem fazer o relacionamento dar certo",
+      "titleOriginal": "On the Ballot: Bipartisan couples face tough odds. But these pairs make it work",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research/",
+      "publishedAt": "2026-08-20T12:00:00.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Tribunal chinês condena o fundador da incorporadora imobiliária Evergrande, que passa por dificuldades, à prisão perpétua",
+      "title": "Tribunal chinês condena o fundador da imobiliária Evergrande, que passa por dificuldades, à prisão perpétua",
       "titleOriginal": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
       "publishedAt": "2026-08-20T11:31:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Helicóptero da Polícia Estadual da Pensilvânia colide violentamente com avião; piloto morre: FAA",
-      "titleOriginal": "Pennsylvania State Police helicopter violently collides with plane, pilot dead: FAA",
-      "link": "https://thehill.com/homenews/state-watch/6040336-pennsylvania-state-police-helicopter-violently-collides-with-plane-pilot-dead-faa/",
-      "publishedAt": "2026-08-20T11:00:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Até você, Fedorov? A traição de Volodymyr Zelensky.",
-      "titleOriginal": "Et tu, Fedorov? The betrayal of Volodymyr Zelensky.",
-      "link": "https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections/",
-      "publishedAt": "2026-08-20T11:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
-      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
-      "publishedAt": "2026-08-20T10:00:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jovens democratas de olho no Congresso, com a acessibilidade econômica no topo de sua agenda",
-      "titleOriginal": "Young Democrats eye Congress with affordability at the top of their agenda",
-      "link": "https://thehill.com/homenews/house/6040081-young-democrats-eye-congress-affordability/",
-      "publishedAt": "2026-08-20T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Em nova pesquisa, o Partido Republicano fica 8 pontos atrás dos democratas na disputa pelo Congresso",
-      "titleOriginal": "GOP trails Democrats by 8 points on congressional ballot in new poll",
-      "link": "https://thehill.com/homenews/campaign/6039546-democrats-lead-gop-midterm-poll/",
-      "publishedAt": "2026-08-20T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rubio supera Vance em confrontos hipotéticos para 2028: pesquisa",
-      "titleOriginal": "Rubio outperforms Vance in hypothetical 2028 matchups: Poll",
-      "link": "https://thehill.com/homenews/campaign/6039336-rubio-outperforms-vance-poll/",
-      "publishedAt": "2026-08-20T10:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços disparam com o aumento do contrabando em Gaza. Autoridades, soldados e intermediários são acusados de lucrar com a situação",
-      "titleOriginal": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-      "publishedAt": "2026-08-20T09:50:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Vance arrecada US$ 5 milhões em grande evento nos Hamptons",
-      "titleOriginal": "Vance raises $5 million at big Hamptons event",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmaThrdlpVRDRhbTNWZ212LXhMa0Fldm9UeENRcWxYRFdrbFVqNHJHZzJuRDdaX0RrQjVIQjUzYjFUbWdsRjcwQjFVYkVTNnRDSnotRkcxMVVtU2ZibTdFM29kcVRKLTk3WVB3YjhIUQ?oc=5",
-      "publishedAt": "2026-08-20T09:30:16.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Quando os amigos de Mullin no Congresso ligam, o DHS atende",
-      "titleOriginal": "When Mullin's friends in Congress call, DHS answers",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdlB3ZTVsU2hOWm5OVDRvV3BvOU1fOVFKZ1FSLW12TDFWbjk0TXlQMDlNWmttUTd6NWFuUlBiUWpsNXVoWjBmbEtKSXpxU193SHMwZXZzekstWjd0N3p6UmJfRXYyWElEZi05OA?oc=5",
-      "publishedAt": "2026-08-20T09:25:24.000Z"
+      "title": "O que Trump teme que venhamos a descobrir sobre como as tarifas foram definidas?",
+      "titleOriginal": "What is Trump afraid we will see about how the tariffs were formulated?",
+      "link": "https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated/",
+      "publishedAt": "2026-08-20T11:30:00.000Z"
     }
   ]
 }
