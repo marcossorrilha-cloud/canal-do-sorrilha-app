@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-20T03:12:35.996Z",
+  "updatedAt": "2026-08-20T05:18:10.707Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "As Forças Armadas de Israel iniciam investigações criminais sobre as mortes de Hind Rajab e dos paramédicos palestinos",
+      "titleOriginal": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "publishedAt": "2026-08-20T04:20:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Major da Força Aérea é detido novamente por protesto no Capitólio após críticas a Trump",
+      "titleOriginal": "Air Force major detained again for Capitol protest after Trump criticism",
+      "link": "https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest/",
+      "publishedAt": "2026-08-20T03:18:54.000Z"
+    },
     {
       "source": "Politico",
       "title": "Michael Cohen não revela se usará sua entrevista com Trump para solicitar um perdão",
@@ -11,7 +25,14 @@
     },
     {
       "source": "AP News",
-      "title": "Um armazém pegou fogo perto de Moscou. Na Ucrânia, equipes de drones se preparam para atacar novamente",
+      "title": "Os ataques mortais de Israel em Gaza colocam em dúvida o avanço do cessar-fogo, poucos dias após a visita de Kushner",
+      "titleOriginal": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3o3MnpVX0FDel85T2RxZC1SWGpMU09nSlF3SG8xTDQ1VWlhZDNSVzVWdWRBa3g1QXlpemJ3LXdNS1RicE9XaU5YaU81bnlzaV9JcEtSQ3lkUlJoWDJYdk5DWk96bG83R0JmaldOY3NaOE96clFIN3ZuNUZONGVPSnBtSmF0NzNYT0xqRkJWZ0YwNmFBRlF2QjJVczYzVTkxTU03RXN1c3Q?oc=5",
+      "publishedAt": "2026-08-20T01:36:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um armazém pega fogo nas proximidades de Moscou. Na Ucrânia, equipes de drones se preparam para atacar novamente",
       "titleOriginal": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
       "publishedAt": "2026-08-20T01:26:00.000Z"
@@ -38,39 +59,18 @@
       "publishedAt": "2026-08-20T00:19:42.000Z"
     },
     {
+      "source": "AP News",
+      "title": "“Não há dúvida de que” a postagem de Comey sobre a concha marítima poderia ser interpretada como uma ameaça a Trump, afirmam os promotores",
+      "titleOriginal": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
+      "publishedAt": "2026-08-20T00:19:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Trump anuncia a “operação econômica mais devastadora de todos os tempos” contra o Irã",
       "titleOriginal": "Trump announces ‘most crushing economic operation ever’ against Iran",
       "link": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
       "publishedAt": "2026-08-20T00:02:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Autoridades do Federal Reserve dão a entender que um aumento nas taxas pode ser necessário",
-      "titleOriginal": "Federal Reserve officials hint rate increase may be necessary",
-      "link": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
-      "publishedAt": "2026-08-19T23:13:44.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Gravação em bala indica que Charlie Kirk foi alvo por motivos políticos, afirmam os promotores",
-      "titleOriginal": "Bullet engraving shows Charlie Kirk targeted for politics, prosecutors say",
-      "link": "https://thehill.com/regulation/court-battles/6040138-utah-university-shooting-evidence-dispute/",
-      "publishedAt": "2026-08-19T23:06:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump planeja tomar medidas severas contra o suposto “abuso” na obtenção de restituições de impostos por parte de alguns imigrantes",
-      "titleOriginal": "Trump administration plans crackdown on some immigrants' alleged tax refund 'abuse'",
-      "link": "https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/",
-      "publishedAt": "2026-08-19T22:57:04.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Presidente da Comissão de Saúde do Senado manifesta fortes reservas em relação ao indicado para a FDA",
-      "titleOriginal": "Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee",
-      "link": "https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html",
-      "publishedAt": "2026-08-19T22:52:58.000Z"
     }
   ]
 }
