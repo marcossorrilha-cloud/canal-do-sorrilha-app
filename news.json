@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-21T03:30:54.924Z",
+  "updatedAt": "2026-08-21T05:20:10.114Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Como Jonathan Haidt transformou a discussão sobre os jovens e as redes sociais em um movimento político",
+      "titleOriginal": "How Jonathan Haidt turned the fight over kids and social media into a political movement",
+      "link": "https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935",
+      "publishedAt": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance: Bessent tem um “plano muito discreto” para reduzir a dívida pública de US$ 40 trilhões",
+      "titleOriginal": "Vance: Bessent has 'very discreet plan' to shrink $40 trillion national debt",
+      "link": "https://thehill.com/homenews/administration/6042908-vance-bessent-national-debt-plan/",
+      "publishedAt": "2026-08-21T03:10:44.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A ameaça econômica de Trump coloca em foco os parceiros comerciais do Irã",
@@ -11,7 +25,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Markey e Moulton entram em confronto antes das primárias para o Senado de Massachusetts: três pontos a serem destacados do último debate",
+      "title": "Markey e Moulton entram em confronto antes das primárias para o Senado de Massachusetts: três pontos a destacar do último debate",
       "titleOriginal": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
       "link": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
       "publishedAt": "2026-08-21T02:45:57.000Z"
@@ -24,11 +38,11 @@
       "publishedAt": "2026-08-21T02:14:29.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Trump quer retomar o projeto Keystone XL. O setor tem um plano diferente.",
-      "titleOriginal": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXdQaFh3RW9HekdSY0hhbWIycjNiNnBvOTZ1RzVpQVFUdkY1X0tnaVJJMGwwT2lORzZZMlhmdHowemdXWlVkNzNOcUo1b0ZEdTVCd01QV0RXX1Fyb21keDdndTR4M2ZtazRpYTBuQUEzNVBDRnVWLWlKNGJROGpWalVSVWhnM3hBT0J2cklWTWZLZ3UwRnpPd05DeDM4TmNvQ2hhLUxIdHBzVGFTTEUxbGw0Sy14T1E?oc=5",
-      "publishedAt": "2026-08-21T02:00:00.000Z"
+      "source": "The Hill",
+      "title": "Deputado democrata da Câmara: É preciso controlar os centros de dados sem perder a corrida tecnológica para a China",
+      "titleOriginal": "House Democrat: Rein in data centers without losing tech race to China",
+      "link": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/",
+      "publishedAt": "2026-08-21T02:08:08.000Z"
     },
     {
       "source": "The Hill",
@@ -45,32 +59,18 @@
       "publishedAt": "2026-08-21T00:53:37.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A deputada da Califórnia Aisha Wahab vence a eleição suplementar para suceder Eric Swalwell no Congresso",
-      "titleOriginal": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVc1YUxqYzlMRG9jTktiQXQtaGE5bDUyd3RhLUNoNENuOWc0TmN5SE1JTjgxUkpRbjlXcmNXb1FqNTItSEk2YjBTVnpCMDY4VmFDUERQMWg2bzRUYjlwTEg0ZjNzVDVlS3NHYjZQRTlxcDhmV2tPWHJlWGY3czBfMVNPZ1J0QWN2OG9CaTBDN2ItTGpCYWZHZHpnOUpGT20yS1BSYy1nRWZiWTlBY0FLWlB3?oc=5",
-      "publishedAt": "2026-08-21T00:48:00.000Z"
+      "source": "The Hill",
+      "title": "Trump diz a Cohen que foi “usado como arma” na disputa",
+      "titleOriginal": "Trump tells Cohen he was 'weaponized' in feud",
+      "link": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/",
+      "publishedAt": "2026-08-20T23:31:35.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os EUA intensificam as sanções contra Cuba e as detenções de americanos que retornam da ilha",
-      "titleOriginal": "US ramps up Cuba sanctions and detentions of Americans returning from the island",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h?oc=5",
-      "publishedAt": "2026-08-21T00:27:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um canal secreto entre o ICE e o Irã influenciou os voos de deportação, revelam e-mails recém-divulgados",
-      "titleOriginal": "A quiet channel between ICE and Iran shaped deportation flights, newly released emails show",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPam1JbUZXYXVPcGVfYlBKZENPYmxSdG1TVGdjSDVwZ2NXMEhDNDVaUlZtMUN6MUVEcVFsSTJsQzY0bGlrdkVxNjNSN1VBVDBfbEN6VW9fYkE5QUgyQzBVSVVZcGdzRXM1N2NXeGZoYk9tNk8yRDJWd0tvVFg1R0hfVHdvalEyd3FVX3V6dWNsSl9PYzBSV2NScTBnaTJQUWgwandGOW5R?oc=5",
-      "publishedAt": "2026-08-21T00:24:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump ameaça bombardear Omã caso o país “se intrometa” no conflito com o Irã",
-      "titleOriginal": "Trump Threatens to Bomb Oman if It ‘Gets in the Way’ of Iran Conflict",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWxlTWZCem1LUE5BVGxHUjAyOURTcjRKaHJBb1JOeUkzVHNNYVNZbWgzX01HZ2htY295VzRncW02eWVCNU1WR0p1TndtV2JWeU8zSm1QVnR2aWgxZjhtMXc1c2pWN1Q0SUVKb3lGWFNFYU9aZHk4NG50SzZ0OGM5d3RGNA?oc=5",
-      "publishedAt": "2026-08-21T00:03:56.000Z"
+      "source": "The Hill",
+      "title": "EUA aprovam possível venda de aeronaves de reabastecimento ao Catar no valor de US$ 4,5 bilhões",
+      "titleOriginal": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
+      "link": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
+      "publishedAt": "2026-08-20T23:18:54.000Z"
     }
   ]
 }
