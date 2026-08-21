@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-21T08:04:07.755Z",
+  "updatedAt": "2026-08-21T10:06:13.962Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Imóveis em destaque: 5 casas à venda em Charlotte, com preços que variam de US$ 365 mil a US$ 1,1 milhão",
+      "titleOriginal": "Hot homes: 5 houses for sale in Charlotte ranging from $365K to $1.1M",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHA1RWdvV1ptU3Jnc29YTVFwYmlaVnBJN1oxMjE3NktWTG5CRHlGMkhXQUw0VnpYUXRCTXZVN3ROT0tHQzZrRWc1TnNLRmtvSjJXZDBYdkNMbDVzdEx0UzlSd2IwTFE5TkNPYXlyT09MU2lWWmdjRUhxdC1FWWJ4ODJJQ3QteDhkQmtXem5UcGxwOFJKdGsyOTE4RWQzcGxrelFoYzZOdTFyMi1oQ1Z3SDRlMzc?oc=5",
+      "publishedAt": "2026-08-21T09:33:50.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por que os mercados de petróleo estão ignorando as “verdades” de Trump",
+      "titleOriginal": "Why oil markets are ignoring Trump's \"truths\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkJuaEJhT252YTBDcDRnSkk5cVV3TlpHakpBdHhBdndteWJSX1dicUZwcFNaRFpNcVlLWGg3NWJ0T2NtbDZXZzFMd3lFbGVPMl9tRG5odXVDVnNncmZQRl9LMmRFeGdIV2UydnczTW5oN3l0OU54enJtdkhqZHB2ag?oc=5",
+      "publishedAt": "2026-08-21T09:16:55.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O maior evento político de Trump até agora não acontece em um estado disputado",
+      "titleOriginal": "Trump’s biggest political event so far isn’t in a battleground state",
+      "link": "https://www.politico.com/news/2026/08/21/trump-rally-south-carolina-darline-graham-01045166",
+      "publishedAt": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os cartunistas do país comentam a semana na política",
+      "titleOriginal": "The nation’s cartoonists on the week in politics",
+      "link": "https://www.politico.com/gallery/2026/08/21/the-nations-cartoonists-on-the-week-in-politics-01045203",
+      "publishedAt": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas pedem que o ICE suspenda a compra de luvas elétricas “antes que mais vidas inocentes sejam perdidas”",
+      "titleOriginal": "Democrats urge ICE to halt purchase of electric gloves 'before more innocent lives are lost'",
+      "link": "https://thehill.com/homenews/administration/6042522-house-democrats-oppose-ice-gloves/",
+      "publishedAt": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exercícios com mísseis russos aumentam as tensões com o Japão",
+      "titleOriginal": "Russian Missile Drills Stoke Tensions With Japan",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDZXbnNORlU2SElhQ0pQcmJERmExX2RXd3plYXJvWlRYTVE5b0NEUEhwYTRhWmZsMllCMVRCcGFfOEoySHdZc0VyMDB0WVhmWEViMi13akRJdmt5b3VoSVhJYTRpRHFpcWtScGk1N0dINUxIQ0cwOEJHMlZ4Q1E0X3VVbWhiOWpITW1FdFZ5WUR5UQ?oc=5",
+      "publishedAt": "2026-08-21T08:49:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "As eleições intermediárias marcadas por escândalos estão em andamento",
+      "titleOriginal": "The midterms of scandal are underway",
+      "link": "https://www.politico.com/news/2026/08/21/midterms-scandals-controversies-01045143",
+      "publishedAt": "2026-08-21T08:45:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Milhares de migrantes em Ceuta aguardam em uma situação de incerteza enquanto a Espanha decide o que fazer com eles",
+      "titleOriginal": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
+      "publishedAt": "2026-08-21T07:48:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Monte dei Paschi, da Itália, faz uma operação de US$ 40 bilhões para adquirir bancos concorrentes",
+      "titleOriginal": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
+      "publishedAt": "2026-08-21T07:30:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A ameaça econômica de Trump coloca os parceiros comerciais do Irã no centro das atenções",
       "titleOriginal": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners",
       "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
       "publishedAt": "2026-08-21T07:13:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Rendimentos dos títulos do Tesouro dos EUA sobem ligeiramente, em meio a preocupações com o orçamento e o preço do petróleo",
-      "titleOriginal": "U.S. Treasury Yields Edge Higher as Budget, Oil Price Fears Prevail",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmhlcXljTnlMOFFrSDdrck14Umk3WXVZUFhoX1N5ZDBxVTExWDBfUC16UTAwYnNacFp4MW1HZHh2c21MNVNPNDNkaDFSYkJrSlRGbEhsTTdjU3NWOUNFY3ZZTkxsc3NRX1QxcHRpM2pXcHQ0TkV5c2hUU1RtTFdWVHJpS0pSMmx5SFdsMGtXaFQyQkZaQ2JKNEppYTAtb0tJcVM3dlJuTQ?oc=5",
-      "publishedAt": "2026-08-21T06:02:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Como Jonathan Haidt transformou a discussão sobre os jovens e as redes sociais em um movimento político",
-      "titleOriginal": "How Jonathan Haidt turned the fight over kids and social media into a political movement",
-      "link": "https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935",
-      "publishedAt": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA realizam suas primeiras deportações no âmbito do acordo pelo qual a Libéria se compromete a aceitar 1.200 não-liberianos",
-      "titleOriginal": "US carries out its first deportations under pact for Liberia to accept 1,200 non-Liberians",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdpVDBxTDdneUNHSEZCNlQyeDRRVnZLeHdBdkJNbDVtcWdxVFBaRDdaQTFES0dOSzhoUEd4Q1ptcnpIY19jUlNiZ3VhYVZlTUNocllINUlFM2I2UFVXYXRRWXB5VFdQSV9ndTRYVkRjdW10ZF9rak1LUUVnUkZWeVdGYTRKSUk?oc=5",
-      "publishedAt": "2026-08-21T02:49:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Markey e Moulton entram em confronto antes das primárias para o Senado de Massachusetts: três pontos a serem destacados do último debate",
-      "titleOriginal": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
-      "link": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
-      "publishedAt": "2026-08-21T02:45:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Tribunal de Hong Kong condena ativistas que organizaram vigílias pela Praça da Paz Celestial",
-      "titleOriginal": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWpYVjNvUkVDX0MtQk9RN1hCbmFEVnpCdXo5OXk3Qkg5VEtUdE96cUZMNUhLQTRzQlh2N1EzeVpQVGxrZ1J2dnJQY2JRRXpCNTIxal84VGI0Vld3QjJrVGRCYTNNMDJIRWtXcG04VWNWUmFoN0g0cGtnOXM0U0h0bl9nUER1OVVMYVJzZ21KOHNwUVdaX2RTd1o4UWZ1Xzd2d3hsOUJNc3lVQQ?oc=5",
-      "publishedAt": "2026-08-21T02:44:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Nancy Kissinger, esposa do ex-secretário de Estado, morre aos 92 anos",
-      "titleOriginal": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-      "link": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-      "publishedAt": "2026-08-21T02:14:29.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump quer retomar o projeto Keystone XL. O setor tem um plano diferente.",
-      "titleOriginal": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXdQaFh3RW9HekdSY0hhbWIycjNiNnBvOTZ1RzVpQVFUdkY1X0tnaVJJMGwwT2lORzZZMlhmdHowemdXWlVkNzNOcUo1b0ZEdTVCd01QV0RXX1Fyb21keDdndTR4M2ZtazRpYTBuQUEzNVBDRnVWLWlKNGJROGpWalVSVWhnM3hBT0J2cklWTWZLZ3UwRnpPd05DeDM4TmNvQ2hhLUxIdHBzVGFTTEUxbGw0Sy14T1E?oc=5",
-      "publishedAt": "2026-08-21T02:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O ouro recua em meio a mudanças nas expectativas em relação à política monetária",
-      "titleOriginal": "Gold Slips Amid Changing Monetary Policy Expectations",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEVBNGF1dUk1T0VwRExMTmVoeUlaWWlKV1NYZENpcHhJd2FVQzBkV2UxdzB3UHdsOHlScV94WFpSM0h4SkM3YzIyWm9yUmZxNVN1dXI0Q3ZtXzh0aG05VWV0Q1VURnRHMzlBYnowLUUxaVU1T3AteVhOeUxmT0RaYldlUGp6OTlIVHlKNktlRGFITzRjSFdVZGZHTWRxeHpGWHVSbkliQ1hWY1VCT2Vj?oc=5",
-      "publishedAt": "2026-08-21T01:16:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Melania Trump brinca sobre sua discrição em discurso no Jardim das Rosas",
-      "titleOriginal": "Melania Trump jokes about her low profile in Rose Garden remarks",
-      "link": "https://thehill.com/blogs/in-the-know/6042806-melania-trump-jokes-about-her-low-profile-in-rose-garden-remarks/",
-      "publishedAt": "2026-08-21T01:02:00.000Z"
     }
   ]
 }
