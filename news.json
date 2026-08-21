@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-21T11:56:56.073Z",
+  "updatedAt": "2026-08-21T14:06:07.677Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump faz campanha na Carolina do Sul; Vance segue para Ohio",
+      "titleOriginal": "Live updates: Trump campaigns in South Carolina, Vance heads to Ohio",
+      "link": "https://thehill.com/homenews/administration/6042837-live-updates-trump-graham-south-carolina-national-debt-white-house-ballroom/",
+      "publishedAt": "2026-08-21T14:03:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que está acontecendo com a guerra do Trump contra a Marinha dos EUA?",
+      "titleOriginal": "What's with Trump's war against the US Navy?",
+      "link": "https://thehill.com/opinion/white-house/6042186-trump-navy-war/",
+      "publishedAt": "2026-08-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Irã classifica as novas sanções dos EUA como “injustas”",
+      "titleOriginal": "Iran labels new US sanctions 'unjust'",
+      "link": "https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war/",
+      "publishedAt": "2026-08-21T12:38:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Como a reação bipartidária contra os centros de dados pode redefinir o cenário político em todo o país",
+      "titleOriginal": "How the bipartisan data center backlash could reshape politics nationwide",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6043072-bipartisan-data-center-backlash-political-influence-discussion/",
+      "publishedAt": "2026-08-21T12:15:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As pesquisas podem induzir ao erro: faça sua própria análise antes de votar",
+      "titleOriginal": "Polls can mislead: Do your own homework before you vote",
+      "link": "https://thehill.com/opinion/campaign/6042505-political-polling-reliability-concerns/",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Política sem meias palavras: uma previsão sombria para o Partido Republicano no Senado, vinda do Alasca",
+      "titleOriginal": "Whole Hog Politics: A chilly forecast for the Senate GOP from Alaska",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/6042216-peltola-leads-alaska-nonpartisan-primary/",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Teste: Você conhece bem a história política de Illinois?",
+      "titleOriginal": "Quiz: How well do you know Illinois political history?",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGFuemJDQnhaMVhQT1p4VThNZnAtS0VzejdxUXpVMWNXNXphVGJrV25GMU1wM0ZJVTRZNW5SMWZGYkNqZjNFQXpnVDhaVnZadzVFSnFrLWRyU0JCSHM2Uk1adVN3WVIzZjU2TFlSdHVGalNXX28yMjBtX2NVeGgyeUNKNTVDM1lQZ0lzTVF2QzZrOFdGNlRnSm1qSjVrX2RIdVZNRTV1V3dITjdjY1NGNXVpakx0QTB5Zlow?oc=5",
+      "publishedAt": "2026-08-21T11:26:02.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O ímpeto democrata continua forte na disputa pelo Senado",
@@ -11,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Os líderes podem aprender com a carreira política de Mike DeWine, que desafia as leis da gravidade",
+      "title": "Os líderes podem aprender com a carreira política de Mike DeWine, que desafia a gravidade",
       "titleOriginal": "Leaders can learn from Mike DeWine's gravity-defying political career",
       "link": "https://thehill.com/opinion/6041890-ohio-top-state-business/",
       "publishedAt": "2026-08-21T11:00:00.000Z"
@@ -22,55 +71,6 @@
       "titleOriginal": "East Price Hill eco project puts down roots",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXJJRHpqVHFyX18wa0VPd3lfSHk1cHZyVFZiRE5kOENHOVJMbWw2QnlzS2pUM2dyRVFWcVdjNUJMTjJpeWxmQUZuRlRuN25mQkFXWDJ0ZnpnZXJxd21iZlZwRnhlNFYzV2J6RFNESG1UakNTWm9sQV9Jd1hRa2NsRlN2blZwbTVqVVU1TTdaMHlhLV9RQ2Vz?oc=5",
       "publishedAt": "2026-08-21T10:38:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Monte dei Paschi, da Itália, faz uma operação de US$ 40 bilhões para adquirir bancos concorrentes",
-      "titleOriginal": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
-      "publishedAt": "2026-08-21T10:29:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A PineCone contratou um novo executivo antes da segunda edição do Raleigh Wide Open",
-      "titleOriginal": "PineCone has hired a new executive order ahead of the second edition of Raleigh Wide Open",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDNvRFNKUnhQTHFQZEVud0FDUWw4emZFRmcwLW5pcTgxTWVjMjRPMURUdzRPbEY3OEJIV0EwWlpST1pBeXNQRC0zNWhjSVMyRm1iT3N6ZWFLRjB4YWtwaFJTVERpdUxHbUFxMWZLRXN6MjlDd2VRc3BKWWF3UFFldi1WeElUcVpIQ3Q1Q3p3YlJTa0puUEJrS0Jpam8zU21QRUtVb3pRTDRXeHFOb18tYTln?oc=5",
-      "publishedAt": "2026-08-21T10:23:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump tenta reacender a amizade com Kim Jong Un",
-      "titleOriginal": "Trump seeks to rekindle bromance with Kim Jong Un",
-      "link": "https://thehill.com/homenews/administration/6042660-trump-kim-jong-un-relations-north-korea/",
-      "publishedAt": "2026-08-21T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Como Omã, aliado dos EUA, acabou na mira de Trump",
-      "titleOriginal": "How US ally Oman got caught in Trump’s crosshairs",
-      "link": "https://thehill.com/policy/defense/6041407-trump-threatens-oman-iran-deal/",
-      "publishedAt": "2026-08-21T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump busca impulsionar a campanha de Darline Graham na reta final na Carolina do Sul",
-      "titleOriginal": "Trump seeks to boost Darline Graham in South Carolina homestretch",
-      "link": "https://thehill.com/homenews/campaign/6042457-sc-senate-primary-runoff/",
-      "publishedAt": "2026-08-21T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Imóveis em destaque: 5 casas à venda em Charlotte, com preços que variam de US$ 365 mil a US$ 1,1 milhão",
-      "titleOriginal": "Hot homes: 5 houses for sale in Charlotte ranging from $365K to $1.1M",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHA1RWdvV1ptU3Jnc29YTVFwYmlaVnBJN1oxMjE3NktWTG5CRHlGMkhXQUw0VnpYUXRCTXZVN3ROT0tHQzZrRWc1TnNLRmtvSjJXZDBYdkNMbDVzdEx0UzlSd2IwTFE5TkNPYXlyT09MU2lWWmdjRUhxdC1FWWJ4ODJJQ3QteDhkQmtXem5UcGxwOFJKdGsyOTE4RWQzcGxrelFoYzZOdTFyMi1oQ1Z3SDRlMzc?oc=5",
-      "publishedAt": "2026-08-21T09:33:50.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exercícios com mísseis russos aumentam as tensões com o Japão",
-      "titleOriginal": "Russian Missile Drills Stoke Tensions With Japan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDZXbnNORlU2SElhQ0pQcmJERmExX2RXd3plYXJvWlRYTVE5b0NEUEhwYTRhWmZsMllCMVRCcGFfOEoySHdZc0VyMDB0WVhmWEViMi13akRJdmt5b3VoSVhJYTRpRHFpcWtScGk1N0dINUxIQ0cwOEJHMlZ4Q1E0X3VVbWhiOWpITW1FdFZ5WUR5UQ?oc=5",
-      "publishedAt": "2026-08-21T09:18:00.000Z"
     }
   ]
 }
