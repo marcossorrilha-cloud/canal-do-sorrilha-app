@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-21T10:06:13.962Z",
+  "updatedAt": "2026-08-21T11:56:56.073Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O ímpeto democrata continua forte na disputa pelo Senado",
+      "titleOriginal": "Democratic momentum keeps rolling in race for Senate",
+      "link": "https://thehill.com/newsletters/morning-report/6043034-democratic-momentum-rising-senate-control-battle-midterms/",
+      "publishedAt": "2026-08-21T11:00:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os líderes podem aprender com a carreira política de Mike DeWine, que desafia as leis da gravidade",
+      "titleOriginal": "Leaders can learn from Mike DeWine's gravity-defying political career",
+      "link": "https://thehill.com/opinion/6041890-ohio-top-state-business/",
+      "publishedAt": "2026-08-21T11:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Projeto ecológico de East Price Hill ganha força",
+      "titleOriginal": "East Price Hill eco project puts down roots",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXJJRHpqVHFyX18wa0VPd3lfSHk1cHZyVFZiRE5kOENHOVJMbWw2QnlzS2pUM2dyRVFWcVdjNUJMTjJpeWxmQUZuRlRuN25mQkFXWDJ0ZnpnZXJxd21iZlZwRnhlNFYzV2J6RFNESG1UakNTWm9sQV9Jd1hRa2NsRlN2blZwbTVqVVU1TTdaMHlhLV9RQ2Vz?oc=5",
+      "publishedAt": "2026-08-21T10:38:28.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Monte dei Paschi, da Itália, faz uma operação de US$ 40 bilhões para adquirir bancos concorrentes",
+      "titleOriginal": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
+      "publishedAt": "2026-08-21T10:29:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A PineCone contratou um novo executivo antes da segunda edição do Raleigh Wide Open",
+      "titleOriginal": "PineCone has hired a new executive order ahead of the second edition of Raleigh Wide Open",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDNvRFNKUnhQTHFQZEVud0FDUWw4emZFRmcwLW5pcTgxTWVjMjRPMURUdzRPbEY3OEJIV0EwWlpST1pBeXNQRC0zNWhjSVMyRm1iT3N6ZWFLRjB4YWtwaFJTVERpdUxHbUFxMWZLRXN6MjlDd2VRc3BKWWF3UFFldi1WeElUcVpIQ3Q1Q3p3YlJTa0puUEJrS0Jpam8zU21QRUtVb3pRTDRXeHFOb18tYTln?oc=5",
+      "publishedAt": "2026-08-21T10:23:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump tenta reacender a amizade com Kim Jong Un",
+      "titleOriginal": "Trump seeks to rekindle bromance with Kim Jong Un",
+      "link": "https://thehill.com/homenews/administration/6042660-trump-kim-jong-un-relations-north-korea/",
+      "publishedAt": "2026-08-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Como Omã, aliado dos EUA, acabou na mira de Trump",
+      "titleOriginal": "How US ally Oman got caught in Trump’s crosshairs",
+      "link": "https://thehill.com/policy/defense/6041407-trump-threatens-oman-iran-deal/",
+      "publishedAt": "2026-08-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump busca impulsionar a campanha de Darline Graham na reta final na Carolina do Sul",
+      "titleOriginal": "Trump seeks to boost Darline Graham in South Carolina homestretch",
+      "link": "https://thehill.com/homenews/campaign/6042457-sc-senate-primary-runoff/",
+      "publishedAt": "2026-08-21T10:00:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Imóveis em destaque: 5 casas à venda em Charlotte, com preços que variam de US$ 365 mil a US$ 1,1 milhão",
@@ -10,67 +66,11 @@
       "publishedAt": "2026-08-21T09:33:50.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Por que os mercados de petróleo estão ignorando as “verdades” de Trump",
-      "titleOriginal": "Why oil markets are ignoring Trump's \"truths\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkJuaEJhT252YTBDcDRnSkk5cVV3TlpHakpBdHhBdndteWJSX1dicUZwcFNaRFpNcVlLWGg3NWJ0T2NtbDZXZzFMd3lFbGVPMl9tRG5odXVDVnNncmZQRl9LMmRFeGdIV2UydnczTW5oN3l0OU54enJtdkhqZHB2ag?oc=5",
-      "publishedAt": "2026-08-21T09:16:55.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O maior evento político de Trump até agora não acontece em um estado disputado",
-      "titleOriginal": "Trump’s biggest political event so far isn’t in a battleground state",
-      "link": "https://www.politico.com/news/2026/08/21/trump-rally-south-carolina-darline-graham-01045166",
-      "publishedAt": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os cartunistas do país comentam a semana na política",
-      "titleOriginal": "The nation’s cartoonists on the week in politics",
-      "link": "https://www.politico.com/gallery/2026/08/21/the-nations-cartoonists-on-the-week-in-politics-01045203",
-      "publishedAt": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas pedem que o ICE suspenda a compra de luvas elétricas “antes que mais vidas inocentes sejam perdidas”",
-      "titleOriginal": "Democrats urge ICE to halt purchase of electric gloves 'before more innocent lives are lost'",
-      "link": "https://thehill.com/homenews/administration/6042522-house-democrats-oppose-ice-gloves/",
-      "publishedAt": "2026-08-21T09:00:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Exercícios com mísseis russos aumentam as tensões com o Japão",
       "titleOriginal": "Russian Missile Drills Stoke Tensions With Japan",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDZXbnNORlU2SElhQ0pQcmJERmExX2RXd3plYXJvWlRYTVE5b0NEUEhwYTRhWmZsMllCMVRCcGFfOEoySHdZc0VyMDB0WVhmWEViMi13akRJdmt5b3VoSVhJYTRpRHFpcWtScGk1N0dINUxIQ0cwOEJHMlZ4Q1E0X3VVbWhiOWpITW1FdFZ5WUR5UQ?oc=5",
-      "publishedAt": "2026-08-21T08:49:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "As eleições intermediárias marcadas por escândalos estão em andamento",
-      "titleOriginal": "The midterms of scandal are underway",
-      "link": "https://www.politico.com/news/2026/08/21/midterms-scandals-controversies-01045143",
-      "publishedAt": "2026-08-21T08:45:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Milhares de migrantes em Ceuta aguardam em uma situação de incerteza enquanto a Espanha decide o que fazer com eles",
-      "titleOriginal": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
-      "publishedAt": "2026-08-21T07:48:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Monte dei Paschi, da Itália, faz uma operação de US$ 40 bilhões para adquirir bancos concorrentes",
-      "titleOriginal": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
-      "publishedAt": "2026-08-21T07:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A ameaça econômica de Trump coloca os parceiros comerciais do Irã no centro das atenções",
-      "titleOriginal": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners",
-      "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
-      "publishedAt": "2026-08-21T07:13:24.000Z"
+      "publishedAt": "2026-08-21T09:18:00.000Z"
     }
   ]
 }
