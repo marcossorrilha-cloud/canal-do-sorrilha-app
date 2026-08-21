@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T03:31:20.841Z",
-  "slot": "2026-08-21-AM",
+  "updatedAt": "2026-08-21T16:04:02.070Z",
+  "slot": "2026-08-21-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Ministro da Defesa demitido por Zelensky exige eleições na Ucrânia",
-      "titleOriginal": "Defense minister dismissed by Zelensky demands elections in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
-      "source": "Washington Post",
+      "title": "“Ouvi dizer que sentiram minha falta”: Melania Trump faz sua primeira aparição pública em mais de um mês",
+      "titleOriginal": "‘I heard you missed me’: Melania Trump makes first public appearance in more than a month",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTdlZlozZ0d6S0h5Z0J2R0VMemw0LTNmU1dNWDZaTWkyZVRnQnB5eEJzOVBGNF91eXhuSS1mcE04QnZ2cWZKbHQ3RDZQVEtTY08ySFZGUUtnUnFZTVN2RFRhTHY3dW4xRGxuLXRvVWQ2czI2UEtYQzhXZEFwd0R6TjRBWENsUEZlMTJqMzNOWXJzdw?oc=5",
+      "source": "CNN",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump ameaça bombardear Omã caso o país “se intrometa” no conflito com o Irã",
-      "titleOriginal": "Trump Threatens to Bomb Oman if It ‘Gets in the Way’ of Iran Conflict",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWxlTWZCem1LUE5BVGxHUjAyOURTcjRKaHJBb1JOeUkzVHNNYVNZbWgzX01HZ2htY295VzRncW02eWVCNU1WR0p1TndtV2JWeU8zSm1QVnR2aWgxZjhtMXc1c2pWN1Q0SUVKb3lGWFNFYU9aZHk4NG50SzZ0OGM5d3RGNA?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 5
+      "title": "Trump chega a um acordo para suspender as tarifas sobre a carne bovina por 90 dias, numa tentativa de reduzir os preços",
+      "titleOriginal": "Trump reaches deal to halt tariffs on beef for 90 days in bid to lower prices",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZTlxZ2lkYU5yQjRLNnRjMEFtM1VYbVIxRUY4YUFjMHJGVlZXM1hpMzVaZkxVSi1uWHo2eTFPTG0zTmJTVmhpSlp2dVRRQWVJd2p0UVRfYnl1cVJQWmpZeUhXX0Z0SnRUMXFmOUV4M2s1RmZFemJTYVVTNG9jMGc1aGZfX19Ic1BmVG5sdFBrSmlmblFr?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 2
     }
   ]
 }
