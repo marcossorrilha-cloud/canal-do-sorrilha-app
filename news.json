@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-21T20:53:51.705Z",
+  "updatedAt": "2026-08-21T21:52:55.239Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Empresa do setor penitenciário fez doação para o PAC de Trump depois que o ICE lhe concedeu contratos no valor de US$ 165 milhões por ano",
+      "titleOriginal": "Prison Firm Donated to Trump’s PAC After ICE Gave It $165 Million a Year in Contracts",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/geo-group-maga-inc-donations-ice-contracts.html",
+      "publishedAt": "2026-08-21T21:34:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os Estados Unidos encerram um verão de primárias relâmpago e encontros políticos relâmpago",
+      "titleOriginal": "America Ends a Summer of Lightning-Fast Primaries and Political Speed Dating",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html",
+      "publishedAt": "2026-08-21T21:17:22.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Secretário do Exército deve deixar o cargo até o final do ano",
+      "titleOriginal": "Exclusive | Army Secretary Expected to Step Down by Year’s End",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGJta2J6Q2w5LWJGcjQtbzBTQzlndml4c2FSdGpWV3FhdzkxU0JUUVZCTUh3enk1eS1mTk1zOW43YmxDRHc1Nlh1czJfeVQwWThwNGRZbEJGdmdIdnJlcGQ5OHlKUDYzdXdYMTEzdWhVTWZYMU1NdGVEb3pnckhsbklJalVhV2hvV2RERDVoSmpsWUhTNTM1T0hHS0x3RWNLWWx3ZjVaaEg?oc=5",
+      "publishedAt": "2026-08-21T21:07:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Tribunal reduz indenização de US$ 50 milhões contra Alex Jones, do Infowars, por ter alegado falsamente que os assassinatos em Newtown eram uma farsa",
+      "titleOriginal": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
+      "publishedAt": "2026-08-21T20:56:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump pode continuar construindo o salão de festas enquanto a Suprema Corte analisa o recurso",
+      "titleOriginal": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW1LSE5CN0JzNHFvcFFfRDJPMGFIUkFHQWFqU29jT2hXWmFkS3laM1pDTlpIZFVwMnF3Z3otYVYyMGNrVEpFWGhWVngzTUtNUVVlZ24zdGZnQVotbzdkRFVVOGFfYWNFZ0tfT2hWSXZYUHdWTTA2Z2l5SXBtRjN2ZUMyVFMxOGx0bnQ4THdndHdTQ0hIUk54MDNXYkZDaU9SQWVRckl0ZlM1VERhMXgxag?oc=5",
+      "publishedAt": "2026-08-21T20:47:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Denúncias de agressão sexual nas Forças Armadas caíram pelo terceiro ano consecutivo: Pentágono",
@@ -17,60 +52,25 @@
       "publishedAt": "2026-08-21T20:42:44.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Eleição 🗳️",
+      "titleOriginal": "Election 🗳️",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yX01adkJkVnZXVjJKUkdPZWhtZ1JUaXo4bzBRZWdBUXdmRkJYTU1fTERxbmF0TU1hOUg3OUZHUXQyTE9rYmdkTEJWT3Q2WV9IcENqY3JzQ2o0VXhQTldTTw?oc=5",
+      "publishedAt": "2026-08-21T20:33:37.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O controverso advogado Ed Martin deixa o Departamento de Justiça",
+      "title": "O polêmico advogado Ed Martin deixa o Departamento de Justiça",
       "titleOriginal": "Controversial attorney Ed Martin leaving Justice Department",
       "link": "https://thehill.com/homenews/administration/6044316-ed-martin-doj-weaponization/",
       "publishedAt": "2026-08-21T20:12:34.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A Marinha estaria avaliando a possibilidade de renomear um porta-aviões em homenagem a Trump",
-      "titleOriginal": "Navy reportedly weighs renaming aircraft carrier for Trump",
+      "title": "A Marinha estaria considerando batizar um porta-aviões em homenagem a Trump, em vez de homenagear o herói de Black Pearl Harbor",
+      "titleOriginal": "Navy reportedly weighs naming aircraft carrier for Trump instead of Black Pearl Harbor hero",
       "link": "https://thehill.com/policy/defense/6044226-navy-doris-miller-trump-aircraft-carrier/",
       "publishedAt": "2026-08-21T19:52:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A NCAA obteve uma vitória na Justiça em relação à regra de elegibilidade de cinco anos, mas isso está longe de ser o fim dos processos judiciais",
-      "titleOriginal": "NCAA gets win in court on 5-year eligibility rule, but this is hardly the end of the lawsuits",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ?oc=5",
-      "publishedAt": "2026-08-21T19:46:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal de apelação confirma que o principal promotor federal em Albany “não exerce legalmente o cargo”",
-      "titleOriginal": "Appeals court affirms top federal prosecutor in Albany 'not lawfully serving'",
-      "link": "https://thehill.com/regulation/court-battles/6044119-sarcone-albany-appeals-court-not-lawfully-serving/",
-      "publishedAt": "2026-08-21T19:43:05.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Empresa do setor penitenciário fez doação ao comitê de ação política (PAC) de Trump depois que o ICE lhe concedeu contratos no valor de US$ 165 milhões por ano",
-      "titleOriginal": "Prison Firm Donated to Trump’s PAC After ICE Gave It $165 Million a Year in Contracts",
-      "link": "https://www.nytimes.com/2026/08/21/us/politics/geo-group-maga-inc-donations-ice-contracts.html",
-      "publishedAt": "2026-08-21T19:36:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Departamento de Justiça dos EUA e TikTok chegam a um acordo de US$ 400 milhões em processo sobre privacidade infantil",
-      "titleOriginal": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
-      "publishedAt": "2026-08-21T19:29:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump suspende tarifas sobre a importação de carne bovina e segue para a Carolina do Sul para participar de um comício em apoio a Graham",
-      "titleOriginal": "Live updates: Trump lifts beef import tariffs, heads to South Carolina to rally for Graham",
-      "link": "https://thehill.com/homenews/administration/6042837-live-updates-trump-graham-south-carolina-national-debt-white-house-ballroom/",
-      "publishedAt": "2026-08-21T19:10:20.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Drones russos matam 15 pessoas em um shopping center em uma cidade do centro da Ucrânia, segundo autoridades",
-      "titleOriginal": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
-      "publishedAt": "2026-08-21T19:01:00.000Z"
     }
   ]
 }
