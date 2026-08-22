@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:51:30.517Z",
+  "updatedAt": "2026-08-22T23:41:37.506Z",
   "count": 10,
   "items": [
     {
@@ -10,6 +10,13 @@
       "publishedAt": "2026-08-22T22:34:15.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Os gênios por trás do surpreendente avanço da China em IA",
+      "titleOriginal": "The Brains Who Powered China’s Surprising AI Leap",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
+      "publishedAt": "2026-08-22T21:31:47.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "A crescente oposição aos centros de dados agita a disputa pelas eleições de meio de mandato",
       "titleOriginal": "Rising data center backlash shakes up midterm races",
@@ -18,7 +25,7 @@
     },
     {
       "source": "AP News",
-      "title": "O que é preciso saber sobre as tarifas de 50% impostas por Trump aos produtos canadenses que acabaram de entrar em vigor",
+      "title": "O que é preciso saber sobre as tarifas de 50% impostas por Trump aos produtos canadenses, que acabaram de entrar em vigor",
       "titleOriginal": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
       "publishedAt": "2026-08-22T20:37:00.000Z"
@@ -31,8 +38,22 @@
       "publishedAt": "2026-08-22T20:12:18.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Os EUA e o Canadá mergulham ainda mais em uma guerra comercial com novas tarifas, à medida que as negociações fracassam e as acusações se multiplicam",
+      "titleOriginal": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+      "publishedAt": "2026-08-22T19:43:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Departamento de Justiça dos EUA e TikTok chegam a um acordo de US$ 400 milhões em ação judicial sobre privacidade infantil",
+      "titleOriginal": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
+      "publishedAt": "2026-08-22T19:08:26.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Acabar com o imposto da inflação de Biden",
+      "title": "Acabar com o “imposto da inflação” de Biden",
       "titleOriginal": "End the Biden inflation tax",
       "link": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
       "publishedAt": "2026-08-22T19:00:00.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Trump's higher ed shakeup starts a new semester",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQndVLVBPaUhtNVpMaUdvTDVTaWlBODMwYlU3WE5Yemc0cGR6bnFseDFlUkhkWVMwaks0MFZnQ0xxTDIyUmxLX3MteFUxX2IyLVE0SWxZblg0UEhvYXU1UnhNLXM2UG9rdzlEZWRXNjIwY1lmWV9wTDlFcy1WNU5yV3dpakJTZw?oc=5",
       "publishedAt": "2026-08-22T18:44:59.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Suprema Corte autoriza que a construção do salão de festas de Trump prossiga, por enquanto",
-      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed for now",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNmpqMTc0dUdhT3FrSndMNDR5dkdtcS0wWHc1bS1XN0ZoRXBrWmFDQlF0a1duZ01ZYUJBSlRIUDFlcThtcVhpLTJ0b2NhQW4yVjdicVUybkh1SVJ5WU5zUW5NY2lRSlczTXlVb2FYMkdsaG1zV2FydWVBYmRVRTA?oc=5",
-      "publishedAt": "2026-08-22T18:34:49.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Uma guerra comercial entre o Canadá e os EUA aprofunda ainda mais a ruptura de uma aliança que já foi estreita e duradoura",
-      "titleOriginal": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
-      "publishedAt": "2026-08-22T18:31:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
-      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "publishedAt": "2026-08-22T18:20:55.000Z"
     }
   ]
 }
