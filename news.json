@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-08-22T13:43:01.756Z",
+  "updatedAt": "2026-08-22T14:50:53.252Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Os gênios por trás do surpreendente avanço da China em IA",
+      "titleOriginal": "The Brains Who Powered China’s Surprising AI Leap",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
+      "publishedAt": "2026-08-22T14:31:45.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Newsom elogia Trump e a primeira-dama pelos esforços em prol dos jovens em acolhimento familiar",
+      "title": "O Irã afirma que “o mundo reconheceu nossa vitória” sobre os EUA",
+      "titleOriginal": "Iran says 'world approved our victory' over the US",
+      "link": "https://thehill.com/policy/international/6044991-iran-claims-world-accepted-victory-sanctions/",
+      "publishedAt": "2026-08-22T14:25:09.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os democratas encontraram sua mensagem sobre a fronteira. O ICE é outra história.",
+      "titleOriginal": "Democrats found their border message. ICE is another story.",
+      "link": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
+      "publishedAt": "2026-08-22T14:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataques russos e ucranianos matam 10 pessoas, um dia após um ataque mortal com drones a um shopping center",
+      "titleOriginal": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "publishedAt": "2026-08-22T13:56:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Newsom elogia as iniciativas de Trump e da primeira-dama em prol dos jovens em acolhimento familiar",
       "titleOriginal": "Newsom praises Trump Accounts, first lady foster-youth efforts",
       "link": "https://thehill.com/homenews/state-watch/6044956-newsom-praises-trump-investment-accounts/",
       "publishedAt": "2026-08-22T13:09:46.000Z"
@@ -32,45 +60,17 @@
     },
     {
       "source": "Axios",
-      "title": "Trump considera difícil conter os custos",
-      "titleOriginal": "Trump finds tamping down costs to be tricky",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11em1sbVZYLXdyU3JwUWlqQTFneW5qV2lDMFUtSDFnNG1IWUgxcDVhWHdJaE9VbWIyNVV5djl2U0ZkRUo5ZTFjaGNuOGxSSTBjVVNlcGMyczY0ZTVzaXppVWVYdy1OZ0xsdkRSZUVSQ1lreE9MVEE?oc=5",
-      "publishedAt": "2026-08-22T11:01:25.000Z"
+      "title": "A reformulação do ensino superior promovida por Trump dá início a um novo semestre",
+      "titleOriginal": "Trump's higher ed shakeup starts a new semester",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQndVLVBPaUhtNVpMaUdvTDVTaWlBODMwYlU3WE5Yemc0cGR6bnFseDFlUkhkWVMwaks0MFZnQ0xxTDIyUmxLX3MteFUxX2IyLVE0SWxZblg0UEhvYXU1UnhNLXM2UG9rdzlEZWRXNjIwY1lmWV9wTDlFcy1WNU5yV3dpakJTZw?oc=5",
+      "publishedAt": "2026-08-22T11:42:12.000Z"
     },
     {
       "source": "Axios",
-      "title": "“Pare de me manipular!”: Candidato ao Senado pelos democratas da Flórida e presidente do partido têm discussão acalorada sobre socialismo",
-      "titleOriginal": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzJsZjNYNWpfS1MxRFBMdHdod0daTUdyQktjMzBISTdNWUNqbHJIRE5ERE95X2dpa2ZMdEh3Y3lNT0VWS0x4R3hSUWk2Q1dmR244V0c2YVlheW8zY0FmNkZfSFQyazI2Q3NZaDgzQnU4ajVGQ1FXQVZfUUNPeXBXbWtQZTVIQ1JhbnNGeg?oc=5",
-      "publishedAt": "2026-08-22T10:08:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O DHS inicia voos de deportação após o fim das proteções restantes para os beneficiários do TPS",
-      "titleOriginal": "DHS starts deportation flights after end to remaining protections for TPS holders",
-      "link": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/",
-      "publishedAt": "2026-08-22T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Empresa de pesquisa falsa “chocante” coloca o setor sob o microscópio: “Infelizmente, não é surpresa”",
-      "titleOriginal": "'Shocking' fake poll firm puts industry under the microscope: 'Unfortunately not surprising'",
-      "link": "https://thehill.com/homenews/campaign/6042644-median-strategies-fake-polls-trust/",
-      "publishedAt": "2026-08-22T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Principais políticos do Irã pedem o fim da guerra",
-      "titleOriginal": "Iran’s Top Politicians Urge an End to the War",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzB5MjdWWVk1UllCajhNTW9lUXJHdkVsaGR0VWx4aXR1YWstRTA4YjNFWURXcmVITFA3MG80OF9EbHJuWGlFZWVnMkhYMjAzVnVpTTVWYk16UzAtN3p3R3k5Ti1mZE5tZTc2Vl83SHp2dTBqWTZoVFlEcXRKRUlCMzRyWnRFdGplcmp2WHhVWjhnVzJZelE?oc=5",
-      "publishedAt": "2026-08-22T09:15:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O outro salão de festas de Trump: um salão de banquetes de 11.000 pés quadrados em Nova Jersey",
-      "titleOriginal": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTB4XzhyVUl1YUN4NzNYVzRKSzEwRjhndE5tYWt4U1dDTHRNa29kT3NnUkdZUS1JLVpsYmVjczhHdDdKQmtPdWZkRE43eGRoV2czaEpHLWxQZTZUTzdRT1ZiRS1nT2poN3BjQkNmYVpEX2xBTUl4VjBqSWhCeHVMcjhnOENXXzEzZ19YUVF4QzZlWmR3Vmc?oc=5",
-      "publishedAt": "2026-08-22T09:00:00.000Z"
+      "title": "Trump considera que conter os custos é uma tarefa complicada",
+      "titleOriginal": "Trump finds tamping down costs to be tricky",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11em1sbVZYLXdyU3JwUWlqQTFneW5qV2lDMFUtSDFnNG1IWUgxcDVhWHdJaE9VbWIyNVV5djl2U0ZkRUo5ZTFjaGNuOGxSSTBjVVNlcGMyczY0ZTVzaXppVWVYdy1OZ0xsdkRSZUVSQ1lreE9MVEE?oc=5",
+      "publishedAt": "2026-08-22T11:18:58.000Z"
     }
   ]
 }
