@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-22T21:44:02.818Z",
+  "updatedAt": "2026-08-22T22:51:30.517Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump ameaça bombardear Omã caso o país “se intrometa” no conflito com o Irã",
+      "titleOriginal": "Trump Threatens to Bomb Oman if It ‘Gets in the Way’ of Iran Conflict",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWxlTWZCem1LUE5BVGxHUjAyOURTcjRKaHJBb1JOeUkzVHNNYVNZbWgzX01HZ2htY295VzRncW02eWVCNU1WR0p1TndtV2JWeU8zSm1QVnR2aWgxZjhtMXc1c2pWN1Q0SUVKb3lGWFNFYU9aZHk4NG50SzZ0OGM5d3RGNA?oc=5",
+      "publishedAt": "2026-08-22T22:34:15.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A crescente oposição aos centros de dados agita a disputa pelas eleições de meio de mandato",
@@ -11,17 +18,10 @@
     },
     {
       "source": "AP News",
-      "title": "O que é preciso saber sobre as tarifas de 50% impostas por Trump aos produtos canadenses, que acabaram de entrar em vigor",
+      "title": "O que é preciso saber sobre as tarifas de 50% impostas por Trump aos produtos canadenses que acabaram de entrar em vigor",
       "titleOriginal": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
       "publishedAt": "2026-08-22T20:37:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os gênios por trás do surpreendente avanço da China em IA",
-      "titleOriginal": "The Brains Who Powered China’s Surprising AI Leap",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
-      "publishedAt": "2026-08-22T20:31:47.000Z"
     },
     {
       "source": "The Hill",
@@ -32,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Acabar com o “imposto da inflação” de Biden",
+      "title": "Acabar com o imposto da inflação de Biden",
       "titleOriginal": "End the Biden inflation tax",
       "link": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
       "publishedAt": "2026-08-22T19:00:00.000Z"
@@ -46,6 +46,13 @@
     },
     {
       "source": "Axios",
+      "title": "A reformulação do ensino superior promovida por Trump dá início a um novo semestre",
+      "titleOriginal": "Trump's higher ed shakeup starts a new semester",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQndVLVBPaUhtNVpMaUdvTDVTaWlBODMwYlU3WE5Yemc0cGR6bnFseDFlUkhkWVMwaks0MFZnQ0xxTDIyUmxLX3MteFUxX2IyLVE0SWxZblg0UEhvYXU1UnhNLXM2UG9rdzlEZWRXNjIwY1lmWV9wTDlFcy1WNU5yV3dpakJTZw?oc=5",
+      "publishedAt": "2026-08-22T18:44:59.000Z"
+    },
+    {
+      "source": "Axios",
       "title": "Suprema Corte autoriza que a construção do salão de festas de Trump prossiga, por enquanto",
       "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed for now",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNmpqMTc0dUdhT3FrSndMNDR5dkdtcS0wWHc1bS1XN0ZoRXBrWmFDQlF0a1duZ01ZYUJBSlRIUDFlcThtcVhpLTJ0b2NhQW4yVjdicVUybkh1SVJ5WU5zUW5NY2lRSlczTXlVb2FYMkdsaG1zV2FydWVBYmRVRTA?oc=5",
@@ -53,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "Uma guerra comercial entre o Canadá e os EUA agrava ainda mais a ruptura de uma aliança que antes era estreita e duradoura",
+      "title": "Uma guerra comercial entre o Canadá e os EUA aprofunda ainda mais a ruptura de uma aliança que já foi estreita e duradoura",
       "titleOriginal": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
       "publishedAt": "2026-08-22T18:31:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
       "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
       "publishedAt": "2026-08-22T18:20:55.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Guarda Nacional da Louisiana encerrará sua missão em Nova Orleans",
-      "titleOriginal": "Louisiana National Guard to end New Orleans deployment",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckJjb1R5RV9HcjVjVVV0RjNZZmV5aUQ3eTlFRmFCU0RvV1ozWFpLR1Z0b3l4Z0dSUndvX29VQzFXa0dfb0xYRGZoVVU1bDR1OGRwd2ZUeFZTSjhPYV9UdjY3QktDb0EyaHd4bTRJN3BWeWd2a05zcG9aeG1Ub0lsVk1XaXk5Z1JXVjcwMUtyQS1mVW1OeFZfMUVqMkF4Uzdk?oc=5",
-      "publishedAt": "2026-08-22T18:07:33.000Z"
     }
   ]
 }
