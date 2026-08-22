@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-22T19:02:07.058Z",
+  "updatedAt": "2026-08-22T20:52:17.421Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "O Serviço Postal dos EUA publica norma para tornar mais rigorosos os requisitos para o voto por correspondência, apesar de os tribunais tentarem impedir a medida",
+      "titleOriginal": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
+      "link": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
+      "publishedAt": "2026-08-22T20:12:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Acabar com o “imposto da inflação” de Biden",
+      "titleOriginal": "End the Biden inflation tax",
+      "link": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
+      "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Por dentro do colapso de um marketplace do movimento MAGA apoiado por Trump Jr.",
-      "titleOriginal": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M?oc=5",
-      "publishedAt": "2026-08-22T18:34:42.000Z"
+      "title": "O que está sendo afetado pelas novas tarifas entre os EUA e o Canadá",
+      "titleOriginal": "What’s Getting Hit With the New U.S.-Canada Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUg1eloyT1dmUWptZU4wNUlmcXNpaE1ZTnBNZUViRURSSF8yc1BzUUtna0dGdk8xV3BGaERnelZGMk5UUGVxRUxnWGI0Y3FvbXhPaTJLUXZsQTF5SkF2REZPdWlHRXIyTE9FQThRNC1kTkhhelRxdnQwX3poMTZuNWNvbktoRlh2WnpRMHpZblF4eE82bzIw?oc=5",
+      "publishedAt": "2026-08-22T18:59:00.000Z"
     },
     {
       "source": "AP News",
@@ -31,22 +45,15 @@
       "publishedAt": "2026-08-22T17:33:26.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Correios divulgam plano definitivo para restringir votos por correspondência",
-      "titleOriginal": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-      "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "publishedAt": "2026-08-22T17:31:21.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Ataques russos e ucranianos matam 10 pessoas, um dia após um ataque mortal com drones a um shopping center",
-      "titleOriginal": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
-      "publishedAt": "2026-08-22T16:41:00.000Z"
+      "title": "Palestinos em Gaza vasculham o lixo em busca de materiais para queimar e preparar refeições, em fotos",
+      "titleOriginal": "Palestinians in Gaza scavenge trash for things to burn to cook meals, in photos",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmk2V0FSWWNnbkpsVExybkVsc3d2eEdibUVfYTUtNXBycDdSTHQwLUFmbE9yWEtYZVdBMFMxbkZvZmJsZjM2bFN3LVUxSDhlRG5jOUtLWW40UDFGejhjdlpFN0J5TVlDazRUSDJyYTd6bzAyc3l5S1QzY0ZCOWRyNjhhb1lSYmZuc0UzNEJuTG1tU3cyVGNlR1FBZjRMSzJSVHhNa09DbzZVVWdicnBIbFFzSXY?oc=5",
+      "publishedAt": "2026-08-22T16:35:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Canadá anuncia que as tarifas retaliatórias entrarão em vigor a partir de 8 de setembro",
+      "title": "O Canadá anuncia que as tarifas de retaliação entrarão em vigor a partir de 8 de setembro",
       "titleOriginal": "Canada announces retaliatory tariffs to begin Sept. 8",
       "link": "https://thehill.com/policy/international/6045107-canada-retaliates-us-tariffs/",
       "publishedAt": "2026-08-22T16:27:29.000Z"
@@ -56,21 +63,14 @@
       "title": "Negociações comerciais entre EUA e Canadá fracassam; tarifas massivas entrarão em vigor",
       "titleOriginal": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dC01N3QxR0MtazY3UjJEMUlZdjVNV3NqR3NsSGxLczhqSEdhQzJkZXdzcUdUdUxMUXdWU001QXg0ZGdjWFdGXzF0Uk1zSEFMbWttVnFGN0h1U1FLWnZLdkEzYW9aNlg0UWt1NG5PZ2JoZWdNNFRLcQ?oc=5",
-      "publishedAt": "2026-08-22T16:01:27.000Z"
+      "publishedAt": "2026-08-22T16:08:45.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Os resultados das eleições desta terça-feira podem significar sérios problemas para os republicanos da Flórida",
-      "titleOriginal": "Tuesday's election results could spell real trouble for Florida Republicans",
-      "link": "https://thehill.com/opinion/campaign/6044156-nixon-upsets-vindman-florida-democrats/",
-      "publishedAt": "2026-08-22T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Juiz federal anula medida de Trump que suspendia o processamento de vistos de imigração de 75 países",
-      "titleOriginal": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
-      "publishedAt": "2026-08-22T15:55:00.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Departamento de Justiça dos EUA e TikTok chegam a acordo de US$ 400 milhões em ação judicial sobre privacidade infantil",
+      "titleOriginal": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
+      "publishedAt": "2026-08-22T16:05:26.000Z"
     }
   ]
 }
