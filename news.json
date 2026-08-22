@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-22T09:02:39.380Z",
+  "updatedAt": "2026-08-22T10:53:02.446Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump ameaça bombardear Omã caso o país “se intrometa” no conflito com o Irã",
+      "titleOriginal": "Trump Threatens to Bomb Oman if It ‘Gets in the Way’ of Iran Conflict",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWxlTWZCem1LUE5BVGxHUjAyOURTcjRKaHJBb1JOeUkzVHNNYVNZbWgzX01HZ2htY295VzRncW02eWVCNU1WR0p1TndtV2JWeU8zSm1QVnR2aWgxZjhtMXc1c2pWN1Q0SUVKb3lGWFNFYU9aZHk4NG50SzZ0OGM5d3RGNA?oc=5",
+      "publishedAt": "2026-08-22T10:34:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O DHS inicia voos de deportação após o fim das proteções restantes para os titulares do TPS",
+      "titleOriginal": "DHS starts deportation flights after end to remaining protections for TPS holders",
+      "link": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/",
+      "publishedAt": "2026-08-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Empresa de pesquisas falsas “chocante” coloca o setor sob o microscópio: “Infelizmente, não é nenhuma surpresa”",
+      "titleOriginal": "'Shocking' fake poll firm puts industry under the microscope: 'Unfortunately not surprising'",
+      "link": "https://thehill.com/homenews/campaign/6042644-median-strategies-fake-polls-trust/",
+      "publishedAt": "2026-08-22T10:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que uma gigante do setor de pagamentos está pagando US$ 7 bilhões pela “Stripe da IA”",
+      "titleOriginal": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREs2TUE3OWFYYXV4Y0lma1VOZG8yZkFxcHpmeGVkSE1mWENZOG1td0JPYkdhMjFvT0dsZXJYY01xaExrT0taVXBLZVJ0QUdUazNMZmhoU3UtM3ZkbzlXVGM1a3dheDV6QUtpZEYzeFRUUU11QmpoN0U0RW9nZWNSd2otNFNpSm4wTlZYTVJqRlNDT1hRS2lNNE1QN2w3Qk0?oc=5",
+      "publishedAt": "2026-08-22T09:08:58.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que o caos nas pesquisas eleitorais pode causar grandes problemas para a política americana",
+      "titleOriginal": "Why Polling Chaos Could Create Big Problems for American Politics",
+      "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
+      "publishedAt": "2026-08-22T09:02:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
+      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
+      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
+      "publishedAt": "2026-08-22T09:02:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O outro salão de festas de Trump: um salão de banquetes de 11.000 pés quadrados em Nova Jersey",
+      "titleOriginal": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTB4XzhyVUl1YUN4NzNYVzRKSzEwRjhndE5tYWt4U1dDTHRNa29kT3NnUkdZUS1JLVpsYmVjczhHdDdKQmtPdWZkRE43eGRoV2czaEpHLWxQZTZUTzdRT1ZiRS1nT2poN3BjQkNmYVpEX2xBTUl4VjBqSWhCeHVMcjhnOENXXzEzZ19YUVF4QzZlWmR3Vmc?oc=5",
+      "publishedAt": "2026-08-22T09:00:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Ataques russos à Ucrânia matam duas pessoas um dia após ataque mortal com drone a um shopping center",
@@ -11,66 +60,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Com as eleições intermediárias se aproximando, Trump implora aos republicanos: finjam que estou na cédula eleitoral!",
+      "title": "Com as eleições intermediárias se aproximando, Trump implora aos republicanos: “Finjam que estou na cédula eleitoral!”",
       "titleOriginal": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
       "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
       "publishedAt": "2026-08-22T07:12:01.000Z"
     },
     {
       "source": "Axios",
-      "title": "“Pare de manipular a minha mente!”: O candidato ao Senado pelos democratas da Flórida e o presidente do partido têm uma conversa acalorada sobre o socialismo",
-      "titleOriginal": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzJsZjNYNWpfS1MxRFBMdHdod0daTUdyQktjMzBISTdNWUNqbHJIRE5ERE95X2dpa2ZMdEh3Y3lNT0VWS0x4R3hSUWk2Q1dmR244V0c2YVlheW8zY0FmNkZfSFQyazI2Q3NZaDgzQnU4ajVGQ1FXQVZfUUNPeXBXbWtQZTVIQ1JhbnNGeg?oc=5",
-      "publishedAt": "2026-08-22T07:06:03.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Negociações comerciais entre EUA e Canadá fracassam; tarifas massivas entrarão em vigor",
+      "title": "Negociações comerciais entre EUA e Canadá fracassam; tarifas maciças entrarão em vigor",
       "titleOriginal": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dC01N3QxR0MtazY3UjJEMUlZdjVNV3NqR3NsSGxLczhqSEdhQzJkZXdzcUdUdUxMUXdWU001QXg0ZGdjWFdGXzF0Uk1zSEFMbWttVnFGN0h1U1FLWnZLdkEzYW9aNlg0UWt1NG5PZ2JoZWdNNFRLcQ?oc=5",
       "publishedAt": "2026-08-22T05:04:01.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Departamento de Justiça e TikTok chegam a um acordo de US$ 400 milhões em ação judicial sobre privacidade infantil",
-      "titleOriginal": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
-      "publishedAt": "2026-08-22T03:59:26.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA impõem tarifas de 50% sobre US$ 20 bilhões em produtos canadenses, e o Canadá afirma que tomará medidas de retaliação",
-      "titleOriginal": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-      "publishedAt": "2026-08-22T03:43:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Governo de Trump quer impedir a ABA de supervisionar as faculdades de Direito: Relatório",
-      "titleOriginal": "Trump administration wants to deny ABA ability to oversee law schools: Report",
-      "link": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
-      "publishedAt": "2026-08-22T03:29:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Leavitt passará a trabalhar em um super PAC ligado a Trump após deixar a Casa Branca",
-      "titleOriginal": "Leavitt to work at Trump-affiliated super PAC following White House departure",
-      "link": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
-      "publishedAt": "2026-08-22T03:24:46.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tentamos fazer a cobertura de um evento de campanha de Tom Kean. Alguém chamou a polícia.",
-      "titleOriginal": "We Tried to Cover a Tom Kean Campaign Event. Someone Called the Police.",
-      "link": "https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html",
-      "publishedAt": "2026-08-22T03:13:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Correios publicam plano definitivo para restringir o voto por correspondência",
-      "titleOriginal": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-      "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "publishedAt": "2026-08-22T02:37:14.000Z"
     }
   ]
 }
