@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-22T16:54:33.933Z",
+  "updatedAt": "2026-08-22T17:43:53.423Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Por trás do colapso de um marketplace do movimento MAGA apoiado por Trump Jr.",
+      "titleOriginal": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M?oc=5",
+      "publishedAt": "2026-08-22T17:40:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump critica Greene e Massie após se reunir com Tucker Carlson",
+      "titleOriginal": "Trump bashes Greene, Massie after meeting with Tucker Carlson",
+      "link": "https://thehill.com/homenews/administration/6045142-trump-insults-republicans-over-beef/",
+      "publishedAt": "2026-08-22T17:33:26.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Correios divulgam plano definitivo para restringir votos por correspondência",
+      "titleOriginal": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "publishedAt": "2026-08-22T17:31:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataques russos e ucranianos matam 10 pessoas, um dia após um ataque mortal com drones a um shopping center",
+      "titleOriginal": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "publishedAt": "2026-08-22T16:41:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
@@ -17,6 +45,13 @@
       "publishedAt": "2026-08-22T16:27:29.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Negociações comerciais entre os EUA e o Canadá fracassam; tarifas em grande escala entrarão em vigor",
+      "titleOriginal": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dC01N3QxR0MtazY3UjJEMUlZdjVNV3NqR3NsSGxLczhqSEdhQzJkZXdzcUdUdUxMUXdWU001QXg0ZGdjWFdGXzF0Uk1zSEFMbWttVnFGN0h1U1FLWnZLdkEzYW9aNlg0UWt1NG5PZ2JoZWdNNFRLcQ?oc=5",
+      "publishedAt": "2026-08-22T16:01:27.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Os resultados das eleições desta terça-feira podem significar sérios problemas para os republicanos da Flórida",
       "titleOriginal": "Tuesday's election results could spell real trouble for Florida Republicans",
@@ -24,11 +59,11 @@
       "publishedAt": "2026-08-22T16:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Negociações comerciais entre EUA e Canadá fracassam; tarifas massivas entrarão em vigor",
-      "titleOriginal": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dC01N3QxR0MtazY3UjJEMUlZdjVNV3NqR3NsSGxLczhqSEdhQzJkZXdzcUdUdUxMUXdWU001QXg0ZGdjWFdGXzF0Uk1zSEFMbWttVnFGN0h1U1FLWnZLdkEzYW9aNlg0UWt1NG5PZ2JoZWdNNFRLcQ?oc=5",
-      "publishedAt": "2026-08-22T15:58:39.000Z"
+      "source": "AP News",
+      "title": "Juiz federal anula medida de Trump que suspendia o processamento de vistos de imigração de 75 países",
+      "titleOriginal": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
+      "publishedAt": "2026-08-22T15:55:00.000Z"
     },
     {
       "source": "AP News",
@@ -36,41 +71,6 @@
       "titleOriginal": "Nancy Kassebaum Baker, former US senator from Kansas, dies at 94",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGtOTmFBNE13QWtYajRFYlBQYVBtM0Q1VVdJYnBnVUdudEo1RnhlVUZ5LVo3cUYyX2wwdEc3SzJBa2xubnF6VXBzcm9uTWtuazBOVE1yOUwtY1ctY1I5bFZMajZMbGY2bUJ5UzFsbk9NT1pkbmQ5UEVSd1d4eDU0em1zdFg0ME5iY21RbTJkZmhoNmlWMlZ3b293VnhKX3c?oc=5",
       "publishedAt": "2026-08-22T15:40:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal decide contra a proibição de vistos imposta por Trump a 75 países",
-      "titleOriginal": "Federal judge rules against Trump's 75-country visa ban",
-      "link": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
-      "publishedAt": "2026-08-22T15:38:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Plano do Smithsonian para o Museu Latino evitaria votação no Congresso",
-      "titleOriginal": "Smithsonian Plan for Latino Museum Would Avoid Vote in Congress",
-      "link": "https://www.nytimes.com/2026/08/21/arts/design/smithsonian-museum-american-latino-building.html",
-      "publishedAt": "2026-08-22T15:23:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os EUA estão empregando a estratégia errada para pressionar o Irã",
-      "titleOriginal": "The US is using the wrong measure of pressure on Iran",
-      "link": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
-      "publishedAt": "2026-08-22T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã afirma que “o mundo reconheceu nossa vitória” sobre os EUA",
-      "titleOriginal": "Iran says 'world approved our victory' over the US",
-      "link": "https://thehill.com/policy/international/6044991-iran-claims-world-accepted-victory-sanctions/",
-      "publishedAt": "2026-08-22T14:25:09.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os democratas encontraram sua mensagem sobre a fronteira. O ICE é outra história.",
-      "titleOriginal": "Democrats found their border message. ICE is another story.",
-      "link": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
-      "publishedAt": "2026-08-22T14:00:00.000Z"
     }
   ]
 }
