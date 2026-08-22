@@ -1,31 +1,52 @@
 {
-  "updatedAt": "2026-08-22T07:45:29.125Z",
+  "updatedAt": "2026-08-22T09:02:39.380Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Ataques russos à Ucrânia matam duas pessoas um dia após ataque mortal com drone a um shopping center",
+      "titleOriginal": "Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "publishedAt": "2026-08-22T07:20:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Com as eleições intermediárias se aproximando, Trump implora aos republicanos: “Finjam que estou na cédula eleitoral!”",
+      "title": "Com as eleições intermediárias se aproximando, Trump implora aos republicanos: finjam que estou na cédula eleitoral!",
       "titleOriginal": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
       "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
       "publishedAt": "2026-08-22T07:12:01.000Z"
     },
     {
       "source": "Axios",
+      "title": "“Pare de manipular a minha mente!”: O candidato ao Senado pelos democratas da Flórida e o presidente do partido têm uma conversa acalorada sobre o socialismo",
+      "titleOriginal": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzJsZjNYNWpfS1MxRFBMdHdod0daTUdyQktjMzBISTdNWUNqbHJIRE5ERE95X2dpa2ZMdEh3Y3lNT0VWS0x4R3hSUWk2Q1dmR244V0c2YVlheW8zY0FmNkZfSFQyazI2Q3NZaDgzQnU4ajVGQ1FXQVZfUUNPeXBXbWtQZTVIQ1JhbnNGeg?oc=5",
+      "publishedAt": "2026-08-22T07:06:03.000Z"
+    },
+    {
+      "source": "Axios",
       "title": "Negociações comerciais entre EUA e Canadá fracassam; tarifas massivas entrarão em vigor",
       "titleOriginal": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dC01N3QxR0MtazY3UjJEMUlZdjVNV3NqR3NsSGxLczhqSEdhQzJkZXdzcUdUdUxMUXdWU001QXg0ZGdjWFdGXzF0Uk1zSEFMbWttVnFGN0h1U1FLWnZLdkEzYW9aNlg0UWt1NG5PZ2JoZWdNNFRLcQ?oc=5",
-      "publishedAt": "2026-08-22T04:52:09.000Z"
+      "publishedAt": "2026-08-22T05:04:01.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Departamento de Justiça e TikTok chegam a um acordo de US$ 400 milhões em ação judicial sobre privacidade infantil",
+      "titleOriginal": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
+      "publishedAt": "2026-08-22T03:59:26.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os EUA impõem tarifas de 50% sobre produtos canadenses no valor de US$ 20 bilhões, e o Canadá afirma que tomará medidas de retaliação",
+      "title": "Os EUA impõem tarifas de 50% sobre US$ 20 bilhões em produtos canadenses, e o Canadá afirma que tomará medidas de retaliação",
       "titleOriginal": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-      "publishedAt": "2026-08-22T04:51:00.000Z"
+      "publishedAt": "2026-08-22T03:43:36.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Governo de Trump quer impedir a ABA de supervisionar as faculdades de Direito: reportagem",
+      "title": "Governo de Trump quer impedir a ABA de supervisionar as faculdades de Direito: Relatório",
       "titleOriginal": "Trump administration wants to deny ABA ability to oversee law schools: Report",
       "link": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
       "publishedAt": "2026-08-22T03:29:50.000Z"
@@ -46,31 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Correios divulgam plano definitivo para restringir o voto por correspondência",
+      "title": "Correios publicam plano definitivo para restringir o voto por correspondência",
       "titleOriginal": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
       "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
       "publishedAt": "2026-08-22T02:37:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Secretário do Exército cogita deixar o cargo por volta do final do ano em meio a tensões com Hegseth",
-      "titleOriginal": "Army Secretary eyes exit around end of year amid Hegseth tensions",
-      "link": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/",
-      "publishedAt": "2026-08-22T02:26:13.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Inspirando-se em suas raízes na região do Cinturão da Ferrugem, Vance faz campanha pelos republicanos",
-      "titleOriginal": "Drawing on His Rust Belt Roots, Vance Campaigns for Republicans",
-      "link": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html",
-      "publishedAt": "2026-08-22T02:19:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tribunal reduz indenização de US$ 50 milhões contra Alex Jones por ter alegado falsamente que os assassinatos de Sandy Hook eram uma farsa",
-      "titleOriginal": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
-      "publishedAt": "2026-08-22T02:17:00.000Z"
     }
   ]
 }
