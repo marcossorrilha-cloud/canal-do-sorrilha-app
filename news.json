@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-22T14:50:53.252Z",
+  "updatedAt": "2026-08-22T15:44:05.195Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
+      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
+      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
+      "publishedAt": "2026-08-22T15:38:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz federal decide contra a proibição de vistos imposta por Trump a 75 países",
+      "titleOriginal": "Federal judge rules against Trump's 75-country visa ban",
+      "link": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
+      "publishedAt": "2026-08-22T15:38:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Plano do Smithsonian para o Museu Latino evitaria votação no Congresso",
+      "titleOriginal": "Smithsonian Plan for Latino Museum Would Avoid Vote in Congress",
+      "link": "https://www.nytimes.com/2026/08/21/arts/design/smithsonian-museum-american-latino-building.html",
+      "publishedAt": "2026-08-22T15:23:20.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os EUA estão empregando a medida errada de pressão sobre o Irã",
+      "titleOriginal": "The US is using the wrong measure of pressure on Iran",
+      "link": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
+      "publishedAt": "2026-08-22T15:00:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Os gênios por trás do surpreendente avanço da China em IA",
@@ -39,38 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
-      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "publishedAt": "2026-08-22T13:07:41.000Z"
-    },
-    {
-      "source": "New York Times",
       "title": "Por que o caos nas pesquisas eleitorais pode causar grandes problemas para a política americana",
       "titleOriginal": "Why Polling Chaos Could Create Big Problems for American Politics",
       "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
       "publishedAt": "2026-08-22T12:50:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os últimos dias do LIV Golf: contas pendentes e uma corrida por dinheiro",
-      "titleOriginal": "The Final Days of LIV Golf: Unpaid Bills and a Scramble for Cash",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43MHoyYjFYYnBEOGhGdE5NcFB1TTBubjFiRHA2S2Y1eXBCa2xnTTcwMi1yNVU3R09JS3BxZEczeEtkLW1qU080aXl2NnNTRnFpYU5Ia3BabG1qeTBjaG5GNjAyUTRqUQ?oc=5",
-      "publishedAt": "2026-08-22T12:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A reformulação do ensino superior promovida por Trump dá início a um novo semestre",
-      "titleOriginal": "Trump's higher ed shakeup starts a new semester",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQndVLVBPaUhtNVpMaUdvTDVTaWlBODMwYlU3WE5Yemc0cGR6bnFseDFlUkhkWVMwaks0MFZnQ0xxTDIyUmxLX3MteFUxX2IyLVE0SWxZblg0UEhvYXU1UnhNLXM2UG9rdzlEZWRXNjIwY1lmWV9wTDlFcy1WNU5yV3dpakJTZw?oc=5",
-      "publishedAt": "2026-08-22T11:42:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump considera que conter os custos é uma tarefa complicada",
-      "titleOriginal": "Trump finds tamping down costs to be tricky",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11em1sbVZYLXdyU3JwUWlqQTFneW5qV2lDMFUtSDFnNG1IWUgxcDVhWHdJaE9VbWIyNVV5djl2U0ZkRUo5ZTFjaGNuOGxSSTBjVVNlcGMyczY0ZTVzaXppVWVYdy1OZ0xsdkRSZUVSQ1lreE9MVEE?oc=5",
-      "publishedAt": "2026-08-22T11:18:58.000Z"
     }
   ]
 }
