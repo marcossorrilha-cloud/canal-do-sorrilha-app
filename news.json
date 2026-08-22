@@ -1,38 +1,59 @@
 {
-  "updatedAt": "2026-08-22T11:42:23.933Z",
+  "updatedAt": "2026-08-22T13:43:01.756Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Os gênios por trás do surpreendente avanço da China em IA",
-      "titleOriginal": "The Brains Who Powered China’s Surprising AI Leap",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
-      "publishedAt": "2026-08-22T11:31:43.000Z"
+      "source": "The Hill",
+      "title": "Newsom elogia Trump e a primeira-dama pelos esforços em prol dos jovens em acolhimento familiar",
+      "titleOriginal": "Newsom praises Trump Accounts, first lady foster-youth efforts",
+      "link": "https://thehill.com/homenews/state-watch/6044956-newsom-praises-trump-investment-accounts/",
+      "publishedAt": "2026-08-22T13:09:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
+      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
+      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
+      "publishedAt": "2026-08-22T13:07:41.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que o caos nas pesquisas eleitorais pode causar grandes problemas para a política americana",
+      "titleOriginal": "Why Polling Chaos Could Create Big Problems for American Politics",
+      "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
+      "publishedAt": "2026-08-22T12:50:24.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Trump ameaça bombardear Omã caso o país “se intrometa” no conflito com o Irã",
-      "titleOriginal": "Trump Threatens to Bomb Oman if It ‘Gets in the Way’ of Iran Conflict",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWxlTWZCem1LUE5BVGxHUjAyOURTcjRKaHJBb1JOeUkzVHNNYVNZbWgzX01HZ2htY295VzRncW02eWVCNU1WR0p1TndtV2JWeU8zSm1QVnR2aWgxZjhtMXc1c2pWN1Q0SUVKb3lGWFNFYU9aZHk4NG50SzZ0OGM5d3RGNA?oc=5",
-      "publishedAt": "2026-08-22T10:34:12.000Z"
+      "title": "Os últimos dias do LIV Golf: contas pendentes e uma corrida por dinheiro",
+      "titleOriginal": "The Final Days of LIV Golf: Unpaid Bills and a Scramble for Cash",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43MHoyYjFYYnBEOGhGdE5NcFB1TTBubjFiRHA2S2Y1eXBCa2xnTTcwMi1yNVU3R09JS3BxZEczeEtkLW1qU080aXl2NnNTRnFpYU5Ia3BabG1qeTBjaG5GNjAyUTRqUQ?oc=5",
+      "publishedAt": "2026-08-22T12:30:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "“Pare de me manipular!”: O candidato ao Senado pelos democratas da Flórida e o presidente do partido têm uma conversa acalorada sobre socialismo",
+      "title": "Trump considera difícil conter os custos",
+      "titleOriginal": "Trump finds tamping down costs to be tricky",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11em1sbVZYLXdyU3JwUWlqQTFneW5qV2lDMFUtSDFnNG1IWUgxcDVhWHdJaE9VbWIyNVV5djl2U0ZkRUo5ZTFjaGNuOGxSSTBjVVNlcGMyczY0ZTVzaXppVWVYdy1OZ0xsdkRSZUVSQ1lreE9MVEE?oc=5",
+      "publishedAt": "2026-08-22T11:01:25.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "“Pare de me manipular!”: Candidato ao Senado pelos democratas da Flórida e presidente do partido têm discussão acalorada sobre socialismo",
       "titleOriginal": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzJsZjNYNWpfS1MxRFBMdHdod0daTUdyQktjMzBISTdNWUNqbHJIRE5ERE95X2dpa2ZMdEh3Y3lNT0VWS0x4R3hSUWk2Q1dmR244V0c2YVlheW8zY0FmNkZfSFQyazI2Q3NZaDgzQnU4ajVGQ1FXQVZfUUNPeXBXbWtQZTVIQ1JhbnNGeg?oc=5",
       "publishedAt": "2026-08-22T10:08:11.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O DHS inicia voos de deportação após o fim das proteções restantes para os titulares do TPS",
+      "title": "O DHS inicia voos de deportação após o fim das proteções restantes para os beneficiários do TPS",
       "titleOriginal": "DHS starts deportation flights after end to remaining protections for TPS holders",
       "link": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/",
       "publishedAt": "2026-08-22T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Empresa de pesquisas falsas “chocante” coloca o setor sob o microscópio: “Infelizmente, não é nenhuma surpresa”",
+      "title": "Empresa de pesquisa falsa “chocante” coloca o setor sob o microscópio: “Infelizmente, não é surpresa”",
       "titleOriginal": "'Shocking' fake poll firm puts industry under the microscope: 'Unfortunately not surprising'",
       "link": "https://thehill.com/homenews/campaign/6042644-median-strategies-fake-polls-trust/",
       "publishedAt": "2026-08-22T10:00:00.000Z"
@@ -43,27 +64,6 @@
       "titleOriginal": "Iran’s Top Politicians Urge an End to the War",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzB5MjdWWVk1UllCajhNTW9lUXJHdkVsaGR0VWx4aXR1YWstRTA4YjNFWURXcmVITFA3MG80OF9EbHJuWGlFZWVnMkhYMjAzVnVpTTVWYk16UzAtN3p3R3k5Ti1mZE5tZTc2Vl83SHp2dTBqWTZoVFlEcXRKRUlCMzRyWnRFdGplcmp2WHhVWjhnVzJZelE?oc=5",
       "publishedAt": "2026-08-22T09:15:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que uma gigante do setor de pagamentos está pagando US$ 7 bilhões pela “Stripe da IA”",
-      "titleOriginal": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREs2TUE3OWFYYXV4Y0lma1VOZG8yZkFxcHpmeGVkSE1mWENZOG1td0JPYkdhMjFvT0dsZXJYY01xaExrT0taVXBLZVJ0QUdUazNMZmhoU3UtM3ZkbzlXVGM1a3dheDV6QUtpZEYzeFRUUU11QmpoN0U0RW9nZWNSd2otNFNpSm4wTlZYTVJqRlNDT1hRS2lNNE1QN2w3Qk0?oc=5",
-      "publishedAt": "2026-08-22T09:08:58.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que o caos nas pesquisas eleitorais pode causar grandes problemas para a política americana",
-      "titleOriginal": "Why Polling Chaos Could Create Big Problems for American Politics",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
-      "publishedAt": "2026-08-22T09:02:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o bilionário Joe Lonsdale moldou a política de Trump para os sem-teto",
-      "titleOriginal": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "publishedAt": "2026-08-22T09:02:19.000Z"
     },
     {
       "source": "Wall Street Journal",
