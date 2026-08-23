@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-23T15:48:47.039Z",
+  "updatedAt": "2026-08-23T16:56:19.754Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o domínio do presidente sobre o poder",
+      "titleOriginal": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
+      "publishedAt": "2026-08-23T16:12:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Johnson afirma que Kushner “não está diretamente envolvido” no governo Trump após notícias de um encontro com Jeffries",
+      "titleOriginal": "Johnson says Kushner 'not directly involved' in Trump administration after reported meeting with Jeffries",
+      "link": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
+      "publishedAt": "2026-08-23T16:05:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O segundo turno acirrado para o governo de Oklahoma põe à prova o poder de influência de Trump",
+      "titleOriginal": "Bitter Oklahoma governor's runoff tests Trump's endorsement power",
+      "link": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/",
+      "publishedAt": "2026-08-23T16:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pete Buttigieg retorna à Carolina do Sul enquanto avalia a possibilidade de concorrer novamente à Casa Branca",
+      "titleOriginal": "Pete Buttigieg returns to South Carolina as he weighs another White House run",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn?oc=5",
+      "publishedAt": "2026-08-23T15:34:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Pence afirma que os EUA devem se preparar para uma ação “inevitável” contra o Irã",
@@ -18,59 +46,31 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Síria e Israel tomam medidas para amenizar as tensões após o bombardeio à base aérea",
+      "title": "Exclusivo: Síria e Israel tomam medidas para acalmar as tensões após o bombardeio à base aérea",
       "titleOriginal": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SRlZtM2lQRXFzZzFMZVpQN0R2cXZyWmREYktpT0JMemNoU2Q2bVViSjB6N1BqMEYyVFhhUmhxTDE4X3JHdmR5cUdXNlBKLUUxOUc2dHVKMlBiT2o5bm91TnU1Zmx2dk1xR1paXzZyay1mWDFSbEx3?oc=5",
       "publishedAt": "2026-08-23T15:01:31.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Está doente demais para trabalhar? Os estados precisam acertar suas novas regras do Medicaid.",
+      "title": "Está doente demais para trabalhar? Os estados precisam definir corretamente as novas regras do Medicaid.",
       "titleOriginal": "Too sick to work? States must get their new Medicaid rules right.",
       "link": "https://thehill.com/opinion/healthcare/6044019-cancer-patients-medicaid-coverage/",
       "publishedAt": "2026-08-23T15:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Scott afirma que “não há dúvida” de que Darline Graham está qualificada para ser senadora",
+      "title": "Scott afirma que “não há dúvida de que” Darline Graham está qualificada para ser senadora",
       "titleOriginal": "Scott says ‘there's no doubt’ Darline Graham is qualified to be senator",
       "link": "https://thehill.com/homenews/campaign/6045624-tim-scott-defends-darline-graham/",
       "publishedAt": "2026-08-23T14:59:44.000Z"
     },
     {
       "source": "AP News",
-      "title": "Carney alertou sobre a coerção econômica. Agora, Trump está colocando à prova o primeiro-ministro canadense",
-      "titleOriginal": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
-      "publishedAt": "2026-08-23T14:36:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Veja como a China superou o choque do petróleo iraniano",
-      "titleOriginal": "See How China Weathered the Iran Oil Shock",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
-      "publishedAt": "2026-08-23T14:31:55.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todo mundo zombou",
-      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
-      "publishedAt": "2026-08-23T14:19:28.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A China adia repentinamente o lançamento da ambiciosa missão lunar Chang’e-7",
-      "titleOriginal": "China abruptly postpones ambitious Chang’e-7 lunar mission launch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?oc=5",
-      "publishedAt": "2026-08-23T13:39:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Um trabalho aparentemente comum tornou-se muito mais perigoso nos últimos 10 anos, segundo dados federais",
-      "titleOriginal": "One seemingly ordinary job has gotten much more deadly over the past 10 years, federal data shows",
-      "link": "https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows/",
-      "publishedAt": "2026-08-23T13:33:00.000Z"
+      "title": "A polícia indonésia prende 72 pessoas suspeitas de provocar incêndios florestais",
+      "titleOriginal": "Indonesian police arrest 72 people suspected of starting forest fires",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmk4RXNwQ3ZEcE83VDdoSXlkY1loZHpVS180SnNOQXBLb0E3dldtcm0tVWQ5ZXZmYUF6dEM3Ml9mdHotUE9PVlU5dUUxTVFuU3V6NFJwbkprMEpxUkJyNlk3S2pLZl9STjV6aFlLbFRYSG9BNzFzRVoyS0l0aUxzRU4wYlBZYkZ1SHZWak9kYjJOV3lkQ19QbzN2aGsxZ0NQNXhPd3o4bDU?oc=5",
+      "publishedAt": "2026-08-23T14:50:00.000Z"
     }
   ]
 }
