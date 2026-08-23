@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-08-23T13:45:13.049Z",
+  "updatedAt": "2026-08-23T14:53:37.044Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
+      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
+      "publishedAt": "2026-08-23T14:19:28.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A China adia repentinamente o lançamento da ambiciosa missão lunar Chang’e-7",
+      "titleOriginal": "China abruptly postpones ambitious Chang’e-7 lunar mission launch",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?oc=5",
+      "publishedAt": "2026-08-23T13:39:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Um trabalho aparentemente comum tornou-se muito mais perigoso nos últimos 10 anos, segundo dados federais",
+      "titleOriginal": "One seemingly ordinary job has gotten much more deadly over the past 10 years, federal data shows",
+      "link": "https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows/",
+      "publishedAt": "2026-08-23T13:33:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Eleitores indignados de Ohio podem transformar o estado em “roxo” novamente",
+      "title": "Eleitores insatisfeitos de Ohio podem transformar o estado em “roxo” novamente",
       "titleOriginal": "Angry Ohio Voters Could Turn Their State Purple Again",
       "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
       "publishedAt": "2026-08-23T13:19:38.000Z"
@@ -32,14 +53,14 @@
     },
     {
       "source": "Axios",
-      "title": "As câmeras Flock passam a figurar, ao lado dos data centers, como um dos principais temores relacionados à IA nas eleições intermediárias de 2026",
+      "title": "As câmeras Flock passam a ser consideradas, junto com os data centers, uma das principais ameaças relacionadas à IA nas eleições de meio de mandato de 2026",
       "titleOriginal": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5",
-      "publishedAt": "2026-08-23T11:21:49.000Z"
+      "publishedAt": "2026-08-23T11:43:04.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o domínio do presidente sobre o poder",
+      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o controle do presidente sobre o poder",
       "titleOriginal": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
       "publishedAt": "2026-08-23T10:19:00.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
       "link": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/",
       "publishedAt": "2026-08-23T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Rússia testa prontidão para nova rodada de mobilização militar",
-      "titleOriginal": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
-      "publishedAt": "2026-08-23T09:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Jeffries e Kushner se reúnem em particular enquanto as críticas nas eleições de meio de mandato se intensificam",
-      "titleOriginal": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
-      "publishedAt": "2026-08-23T09:02:04.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As eleições intermediárias parecem uma repetição de 2006",
-      "titleOriginal": "The Midterms Feel Like 2006 All Over Again",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
-      "publishedAt": "2026-08-23T09:01:57.000Z"
     }
   ]
 }
