@@ -1,52 +1,38 @@
 {
-  "updatedAt": "2026-08-23T03:30:13.308Z",
+  "updatedAt": "2026-08-23T05:15:59.787Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Tribunal de Hong Kong condena ativistas que organizaram vigílias em memória de Tiananmen",
-      "titleOriginal": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWpYVjNvUkVDX0MtQk9RN1hCbmFEVnpCdXo5OXk3Qkg5VEtUdE96cUZMNUhLQTRzQlh2N1EzeVpQVGxrZ1J2dnJQY2JRRXpCNTIxal84VGI0Vld3QjJrVGRCYTNNMDJIRWtXcG04VWNWUmFoN0g0cGtnOXM0U0h0bl9nUER1OVVMYVJzZ21KOHNwUVdaX2RTd1o4UWZ1Xzd2d3hsOUJNc3lVQQ?oc=5",
-      "publishedAt": "2026-08-23T02:45:56.000Z"
+      "source": "The Hill",
+      "title": "A NAACP critica as supostas negociações da Marinha para substituir o nome de um herói de guerra em um porta-aviões pelo de Trump",
+      "titleOriginal": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+      "link": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
+      "publishedAt": "2026-08-23T03:09:34.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Trump divulga 1.000 operações com ações realizadas em junho",
       "titleOriginal": "Trump Discloses 1,000 Stock Trades in June",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzUtWUJMb241QlNQYTg4V19PMzhWdnE5cWFEMS1xMjRXYzNJMTJscFp1NVV4NEtqOHdENGdrVzE4X2lWRk5Rd3ctYklnR0QtdUlwR2RBSlFVakJRbnZpOVI5VUdEOGtJdVZFaHFmdkxDVUZleVh0UUZWREN6QjJvbW4tSlNFcURKU0dKZ3RxV3BtS2M?oc=5",
-      "publishedAt": "2026-08-23T00:41:00.000Z"
+      "publishedAt": "2026-08-23T00:42:02.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por dentro do colapso de um marketplace “MAGA” apoiado por Trump Jr.",
-      "titleOriginal": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M?oc=5",
-      "publishedAt": "2026-08-23T00:34:44.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os gênios por trás do surpreendente avanço da China em IA",
-      "titleOriginal": "The Brains Who Powered China’s Surprising AI Leap",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
-      "publishedAt": "2026-08-23T00:31:48.000Z"
+      "title": "Veja como a China superou o choque do petróleo iraniano",
+      "titleOriginal": "See How China Weathered the Iran Oil Shock",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
+      "publishedAt": "2026-08-23T00:01:50.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "A Nvidia está investindo US$ 6 bilhões para criar uma alternativa americana poderosa à IA chinesa",
       "titleOriginal": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-      "publishedAt": "2026-08-23T00:01:18.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "MacKenzie Scott, bilionária filantropa, volta ao seu primeiro amor: a ficção",
-      "titleOriginal": "MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZUR0ZBbHYwTnMzb2tsaF9vYUo3QVhyN2FtVGV5ZXYyQy1NUmh4bk1WMlRtZVB3SjhOaF91VlREQ2Vybk5haEpaS1N4VGQyZXMyd2VNYldXNFI5WVNRUzctd1hVMEdBNW9RQ3F2MFlZRFJWUlBUUTBkVEZmVFR5bzllM1lmUERhVHpGNHF4VnR2UQ?oc=5",
-      "publishedAt": "2026-08-22T23:56:38.000Z"
+      "publishedAt": "2026-08-23T00:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A crescente reação contra os centros de dados agita as disputas eleitorais de meio de mandato",
+      "title": "A crescente oposição aos centros de dados agita a disputa pelas eleições de meio de mandato",
       "titleOriginal": "Rising data center backlash shakes up midterm races",
       "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
       "publishedAt": "2026-08-22T21:00:00.000Z"
@@ -60,17 +46,31 @@
     },
     {
       "source": "The Hill",
-      "title": "O Serviço Postal dos EUA publica norma para tornar mais rigorosos os requisitos para o voto por correspondência, apesar de os tribunais tentarem impedir a medida",
+      "title": "O Serviço Postal dos EUA divulga norma para tornar mais rigorosos os requisitos para o voto por correspondência, apesar de os tribunais tentarem impedir a medida",
       "titleOriginal": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
       "link": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
       "publishedAt": "2026-08-22T20:12:18.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Acabar com o imposto da inflação de Biden",
+      "title": "Acabar com o “imposto da inflação” de Biden",
       "titleOriginal": "End the Biden inflation tax",
       "link": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
       "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O que está sendo afetado pelas novas tarifas entre os EUA e o Canadá",
+      "titleOriginal": "What’s Getting Hit With the New U.S.-Canada Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUg1eloyT1dmUWptZU4wNUlmcXNpaE1ZTnBNZUViRURSSF8yc1BzUUtna0dGdk8xV3BGaERnelZGMk5UUGVxRUxnWGI0Y3FvbXhPaTJLUXZsQTF5SkF2REZPdWlHRXIyTE9FQThRNC1kTkhhelRxdnQwX3poMTZuNWNvbktoRlh2WnpRMHpZblF4eE82bzIw?oc=5",
+      "publishedAt": "2026-08-22T18:59:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Uma guerra comercial entre o Canadá e os EUA aprofunda ainda mais a ruptura de uma aliança que antes era estreita e duradoura",
+      "titleOriginal": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+      "publishedAt": "2026-08-22T18:31:00.000Z"
     }
   ]
 }
