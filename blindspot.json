@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-22T15:44:30.958Z",
-  "slot": "2026-08-22-PM",
+  "updatedAt": "2026-08-23T03:30:34.631Z",
+  "slot": "2026-08-23-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Não foi alcançado acordo nas negociações comerciais entre os EUA e o Canadá, enquanto entram em vigor tarifas de 50%",
-      "titleOriginal": "No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect",
+      "title": "O Canadá estabelece tarifas retaliatórias em resposta às tarifas de 50% impostas pelos EUA, após o fracasso das negociações comerciais",
+      "titleOriginal": "Canada sets retaliatory tariffs in response to 50% U.S. levies as trade talks fail",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUpHSzVFU2ZTNXZoRGw0MVZQVnRLR2lDdU9UeUdveVBZTzhzSm04UHdBUGZ1SUJsczZ6UGlESGpsZW1lZ1ZUV0ktWDU0RHkzVVBfOHk0dnJTV2lXeGpEQlFKYzZIdVBaeFlocm16NDdtaEdxd05ROGtlM2RCOV92U0NyUGUzVFZ2MFp0b0J3ZkRNM3VEMlRCRWdFV0dRck1IREFsa1dRMXYxdUFIU1NMM2F3NTg3MjdZdEVELXUydm1hRS1xbDZ6Rg?oc=5",
       "source": "Washington Post",
-      "coverage": 3
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Principais políticos do Irã pedem o fim da guerra",
-      "titleOriginal": "Iran’s Top Politicians Urge an End to the War",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzB5MjdWWVk1UllCajhNTW9lUXJHdkVsaGR0VWx4aXR1YWstRTA4YjNFWURXcmVITFA3MG80OF9EbHJuWGlFZWVnMkhYMjAzVnVpTTVWYk16UzAtN3p3R3k5Ti1mZE5tZTc2Vl83SHp2dTBqWTZoVFlEcXRKRUlCMzRyWnRFdGplcmp2WHhVWjhnVzJZelE?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 4
+      "title": "Presidente iraniano afirma que o Irã deve pôr fim à guerra",
+      "titleOriginal": "Iranian President Says Iran Should End War",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSm9mVngteXpTSmNfZFdTelQ3SWI3U0NfeWtxbFloMFNVeVRmUTh5emk1UTFEMU0xR3hmek5XQ1JPT3pTODBwQUZDU05sTzM1a0ZuWTBWd2c5RDRiMmg2UEN0cldCTWRIWTA2MEdlSWdsSklGaDlfUFZVbXBYcHE4ajVmR0I5QlJNSmhEUDgtYm9zRjByNWFSdC03bnAwcEJGb1VZai03akJmcWJYMWs1QQ?oc=5",
+      "source": "Daily Wire",
+      "coverage": 3
     }
   ]
 }
