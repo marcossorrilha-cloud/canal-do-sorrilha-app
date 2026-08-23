@@ -1,27 +1,48 @@
 {
-  "updatedAt": "2026-08-23T17:42:14.416Z",
+  "updatedAt": "2026-08-23T19:01:37.994Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Atualizações ao vivo: Trump dá volta de honra no Grande Prêmio da IndyCar",
+      "title": "Pence nega que a guerra contra o Irã esteja prejudicando a Ucrânia ao esgotar os estoques dos EUA",
+      "titleOriginal": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+      "link": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
+      "publishedAt": "2026-08-23T18:44:19.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Duffy: Carney vai “entrar nas negociações” porque as tarifas serão “devastadoras”",
+      "titleOriginal": "Duffy: Carney will 'come to the table' because tariffs will be 'devastating'",
+      "link": "https://thehill.com/business/6045845-duffy-predicts-carney-trade-negotiations/",
+      "publishedAt": "2026-08-23T18:36:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A pressão dos EUA precisa ser direcionada à Rússia, e não à Ucrânia",
+      "titleOriginal": "US pressure needs to be directed at Russia, not Ukraine",
+      "link": "https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes/",
+      "publishedAt": "2026-08-23T18:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações ao vivo: Trump dá uma volta de honra no Grande Prêmio da IndyCar",
       "titleOriginal": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
       "link": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
       "publishedAt": "2026-08-23T17:20:16.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Reconstruindo a “fábrica de impeachment”",
-      "titleOriginal": "Opinion | Rebuilding the Impeachment Factory",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw?oc=5",
-      "publishedAt": "2026-08-23T17:07:48.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Deputado republicano do Texas sobre Talarico: “As opiniões dele acabariam com o Texas”",
+      "title": "Deputado republicano do Texas sobre Talarico: “As opiniões dele seriam a ruína do Texas”",
       "titleOriginal": "Texas GOP rep on Talarico: 'His views would kill Texas'",
       "link": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/",
       "publishedAt": "2026-08-23T17:00:57.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "“Homem-Aranha” lidera as bilheterias no quarto fim de semana; “A Odisséia” se torna o filme de maior bilheteria de Nolan",
+      "titleOriginal": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
+      "publishedAt": "2026-08-23T16:47:00.000Z"
     },
     {
       "source": "AP News",
@@ -32,45 +53,24 @@
     },
     {
       "source": "AP News",
-      "title": "“Homem-Aranha” lidera as bilheterias no quarto fim de semana; “A Odisséia” se torna o filme de maior bilheteria de Nolan",
-      "titleOriginal": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
-      "publishedAt": "2026-08-23T16:27:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Presidente do Irã afirma que o memorando dos EUA é o melhor caminho para sair do impasse da guerra, e outras notícias do Oriente Médio",
+      "title": "Presidente do Irã afirma que o memorando dos EUA é o melhor caminho para sair do impasse da guerra, além de outras notícias do Oriente Médio",
       "titleOriginal": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
       "publishedAt": "2026-08-23T16:26:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o controle do presidente sobre o poder",
-      "titleOriginal": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
-      "publishedAt": "2026-08-23T16:12:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Opinião | Chegou a hora de pagar a conta das aposentadorias",
+      "titleOriginal": "Opinion | The Pension Bill Comes Due",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lT2d2TWtOQlk5SU5vbVlNcEpVbDAtRDUwc1hINzNGNG9mMlRkcG9rUllNTTVzZmg2RHlSUFdndGpnWjNPcWJHeko4MVEzMWl1NDdUZEF3blRoRTdDTXFjcE9oLVJfaVc3NmNWSjlnVE0?oc=5",
+      "publishedAt": "2026-08-23T16:25:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Johnson afirma que Kushner “não está diretamente envolvido” no governo Trump após notícias de um encontro com Jeffries",
-      "titleOriginal": "Johnson says Kushner 'not directly involved' in Trump administration after reported meeting with Jeffries",
-      "link": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
-      "publishedAt": "2026-08-23T16:05:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O segundo turno acirrado para o governo de Oklahoma põe à prova o poder de influência de Trump",
-      "titleOriginal": "Bitter Oklahoma governor's runoff tests Trump's endorsement power",
-      "link": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/",
-      "publishedAt": "2026-08-23T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Pete Buttigieg retorna à Carolina do Sul enquanto avalia a possibilidade de concorrer novamente à Casa Branca",
-      "titleOriginal": "Pete Buttigieg returns to South Carolina as he weighs another White House run",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn?oc=5",
-      "publishedAt": "2026-08-23T15:34:00.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Síria e Israel tomam medidas para amenizar as tensões após o bombardeio à base aérea",
+      "titleOriginal": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SRlZtM2lQRXFzZzFMZVpQN0R2cXZyWmREYktpT0JMemNoU2Q2bVViSjB6N1BqMEYyVFhhUmhxTDE4X3JHdmR5cUdXNlBKLUUxOUc2dHVKMlBiT2o5bm91TnU1Zmx2dk1xR1paXzZyay1mWDFSbEx3?oc=5",
+      "publishedAt": "2026-08-23T16:12:30.000Z"
     }
   ]
 }
