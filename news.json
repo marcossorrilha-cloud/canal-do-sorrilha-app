@@ -1,10 +1,59 @@
 {
-  "updatedAt": "2026-08-23T14:53:37.044Z",
+  "updatedAt": "2026-08-23T15:48:47.039Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Pence afirma que os EUA devem se preparar para uma ação “inevitável” contra o Irã",
+      "titleOriginal": "Pence says US must prepare for 'inevitable' action against Iran",
+      "link": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
+      "publishedAt": "2026-08-23T15:31:18.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Jeffries e Kushner se reúnem em particular enquanto as críticas nas eleições de meio de mandato se intensificam",
+      "titleOriginal": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+      "publishedAt": "2026-08-23T15:07:34.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Síria e Israel tomam medidas para amenizar as tensões após o bombardeio à base aérea",
+      "titleOriginal": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SRlZtM2lQRXFzZzFMZVpQN0R2cXZyWmREYktpT0JMemNoU2Q2bVViSjB6N1BqMEYyVFhhUmhxTDE4X3JHdmR5cUdXNlBKLUUxOUc2dHVKMlBiT2o5bm91TnU1Zmx2dk1xR1paXzZyay1mWDFSbEx3?oc=5",
+      "publishedAt": "2026-08-23T15:01:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Está doente demais para trabalhar? Os estados precisam acertar suas novas regras do Medicaid.",
+      "titleOriginal": "Too sick to work? States must get their new Medicaid rules right.",
+      "link": "https://thehill.com/opinion/healthcare/6044019-cancer-patients-medicaid-coverage/",
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Scott afirma que “não há dúvida” de que Darline Graham está qualificada para ser senadora",
+      "titleOriginal": "Scott says ‘there's no doubt’ Darline Graham is qualified to be senator",
+      "link": "https://thehill.com/homenews/campaign/6045624-tim-scott-defends-darline-graham/",
+      "publishedAt": "2026-08-23T14:59:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Carney alertou sobre a coerção econômica. Agora, Trump está colocando à prova o primeiro-ministro canadense",
+      "titleOriginal": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
+      "publishedAt": "2026-08-23T14:36:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
+      "title": "Veja como a China superou o choque do petróleo iraniano",
+      "titleOriginal": "See How China Weathered the Iran Oil Shock",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
+      "publishedAt": "2026-08-23T14:31:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todo mundo zombou",
       "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
       "publishedAt": "2026-08-23T14:19:28.000Z"
@@ -22,55 +71,6 @@
       "titleOriginal": "One seemingly ordinary job has gotten much more deadly over the past 10 years, federal data shows",
       "link": "https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows/",
       "publishedAt": "2026-08-23T13:33:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Eleitores insatisfeitos de Ohio podem transformar o estado em “roxo” novamente",
-      "titleOriginal": "Angry Ohio Voters Could Turn Their State Purple Again",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
-      "publishedAt": "2026-08-23T13:19:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os democratas estão transformando mais redutos republicanos no Senado em campos de batalha para as eleições de meio de mandato",
-      "titleOriginal": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDBRNWZMQ1AtbzEyZ0xwV2NDYlJCTnplMVRfZGhEWjc3ZW9sTGlzZFJ6WWIwcE1Cei1yNDF0OThUTjRybkJOcHhSWThWZExacWJ6TFFPY2lmUWctYzBFMGtCQngzSEMtRVlVTUxRY01mcE0yTFZuQTNKOW5Zd191aGx4ZEdNeWR2a2lXYmhRQnFqZkk4?oc=5",
-      "publishedAt": "2026-08-23T13:03:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Como a reforma da Suprema Corte poderia sair pela culatra para os democratas",
-      "titleOriginal": "How reforming the Supreme Court could backfire on Democrats",
-      "link": "https://thehill.com/opinion/6043861-supreme-court-reform/",
-      "publishedAt": "2026-08-23T12:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Migrantes entram em confronto com a polícia e rompem uma cerca em um centro de detenção na Grécia",
-      "titleOriginal": "Migrants clash with police and cut through a fence at a Greek detention center",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
-      "publishedAt": "2026-08-23T11:44:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As câmeras Flock passam a ser consideradas, junto com os data centers, uma das principais ameaças relacionadas à IA nas eleições de meio de mandato de 2026",
-      "titleOriginal": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5",
-      "publishedAt": "2026-08-23T11:43:04.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o controle do presidente sobre o poder",
-      "titleOriginal": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
-      "publishedAt": "2026-08-23T10:19:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Manobra do Departamento de Justiça sobre procuradores federais não confirmados se aproxima cada vez mais da Suprema Corte",
-      "titleOriginal": "DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
-      "link": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/",
-      "publishedAt": "2026-08-23T10:00:00.000Z"
     }
   ]
 }
