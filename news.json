@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-23T09:01:44.671Z",
+  "updatedAt": "2026-08-23T10:53:04.898Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Manobra do Departamento de Justiça sobre procuradores federais não confirmados se aproxima cada vez mais da Suprema Corte",
+      "titleOriginal": "DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
+      "link": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/",
+      "publishedAt": "2026-08-23T10:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Rússia testa prontidão para nova rodada de mobilização militar",
+      "titleOriginal": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+      "publishedAt": "2026-08-23T09:30:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Zelenskyy detalha o desentendimento com o ministro da Defesa demitido, afirmando que algumas de suas ações foram equivocadas",
+      "titleOriginal": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+      "publishedAt": "2026-08-23T09:23:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Jeffries e Kushner se reúnem em particular enquanto as críticas nas eleições de meio de mandato se intensificam",
+      "titleOriginal": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+      "publishedAt": "2026-08-23T09:02:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As eleições intermediárias parecem uma repetição de 2006",
+      "titleOriginal": "The Midterms Feel Like 2006 All Over Again",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
+      "publishedAt": "2026-08-23T09:01:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Eleitores indignados de Ohio podem transformar o estado em “roxo” novamente",
+      "titleOriginal": "Angry Ohio Voters Could Turn Their State Purple Again",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
+      "publishedAt": "2026-08-23T09:00:33.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "MacKenzie Scott, bilionária filantropa, volta ao seu primeiro amor: a ficção",
@@ -11,10 +53,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Ross Stores eleva suas perspectivas devido à crescente demanda pelo varejo com descontos",
-      "titleOriginal": "Ross Stores Boosts Outlook on Growing Demand for Off-Price Retail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGthVmNGbWs3c3I2RjBUVFdzVkhwOEVkNjZVMHFYelNtSkl0RG9KNkNGeU5xeTRncTdlemhSN21LNnFPTUJPMWxla2tRR1NNbFUzNE51T2lpcnVDRGtvTjJBb1ByZE1rXzVjNC1jWjJUX1pFVWdlNm9pMWFub3NrbXc3SW1XZEt4ZVBUVDVPMGxPQQ?oc=5",
-      "publishedAt": "2026-08-23T05:48:30.000Z"
+      "title": "Opinião | O discurso de abertura de um “wokester” para o Senado dos EUA",
+      "titleOriginal": "Opinion | A Wokester’s Opening Argument for the U.S. Senate",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDRVS2hLRnBTZVR5ZE1uWE04Y0E2aG96QlV2YjlQT3dkNFpROVdLblBOaUttREZTMVk1MU1sa3A3YVFhMzR2dnpMNGNvMmFUbWtZaVNtOExzaS1waE1DSTdXdUkyR29BQU95TXJMMG0wTTVfN3llYy1CSUZMMFZ2WGhQMHpWZ2NLUE9FWQ?oc=5",
+      "publishedAt": "2026-08-23T04:28:47.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "titleOriginal": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
       "publishedAt": "2026-08-23T01:08:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Veja como a China superou o choque do petróleo iraniano",
-      "titleOriginal": "See How China Weathered the Iran Oil Shock",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
-      "publishedAt": "2026-08-23T00:50:45.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump divulga 1.000 operações com ações realizadas em junho",
-      "titleOriginal": "Trump Discloses 1,000 Stock Trades in June",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzUtWUJMb241QlNQYTg4V19PMzhWdnE5cWFEMS1xMjRXYzNJMTJscFp1NVV4NEtqOHdENGdrVzE4X2lWRk5Rd3ctYklnR0QtdUlwR2RBSlFVakJRbnZpOVI5VUdEOGtJdVZFaHFmdkxDVUZleVh0UUZWREN6QjJvbW4tSlNFcURKU0dKZ3RxV3BtS2M?oc=5",
-      "publishedAt": "2026-08-23T00:41:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Nvidia está investindo US$ 6 bilhões para criar uma alternativa americana de ponta à IA chinesa",
-      "titleOriginal": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-      "publishedAt": "2026-08-23T00:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Chefe de segurança do Irã ameaça vizinhos com medidas econômicas e outros acontecimentos no Oriente Médio",
-      "titleOriginal": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmE4am10S043c0dka2x4cWdVWG9zanBfZkFVSnpyck5QWW9mUHNpLXdjaWxPYzhfSVBQTkxrb2hXS1c1dF9mbnlPZ2RzZnJzYlZFUTJsUGtSUXZRajQ2Z2tubkkyT3FNaXh1RWc1WXZwTEVSaVR0Zzhmc0ZKalg3OFcyeHZmWkJvWnRFV2RaNmJ6cGM?oc=5",
-      "publishedAt": "2026-08-22T22:23:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A crescente oposição aos centros de dados agita a disputa pelas eleições de meio de mandato",
-      "titleOriginal": "Rising data center backlash shakes up midterm races",
-      "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
-      "publishedAt": "2026-08-22T21:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Dois corpos foram recuperados e cerca de 12 pessoas estão desaparecidas após o naufrágio de um barco de migrantes na costa da Tunísia",
-      "titleOriginal": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTQ4YXQyZDdTakQ3N3luZ2hycjlwZUVVQ3BfRHNwQWwwRU5hZWxUNnU2REVVSWtXS0pUdUtPSmE1VmRFVlBpb1JCSGhOUi12SEtkbUZiVEZBY2F2VGdQTVI2R0pIQ1pDVnZmSGZfTmhYVUt1akVPMFppcmVGMHdEU0IycnNWZDRWUDBpZERqRkg1NDA?oc=5",
-      "publishedAt": "2026-08-22T20:59:00.000Z"
     }
   ]
 }
