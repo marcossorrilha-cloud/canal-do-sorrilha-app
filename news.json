@@ -1,10 +1,52 @@
 {
-  "updatedAt": "2026-08-23T16:56:19.754Z",
+  "updatedAt": "2026-08-23T17:42:14.416Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Atualizações ao vivo: Trump dá volta de honra no Grande Prêmio da IndyCar",
+      "titleOriginal": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
+      "link": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
+      "publishedAt": "2026-08-23T17:20:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Reconstruindo a “fábrica de impeachment”",
+      "titleOriginal": "Opinion | Rebuilding the Impeachment Factory",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw?oc=5",
+      "publishedAt": "2026-08-23T17:07:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado republicano do Texas sobre Talarico: “As opiniões dele acabariam com o Texas”",
+      "titleOriginal": "Texas GOP rep on Talarico: 'His views would kill Texas'",
+      "link": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/",
+      "publishedAt": "2026-08-23T17:00:57.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o domínio do presidente sobre o poder",
+      "title": "Migrantes entram em confronto com a polícia e rompem uma cerca em um centro de detenção na Grécia",
+      "titleOriginal": "Migrants clash with police and cut through a fence at a Greek detention center",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
+      "publishedAt": "2026-08-23T16:44:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "“Homem-Aranha” lidera as bilheterias no quarto fim de semana; “A Odisséia” se torna o filme de maior bilheteria de Nolan",
+      "titleOriginal": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
+      "publishedAt": "2026-08-23T16:27:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Presidente do Irã afirma que o memorando dos EUA é o melhor caminho para sair do impasse da guerra, e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+      "publishedAt": "2026-08-23T16:26:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Cazaquistão realiza eleições parlamentares que devem fortalecer o controle do presidente sobre o poder",
       "titleOriginal": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
       "publishedAt": "2026-08-23T16:12:00.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Pete Buttigieg returns to South Carolina as he weighs another White House run",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn?oc=5",
       "publishedAt": "2026-08-23T15:34:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pence afirma que os EUA devem se preparar para uma ação “inevitável” contra o Irã",
-      "titleOriginal": "Pence says US must prepare for 'inevitable' action against Iran",
-      "link": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
-      "publishedAt": "2026-08-23T15:31:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Jeffries e Kushner se reúnem em particular enquanto as críticas nas eleições de meio de mandato se intensificam",
-      "titleOriginal": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
-      "publishedAt": "2026-08-23T15:07:34.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Síria e Israel tomam medidas para acalmar as tensões após o bombardeio à base aérea",
-      "titleOriginal": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SRlZtM2lQRXFzZzFMZVpQN0R2cXZyWmREYktpT0JMemNoU2Q2bVViSjB6N1BqMEYyVFhhUmhxTDE4X3JHdmR5cUdXNlBKLUUxOUc2dHVKMlBiT2o5bm91TnU1Zmx2dk1xR1paXzZyay1mWDFSbEx3?oc=5",
-      "publishedAt": "2026-08-23T15:01:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Está doente demais para trabalhar? Os estados precisam definir corretamente as novas regras do Medicaid.",
-      "titleOriginal": "Too sick to work? States must get their new Medicaid rules right.",
-      "link": "https://thehill.com/opinion/healthcare/6044019-cancer-patients-medicaid-coverage/",
-      "publishedAt": "2026-08-23T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Scott afirma que “não há dúvida de que” Darline Graham está qualificada para ser senadora",
-      "titleOriginal": "Scott says ‘there's no doubt’ Darline Graham is qualified to be senator",
-      "link": "https://thehill.com/homenews/campaign/6045624-tim-scott-defends-darline-graham/",
-      "publishedAt": "2026-08-23T14:59:44.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia indonésia prende 72 pessoas suspeitas de provocar incêndios florestais",
-      "titleOriginal": "Indonesian police arrest 72 people suspected of starting forest fires",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmk4RXNwQ3ZEcE83VDdoSXlkY1loZHpVS180SnNOQXBLb0E3dldtcm0tVWQ5ZXZmYUF6dEM3Ml9mdHotUE9PVlU5dUUxTVFuU3V6NFJwbkprMEpxUkJyNlk3S2pLZl9STjV6aFlLbFRYSG9BNzFzRVoyS0l0aUxzRU4wYlBZYkZ1SHZWak9kYjJOV3lkQ19QbzN2aGsxZ0NQNXhPd3o4bDU?oc=5",
-      "publishedAt": "2026-08-23T14:50:00.000Z"
     }
   ]
 }
