@@ -93,26 +93,62 @@ export function writeIfChanged(file, obj) {
 }
 
 // ---------- CLIPPING (Substack) ----------
-export function buildClipping(archive) {
-  const items = archive.slice(0, 5).map((p) => ({
+// A API JSON do Substack é bloqueada (403) para IPs de datacenter, mas o RSS não.
+// O subtítulo (nossa "note") vem inteiro na <description> do RSS; o título e o
+// link também. Então lemos o feed (via rss2json ou proxies) — saída idêntica.
+export function htmlDecode(s) {
+  return String(s || "")
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&nbsp;/g, " ")
+    .trim();
+}
+function parseRssItems(xml) {
+  return [...String(xml).matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => {
+    const it = m[1];
+    const g = (t) => {
+      const mm = it.match(new RegExp("<" + t + "[^>]*>([\\s\\S]*?)</" + t + ">"));
+      return mm ? htmlDecode(mm[1]) : "";
+    };
+    return { title: g("title"), link: g("link"), pubDate: g("pubDate"), description: g("description") };
+  });
+}
+export function buildClipping(feedItems) {
+  const items = feedItems.slice(0, 5).map((p) => ({
     title: String(p.title || "").trim(),
-    link: "https://marcossorrilha.substack.com/p/" + p.slug,
-    date: dateFromTitle(p.title, p.post_date),
-    note: p.subtitle || "",
+    link: String(p.link || "").trim(),
+    date: dateFromTitle(p.title, p.pubDate),
+    note: String(p.description || "").trim(),
   }));
   return {
     updatedAt: nowIso(),
-    newestTs: Date.parse(archive[0].post_date),
+    newestTs: Date.parse(feedItems[0].pubDate) || Date.now(),
     archiveUrl: "https://marcossorrilha.substack.com/archive",
     count: items.length,
     items,
   };
 }
 export async function fetchClipping() {
-  const url = "https://marcossorrilha.substack.com/api/v1/archive?sort=new&limit=12&offset=0";
-  const archive = await getJson(url);
-  if (!Array.isArray(archive) || !archive.length) throw new Error("arquivo do Substack vazio");
-  return buildClipping(archive);
+  const feed = "https://marcossorrilha.substack.com/feed";
+  // 1) rss2json: devolve JSON já estruturado e funciona a partir do Actions.
+  try {
+    const j = await getJson("https://api.rss2json.com/v1/api.json?count=12&rss_url=" + encodeURIComponent(feed));
+    if (j && Array.isArray(j.items) && j.items.length) {
+      const items = j.items.map((x) => ({
+        title: htmlDecode(x.title),
+        link: x.link,
+        pubDate: x.pubDate,
+        description: htmlDecode(x.description || x.content || ""),
+      }));
+      return buildClipping(items);
+    }
+  } catch { /* tenta o XML cru abaixo */ }
+  // 2) XML cru do feed via proxies.
+  const items = parseRssItems(await getText(feed));
+  if (!items.length) throw new Error("feed do Substack vazio");
+  return buildClipping(items);
 }
 
 // ---------- TRUMP (Silver Bulletin) ----------
