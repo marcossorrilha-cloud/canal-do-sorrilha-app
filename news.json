@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-24T19:59:23.897Z",
+  "updatedAt": "2026-08-24T20:16:55.791Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Raskin: “A guerra comercial idiota de Trump está acabando com as empresas americanas”",
+      "titleOriginal": "Raskin: 'Trump's idiotic trade war killing American businesses'",
+      "link": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
+      "publishedAt": "2026-08-24T20:02:32.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Enquete: O que você acha dessas temperaturas tão altas?",
+      "titleOriginal": "Poll: How you feel about the very hot temperatures?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtQ0wwcTNCd01jUW1FMjE0Z1d5eGFWUnMzeGt5eXFMRm50R0NCeHhLQXNOVXREYU9XTGwyQUNvVzcxOVkxejZqb2l6Wmw1VHFjR08yc0N3eVJVbU50b2JRZGZkVUlVWFZNdWloSEZZdw?oc=5",
+      "publishedAt": "2026-08-24T19:59:39.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Putin quer mobilizar pelo menos mais 300 mil soldados para a guerra entre a Rússia e a Ucrânia: Zelensky",
@@ -11,14 +25,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Nvidia está investindo US$ 6 bilhões para criar uma alternativa norte-americana poderosa à IA chinesa",
+      "title": "A Nvidia está investindo US$ 6 bilhões para criar uma poderosa alternativa norte-americana à IA chinesa",
       "titleOriginal": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
       "publishedAt": "2026-08-24T19:31:51.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Irã adverte que a reação será dura, enquanto os EUA anunciam novas sanções e outras notícias do Oriente Médio",
+      "title": "O Irã alerta para uma reação severa enquanto os EUA anunciam novas sanções e outras notícias do Oriente Médio",
       "titleOriginal": "Iran warns of a harsh as US announces new sanctions and other Middle East news",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
       "publishedAt": "2026-08-24T19:22:00.000Z"
@@ -32,14 +46,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Mercado de ações dos EUA apresenta resultados mistos após Bessent delinear plano para pressionar o Irã",
+      "title": "Mercado de ações dos EUA apresenta resultados mistos após Bessent apresentar plano para pressionar o Irã",
       "titleOriginal": "U.S. Stocks Mixed After Bessent Outlines Plan to Squeeze Iran",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHAtRUpVTjZBckdEWkpuWVExTUhyUTRmYnZ0M3lBTE5yZUw1NkVCanVVaXFEM3RLREJtNklYOEd0c1kyckxzT3M3dXYtME9RMVV4R2VhRUtKeDBPdl9GRm1MUXhxYnhrNUd1T3F4Ukh0U1E0S0NtalU5RjFOTS1wRVRQZEVwLWltcGRFQ01vaU5iSnFUM0NRZU1OSDZJd0FKTURJSGpnQlFNNlBUUzFYeGFB?oc=5",
       "publishedAt": "2026-08-24T19:17:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Irã adverte as embarcações de que estarão sujeitas a multas e apreensão caso violem as regras do Estreito de Ormuz",
+      "title": "O Irã adverte embarcações sobre multas e apreensão por violarem as regras do Estreito de Ormuz",
       "titleOriginal": "Iran warns vessels of fines, detention for violating Strait of Hormuz rules",
       "link": "https://thehill.com/policy/international/6047363-pgsa-warns-vessel-fines/",
       "publishedAt": "2026-08-24T19:15:54.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
       "publishedAt": "2026-08-24T18:49:42.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os clientes de Austin podem definir o preço que quiserem nesses quatro restaurantes",
-      "titleOriginal": "Austin diners can name their price at these four restaurants",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdlBucWtYemVENFhWeG1xZVNKME91cWtiWmxuZmpQR0h3Q0dzVEl0ZWJfd1FyeUF4M1paOVJrTjhCYURSclRBOVl3NEdvNGdmN0lQVzF5MjUxbktIeDJ0aXRBdkwxM0h1dkliWWZMNkw1TW1BY2VYS1ZPY2hZZTNzVmw0bFhRY2dJ?oc=5",
-      "publishedAt": "2026-08-24T18:44:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed se pronuncia sobre a polêmica envolvendo Piker: “Ninguém fala em nome desta campanha além de mim”",
-      "titleOriginal": "El-Sayed weighs in on Piker controversy: 'Nobody speaks for this campaign besides me'",
-      "link": "https://thehill.com/homenews/campaign/6047343-el-sayed-piker-controversy/",
-      "publishedAt": "2026-08-24T18:44:53.000Z"
     }
   ]
 }
