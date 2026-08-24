@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-08-24T10:57:43.956Z",
+  "updatedAt": "2026-08-24T11:58:49.603Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Os eleitores de Huntsville vão às urnas nesta terça-feira",
+      "titleOriginal": "Huntsville voters head to polls Tuesday",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUmFkaVZOTHFfcGMtV1hPV0U0Uktzb1hsU3F1ZTk3TWFtcFVhVXhWRVJFVlZ5QlVMVnJHcThJSE9tVEZZaDVvQkNhVDUyMVh0WGpkZU8yVGd1aHdQdjc2RmM5VHVuLUYybUlwYkJQTjdjSzZ0TEs5Sm1XaU5fTk15c2dtWUlicnB0YnBGVXNlRlBPSEpWYmFFLVNXbW56ODh1S25fazNsbTQtZGtMUl9QdGJzVzdsUWM?oc=5",
+      "publishedAt": "2026-08-24T11:46:10.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
-      "titleOriginal": "Financial Services Roundup: Market Talk",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0hVaS1BVHZEMHNyejZpUFV3OGNsWDdCRHB6VlMwRFZ5WTVrZmxPLTZwWHRtQ0xnaWFFZWNETDY5enZqQ3lic2o0aVR0UW5hTmVUOG5ObS04QXhVOVM1V0JKNDFNdmRKRXQwVjFKaVk0b2tXUjVyd0NEeEJJUllyUFpB?oc=5",
-      "publishedAt": "2026-08-24T10:34:00.000Z"
+      "title": "A ex-apresentadora de notícias locais na batalha política de sua vida",
+      "titleOriginal": "The Former Local News Anchor in the Political Fight of Her Life",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1VGeWZaaTJzdXdoaW5qb2I2YXU2elhKdnBOOVpPbkdRZmd4M0s3dk5FcjBGMDlLUHdpNzY5czlBMV85NVlweGJveXFCVmRUMV91MEUteXl4U2JselNacndHckVDb251ZGhUUlQ1d2RNNDdLd1NlYjZoclhZb2NfNGVjamQzejc0eUZ3cm1MT1ozNjlxNGNVZWNCeWJkckRxZ1JaQ1dzX2FFUFJLdF9mVw?oc=5",
+      "publishedAt": "2026-08-24T11:31:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Congresso deve agora cumprir sua parte no combate à fraude no Medicare",
+      "titleOriginal": "Congress must now do its part on Medicare fraud",
+      "link": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
+      "publishedAt": "2026-08-24T11:30:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Prefeito de Minneapolis e Conselho de Parques discutem sobre aumento de impostos",
+      "titleOriginal": "Minneapolis mayor, Park Board battle over tax hike",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0wyVmlsNkt2bVdLbGpEY3N4SUFMT0dXYlpOSWJHcTZRdUtfU2FUbDdBTWw0R2xjUWtqQmJEZTZ4LVFNMmw0QTU0TDlnbXBHVGh4dGNFNklkLXB6enRuRWRFX3BVRVdwU3BjWkRjNFZLVExGb3lBd1k1RW5WTUxGb0RXcHpXNFRKeW1qRGpFV20zQnlFRm1v?oc=5",
+      "publishedAt": "2026-08-24T11:29:44.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Quanto as deportações em massa poderiam custar aos contribuintes do Condado de Harris",
+      "titleOriginal": "What mass deportations could cost Harris County taxpayers",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2w0Q0xLWS14eUVlN1llaWRnMENPU2pabGtvOV8xRXhjZjMySGV0TWFCNXZDbks2NUEzSTd3MktaLXZEdm8xYnFNTkRNV3Iza2pEbWphOFFNTlVJWktzMzVDU1A1Wkk0UndoS3hXQ1RIZV9wY2lqWkxlanJBSnVEYTItbVVld0czMm9yeHJ3?oc=5",
+      "publishedAt": "2026-08-24T11:21:28.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Condado de Bexar registra avanços na questão dos sem-teto, mas precisa de mais serviços",
+      "titleOriginal": "Bexar County sees progress on homelessness, but needs more services",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZExIRzBHakpRZE9sT3VVNHZKUnM3d3oyLWZDMmdxRVlQVkgyaXUzcFV6d3MtcWJUVUxwYy1SNEpmRG01OXlRM2FXeDROcF9HQnRhcnF4RVl4dHIwcTd5WGdqZTB6OU9ybFBDZEk2QnRJRzZfZXhWQUNUSy1WYms2ZW1Lb3hvODV1UGd1ZHFWMXhITnV0UmV5NjFFOFRhUUE?oc=5",
+      "publishedAt": "2026-08-24T11:21:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Quatro estados onde os democratas estão se distanciando de sua própria imagem",
+      "titleOriginal": "Four states where Democrats are running away from their own brand",
+      "link": "https://thehill.com/opinion/campaign/6044012-democrats-independent-senate-strategy-explained/",
+      "publishedAt": "2026-08-24T11:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã adverte que dará uma resposta severa às sanções previstas pelos EUA e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
+      "publishedAt": "2026-08-24T10:48:00.000Z"
     },
     {
       "source": "Axios",
@@ -22,55 +71,6 @@
       "titleOriginal": "Georgia lawmakers take aim at loud cars and modified mufflers",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXZOTTYwVW5KWVlkRjVDNUFoYWRaNktlTUg4ZjhvRzdtem9pcUFrOTZhWlRJUnVPWTg4QW4xWGVZeGxnS3RXMEh6TV9ucm9xRXFPMGxFVXBONTQtUF9WdHV0VUF2cjl4UFpPX1ZLcjhoQjhJcnFBM3cyMkQ5a29BYk1fLXBxVFhRZU5mV3hvTVhFYmNLcTREdzZNaUdrMGpRemltOHk4WmxsTXp5V0hpb1N0T0I?oc=5",
       "publishedAt": "2026-08-24T10:27:05.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Vote na melhor pizza de Richmond em nossa primeira competição de pizza",
-      "titleOriginal": "Vote for Richmond's best pizza in our first-ever pizza bracket",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXIwMGxISkcxTk9FeGdicnpPUnRiMUw5VHVUXy1mdFNZamJrNDJBMXd5SXR4TXUzWDV5cFZ2UlMtV2hCbTViRVplcUJsYm1IdG1DQ2c1cVRYRU1leWV5Ukc2ME1EQ083Z0xFbjBNOGpsV0tBVXVtVzNEZFFvM0J1RWctQ09iOWlkR2E0N1o0Rk53UFZfcFBLdFM3ZlVLTEtacEE?oc=5",
-      "publishedAt": "2026-08-24T10:27:03.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A disputa em torno do data center aquece a inusitada corrida pelo Senado da Pensilvânia",
-      "titleOriginal": "Data center fight fuels unusual Pennsylvania Senate race",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelgyR2VNd0tjNGVzZmppNGRRM1dnWU9FT21HOU1RTEVYbkxFRmMxcmI1TWRkM0g5M2UwOE1vV2Q2TUFaYTBpTzBTU2VjVXItcmdQZHptQms3QXQwcmIwNWN6ODU0SU80bE5lejBKUV9nZE1XMjdISWZTMlIyWVpWYjdfOXNyRVoxdnhEUG9jeXJHRXNrYWs2a0xOWQ?oc=5",
-      "publishedAt": "2026-08-24T10:27:03.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Devour começa hoje. Encontramos os melhores cardápios para todos os orçamentos e bairros.",
-      "titleOriginal": "Devour starts today. We found the best menus for every budget and neighborhood.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlNpU3hhWGhReENWaGR2WGhPYzFRX2ZydVdaM2VrMFk0c1oxaF90bkEzaXVsQTMycjZOTHpfSG1Ya0Q4ZHRLMi10SFhPU2cxcFFXbDlDdWZTdUxaYmtEbFU2TFdVM3RPZWxSeFJyZXpXSkxjTWNhc3VBaHFEVFJRRTRMa0ZzcEgybGxadkJBLTJCMzFtYnp0cFhnbElORkJhOXc3NlNuNUMtbjFzQWRrZnVORFJ6c2FTR19CRk80Yw?oc=5",
-      "publishedAt": "2026-08-24T10:19:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O “Dia D econômico” de Trump contra o Irã coloca a China na mira",
-      "titleOriginal": "Trump's 'economic D-Day' on Iran puts China in the crosshairs",
-      "link": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
-      "publishedAt": "2026-08-24T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "“Radical” tornou-se a palavra política do verão",
-      "titleOriginal": "‘Radical' has become the political word of the summer",
-      "link": "https://thehill.com/homenews/campaign/6044368-political-polarization-midterm-rhetoric/",
-      "publishedAt": "2026-08-24T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Candidatos ao Senado de Iowa focam na crise do câncer à medida que a disputa acirrada se intensifica",
-      "titleOriginal": "Iowa Senate candidates zero in on cancer crisis as key race tightens",
-      "link": "https://thehill.com/homenews/senate/6044593-iowa-senate-race-cancer-rates/",
-      "publishedAt": "2026-08-24T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como a iniciativa de Trump no setor de criptomoedas está ligada às medidas de Bessent no Tesouro",
-      "titleOriginal": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3VHZrbWdLSmNBekY0WnR0dkx0Nl9rOWl4M2hTZDg0YnZuUU54MHo1SXRHT1VNbTcyRjhUQmdZVVlQbFJjcHd3TGt6TW5NSkktN3VtYUtvTEM4UVh3a0NMNHFwS3phZkxFRWtZTHJMNkZvT2VVNER3Z19PWjBxNGQ2RFl5N3JiakkwMFZMTm4wc215OGdzZHRzTHFnODlMMVppWHhmWU1nZHM?oc=5",
-      "publishedAt": "2026-08-24T09:30:00.000Z"
     }
   ]
 }
