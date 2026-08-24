@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-24T08:28:03.406Z",
+  "updatedAt": "2026-08-24T10:57:43.956Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Donald Trump",
-      "titleOriginal": "Donald Trump",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "publishedAt": "2026-08-24T08:20:44.000Z"
+      "source": "Wall Street Journal",
+      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
+      "titleOriginal": "Financial Services Roundup: Market Talk",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0hVaS1BVHZEMHNyejZpUFV3OGNsWDdCRHB6VlMwRFZ5WTVrZmxPLTZwWHRtQ0xnaWFFZWNETDY5enZqQ3lic2o0aVR0UW5hTmVUOG5ObS04QXhVOVM1V0JKNDFNdmRKRXQwVjFKaVk0b2tXUjVyd0NEeEJJUllyUFpB?oc=5",
+      "publishedAt": "2026-08-24T10:34:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Enquete: Você votaria em JD Vance para presidente?",
+      "titleOriginal": "Poll: Would you vote for JD Vance for president?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdxQ05EYVp1WTRaTzBGamRRcDN0UkJkazdiSXcyZTdPQWlEVTZkTGE2a3RjcDlkVmVya2M5cENvVEVCRWJ5WXVwNGZqdnp4NGU5WUhvaVF4cVdTUGZHUnJFYnNRamU3d3pUMnUxWDFkVmhsOWZXdGZvYzhQOEgwZV9FSi1ia0dENGJpZ3QtYkRkTG92amk4dWRXU3ByU0s0S1M0b2lEUQ?oc=5",
+      "publishedAt": "2026-08-24T10:27:05.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Legisladores da Geórgia miram carros barulhentos e silenciadores modificados",
+      "titleOriginal": "Georgia lawmakers take aim at loud cars and modified mufflers",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXZOTTYwVW5KWVlkRjVDNUFoYWRaNktlTUg4ZjhvRzdtem9pcUFrOTZhWlRJUnVPWTg4QW4xWGVZeGxnS3RXMEh6TV9ucm9xRXFPMGxFVXBONTQtUF9WdHV0VUF2cjl4UFpPX1ZLcjhoQjhJcnFBM3cyMkQ5a29BYk1fLXBxVFhRZU5mV3hvTVhFYmNLcTREdzZNaUdrMGpRemltOHk4WmxsTXp5V0hpb1N0T0I?oc=5",
+      "publishedAt": "2026-08-24T10:27:05.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Vote na melhor pizza de Richmond em nossa primeira competição de pizza",
+      "titleOriginal": "Vote for Richmond's best pizza in our first-ever pizza bracket",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXIwMGxISkcxTk9FeGdicnpPUnRiMUw5VHVUXy1mdFNZamJrNDJBMXd5SXR4TXUzWDV5cFZ2UlMtV2hCbTViRVplcUJsYm1IdG1DQ2c1cVRYRU1leWV5Ukc2ME1EQ083Z0xFbjBNOGpsV0tBVXVtVzNEZFFvM0J1RWctQ09iOWlkR2E0N1o0Rk53UFZfcFBLdFM3ZlVLTEtacEE?oc=5",
+      "publishedAt": "2026-08-24T10:27:03.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A disputa em torno do data center aquece a inusitada corrida pelo Senado da Pensilvânia",
+      "titleOriginal": "Data center fight fuels unusual Pennsylvania Senate race",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelgyR2VNd0tjNGVzZmppNGRRM1dnWU9FT21HOU1RTEVYbkxFRmMxcmI1TWRkM0g5M2UwOE1vV2Q2TUFaYTBpTzBTU2VjVXItcmdQZHptQms3QXQwcmIwNWN6ODU0SU80bE5lejBKUV9nZE1XMjdISWZTMlIyWVpWYjdfOXNyRVoxdnhEUG9jeXJHRXNrYWs2a0xOWQ?oc=5",
+      "publishedAt": "2026-08-24T10:27:03.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Devour começa hoje. Encontramos os melhores cardápios para todos os orçamentos e bairros.",
+      "titleOriginal": "Devour starts today. We found the best menus for every budget and neighborhood.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlNpU3hhWGhReENWaGR2WGhPYzFRX2ZydVdaM2VrMFk0c1oxaF90bkEzaXVsQTMycjZOTHpfSG1Ya0Q4ZHRLMi10SFhPU2cxcFFXbDlDdWZTdUxaYmtEbFU2TFdVM3RPZWxSeFJyZXpXSkxjTWNhc3VBaHFEVFJRRTRMa0ZzcEgybGxadkJBLTJCMzFtYnp0cFhnbElORkJhOXc3NlNuNUMtbjFzQWRrZnVORFJ6c2FTR19CRk80Yw?oc=5",
+      "publishedAt": "2026-08-24T10:19:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O “Dia D econômico” de Trump contra o Irã coloca a China na mira",
+      "titleOriginal": "Trump's 'economic D-Day' on Iran puts China in the crosshairs",
+      "link": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
+      "publishedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "“Radical” tornou-se a palavra política do verão",
+      "titleOriginal": "‘Radical' has become the political word of the summer",
+      "link": "https://thehill.com/homenews/campaign/6044368-political-polarization-midterm-rhetoric/",
+      "publishedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Candidatos ao Senado de Iowa focam na crise do câncer à medida que a disputa acirrada se intensifica",
+      "titleOriginal": "Iowa Senate candidates zero in on cancer crisis as key race tightens",
+      "link": "https://thehill.com/homenews/senate/6044593-iowa-senate-race-cancer-rates/",
+      "publishedAt": "2026-08-24T10:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "As vendas de livros raros estão em alta. Eles estão sendo fragmentados e usados como dado de treinamento para a IA.",
-      "titleOriginal": "Rare-Book Sales Are Booming. They’re Getting Sliced Up and Fed to AI.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5kWVJGb18zenktbVhCU3VteTlsYmxuWjRPRDktUG9KTTFKVzlRWFllM0NfUGgyLWN2WFVqaWE0YzMtYVdiT2N4c00wT0o3NUNHMWpDOWROQV9EY1Vaa1hrQ0dNNFM0am5Jc2dhOTJMM1pFNkdwVENMRnZsNDBOcVVMRUp1WDVsQ0pJT01KWEFTekNidDZsSEhn?oc=5",
-      "publishedAt": "2026-08-24T07:54:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Ross Stores eleva suas perspectivas devido à crescente demanda pelo varejo com descontos",
-      "titleOriginal": "Ross Stores Boosts Outlook on Growing Demand for Off-Price Retail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGthVmNGbWs3c3I2RjBUVFdzVkhwOEVkNjZVMHFYelNtSkl0RG9KNkNGeU5xeTRncTdlemhSN21LNnFPTUJPMWxla2tRR1NNbFUzNE51T2lpcnVDRGtvTjJBb1ByZE1rXzVjNC1jWjJUX1pFVWdlNm9pMWFub3NrbXc3SW1XZEt4ZVBUVDVPMGxPQQ?oc=5",
-      "publishedAt": "2026-08-24T07:18:39.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um enviado dos EUA esclarece suas declarações sobre as Colinas de Golã, que contradiziam a posição de Trump",
-      "titleOriginal": "A US envoy clarifies his comments on Golan Heights that contradicted Trump’s position",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVVKdER4VWQxbUZYZWN4ZWlLZmVuUWVQTnNFeVU5LU9PM0FMYTE5Mjk5RjBPb1JsR0ZfR3l0Z2JDYkxzN0pUVmtBZWZxcU1WeERFWUtLaFFNVjVMZFV3LTlPUkQwaVBzY1p3XzhSSHp3Mm5jZi16OVBrcVNQeXV1ajlxQnhpSUJleWN4TWl5bXN6elV3RmFVZk1FaUs2WmM?oc=5",
-      "publishedAt": "2026-08-24T06:25:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A perigosa cláusula sobre tarifas da Lei Lindsey Graham",
-      "titleOriginal": "Opinion | The Lindsey Graham Act’s Dangerous Tariff Provision",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVRjYzRGWEMwYUpxZTJRN0xlejVDWEZaaTJiSWNEMFlRNFdreUE2czZGNEVYR3Rna2dsYzFaZTNaWHF3SXBqYXdrcnc5bVdmQ2dyUy03TkVkVDcyaFJORkZQd3RJWExGNmJ0RkFwQzV2Y2NXMU1mV2drV3JMVEZIbmdsWUk3WVhxUW5uSXpDUXA?oc=5",
-      "publishedAt": "2026-08-24T06:05:48.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A fabricante chinesa de chips YMTC busca uma oferta pública inicial (IPO) de US$ 4,9 bilhões",
-      "titleOriginal": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0dkSFIyV2hjS19NTkFBcUcwN2pMa2lTNGZCOVM1aS1CdWFPTjBSSXkxaFctLXVBYll6WmRJdjkwRnYyZDVIVjMwaDZQZ1ltSkxYZzIwSF9NcUVSUi1MeHBIWFR2b2xxZ3g1LVp1WlF4d01Qd25BWmE0ZTFyMDNWalVLSXYtUQ?oc=5",
-      "publishedAt": "2026-08-24T05:53:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por trás das negociações de paz, os linha-dura do Irã se preparam para uma guerra mais longa e mais cara contra os EUA",
-      "titleOriginal": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5",
-      "publishedAt": "2026-08-24T05:45:38.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Shein busca uma avaliação de US$ 27 bilhões na tão esperada oferta pública inicial (IPO) em Hong Kong",
-      "titleOriginal": "Shein Targets $27 Billion Valuation in Long-Awaited Hong Kong IPO",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFBqU2JPSXNiT1o2c3FLOEVKMEtweGhaaE41LWdLMnFtaF9nMFlPSVplTkhWcmVGbURkelpqb1huR0RaZGJVNGJLVW1RYndOSDJqNmplQmJoWmtmNmVnVS1aQ2tsOXJnd1AyTE5udXlHNW0xTXlEWUZJTEx4ekg1azNfSi1zQkE4WnJXM0NZNEtEc2xSMWpZeFFVTmY2Q2g3ZlFzYkxXNjFOMHN4Mkt2OWJB?oc=5",
-      "publishedAt": "2026-08-24T04:41:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os trabalhadores na China temem serem substituídos enquanto se adaptam ao crescente impacto da IA nos empregos",
-      "titleOriginal": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?oc=5",
-      "publishedAt": "2026-08-24T04:19:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A AIPAC quer apoiar esse republicano, mas ele tem algumas reservas",
-      "titleOriginal": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
-      "link": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
-      "publishedAt": "2026-08-24T04:16:10.000Z"
+      "title": "Como a iniciativa de Trump no setor de criptomoedas está ligada às medidas de Bessent no Tesouro",
+      "titleOriginal": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3VHZrbWdLSmNBekY0WnR0dkx0Nl9rOWl4M2hTZDg0YnZuUU54MHo1SXRHT1VNbTcyRjhUQmdZVVlQbFJjcHd3TGt6TW5NSkktN3VtYUtvTEM4UVh3a0NMNHFwS3phZkxFRWtZTHJMNkZvT2VVNER3Z19PWjBxNGQ2RFl5N3JiakkwMFZMTm4wc215OGdzZHRzTHFnODlMMVppWHhmWU1nZHM?oc=5",
+      "publishedAt": "2026-08-24T09:30:00.000Z"
     }
   ]
 }
