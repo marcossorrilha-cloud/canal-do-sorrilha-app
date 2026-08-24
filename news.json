@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-08-24T19:34:11.731Z",
+  "updatedAt": "2026-08-24T19:59:23.897Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Putin quer mobilizar pelo menos mais 300 mil soldados para a guerra entre a Rússia e a Ucrânia: Zelensky",
+      "titleOriginal": "Putin wants to mobilize at least 300,000 more troops to Russia-Ukraine war: Zelensky",
+      "link": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/",
+      "publishedAt": "2026-08-24T19:55:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Nvidia está investindo US$ 6 bilhões para criar uma alternativa norte-americana poderosa à IA chinesa",
+      "titleOriginal": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+      "publishedAt": "2026-08-24T19:31:51.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "O Irã alerta para uma reação dura enquanto os EUA anunciam novas sanções e outras notícias do Oriente Médio",
+      "title": "O Irã adverte que a reação será dura, enquanto os EUA anunciam novas sanções e outras notícias do Oriente Médio",
       "titleOriginal": "Iran warns of a harsh as US announces new sanctions and other Middle East news",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
       "publishedAt": "2026-08-24T19:22:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O governo Trump apresenta nova proposta de taxa de US$ 103 mil para os vistos H-1B",
+      "title": "O governo Trump apresenta uma nova proposta de taxa de US$ 103 mil para os vistos H-1B",
       "titleOriginal": "Trump administration lays out new $103K fee proposal for H-1B visas",
       "link": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
       "publishedAt": "2026-08-24T19:20:50.000Z"
@@ -25,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O Irã adverte embarcações sobre multas e apreensão por violarem as regras do Estreito de Ormuz",
+      "title": "O Irã adverte as embarcações de que estarão sujeitas a multas e apreensão caso violem as regras do Estreito de Ormuz",
       "titleOriginal": "Iran warns vessels of fines, detention for violating Strait of Hormuz rules",
       "link": "https://thehill.com/policy/international/6047363-pgsa-warns-vessel-fines/",
       "publishedAt": "2026-08-24T19:15:54.000Z"
@@ -39,7 +53,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombaram",
+      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
       "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
       "publishedAt": "2026-08-24T18:49:42.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "El-Sayed weighs in on Piker controversy: 'Nobody speaks for this campaign besides me'",
       "link": "https://thehill.com/homenews/campaign/6047343-el-sayed-piker-controversy/",
       "publishedAt": "2026-08-24T18:44:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Procurador-geral do Alabama intima a OpenAI por causa do incidente envolvendo o Hugging Face",
-      "titleOriginal": "Alabama attorney general subpoenas OpenAI over Hugging Face incident",
-      "link": "https://thehill.com/policy/technology/6047157-alabama-openai-hugging-face-hack/",
-      "publishedAt": "2026-08-24T18:44:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Proprietário da Padaria Manolo confronta ex-chefe da Patrulha de Fronteira",
-      "titleOriginal": "Manolo's Bakery owner confronts ex-Border Patrol chief",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzhGUE5MaU5wLTVpS3hFVXREZ2o5SGNyaFR5QUFNdFpNeEpWdkx4c29GTXNvYkRacmV5bHBZQ085cV9ic0lZMS0wUlpRNU1kNEUxSzFfalBSNkU1b2x4VHFnVWlOOGF1OWY0YUxLY0NXWl82Ny1neHFpWVBxd2dvcGVLbS1vUWlLSzYwTnhKX3JCRGF0ZVk3RA?oc=5",
-      "publishedAt": "2026-08-24T18:41:38.000Z"
     }
   ]
 }
