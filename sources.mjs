@@ -44,21 +44,29 @@ async function tryJson(url, headers) {
   if (t == null) return null;
   try { return JSON.parse(t); } catch { return null; }
 }
-const prox1 = (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u);
-const prox2 = (u) => "https://corsproxy.io/?url=" + encodeURIComponent(u);
-
+// Proxies para driblar o 403 do Substack aos IPs do GitHub Actions. Ordem por
+// confiabilidade observada; se um estiver fora do ar, tenta o próximo.
+const PROXIES = [
+  (u) => "https://api.codetabs.com/v1/proxy/?quest=" + encodeURIComponent(u),
+  (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  (u) => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+  (u) => "https://thingproxy.freeboard.io/fetch/" + u,
+];
 async function getText(url) {
-  const H = { "user-agent": UA, accept: "*/*" };
-  let t = await tryText(url, H); if (t != null) return t;
-  t = await tryText(prox1(url), { "user-agent": UA }); if (t != null) return t;
-  t = await tryText(prox2(url), { "user-agent": UA }); if (t != null) return t;
+  let t = await tryText(url, { "user-agent": UA, accept: "*/*" });
+  if (t != null) return t;
+  for (const p of PROXIES) {
+    t = await tryText(p(url), { "user-agent": UA });
+    if (t != null && t.length) return t;
+  }
+  // allorigins "get" devolve { contents: "<corpo>" }
+  const g = await tryJson("https://api.allorigins.win/get?url=" + encodeURIComponent(url), { "user-agent": UA });
+  if (g && typeof g.contents === "string") return g.contents;
   throw new Error("falha ao buscar texto: " + url);
 }
 async function getJson(url) {
-  const H = { "user-agent": UA, accept: "application/json" };
-  let j = await tryJson(url, H); if (j) return j;
-  j = await tryJson(prox1(url), { "user-agent": UA }); if (j) return j;
-  j = await tryJson(prox2(url), { "user-agent": UA }); if (j) return j;
+  const txt = await getText(url).catch(() => null);
+  if (txt != null) { try { return JSON.parse(txt); } catch { /* corpo não-JSON */ } }
   throw new Error("falha ao buscar JSON: " + url);
 }
 
