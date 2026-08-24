@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-24T20:16:55.791Z",
+  "updatedAt": "2026-08-24T21:05:07.886Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Suprema Corte mantém ordem de Trump para reformular o sistema de votos por correspondência",
+      "titleOriginal": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XQ2szenZGR2tJZDdRbWhRaUh6Tkp2OS1VYkZKUUx3S2E2dFZVRXRHU1BSVmpHT2NZZ3FuaGRYTVZiWVgteExBLTRyYnZKVGpiMmdVeHAyaU9uNkVEUlBxZThCRkNNTWNhLW4tekJDbnVvSTBMUFE?oc=5",
+      "publishedAt": "2026-08-24T21:02:18.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "A MAGA Inc., de Trump, faz uma doação de última hora para Darline Graham no segundo turno na Carolina do Sul",
+      "titleOriginal": "Trump’s MAGA Inc. makes last-minute buy for Darline Graham in South Carolina runoff",
+      "link": "https://www.politico.com/news/2026/08/24/trump-maga-inc-darline-graham-south-carolina-01048038",
+      "publishedAt": "2026-08-24T20:51:21.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As eleições nos Estados Unidos estão se tornando palco de uma disputa em torno do correio",
+      "titleOriginal": "America's elections are getting caught in a fight over the mail",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGpWempDRHlQTHM4MHdmeUhtbm92b2U4cmtrT0hrWjd6MHJfYmJDdUlGTjlLWlAtajREY0pwMENKbFhTQk9kZ2ltTlZNUFdJVElXaWFET2toNGZCaUdLSmV1X2tHYWRtVTdIdVZNdExPNEdYT1I2U3g2bk9lSzFCTjNXM1RuT0hLR2tOaUxn?oc=5",
+      "publishedAt": "2026-08-24T20:47:05.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Raskin: “A guerra comercial idiota de Trump está acabando com as empresas americanas”",
-      "titleOriginal": "Raskin: 'Trump's idiotic trade war killing American businesses'",
-      "link": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
-      "publishedAt": "2026-08-24T20:02:32.000Z"
+      "title": "Hegseth afirma que a pressão econômica é o que mais prejudica o regime iraniano",
+      "titleOriginal": "Hegseth says economic pressure hurts Iranian regime 'the most'",
+      "link": "https://thehill.com/policy/defense/6047724-operation-economic-outcast-tehran-pressure/",
+      "publishedAt": "2026-08-24T20:41:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O que é preciso saber sobre as tarifas impostas por Trump aos produtos canadenses e o aumento das tensões entre aliados que antes eram próximos",
+      "titleOriginal": "What to know about Trump's tariffs on Canadian goods and rising tensions between once-close allies",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+      "publishedAt": "2026-08-24T20:38:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Agricultores enfrentam dificuldades para obter serviços básicos de um Ministério da Agricultura com recursos escassos.",
+      "titleOriginal": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html",
+      "publishedAt": "2026-08-24T20:32:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Abbott afirma ao juiz que a ação judicial de extradição do agente do ICE de Minnesota está “condenada ao fracasso”",
+      "titleOriginal": "Abbott tells judge Minnesota's ICE officer extradition lawsuit ‘doomed to fail’",
+      "link": "https://thehill.com/regulation/court-battles/6047665-greg-abbott-ice-agent-extradition/",
+      "publishedAt": "2026-08-24T20:29:03.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Após uma passagem pela NFL, Dae’Quan Wright pode estar voltando para a LSU graças a uma decisão judicial",
+      "titleOriginal": "After a stop in the NFL, Dae’Quan Wright could be heading back to LSU thanks to court order",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzVuS2Z6Y3RvZHVRRXVENU9HRkFhbWl1MlNlNUlzSG9fUGg0OU1KaDhfOUtkNGM1THJHOE42dUFJVUpjTEJ0c2dVVVB4VFlWTU1nQUM2SGFwZFN0RGY5VnJWVlNtM2N1SHlUM0JCVkNMN3BkWDNGcXFiaWk3bHVpeWJrSVRfTk1oR0VqY0J3?oc=5",
+      "publishedAt": "2026-08-24T20:25:00.000Z"
     },
     {
       "source": "Axios",
       "title": "Enquete: O que você acha dessas temperaturas tão altas?",
       "titleOriginal": "Poll: How you feel about the very hot temperatures?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtQ0wwcTNCd01jUW1FMjE0Z1d5eGFWUnMzeGt5eXFMRm50R0NCeHhLQXNOVXREYU9XTGwyQUNvVzcxOVkxejZqb2l6Wmw1VHFjR08yc0N3eVJVbU50b2JRZGZkVUlVWFZNdWloSEZZdw?oc=5",
-      "publishedAt": "2026-08-24T19:59:39.000Z"
+      "publishedAt": "2026-08-24T20:20:25.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Putin quer mobilizar pelo menos mais 300 mil soldados para a guerra entre a Rússia e a Ucrânia: Zelensky",
-      "titleOriginal": "Putin wants to mobilize at least 300,000 more troops to Russia-Ukraine war: Zelensky",
-      "link": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/",
-      "publishedAt": "2026-08-24T19:55:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Nvidia está investindo US$ 6 bilhões para criar uma poderosa alternativa norte-americana à IA chinesa",
-      "titleOriginal": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-      "publishedAt": "2026-08-24T19:31:51.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã alerta para uma reação severa enquanto os EUA anunciam novas sanções e outras notícias do Oriente Médio",
-      "titleOriginal": "Iran warns of a harsh as US announces new sanctions and other Middle East news",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-      "publishedAt": "2026-08-24T19:22:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump apresenta uma nova proposta de taxa de US$ 103 mil para os vistos H-1B",
-      "titleOriginal": "Trump administration lays out new $103K fee proposal for H-1B visas",
-      "link": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
-      "publishedAt": "2026-08-24T19:20:50.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Mercado de ações dos EUA apresenta resultados mistos após Bessent apresentar plano para pressionar o Irã",
-      "titleOriginal": "U.S. Stocks Mixed After Bessent Outlines Plan to Squeeze Iran",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHAtRUpVTjZBckdEWkpuWVExTUhyUTRmYnZ0M3lBTE5yZUw1NkVCanVVaXFEM3RLREJtNklYOEd0c1kyckxzT3M3dXYtME9RMVV4R2VhRUtKeDBPdl9GRm1MUXhxYnhrNUd1T3F4Ukh0U1E0S0NtalU5RjFOTS1wRVRQZEVwLWltcGRFQ01vaU5iSnFUM0NRZU1OSDZJd0FKTURJSGpnQlFNNlBUUzFYeGFB?oc=5",
-      "publishedAt": "2026-08-24T19:17:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã adverte embarcações sobre multas e apreensão por violarem as regras do Estreito de Ormuz",
-      "titleOriginal": "Iran warns vessels of fines, detention for violating Strait of Hormuz rules",
-      "link": "https://thehill.com/policy/international/6047363-pgsa-warns-vessel-fines/",
-      "publishedAt": "2026-08-24T19:15:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Paramount e o procurador-geral da Califórnia cancelam reunião sobre a disputa judicial em torno da fusão",
-      "titleOriginal": "Paramount, California attorney general scrap meeting over merger legal battle",
-      "link": "https://thehill.com/homenews/media/6047436-california-attorney-general-rob-bonta-paramount-meeting-cancelled-warner-bros-discovery-merger/",
-      "publishedAt": "2026-08-24T19:06:32.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
-      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
-      "publishedAt": "2026-08-24T18:49:42.000Z"
+      "title": "Nevada entra com ação contra o governo Trump por causa dos cortes no uso da água do rio Colorado",
+      "titleOriginal": "Nevada sues Trump administration over Colorado River water use cuts",
+      "link": "https://thehill.com/policy/energy-environment/6047717-nevada-colorado-river-plan-lawsuit/",
+      "publishedAt": "2026-08-24T20:19:22.000Z"
     }
   ]
 }
