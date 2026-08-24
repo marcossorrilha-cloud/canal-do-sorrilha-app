@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-08-24T03:32:49.092Z",
+  "updatedAt": "2026-08-24T05:58:06.178Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "MacKenzie Scott, filantropa bilionária, volta ao seu primeiro amor: a ficção",
-      "titleOriginal": "MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZUR0ZBbHYwTnMzb2tsaF9vYUo3QVhyN2FtVGV5ZXYyQy1NUmh4bk1WMlRtZVB3SjhOaF91VlREQ2Vybk5haEpaS1N4VGQyZXMyd2VNYldXNFI5WVNRUzctd1hVMEdBNW9RQ3F2MFlZRFJWUlBUUTBkVEZmVFR5bzllM1lmUERhVHpGNHF4VnR2UQ?oc=5",
-      "publishedAt": "2026-08-24T02:58:48.000Z"
+      "title": "A fabricante chinesa de chips YMTC busca uma oferta pública inicial (IPO) de US$ 4,9 bilhões",
+      "titleOriginal": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0dkSFIyV2hjS19NTkFBcUcwN2pMa2lTNGZCOVM1aS1CdWFPTjBSSXkxaFctLXVBYll6WmRJdjkwRnYyZDVIVjMwaDZQZ1ltSkxYZzIwSF9NcUVSUi1MeHBIWFR2b2xxZ3g1LVp1WlF4d01Qd25BWmE0ZTFyMDNWalVLSXYtUQ?oc=5",
+      "publishedAt": "2026-08-24T05:53:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Shein tem como meta uma avaliação de US$ 27 bilhões na tão esperada oferta pública inicial (IPO) em Hong Kong",
+      "titleOriginal": "Shein Targets $27 Billion Valuation in Long-Awaited Hong Kong IPO",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFBqU2JPSXNiT1o2c3FLOEVKMEtweGhaaE41LWdLMnFtaF9nMFlPSVplTkhWcmVGbURkelpqb1huR0RaZGJVNGJLVW1RYndOSDJqNmplQmJoWmtmNmVnVS1aQ2tsOXJnd1AyTE5udXlHNW0xTXlEWUZJTEx4ekg1azNfSi1zQkE4WnJXM0NZNEtEc2xSMWpZeFFVTmY2Q2g3ZlFzYkxXNjFOMHN4Mkt2OWJB?oc=5",
+      "publishedAt": "2026-08-24T04:41:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A AIPAC quer apoiar esse republicano, mas ele tem algumas reservas",
+      "titleOriginal": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
+      "publishedAt": "2026-08-24T04:16:10.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Autoridades militares de Uganda e Burundi visitam Israel para discutir o envio de tropas para Gaza",
+      "titleOriginal": "Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFl0Zm5zMUJxNjNoN3U1UDVDaGhDUy1ETU5Xcm5WSkJmVXJ5QjlQVlV2TVFYZlNud0R0cUdkVVZPR1l6MVNydDhPc2doV1ZrTkV2V1I0SW84UmVrQkhNU1BjaFY1bVpSSW0wTG55X1ktRlBydjZRRjhnVGNFVGJwZVNJbFlJMU9MamhreWhXaVdBenBnWWZva2JWUHd4SkY3QWl1bVUydi0xUQ?oc=5",
+      "publishedAt": "2026-08-24T04:14:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O que é preciso saber sobre a votação na Islândia sobre a retomada das negociações para a adesão à UE",
+      "titleOriginal": "What to know about Iceland’s vote on whether to restart talks to join the EU",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhEZFNJT0E1UlRsRFVrbUNTaFU2bEFublpXNl9qWmpibzJfZkI3cHJ1eVJ6bFJYQkNFWi05dlR3TkFoWHRZa2pTOF9fZVIycGZOSmZQVzRFa09UOU44dWJYcWFKbEJVRVljX1lIeEZDUG8xZDlRNDNlWEc0WklaNUxJUlJJdGJlUnJCaFZVZEdkQzZhWUduck03YzZpVVNtOFVPSUJmVVpfcjZLam9wQndyUlpmdzlRMnZtOUZiYw?oc=5",
+      "publishedAt": "2026-08-24T04:11:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Alibaba vai levantar US$ 10,20 bilhões para investimentos em IA por meio de uma colocação de ações",
+      "titleOriginal": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
+      "publishedAt": "2026-08-24T03:43:31.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os trabalhadores na China temem serem substituídos enquanto se adaptam ao impacto cada vez maior da IA nos empregos",
+      "titleOriginal": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?oc=5",
+      "publishedAt": "2026-08-24T03:42:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Zelenskyy detalha o desentendimento com o ex-ministro da Defesa da Ucrânia, Fedorov",
+      "titleOriginal": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+      "publishedAt": "2026-08-24T02:42:00.000Z"
     },
     {
       "source": "The Hill",
@@ -18,59 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Europa criticou duramente o retrocesso de Trump em relação às mudanças climáticas. Agora, está adiando suas próprias metas ambientais.",
+      "title": "A Europa criticou duramente a retrocessão de Trump em relação ao clima. Agora, está adiando suas próprias metas ambientais.",
       "titleOriginal": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVh2VHQ2Z093QnljTUpwSDV2eVV4UjQ1T0NKVHZXZ0pUaDRTOGdBZlVfXzJURzdlUV91UVFERkJmWi1uYXR2d0hYeUdjNFVjbDZkQ0hXQVowUHZoT1p6Z2tJRUllZlQzelJPbDRPQVNNY1ZUZnRSM3FxR19fNVZKY28xbDhXZEV3aklNUzZkcjNEMVd1V3BWOHpKTWhrTGY0a1dlN2NVQklLeW40TG44azdMM3k5dnBScFkw?oc=5",
       "publishedAt": "2026-08-24T02:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A intervenção de Trump que fez com que o Departamento de Justiça deixasse a Live Nation em paz",
-      "titleOriginal": "The Trump Intervention That Got the DOJ Off Live Nation’s Back",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYm4tVDczTmZZTndYMW1HdHJ4cjZKT1IwdExHcmlqVmRSdEpPWGxUaEgwMXZmZy1lLWZlb0RBNUptU3kyanFhN05lSWpmVUp5MDIyRzZKblhfX0VGc1kwNTNTQlE2ZlFMZEZ6ZmtzS09PTlVQNl82R0lYdWM2bzRvSg?oc=5",
-      "publishedAt": "2026-08-24T01:59:56.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump afirma que as comunidades que se opõem aos centros de dados estão “cometendo um erro”",
-      "titleOriginal": "Trump says communities that oppose data centers are \"making a mistake\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVFiOUIyM2kyQi16Zl9zY0lLODRkdVgwQ2YyMXF5TXJtZFd6LVAxS3BIOHBzOHFoNGY1RlZTay1sYjVXWkMzc3piSk5nNDdNazRaRmtOVy1UNWhCNTFhUTNZdENLQjh2QmdWMkQtMTJjS0J2OWJJeDhTTGozQkdsUQ?oc=5",
-      "publishedAt": "2026-08-24T01:42:07.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Sean Grayson, ex-delegado de Illinois condenado pelo assassinato de Sonya Massey, morre na prisão, segundo seu advogado",
-      "titleOriginal": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDVUNVZydFdDN1VNN2VQaGduTkZ6OEIyX2N2VkgxMzhkYnRuQkFOZlNaODJHRXdUQkJrR3dtdkxDYW5fV3JRTWRtcl9NU1dtYTN1LWhialY4WVpidVZKb2ZJYm10N3hWNGZLR0ZwMXdLcy1DMFdIMWlYSVNtSWtRVVFvdXFCNmwyYzdXUUR4S1Vfakg4anNQWER2WjNkUVIxTVdz?oc=5",
-      "publishedAt": "2026-08-24T01:37:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Alibaba vai ampliar investimentos em IA por meio de uma colocação de ações no valor de US$ 10,20 bilhões",
-      "titleOriginal": "Alibaba to Bulk Up AI Investment via $10.20 Billion Share Placement",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
-      "publishedAt": "2026-08-24T01:07:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Shein pretende levantar até US$ 1,77 bilhão em sua tão esperada oferta pública em Hong Kong",
-      "titleOriginal": "Shein Looks to Raise Up to $1.77 Billion in Long-Awaited Hong Kong Offering",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFBqU2JPSXNiT1o2c3FLOEVKMEtweGhaaE41LWdLMnFtaF9nMFlPSVplTkhWcmVGbURkelpqb1huR0RaZGJVNGJLVW1RYndOSDJqNmplQmJoWmtmNmVnVS1aQ2tsOXJnd1AyTE5udXlHNW0xTXlEWUZJTEx4ekg1azNfSi1zQkE4WnJXM0NZNEtEc2xSMWpZeFFVTmY2Q2g3ZlFzYkxXNjFOMHN4Mkt2OWJB?oc=5",
-      "publishedAt": "2026-08-24T00:55:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo cai devido a possíveis ajustes de posições diante de eventuais sanções dos EUA contra o Irã",
-      "titleOriginal": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnFqT3hpUmxhWm9CZ1o0RVlfRUw5NVBxYmItMXg3QTJrQllqMXhjVG9UdXQ4UXRWVjItMDV3N19RTy02dk1HT2VRMXY3dG0zUGd6NnlFOV82ak5nSTFxaXZGeHFib1FYVmhDeWhqWk1VbzAyY0M2c3BuRkV2OTBtTEVrUkN4cUVDNm0wakJDRHlpTHhFaV81UTdWX2UyaTVnSUwwTXhINEp2NmxoMlJWWFhNVWxRQzBadlFrX25qcDVlWnBlZmp5UXZuYWRLYmZtdEJDSA?oc=5",
-      "publishedAt": "2026-08-24T00:22:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia investiga após a descoberta de cinco corpos em uma área rural nos arredores de Portland, no Oregon",
-      "titleOriginal": "Police investigate after 5 bodies found in rural area outside Portland, Oregon",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnpTRjJxRUxlUHotUVUtTGdOb3NOTTF1cUhhQ0FkMXMzUnk5QVRYNGk1SFpxMVJ2R2dLYlVCXzQ0S0JoT2pLdzRodkVSYkFjVzEwZ3JTY1BsejlxOWgtdnlhZGVfd05LU2VvSldscEJybXRyZFlMU1dvcGFDdWlZVnYtWUNBaENWenZCX3JBOS0tbWVYRUs1LXdkNUJjV3F6RUZPNg?oc=5",
-      "publishedAt": "2026-08-24T00:18:00.000Z"
     }
   ]
 }
