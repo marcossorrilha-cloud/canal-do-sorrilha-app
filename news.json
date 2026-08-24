@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-24T05:58:06.178Z",
+  "updatedAt": "2026-08-24T08:28:03.406Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Donald Trump",
+      "titleOriginal": "Donald Trump",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "publishedAt": "2026-08-24T08:20:44.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "As vendas de livros raros estão em alta. Eles estão sendo fragmentados e usados como dado de treinamento para a IA.",
+      "titleOriginal": "Rare-Book Sales Are Booming. They’re Getting Sliced Up and Fed to AI.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5kWVJGb18zenktbVhCU3VteTlsYmxuWjRPRDktUG9KTTFKVzlRWFllM0NfUGgyLWN2WFVqaWE0YzMtYVdiT2N4c00wT0o3NUNHMWpDOWROQV9EY1Vaa1hrQ0dNNFM0am5Jc2dhOTJMM1pFNkdwVENMRnZsNDBOcVVMRUp1WDVsQ0pJT01KWEFTekNidDZsSEhn?oc=5",
+      "publishedAt": "2026-08-24T07:54:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Ross Stores eleva suas perspectivas devido à crescente demanda pelo varejo com descontos",
+      "titleOriginal": "Ross Stores Boosts Outlook on Growing Demand for Off-Price Retail",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGthVmNGbWs3c3I2RjBUVFdzVkhwOEVkNjZVMHFYelNtSkl0RG9KNkNGeU5xeTRncTdlemhSN21LNnFPTUJPMWxla2tRR1NNbFUzNE51T2lpcnVDRGtvTjJBb1ByZE1rXzVjNC1jWjJUX1pFVWdlNm9pMWFub3NrbXc3SW1XZEt4ZVBUVDVPMGxPQQ?oc=5",
+      "publishedAt": "2026-08-24T07:18:39.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um enviado dos EUA esclarece suas declarações sobre as Colinas de Golã, que contradiziam a posição de Trump",
+      "titleOriginal": "A US envoy clarifies his comments on Golan Heights that contradicted Trump’s position",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVVKdER4VWQxbUZYZWN4ZWlLZmVuUWVQTnNFeVU5LU9PM0FMYTE5Mjk5RjBPb1JsR0ZfR3l0Z2JDYkxzN0pUVmtBZWZxcU1WeERFWUtLaFFNVjVMZFV3LTlPUkQwaVBzY1p3XzhSSHp3Mm5jZi16OVBrcVNQeXV1ajlxQnhpSUJleWN4TWl5bXN6elV3RmFVZk1FaUs2WmM?oc=5",
+      "publishedAt": "2026-08-24T06:25:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A perigosa cláusula sobre tarifas da Lei Lindsey Graham",
+      "titleOriginal": "Opinion | The Lindsey Graham Act’s Dangerous Tariff Provision",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVRjYzRGWEMwYUpxZTJRN0xlejVDWEZaaTJiSWNEMFlRNFdreUE2czZGNEVYR3Rna2dsYzFaZTNaWHF3SXBqYXdrcnc5bVdmQ2dyUy03TkVkVDcyaFJORkZQd3RJWExGNmJ0RkFwQzV2Y2NXMU1mV2drV3JMVEZIbmdsWUk3WVhxUW5uSXpDUXA?oc=5",
+      "publishedAt": "2026-08-24T06:05:48.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A fabricante chinesa de chips YMTC busca uma oferta pública inicial (IPO) de US$ 4,9 bilhões",
@@ -11,10 +46,24 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Shein tem como meta uma avaliação de US$ 27 bilhões na tão esperada oferta pública inicial (IPO) em Hong Kong",
+      "title": "Por trás das negociações de paz, os linha-dura do Irã se preparam para uma guerra mais longa e mais cara contra os EUA",
+      "titleOriginal": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5",
+      "publishedAt": "2026-08-24T05:45:38.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Shein busca uma avaliação de US$ 27 bilhões na tão esperada oferta pública inicial (IPO) em Hong Kong",
       "titleOriginal": "Shein Targets $27 Billion Valuation in Long-Awaited Hong Kong IPO",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFBqU2JPSXNiT1o2c3FLOEVKMEtweGhaaE41LWdLMnFtaF9nMFlPSVplTkhWcmVGbURkelpqb1huR0RaZGJVNGJLVW1RYndOSDJqNmplQmJoWmtmNmVnVS1aQ2tsOXJnd1AyTE5udXlHNW0xTXlEWUZJTEx4ekg1azNfSi1zQkE4WnJXM0NZNEtEc2xSMWpZeFFVTmY2Q2g3ZlFzYkxXNjFOMHN4Mkt2OWJB?oc=5",
       "publishedAt": "2026-08-24T04:41:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os trabalhadores na China temem serem substituídos enquanto se adaptam ao crescente impacto da IA nos empregos",
+      "titleOriginal": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?oc=5",
+      "publishedAt": "2026-08-24T04:19:00.000Z"
     },
     {
       "source": "New York Times",
@@ -22,55 +71,6 @@
       "titleOriginal": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
       "link": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
       "publishedAt": "2026-08-24T04:16:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Autoridades militares de Uganda e Burundi visitam Israel para discutir o envio de tropas para Gaza",
-      "titleOriginal": "Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFl0Zm5zMUJxNjNoN3U1UDVDaGhDUy1ETU5Xcm5WSkJmVXJ5QjlQVlV2TVFYZlNud0R0cUdkVVZPR1l6MVNydDhPc2doV1ZrTkV2V1I0SW84UmVrQkhNU1BjaFY1bVpSSW0wTG55X1ktRlBydjZRRjhnVGNFVGJwZVNJbFlJMU9MamhreWhXaVdBenBnWWZva2JWUHd4SkY3QWl1bVUydi0xUQ?oc=5",
-      "publishedAt": "2026-08-24T04:14:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O que é preciso saber sobre a votação na Islândia sobre a retomada das negociações para a adesão à UE",
-      "titleOriginal": "What to know about Iceland’s vote on whether to restart talks to join the EU",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhEZFNJT0E1UlRsRFVrbUNTaFU2bEFublpXNl9qWmpibzJfZkI3cHJ1eVJ6bFJYQkNFWi05dlR3TkFoWHRZa2pTOF9fZVIycGZOSmZQVzRFa09UOU44dWJYcWFKbEJVRVljX1lIeEZDUG8xZDlRNDNlWEc0WklaNUxJUlJJdGJlUnJCaFZVZEdkQzZhWUduck03YzZpVVNtOFVPSUJmVVpfcjZLam9wQndyUlpmdzlRMnZtOUZiYw?oc=5",
-      "publishedAt": "2026-08-24T04:11:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Alibaba vai levantar US$ 10,20 bilhões para investimentos em IA por meio de uma colocação de ações",
-      "titleOriginal": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
-      "publishedAt": "2026-08-24T03:43:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os trabalhadores na China temem serem substituídos enquanto se adaptam ao impacto cada vez maior da IA nos empregos",
-      "titleOriginal": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?oc=5",
-      "publishedAt": "2026-08-24T03:42:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Zelenskyy detalha o desentendimento com o ex-ministro da Defesa da Ucrânia, Fedorov",
-      "titleOriginal": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-      "publishedAt": "2026-08-24T02:42:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Militar a bordo do USS Lincoln condena a detenção de seu pai pelo ICE",
-      "titleOriginal": "Servicemember aboard USS Lincoln decries father’s ICE detention",
-      "link": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
-      "publishedAt": "2026-08-24T02:10:17.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Europa criticou duramente a retrocessão de Trump em relação ao clima. Agora, está adiando suas próprias metas ambientais.",
-      "titleOriginal": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVh2VHQ2Z093QnljTUpwSDV2eVV4UjQ1T0NKVHZXZ0pUaDRTOGdBZlVfXzJURzdlUV91UVFERkJmWi1uYXR2d0hYeUdjNFVjbDZkQ0hXQVowUHZoT1p6Z2tJRUllZlQzelJPbDRPQVNNY1ZUZnRSM3FxR19fNVZKY28xbDhXZEV3aklNUzZkcjNEMVd1V3BWOHpKTWhrTGY0a1dlN2NVQklLeW40TG44azdMM3k5dnBScFkw?oc=5",
-      "publishedAt": "2026-08-24T02:00:00.000Z"
     }
   ]
 }
