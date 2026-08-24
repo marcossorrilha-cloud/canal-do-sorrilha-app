@@ -1,24 +1,59 @@
 {
-  "updatedAt": "2026-08-24T22:57:06.120Z",
+  "updatedAt": "2026-08-24T23:48:23.676Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Trump tem buscado discretamente assumir o controle do Serviço Postal para transformar as eleições nos EUA",
-      "titleOriginal": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
-      "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
-      "publishedAt": "2026-08-24T22:42:21.000Z"
+      "source": "Axios",
+      "title": "A resistência de Mark Carney a Trump está deixando o Canadá em festa",
+      "titleOriginal": "Mark Carney's defiance of Trump has Canada cheering",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVhiYlA0V21oenNwYk4zalJucFJRcTBwRkp3eGdoU3BDZnVqU2RLeW1EZ1gwSmFCUkVFX01sUlRoV3pRV3lMLXl5WmJ2dmlWaTR5d0hpZEhCWUdFRENYTkVWVDdOTW51aFczSXZqYXBGLTlTWFdXNk5aVzZLQi01eDc0eURSMW1tSURUZy16bw?oc=5",
+      "publishedAt": "2026-08-24T23:36:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Bills expressa suas condolências e oferece apoio ao defensive tackle Ed Oliver após a morte de seu filho de 1 ano",
+      "titleOriginal": "Bills offer condolences, support to defensive tackle Ed Oliver following death of his 1-year-old son",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlRoRlE2UHlLR1YxT2hkUzdPc2Ytbmc5RGFUcWd6VXBHNUU3X2hjRDRPMVBHdUV6Ykdlc19pdWpVRHVVekJTM3gtaDNYMEhxQkJGZGt0VVpobzdKM0EtNW5vR2NtY1NhVlVVWkkwemxtRVlZdHoyZ0s0MTFRZ2taamhpazF5LWxOT0dOMFhCV2dFeEVNbWVJdA?oc=5",
+      "publishedAt": "2026-08-24T23:36:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Califórnia promete lutar contra a ordem de Trump sobre o voto por correspondência",
+      "titleOriginal": "California vows to fight Trump's mail-in voting order",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2hKOHpmSXktRmoycENqUFo2cnpVcm9RSU5wb3JIcDdxRlRUb3Jqbk91cVpKMXlmdy1wQzZYNmJDckpiel8wb0RoUEY0X3JieV9jTFVuc0E0Zl9HeklyWHZyc21sRHVoSXp1OWIzMnpLbFk0bTRDOWpENVNhVU9kVjVyRFh5c0REOGxRNUliZ0cwLXB6M0c3NldOWU1PT0E?oc=5",
+      "publishedAt": "2026-08-24T23:16:21.000Z"
     },
     {
       "source": "AP News",
       "title": "O Canadá anunciará tarifas retaliatórias contra os Estados Unidos nesta terça-feira, informou uma autoridade à AP",
       "titleOriginal": "Canada will announce retaliatory tariffs against the United States on Tuesday, official tells AP",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-      "publishedAt": "2026-08-24T22:42:00.000Z"
+      "publishedAt": "2026-08-24T23:10:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump tem buscado discretamente assumir o controle do Serviço Postal para transformar as eleições nos EUA",
+      "titleOriginal": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+      "publishedAt": "2026-08-24T23:09:01.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os últimos dias do LIV Golf: contas pendentes e uma corrida por dinheiro",
+      "titleOriginal": "The Final Days of LIV Golf: Unpaid Bills and a Scramble for Cash",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43MHoyYjFYYnBEOGhGdE5NcFB1TTBubjFiRHA2S2Y1eXBCa2xnTTcwMi1yNVU3R09JS3BxZEczeEtkLW1qU080aXl2NnNTRnFpYU5Ia3BabG1qeTBjaG5GNjAyUTRqUQ?oc=5",
+      "publishedAt": "2026-08-24T23:01:11.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A ex-apresentadora de notícias locais na batalha política de sua vida",
+      "titleOriginal": "The Former Local News Anchor in the Political Fight of Her Life",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1VGeWZaaTJzdXdoaW5qb2I2YXU2elhKdnBOOVpPbkdRZmd4M0s3dk5FcjBGMDlLUHdpNzY5czlBMV85NVlweGJveXFCVmRUMV91MEUteXl4U2JselNacndHckVDb251ZGhUUlQ1d2RNNDdLd1NlYjZoclhZb2NfNGVjamQzejc0eUZ3cm1MT1ozNjlxNGNVZWNCeWJkckRxZ1JaQ1dzX2FFUFJLdF9mVw?oc=5",
+      "publishedAt": "2026-08-24T22:36:11.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Mamdani manifesta apoio a Jeffries em meio à repercussão negativa da reunião com Kushner",
+      "title": "Mamdani manifesta apoio a Jeffries em meio às repercussões da reunião com Kushner",
       "titleOriginal": "Mamdani voices support for Jeffries amid Kushner meeting blowback",
       "link": "https://thehill.com/homenews/state-watch/6047870-mamdani-supports-jeffries-kushner-meeting/",
       "publishedAt": "2026-08-24T22:26:06.000Z"
@@ -31,46 +66,11 @@
       "publishedAt": "2026-08-24T21:52:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombaram",
-      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
-      "publishedAt": "2026-08-24T21:49:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Walmart está apostando no longo prazo ao reduzir os preços",
-      "titleOriginal": "Walmart Is Playing the Long Game by Lowering Prices",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDNyNWY2ajdiV3JJMnJHYVY1Ml8waERhbkZKbjVMRHVQUzluTVJjT3F2aENqUDA1UC00S3QzdkNxT21rSkpRamRKaWpUdGtMREtqR1ljUmstTUFOWHNHbF9fZ1FTd2IyNmxjbVNTbUlzMHh6TEM1MTBfMUxWNktJeExuUFBBemdBaXZjT01ld1lzYzdPd08w?oc=5",
-      "publishedAt": "2026-08-24T21:45:55.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "A “pauta paralela” da Suprema Corte está mudando?",
       "titleOriginal": "Is the Supreme Court’s Shadow Docket Changing?",
       "link": "https://www.nytimes.com/video/us/politics/100000011086271/is-the-supreme-courts-shadow-docket-changing.html",
       "publishedAt": "2026-08-24T21:42:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "El-Sayed se distancia dos comentários de um streamer popular sobre Israel e os judeus americanos",
-      "titleOriginal": "El-Sayed distances himself from popular streamer's comments on Israel and Jewish Americans",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlduTkxVVExlUnFuS012Y1VBYWRqSjVCd3ZRV3dVbGluUnZabGc4RXFqTllqN2FIYklXTjREallHNm5HYkR6dnVFSTVlLWl5UDFJMi1kUVowZzQ5UEF1NjNqcV9mZlMwOU81R3lsRFc5QXM3WkRXNTJtLXBqanVpanktUUs4N1V1UXJxb1hNQzZGd2o0WGRvaWp4UnF4bGUtSnFuUDhkS3pjNy00OVBsWS14QVRnZw?oc=5",
-      "publishedAt": "2026-08-24T21:42:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ameaças de Trump sobre o “Dia D econômico” se transformam em alertas para que os países rompam laços financeiros com o Irã",
-      "titleOriginal": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-      "publishedAt": "2026-08-24T21:41:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zelensky afirma que uma eleição em tempo de guerra “destruiria” a Ucrânia",
-      "titleOriginal": "Zelensky says wartime election would 'destroy' Ukraine",
-      "link": "https://thehill.com/policy/international/6047727-zelensky-opposes-wartime-elections/",
-      "publishedAt": "2026-08-24T21:39:32.000Z"
     }
   ]
 }
