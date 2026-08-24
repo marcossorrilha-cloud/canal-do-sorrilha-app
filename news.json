@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-24T16:19:48.576Z",
+  "updatedAt": "2026-08-24T18:03:06.704Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Não diga aos torcedores do Eagles que é só um treino.",
+      "titleOriginal": "Don't tell Eagles fans it's just practice.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFN3eVpMVTBMTWxxX0VfQTBlV1I5OXNaVHk3cU1FX3M3N3dUNmZETTF4UDZ6T3VTZWp3MGpORW1iMTlzR1Z4UFZuZlRFUXBFeTBBRlBqTzN5SHVaVUN6dGRxWHcycXhUTVFFVTVOZU8zQ0hjcG1Sak8wd0E1WC1nNHNIbkJXZDQ0RWViejBEX0Y5LWM3TW1xTGtQamhyMDZYek1qQTFDVVAxV3g5U3dBX25ncFp6QQ?oc=5",
+      "publishedAt": "2026-08-24T18:01:08.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O deputado Al Green apresenta novamente os artigos de impeachment contra Trump",
-      "titleOriginal": "Rep. Al Green files articles of impeachment against Trump again",
-      "link": "https://thehill.com/homenews/house/6046947-green-introduces-trump-impeachment-articles/",
-      "publishedAt": "2026-08-24T16:12:56.000Z"
+      "title": "Collins critica as tarifas impostas por Trump ao Canadá, classificando-as como um “erro”",
+      "titleOriginal": "Collins blasts Trump’s Canada tariffs as a ‘mistake’",
+      "link": "https://thehill.com/homenews/senate/6047210-collins-trump-canada-tariffs/",
+      "publishedAt": "2026-08-24T17:55:29.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Bessent anuncia sanções destinadas a paralisar o Irã",
+      "titleOriginal": "Bessent unveils sanctions designed to cripple Iran",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iRnhQekZOLVdfVWVKWDJ4bk9Rd1lBZ2NFbnk0ZjVYcXNFeDMwSmxzdy1zaGpqWWRNMlhmY29GWHNsTEI2MjduN0xnQzNwY3RLZjdvUkR0aXZTa1MyaHN1eldPa09rLUhxWUhKdy1fNmNMR0lZTVRlZy1n?oc=5",
+      "publishedAt": "2026-08-24T17:26:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Candidato republicano ao governo de Oklahoma: Trump está “errado” sobre tarifas e importações de carne bovina",
+      "titleOriginal": "Oklahoma GOP gubernatorial candidate: Trump's 'wrong' on tariffs, beef imports",
+      "link": "https://thehill.com/homenews/campaign/6047107-drummond-critiques-trump-beef-tariffs/",
+      "publishedAt": "2026-08-24T17:21:32.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Bilionário da Flórida paga US$ 40 milhões por um Ferrari elétrico que todos zombavam",
+      "titleOriginal": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHBfNnRRU0NHUDB1Qk4wQ3RxWVhkNF9SbWNrT05vYjFydFFTRXdWWk82MktDWnhhbERCUGlhdEtkek85M21QY1RUV0o3TjVaVXFkQndDZjQ3RHVRS2F2LURkMERINjFqZ0pKczBKNHpRaFk4TFNGVlJndkpEbHd6TndtV01FZVdzUU9pbm1jUkJHWVhMb24wSGNuX0JPcXBEeVFpNW1ubF9NY01qVTlaTm5n?oc=5",
+      "publishedAt": "2026-08-24T17:19:42.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Walmart está apostando no longo prazo ao reduzir os preços",
+      "titleOriginal": "Walmart Is Playing the Long Game by Lowering Prices",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDNyNWY2ajdiV3JJMnJHYVY1Ml8waERhbkZKbjVMRHVQUzluTVJjT3F2aENqUDA1UC00S3QzdkNxT21rSkpRamRKaWpUdGtMREtqR1ljUmstTUFOWHNHbF9fZ1FTd2IyNmxjbVNTbUlzMHh6TEM1MTBfMUxWNktJeExuUFBBemdBaXZjT01ld1lzYzdPd08w?oc=5",
+      "publishedAt": "2026-08-24T17:15:55.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump ameaça impor novas tarifas de 50% sobre carros, caminhões e aço à medida que a guerra comercial entre os EUA e o Canadá se intensifica",
-      "titleOriginal": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-      "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
-      "publishedAt": "2026-08-24T16:12:24.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O rial iraniano atinge nova cotação mínima histórica enquanto os EUA se preparam para anunciar mais sanções",
-      "titleOriginal": "Iran’s rial currency hits new record low as US prepares to announce more sanctions",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-      "publishedAt": "2026-08-24T16:05:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista: Vance leva a agenda econômica de Trump de volta ao Maine",
-      "titleOriginal": "Watch: Vance takes Trump economic agenda back to Maine",
-      "link": "https://thehill.com/video-clips/6046925-watch-jd-vance-donald-trump-agenda-maine/",
-      "publishedAt": "2026-08-24T16:03:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Eleitores insatisfeitos de Ohio poderiam transformar o estado em “roxo” novamente",
-      "titleOriginal": "Angry Ohio Voters Could Turn Their State Purple Again",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
-      "publishedAt": "2026-08-24T15:52:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Miss Carolina do Norte EUA destronada entra com ação judicial, alegando que foi destituída da coroa por causa de suas crenças conservadoras",
-      "titleOriginal": "Dethroned Miss North Carolina USA files lawsuit, says she was stripped of crown over conservative beliefs",
-      "link": "https://thehill.com/homenews/state-watch/6046800-dethroned-miss-north-carolina-usa-files-lawsuit-says-she-was-stripped-of-crown-over-conservative-beliefs/",
-      "publishedAt": "2026-08-24T15:40:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O que é preciso saber sobre as tarifas impostas por Trump aos produtos canadenses e o aumento das tensões entre aliados que antes eram próximos",
-      "titleOriginal": "What to know about Trump's tariffs on Canadian goods and rising tensions between once close allies",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
-      "publishedAt": "2026-08-24T15:29:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump se gaba de que seus apoios estão “mais fortes do que nunca”",
-      "titleOriginal": "Trump boasts his endorsements are 'stronger than ever'",
-      "link": "https://thehill.com/homenews/campaign/6046531-trump-claims-endorsement-success-midterms/",
-      "publishedAt": "2026-08-24T15:21:19.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas exigem que Trump e Hegseth forneçam detalhes sobre os custos da guerra no Irã: reportagem",
-      "titleOriginal": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
-      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
-      "publishedAt": "2026-08-24T15:15:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "EUA devem anunciar sanções do “Dia D econômico” voltadas para a economia do Irã",
+      "title": "EUA devem anunciar sanções do “Dia D econômico” contra a economia do Irã",
       "titleOriginal": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
       "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
-      "publishedAt": "2026-08-24T15:12:17.000Z"
+      "publishedAt": "2026-08-24T17:03:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Duas aeronaves militares americanas de reabastecimento partem da Bulgária em meio à indignação do Irã com o envio dessas aeronaves",
+      "titleOriginal": "2 US military refueling aircraft depart Bulgaria amid anger from Iran over deployment",
+      "link": "https://thehill.com/policy/defense/6047077-bulgaria-iran-air-force/",
+      "publishedAt": "2026-08-24T17:00:48.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Principais políticos do Irã pedem o fim da guerra",
+      "titleOriginal": "Iran’s Top Politicians Urge an End to the War",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzB5MjdWWVk1UllCajhNTW9lUXJHdkVsaGR0VWx4aXR1YWstRTA4YjNFWURXcmVITFA3MG80OF9EbHJuWGlFZWVnMkhYMjAzVnVpTTVWYk16UzAtN3p3R3k5Ti1mZE5tZTc2Vl83SHp2dTBqWTZoVFlEcXRKRUlCMzRyWnRFdGplcmp2WHhVWjhnVzJZelE?oc=5",
+      "publishedAt": "2026-08-24T16:47:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As medidas econômicas restritivas de Trump têm como alvo o Irã e o Canadá",
+      "titleOriginal": "Trump’s economic squeeze targets Iran, Canada",
+      "link": "https://thehill.com/newsletters/1230-report/6047079-donald-trump-economic-squeeze-iran-sanctions-canada-tariffs/",
+      "publishedAt": "2026-08-24T16:40:00.000Z"
     }
   ]
 }
