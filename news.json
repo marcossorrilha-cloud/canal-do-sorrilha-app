@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-24T14:26:21.643Z",
+  "updatedAt": "2026-08-24T16:19:48.576Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "O deputado Al Green apresenta novamente os artigos de impeachment contra Trump",
+      "titleOriginal": "Rep. Al Green files articles of impeachment against Trump again",
+      "link": "https://thehill.com/homenews/house/6046947-green-introduces-trump-impeachment-articles/",
+      "publishedAt": "2026-08-24T16:12:56.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "EUA devem anunciar campanha mais abrangente para paralisar a economia do Irã",
-      "titleOriginal": "U.S. to Unveil Broader Campaign to Cripple Iran’s Economy",
+      "title": "Trump ameaça impor novas tarifas de 50% sobre carros, caminhões e aço à medida que a guerra comercial entre os EUA e o Canadá se intensifica",
+      "titleOriginal": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
+      "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
+      "publishedAt": "2026-08-24T16:12:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O rial iraniano atinge nova cotação mínima histórica enquanto os EUA se preparam para anunciar mais sanções",
+      "titleOriginal": "Iran’s rial currency hits new record low as US prepares to announce more sanctions",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+      "publishedAt": "2026-08-24T16:05:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista: Vance leva a agenda econômica de Trump de volta ao Maine",
+      "titleOriginal": "Watch: Vance takes Trump economic agenda back to Maine",
+      "link": "https://thehill.com/video-clips/6046925-watch-jd-vance-donald-trump-agenda-maine/",
+      "publishedAt": "2026-08-24T16:03:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Eleitores insatisfeitos de Ohio poderiam transformar o estado em “roxo” novamente",
+      "titleOriginal": "Angry Ohio Voters Could Turn Their State Purple Again",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
+      "publishedAt": "2026-08-24T15:52:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Miss Carolina do Norte EUA destronada entra com ação judicial, alegando que foi destituída da coroa por causa de suas crenças conservadoras",
+      "titleOriginal": "Dethroned Miss North Carolina USA files lawsuit, says she was stripped of crown over conservative beliefs",
+      "link": "https://thehill.com/homenews/state-watch/6046800-dethroned-miss-north-carolina-usa-files-lawsuit-says-she-was-stripped-of-crown-over-conservative-beliefs/",
+      "publishedAt": "2026-08-24T15:40:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O que é preciso saber sobre as tarifas impostas por Trump aos produtos canadenses e o aumento das tensões entre aliados que antes eram próximos",
+      "titleOriginal": "What to know about Trump's tariffs on Canadian goods and rising tensions between once close allies",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+      "publishedAt": "2026-08-24T15:29:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump se gaba de que seus apoios estão “mais fortes do que nunca”",
+      "titleOriginal": "Trump boasts his endorsements are 'stronger than ever'",
+      "link": "https://thehill.com/homenews/campaign/6046531-trump-claims-endorsement-success-midterms/",
+      "publishedAt": "2026-08-24T15:21:19.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas exigem que Trump e Hegseth forneçam detalhes sobre os custos da guerra no Irã: reportagem",
+      "titleOriginal": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "publishedAt": "2026-08-24T15:15:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "EUA devem anunciar sanções do “Dia D econômico” voltadas para a economia do Irã",
+      "titleOriginal": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
       "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
-      "publishedAt": "2026-08-24T14:17:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Crianças britânicas estão deixando de lado as melhores faculdades para seguir cursos de aprendizagem em áreas administrativas",
-      "titleOriginal": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnlnbHN0RG40eGIxRlpDTWRLcmJsRk9EZjFwdlZKbWVYV2M3dHNmMWloTFV3am1TSEIxeHBYd2lYTlZyY1pOR3JWYXVSSk83UU05dGpKQzk0WmRiYi1lalhSVEUxQlpsZFNoQ21WS0hoQmVWRTJBSi1ld2hROWNka2VNbmsxVTFOUndRNmZVT0xpMVpfbkVLcXl5VkdTY0tOalRCNUpoWHE5Rnk1VkJpQmMtQmFsUkpoVkE?oc=5",
-      "publishedAt": "2026-08-24T14:03:03.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã adverte que dará uma resposta contundente às sanções previstas pelos EUA e outras notícias do Oriente Médio",
-      "titleOriginal": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-      "publishedAt": "2026-08-24T13:47:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A abordagem econômica de Trump suscita preocupação entre alguns republicanos",
-      "titleOriginal": "Trump’s Economic Approach Draws Concern From Some Republicans",
-      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
-      "publishedAt": "2026-08-24T13:30:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Será que o comportamento questionável do movimento MAGA se tornou uma nova norma?",
-      "titleOriginal": "Has questionable MAGA behavior become a new norm?",
-      "link": "https://thehill.com/opinion/white-house/6045478-trump-politics-new-normal/",
-      "publishedAt": "2026-08-24T13:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump culpa os promotores de Nova York pelo papel de Cohen no julgamento sobre o pagamento para silenciar",
-      "titleOriginal": "Trump blames New York prosecutors for Cohen's role in hush money trial",
-      "link": "https://thehill.com/homenews/administration/6046476-donald-trump-michael-cohen-new-york-hush-money-case-officials-blame-game/",
-      "publishedAt": "2026-08-24T13:29:08.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Líderes europeus comemoram o 35º Dia da Independência da Ucrânia enquanto a invasão russa continua",
-      "titleOriginal": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
-      "publishedAt": "2026-08-24T13:28:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Amish Shah conquista o segundo apoio da polícia, superando Jay Feely",
-      "titleOriginal": "Exclusive: Amish Shah wins second police endorsement over Jay Feely",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTktOV1ZyRG94QzFqWVF6eWVIdDJzdEgzX1VmT0tWcnpDTGtkaEVSTTFwZ2RWVHVkNWJ1T2R2ampEQjBoZGRHZG5ES2FJeXVuMVpOQWdoNG1MUDhzV0F1MlByeEplMmNXSXRucWhmVzUtZDVpTm8xa1Nvb1g3TlpZc1FZZ19qNzQwRk03YXh2UUFabEk2QUNYUVdPb2xRdw?oc=5",
-      "publishedAt": "2026-08-24T13:23:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Donald Trump",
-      "titleOriginal": "Donald Trump",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "publishedAt": "2026-08-24T13:20:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Opinião do editor: Guerra comercial entre EUA e Canadá se intensifica; Trump enfrenta reação negativa em relação à carne bovina; Graham dá o último impulso na Carolina do Sul",
-      "titleOriginal": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final South Carolina push",
-      "link": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/",
-      "publishedAt": "2026-08-24T13:05:20.000Z"
+      "publishedAt": "2026-08-24T15:12:17.000Z"
     }
   ]
 }
