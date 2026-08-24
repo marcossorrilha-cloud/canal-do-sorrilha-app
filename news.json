@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-24T11:58:49.603Z",
+  "updatedAt": "2026-08-24T14:26:21.643Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Os eleitores de Huntsville vão às urnas nesta terça-feira",
-      "titleOriginal": "Huntsville voters head to polls Tuesday",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUmFkaVZOTHFfcGMtV1hPV0U0Uktzb1hsU3F1ZTk3TWFtcFVhVXhWRVJFVlZ5QlVMVnJHcThJSE9tVEZZaDVvQkNhVDUyMVh0WGpkZU8yVGd1aHdQdjc2RmM5VHVuLUYybUlwYkJQTjdjSzZ0TEs5Sm1XaU5fTk15c2dtWUlicnB0YnBGVXNlRlBPSEpWYmFFLVNXbW56ODh1S25fazNsbTQtZGtMUl9QdGJzVzdsUWM?oc=5",
-      "publishedAt": "2026-08-24T11:46:10.000Z"
+      "source": "New York Times",
+      "title": "EUA devem anunciar campanha mais abrangente para paralisar a economia do Irã",
+      "titleOriginal": "U.S. to Unveil Broader Campaign to Cripple Iran’s Economy",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+      "publishedAt": "2026-08-24T14:17:31.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A ex-apresentadora de notícias locais na batalha política de sua vida",
-      "titleOriginal": "The Former Local News Anchor in the Political Fight of Her Life",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1VGeWZaaTJzdXdoaW5qb2I2YXU2elhKdnBOOVpPbkdRZmd4M0s3dk5FcjBGMDlLUHdpNzY5czlBMV85NVlweGJveXFCVmRUMV91MEUteXl4U2JselNacndHckVDb251ZGhUUlQ1d2RNNDdLd1NlYjZoclhZb2NfNGVjamQzejc0eUZ3cm1MT1ozNjlxNGNVZWNCeWJkckRxZ1JaQ1dzX2FFUFJLdF9mVw?oc=5",
-      "publishedAt": "2026-08-24T11:31:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso deve agora cumprir sua parte no combate à fraude no Medicare",
-      "titleOriginal": "Congress must now do its part on Medicare fraud",
-      "link": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-      "publishedAt": "2026-08-24T11:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Prefeito de Minneapolis e Conselho de Parques discutem sobre aumento de impostos",
-      "titleOriginal": "Minneapolis mayor, Park Board battle over tax hike",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0wyVmlsNkt2bVdLbGpEY3N4SUFMT0dXYlpOSWJHcTZRdUtfU2FUbDdBTWw0R2xjUWtqQmJEZTZ4LVFNMmw0QTU0TDlnbXBHVGh4dGNFNklkLXB6enRuRWRFX3BVRVdwU3BjWkRjNFZLVExGb3lBd1k1RW5WTUxGb0RXcHpXNFRKeW1qRGpFV20zQnlFRm1v?oc=5",
-      "publishedAt": "2026-08-24T11:29:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Quanto as deportações em massa poderiam custar aos contribuintes do Condado de Harris",
-      "titleOriginal": "What mass deportations could cost Harris County taxpayers",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2w0Q0xLWS14eUVlN1llaWRnMENPU2pabGtvOV8xRXhjZjMySGV0TWFCNXZDbks2NUEzSTd3MktaLXZEdm8xYnFNTkRNV3Iza2pEbWphOFFNTlVJWktzMzVDU1A1Wkk0UndoS3hXQ1RIZV9wY2lqWkxlanJBSnVEYTItbVVld0czMm9yeHJ3?oc=5",
-      "publishedAt": "2026-08-24T11:21:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Condado de Bexar registra avanços na questão dos sem-teto, mas precisa de mais serviços",
-      "titleOriginal": "Bexar County sees progress on homelessness, but needs more services",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZExIRzBHakpRZE9sT3VVNHZKUnM3d3oyLWZDMmdxRVlQVkgyaXUzcFV6d3MtcWJUVUxwYy1SNEpmRG01OXlRM2FXeDROcF9HQnRhcnF4RVl4dHIwcTd5WGdqZTB6OU9ybFBDZEk2QnRJRzZfZXhWQUNUSy1WYms2ZW1Lb3hvODV1UGd1ZHFWMXhITnV0UmV5NjFFOFRhUUE?oc=5",
-      "publishedAt": "2026-08-24T11:21:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quatro estados onde os democratas estão se distanciando de sua própria imagem",
-      "titleOriginal": "Four states where Democrats are running away from their own brand",
-      "link": "https://thehill.com/opinion/campaign/6044012-democrats-independent-senate-strategy-explained/",
-      "publishedAt": "2026-08-24T11:00:00.000Z"
+      "title": "Crianças britânicas estão deixando de lado as melhores faculdades para seguir cursos de aprendizagem em áreas administrativas",
+      "titleOriginal": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnlnbHN0RG40eGIxRlpDTWRLcmJsRk9EZjFwdlZKbWVYV2M3dHNmMWloTFV3am1TSEIxeHBYd2lYTlZyY1pOR3JWYXVSSk83UU05dGpKQzk0WmRiYi1lalhSVEUxQlpsZFNoQ21WS0hoQmVWRTJBSi1ld2hROWNka2VNbmsxVTFOUndRNmZVT0xpMVpfbkVLcXl5VkdTY0tOalRCNUpoWHE5Rnk1VkJpQmMtQmFsUkpoVkE?oc=5",
+      "publishedAt": "2026-08-24T14:03:03.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Irã adverte que dará uma resposta severa às sanções previstas pelos EUA e outras notícias do Oriente Médio",
+      "title": "O Irã adverte que dará uma resposta contundente às sanções previstas pelos EUA e outras notícias do Oriente Médio",
       "titleOriginal": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-      "publishedAt": "2026-08-24T10:48:00.000Z"
+      "publishedAt": "2026-08-24T13:47:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A abordagem econômica de Trump suscita preocupação entre alguns republicanos",
+      "titleOriginal": "Trump’s Economic Approach Draws Concern From Some Republicans",
+      "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+      "publishedAt": "2026-08-24T13:30:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Será que o comportamento questionável do movimento MAGA se tornou uma nova norma?",
+      "titleOriginal": "Has questionable MAGA behavior become a new norm?",
+      "link": "https://thehill.com/opinion/white-house/6045478-trump-politics-new-normal/",
+      "publishedAt": "2026-08-24T13:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump culpa os promotores de Nova York pelo papel de Cohen no julgamento sobre o pagamento para silenciar",
+      "titleOriginal": "Trump blames New York prosecutors for Cohen's role in hush money trial",
+      "link": "https://thehill.com/homenews/administration/6046476-donald-trump-michael-cohen-new-york-hush-money-case-officials-blame-game/",
+      "publishedAt": "2026-08-24T13:29:08.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Líderes europeus comemoram o 35º Dia da Independência da Ucrânia enquanto a invasão russa continua",
+      "titleOriginal": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
+      "publishedAt": "2026-08-24T13:28:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Enquete: Você votaria em JD Vance para presidente?",
-      "titleOriginal": "Poll: Would you vote for JD Vance for president?",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdxQ05EYVp1WTRaTzBGamRRcDN0UkJkazdiSXcyZTdPQWlEVTZkTGE2a3RjcDlkVmVya2M5cENvVEVCRWJ5WXVwNGZqdnp4NGU5WUhvaVF4cVdTUGZHUnJFYnNRamU3d3pUMnUxWDFkVmhsOWZXdGZvYzhQOEgwZV9FSi1ia0dENGJpZ3QtYkRkTG92amk4dWRXU3ByU0s0S1M0b2lEUQ?oc=5",
-      "publishedAt": "2026-08-24T10:27:05.000Z"
+      "title": "Exclusivo: Amish Shah conquista o segundo apoio da polícia, superando Jay Feely",
+      "titleOriginal": "Exclusive: Amish Shah wins second police endorsement over Jay Feely",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTktOV1ZyRG94QzFqWVF6eWVIdDJzdEgzX1VmT0tWcnpDTGtkaEVSTTFwZ2RWVHVkNWJ1T2R2ampEQjBoZGRHZG5ES2FJeXVuMVpOQWdoNG1MUDhzV0F1MlByeEplMmNXSXRucWhmVzUtZDVpTm8xa1Nvb1g3TlpZc1FZZ19qNzQwRk03YXh2UUFabEk2QUNYUVdPb2xRdw?oc=5",
+      "publishedAt": "2026-08-24T13:23:45.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Legisladores da Geórgia miram carros barulhentos e silenciadores modificados",
-      "titleOriginal": "Georgia lawmakers take aim at loud cars and modified mufflers",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXZOTTYwVW5KWVlkRjVDNUFoYWRaNktlTUg4ZjhvRzdtem9pcUFrOTZhWlRJUnVPWTg4QW4xWGVZeGxnS3RXMEh6TV9ucm9xRXFPMGxFVXBONTQtUF9WdHV0VUF2cjl4UFpPX1ZLcjhoQjhJcnFBM3cyMkQ5a29BYk1fLXBxVFhRZU5mV3hvTVhFYmNLcTREdzZNaUdrMGpRemltOHk4WmxsTXp5V0hpb1N0T0I?oc=5",
-      "publishedAt": "2026-08-24T10:27:05.000Z"
+      "source": "AP News",
+      "title": "Donald Trump",
+      "titleOriginal": "Donald Trump",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "publishedAt": "2026-08-24T13:20:11.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Opinião do editor: Guerra comercial entre EUA e Canadá se intensifica; Trump enfrenta reação negativa em relação à carne bovina; Graham dá o último impulso na Carolina do Sul",
+      "titleOriginal": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final South Carolina push",
+      "link": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/",
+      "publishedAt": "2026-08-24T13:05:20.000Z"
     }
   ]
 }
