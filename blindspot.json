@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-24T16:20:15.647Z",
-  "slot": "2026-08-24-PM",
+  "updatedAt": "2026-08-25T03:17:26.673Z",
+  "slot": "2026-08-25-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Doze pessoas foram presas após acidente na A66 que causou a morte de sete pessoas, incluindo dois policiais",
-      "titleOriginal": "Twelve people arrested after A66 crash that killed seven including two police officers",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3VIZ2ZrRHZIZzdjNEtyeGUzanpoN1FmbHRwcmFuVVpGTlBfYS11clQ4ejVNNGV4Wm4wVDBWWmZwS1pfX0JRTkQ2UmNpajBTSkx6aWlheEFacVplQ1FCNEI2SWQyZEtrTXl0bzFoSjV5aUxZVXFNQmhwRGNXRHg5VC0xN2tfR1RmekZYOGc2dlVRSDRHc01pS1JJY0ExeDFHQUdzcDljeGR6d2Y5aTlDc3cwcHVHaC1EZlV5VElta0RqQV9j?oc=5",
-      "source": "The Guardian",
-      "coverage": 4
+      "title": "Karen Solomon, esposa acusada pela morte de um policial em Massachusetts, acredita-se que esteja morta",
+      "titleOriginal": "Karen Solomon, Wife Charged in Massachusetts Officer’s Death, Is Believed Dead",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sbFJaT3Q5U1RRZ1AxNmMwb3piR2FnRHJnWmd4WEFVNHJVbThTWktFcGFscmlPVkZWQjQ1TzJweGUtQi1TNzdOejB3NVdqN3hrSW9SMzBuUjRtaGg1NmtGU2pRMjY0cmluaXdkWHhlWXVaZVlpYThVR2JrSQ?oc=5",
+      "source": "New York Times",
+      "coverage": 5
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Nolte: Abdul El-Sayed, candidato democrata ao Senado por Michigan, sugeriu que os EUA criam o terrorismo",
-      "titleOriginal": "Nolte: Democrat Michigan Senate Nominee Abdul El-Sayed Suggested U.S. Creates Terrorism",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUNKemdVQXZnZHFfNnhMZy1pNjdOSFNueU54QWxNaEVFSU1pV0VmZXB1TWZjeGdjZ2tDYVZDcXJSbHJ5SUhtbGhQMnhRa3R0NUtQZTBsWlhIaVJIUThNVWlSb1JJT3NzWVota0h4d3pmbHdRVGl6aTBtQWhyS2RvalpHWHBBSS05cmpHcUVhVllFbW8zOURpajUxQTZqdHp5X3A2cVc3NTB5STExcHRJd0JZYktOaDc5d0dYZFAtbUo4SnpPT3piNGRmRk9IRDdaRGo2QzYxY9IB3AFBVV95cUxOSTVJazdRZ3AzWmtSNVVlLWpRZmh5a0pwZWY1NTV5YVhveUx0QWJiYmhLSVBoeHVfb0lwSXpUd0dyRmJoOVpvYzhrUWFzbEVna3BoTTUzZEpjVjU1SzZHSjBmSzFZdDFjZ19RTUhSSnlsQVkybm43ZnZ4d1p0UXBRZHlSUmM1aVdtXzRxQXdnMkhaWkNpV0pndDZERDNCY011QXJYYmExVWotUzlqV0NKTWFNa0xONFhpcVFuMXlJTzZXdjhIMlM5ZHJCekZVcWpVUUN2aldrc0lDUGZU?oc=5",
-      "source": "Breitbart",
-      "coverage": 2
+      "title": "Notícias da Noite: Irã oferece recompensa de US$ 10 milhões por Barron Trump e Newsom aprova a “Lei Stop Nick Shirley” | 24/08/26",
+      "titleOriginal": "Evening Wire: Iran Places $10 Million Bounty on Barron Trump & Newsom Passes ‘Stop Nick Shirley Act’ | 8.24.26",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53SFpldUlxYVlQVzFoQ0cwcmJXaFdMckFacWpVcHU2YnE1VUw3bW8yWWJDMzFFOVZNeHpDVEowVFlhX0ZXdmZmVk1mSWdQdkJ1ZWJRTGVR?oc=5",
+      "source": "Daily Wire",
+      "coverage": 4
     }
   ]
 }
