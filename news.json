@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-25T10:06:05.451Z",
+  "updatedAt": "2026-08-25T11:59:14.320Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "A comemoração antecipada do plano de Trump para o complexo nuclear é prematura",
+      "titleOriginal": "The victory lap on Trump's nuclear campus plan is premature",
+      "link": "https://thehill.com/homenews/6033556-doe-nuclear-innovation-campus-plans/",
+      "publishedAt": "2026-08-25T11:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Futuros dos EUA em alta em meio à guerra comercial em curso com o Canadá",
+      "titleOriginal": "U.S. Futures Higher Amid Ongoing Trade War with Canada",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg?oc=5",
+      "publishedAt": "2026-08-25T11:06:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como a iniciativa de Trump no setor de criptomoedas está ligada às medidas de Bessent no Tesouro",
+      "titleOriginal": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3VHZrbWdLSmNBekY0WnR0dkx0Nl9rOWl4M2hTZDg0YnZuUU54MHo1SXRHT1VNbTcyRjhUQmdZVVlQbFJjcHd3TGt6TW5NSkktN3VtYUtvTEM4UVh3a0NMNHFwS3phZkxFRWtZTHJMNkZvT2VVNER3Z19PWjBxNGQ2RFl5N3JiakkwMFZMTm4wc215OGdzZHRzTHFnODlMMVppWHhmWU1nZHM?oc=5",
+      "publishedAt": "2026-08-25T11:01:27.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pesquisa AP Top 25",
+      "titleOriginal": "AP Top 25 Poll",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
+      "publishedAt": "2026-08-25T10:59:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Flórida, duramente atingida pela redução no número de beneficiários do Obamacare, sente o impacto do aumento dos custos com saúde",
+      "titleOriginal": "Florida, hard-hit by Obamacare drop-off, feels the squeeze of rising healthcare costs",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzJtZ3lmS0ptS0x1bnd1Y2R2NDQyS1VXZ1dRa3ZlT1ZCWnpGYm9ZRE13RV85TGN6Z2lqeDhtTlh4OUkzR0NkVHhUU3dRbk53REw5djlpQml5YkVVSjlVVm5sUS1MeHhTbzJHeFBtQ0JFd0FJbXhidVRNMUg2Q3FQbjZEelM3dzR0TnZ4WnJJb1lTUDQ0SllUbzlKRWtTY0ZIU3JYUDVPZWdjcjM5MDdkVWJCUzU?oc=5",
+      "publishedAt": "2026-08-25T10:41:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A próxima geração do tênis de Cincinnati entra na quadra",
+      "titleOriginal": "Next generation of Cincinnati tennis takes the court",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzh5WHBzaDlGaUEya0hXbDdYZkF3SkVqRDF2MDh4Y1BwTnlmem9PeTgtOVBlalV2eEZlM3FXN2h2Q1Rhdm05aWdHYVN5Z3YybHdYOGUyYXM2U3VmekpJNTMwa2VVaXEwVVdIamFxU1puSmlwZnJSMnk0Q3ZzbWhZNzR5V0F3bVRSSS01QVBqSkV1aTFPZ1BJMHdBc0RhM1RHUFBJa0oyUzU0azhIWjYyaA?oc=5",
+      "publishedAt": "2026-08-25T10:35:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O plano de Trump reduziria as medidas de proteção da Floresta Nacional de Allegheny",
+      "titleOriginal": "Trump plan would roll back Allegheny National Forest protections",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFhURHkxX3ppU0NzRGdHb3NiQjhLb01RdkhXSm5BeFlDR2phOFE4Y0Y4SUh4Qlh3NDZfUGg2T3ZfV1FZNzFyQ0dyN3V0ZWlLeW15a3BLczhoZ2VEekhRMjV4Y2huNkhuR3N1WS0zQjI4eXVtdkRuMGpWVHdKMHZwWW82d2JRc3NTdG9pUmJHdklmNG8?oc=5",
+      "publishedAt": "2026-08-25T10:23:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Pesquisa revela que a popularidade de John Fetterman entre os republicanos dispara",
+      "titleOriginal": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
+      "publishedAt": "2026-08-25T10:10:11.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A disputa de Trump com os senadores republicanos sobre o comércio se intensifica",
@@ -15,62 +71,6 @@
       "titleOriginal": "South Carolina runoff pits America First against MAGA",
       "link": "https://thehill.com/homenews/6047895-south-carolina-republican-senate-primary-trump-iran-national-security/",
       "publishedAt": "2026-08-25T10:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Pesquisa revela que a popularidade de John Fetterman entre os republicanos dispara",
-      "titleOriginal": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
-      "publishedAt": "2026-08-25T09:59:21.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Ele está totalmente comprometido”: Trump testa sua influência sobre o Partido Republicano com Darline Graham",
-      "titleOriginal": "‘He’s all in’: Trump tests his sway over the GOP with Darline Graham",
-      "link": "https://www.politico.com/news/2026/08/25/trump-test-darline-graham-south-carolina-01048663",
-      "publishedAt": "2026-08-25T09:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A fabricante chinesa de chips YMTC planeja uma oferta pública inicial (IPO) de US$ 4,9 bilhões",
-      "titleOriginal": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0dkSFIyV2hjS19NTkFBcUcwN2pMa2lTNGZCOVM1aS1CdWFPTjBSSXkxaFctLXVBYll6WmRJdjkwRnYyZDVIVjMwaDZQZ1ltSkxYZzIwSF9NcUVSUi1MeHBIWFR2b2xxZ3g1LVp1WlF4d01Qd25BWmE0ZTFyMDNWalVLSXYtUQ?oc=5",
-      "publishedAt": "2026-08-25T08:55:45.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Uma nova análise da guerra comercial mais idiota",
-      "titleOriginal": "Opinion | The Dumbest Trade War Revisited",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN?oc=5",
-      "publishedAt": "2026-08-25T08:51:01.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo cai enquanto o mercado ignora plano dos EUA de pressionar o Irã",
-      "titleOriginal": "Oil Falls as Market Shrugs off U.S. Plan to Squeeze Iran",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5",
-      "publishedAt": "2026-08-25T08:43:37.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Futuros dos EUA em alta, rendimentos estáveis após discurso de Bessent sobre o Irã",
-      "titleOriginal": "U.S. Futures Higher, Yields Steady after Bessent Iran Speech",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg?oc=5",
-      "publishedAt": "2026-08-25T08:36:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Califórnia promete lutar contra a ordem de Trump sobre o voto por correspondência",
-      "titleOriginal": "California vows to fight Trump's mail-in voting order",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmJaX0RwSDFVUXVBOXp4NUFQdHlHYXV2VFlteWdYeDNHd2hkeDcxTExLTFk4OWJyakpCWTdlWnlvZm5SdUJvLUd5bDJjSTRHVHVCXzhFWHdUZkxGRXpJYlE4aGtQSFBYdGtIdGZMRC1VbFYzRmdwbjY2UW5MWnZNQTdJT2FZejMzaU55NHNFOWc?oc=5",
-      "publishedAt": "2026-08-25T08:25:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As eleições nos Estados Unidos estão se tornando palco de uma disputa em torno do correio",
-      "titleOriginal": "America's elections are getting caught in a fight over the mail",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGpWempDRHlQTHM4MHdmeUhtbm92b2U4cmtrT0hrWjd6MHJfYmJDdUlGTjlLWlAtajREY0pwMENKbFhTQk9kZ2ltTlZNUFdJVElXaWFET2toNGZCaUdLSmV1X2tHYWRtVTdIdVZNdExPNEdYT1I2U3g2bk9lSzFCTjNXM1RuT0hLR2tOaUxn?oc=5",
-      "publishedAt": "2026-08-25T07:13:53.000Z"
     }
   ]
 }
