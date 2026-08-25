@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-25T19:20:09.372Z",
+  "updatedAt": "2026-08-25T21:00:05.793Z",
   "count": 10,
   "items": [
-    {
-      "source": "New York Times",
-      "title": "A “pauta secreta” da Suprema Corte está mudando?",
-      "titleOriginal": "Is the Supreme Court’s Shadow Docket Changing?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011086271/is-the-supreme-courts-shadow-docket-changing.html",
-      "publishedAt": "2026-08-25T19:13:25.000Z"
-    },
     {
       "source": "AP News",
       "title": "Irã e Omã mantêm conversações sobre a gestão do Estreito de Ormuz e outras notícias do Oriente Médio",
       "titleOriginal": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
-      "publishedAt": "2026-08-25T19:06:00.000Z"
+      "publishedAt": "2026-08-25T20:53:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Democratas pressionam Rubio sobre o “fundo secreto” do Conselho da Paz para Trump",
-      "titleOriginal": "Democrats push Rubio on Board of Peace 'slush fund' for Trump",
-      "link": "https://thehill.com/policy/international/6049968-democrats-scrutinize-trump-board-peace-funding/",
-      "publishedAt": "2026-08-25T19:03:44.000Z"
+      "title": "Oficial da Força Aérea que pediu o impeachment de Trump é indiciado criminalmente",
+      "titleOriginal": "Air Force officer who called for Trump impeachment criminally charged",
+      "link": "https://thehill.com/homenews/administration/6050130-air-force-officer-charged-trump-capitol-protest/",
+      "publishedAt": "2026-08-25T20:38:50.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Kate Koval, da Ucrânia, deixa a LSU após a contratação de uma jogadora russa pelos Tigers",
+      "titleOriginal": "Kate Koval of Ukraine leaves LSU following the Tigers’ signing of a Russian player",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakNBeEdJcjlKdFBQV3FmY2dxcUFmRXdXVnRaSkJIby1nZGhHT21zZ2YzSEFiUklXUC1tdFFJclVJaEVLVnpsN1EtOWp0eEZyRko2NGFmZFI1T0UtM2dfWW9lUzdoNU5STHFFM1FmeVhzT3k0bVlRQkdCeXZUWFdKOTdsSHJWVkduVXNfNVhjdWRVcXhzX2p3?oc=5",
+      "publishedAt": "2026-08-25T20:10:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Secretário da Agricultura afirma que plano de importação de carne bovina ainda está em discussão",
-      "titleOriginal": "Agriculture secretary says beef import plan still under discussion",
-      "link": "https://thehill.com/homenews/administration/6049883-rollins-discusses-beef-tariffs/",
-      "publishedAt": "2026-08-25T18:58:32.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ações sobem à medida que os efeitos do “Dia D” de Bessent parecem estar sob controle",
-      "titleOriginal": "Stocks Advance as Effects of Bessent’s ‘D-Day’ Look Contained",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg?oc=5",
-      "publishedAt": "2026-08-25T18:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um CEO bilionário, uma cidade nos Hamptons e a disputa interminável por uma barraca de frutos do mar",
-      "titleOriginal": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRE1BMm9CckZ2ZmZkWnNRQVN6RWR3ODN0dXFlamNwa1VudDNnTU5qR2N3M29QZnhkdXItT1VrVGw0MUtNR0Nfc3QwMlN1M2FGY3ZZR19ZREItZHNoUERfd1hHakNzbWdpdTNfckVWSV9ibDJGdjhqYUdNd3I3Tm1uZA?oc=5",
-      "publishedAt": "2026-08-25T18:43:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Diretor da CIA faz visita sem aviso prévio à Rússia",
-      "titleOriginal": "CIA director makes unannounced visit to Russia",
-      "link": "https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit/",
-      "publishedAt": "2026-08-25T18:29:56.000Z"
+      "title": "Democratas do Senado questionam RFK Jr. sobre a alienação de ativos relacionada ao acordo sobre vacinas",
+      "titleOriginal": "Senate Democrats question RFK Jr. on vaccine settlement divestment",
+      "link": "https://thehill.com/policy/healthcare/6049217-senators-question-kennedy-gardasil-divestment/",
+      "publishedAt": "2026-08-25T20:08:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Washington promete lutar contra a ordem de Trump sobre o voto por correspondência",
-      "titleOriginal": "Washington vows to fight Trump's mail-in voting order",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkx1RGFkdE5WRFdkdGtEYmt6dnlzMWZLZE5vLW5rMGd1cW1kMG5FT1ZzZUtVVTUxejF5UzNGVE9EZVMwaW55YmtyZFA5c3dGU1hpTEx3QU5JNzlHcXRMR2hDOWgyY01EVEZLQWF2dklINU9zQ0RXUUU4ZXVlUm9xT1dORXRIeGJheGY2V1BkZ003a05NMWc?oc=5",
-      "publishedAt": "2026-08-25T18:26:56.000Z"
+      "title": "A ala pró-Israel dos democratas da Câmara dos Deputados ganha influência na comissão que supervisiona a política externa",
+      "titleOriginal": "House Democrats' pro-Israel wing gains power on panel overseeing foreign policy",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcERBdXRwb3o2RnQ5NFcwRzczazlkYnVpaUZ0cks2NGktRTE4QkR3ZHRQOXU5a0FkSHhVeVJHYjRleU1CcHlHU2dDUm1QTkFVbnNGWXRnS2dwcEd1T09VM2ZseUQ1S01UdDdZVGNOR3J3dkpGZDR1WkEwVlU1Rm9jcm1ma1ptODNO?oc=5",
+      "publishedAt": "2026-08-25T20:04:55.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Paquistão e Irã alcançaram “avanços significativos” para pôr fim à guerra entre os EUA e o Irã, afirma ministro",
-      "titleOriginal": "Pakistan, Iran made 'significant progress' to end US-Iran war, minister says",
-      "link": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/",
-      "publishedAt": "2026-08-25T18:18:28.000Z"
+      "title": "Assista ao vivo: DDHQ e The Hill acompanham e analisam o segundo turno da eleição especial do Partido Republicano para o Senado da Carolina do Sul",
+      "titleOriginal": "Watch live: DDHQ and The Hill track and analyze SC Senate GOP special election runoff",
+      "link": "https://thehill.com/video-clips/6049561-watch-live-ddhq-the-hill-sc-senate-gop-special-election-runoff/",
+      "publishedAt": "2026-08-25T20:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Hochul prevê que Mamdani “será útil” em sua campanha pela reeleição",
-      "titleOriginal": "Hochul predicts Mamdani will 'be helpful' in her reelection bid",
-      "link": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost/",
-      "publishedAt": "2026-08-25T17:59:26.000Z"
+      "title": "Legisladores de ambos os partidos prestam homenagem a Dolly Parton: “Um verdadeiro tesouro nacional”",
+      "titleOriginal": "Lawmakers across the aisle pay tribute to Dolly Parton: 'A true national treasure'",
+      "link": "https://thehill.com/blogs/in-the-know/6050214-dolly-parton-death-tribute/",
+      "publishedAt": "2026-08-25T19:52:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Canadá revida contra os EUA com tarifas de retaliação, à medida que a guerra comercial se intensifica",
+      "titleOriginal": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
+      "publishedAt": "2026-08-25T19:52:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pai de marinheiro da Marinha a bordo do USS Lincoln é liberado da custódia da imigração",
+      "titleOriginal": "Father of Navy sailor aboard USS Lincoln released from immigration custody",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdXczAxY3N4M19NQVc2RUVYWW9XNk9fV3RyVEZISHpENjU1V2ZzbVJMdVZUYUNsVmFEUWlOS1h1NFRyS1NTdEt5UlgzNTF6Y2RUcWI1a3hwcFRseWF5dG9aRFB0QjRJLXU5Tjk4S1F4Q3N5N1M0ekFuekhXY0lEXzFzbXA2dURhVWZWdm9yU3B1ZjZoZndQS1BDWC13TWlScHRCU2xR?oc=5",
+      "publishedAt": "2026-08-25T19:50:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Um CEO bilionário, uma cidade nos Hamptons e a disputa sem fim por uma barraca de frutos do mar",
+      "titleOriginal": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRE1BMm9CckZ2ZmZkWnNRQVN6RWR3ODN0dXFlamNwa1VudDNnTU5qR2N3M29QZnhkdXItT1VrVGw0MUtNR0Nfc3QwMlN1M2FGY3ZZR19ZREItZHNoUERfd1hHakNzbWdpdTNfckVWSV9ibDJGdjhqYUdNd3I3Tm1uZA?oc=5",
+      "publishedAt": "2026-08-25T19:43:11.000Z"
     }
   ]
 }
