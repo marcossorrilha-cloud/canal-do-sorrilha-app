@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-25T08:07:34.619Z",
+  "updatedAt": "2026-08-25T10:06:05.451Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Um CEO bilionário, uma cidade nos Hamptons e a disputa interminável por uma barraca de frutos do mar",
-      "titleOriginal": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRE1BMm9CckZ2ZmZkWnNRQVN6RWR3ODN0dXFlamNwa1VudDNnTU5qR2N3M29QZnhkdXItT1VrVGw0MUtNR0Nfc3QwMlN1M2FGY3ZZR19ZREItZHNoUERfd1hHakNzbWdpdTNfckVWSV9ibDJGdjhqYUdNd3I3Tm1uZA?oc=5",
-      "publishedAt": "2026-08-25T08:02:03.000Z"
+      "source": "The Hill",
+      "title": "A disputa de Trump com os senadores republicanos sobre o comércio se intensifica",
+      "titleOriginal": "Trump’s fight with GOP senators over trade intensifies",
+      "link": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/",
+      "publishedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O segundo turno na Carolina do Sul opõe o “America First” ao “MAGA”",
+      "titleOriginal": "South Carolina runoff pits America First against MAGA",
+      "link": "https://thehill.com/homenews/6047895-south-carolina-republican-senate-primary-trump-iran-national-security/",
+      "publishedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Pesquisa revela que a popularidade de John Fetterman entre os republicanos dispara",
+      "titleOriginal": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
+      "publishedAt": "2026-08-25T09:59:21.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Ele está totalmente comprometido”: Trump testa sua influência sobre o Partido Republicano com Darline Graham",
+      "titleOriginal": "‘He’s all in’: Trump tests his sway over the GOP with Darline Graham",
+      "link": "https://www.politico.com/news/2026/08/25/trump-test-darline-graham-south-carolina-01048663",
+      "publishedAt": "2026-08-25T09:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Rendimentos dos títulos da zona do euro caem com a queda dos preços do petróleo; rendimentos dos títulos do Tesouro se estabilizam",
-      "titleOriginal": "Eurozone Bond Yields Decline as Oil Prices Fall, Treasury Yields Stabilize",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS3owMEx2Sm1oQi11MjM4ZFR2cG0xbmhzT3Byb1FqT1ZtRHpTWGNIdnZLbWwzbVNLeURDMzV2Rm9vcUV5TlIxR2NuVXFySWk1THZ3YlgwTjZXaHdzQldTZDRHUmZvb29MemZqN29sOGNaYm9GRVcxbVBoQkdPMmk2MlhaLW54cW02RkJGTDM4ZE91by1iNlppak93?oc=5",
-      "publishedAt": "2026-08-25T07:41:15.000Z"
+      "title": "A fabricante chinesa de chips YMTC planeja uma oferta pública inicial (IPO) de US$ 4,9 bilhões",
+      "titleOriginal": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0dkSFIyV2hjS19NTkFBcUcwN2pMa2lTNGZCOVM1aS1CdWFPTjBSSXkxaFctLXVBYll6WmRJdjkwRnYyZDVIVjMwaDZQZ1ltSkxYZzIwSF9NcUVSUi1MeHBIWFR2b2xxZ3g1LVp1WlF4d01Qd25BWmE0ZTFyMDNWalVLSXYtUQ?oc=5",
+      "publishedAt": "2026-08-25T08:55:45.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | Uma nova análise da guerra comercial mais idiota",
       "titleOriginal": "Opinion | The Dumbest Trade War Revisited",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN?oc=5",
-      "publishedAt": "2026-08-25T07:37:21.000Z"
+      "publishedAt": "2026-08-25T08:51:01.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A ex-apresentadora de notícias locais na batalha política de sua vida",
-      "titleOriginal": "The Former Local News Anchor in the Political Fight of Her Life",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1VGeWZaaTJzdXdoaW5qb2I2YXU2elhKdnBOOVpPbkdRZmd4M0s3dk5FcjBGMDlLUHdpNzY5czlBMV85NVlweGJveXFCVmRUMV91MEUteXl4U2JselNacndHckVDb251ZGhUUlQ1d2RNNDdLd1NlYjZoclhZb2NfNGVjamQzejc0eUZ3cm1MT1ozNjlxNGNVZWNCeWJkckRxZ1JaQ1dzX2FFUFJLdF9mVw?oc=5",
-      "publishedAt": "2026-08-25T07:01:21.000Z"
+      "title": "Preço do petróleo cai enquanto o mercado ignora plano dos EUA de pressionar o Irã",
+      "titleOriginal": "Oil Falls as Market Shrugs off U.S. Plan to Squeeze Iran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5",
+      "publishedAt": "2026-08-25T08:43:37.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Futuros dos EUA em alta, rendimentos estáveis após discurso de Bessent sobre o Irã",
+      "titleOriginal": "U.S. Futures Higher, Yields Steady after Bessent Iran Speech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg?oc=5",
+      "publishedAt": "2026-08-25T08:36:00.000Z"
     },
     {
       "source": "Axios",
       "title": "A Califórnia promete lutar contra a ordem de Trump sobre o voto por correspondência",
       "titleOriginal": "California vows to fight Trump's mail-in voting order",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmJaX0RwSDFVUXVBOXp4NUFQdHlHYXV2VFlteWdYeDNHd2hkeDcxTExLTFk4OWJyakpCWTdlWnlvZm5SdUJvLUd5bDJjSTRHVHVCXzhFWHdUZkxGRXpJYlE4aGtQSFBYdGtIdGZMRC1VbFYzRmdwbjY2UW5MWnZNQTdJT2FZejMzaU55NHNFOWc?oc=5",
-      "publishedAt": "2026-08-25T05:29:29.000Z"
+      "publishedAt": "2026-08-25T08:25:53.000Z"
     },
     {
-      "source": "AP News",
-      "title": "As ações asiáticas apresentam desempenho misto e os preços do petróleo permanecem estáveis, enquanto os EUA aumentam a pressão sobre o Irã",
-      "titleOriginal": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
-      "publishedAt": "2026-08-25T05:26:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Principais políticos do Irã pedem o fim da guerra",
-      "titleOriginal": "Iran’s Top Politicians Urge an End to the War",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzB5MjdWWVk1UllCajhNTW9lUXJHdkVsaGR0VWx4aXR1YWstRTA4YjNFWURXcmVITFA3MG80OF9EbHJuWGlFZWVnMkhYMjAzVnVpTTVWYk16UzAtN3p3R3k5Ti1mZE5tZTc2Vl83SHp2dTBqWTZoVFlEcXRKRUlCMzRyWnRFdGplcmp2WHhVWjhnVzJZelE?oc=5",
-      "publishedAt": "2026-08-25T04:47:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A decisão do Supremo Tribunal Federal sobre as eleições ainda não altera nada. Mas ela poderia abrir caminho para o “caos”",
-      "titleOriginal": "Nothing changes yet with the Supreme Court's order on elections. But it could open door to 'chaos'",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hWTmNuS3NSc0hlZ19zemo0bTExVTNEVnFxM0sxdDJuNmFNYXlQbnBlWDhkbXo0NV9zX2JQdXBFWDNfWkFibHRTcHdVSkw3aklFbVFVZlBJZnRHLXJ0akREZkt5V3hRUEZzaTd1T0tpQnItX2hQSEczdmRwaE9PNU1oVkJvQmI2dFFwQlRmZTMwSVRJSDVKSzYzNlNoeVAwZWZuSnRicw?oc=5",
-      "publishedAt": "2026-08-25T04:12:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump ameaça impor novas tarifas de 50% sobre carros, caminhões e aço à medida que a guerra comercial entre os EUA e o Canadá se intensifica",
-      "titleOriginal": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-      "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
-      "publishedAt": "2026-08-25T03:57:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Dois corpos foram recuperados e cerca de 12 pessoas continuam desaparecidas após o naufrágio de um barco de migrantes na costa da Tunísia",
-      "titleOriginal": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTQ4YXQyZDdTakQ3N3luZ2hycjlwZUVVQ3BfRHNwQWwwRU5hZWxUNnU2REVVSWtXS0pUdUtPSmE1VmRFVlBpb1JCSGhOUi12SEtkbUZiVEZBY2F2VGdQTVI2R0pIQ1pDVnZmSGZfTmhYVUt1akVPMFppcmVGMHdEU0IycnNWZDRWUDBpZERqRkg1NDA?oc=5",
-      "publishedAt": "2026-08-25T03:18:24.000Z"
+      "source": "Axios",
+      "title": "As eleições nos Estados Unidos estão se tornando palco de uma disputa em torno do correio",
+      "titleOriginal": "America's elections are getting caught in a fight over the mail",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGpWempDRHlQTHM4MHdmeUhtbm92b2U4cmtrT0hrWjd6MHJfYmJDdUlGTjlLWlAtajREY0pwMENKbFhTQk9kZ2ltTlZNUFdJVElXaWFET2toNGZCaUdLSmV1X2tHYWRtVTdIdVZNdExPNEdYT1I2U3g2bk9lSzFCTjNXM1RuT0hLR2tOaUxn?oc=5",
+      "publishedAt": "2026-08-25T07:13:53.000Z"
     }
   ]
 }
