@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-25T14:28:49.740Z",
+  "updatedAt": "2026-08-25T17:04:40.214Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Darline Graham evita responder quando questionada se teria certificado a eleição de 2020",
-      "titleOriginal": "Darline Graham dodges when asked if she would've certified 2020 election",
-      "link": "https://thehill.com/homenews/campaign/6048774-graham-refuses-election-certification-vote/",
-      "publishedAt": "2026-08-25T14:07:50.000Z"
+      "source": "New York Times",
+      "title": "Pesquisa revela que a popularidade de John Fetterman entre os republicanos dispara",
+      "titleOriginal": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
+      "publishedAt": "2026-08-25T16:53:29.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump tem buscado discretamente o controle sobre o Serviço Postal para transformar as eleições nos EUA",
+      "titleOriginal": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
+      "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+      "publishedAt": "2026-08-25T16:48:55.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A EPA toma medidas para restringir a participação pública nas licenças de poluição atmosférica para centros de dados",
+      "titleOriginal": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
+      "link": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+      "publishedAt": "2026-08-25T16:45:28.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como a iniciativa de Trump em relação às criptomoedas está ligada às medidas de Bessent no Tesouro",
+      "title": "Opinião | A guerra comercial mais idiota: uma nova análise",
+      "titleOriginal": "Opinion | The Dumbest Trade War Revisited",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN?oc=5",
+      "publishedAt": "2026-08-25T16:40:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Donalds escolhe senador estadual como candidato a vice-governador da Flórida",
+      "titleOriginal": "Donalds picks state senator as running mate for Florida governor",
+      "link": "https://thehill.com/homenews/campaign/6049344-donalds-announces-avila-running-mate/",
+      "publishedAt": "2026-08-25T16:32:38.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump: Minas totalmente removidas do Estreito de Ormuz",
+      "titleOriginal": "Trump: Mines fully removed from Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
+      "publishedAt": "2026-08-25T16:31:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Como Trump pode consertar a infraestrutura danificada de Porto Rico",
+      "titleOriginal": "How Trump can fix Puerto Rico's broken infrastructure",
+      "link": "https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity/",
+      "publishedAt": "2026-08-25T16:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como a iniciativa de Trump no setor de criptomoedas está ligada às medidas de Bessent no Tesouro",
       "titleOriginal": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3VHZrbWdLSmNBekY0WnR0dkx0Nl9rOWl4M2hTZDg0YnZuUU54MHo1SXRHT1VNbTcyRjhUQmdZVVlQbFJjcHd3TGt6TW5NSkktN3VtYUtvTEM4UVh3a0NMNHFwS3phZkxFRWtZTHJMNkZvT2VVNER3Z19PWjBxNGQ2RFl5N3JiakkwMFZMTm4wc215OGdzZHRzTHFnODlMMVppWHhmWU1nZHM?oc=5",
-      "publishedAt": "2026-08-25T14:01:27.000Z"
+      "publishedAt": "2026-08-25T16:13:36.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Taiwan deveria se preocupar depois que Trump retirou o apoio à Coreia do Sul?",
-      "titleOriginal": "Should Taiwan be worried after Trump drops support for South Korea?",
-      "link": "https://thehill.com/opinion/international/6047857-us-policy-shift-taiwan-china/",
-      "publishedAt": "2026-08-25T14:00:00.000Z"
+      "title": "Os ataques do Irã aos sistemas de abastecimento de água dos EUA são apenas o começo",
+      "titleOriginal": "Iran's attacks on US water systems are just the beginning",
+      "link": "https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure/",
+      "publishedAt": "2026-08-25T16:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "China: Novas sanções dos EUA contra o Irã “só vão intensificar ainda mais as tensões”",
-      "titleOriginal": "China: New US sanctions on Iran 'will only further intensify tensions'",
-      "link": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
-      "publishedAt": "2026-08-25T13:54:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Callaway pede desculpas pelo anúncio de “Good Good” que mostra uma mulher sendo empurrada ao chão",
-      "titleOriginal": "Callaway apologizes for 'Good Good' ad showing woman shoved to ground",
-      "link": "https://thehill.com/policy/sports-gaming/6048558-callaway-apologizes-good-good-ad/",
-      "publishedAt": "2026-08-25T13:42:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Juiz federal rejeita as alegações de “injustiça” de Ghislaine Maxwell e seu pedido de libertação da prisão",
-      "titleOriginal": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claims and bid for prison release",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWpjVmYwWkNCSk1LVUZ5UjNlbW40c2ZqeWNub3hBaXlfODFVakdkWFNVOGQwS3lpaHM2U3l1RzVmY2hBdmZVUFdURkMxOE5KZjU2MFRlaFRzZzJkWHloMEN2SUR6U0Z2RVNDeFpVQm1qWl95ZFpBbWg1b2dSNUNTUVJ6Y1F1Z2tlcnVrQmFzajVwSjNBR2phQzZEbFE2UDRHdlhn?oc=5",
-      "publishedAt": "2026-08-25T13:34:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã promete retaliação após a ampliação das sanções dos EUA",
-      "titleOriginal": "Iran vows retaliation after widened US sanctions",
-      "link": "https://thehill.com/policy/international/6048535-iran-retaliation-threat-trump-administration-us-sanctions-operation-economic-outcast/",
-      "publishedAt": "2026-08-25T13:23:41.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Qual sorvete de San Diego é caro demais?",
-      "titleOriginal": "Which San Diego ice cream is just too expensive?",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzBTNS10Y1gxSGhnWTZmNVBqZXdKdlV5ZnlDUjVZN2pyQlIzb0VLV0FzWFN2d1JwMkt2Y1FneFpMY1RfY1RFTjg1NnJHTms3OFZOcmotQnV4dHloVF9Zb01sQWs0aEpzVE1iTE9aMTZSZlhTOUhTWDJjTXIxLUdFVkJmWnBUdi1uUjRfN2U3a1Etenc?oc=5",
-      "publishedAt": "2026-08-25T13:22:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As 8 propostas eleitorais que você precisa conhecer para a eleição no Arizona",
-      "titleOriginal": "The 8 ballot propositions to know for Arizona's election",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVRU29WTW1ZTTlHSGNOcGNDdlFYd2ZielpzSW5GYk5FU3NIckdHemJ5WEticWs1R3JaX01JUVlDRl9YZVU4cWR2amZEdXRzMnZLdXdGQWszeGN2d2wwUWJoRkpNWE1uMXFCeWN4ZkRROGlaUkNYTGE5eDFpVE9XeHJSb21hcks5RWdVbGt4alRFb0lELV9mWDgwaVVROGhocnd3X2xsOWxVcmls?oc=5",
-      "publishedAt": "2026-08-25T13:20:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Rússia testa prontidão para nova rodada de mobilização militar",
-      "titleOriginal": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
-      "publishedAt": "2026-08-25T13:15:00.000Z"
+      "title": "Shapiro tem vantagem de 16 pontos nas pesquisas para a reeleição",
+      "titleOriginal": "Shapiro holds 16-point lead in reelection bid polling",
+      "link": "https://thehill.com/homenews/campaign/6049300-josh-shapiro-pennsylvania-reelection-bid-survey/",
+      "publishedAt": "2026-08-25T15:59:13.000Z"
     }
   ]
 }
