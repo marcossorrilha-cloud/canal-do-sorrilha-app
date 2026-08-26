@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-26T12:00:52.341Z",
+  "updatedAt": "2026-08-26T16:36:48.690Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Técnico de beisebol da liga secundária é libertado da custódia do ICE",
+      "titleOriginal": "Minor league baseball coach released from ICE custody",
+      "link": "https://thehill.com/homenews/administration/6052352-padres-coach-oswaldo-pirela-released/",
+      "publishedAt": "2026-08-26T16:32:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O projeto de lei do Congresso sobre negociação de ações não resolve o problema real",
+      "titleOriginal": "Congress's stock trading bill doesn't solve the real problem",
+      "link": "https://thehill.com/opinion/finance/6049971-congressional-stock-trading-conflicts/",
+      "publishedAt": "2026-08-26T16:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A reputação de Trump entre os pecuaristas “sofreu um golpe”: presidente da Associação de Pecuaristas dos EUA",
+      "titleOriginal": "Trump reputation with ranchers has 'taken a hit': US Cattlemen's Association chief",
+      "link": "https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef/",
+      "publishedAt": "2026-08-26T16:19:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelação recusa-se a arquivar o caso McIver, já que o painel fica dividido quanto às alegações de perseguição seletiva",
+      "titleOriginal": "Appeals court declines to toss McIver case as panel splits on selective prosecution claims",
+      "link": "https://thehill.com/regulation/court-battles/6052402-lamonica-mciver-appeals-court-delaney-hall-case-speech-debate/",
+      "publishedAt": "2026-08-26T16:16:57.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pelo menos 98 mortos e centenas de desaparecidos após enchentes repentinas no Nepal e na China",
+      "titleOriginal": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw?oc=5",
+      "publishedAt": "2026-08-26T16:06:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Candidato democrata ao governo de Iowa: Kamala Harris não deveria concorrer em 2028",
+      "titleOriginal": "Iowa's Democratic governor candidate: Kamala Harris shouldn't run in 2028",
+      "link": "https://thehill.com/homenews/campaign/6052255-iowa-gubernatorial-candidate-rob-sand-kamala-harris-2028-presidential-election/",
+      "publishedAt": "2026-08-26T16:04:02.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Preço do diesel se aproxima de alta recorde, beneficiando as petrolíferas e prejudicando os consumidores",
+      "title": "Preço do diesel se aproxima de nível recorde, beneficiando as petrolíferas e prejudicando os consumidores",
       "titleOriginal": "Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers",
       "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
-      "publishedAt": "2026-08-26T11:45:16.000Z"
+      "publishedAt": "2026-08-26T16:02:26.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump está falhando na Venezuela — ele precisa de um novo plano",
-      "titleOriginal": "Trump is dropping the ball in Venezuela — he needs a new plan",
-      "link": "https://thehill.com/opinion/national-security/6047081-trump-venezuela-policy-failure/",
-      "publishedAt": "2026-08-26T11:00:00.000Z"
+      "title": "Por que os altos gastos com defesa são ruins para os Estados Unidos",
+      "titleOriginal": "Why high defense spending is bad for America",
+      "link": "https://thehill.com/opinion/national-security/6049822-trump-defense-spending-weakness/",
+      "publishedAt": "2026-08-26T16:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Auditoria federal critica programa de manufatura de Ohio",
-      "titleOriginal": "Federal audit blasts Ohio manufacturing program",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3ZWRE5xR2dKOUQ3WEpxMjY5MXowczVmbmdVZFhtbXNsRG1kWFd0WDlJSjBuWEhtSFpORHdFeFVJSEpvaXY0Q2ltOWYxcTJsMFJhSkYtd3lZS3BMeWhJQ1Vicnctb0Q1YWMyOUM4bDR3aUY3YnRIclRwTGwwWWdHalJXeGRKQTJjYnUybGJPZ0p4djJrajlYZnhwMlZsclU?oc=5",
-      "publishedAt": "2026-08-26T10:44:03.000Z"
+      "source": "New York Times",
+      "title": "Como Trump incorporou a dinastia da família Graham à sua própria",
+      "titleOriginal": "How Trump Folded the Graham Family Dynasty Into His Own",
+      "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-lindsey-graham-darline-graham.html",
+      "publishedAt": "2026-08-26T15:48:09.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O Partido Republicano enfrenta um mês de setembro repleto de compromissos, com questões de financiamento e reconciliação na pauta",
-      "titleOriginal": "GOP faces jam-packed September with funding, reconciliation on agenda",
-      "link": "https://thehill.com/homenews/house/6050485-gop-september-legislative-sprint/",
-      "publishedAt": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Susan Collins tenta impedir que Trump consiga se candidatar no Maine",
-      "titleOriginal": "Susan Collins tries to keep Trump off the ballot in Maine",
-      "link": "https://thehill.com/homenews/campaign/6050886-collins-distancing-trump-maine-senate-race/",
-      "publishedAt": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Plano de Trump para aumentar o teto da dívida está em terreno instável, enquanto a dívida agita o mercado de títulos",
-      "titleOriginal": "Trump plan to raise borrowing limit on shaky ground as debt roils bond market",
-      "link": "https://thehill.com/homenews/senate/6050623-trump-debt-limit-bond-market-republicans/",
-      "publishedAt": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Jeffries enfrenta um dilema em relação ao impeachment caso os democratas reconquistem a Câmara",
-      "titleOriginal": "Jeffries faces impeachment dilemma if Democrats win back the House",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXNpU3N1bE5QSmwtNnptYnJsYjBEUGx1eU9raFFLbmFtYVlrVUJfUVFtMWdZbER3N0pmVXEtYnFyOFdGY0ljT2psQjlMNWtpenpwWlJ3NkhnRnVGVHVLN1NUbTdsbEhhWmVVT3JsOS1fUThwMHEyc3hNMUFoZkZTUlpxMHR6cHp1?oc=5",
-      "publishedAt": "2026-08-26T09:29:52.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Stanley Druckenmiller transforma a escrita com IA em um exibição de riqueza de bilionário",
-      "titleOriginal": "Stanley Druckenmiller makes AI writing a billionaire flex",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHY5SGZoSlpqNHk0bENEdXByVWdBakxBNUJTRXk2RjZFbWNiWWYwTkp1QmxJOWhuaXVVRkRXSTRGbGwzendOUDNfcktWTHRlVXFsM1QzdkVDczB0VXRTcXJZNGJWVXRwS3JQLW5QZUhjLWlPNHlxcmlCQkZULXp1dQ?oc=5",
-      "publishedAt": "2026-08-26T09:22:25.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A ameaça de Trump à “integridade eleitoral”: cortar o financiamento da polícia estadual e municipal",
-      "titleOriginal": "Trump's \"election integrity\" threat: Defunding state and local police",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rYXhYX1B2TlBxNzRiUjlhRWVrd0xBaG15SXQyUTdWbjgzSDNrclZRSk5QZGFLbzR2WmVTYkNyUEJlQlFUNXVXLTVkVlhNOGdBZjMzV0pQYUFSQXMtUDlyb1hGQkRuUG1UNUwyWU42RQ?oc=5",
-      "publishedAt": "2026-08-26T09:12:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os EUA estão tentando asfixiar a economia do Irã. Veja como Teerã está sobrevivendo.",
-      "titleOriginal": "The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmE4U1UyUHprQ283UWNqQWJDTmV3TGEta3Q3S3Q3YXc3anh2RUNNaFJKRUd2TmIyWE0xeldyaGRkUDM2VEFTcFpKNXBoSnFITUJHNjZNX2g4V2hmYW1GcFRpSkQybmx0V1dBTXBHM0xhcWhpMTQxaG00X2tYU0NiUGdfMmQ1azZZRkhqT0lLQVZxNmpLWmsyamliamlveXp2UWtERFVnUk52UGxQTFFGaDJReGV3OVNCeTA2dA?oc=5",
-      "publishedAt": "2026-08-26T09:06:00.000Z"
+      "source": "New York Times",
+      "title": "Graham e Trump triunfam: seis lições a serem tiradas do segundo turno para o Senado na Carolina do Sul",
+      "titleOriginal": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
+      "publishedAt": "2026-08-26T15:38:01.000Z"
     }
   ]
 }
