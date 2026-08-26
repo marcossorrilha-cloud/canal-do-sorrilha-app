@@ -1,10 +1,52 @@
 {
-  "updatedAt": "2026-08-26T03:34:39.500Z",
+  "updatedAt": "2026-08-26T05:20:23.709Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Graham e Trump triunfam: seis lições a serem tiradas do segundo turno para o Senado na Carolina do Sul",
+      "title": "Em um cenário preocupante para os republicanos, Dan Sullivan, segundo colocado, avança na disputa pelo Senado no Alasca",
+      "titleOriginal": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
+      "link": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
+      "publishedAt": "2026-08-26T05:02:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Personalidade da mídia conservadora chega ao segundo turno para o cargo de governador do Alasca",
+      "titleOriginal": "Conservative Media Personality Makes Runoff for Alaska Governor",
+      "link": "https://www.nytimes.com/2026/08/26/us/politics/bernadette-wilson-alaska-governor.html",
+      "publishedAt": "2026-08-26T04:27:04.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Darline Graham, indicada por Trump para o Senado, vence o segundo turno do Partido Republicano na Carolina do Sul",
+      "titleOriginal": "Trump Senate Pick Darline Graham Wins GOP Runoff in South Carolina",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0I4VVRxZGt4UUVWc0pUQ1N5bDJUSlFrbk5zb2VYQ2Y5OW9ZNTZldVFWZzdwMEk2Zlpjb2g1WXhmYnVydVdyTzlCMG1ici01eXAyejZMYUF5NzZFeFJMalI3c2RuNXpidjJjZkVnQnVQTDZQNGFiSEV5WWxMal9hTmF4M2o2VUpPR0xmbFpNZ2hyRmFkbVJnRUR3ZTI?oc=5",
+      "publishedAt": "2026-08-26T04:14:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O outro Dan Sullivan concorre nas eleições de novembro contra o senador Dan Sullivan",
+      "titleOriginal": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
+      "link": "https://www.politico.com/news/2026/08/26/dan-sullivan-alaska-senate-race-01050349",
+      "publishedAt": "2026-08-26T04:11:26.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Chegou a hora de agir ou calar a boca”: os republicanos dos estados decisivos querem o tratamento à la Darline",
+      "titleOriginal": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
+      "link": "https://www.politico.com/news/2026/08/25/trump-attention-battleground-republicans-darline-graham-01050345",
+      "publishedAt": "2026-08-26T03:49:27.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Três agentes do Serviço Secreto foram afastados de suas funções enquanto se aguarda o resultado da investigação",
+      "titleOriginal": "Three Secret Service officials have been placed on administrative leave pending investigation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
+      "publishedAt": "2026-08-26T03:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Graham e Trump triunfam: seis lições da segunda volta das eleições para o Senado na Carolina do Sul",
       "titleOriginal": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
       "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
       "publishedAt": "2026-08-26T03:10:18.000Z"
@@ -18,59 +60,17 @@
     },
     {
       "source": "AP News",
+      "title": "Proeminente separatista sikh afirma que o FBI o alertou sobre uma nova ameaça à sua vida",
+      "titleOriginal": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
+      "publishedAt": "2026-08-26T02:37:00.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Irã e Omã mantêm conversações sobre a gestão do Estreito de Ormuz e outras notícias do Oriente Médio",
       "titleOriginal": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
       "publishedAt": "2026-08-26T02:35:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Três agentes do Serviço Secreto foram afastados de suas funções enquanto se aguarda o resultado da investigação",
-      "titleOriginal": "Three Secret Service officials have been placed on administrative leave pending investigation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
-      "publishedAt": "2026-08-26T02:09:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Darline Graham, indicada por Trump para o Senado, vence o segundo turno do Partido Republicano na Carolina do Sul",
-      "titleOriginal": "Trump Senate Pick Darline Graham Wins GOP Runoff in South Carolina",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0I4VVRxZGt4UUVWc0pUQ1N5bDJUSlFrbk5zb2VYQ2Y5OW9ZNTZldVFWZzdwMEk2Zlpjb2g1WXhmYnVydVdyTzlCMG1ici01eXAyejZMYUF5NzZFeFJMalI3c2RuNXpidjJjZkVnQnVQTDZQNGFiSEV5WWxMal9hTmF4M2o2VUpPR0xmbFpNZ2hyRmFkbVJnRUR3ZTI?oc=5",
-      "publishedAt": "2026-08-26T01:56:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas obtêm vitória em processo judicial sobre financiamento de campanha",
-      "titleOriginal": "Democrats Score Victory in Campaign Finance Court Case",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/court-democrats-republicans-ad-case.html",
-      "publishedAt": "2026-08-26T01:19:47.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Decisão judicial ameaça a vantagem dos republicanos em termos de propaganda televisiva nas eleições de meio de mandato",
-      "titleOriginal": "Court ruling threatens Republicans' midterm TV ad advantage",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3dMTldac3Z1ODBaU3FvVkRMd1FLUC1tMXZlMElRdzhibk5xZm85am81N0RYVDJsNmtVZklreWFZMl9YN2pJcFhGNmpGX0ZGWUNGcW5EU2ZPRDFOR05ERms1eXRmTjNwNXRkQmRVR3U1MG5vVXlVTlhTNWpKZEw4bHk5bGc0Zw?oc=5",
-      "publishedAt": "2026-08-26T01:17:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo de Trump encaminha acordo nuclear com a Arábia Saudita ao Congresso para análise",
-      "titleOriginal": "Trump Administration Sends Saudi Nuclear Deal to Congress for Review",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html",
-      "publishedAt": "2026-08-26T01:09:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A filha de David Scott foi derrotada na eleição suplementar para a Câmara dos Deputados da Geórgia, disputada para preencher uma vaga em aberto",
-      "titleOriginal": "David Scott's daughter defeated in Georgia House special election for open seat",
-      "link": "https://thehill.com/homenews/campaign/6047844-blair-wins-georgia-house-special-election/",
-      "publishedAt": "2026-08-26T00:42:37.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Serviço Secreto confirma ter tomado conhecimento de um vídeo divulgado pela mídia estatal iraniana que ameaça a vida de Barron Trump",
-      "titleOriginal": "Secret Service confirms awareness of Iranian state media video threatening Barron Trump's life",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGV3YV9PMTlzMUpWUURuMHdaNWRMWmF4cHZFTXY3YXJRYnhrU0VMMWd4QmltNk9jSF95TERFWTdua0lxcndqZkVwSXkzSXFlQjdBUzU1ZUFZb21YVm9fRHBWeTJKTWt2TVFVS3VfZHNySXFrRlFiVGJkaXY0S3NuSjAtZWlCTVlHTGpUVFBpU0MxQnAySkg4?oc=5",
-      "publishedAt": "2026-08-26T00:34:00.000Z"
     }
   ]
 }
