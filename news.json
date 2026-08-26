@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-26T10:54:36.121Z",
+  "updatedAt": "2026-08-26T12:00:52.341Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Preço do diesel se aproxima de alta recorde, beneficiando as petrolíferas e prejudicando os consumidores",
+      "titleOriginal": "Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers",
+      "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
+      "publishedAt": "2026-08-26T11:45:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump está falhando na Venezuela — ele precisa de um novo plano",
+      "titleOriginal": "Trump is dropping the ball in Venezuela — he needs a new plan",
+      "link": "https://thehill.com/opinion/national-security/6047081-trump-venezuela-policy-failure/",
+      "publishedAt": "2026-08-26T11:00:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Auditoria federal critica programa de manufatura de Ohio",
       "titleOriginal": "Federal audit blasts Ohio manufacturing program",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3ZWRE5xR2dKOUQ3WEpxMjY5MXowczVmbmdVZFhtbXNsRG1kWFd0WDlJSjBuWEhtSFpORHdFeFVJSEpvaXY0Q2ltOWYxcTJsMFJhSkYtd3lZS3BMeWhJQ1Vicnctb0Q1YWMyOUM4bDR3aUY3YnRIclRwTGwwWWdHalJXeGRKQTJjYnUybGJPZ0p4djJrajlYZnhwMlZsclU?oc=5",
-      "publishedAt": "2026-08-26T10:21:03.000Z"
+      "publishedAt": "2026-08-26T10:44:03.000Z"
     },
     {
       "source": "The Hill",
@@ -31,18 +45,18 @@
       "publishedAt": "2026-08-26T10:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "A alta nos preços do diesel está beneficiando as empresas petrolíferas e prejudicando os consumidores",
-      "titleOriginal": "Soaring Diesel Prices Are Helping Oil Companies and Hurting Consumers",
-      "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
-      "publishedAt": "2026-08-26T09:48:23.000Z"
+      "source": "Axios",
+      "title": "Jeffries enfrenta um dilema em relação ao impeachment caso os democratas reconquistem a Câmara",
+      "titleOriginal": "Jeffries faces impeachment dilemma if Democrats win back the House",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXNpU3N1bE5QSmwtNnptYnJsYjBEUGx1eU9raFFLbmFtYVlrVUJfUVFtMWdZbER3N0pmVXEtYnFyOFdGY0ljT2psQjlMNWtpenpwWlJ3NkhnRnVGVHVLN1NUbTdsbEhhWmVVT3JsOS1fUThwMHEyc3hNMUFoZkZTUlpxMHR6cHp1?oc=5",
+      "publishedAt": "2026-08-26T09:29:52.000Z"
     },
     {
       "source": "Axios",
-      "title": "Jeffries enfrenta um dilema em relação ao impeachment caso os democratas reconquistem a Câmara",
-      "titleOriginal": "Jeffries faces impeachment dilemma if Dems win back the House",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXNpU3N1bE5QSmwtNnptYnJsYjBEUGx1eU9raFFLbmFtYVlrVUJfUVFtMWdZbER3N0pmVXEtYnFyOFdGY0ljT2psQjlMNWtpenpwWlJ3NkhnRnVGVHVLN1NUbTdsbEhhWmVVT3JsOS1fUThwMHEyc3hNMUFoZkZTUlpxMHR6cHp1?oc=5",
-      "publishedAt": "2026-08-26T09:32:45.000Z"
+      "title": "Stanley Druckenmiller transforma a escrita com IA em um exibição de riqueza de bilionário",
+      "titleOriginal": "Stanley Druckenmiller makes AI writing a billionaire flex",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHY5SGZoSlpqNHk0bENEdXByVWdBakxBNUJTRXk2RjZFbWNiWWYwTkp1QmxJOWhuaXVVRkRXSTRGbGwzendOUDNfcktWTHRlVXFsM1QzdkVDczB0VXRTcXJZNGJWVXRwS3JQLW5QZUhjLWlPNHlxcmlCQkZULXp1dQ?oc=5",
+      "publishedAt": "2026-08-26T09:22:25.000Z"
     },
     {
       "source": "Axios",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-08-26T09:12:02.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Mesmo com a queda na popularidade de Trump, ele impulsiona Darline Graham à vitória",
-      "titleOriginal": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
-      "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
-      "publishedAt": "2026-08-26T09:04:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Joe Manchin defende que mais independentes ingressem no Congresso",
-      "titleOriginal": "Joe Manchin Pushes for More Independents to Join Congress",
-      "link": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html",
-      "publishedAt": "2026-08-26T09:03:14.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Rubio diz a aliados que os EUA estão mudando de ataques para sanções contra o Irã",
-      "titleOriginal": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
-      "publishedAt": "2026-08-26T07:48:11.000Z"
+      "source": "Wall Street Journal",
+      "title": "Os EUA estão tentando asfixiar a economia do Irã. Veja como Teerã está sobrevivendo.",
+      "titleOriginal": "The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmE4U1UyUHprQ283UWNqQWJDTmV3TGEta3Q3S3Q3YXc3anh2RUNNaFJKRUd2TmIyWE0xeldyaGRkUDM2VEFTcFpKNXBoSnFITUJHNjZNX2g4V2hmYW1GcFRpSkQybmx0V1dBTXBHM0xhcWhpMTQxaG00X2tYU0NiUGdfMmQ1azZZRkhqT0lLQVZxNmpLWmsyamliamlveXp2UWtERFVnUk52UGxQTFFGaDJReGV3OVNCeTA2dA?oc=5",
+      "publishedAt": "2026-08-26T09:06:00.000Z"
     }
   ]
 }
