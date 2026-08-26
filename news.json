@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-26T08:09:00.689Z",
+  "updatedAt": "2026-08-26T10:54:36.121Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Graham e Trump triunfam: seis lições a serem tiradas do segundo turno para o Senado na Carolina do Sul",
-      "titleOriginal": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-      "publishedAt": "2026-08-26T08:07:06.000Z"
+      "source": "Axios",
+      "title": "Auditoria federal critica programa de manufatura de Ohio",
+      "titleOriginal": "Federal audit blasts Ohio manufacturing program",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3ZWRE5xR2dKOUQ3WEpxMjY5MXowczVmbmdVZFhtbXNsRG1kWFd0WDlJSjBuWEhtSFpORHdFeFVJSEpvaXY0Q2ltOWYxcTJsMFJhSkYtd3lZS3BMeWhJQ1Vicnctb0Q1YWMyOUM4bDR3aUY3YnRIclRwTGwwWWdHalJXeGRKQTJjYnUybGJPZ0p4djJrajlYZnhwMlZsclU?oc=5",
+      "publishedAt": "2026-08-26T10:21:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Partido Republicano enfrenta um mês de setembro repleto de compromissos, com questões de financiamento e reconciliação na pauta",
+      "titleOriginal": "GOP faces jam-packed September with funding, reconciliation on agenda",
+      "link": "https://thehill.com/homenews/house/6050485-gop-september-legislative-sprint/",
+      "publishedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Susan Collins tenta impedir que Trump consiga se candidatar no Maine",
+      "titleOriginal": "Susan Collins tries to keep Trump off the ballot in Maine",
+      "link": "https://thehill.com/homenews/campaign/6050886-collins-distancing-trump-maine-senate-race/",
+      "publishedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Plano de Trump para aumentar o teto da dívida está em terreno instável, enquanto a dívida agita o mercado de títulos",
+      "titleOriginal": "Trump plan to raise borrowing limit on shaky ground as debt roils bond market",
+      "link": "https://thehill.com/homenews/senate/6050623-trump-debt-limit-bond-market-republicans/",
+      "publishedAt": "2026-08-26T10:00:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Em um golpe para os republicanos, Dan Sullivan, segundo colocado, avança na disputa pelo Senado no Alasca",
-      "titleOriginal": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-      "link": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
-      "publishedAt": "2026-08-26T05:02:47.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Personalidade da mídia conservadora chega ao segundo turno para o cargo de governador do Alasca",
-      "titleOriginal": "Conservative Media Personality Makes Runoff for Alaska Governor",
-      "link": "https://www.nytimes.com/2026/08/26/us/politics/bernadette-wilson-alaska-governor.html",
-      "publishedAt": "2026-08-26T04:27:04.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Darline Graham, indicada por Trump para o Senado, vence o segundo turno do Partido Republicano na Carolina do Sul",
-      "titleOriginal": "Trump Senate Pick Darline Graham Wins GOP Runoff in South Carolina",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0I4VVRxZGt4UUVWc0pUQ1N5bDJUSlFrbk5zb2VYQ2Y5OW9ZNTZldVFWZzdwMEk2Zlpjb2g1WXhmYnVydVdyTzlCMG1ici01eXAyejZMYUF5NzZFeFJMalI3c2RuNXpidjJjZkVnQnVQTDZQNGFiSEV5WWxMal9hTmF4M2o2VUpPR0xmbFpNZ2hyRmFkbVJnRUR3ZTI?oc=5",
-      "publishedAt": "2026-08-26T04:14:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O outro Dan Sullivan concorre nas eleições de novembro contra o senador Dan Sullivan",
-      "titleOriginal": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
-      "link": "https://www.politico.com/news/2026/08/26/dan-sullivan-alaska-senate-race-01050349",
-      "publishedAt": "2026-08-26T04:11:26.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“É hora de agir ou calar a boca”: os republicanos dos estados decisivos querem o tratamento “Darline”",
-      "titleOriginal": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
-      "link": "https://www.politico.com/news/2026/08/25/trump-attention-battleground-republicans-darline-graham-01050345",
-      "publishedAt": "2026-08-26T03:49:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Três agentes do Serviço Secreto foram afastados de suas funções enquanto se aguarda o resultado da investigação",
-      "titleOriginal": "Three Secret Service officials have been placed on administrative leave pending investigation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
-      "publishedAt": "2026-08-26T03:30:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Candidato apoiado por Trump vence as primárias para o cargo de governador de Oklahoma",
-      "titleOriginal": "Trump-backed candidate wins primary for Oklahoma governor",
-      "link": "https://www.politico.com/news/2026/08/25/mazzei-wins-oklahoma-governor-runoff-01050323",
-      "publishedAt": "2026-08-26T03:04:10.000Z"
+      "title": "A alta nos preços do diesel está beneficiando as empresas petrolíferas e prejudicando os consumidores",
+      "titleOriginal": "Soaring Diesel Prices Are Helping Oil Companies and Hurting Consumers",
+      "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
+      "publishedAt": "2026-08-26T09:48:23.000Z"
     },
     {
       "source": "Axios",
-      "title": "Administração de Trump violou ordem judicial sobre regras de votação por correspondência, afirma juiz",
-      "titleOriginal": "Trump administration violated court order on mail-voting rules, judge says",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
-      "publishedAt": "2026-08-26T02:58:32.000Z"
+      "title": "Jeffries enfrenta um dilema em relação ao impeachment caso os democratas reconquistem a Câmara",
+      "titleOriginal": "Jeffries faces impeachment dilemma if Dems win back the House",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXNpU3N1bE5QSmwtNnptYnJsYjBEUGx1eU9raFFLbmFtYVlrVUJfUVFtMWdZbER3N0pmVXEtYnFyOFdGY0ljT2psQjlMNWtpenpwWlJ3NkhnRnVGVHVLN1NUbTdsbEhhWmVVT3JsOS1fUThwMHEyc3hNMUFoZkZTUlpxMHR6cHp1?oc=5",
+      "publishedAt": "2026-08-26T09:32:45.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Proeminente separatista sikh afirma que o FBI o alertou sobre uma nova ameaça à sua vida",
-      "titleOriginal": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
-      "publishedAt": "2026-08-26T02:37:00.000Z"
+      "source": "Axios",
+      "title": "A ameaça de Trump à “integridade eleitoral”: cortar o financiamento da polícia estadual e municipal",
+      "titleOriginal": "Trump's \"election integrity\" threat: Defunding state and local police",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rYXhYX1B2TlBxNzRiUjlhRWVrd0xBaG15SXQyUTdWbjgzSDNrclZRSk5QZGFLbzR2WmVTYkNyUEJlQlFUNXVXLTVkVlhNOGdBZjMzV0pQYUFSQXMtUDlyb1hGQkRuUG1UNUwyWU42RQ?oc=5",
+      "publishedAt": "2026-08-26T09:12:02.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Mesmo com a queda na popularidade de Trump, ele impulsiona Darline Graham à vitória",
+      "titleOriginal": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
+      "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
+      "publishedAt": "2026-08-26T09:04:15.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Joe Manchin defende que mais independentes ingressem no Congresso",
+      "titleOriginal": "Joe Manchin Pushes for More Independents to Join Congress",
+      "link": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html",
+      "publishedAt": "2026-08-26T09:03:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Rubio diz a aliados que os EUA estão mudando de ataques para sanções contra o Irã",
+      "titleOriginal": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
+      "publishedAt": "2026-08-26T07:48:11.000Z"
     }
   ]
 }
