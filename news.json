@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-26T05:20:23.709Z",
+  "updatedAt": "2026-08-26T08:09:00.689Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Em um cenário preocupante para os republicanos, Dan Sullivan, segundo colocado, avança na disputa pelo Senado no Alasca",
+      "title": "Graham e Trump triunfam: seis lições a serem tiradas do segundo turno para o Senado na Carolina do Sul",
+      "titleOriginal": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+      "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
+      "publishedAt": "2026-08-26T08:07:06.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Em um golpe para os republicanos, Dan Sullivan, segundo colocado, avança na disputa pelo Senado no Alasca",
       "titleOriginal": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
       "link": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
-      "publishedAt": "2026-08-26T05:02:46.000Z"
+      "publishedAt": "2026-08-26T05:02:47.000Z"
     },
     {
       "source": "New York Times",
@@ -32,7 +39,7 @@
     },
     {
       "source": "Politico",
-      "title": "“Chegou a hora de agir ou calar a boca”: os republicanos dos estados decisivos querem o tratamento à la Darline",
+      "title": "“É hora de agir ou calar a boca”: os republicanos dos estados decisivos querem o tratamento “Darline”",
       "titleOriginal": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
       "link": "https://www.politico.com/news/2026/08/25/trump-attention-battleground-republicans-darline-graham-01050345",
       "publishedAt": "2026-08-26T03:49:27.000Z"
@@ -45,13 +52,6 @@
       "publishedAt": "2026-08-26T03:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Graham e Trump triunfam: seis lições da segunda volta das eleições para o Senado na Carolina do Sul",
-      "titleOriginal": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
-      "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-      "publishedAt": "2026-08-26T03:10:18.000Z"
-    },
-    {
       "source": "Politico",
       "title": "Candidato apoiado por Trump vence as primárias para o cargo de governador de Oklahoma",
       "titleOriginal": "Trump-backed candidate wins primary for Oklahoma governor",
@@ -59,18 +59,18 @@
       "publishedAt": "2026-08-26T03:04:10.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Administração de Trump violou ordem judicial sobre regras de votação por correspondência, afirma juiz",
+      "titleOriginal": "Trump administration violated court order on mail-voting rules, judge says",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
+      "publishedAt": "2026-08-26T02:58:32.000Z"
+    },
+    {
       "source": "AP News",
       "title": "Proeminente separatista sikh afirma que o FBI o alertou sobre uma nova ameaça à sua vida",
       "titleOriginal": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
       "publishedAt": "2026-08-26T02:37:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Irã e Omã mantêm conversações sobre a gestão do Estreito de Ormuz e outras notícias do Oriente Médio",
-      "titleOriginal": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
-      "publishedAt": "2026-08-26T02:35:00.000Z"
     }
   ]
 }
