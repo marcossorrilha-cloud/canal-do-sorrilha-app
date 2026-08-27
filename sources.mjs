@@ -93,9 +93,10 @@ export function writeIfChanged(file, obj) {
 }
 
 // ---------- CLIPPING (Substack) ----------
-// A API JSON do Substack é bloqueada (403) para IPs de datacenter, mas o RSS não.
-// O subtítulo (nossa "note") vem inteiro na <description> do RSS; o título e o
-// link também. Então lemos o feed (via rss2json ou proxies) — saída idêntica.
+// A API JSON e o RSS do Substack são bloqueados (403) para IPs de datacenter.
+// O leitor r.jina.ai busca a partir da infra dele (não bloqueada) e devolve o
+// JSON da API embrulhado em markdown - extraímos o array e montamos igual ao
+// arquivo. Rotas de reserva: rss2json e o RSS cru via proxies.
 export function htmlDecode(s) {
   return String(s || "")
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
@@ -115,40 +116,58 @@ function parseRssItems(xml) {
     return { title: g("title"), link: g("link"), pubDate: g("pubDate"), description: g("description") };
   });
 }
-export function buildClipping(feedItems) {
-  const items = feedItems.slice(0, 5).map((p) => ({
+// Normaliza itens de fontes diferentes para { title, link, note, pubDate }.
+export function itemsFromArchive(arr) {
+  return arr.map((p) => ({
+    title: p.title,
+    link: "https://marcossorrilha.substack.com/p/" + p.slug,
+    note: p.subtitle || "",
+    pubDate: p.post_date,
+  }));
+}
+export function itemsFromFeed(feedItems) {
+  return feedItems.map((x) => ({ title: x.title, link: x.link, note: x.description, pubDate: x.pubDate }));
+}
+export function buildClipping(items) {
+  const top = items.slice(0, 5).map((p) => ({
     title: String(p.title || "").trim(),
     link: String(p.link || "").trim(),
     date: dateFromTitle(p.title, p.pubDate),
-    note: String(p.description || "").trim(),
+    note: String(p.note || "").trim(),
   }));
   return {
     updatedAt: nowIso(),
-    newestTs: Date.parse(feedItems[0].pubDate) || Date.now(),
+    newestTs: Date.parse(items[0].pubDate) || Date.now(),
     archiveUrl: "https://marcossorrilha.substack.com/archive",
-    count: items.length,
-    items,
+    count: top.length,
+    items: top,
   };
 }
 export async function fetchClipping() {
+  const api = "https://marcossorrilha.substack.com/api/v1/archive?sort=new&limit=12&offset=0";
   const feed = "https://marcossorrilha.substack.com/feed";
-  // 1) rss2json: devolve JSON já estruturado e funciona a partir do Actions.
+  // 1) r.jina.ai busca a API a partir da infra dele (não bloqueada) e devolve o
+  //    JSON embrulhado em markdown — extraímos o array (traz o subtítulo real).
+  try {
+    const t = await getText("https://r.jina.ai/" + api);
+    const m = t && t.match(/\[\s*\{[\s\S]*\}\s*\]/);
+    if (m) {
+      const arr = JSON.parse(m[0]);
+      if (Array.isArray(arr) && arr.length) return buildClipping(itemsFromArchive(arr));
+    }
+  } catch { /* tenta as próximas rotas */ }
+  // 2) rss2json (RSS -> JSON).
   try {
     const j = await getJson("https://api.rss2json.com/v1/api.json?count=12&rss_url=" + encodeURIComponent(feed));
     if (j && Array.isArray(j.items) && j.items.length) {
-      const items = j.items.map((x) => ({
-        title: htmlDecode(x.title),
-        link: x.link,
-        pubDate: x.pubDate,
-        description: htmlDecode(x.description || x.content || ""),
-      }));
-      return buildClipping(items);
+      const items = j.items.map((x) => ({ title: htmlDecode(x.title), link: x.link, description: htmlDecode(x.description || x.content || ""), pubDate: x.pubDate }));
+      return buildClipping(itemsFromFeed(items));
     }
   } catch { /* tenta o XML cru abaixo */ }
-  // 2) XML cru do feed via proxies.
+  // 3) XML cru do feed via proxies.
   const items = parseRssItems(await getText(feed));
   if (!items.length) throw new Error("feed do Substack vazio");
-  return buildClipping(items);
+  return buildClipping(itemsFromFeed(items));
 }
 
 // ---------- TRUMP (Silver Bulletin) ----------
