@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-28T21:58:24.116Z",
+  "updatedAt": "2026-08-28T22:21:49.520Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Jelly Roll explica suas convicções políticas após as piadas de Trump: “Estou no meio-termo”",
+      "titleOriginal": "Jelly Roll explains political beliefs after Trump roasts: I'm 'down the middle'",
+      "link": "https://thehill.com/blogs/in-the-know/6058325-jelly-roll-political-beliefs-trump/",
+      "publishedAt": "2026-08-28T22:06:41.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se amplia",
@@ -18,14 +25,21 @@
     },
     {
       "source": "New York Times",
-      "title": "A Chevron está em negociações para expandir suas operações na Venezuela, o que pode ser uma vitória para Trump",
+      "title": "A Chevron está em negociações para expandir suas operações na Venezuela, o que representa uma possível vitória para Trump",
       "titleOriginal": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
       "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
-      "publishedAt": "2026-08-28T21:30:57.000Z"
+      "publishedAt": "2026-08-28T21:30:58.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O FBI não considera mais a experiência de uma candidata na prostituição como impedimento automático para a contratação",
+      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
+      "publishedAt": "2026-08-28T21:28:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Califórnia processa o governo Trump por cancelamento de projeto de energia eólica offshore",
+      "title": "Califórnia entra com ação contra o governo Trump por cancelamento de projeto de energia eólica offshore",
       "titleOriginal": "California Sues Trump Administration Over Offshore Wind Cancellation",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/california-trump-offshore-wind-lawsuit.html",
       "publishedAt": "2026-08-28T21:14:19.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Massie urges passage of PRIME Act following Trump move to ease meat processing restrictions",
       "link": "https://thehill.com/homenews/house/6058340-massie-prime-act-trump-meatpacking-order/",
       "publishedAt": "2026-08-28T20:58:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Serviço Nacional de Parques apoia o arco de Trump, apesar de seu impacto na vista de Washington",
-      "titleOriginal": "National Park Service backs Trump’s arch, despite its impact on Washington’s sightline",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczR0Y3JWZ2c1dUI2Sy05UUJuWEprc0dzc0c1b2JwMDJEa0xjbmFPRTBzS0lySU1fQjZRU3hqQmVTYTdXM1VDbzBlMjVZNlotLTJnQXdtRWVNLUdzb19vYmlhbGRfcUdJZ0dRdzZ0WTFTMEVtazQ5bTd0R2xaTnJNb2lQT0hiQmxEaW4zbEFDVEdCSHQ3MFdNaTdST3l3ODRUdEhkWGVzdC1ReTBkYVhwRw?oc=5",
-      "publishedAt": "2026-08-28T20:57:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O provocador britânico de extrema direita Milo Yiannopoulos foi preso pelas autoridades de imigração dos EUA",
-      "titleOriginal": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
-      "publishedAt": "2026-08-28T20:24:59.000Z"
     }
   ]
 }
