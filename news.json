@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-08-28T22:48:57.870Z",
+  "updatedAt": "2026-08-28T23:21:36.919Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se amplia",
+      "titleOriginal": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html",
+      "publishedAt": "2026-08-28T23:14:18.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump considera ceder parte do Parque Nacional de Yosemite a uma empresa privada",
+      "title": "O governo Trump toma medidas para flexibilizar os padrões de eficiência de combustível para caminhões comerciais",
+      "titleOriginal": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
+      "link": "https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards/",
+      "publishedAt": "2026-08-28T22:53:02.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump considera ceder parte do Yosemite a uma empresa privada",
       "titleOriginal": "Trump considers giving away part of Yosemite to private company",
       "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
       "publishedAt": "2026-08-28T22:37:57.000Z"
@@ -17,6 +31,13 @@
       "publishedAt": "2026-08-28T22:25:28.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Ataques israelenses matam 5 pessoas em Gaza e 3 na Cisjordânia, além de outras notícias do Oriente Médio",
+      "titleOriginal": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3FmcjlycjlqYTlNSzJueHF3d2ZkRHJ3c2ZEbFJkYzZ6ZERHdVE0WXFlV3Y0Uy10emVoZzV4dlBleGRrbTV6a0Z1WkJPVHBTM1NqdExfRUZvRGk5bHJRdnZSdEdBbXBSN2h4VmE0SzB2emV4NHdQQUZSSWRpUlNGRjNaamtWbEdUbGtoSlNtMzF6TGd0b05SdHMtRTFaYVk?oc=5",
+      "publishedAt": "2026-08-28T22:15:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Tribunal de apelação decide que os estados podem regulamentar plataformas de mercados de previsão como se fossem jogos de azar",
       "titleOriginal": "Appeals court rules states can regulate prediction market platforms like gambling",
@@ -25,17 +46,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Jelly Roll explica suas convicções políticas após as piadas de Trump: “Estou no meio-termo”",
+      "title": "Jelly Roll explica suas convicções políticas após piadas de Trump: “Estou no meio-termo”",
       "titleOriginal": "Jelly Roll explains political beliefs after Trump roasts: I'm 'down the middle'",
       "link": "https://thehill.com/blogs/in-the-know/6058325-jelly-roll-political-beliefs-trump/",
       "publishedAt": "2026-08-28T22:06:41.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se alastra",
-      "titleOriginal": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html",
-      "publishedAt": "2026-08-28T21:43:15.000Z"
+      "source": "AP News",
+      "title": "Governo federal prorroga a suspensão das obras na fronteira do Parque Nacional Big Bend até meados de setembro",
+      "titleOriginal": "Federal government extends pause on Big Bend National Park border construction until mid-September",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjRKRTVKUnpTWGs0TDM2anplRXMtcExSeEREQW5PNVZDTmdfNEZRMmozaklhaDlTN2xJc0o1ZVlsQTE5LWh6d1dIVjA0UmM1VVBpQmVWM0lEYkpwRFU0dDQzSURMT05IREpvVTVwV3U1elNjaFlXaUJxUHQtYTFlLVBzUFMzQ0p1ZTBWOXNjWUJuMzQ?oc=5",
+      "publishedAt": "2026-08-28T22:05:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A vinícola por trás do boom dos vinhos boutique na China",
+      "titleOriginal": "The Vineyard Behind China’s Boutique Wine Boom",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qMmE0TFAwc0VLeUUtMDdRZ19aVHliY3NDRFF5c2I1TVlGa2dNZ0VnSlpBYk1IZlozZHFjZEpSanFLY2IybUtHc0EyQjNsWG1XX3lfVG9saXZqV2l3cGxsdjRqNG5pa0lySWFWTkFmZllLOVFkREJBYktQejJZZw?oc=5",
+      "publishedAt": "2026-08-28T22:00:23.000Z"
     },
     {
       "source": "New York Times",
@@ -43,34 +71,6 @@
       "titleOriginal": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
       "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
       "publishedAt": "2026-08-28T21:30:58.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
-      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
-      "publishedAt": "2026-08-28T21:28:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump cria uma Academia Espacial e homenageia os astronautas da missão Artemis",
-      "titleOriginal": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
-      "publishedAt": "2026-08-28T21:20:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O provocador britânico de extrema direita Milo Yiannopoulos foi preso pelas autoridades de imigração dos EUA",
-      "titleOriginal": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
-      "publishedAt": "2026-08-28T21:17:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A campanha para renomear o aeroporto de Nashville em homenagem a Dolly Parton recebe apoio do governador do Tennessee",
-      "titleOriginal": "Push to rename Nashville airport for Dolly Parton gets a boost from Tennessee’s governor",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3dvZzByTUhHcF9pRE1DelVPT0VaeUUyTjRrRmwzZUFyaVE5c0NwY3J4SHNLWVI5WXFfLUJfOHBOVE9qVUZfemhTR1lDajkwX3JUVTYtWHpuSVpxSVdCUS1kQ21uMmstaGhGR3Z2cUQtZ2pkdVJseWY4VmxONFpEWUdlb2pJWDNNbkVFNmhXRHRid3FjNWkxODdGclRfQQ?oc=5",
-      "publishedAt": "2026-08-28T21:15:00.000Z"
     }
   ]
 }
