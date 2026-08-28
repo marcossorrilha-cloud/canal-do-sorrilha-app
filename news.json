@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-28T22:21:49.520Z",
+  "updatedAt": "2026-08-28T22:48:57.870Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump considera ceder parte do Parque Nacional de Yosemite a uma empresa privada",
+      "titleOriginal": "Trump considers giving away part of Yosemite to private company",
+      "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
+      "publishedAt": "2026-08-28T22:37:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump critica o New York Times por causa de reportagem sobre os planos para as comemorações do 11 de setembro",
+      "titleOriginal": "Trump attacks New York Times over report on 9/11 remembrance plans",
+      "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
+      "publishedAt": "2026-08-28T22:25:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelação decide que os estados podem regulamentar plataformas de mercados de previsão como se fossem jogos de azar",
+      "titleOriginal": "Appeals court rules states can regulate prediction market platforms like gambling",
+      "link": "https://thehill.com/policy/technology/6058357-ninth-circuit-prediction-markets-kalshi-states-cftc/",
+      "publishedAt": "2026-08-28T22:13:32.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Jelly Roll explica suas convicções políticas após as piadas de Trump: “Estou no meio-termo”",
@@ -11,66 +32,45 @@
     },
     {
       "source": "New York Times",
-      "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se amplia",
+      "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se alastra",
       "titleOriginal": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html",
       "publishedAt": "2026-08-28T21:43:15.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A aposta de US$ 279 bilhões da Nvidia na cadeia de suprimentos",
-      "titleOriginal": "Nvidia’s $279 Billion Supply-Chain Gamble",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl9XV0ZOa3VDelZVWV9yY0RwXzNFZmRBc0FYSDk3d0pWbmFJMG5JTDZEUE1UY05WanRSdWUwV0FfdW0yb2N4dGV2cUR1NUtFaEhoY2dmR3NzNTVIcWYzN0k0Y2FsT2xWaW52MzlnVGQydEh3RzZZRHRUNkNsQkptV2ln?oc=5",
-      "publishedAt": "2026-08-28T21:31:30.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "A Chevron está em negociações para expandir suas operações na Venezuela, o que representa uma possível vitória para Trump",
+      "title": "A Chevron está em negociações para expandir suas operações na Venezuela, o que pode ser uma vitória para Trump",
       "titleOriginal": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
       "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
       "publishedAt": "2026-08-28T21:30:58.000Z"
     },
     {
       "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata na prostituição como impedimento automático para a contratação",
+      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
       "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
       "publishedAt": "2026-08-28T21:28:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Califórnia entra com ação contra o governo Trump por cancelamento de projeto de energia eólica offshore",
-      "titleOriginal": "California Sues Trump Administration Over Offshore Wind Cancellation",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/california-trump-offshore-wind-lawsuit.html",
-      "publishedAt": "2026-08-28T21:14:19.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump pede à Suprema Corte que autorize a proibição de transgêneros nas Forças Armadas",
-      "titleOriginal": "Trump administration asks Supreme Court to allow military's transgender ban",
-      "link": "https://thehill.com/regulation/court-battles/6058382-trump-supreme-court-pentagon-transgender-ban/",
-      "publishedAt": "2026-08-28T21:12:50.000Z"
+      "title": "Trump cria uma Academia Espacial e homenageia os astronautas da missão Artemis",
+      "titleOriginal": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
+      "publishedAt": "2026-08-28T21:20:48.000Z"
     },
     {
       "source": "AP News",
-      "title": "Equipes de resgate resgatam sobreviventes das enchentes cobertos de lama, enquanto o número de mortos no desastre na fronteira entre o Nepal e a China continua aumentando",
-      "titleOriginal": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn?oc=5",
-      "publishedAt": "2026-08-28T21:04:00.000Z"
+      "title": "O provocador britânico de extrema direita Milo Yiannopoulos foi preso pelas autoridades de imigração dos EUA",
+      "titleOriginal": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
+      "publishedAt": "2026-08-28T21:17:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Crockett dá a entender que não fará campanha ao lado de Talarico e que se concentrará nas “candidaturas secundárias”",
-      "titleOriginal": "Crockett suggests she won't campaign with Talarico, will focus 'down ballot'",
-      "link": "https://thehill.com/homenews/campaign/6058356-crockett-down-ballot-texas-senate/",
-      "publishedAt": "2026-08-28T21:00:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Massie defende a aprovação da Lei PRIME após a medida de Trump para flexibilizar as restrições ao processamento de carne",
-      "titleOriginal": "Massie urges passage of PRIME Act following Trump move to ease meat processing restrictions",
-      "link": "https://thehill.com/homenews/house/6058340-massie-prime-act-trump-meatpacking-order/",
-      "publishedAt": "2026-08-28T20:58:52.000Z"
+      "source": "AP News",
+      "title": "A campanha para renomear o aeroporto de Nashville em homenagem a Dolly Parton recebe apoio do governador do Tennessee",
+      "titleOriginal": "Push to rename Nashville airport for Dolly Parton gets a boost from Tennessee’s governor",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3dvZzByTUhHcF9pRE1DelVPT0VaeUUyTjRrRmwzZUFyaVE5c0NwY3J4SHNLWVI5WXFfLUJfOHBOVE9qVUZfemhTR1lDajkwX3JUVTYtWHpuSVpxSVdCUS1kQ21uMmstaGhGR3Z2cUQtZ2pkdVJseWY4VmxONFpEWUdlb2pJWDNNbkVFNmhXRHRid3FjNWkxODdGclRfQQ?oc=5",
+      "publishedAt": "2026-08-28T21:15:00.000Z"
     }
   ]
 }
