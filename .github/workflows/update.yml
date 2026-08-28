@@ -1,11 +1,14 @@
 name: Atualizar conteúdo do app
 
-# Roda de hora em hora: notícias (Em tempo real), aprovação de Trump e Blind Spot.
-# O clipping tem workflow próprio (clipping.yml), mais frequente.
+# Roda ~2x por hora (min 17 e 43 UTC, fora do minuto :00 — que é o mais
+# congestionado e o mais derrubado pelo agendador do GitHub): notícias
+# (Em tempo real), aprovação de Trump, midterms e Blind Spot.
+# O clipping também tem workflow próprio (clipping.yml).
 # Cada arquivo só gera commit se realmente mudou.
 on:
   schedule:
-    - cron: "0 * * * *"      # toda hora cheia (UTC)
+    - cron: "17 * * * *"     # min 17 (UTC) — fora do pico do topo da hora
+    - cron: "43 * * * *"     # min 43 (UTC) — 2ª tentativa na mesma hora
   workflow_dispatch:
     inputs:
       approval:
