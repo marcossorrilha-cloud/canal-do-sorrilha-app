@@ -1,24 +1,45 @@
 {
-  "updatedAt": "2026-08-29T16:48:59.949Z",
+  "updatedAt": "2026-08-29T17:21:46.268Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Administração de Trump revogou injustamente os vistos de estudantes estrangeiros pró-palestinos, conclui juiz",
+      "titleOriginal": "Trump admin unjustly revoked pro-Palestinian foreign students' visas, judge finds",
+      "link": "https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling/",
+      "publishedAt": "2026-08-29T17:15:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A nova doutrina nuclear do Pentágono precisa de limites estabelecidos pelo Congresso",
+      "titleOriginal": "The Pentagon's new nuclear doctrine needs congressional guardrails",
+      "link": "https://thehill.com/opinion/national-security/6057538-dod-shifts-focus-tactical-nukes/",
+      "publishedAt": "2026-08-29T17:00:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
+      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
+      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+      "publishedAt": "2026-08-29T16:53:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As campanhas políticas estão, discretamente, pagando a influenciadores para que apoiem candidatos",
       "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
       "publishedAt": "2026-08-29T16:45:10.000Z"
     },
     {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes no Nepal e na China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
       "publishedAt": "2026-08-29T16:27:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se colocar no centro das atenções",
+      "title": "O Resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se concentrar em si mesmo",
       "titleOriginal": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
       "link": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
       "publishedAt": "2026-08-29T16:00:00.000Z"
@@ -31,22 +52,15 @@
       "publishedAt": "2026-08-29T15:47:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Como a mídia facilita a “guerra jurídica”",
-      "titleOriginal": "Opinion | The Media’s Lawfare Enabling",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0R0JDOUQ0ek1penMwV0FFN21pX29yeTI3d2oyeWxhYk0wRGEtSDNGVmZURWloWGJJZlBOdmVqVXU4RjdUV1N3TUpoSFViOE80UEtlNGNLMUw2ZXQ1cG1kZjRTVE44MUlKbFM1RWJ0MjhqUQ?oc=5",
-      "publishedAt": "2026-08-29T15:35:29.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Na Geórgia, Jon Ossoff busca atrair um público amplo com uma estratégia anti-Trump na disputa pelo Senado",
+      "title": "Na Geórgia, Jon Ossoff busca atrair um amplo eleitorado com uma estratégia anti-Trump na disputa pelo Senado",
       "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
       "publishedAt": "2026-08-29T15:25:22.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A alta dívida e a alta dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
+      "title": "A elevada dívida e o aumento dos preços começam a pesar sobre Trump, com a aproximação das eleições de meio de mandato",
       "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
       "publishedAt": "2026-08-29T14:54:48.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
       "publishedAt": "2026-08-29T14:43:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Canadá mantém sua posição enquanto mais países enfrentam Trump",
-      "titleOriginal": "Canada Digs In as More Countries Stand Up to Trump",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbGdjTVR0dFVlWm9jY29KbHpMTE9Ba0E5S0hLUWRKU0tGaU4zVC1sTkRwLXgxekpqUWx1YXZKcVMzRXlZQzdEWjZvcXNtY3kzSVNBem83SjZNUTd3RTFNeTBaUFlCZ2FHZ2FxdWYwYk42YU8yOGs4RUN4TFJPWHRQb1FCdlJQVWptZFRqMEg1UUlVUQ?oc=5",
-      "publishedAt": "2026-08-29T14:30:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
-      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
-      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "publishedAt": "2026-08-29T14:30:17.000Z"
     }
   ]
 }
