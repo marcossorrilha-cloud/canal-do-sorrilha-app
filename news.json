@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T14:48:56.405Z",
+  "updatedAt": "2026-08-29T15:21:47.835Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "A elevada dívida e o aumento dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
+      "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+      "publishedAt": "2026-08-29T14:54:48.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Como a política de deportação de Trump se espalha pelo mundo",
@@ -11,10 +18,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Trump afirma que os EUA fecharam um acordo para o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
+      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
       "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
       "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
       "publishedAt": "2026-08-29T14:30:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Operador do teleprompter da Casa Branca que fez apostas nos discursos de Trump é condenado a pagar US$ 172 mil",
+      "titleOriginal": "White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K",
+      "link": "https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/",
+      "publishedAt": "2026-08-29T14:19:57.000Z"
     },
     {
       "source": "New York Times",
@@ -32,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Talarico discute a área da saúde com seu aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
+      "title": "Atualizações em tempo real: Talarico discute saúde com seu aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
       "titleOriginal": "Live updates: Talarico talks healthcare with ally Mark Cuban, campaigning Democrats divided over Harris endorsements",
       "link": "https://thehill.com/homenews/administration/6058737-live-talarico-cuban-talk-trump-maga-inc/",
       "publishedAt": "2026-08-29T13:00:00.000Z"
@@ -46,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata na prostituição como um impedimento automático à contratação",
+      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como impedimento automático para a contratação",
       "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
       "publishedAt": "2026-08-29T12:25:00.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
       "publishedAt": "2026-08-29T12:12:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Há uma “guerra” na fronteira entre os EUA e o Canadá — na pesca do robalo",
-      "titleOriginal": "There’s a U.S.-Canada Border War—in Bass Fishing",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdElPT1d4T1FmWUZUWEV6dzQwWi15WmY5Q0Z0WTBoSUJfVkVra3VzRldHZGxuWkhnYzBlMklVMlRKU05jWlZ6T3pjS1VYVFVCQ3FxNEgtZUJjN0paSW5iMmkxZHh1blJfMDVqdmtxVU5LMVZOU0xSVmE0OXB6eXlQaXhLaF9JTEk?oc=5",
-      "publishedAt": "2026-08-29T12:01:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Terra está em chamas, mas o clima não é um tema em destaque para os democratas nas campanhas deste ano",
-      "titleOriginal": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
-      "publishedAt": "2026-08-29T11:44:00.000Z"
     }
   ]
 }
