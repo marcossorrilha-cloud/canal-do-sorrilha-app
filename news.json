@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T00:48:53.871Z",
+  "updatedAt": "2026-08-29T01:21:38.710Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Hegseth bloqueia as promoções de quatro oficiais do Exército ligados aos generais demitidos",
+      "titleOriginal": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
+      "link": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
+      "publishedAt": "2026-08-29T01:12:28.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump afirma que os EUA firmaram um acordo com a Venezuela para assumir o controle de 65 bilhões de barris de reservas de petróleo",
@@ -22,13 +29,6 @@
       "titleOriginal": "Trump eyes Yosemite land swap",
       "link": "https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap/",
       "publishedAt": "2026-08-28T23:24:44.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Hegseth bloqueia promoções de quatro oficiais do Exército à medida que a onda de demissões se amplia",
-      "titleOriginal": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html",
-      "publishedAt": "2026-08-28T23:14:18.000Z"
     },
     {
       "source": "The Hill",
@@ -53,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump critica o New York Times por causa de matéria sobre os planos para a homenagem ao 11 de setembro",
+      "title": "Trump critica o New York Times por causa de matéria sobre os planos para as comemorações do 11 de setembro",
       "titleOriginal": "Trump attacks New York Times over report on 9/11 remembrance plans",
       "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
       "publishedAt": "2026-08-28T22:25:28.000Z"
