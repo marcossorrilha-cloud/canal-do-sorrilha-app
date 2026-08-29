@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-29T17:48:52.857Z",
+  "updatedAt": "2026-08-29T18:21:24.676Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
+      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
+      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
+      "publishedAt": "2026-08-29T18:12:21.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Carney conta com o apoio dos canadenses em relação a Trump. Agora vem a parte difícil.",
       "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
       "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "publishedAt": "2026-08-29T17:42:30.000Z"
+      "publishedAt": "2026-08-29T18:10:38.000Z"
     },
     {
       "source": "New York Times",
@@ -46,14 +53,14 @@
     },
     {
       "source": "The Hill",
-      "title": "O Resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se concentrar em si mesmo",
+      "title": "O resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições intermediárias, que consiste em se concentrar em si mesmo",
       "titleOriginal": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
       "link": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
       "publishedAt": "2026-08-29T16:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Ataque russo a um armazém próximo a Kiev mata 37 pessoas em um dos ataques mais mortíferos da guerra neste ano",
+      "title": "Ataque russo a um armazém próximo a Kiev mata 37 pessoas, em um dos ataques mais mortíferos da guerra neste ano",
       "titleOriginal": "Russian strike on warehouse near Kyiv kills 37 in one of the war’s deadliest attacks this year",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
       "publishedAt": "2026-08-29T15:47:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
       "publishedAt": "2026-08-29T15:25:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A alta dívida e o aumento dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
-      "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
-      "publishedAt": "2026-08-29T14:54:48.000Z"
     }
   ]
 }
