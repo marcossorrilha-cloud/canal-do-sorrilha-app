@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-29T08:48:53.631Z",
+  "updatedAt": "2026-08-29T09:21:45.957Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Verificação dos fatos sobre as disputas pelo Senado na Geórgia, no Alasca e no Texas",
+      "titleOriginal": "Fact-Checking Senate Races in Georgia, Alaska and Texas",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
+      "publishedAt": "2026-08-29T09:04:08.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Carney conta com o apoio dos canadenses em relação a Trump. Agora vem a parte difícil.",
+      "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
+      "publishedAt": "2026-08-29T09:03:29.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A alta dívida e a alta dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
+      "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+      "publishedAt": "2026-08-29T09:02:33.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
+      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
+      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
+      "publishedAt": "2026-08-29T09:02:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
+      "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "publishedAt": "2026-08-29T09:00:16.000Z"
+    },
     {
       "source": "AP News",
       "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
@@ -11,7 +46,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informação privilegiada",
+      "title": "Operador de teleprompter da Casa Branca chega a um acordo em inquérito sobre uso de informação privilegiada",
       "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
       "publishedAt": "2026-08-29T03:38:27.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
       "link": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
       "publishedAt": "2026-08-29T02:23:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
-      "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
-      "publishedAt": "2026-08-29T01:40:28.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Grupos de direitos civis fazem um apelo urgente pelo direito ao voto em Washington, D.C., antes das eleições de meio de mandato",
-      "titleOriginal": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTRUalRqN2FVQ3pBNkZSV3ZJdGZIaTRRVFA3OGhVMlB0ak1YS1hWQmlpcVFwLWpTVGNGeC1YcE1ERk0xSl9PZzhBU3J5clBkanJ1NC1hYVFNajFzRTAyWkZtcHBQb3BISHRCcWRaemsxTjE2VEs4dldiaXpLcm9pM29FbE4wLXFvZGFaZUxfSjhBclRZSldENi1uRUFIc3lnZ1I0dGRYNzBDVlU1R1diX0xZUQ?oc=5",
-      "publishedAt": "2026-08-29T01:37:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump cria uma Academia Espacial e homenageia os astronautas da missão Artemis",
-      "titleOriginal": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
-      "publishedAt": "2026-08-29T01:36:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A China está alimentando secretamente a febre dos centros de dados nos Estados Unidos",
-      "titleOriginal": "China is secretly fueling America's data center rage",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
-      "publishedAt": "2026-08-29T01:36:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hegseth bloqueia as promoções de quatro oficiais do Exército ligados aos generais demitidos",
-      "titleOriginal": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
-      "link": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
-      "publishedAt": "2026-08-29T01:12:28.000Z"
     }
   ]
 }
