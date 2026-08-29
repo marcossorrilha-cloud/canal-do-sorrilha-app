@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-29T03:49:09.553Z",
+  "updatedAt": "2026-08-29T04:21:59.176Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "A reestruturação da L3Harris é uma oportunidade para apostar no rearmamento de mísseis",
-      "titleOriginal": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0c2VWx1Q1k1cVNmOWdnQWduNXdoaVVGVFZsRm10OU9Qd0xkRk5zQXVrX0JkTndQb3l2ZUlHZDBXMEp1MXFFT0dGNnVRd2RXY0Uxal8zYVVjS1NDbE9UVlpLNUZRelJaNXE5TzNSQWJUai1zWW9qNWYwQ1l2UkdnTUNtRVo0VHNVWllvMzlFVVM1Q3BWVEpQcjh1ZnFReXdpUjhLQlY4STZoMWZWMEtUSHpBRGdyZw?oc=5",
-      "publishedAt": "2026-08-29T03:31:39.000Z"
-    },
     {
       "source": "The Hill",
       "title": "O ICE planeja gastar US$ 2 milhões em robôs com aparência de cães para a fiscalização da imigração",
@@ -25,14 +18,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informação privilegiada",
+      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informações privilegiadas",
       "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
       "publishedAt": "2026-08-29T02:15:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Juiz determina que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
+      "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
       "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
       "publishedAt": "2026-08-29T01:40:28.000Z"
@@ -53,24 +46,31 @@
     },
     {
       "source": "The Hill",
-      "title": "Hegseth suspende as promoções de quatro oficiais do Exército com ligações aos generais demitidos",
+      "title": "Hegseth suspende as promoções de quatro oficiais do Exército ligados aos generais demitidos",
       "titleOriginal": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
       "link": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
       "publishedAt": "2026-08-29T01:12:28.000Z"
     },
     {
       "source": "AP News",
-      "title": "Após críticas, a CBC do Canadá altera a política que determinava que os ataques de 11 de setembro não fossem classificados como “terrorismo”",
+      "title": "Após críticas, a CBC do Canadá altera a política que proibia chamar os ataques de 11 de setembro de “terrorismo”",
       "titleOriginal": "After criticism, Canada’s CBC changes policy that said not to label 9/11 attacks ‘terrorism’",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUE5Rnl3Z20wMVFmcWVlR3NzSDNxbXpYcUQ3LTlWMFBLQ3NRREVDVG4wUjlJUl9XUHJ6X3RGNFkxalNBMUFzbnVIRVcxemhpeWNZQjV5VEgzRjNpUmtwaV85UlM1RWpPZWoxdm5GQ2NQaVVYX0pqYlRMMlJvOTdTaGQ1YlBNZjdrTjRfUHJhNEMxYzctYXozNUhpU3NUNkVaSGlUMQ?oc=5",
       "publishedAt": "2026-08-29T01:06:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Trump comemora o “maior acordo petrolífero da história mundial” com a Venezuela",
+      "titleOriginal": "Trump hails \"biggest oil deal in world history\" with Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybmh3dkh0WC1peW5MU2xJTkhoZ0hYMG9URUVBWFRCUllmZV9lajZJR2pneUg3RkcyYjJBQTVrMXdjWHo5a0pWVW9WNnRSaHo5MjRYUzcxMDZ6RnBwbVVrOGgycUI1QTNB?oc=5",
+      "publishedAt": "2026-08-29T01:02:51.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "O esgotamento dos estoques de munições dos EUA devido à guerra com o Irã gera receios quanto à capacidade de dissuadir a China e a Rússia",
+      "title": "O esgotamento dos estoques de munições dos EUA devido à guerra com o Irã gera temores quanto à capacidade de dissuadir a China e a Rússia",
       "titleOriginal": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDBDT1BvLTZoeWl6NXlyOXFyT1pWWGFHOWFnc2wyRnZaWmtibTdyVFVJMnk0SUxVNkk2b0F6SzNaU2ZmYWg2YWJJdFN1Nk56U1JkQ1dBdWlWbmdkTWI2S05aOEJRb1pHMnRvMkZ6dEk3Q2NkOUM4SkRxZmNmZTZqaS1UcWYyaTdwZUNUeU9LOVRKRTloVUQ4dXRKRmVhZGFOeEJqRlA3UElpLUtmdjdNckxURTdVVnN6ZTdwT3hkWVY1ckNlMHVDcjdSNUo1UnpTcU4xMzY3OA?oc=5",
-      "publishedAt": "2026-08-29T01:00:00.000Z"
+      "publishedAt": "2026-08-29T01:01:59.000Z"
     }
   ]
 }
