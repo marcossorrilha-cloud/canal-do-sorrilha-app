@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T19:21:26.458Z",
+  "updatedAt": "2026-08-29T19:49:00.778Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Walmart chega a um acordo em ação judicial do Departamento de Justiça (DOJ) relacionada à crise dos opiáceos no valor de US$ 50 milhões",
+      "titleOriginal": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
+      "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
+      "publishedAt": "2026-08-29T19:34:50.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
@@ -18,7 +25,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha para o exterior",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
       "publishedAt": "2026-08-29T18:12:21.000Z"
@@ -46,14 +53,14 @@
     },
     {
       "source": "AP News",
-      "title": "A Terra está em chamas, mas o clima não é um tema em destaque para os democratas nas campanhas deste ano",
+      "title": "A Terra está em ebulição, mas o clima não é um tema em destaque para os democratas nas campanhas deste ano",
       "titleOriginal": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
       "publishedAt": "2026-08-29T16:52:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias de quase 3.000 desaparecidos",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
       "publishedAt": "2026-08-29T16:27:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
       "link": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
       "publishedAt": "2026-08-29T16:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Na Geórgia, Jon Ossoff busca atrair um público amplo com uma estratégia anti-Trump na disputa pelo Senado",
-      "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
-      "publishedAt": "2026-08-29T15:25:22.000Z"
     }
   ]
 }
