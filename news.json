@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-29T04:21:59.176Z",
+  "updatedAt": "2026-08-29T04:48:59.327Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O ICE planeja gastar US$ 2 milhões em robôs com aparência de cães para a fiscalização da imigração",
+      "title": "O ICE planeja gastar US$ 2 milhões em robôs com aparência de cão para atuações de fiscalização de imigração",
       "titleOriginal": "ICE plans to spend $2 million on dog-like robots for immigration enforcement",
       "link": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/",
       "publishedAt": "2026-08-29T03:07:37.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como Xi Jinping, da China, transformou o petróleo de um ponto fraco em uma arma geopolítica",
+      "titleOriginal": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?oc=5",
+      "publishedAt": "2026-08-29T03:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -18,7 +25,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informações privilegiadas",
+      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informação privilegiada",
       "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
       "publishedAt": "2026-08-29T02:15:00.000Z"
@@ -42,7 +49,7 @@
       "title": "Trump cria uma Academia Espacial e homenageia os astronautas da missão Artemis",
       "titleOriginal": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
-      "publishedAt": "2026-08-29T01:36:45.000Z"
+      "publishedAt": "2026-08-29T01:36:46.000Z"
     },
     {
       "source": "The Hill",
@@ -53,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "Após críticas, a CBC do Canadá altera a política que proibia chamar os ataques de 11 de setembro de “terrorismo”",
+      "title": "Após críticas, a CBC do Canadá altera a política que determinava que os ataques de 11 de setembro não fossem classificados como “terrorismo”",
       "titleOriginal": "After criticism, Canada’s CBC changes policy that said not to label 9/11 attacks ‘terrorism’",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUE5Rnl3Z20wMVFmcWVlR3NzSDNxbXpYcUQ3LTlWMFBLQ3NRREVDVG4wUjlJUl9XUHJ6X3RGNFkxalNBMUFzbnVIRVcxemhpeWNZQjV5VEgzRjNpUmtwaV85UlM1RWpPZWoxdm5GQ2NQaVVYX0pqYlRMMlJvOTdTaGQ1YlBNZjdrTjRfUHJhNEMxYzctYXozNUhpU3NUNkVaSGlUMQ?oc=5",
       "publishedAt": "2026-08-29T01:06:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Trump hails \"biggest oil deal in world history\" with Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybmh3dkh0WC1peW5MU2xJTkhoZ0hYMG9URUVBWFRCUllmZV9lajZJR2pneUg3RkcyYjJBQTVrMXdjWHo5a0pWVW9WNnRSaHo5MjRYUzcxMDZ6RnBwbVVrOGgycUI1QTNB?oc=5",
       "publishedAt": "2026-08-29T01:02:51.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O esgotamento dos estoques de munições dos EUA devido à guerra com o Irã gera temores quanto à capacidade de dissuadir a China e a Rússia",
-      "titleOriginal": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDBDT1BvLTZoeWl6NXlyOXFyT1pWWGFHOWFnc2wyRnZaWmtibTdyVFVJMnk0SUxVNkk2b0F6SzNaU2ZmYWg2YWJJdFN1Nk56U1JkQ1dBdWlWbmdkTWI2S05aOEJRb1pHMnRvMkZ6dEk3Q2NkOUM4SkRxZmNmZTZqaS1UcWYyaTdwZUNUeU9LOVRKRTloVUQ4dXRKRmVhZGFOeEJqRlA3UElpLUtmdjdNckxURTdVVnN6ZTdwT3hkWVY1ckNlMHVDcjdSNUo1UnpTcU4xMzY3OA?oc=5",
-      "publishedAt": "2026-08-29T01:01:59.000Z"
     }
   ]
 }
