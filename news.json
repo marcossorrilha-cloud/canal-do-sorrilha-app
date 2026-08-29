@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-08-29T14:21:38.655Z",
+  "updatedAt": "2026-08-29T14:48:56.405Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
+      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
+      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
+      "publishedAt": "2026-08-29T14:43:28.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que os EUA fecharam um acordo para o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
+      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+      "publishedAt": "2026-08-29T14:30:17.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
       "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
       "publishedAt": "2026-08-29T14:09:12.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha pelo mundo",
-      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
-      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-      "publishedAt": "2026-08-29T13:48:35.000Z"
     },
     {
       "source": "The Hill",
@@ -25,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Talarico discute saúde com o aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
+      "title": "Atualizações em tempo real: Talarico discute a área da saúde com seu aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
       "titleOriginal": "Live updates: Talarico talks healthcare with ally Mark Cuban, campaigning Democrats divided over Harris endorsements",
       "link": "https://thehill.com/homenews/administration/6058737-live-talarico-cuban-talk-trump-maga-inc/",
       "publishedAt": "2026-08-29T13:00:00.000Z"
@@ -39,7 +46,7 @@
     },
     {
       "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
+      "title": "O FBI não considera mais a experiência de uma candidata na prostituição como um impedimento automático à contratação",
       "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
       "publishedAt": "2026-08-29T12:25:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
       "publishedAt": "2026-08-29T11:44:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Verificação dos fatos sobre as disputas pelo Senado na Geórgia, no Alasca e no Texas",
-      "titleOriginal": "Fact-Checking Senate Races in Georgia, Alaska and Texas",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
-      "publishedAt": "2026-08-29T09:04:08.000Z"
     }
   ]
 }
