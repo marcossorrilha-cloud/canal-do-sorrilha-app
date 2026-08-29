@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T09:21:45.957Z",
+  "updatedAt": "2026-08-29T09:48:54.983Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A reestruturação da L3Harris é uma oportunidade para apostar no rearmamento de mísseis",
+      "titleOriginal": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0c2VWx1Q1k1cVNmOWdnQWduNXdoaVVGVFZsRm10OU9Qd0xkRk5zQXVrX0JkTndQb3l2ZUlHZDBXMEp1MXFFT0dGNnVRd2RXY0Uxal8zYVVjS1NDbE9UVlpLNUZRelJaNXE5TzNSQWJUai1zWW9qNWYwQ1l2UkdnTUNtRVo0VHNVWllvMzlFVVM1Q3BWVEpQcjh1ZnFReXdpUjhLQlY4STZoMWZWMEtUSHpBRGdyZw?oc=5",
+      "publishedAt": "2026-08-29T09:31:41.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Verificação dos fatos sobre as disputas pelo Senado na Geórgia, no Alasca e no Texas",
@@ -32,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
+      "title": "As campanhas políticas estão, discretamente, pagando influenciadores para apoiarem candidatos",
       "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
       "publishedAt": "2026-08-29T09:00:16.000Z"
@@ -46,7 +53,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Operador de teleprompter da Casa Branca chega a um acordo em inquérito sobre uso de informação privilegiada",
+      "title": "Operador do teleprompter da Casa Branca chega a acordo em inquérito sobre uso de informações privilegiadas",
       "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
       "publishedAt": "2026-08-29T03:38:27.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?oc=5",
       "publishedAt": "2026-08-29T03:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance e Zeldin solicitam investigação da EPA sobre a resposta ao descarrilamento de trem em East Palestine",
-      "titleOriginal": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
-      "link": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
-      "publishedAt": "2026-08-29T02:23:33.000Z"
     }
   ]
 }
