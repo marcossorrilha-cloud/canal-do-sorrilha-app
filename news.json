@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-29T17:21:46.268Z",
+  "updatedAt": "2026-08-29T17:48:52.857Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Carney conta com o apoio dos canadenses em relação a Trump. Agora vem a parte difícil.",
+      "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
+      "publishedAt": "2026-08-29T17:42:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
+      "titleOriginal": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "publishedAt": "2026-08-29T17:34:45.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Administração de Trump revogou injustamente os vistos de estudantes estrangeiros pró-palestinos, conclui juiz",
@@ -17,22 +31,15 @@
       "publishedAt": "2026-08-29T17:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
-      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
-      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "publishedAt": "2026-08-29T16:53:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As campanhas políticas estão, discretamente, pagando a influenciadores para que apoiem candidatos",
-      "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "publishedAt": "2026-08-29T16:45:10.000Z"
+      "source": "AP News",
+      "title": "A Terra está em chamas, mas o clima não é um tema em destaque para os democratas nas campanhas deste ano",
+      "titleOriginal": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
+      "publishedAt": "2026-08-29T16:52:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre quase 3.000 desaparecidos",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
       "publishedAt": "2026-08-29T16:27:00.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "A elevada dívida e o aumento dos preços começam a pesar sobre Trump, com a aproximação das eleições de meio de mandato",
+      "title": "A alta dívida e o aumento dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
       "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
       "publishedAt": "2026-08-29T14:54:48.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha pelo mundo",
-      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
-      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-      "publishedAt": "2026-08-29T14:43:28.000Z"
     }
   ]
 }
