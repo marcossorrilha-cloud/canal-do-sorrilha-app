@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-29T02:21:34.596Z",
+  "updatedAt": "2026-08-29T02:48:38.618Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Vance e Zeldin solicitam que a EPA investigue a resposta ao descarrilamento de trem em East Palestine",
+      "titleOriginal": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
+      "link": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
+      "publishedAt": "2026-08-29T02:23:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A reestruturação da L3Harris é uma oportunidade para apostar no rearmamento de mísseis",
+      "titleOriginal": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0c2VWx1Q1k1cVNmOWdnQWduNXdoaVVGVFZsRm10OU9Qd0xkRk5zQXVrX0JkTndQb3l2ZUlHZDBXMEp1MXFFT0dGNnVRd2RXY0Uxal8zYVVjS1NDbE9UVlpLNUZRelJaNXE5TzNSQWJUai1zWW9qNWYwQ1l2UkdnTUNtRVo0VHNVWllvMzlFVVM1Q3BWVEpQcjh1ZnFReXdpUjhLQlY4STZoMWZWMEtUSHpBRGdyZw?oc=5",
+      "publishedAt": "2026-08-29T02:01:39.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Operador de teleprompter da Casa Branca chega a acordo em investigação sobre uso de informação privilegiada",
+      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informação privilegiada",
       "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
       "publishedAt": "2026-08-29T01:40:00.000Z"
@@ -45,32 +59,18 @@
       "publishedAt": "2026-08-29T01:12:28.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "O esgotamento dos estoques de munições dos EUA devido à guerra com o Irã gera receios quanto à capacidade de dissuadir a China e a Rússia",
+      "titleOriginal": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDBDT1BvLTZoeWl6NXlyOXFyT1pWWGFHOWFnc2wyRnZaWmtibTdyVFVJMnk0SUxVNkk2b0F6SzNaU2ZmYWg2YWJJdFN1Nk56U1JkQ1dBdWlWbmdkTWI2S05aOEJRb1pHMnRvMkZ6dEk3Q2NkOUM4SkRxZmNmZTZqaS1UcWYyaTdwZUNUeU9LOVRKRTloVUQ4dXRKRmVhZGFOeEJqRlA3UElpLUtmdjdNckxURTdVVnN6ZTdwT3hkWVY1ckNlMHVDcjdSNUo1UnpTcU4xMzY3OA?oc=5",
+      "publishedAt": "2026-08-29T01:00:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Trump comemora o “maior acordo petrolífero da história mundial” com a Venezuela",
       "titleOriginal": "Trump hails \"biggest oil deal in world history\" with Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybmh3dkh0WC1peW5MU2xJTkhoZ0hYMG9URUVBWFRCUllmZV9lajZJR2pneUg3RkcyYjJBQTVrMXdjWHo5a0pWVW9WNnRSaHo5MjRYUzcxMDZ6RnBwbVVrOGgycUI1QTNB?oc=5",
       "publishedAt": "2026-08-29T00:17:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump fará discurso no Pentágono pelo 25º aniversário do 11 de setembro",
-      "titleOriginal": "Trump to give speech at Pentagon for 25th anniversary of 9/11",
-      "link": "https://thehill.com/newsletters/defense-national-security/6058631-trump-speech-pentagon-9-11-defense-newsletter/",
-      "publishedAt": "2026-08-28T23:32:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump considera uma troca de terras em Yosemite",
-      "titleOriginal": "Trump eyes Yosemite land swap",
-      "link": "https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap/",
-      "publishedAt": "2026-08-28T23:24:44.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump toma medidas para flexibilizar as normas de eficiência de combustível para caminhões comerciais",
-      "titleOriginal": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
-      "link": "https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards/",
-      "publishedAt": "2026-08-28T22:53:02.000Z"
     }
   ]
 }
