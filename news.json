@@ -1,24 +1,45 @@
 {
-  "updatedAt": "2026-08-29T12:21:45.214Z",
+  "updatedAt": "2026-08-29T12:51:25.568Z",
   "count": 10,
   "items": [
     {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre quase 3.000 desaparecidos",
+      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
+      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
+      "publishedAt": "2026-08-29T12:25:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataque russo nas proximidades de Kiev mata 37 pessoas, em um dos ataques mais mortíferos do ano",
+      "titleOriginal": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+      "publishedAt": "2026-08-29T12:12:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump comemora o “maior acordo petrolífero da história mundial” com a Venezuela",
+      "titleOriginal": "Trump hails \"biggest oil deal in world history\" with Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybmh3dkh0WC1peW5MU2xJTkhoZ0hYMG9URUVBWFRCUllmZV9lajZJR2pneUg3RkcyYjJBQTVrMXdjWHo5a0pWVW9WNnRSaHo5MjRYUzcxMDZ6RnBwbVVrOGgycUI1QTNB?oc=5",
+      "publishedAt": "2026-08-29T11:29:35.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O principal indicador de inflação permanece elevado durante o conflito com o Irã e as disputas comerciais em curso com os EUA",
+      "titleOriginal": "Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
+      "publishedAt": "2026-08-29T10:30:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
       "publishedAt": "2026-08-29T10:19:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Ataque russo atinge a região de Kiev, na Ucrânia, matando pelo menos 27 pessoas",
-      "titleOriginal": "A Russian attack hits Ukraine’s Kyiv region, killing at least 27",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-      "publishedAt": "2026-08-29T10:09:00.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Democratas em campanha eleitoral estão divididos em relação a Kamala Harris",
+      "title": "Democratas em campanha eleitoral estão divididos por causa de Kamala Harris",
       "titleOriginal": "Democrats on campaign trail divided by Kamala Harris",
       "link": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/",
       "publishedAt": "2026-08-29T10:00:00.000Z"
@@ -46,31 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha no exterior",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
       "publishedAt": "2026-08-29T09:02:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
-      "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "publishedAt": "2026-08-29T09:00:16.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A China está, secretamente, alimentando a febre dos centros de dados nos Estados Unidos",
-      "titleOriginal": "China is secretly fueling America's data center rage",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
-      "publishedAt": "2026-08-29T06:03:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O ICE planeja gastar US$ 2 milhões em robôs com aparência de cães para a fiscalização da imigração",
-      "titleOriginal": "ICE plans to spend $2 million on dog-like robots for immigration enforcement",
-      "link": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/",
-      "publishedAt": "2026-08-29T03:07:37.000Z"
     }
   ]
 }
