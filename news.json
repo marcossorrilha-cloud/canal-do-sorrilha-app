@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-08-29T18:48:51.110Z",
+  "updatedAt": "2026-08-29T19:21:26.458Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha pelo mundo",
+      "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
+      "titleOriginal": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "publishedAt": "2026-08-29T18:58:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataque russo a um armazém ucraniano mata 37 pessoas no ataque mais mortal da guerra neste ano",
+      "titleOriginal": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+      "publishedAt": "2026-08-29T18:45:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a política de deportação de Trump se espalha para o exterior",
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
       "publishedAt": "2026-08-29T18:12:21.000Z"
@@ -15,20 +29,6 @@
       "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
       "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
       "publishedAt": "2026-08-29T18:10:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
-      "titleOriginal": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "publishedAt": "2026-08-29T17:34:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Administração de Trump revogou injustamente os vistos de estudantes estrangeiros pró-palestinos, conclui juiz",
-      "titleOriginal": "Trump admin unjustly revoked pro-Palestinian foreign students' visas, judge finds",
-      "link": "https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling/",
-      "publishedAt": "2026-08-29T17:15:25.000Z"
     },
     {
       "source": "The Hill",
@@ -53,24 +53,24 @@
     },
     {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre quase 3.000 desaparecidos",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias de quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
       "publishedAt": "2026-08-29T16:27:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se colocar no centro das atenções",
+      "title": "O Resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se concentrar em si mesmo",
       "titleOriginal": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
       "link": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
       "publishedAt": "2026-08-29T16:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Ataque russo a um armazém próximo a Kiev mata 37 pessoas em um dos ataques mais mortíferos da guerra neste ano",
-      "titleOriginal": "Russian strike on warehouse near Kyiv kills 37 in one of the war’s deadliest attacks this year",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-      "publishedAt": "2026-08-29T15:47:00.000Z"
+      "source": "New York Times",
+      "title": "Na Geórgia, Jon Ossoff busca atrair um público amplo com uma estratégia anti-Trump na disputa pelo Senado",
+      "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
+      "publishedAt": "2026-08-29T15:25:22.000Z"
     }
   ]
 }
