@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:21:32.214Z",
+  "updatedAt": "2026-08-29T00:48:53.871Z",
   "count": 10,
   "items": [
     {
@@ -11,14 +11,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump fará discurso no Pentágono por ocasião do 25º aniversário do 11 de setembro",
+      "title": "Trump fará discurso no Pentágono pelo 25º aniversário do 11 de setembro",
       "titleOriginal": "Trump to give speech at Pentagon for 25th anniversary of 9/11",
       "link": "https://thehill.com/newsletters/defense-national-security/6058631-trump-speech-pentagon-9-11-defense-newsletter/",
       "publishedAt": "2026-08-28T23:32:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump considera troca de terras em Yosemite",
+      "title": "Trump considera uma troca de terras em Yosemite",
       "titleOriginal": "Trump eyes Yosemite land swap",
       "link": "https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap/",
       "publishedAt": "2026-08-28T23:24:44.000Z"
@@ -45,8 +45,15 @@
       "publishedAt": "2026-08-28T22:37:57.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
+      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
+      "publishedAt": "2026-08-28T22:29:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump critica o New York Times por causa de matéria sobre os planos para as comemorações do 11 de setembro",
+      "title": "Trump critica o New York Times por causa de matéria sobre os planos para a homenagem ao 11 de setembro",
       "titleOriginal": "Trump attacks New York Times over report on 9/11 remembrance plans",
       "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
       "publishedAt": "2026-08-28T22:25:28.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Appeals court rules states can regulate prediction market platforms like gambling",
       "link": "https://thehill.com/policy/technology/6058357-ninth-circuit-prediction-markets-kalshi-states-cftc/",
       "publishedAt": "2026-08-28T22:13:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jelly Roll explica suas convicções políticas após piadas de Trump: “Estou no meio-termo”",
-      "titleOriginal": "Jelly Roll explains political beliefs after Trump roasts: I'm 'down the middle'",
-      "link": "https://thehill.com/blogs/in-the-know/6058325-jelly-roll-political-beliefs-trump/",
-      "publishedAt": "2026-08-28T22:06:41.000Z"
     }
   ]
 }
