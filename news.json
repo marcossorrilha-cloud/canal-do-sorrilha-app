@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T13:21:32.252Z",
+  "updatedAt": "2026-08-29T13:49:33.337Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como a política de deportação de Trump se espalha pelo mundo",
+      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
+      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
+      "publishedAt": "2026-08-29T13:44:06.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Candidato democrata suspende campanha para governador do Alasca",
@@ -18,6 +25,13 @@
     },
     {
       "source": "AP News",
+      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
+      "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
+      "publishedAt": "2026-08-29T12:59:00.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
       "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
@@ -31,11 +45,18 @@
       "publishedAt": "2026-08-29T12:12:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Há uma “guerra” na fronteira entre os EUA e o Canadá — na pesca do robalo",
+      "titleOriginal": "There’s a U.S.-Canada Border War—in Bass Fishing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdElPT1d4T1FmWUZUWEV6dzQwWi15WmY5Q0Z0WTBoSUJfVkVra3VzRldHZGxuWkhnYzBlMklVMlRKU05jWlZ6T3pjS1VYVFVCQ3FxNEgtZUJjN0paSW5iMmkxZHh1blJfMDVqdmtxVU5LMVZOU0xSVmE0OXB6eXlQaXhLaF9JTEk?oc=5",
+      "publishedAt": "2026-08-29T12:01:00.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre quase 3.000 desaparecidos",
-      "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
-      "publishedAt": "2026-08-29T10:19:00.000Z"
+      "title": "A Terra está em chamas, mas o clima não é um tema em destaque para os democratas nas campanhas deste ano",
+      "titleOriginal": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
+      "publishedAt": "2026-08-29T11:44:00.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
       "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
       "publishedAt": "2026-08-29T09:03:29.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A alta dívida e a alta dos preços pesam sobre Trump, à medida que as eleições de meio de mandato se aproximam",
-      "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
-      "publishedAt": "2026-08-29T09:02:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a política de deportação de Trump se espalha para o exterior",
-      "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
-      "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-      "publishedAt": "2026-08-29T09:02:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
-      "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
-      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "publishedAt": "2026-08-29T09:00:16.000Z"
     }
   ]
 }
