@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T21:49:06.437Z",
+  "updatedAt": "2026-08-29T22:21:32.337Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Prévia dos programas de domingo: tensões econômicas no governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
+      "titleOriginal": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
+      "publishedAt": "2026-08-29T22:19:40.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
@@ -32,14 +39,14 @@
     },
     {
       "source": "The Hill",
-      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça (DOJ) relacionada à crise dos opióides, no valor de US$ 50 milhões",
+      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça dos EUA (DOJ) relacionada à crise dos opioides, no valor de US$ 50 milhões",
       "titleOriginal": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
       "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
       "publishedAt": "2026-08-29T19:34:50.000Z"
     },
     {
       "source": "AP News",
-      "title": "As ameaças de Trump à Groenlândia lançam uma sombra sobre a votação na Islândia sobre a possibilidade de dar início às negociações para a adesão à UE",
+      "title": "As ameaças de Trump à Groenlândia lançam uma sombra sobre a votação da Islândia para decidir se dará início às negociações de adesão à UE",
       "titleOriginal": "Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2lwMjY3WmFVTVFkYXFBdm1Idl94YzhMUmJZOFV4Vk9maHpYaG5EM1FXN3laVzBzLVpqcll4V1NteDlOc2YxN01nX2VKdVdON0ZPV2ZLdDl5YVl0UEh4U240NDB0VE95MHNlVHNJNkIxakNPbjhpcUtNWDZWOERJVmlHSDd3TUprUk5abmJTVW14VmtybHc?oc=5",
       "publishedAt": "2026-08-29T19:09:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Far-right British provocateur Milo Yiannopoulos has been deported after his immigration arrest in US",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblJmQTNKSEFCRldlRERMSDFoTl9NNi1XUEtlN3BILTdiQ0dTX3drX0t5ZkdnT0s3TzA1SGhPWWRQaXJJOV9MaXlFUGJPb3B4S3g2SjJvZUdSLVVaaHJqR3c1MWVpY2RNZkQyYnVNd2xhQjZReXBpZl9fMmFnSFg3UU5IMXVDYlNHWllRcmZkaHNTb25KZHBwTXk1YVZLcmJ2YTBURnpadUNPM2VZ?oc=5",
       "publishedAt": "2026-08-29T17:23:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A nova doutrina nuclear do Pentágono precisa de limites estabelecidos pelo Congresso",
-      "titleOriginal": "The Pentagon's new nuclear doctrine needs congressional guardrails",
-      "link": "https://thehill.com/opinion/national-security/6057538-dod-shifts-focus-tactical-nukes/",
-      "publishedAt": "2026-08-29T17:00:00.000Z"
     }
   ]
 }
