@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-29T01:21:38.710Z",
+  "updatedAt": "2026-08-29T01:48:57.141Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Juiz determina que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
+      "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
+      "publishedAt": "2026-08-29T01:40:28.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump cria uma Academia Espacial e homenageia os astronautas da missão Artemis",
+      "titleOriginal": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
+      "publishedAt": "2026-08-29T01:36:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Emissora canadense revoga política que proibia o uso do termo “ataque terrorista” para se referir ao 11 de setembro",
+      "titleOriginal": "Canadian broadcaster reverses policy barring use of 'terrorist attack' label for 9/11",
+      "link": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/",
+      "publishedAt": "2026-08-29T01:22:29.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Hegseth bloqueia as promoções de quatro oficiais do Exército ligados aos generais demitidos",
@@ -10,22 +31,36 @@
       "publishedAt": "2026-08-29T01:12:28.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Trump afirma que os EUA firmaram um acordo com a Venezuela para assumir o controle de 65 bilhões de barris de reservas de petróleo",
-      "titleOriginal": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
-      "publishedAt": "2026-08-28T23:42:00.000Z"
+      "source": "Axios",
+      "title": "Trump comemora o “maior acordo petrolífero da história mundial” com a Venezuela",
+      "titleOriginal": "Trump hails \"biggest oil deal in world history\" with Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybmh3dkh0WC1peW5MU2xJTkhoZ0hYMG9URUVBWFRCUllmZV9lajZJR2pneUg3RkcyYjJBQTVrMXdjWHo5a0pWVW9WNnRSaHo5MjRYUzcxMDZ6RnBwbVVrOGgycUI1QTNB?oc=5",
+      "publishedAt": "2026-08-29T00:41:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Operador de teleprompter da Casa Branca chega a um acordo em investigação sobre uso de informação privilegiada",
+      "titleOriginal": "White House Teleprompter Operator Settles Insider-Trading Probe",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhIZi1WcjNsdHhuaVRuc0lHcGtxS0VoQjU2S2kxNWU1X1RLM3lPcm93ZUd4VnhOZ05WSUEtU3JSVUVabnlHT21td0MwYl9UNDFubVNnQTdlM3BtRUtNbmdCZXJIeHVNU0c1ZGl4NDNac05kdWdSNFY0alByXzNwZ2NSRVRMV1FKYUh6VjFMemJBVjdCb0J0elh1ZGJVSkFBZXhpTnRvQjZFUjYx?oc=5",
+      "publishedAt": "2026-08-29T00:38:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A violência descontrolada relacionada às drogas provoca um terremoto político na Costa Rica",
+      "titleOriginal": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbE1HQWFvNXJ4M3ZqZmxkQXhxdWhPVW5HM2JtQVRoV2ZrNG4zSTYtbHI2VVZYUDZIR0VEMkRSQ1EyWGM3bWRBei1hLXpzcmpXZjRzdWNBSWpQZ2Y4LXVCeW5KU1hDTHotQ2cwWndFQnA0WkpTRVBISkFBU3Zxb292UTY2WkxXZkJLUWQ4Z0Q5cEVBU0k?oc=5",
+      "publishedAt": "2026-08-29T00:37:12.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump fará discurso no Pentágono pelo 25º aniversário do 11 de setembro",
+      "title": "Trump fará discurso no Pentágono por ocasião do 25º aniversário do 11 de setembro",
       "titleOriginal": "Trump to give speech at Pentagon for 25th anniversary of 9/11",
       "link": "https://thehill.com/newsletters/defense-national-security/6058631-trump-speech-pentagon-9-11-defense-newsletter/",
       "publishedAt": "2026-08-28T23:32:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump considera uma troca de terras em Yosemite",
+      "title": "Trump cogita troca de terras em Yosemite",
       "titleOriginal": "Trump eyes Yosemite land swap",
       "link": "https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap/",
       "publishedAt": "2026-08-28T23:24:44.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
       "link": "https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards/",
       "publishedAt": "2026-08-28T22:53:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump considera ceder parte do Yosemite a uma empresa privada",
-      "titleOriginal": "Trump considers giving away part of Yosemite to private company",
-      "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
-      "publishedAt": "2026-08-28T22:37:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como um impedimento automático à contratação",
-      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
-      "publishedAt": "2026-08-28T22:29:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump critica o New York Times por causa de matéria sobre os planos para as comemorações do 11 de setembro",
-      "titleOriginal": "Trump attacks New York Times over report on 9/11 remembrance plans",
-      "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
-      "publishedAt": "2026-08-28T22:25:28.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataques israelenses matam 5 pessoas em Gaza e 3 na Cisjordânia, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3FmcjlycjlqYTlNSzJueHF3d2ZkRHJ3c2ZEbFJkYzZ6ZERHdVE0WXFlV3Y0Uy10emVoZzV4dlBleGRrbTV6a0Z1WkJPVHBTM1NqdExfRUZvRGk5bHJRdnZSdEdBbXBSN2h4VmE0SzB2emV4NHdQQUZSSWRpUlNGRjNaamtWbEdUbGtoSlNtMzF6TGd0b05SdHMtRTFaYVk?oc=5",
-      "publishedAt": "2026-08-28T22:15:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal de apelação decide que os estados podem regulamentar plataformas de mercados de previsão como se fossem jogos de azar",
-      "titleOriginal": "Appeals court rules states can regulate prediction market platforms like gambling",
-      "link": "https://thehill.com/policy/technology/6058357-ninth-circuit-prediction-markets-kalshi-states-cftc/",
-      "publishedAt": "2026-08-28T22:13:32.000Z"
     }
   ]
 }
