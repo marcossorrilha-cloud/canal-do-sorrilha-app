@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T10:21:43.339Z",
+  "updatedAt": "2026-08-29T10:48:52.379Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,14 @@
       "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
       "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
-      "publishedAt": "2026-08-29T09:48:00.000Z"
+      "publishedAt": "2026-08-29T10:19:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas em campanha eleitoral divididos por Kamala Harris",
+      "titleOriginal": "Democrats on campaign trail divided by Kamala Harris",
+      "link": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/",
+      "publishedAt": "2026-08-29T10:00:00.000Z"
     },
     {
       "source": "New York Times",
@@ -38,8 +45,15 @@
       "publishedAt": "2026-08-29T09:02:01.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Ataque russo atinge a região de Kiev, na Ucrânia, matando pelo menos 27 pessoas",
+      "titleOriginal": "A Russian attack hits Ukraine’s Kyiv region, killing at least 27",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+      "publishedAt": "2026-08-29T09:01:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
+      "title": "As campanhas políticas estão, discretamente, pagando a influenciadores para apoiarem candidatos",
       "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
       "publishedAt": "2026-08-29T09:00:16.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?oc=5",
       "publishedAt": "2026-08-29T03:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O ICE fecha contrato de US$ 16,7 milhões para a compra de luvas elétricas, apesar das preocupações dos senadores",
-      "titleOriginal": "ICE inks $16.7M shock-glove deal despite senators' concerns",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VektCcVdzQUNTb1l5Tlo5MVUzdzQ4VHNiUTgtSGJweGhWbXlCY01mQWEtdHhPWmFvNkN1bXB0bGtCOWxudUxpNjE4VEFjSXl2Ym53VmpqSTlGbUpTaGExSXBfR2dTWWdCVUpSc3VaRWhuNFViUkE?oc=5",
-      "publishedAt": "2026-08-29T02:28:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance e Zeldin solicitam investigação da EPA sobre a resposta ao descarrilamento de trem em East Palestine",
-      "titleOriginal": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
-      "link": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
-      "publishedAt": "2026-08-29T02:23:33.000Z"
     }
   ]
 }
