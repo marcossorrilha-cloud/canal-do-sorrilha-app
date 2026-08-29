@@ -1,17 +1,24 @@
 {
-  "updatedAt": "2026-08-28T23:48:52.013Z",
+  "updatedAt": "2026-08-29T00:21:32.214Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Trump afirma que os EUA firmaram um acordo com a Venezuela para assumir o controle de 65 bilhões de barris de reservas de petróleo",
+      "titleOriginal": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
+      "publishedAt": "2026-08-28T23:42:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump fará discurso no Pentágono pelo 25º aniversário do 11 de setembro",
+      "title": "Trump fará discurso no Pentágono por ocasião do 25º aniversário do 11 de setembro",
       "titleOriginal": "Trump to give speech at Pentagon for 25th anniversary of 9/11",
       "link": "https://thehill.com/newsletters/defense-national-security/6058631-trump-speech-pentagon-9-11-defense-newsletter/",
       "publishedAt": "2026-08-28T23:32:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump considera uma troca de terras em Yosemite",
+      "title": "Trump considera troca de terras em Yosemite",
       "titleOriginal": "Trump eyes Yosemite land swap",
       "link": "https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap/",
       "publishedAt": "2026-08-28T23:24:44.000Z"
@@ -24,13 +31,6 @@
       "publishedAt": "2026-08-28T23:14:18.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Trump afirma que os EUA firmaram um acordo com a Venezuela para assumir o controle de 65 bilhões de barris de reservas de petróleo",
-      "titleOriginal": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
-      "publishedAt": "2026-08-28T23:14:00.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "O governo Trump toma medidas para flexibilizar os padrões de eficiência de combustível para caminhões comerciais",
       "titleOriginal": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
@@ -39,14 +39,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump cogita ceder parte do Parque Nacional de Yosemite a uma empresa privada",
+      "title": "Trump considera ceder parte do Yosemite a uma empresa privada",
       "titleOriginal": "Trump considers giving away part of Yosemite to private company",
       "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
       "publishedAt": "2026-08-28T22:37:57.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump critica o New York Times por causa de reportagem sobre os planos para as comemorações do 11 de setembro",
+      "title": "Trump critica o New York Times por causa de matéria sobre os planos para as comemorações do 11 de setembro",
       "titleOriginal": "Trump attacks New York Times over report on 9/11 remembrance plans",
       "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
       "publishedAt": "2026-08-28T22:25:28.000Z"
@@ -67,7 +67,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Jelly Roll explica suas convicções políticas após as piadas de Trump: “Estou no meio-termo”",
+      "title": "Jelly Roll explica suas convicções políticas após piadas de Trump: “Estou no meio-termo”",
       "titleOriginal": "Jelly Roll explains political beliefs after Trump roasts: I'm 'down the middle'",
       "link": "https://thehill.com/blogs/in-the-know/6058325-jelly-roll-political-beliefs-trump/",
       "publishedAt": "2026-08-28T22:06:41.000Z"
