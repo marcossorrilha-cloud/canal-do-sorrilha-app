@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-29T15:49:04.117Z",
+  "updatedAt": "2026-08-29T16:21:31.173Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Resumo: O Partido Republicano vê riscos na estratégia de Trump para as eleições de meio de mandato, que consiste em se colocar no centro das atenções",
+      "titleOriginal": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
+      "link": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
+      "publishedAt": "2026-08-29T16:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataque russo a um armazém próximo a Kiev mata 37 pessoas em um dos ataques mais mortíferos da guerra neste ano",
+      "titleOriginal": "Russian strike on warehouse near Kyiv kills 37 in one of the war’s deadliest attacks this year",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+      "publishedAt": "2026-08-29T15:47:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | A mídia como facilitadora da “guerra jurídica”",
@@ -17,15 +31,8 @@
       "publishedAt": "2026-08-29T15:31:44.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A reestruturação da L3Harris é uma oportunidade para apostar no rearmamento de mísseis",
-      "titleOriginal": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0c2VWx1Q1k1cVNmOWdnQWduNXdoaVVGVFZsRm10OU9Qd0xkRk5zQXVrX0JkTndQb3l2ZUlHZDBXMEp1MXFFT0dGNnVRd2RXY0Uxal8zYVVjS1NDbE9UVlpLNUZRelJaNXE5TzNSQWJUai1zWW9qNWYwQ1l2UkdnTUNtRVo0VHNVWllvMzlFVVM1Q3BWVEpQcjh1ZnFReXdpUjhLQlY4STZoMWZWMEtUSHpBRGdyZw?oc=5",
-      "publishedAt": "2026-08-29T15:31:42.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Na Geórgia, Jon Ossoff busca atrair um amplo eleitorado com uma estratégia anti-Trump na disputa pelo Senado",
+      "title": "Na Geórgia, Jon Ossoff busca atrair um público amplo com uma estratégia anti-Trump na disputa pelo Senado",
       "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
       "publishedAt": "2026-08-29T15:25:22.000Z"
@@ -46,7 +53,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
+      "title": "Trump afirma que os EUA fecharam acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
       "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
       "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
       "publishedAt": "2026-08-29T14:30:17.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
+      "title": "Juiz determina que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
       "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
       "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
       "publishedAt": "2026-08-29T14:09:12.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataque russo nas proximidades de Kiev mata 37 pessoas, em um dos ataques mais mortíferos do ano",
-      "titleOriginal": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-      "publishedAt": "2026-08-29T13:44:00.000Z"
     }
   ]
 }
