@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-08-29T15:21:47.835Z",
+  "updatedAt": "2026-08-29T15:49:04.117Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A mídia como facilitadora da “guerra jurídica”",
+      "titleOriginal": "Opinion | The Media’s Lawfare Enabling",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0R0JDOUQ0ek1penMwV0FFN21pX29yeTI3d2oyeWxhYk0wRGEtSDNGVmZURWloWGJJZlBOdmVqVXU4RjdUV1N3TUpoSFViOE80UEtlNGNLMUw2ZXQ1cG1kZjRTVE44MUlKbFM1RWJ0MjhqUQ?oc=5",
+      "publishedAt": "2026-08-29T15:35:29.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "A elevada dívida e o aumento dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
+      "title": "As campanhas políticas estão pagando discretamente a influenciadores para que apoiem candidatos",
+      "titleOriginal": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "publishedAt": "2026-08-29T15:31:44.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A reestruturação da L3Harris é uma oportunidade para apostar no rearmamento de mísseis",
+      "titleOriginal": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0c2VWx1Q1k1cVNmOWdnQWduNXdoaVVGVFZsRm10OU9Qd0xkRk5zQXVrX0JkTndQb3l2ZUlHZDBXMEp1MXFFT0dGNnVRd2RXY0Uxal8zYVVjS1NDbE9UVlpLNUZRelJaNXE5TzNSQWJUai1zWW9qNWYwQ1l2UkdnTUNtRVo0VHNVWllvMzlFVVM1Q3BWVEpQcjh1ZnFReXdpUjhLQlY4STZoMWZWMEtUSHpBRGdyZw?oc=5",
+      "publishedAt": "2026-08-29T15:31:42.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Na Geórgia, Jon Ossoff busca atrair um amplo eleitorado com uma estratégia anti-Trump na disputa pelo Senado",
+      "titleOriginal": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html",
+      "publishedAt": "2026-08-29T15:25:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A alta dívida e a alta dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
       "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
       "publishedAt": "2026-08-29T14:54:48.000Z"
@@ -38,39 +66,11 @@
       "publishedAt": "2026-08-29T14:09:12.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Candidato democrata suspende campanha para o cargo de governador do Alasca",
-      "titleOriginal": "Democratic candidate suspends campaign for Alaska governor",
-      "link": "https://thehill.com/homenews/campaign/6058875-begich-drops-alaska-governors-race/",
-      "publishedAt": "2026-08-29T13:08:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Talarico discute saúde com seu aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
-      "titleOriginal": "Live updates: Talarico talks healthcare with ally Mark Cuban, campaigning Democrats divided over Harris endorsements",
-      "link": "https://thehill.com/homenews/administration/6058737-live-talarico-cuban-talk-trump-maga-inc/",
-      "publishedAt": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Sobreviventes das enchentes na fronteira entre o Nepal e a China chegam a áreas seguras, enquanto as famílias aguardam notícias sobre os quase 3.000 desaparecidos",
-      "titleOriginal": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
-      "publishedAt": "2026-08-29T12:59:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI não considera mais a experiência de uma candidata com a prostituição como impedimento automático para a contratação",
-      "titleOriginal": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
-      "publishedAt": "2026-08-29T12:25:00.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Ataque russo nas proximidades de Kiev mata 37 pessoas, em um dos ataques mais mortíferos do ano",
       "titleOriginal": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-      "publishedAt": "2026-08-29T12:12:00.000Z"
+      "publishedAt": "2026-08-29T13:44:00.000Z"
     }
   ]
 }
