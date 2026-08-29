@@ -1,24 +1,31 @@
 {
-  "updatedAt": "2026-08-29T13:49:33.337Z",
+  "updatedAt": "2026-08-29T14:21:38.655Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Juiz decide que Trump agiu ilegalmente ao perseguir estudantes de Stanford que criticaram Israel",
+      "titleOriginal": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
+      "publishedAt": "2026-08-29T14:09:12.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Como a política de deportação de Trump se espalha pelo mundo",
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-      "publishedAt": "2026-08-29T13:44:06.000Z"
+      "publishedAt": "2026-08-29T13:48:35.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Candidato democrata suspende campanha para governador do Alasca",
+      "title": "Candidato democrata suspende campanha para o cargo de governador do Alasca",
       "titleOriginal": "Democratic candidate suspends campaign for Alaska governor",
       "link": "https://thehill.com/homenews/campaign/6058875-begich-drops-alaska-governors-race/",
       "publishedAt": "2026-08-29T13:08:26.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Talarico discute a área da saúde com seu aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
+      "title": "Atualizações em tempo real: Talarico discute saúde com o aliado Mark Cuban; candidatos democratas em campanha estão divididos quanto ao apoio a Harris",
       "titleOriginal": "Live updates: Talarico talks healthcare with ally Mark Cuban, campaigning Democrats divided over Harris endorsements",
       "link": "https://thehill.com/homenews/administration/6058737-live-talarico-cuban-talk-trump-maga-inc/",
       "publishedAt": "2026-08-29T13:00:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Fact-Checking Senate Races in Georgia, Alaska and Texas",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
       "publishedAt": "2026-08-29T09:04:08.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Carney conta com o apoio dos canadenses em relação a Trump. Agora vem a parte difícil.",
-      "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "publishedAt": "2026-08-29T09:03:29.000Z"
     }
   ]
 }
