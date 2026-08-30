@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-29T15:21:54.296Z",
-  "slot": "2026-08-29-PM",
+  "updatedAt": "2026-08-30T03:21:46.142Z",
+  "slot": "2026-08-30-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "“Se for fabricado nos EUA, eu não compro”: canadenses falam sobre o boicote aos EUA de Trump",
-      "titleOriginal": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2VleHBxVmcyX0VJT3N6RHlZSUpaTmxhVVV0QXh0TGd5VU13YW5TUVlPc0o1MjQ5WWZoanctZzJwMm1xWk4yRUdaVHFpNjItMEQxSkZ4aW52RUxDSkVKRUhvelUycWl3Ulp2bnBZcnZaV0JNeEhfb29QU1RZVlpMZ0NueGhncnJTbEF0UU85NHpUTUdub1AyQ2k1RFF2OGFldXFRYmFaZHJLdkhDZ3puNnJsbG9ycjhOOGZkOE9iSVE?oc=5",
-      "source": "The Guardian",
-      "coverage": 2
+      "title": "Governador do Wyoming condena comportamento “agressivo” de observadores eleitorais federais",
+      "titleOriginal": "Wyoming governor decries ‘aggressive’ behavior of federal election monitors",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFNoS3NXXzF2TnpPMW5WU1J1ZUpqN3BYWTFJZFpkR1hDUzcyX3duc1VCMEh1b1l2dlYzLTVxR2NSWjdNbzdIaVFfMVdCX28wZnVUN3ZuSHdabFQyQVVsTjdueVhoZlpWejdFRUh1bm00VEJMeUhUU1NXVGVzZFlGanJsVDJDTC15cGNhTGhDUjJsUklaOU4yYzFveDFXQWRIak9Bek4yN2IxWmZNN2d2eXpsWnN6bTFuLW9SVjhJaw?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Vídeo: CNN pede desculpas por ter usado foto de uma imitadora de Dolly Parton em Las Vegas ao anunciar a morte da cantora",
-      "titleOriginal": "Video: CNN Apologizes for Using Las Vegas Dolly Parton Impersonator Photo When Announcing Singer’s Death",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGk4WVpySlhuZWRUUGZZZ2huenhFdlZ0OFFzMFNnT3JjM25hcm5lVm05T213Z3MtQkJfOW9mc0l3UnVlbzd2MlJPMFFsOEdDaUREdzZSTWc3eTlEUl96TXAxd3hSbWNEWVZLaFZLVHRtbDFSUnRQQzlaSDBXZmlwWHhtVVgtdzYzWnRreTRRaURMR3ZEc0RfQy1FVUl1MTZTdHhUNS1JbURSWllDbXNrSEMwc3p3b3VjV29hZ2xPYUNzZUtWNDI3T0pVMFQ2MmN0UGhxd2RMbURJc21MQ3Rac09n0gHnAUFVX3lxTE5NekFOMjVLS2VVNGtxOUprNnh6SVJPZGZ6eGVLd1hXZHRtYWZRcUMzWFRMRXNWb2hwekF2cEJuc1FhQ2FfZk9lNkVXM0RIS1cza196ellsZkFsMTZ0dWNqQ1hOYUFNY0hSNzlSd1kzQmNUenZNOGd0ZzBTaklZMnpnY293dXVyUnFaZWg2U3lSQk0yb3pkbURjeWR2RnlOM1haYXdGOVc5YXd6Z0RpZWZiLUhERV85d0FwMW93dnpvLWwzUXNQVVNhc0lFS1kzTk16TDV6TUE0Z0JITVlac3p2RUFYUUx1aw?oc=5",
+      "title": "Reportagem — Candidatos democratas evitam Kamala Harris com a aproximação das eleições intermediárias: “Ela é um grande risco”",
+      "titleOriginal": "Report — Democrat Candidates Avoid Kamala Harris as Midterms Loom: ‘She Is a Huge Liability’",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlFzSlhpYV9NdlBtMUs4dXJiWUt5V0RCVDJSd2I0c2FqaXhuMEFRSnhTd29RZmprc0JZQkY4dW1mWU5XRUcwVUc5cW9vYjhlRGs5bUJPUkRqNlIyT2pPQ2NaLWh6WWs3aUxjUkQ5Q3VDb1VRWEdldGN6aU05WS0zLVY0bTREMVd0NDhHSVdfbUFrZHNuLUdpM3hqT3RUdjNNZXk1eUEzUlJCSjRtTDRtMDlGRWtXel9VaXBmZUZpckM4ODNhRHAzZGV6bDUwLUXSAdQBQVVfeXFMT2QzLVBTSk5zNDFhTldvTmlyZV9lQ1VjY3RoVjZPeUxxV2dwaWtyME10dVhSUjJXLW5ybVBoU2RPUXlSVTJ3X1RwMWVlS1BPVjlaVTZwM1IxTzlWcXo0cWJzcXc3dzJlTGd1MDNxN05aWC1YMWVOVVdjNHpWUGZ5TjRWekFSQ3o5ZWRJS1JBWTFybkdZYWhrUUNPOXU2TWRHTC1LaHpDQjRaNGh4R052XzBULUoyOEdoUnFfaUZ5dFJSZUxGUGdIOFVrSnhFTUNTODJMUUk?oc=5",
       "source": "Breitbart",
-      "coverage": 3
+      "coverage": 2
     }
   ]
 }
