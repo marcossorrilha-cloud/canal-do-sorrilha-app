@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:49:24.360Z",
+  "updatedAt": "2026-08-30T02:21:34.519Z",
   "count": 10,
   "items": [
     {
@@ -39,21 +39,14 @@
     },
     {
       "source": "AP News",
-      "title": "Ataque russo a um armazém ucraniano mata 37 pessoas no ataque mais mortal da guerra neste ano",
+      "title": "Ataque russo a um depósito ucraniano mata 37 pessoas no ataque mais mortal da guerra neste ano",
       "titleOriginal": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
       "publishedAt": "2026-08-29T23:12:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O acordo de Trump sobre o petróleo venezuelano conta com um parceiro poderoso e polêmico",
-      "titleOriginal": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner",
-      "link": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html",
-      "publishedAt": "2026-08-29T22:47:18.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Prévia dos programas de domingo: as tensões econômicas do governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações externas dos EUA",
+      "title": "Prévia dos programas de domingo: tensões econômicas no governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
       "titleOriginal": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
       "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "publishedAt": "2026-08-29T22:19:40.000Z"
@@ -70,7 +63,14 @@
       "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
       "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-29T20:30:50.000Z"
+      "publishedAt": "2026-08-29T20:00:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça (DOJ) relacionada à crise dos opióides no valor de US$ 50 milhões",
+      "titleOriginal": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
+      "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
+      "publishedAt": "2026-08-29T19:34:50.000Z"
     }
   ]
 }
