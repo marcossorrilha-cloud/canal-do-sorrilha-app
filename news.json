@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-30T20:48:48.754Z",
+  "updatedAt": "2026-08-30T21:21:24.029Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Esta semana no Capitólio: a Câmara dos Deputados pretende aprovar medida para evitar a paralisação do governo antes das eleições intermediárias",
+      "titleOriginal": "This week on the Hill: House aims to pass measure to avert shutdown ahead of midterms",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6058323-government-funding-socialism-edwards/",
+      "publishedAt": "2026-08-30T21:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicanos se preparam para uma convenção “muito apressada” e “Trump-a-palooza” no Texas",
+      "titleOriginal": "Republicans ready for 'very hasty' 'Trump-a-palooza' convention in Texas",
+      "link": "https://thehill.com/homenews/campaign/6058289-rnc-midterm-convention-dallas/",
+      "publishedAt": "2026-08-30T21:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Forças dos EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
+      "titleOriginal": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
+      "publishedAt": "2026-08-30T20:44:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Greene condena a retórica de Loomer: “Este é o novo MAGA de Trump e o Partido Republicano”",
@@ -31,20 +52,6 @@
       "publishedAt": "2026-08-30T20:10:36.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Forças americanas atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-30T20:07:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O diretor da CIA, Ratcliffe, sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante sua visita a Moscou, segundo fontes",
-      "titleOriginal": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
-      "publishedAt": "2026-08-30T20:05:38.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "O CEO da Airlines for America afirma que os preços das passagens aéreas vão se estabilizar",
       "titleOriginal": "Airlines for America CEO says plane ticket prices will stabilize",
@@ -64,13 +71,6 @@
       "titleOriginal": "An officer is dead and a second is injured in a shooting at South Carolina park, police chief says",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
       "publishedAt": "2026-08-30T19:25:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O candidato do Partido Republicano ao governo de Michigan afirma que as eleições estaduais são o “ponto zero desta república”",
-      "titleOriginal": "Michigan GOP gubernatorial candidate says state's elections are 'ground zero for this republic'",
-      "link": "https://thehill.com/homenews/campaign/6059821-john-james-michigan-election/",
-      "publishedAt": "2026-08-30T19:13:40.000Z"
     }
   ]
 }
