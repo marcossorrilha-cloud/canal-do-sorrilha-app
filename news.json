@@ -1,10 +1,52 @@
 {
-  "updatedAt": "2026-08-30T19:48:51.573Z",
+  "updatedAt": "2026-08-30T20:21:46.192Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O candidato do Partido Republicano ao governo de Michigan afirma que as eleições estaduais são o “epicentro desta república”",
+      "title": "Trump: “Não quero nada que seja canadense”",
+      "titleOriginal": "Trump: 'I don't want Canadian anything'",
+      "link": "https://thehill.com/homenews/administration/6059848-trump-canada-import-tariffs/",
+      "publishedAt": "2026-08-30T20:10:36.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-30T20:08:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O CEO da Airlines for America afirma que os preços das passagens aéreas vão se estabilizar",
+      "titleOriginal": "Airlines for America CEO says plane ticket prices will stabilize",
+      "link": "https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel/",
+      "publishedAt": "2026-08-30T19:49:21.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A grande baleia branca de Trump: o Canadá",
+      "titleOriginal": "Opinion | Trump’s Great White Whale: Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lU251ZTQtZ2NGM1R0TmpSaDdia09JT1JERzZnelduRUtGY08yZ2tSb1FWTmpWRzZCYWFHMTlpVUlVT2JmUHJMLTVVRmwwMnYxRUhUWTE0ZlJJSHBFSlB3WFltNjVDZ2hORFFPdnNKdktWWExreE8w?oc=5",
+      "publishedAt": "2026-08-30T19:43:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
+      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
+      "publishedAt": "2026-08-30T19:30:54.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um policial morreu e outro ficou ferido em um tiroteio em um parque da Carolina do Sul, segundo o chefe de polícia",
+      "titleOriginal": "An officer is dead and a second is injured in a shooting at South Carolina park, police chief says",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
+      "publishedAt": "2026-08-30T19:25:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O candidato do Partido Republicano ao governo do Michigan afirma que as eleições estaduais são o “ponto zero desta república”",
       "titleOriginal": "Michigan GOP gubernatorial candidate says state's elections are 'ground zero for this republic'",
       "link": "https://thehill.com/homenews/campaign/6059821-john-james-michigan-election/",
       "publishedAt": "2026-08-30T19:13:40.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Trump won the heart of Michigan’s Arab American community. They're moving away from Mike Rogers.",
       "link": "https://www.politico.com/news/2026/08/30/michigan-arab-muslim-vote-senate-el-sayed-rogers-01055928",
       "publishedAt": "2026-08-30T18:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Pequenas empresas canadenses arcarão com o peso das novas tarifas dos EUA",
-      "titleOriginal": "Canadian Small Businesses to Bear Brunt of New U.S. Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFV3ZUVhZFhOQms5NTllbFZUSnlOSThoaGVLSEcxZVg4YUpDeW1YcjJma2pHLWR2REdDTDRtQnVKZ0pxNHlwWTNCbU1vWmNhLThhUld2SUxsN1FFMUdaOE5JMEJqSkVlcjdKelJlRVp1aHAtMUI4R2pTNXR1Q1NDT253NWROV0x2RUZvWXBSUmNCZlgwb09sM2U1cDFIb1QtMGRZ?oc=5",
-      "publishedAt": "2026-08-30T18:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Homan, após a deportação de Milo Yiannopoulos: “Tirem-nos daqui logo”",
-      "titleOriginal": "Homan after Milo Yiannopoulos deportation: 'Get them out quick'",
-      "link": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
-      "publishedAt": "2026-08-30T17:52:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia à Ucrânia neste ano",
-      "titleOriginal": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
-      "publishedAt": "2026-08-30T17:32:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Por dentro do motim de 24 horas que ameaçou a junta governante do Níger e como as forças russas intervieram",
-      "titleOriginal": "Inside the 24-hour mutiny that threatened Niger’s ruling junta and how Russian forces intervened",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhlbzN1NlZndFNlU3RsSFZsQ3MzX1BzUlI3ZVN2NmRXejRfVnJNcldBZFFGeUFyRVpxOFR6bG9vdlJMWlVOcmxqd3ZFWHEwZGJVemZJVVBmN0tGLVNlaFBOWXZnZ1EyRzBySXZIVy1uamNGc3BMMUFtOFItUzZUTEhEbXVxSUtpSlhlV1pRVlBuV3JhNC1Ic3E1NDJkM21KbEtMcTdVZ2gyS3M?oc=5",
-      "publishedAt": "2026-08-30T17:29:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a agenda política de Trump se reflete em um tribunal federal, no Texas",
-      "titleOriginal": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
-      "publishedAt": "2026-08-30T17:27:26.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Exclusivo: Treinadores dos EUA orientam as forças polonesas em um exercício focado em drones, com base nas lições aprendidas na Ucrânia",
-      "titleOriginal": "Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
-      "publishedAt": "2026-08-30T17:19:00.000Z"
     }
   ]
 }
