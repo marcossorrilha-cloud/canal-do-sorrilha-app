@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-08-30T02:21:34.519Z",
+  "updatedAt": "2026-08-30T02:48:44.914Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "El-Sayed pede desculpas aos democratas judeus pelo comentário sobre o ataque à sinagoga",
+      "title": "Tucker Carlson: Trump precisa ser destituído do cargo “imediatamente”",
+      "titleOriginal": "Tucker Carlson: Trump needs to be removed from office 'immediately'",
+      "link": "https://thehill.com/media/6059334-carlson-says-trump-should-be-removed/",
+      "publishedAt": "2026-08-30T02:36:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed pede desculpas aos democratas judeus por comentário sobre ataque à sinagoga",
       "titleOriginal": "El-Sayed apologizes to Jewish Democrats for synagogue attack comment",
       "link": "https://thehill.com/homenews/campaign/6059321-el-sayed-apologizes-synagogue-response/",
       "publishedAt": "2026-08-30T01:35:30.000Z"
@@ -17,25 +24,32 @@
       "publishedAt": "2026-08-30T01:35:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Diretor da CIA sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante visita a Moscou, segundo fontes",
-      "titleOriginal": "CIA director floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
-      "publishedAt": "2026-08-29T23:35:52.000Z"
+      "source": "Wall Street Journal",
+      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
+      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
+      "publishedAt": "2026-08-30T01:00:00.000Z"
     },
     {
       "source": "AP News",
       "title": "Um policial morreu e outro ficou ferido em um tiroteio em um parque da Carolina do Sul, segundo o chefe de polícia",
       "titleOriginal": "An officer is dead and a second was injured in a shooting at South Carolina park, police chief says",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
-      "publishedAt": "2026-08-29T23:15:05.000Z"
+      "publishedAt": "2026-08-30T00:42:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Diretor da CIA sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante visita a Moscou, segundo fontes",
+      "titleOriginal": "CIA director floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
+      "publishedAt": "2026-08-29T23:38:23.000Z"
     },
     {
       "source": "New York Times",
       "title": "Os influenciadores têm muito a dizer sobre política. Muitos são discretamente pagos por isso.",
       "titleOriginal": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "publishedAt": "2026-08-29T23:14:32.000Z"
+      "publishedAt": "2026-08-29T23:14:33.000Z"
     },
     {
       "source": "AP News",
@@ -46,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Prévia dos programas de domingo: tensões econômicas no governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
+      "title": "Prévia dos programas de domingo: as tensões econômicas do governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
       "titleOriginal": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
       "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "publishedAt": "2026-08-29T22:19:40.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Leavitt is leaving the White House. Don't expect her to go far",
       "link": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
       "publishedAt": "2026-08-29T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
-      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-29T20:00:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça (DOJ) relacionada à crise dos opióides no valor de US$ 50 milhões",
-      "titleOriginal": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
-      "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
-      "publishedAt": "2026-08-29T19:34:50.000Z"
     }
   ]
 }
