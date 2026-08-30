@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-30T19:21:42.262Z",
+  "updatedAt": "2026-08-30T19:48:51.573Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O candidato do Partido Republicano ao governo do Michigan afirma que as eleições estaduais são o “ponto zero desta república”",
+      "title": "O candidato do Partido Republicano ao governo de Michigan afirma que as eleições estaduais são o “epicentro desta república”",
       "titleOriginal": "Michigan GOP gubernatorial candidate says state's elections are 'ground zero for this republic'",
       "link": "https://thehill.com/homenews/campaign/6059821-john-james-michigan-election/",
       "publishedAt": "2026-08-30T19:13:40.000Z"
@@ -52,6 +52,13 @@
       "publishedAt": "2026-08-30T17:32:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Por dentro do motim de 24 horas que ameaçou a junta governante do Níger e como as forças russas intervieram",
+      "titleOriginal": "Inside the 24-hour mutiny that threatened Niger’s ruling junta and how Russian forces intervened",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhlbzN1NlZndFNlU3RsSFZsQ3MzX1BzUlI3ZVN2NmRXejRfVnJNcldBZFFGeUFyRVpxOFR6bG9vdlJMWlVOcmxqd3ZFWHEwZGJVemZJVVBmN0tGLVNlaFBOWXZnZ1EyRzBySXZIVy1uamNGc3BMMUFtOFItUzZUTEhEbXVxSUtpSlhlV1pRVlBuV3JhNC1Ic3E1NDJkM21KbEtMcTdVZ2gyS3M?oc=5",
+      "publishedAt": "2026-08-30T17:29:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Como a agenda política de Trump se reflete em um tribunal federal, no Texas",
       "titleOriginal": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
@@ -59,18 +66,11 @@
       "publishedAt": "2026-08-30T17:27:26.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma que o petróleo venezuelano reabastecerá os estoques dos EUA, mas não é tão simples assim",
-      "titleOriginal": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
-      "publishedAt": "2026-08-30T17:07:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Clyburn defende a ampliação da Suprema Corte e afirma que “13 é um número bastante bom”",
-      "titleOriginal": "Clyburn calls for expanding Supreme Court, says '13 is a pretty good number'",
-      "link": "https://thehill.com/homenews/senate/6059611-clyburn-proposes-scotus-expansion/",
-      "publishedAt": "2026-08-30T16:40:21.000Z"
+      "source": "AP News",
+      "title": "Exclusivo: Treinadores dos EUA orientam as forças polonesas em um exercício focado em drones, com base nas lições aprendidas na Ucrânia",
+      "titleOriginal": "Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
+      "publishedAt": "2026-08-30T17:19:00.000Z"
     }
   ]
 }
