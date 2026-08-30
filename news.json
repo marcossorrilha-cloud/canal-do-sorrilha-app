@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-08-30T21:21:24.029Z",
+  "updatedAt": "2026-08-30T21:48:49.325Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Ed Markey defende atletas transgêneros na disputa pelo Senado de Massachusetts",
+      "titleOriginal": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html",
+      "publishedAt": "2026-08-30T21:40:24.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Esta semana no Capitólio: a Câmara dos Deputados pretende aprovar medida para evitar a paralisação do governo antes das eleições intermediárias",
+      "title": "Postos de gasolina da rede Freedom Fuel venderam combustível roubado, alega ação judicial",
+      "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
+      "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
+      "publishedAt": "2026-08-30T21:20:01.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O diretor da CIA, Ratcliffe, sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante sua visita a Moscou, segundo fontes",
+      "titleOriginal": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
+      "publishedAt": "2026-08-30T21:07:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Esta semana no Capitólio: Câmara dos Deputados pretende aprovar medida para evitar a paralisação antes das eleições de meio de mandato",
       "titleOriginal": "This week on the Hill: House aims to pass measure to avert shutdown ahead of midterms",
       "link": "https://thehill.com/newsletters/this-week-on-the-hill/6058323-government-funding-socialism-edwards/",
       "publishedAt": "2026-08-30T21:00:00.000Z"
@@ -18,10 +39,17 @@
     },
     {
       "source": "AP News",
-      "title": "Forças dos EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
+      "title": "Forças americanas atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
       "titleOriginal": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
       "publishedAt": "2026-08-30T20:44:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-30T20:22:48.000Z"
     },
     {
       "source": "The Hill",
@@ -29,20 +57,6 @@
       "titleOriginal": "Greene condemns Loomer’s rhetoric: ‘This is Trump’s new MAGA and Republican Party’",
       "link": "https://thehill.com/homenews/media/6059887-marjorie-taylor-greene-denounces-loomer/",
       "publishedAt": "2026-08-30T20:21:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-30T20:12:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
-      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-30T20:11:02.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Airlines for America CEO says plane ticket prices will stabilize",
       "link": "https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel/",
       "publishedAt": "2026-08-30T19:49:21.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A grande baleia branca de Trump: o Canadá",
-      "titleOriginal": "Opinion | Trump’s Great White Whale: Canada",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lU251ZTQtZ2NGM1R0TmpSaDdia09JT1JERzZnelduRUtGY08yZ2tSb1FWTmpWRzZCYWFHMTlpVUlVT2JmUHJMLTVVRmwwMnYxRUhUWTE0ZlJJSHBFSlB3WFltNjVDZ2hORFFPdnNKdktWWExreE8w?oc=5",
-      "publishedAt": "2026-08-30T19:43:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um policial morreu e outro ficou ferido em um tiroteio em um parque da Carolina do Sul, segundo o chefe de polícia",
-      "titleOriginal": "An officer is dead and a second is injured in a shooting at South Carolina park, police chief says",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
-      "publishedAt": "2026-08-30T19:25:00.000Z"
     }
   ]
 }
