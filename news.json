@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T23:49:03.943Z",
+  "updatedAt": "2026-08-30T00:21:41.423Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Um policial morreu e outro ficou ferido em um tiroteio em um parque da Carolina do Sul, segundo o chefe de polícia",
+      "titleOriginal": "An officer is dead and a second was injured in a shooting at South Carolina park, police chief says",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
+      "publishedAt": "2026-08-29T23:43:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "O diretor da CIA, Ratcliffe, sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante sua visita a Moscou, segundo fontes",
@@ -25,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Prévia dos programas de domingo: as tensões econômicas do governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
+      "title": "Prévia dos programas de domingo: tensões econômicas no governo Trump deixam o Partido Republicano vulnerável; mudanças nas relações exteriores dos EUA",
       "titleOriginal": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
       "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "publishedAt": "2026-08-29T22:19:40.000Z"
@@ -39,21 +46,21 @@
     },
     {
       "source": "AP News",
-      "title": "Ataque russo a um depósito ucraniano mata 37 pessoas no ataque mais mortal da guerra neste ano",
+      "title": "Ataque russo a um armazém ucraniano mata 37 pessoas no ataque mais mortal da guerra neste ano",
       "titleOriginal": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
       "publishedAt": "2026-08-29T20:23:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça dos EUA em relação à crise dos opióides, no valor de US$ 50 milhões",
+      "title": "O Walmart chega a um acordo em ação judicial movida pelo Departamento de Justiça dos EUA em relação à crise dos opiáceos, no valor de US$ 50 milhões",
       "titleOriginal": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
       "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
       "publishedAt": "2026-08-29T19:34:50.000Z"
     },
     {
       "source": "AP News",
-      "title": "As ameaças de Trump à Groenlândia lançam uma sombra sobre a votação da Islândia sobre a possibilidade de dar início às negociações para a adesão à UE",
+      "title": "As ameaças de Trump à Groenlândia lançam uma sombra sobre a votação na Islândia sobre a possibilidade de dar início às negociações para a adesão à UE",
       "titleOriginal": "Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2lwMjY3WmFVTVFkYXFBdm1Idl94YzhMUmJZOFV4Vk9maHpYaG5EM1FXN3laVzBzLVpqcll4V1NteDlOc2YxN01nX2VKdVdON0ZPV2ZLdDl5YVl0UEh4U240NDB0VE95MHNlVHNJNkIxakNPbjhpcUtNWDZWOERJVmlHSDd3TUprUk5abmJTVW14VmtybHc?oc=5",
       "publishedAt": "2026-08-29T19:09:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "How Trump’s Deportation Agenda Spreads Overseas",
       "link": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
       "publishedAt": "2026-08-29T18:12:21.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Carney conta com o apoio dos canadenses em relação a Trump. Agora vem a parte difícil.",
-      "titleOriginal": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "publishedAt": "2026-08-29T18:10:38.000Z"
     }
   ]
 }
