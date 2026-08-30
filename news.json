@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-30T22:21:41.681Z",
+  "updatedAt": "2026-08-30T22:48:57.391Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O DHS nega as denúncias de tortura, espancamentos e negligência médica nos centros de detenção do ICE",
+      "title": "O DHS nega denúncias de tortura, espancamentos e negligência médica em centros de detenção do ICE",
       "titleOriginal": "DHS denies reports of torture, beatings and medical neglect in ICE detention",
       "link": "https://thehill.com/homenews/administration/6060034-dhs-denies-ice-abuse-report/",
       "publishedAt": "2026-08-30T22:01:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
+      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
+      "publishedAt": "2026-08-30T22:00:00.000Z"
     },
     {
       "source": "AP News",
@@ -18,14 +25,21 @@
     },
     {
       "source": "The Hill",
-      "title": "Postos de gasolina da rede Freedom Fuel venderam combustível roubado, alega ação judicial",
+      "title": "Postos de gasolina da rede Freedom Fuel vendiam combustível roubado, alega ação judicial",
       "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
       "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
       "publishedAt": "2026-08-30T21:20:01.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Centenas de pessoas comparecem para julgar o concurso de sósias do prefeito de Nova York, Zohran Mamdani",
+      "titleOriginal": "Hundreds show up to judge New York City Mayor Zohran Mamdani look-alike contest",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelhRZ3NYWGFRUWtubURMamEtTFljX2ViMWJZc1MzS3hJdVF6dWRmdlpNWEdTSVZEWGltbmdKbEw4Z1B5UHFRWG5jaXRIeXF1dVJ0Mk1RRWx1VVZaWDNuSFY5SHY0OGxiRW1sVndPUU5LQ2J4azFDeXk3dzdGOU92ZHN5OWNGWjRfOXNoTHRmLWF4UEZUQ19iM3Jn?oc=5",
+      "publishedAt": "2026-08-30T21:00:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Esta semana no Capitólio: Câmara dos Deputados pretende aprovar medida para evitar a paralisação antes das eleições de meio de mandato",
+      "title": "Esta semana no Capitólio: a Câmara dos Deputados pretende aprovar uma medida para evitar a paralisação antes das eleições de meio de mandato",
       "titleOriginal": "This week on the Hill: House aims to pass measure to avert shutdown ahead of midterms",
       "link": "https://thehill.com/newsletters/this-week-on-the-hill/6058323-government-funding-socialism-edwards/",
       "publishedAt": "2026-08-30T21:00:00.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Greene condemns Loomer’s rhetoric: ‘This is Trump’s new MAGA and Republican Party’",
       "link": "https://thehill.com/homenews/media/6059887-marjorie-taylor-greene-denounces-loomer/",
       "publishedAt": "2026-08-30T20:21:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: “Não quero nada que seja canadense”",
-      "titleOriginal": "Trump: 'I don't want Canadian anything'",
-      "link": "https://thehill.com/homenews/administration/6059848-trump-canada-import-tariffs/",
-      "publishedAt": "2026-08-30T20:10:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O CEO da Airlines for America afirma que os preços das passagens aéreas vão se estabilizar",
-      "titleOriginal": "Airlines for America CEO says plane ticket prices will stabilize",
-      "link": "https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel/",
-      "publishedAt": "2026-08-30T19:49:21.000Z"
     }
   ]
 }
