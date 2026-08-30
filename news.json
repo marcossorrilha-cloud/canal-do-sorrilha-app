@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-30T17:21:26.440Z",
+  "updatedAt": "2026-08-30T17:49:00.953Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como a agenda política de Trump se reflete em um tribunal federal, no Texas",
+      "titleOriginal": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
+      "publishedAt": "2026-08-30T17:27:26.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump afirma que o petróleo venezuelano reabastecerá os estoques dos EUA, mas não é tão simples assim",
@@ -17,11 +24,11 @@
       "publishedAt": "2026-08-30T16:40:21.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Diretor da CIA sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante visita a Moscou, segundo fontes",
-      "titleOriginal": "CIA director floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
-      "publishedAt": "2026-08-30T16:38:19.000Z"
+      "source": "Wall Street Journal",
+      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
+      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
+      "publishedAt": "2026-08-30T16:37:54.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,46 +38,39 @@
       "publishedAt": "2026-08-30T16:31:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O diretor financeiro da Intuit fala sobre a difícil decisão de reduzir as projeções",
-      "titleOriginal": "Intuit’s CFO on the Tough Choice to Lower Guidance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFdsaG1Ebnk4aUxWcTdrSWxzNzQ4Ynh4eUhXRnVDT0JBNmVFMFZFcGY3UDRqTG9NVmtoTWR6Z0JoMVI3cFRCWm9uTkhBeE1JWjdLMjZTRGhoWTVkNERaczF0Vmg1WmNZbHR3YWhLaEVBSjJFTFN1V2RxNTA4QWpnU1dwMnJZOU1McDZ0dHlIRWZYc3It?oc=5",
-      "publishedAt": "2026-08-30T16:27:39.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Khanna: A candidatura de Ocasio-Cortez à presidência em 2028 “não teria influência alguma” sobre sua própria decisão de entrar na disputa",
+      "title": "Khanna: A candidatura de Ocasio-Cortez à presidência em 2028 “não teria influência” sobre sua própria decisão de entrar na disputa",
       "titleOriginal": "Khanna: Ocasio-Cortez running for president in 2028 'would have no bearing' on own decision to enter race",
       "link": "https://thehill.com/homenews/campaign/6059638-khanna-ocasio-cortez-presidential-run/",
       "publishedAt": "2026-08-30T16:23:56.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Steak ’n Shake: a rede de hambúrgueres do Meio-Oeste que está apostando tudo no MAGA",
-      "titleOriginal": "Steak ’n Shake: The Midwestern Burger Chain That’s Going Full MAGA",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03V280Z3dQdTBORVp4aTB1MGFhbUJremF3QUhuR2haRmVLN0pUQ0lwVWdxSkJrN29VaXQ3U3lUbFUtVE5rZVhRMVBIMmZ6VmRpYU51T2dDWVFrOTVKRUxlZ1BOV3U5Q1U?oc=5",
-      "publishedAt": "2026-08-30T16:19:42.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Ted Cruz defende a “eficaz” comunicação de Trump sobre o Irã, citando “várias missões”",
+      "title": "Ted Cruz defende a “bem-sucedida” estratégia de comunicação de Trump em relação ao Irã, citando “várias missões”",
       "titleOriginal": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
       "link": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
       "publishedAt": "2026-08-30T16:13:54.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Aon está prestes a fechar um acordo de cerca de US$ 17 bilhões pela corretora de seguros USI",
+      "title": "Exclusivo | Aon está prestes a fechar um negócio de cerca de US$ 17 bilhões pela corretora de seguros USI",
       "titleOriginal": "Exclusive | Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTB1SUxjSHkwbjU5NlRvMjNkQkhlVnY2ZVVRZkNkUjNGNGlsSTd2T1BuY21mR2lJNGNZRGpLeHB0SGZFUTZIVTR1Y1FkN2JxVzVjNDNVR2JNa09Ed1VsS2ZEY2NFdW9ZQ1BlYVkwMUlDeE5SU3NOUlNLME82ajkya21ud28tN29fRERkNkRMcktyRWh6LTBkVGp0VmM5cmc?oc=5",
       "publishedAt": "2026-08-30T15:40:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Lucros da Harmony Gold aumentam com a alta nos preços do ouro",
-      "titleOriginal": "Harmony Gold’s Earnings Rise on Higher Gold Prices",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm44RTJ5Q2N1ZjZFbGdFTXB4Z1FGV3JWcGVsMzZMelV4OC1VS29mdlJDQnVGWjNzODhteDZoTmstR3BjamxSel9qSDNpUXBYLTdBUW9DZGVVeXNjVGFNbWYwODlIZURsMG5fTFNaX2t4cVhhMENzbms4YUFtOXRKa2QwejNkNUkteXNWZzhMUWllekNUdUVGRWZSalU?oc=5",
-      "publishedAt": "2026-08-30T15:15:59.000Z"
+      "source": "New York Times",
+      "title": "Trump afirma que os EUA fecharam acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
+      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+      "publishedAt": "2026-08-30T15:08:52.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Regra dos Correios pode impedir milhões de pessoas de votar pelo correio",
+      "titleOriginal": "Postal Service Rule Could Bar Millions From Voting by Mail",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html",
+      "publishedAt": "2026-08-30T15:07:26.000Z"
     }
   ]
 }
