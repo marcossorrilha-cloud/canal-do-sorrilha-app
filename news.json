@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-30T23:21:28.050Z",
+  "updatedAt": "2026-08-30T23:48:56.615Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
+      "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-08-30T23:40:07.000Z"
+    },
     {
       "source": "Axios",
       "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
@@ -18,31 +25,31 @@
     },
     {
       "source": "The Hill",
-      "title": "O DHS nega denúncias de tortura, espancamentos e negligência médica em centros de detenção do ICE",
+      "title": "O DHS nega as denúncias de tortura, espancamentos e negligência médica nos centros de detenção do ICE",
       "titleOriginal": "DHS denies reports of torture, beatings and medical neglect in ICE detention",
       "link": "https://thehill.com/homenews/administration/6060034-dhs-denies-ice-abuse-report/",
       "publishedAt": "2026-08-30T22:01:29.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os EUA planejam impor sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
+      "title": "Os EUA planejam impor sanções a outro banco, em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
       "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
       "publishedAt": "2026-08-30T21:52:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Postos de gasolina da rede Freedom Fuel vendiam combustível roubado, alega ação judicial",
-      "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
-      "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
-      "publishedAt": "2026-08-30T21:20:01.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
       "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-30T21:00:55.000Z"
+      "publishedAt": "2026-08-30T21:39:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Postos de gasolina da rede Freedom Fuel venderam combustível roubado, alega ação judicial",
+      "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
+      "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
+      "publishedAt": "2026-08-30T21:20:01.000Z"
     },
     {
       "source": "AP News",
@@ -53,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Esta semana no Capitólio: a Câmara dos Deputados pretende aprovar uma medida para evitar a paralisação antes das eleições de meio de mandato",
+      "title": "Esta semana no Capitólio: a Câmara dos Deputados pretende aprovar medida para evitar a paralisação antes das eleições intermediárias",
       "titleOriginal": "This week on the Hill: House aims to pass measure to avert shutdown ahead of midterms",
       "link": "https://thehill.com/newsletters/this-week-on-the-hill/6058323-government-funding-socialism-edwards/",
       "publishedAt": "2026-08-30T21:00:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Republicans ready for 'very hasty' 'Trump-a-palooza' convention in Texas",
       "link": "https://thehill.com/homenews/campaign/6058289-rnc-midterm-convention-dallas/",
       "publishedAt": "2026-08-30T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Greene condena a retórica de Loomer: “Este é o novo MAGA de Trump e o Partido Republicano”",
-      "titleOriginal": "Greene condemns Loomer’s rhetoric: ‘This is Trump’s new MAGA and Republican Party’",
-      "link": "https://thehill.com/homenews/media/6059887-marjorie-taylor-greene-denounces-loomer/",
-      "publishedAt": "2026-08-30T20:21:53.000Z"
     }
   ]
 }
