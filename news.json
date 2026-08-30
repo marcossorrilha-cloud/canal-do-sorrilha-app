@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-30T21:48:49.325Z",
+  "updatedAt": "2026-08-30T22:21:41.681Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Ed Markey defende atletas transgêneros na disputa pelo Senado de Massachusetts",
-      "titleOriginal": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html",
-      "publishedAt": "2026-08-30T21:40:24.000Z"
+      "source": "The Hill",
+      "title": "O DHS nega as denúncias de tortura, espancamentos e negligência médica nos centros de detenção do ICE",
+      "titleOriginal": "DHS denies reports of torture, beatings and medical neglect in ICE detention",
+      "link": "https://thehill.com/homenews/administration/6060034-dhs-denies-ice-abuse-report/",
+      "publishedAt": "2026-08-30T22:01:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA planejam aplicar sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
+      "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+      "publishedAt": "2026-08-30T21:52:00.000Z"
     },
     {
       "source": "The Hill",
@@ -15,13 +22,6 @@
       "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
       "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
       "publishedAt": "2026-08-30T21:20:01.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O diretor da CIA, Ratcliffe, sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante sua visita a Moscou, segundo fontes",
-      "titleOriginal": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
-      "publishedAt": "2026-08-30T21:07:49.000Z"
     },
     {
       "source": "The Hill",
