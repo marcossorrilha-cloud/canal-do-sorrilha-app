@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-30T16:21:49.873Z",
+  "updatedAt": "2026-08-30T16:48:59.213Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Clyburn defende a ampliação da Suprema Corte e afirma que “13 é um número bastante bom”",
+      "titleOriginal": "Clyburn calls for expanding Supreme Court, says '13 is a pretty good number'",
+      "link": "https://thehill.com/homenews/senate/6059611-clyburn-proposes-scotus-expansion/",
+      "publishedAt": "2026-08-30T16:40:21.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O diretor financeiro da Intuit fala sobre a difícil decisão de reduzir as projeções",
+      "titleOriginal": "Intuit’s CFO on the Tough Choice to Lower Guidance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFdsaG1Ebnk4aUxWcTdrSWxzNzQ4Ynh4eUhXRnVDT0JBNmVFMFZFcGY3UDRqTG9NVmtoTWR6Z0JoMVI3cFRCWm9uTkhBeE1JWjdLMjZTRGhoWTVkNERaczF0Vmg1WmNZbHR3YWhLaEVBSjJFTFN1V2RxNTA4QWpnU1dwMnJZOU1McDZ0dHlIRWZYc3It?oc=5",
+      "publishedAt": "2026-08-30T16:27:39.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que o petróleo venezuelano reabastecerá os estoques dos EUA, mas não é tão simples assim",
+      "titleOriginal": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
+      "publishedAt": "2026-08-30T16:25:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Khanna: A candidatura de Ocasio-Cortez à presidência em 2028 “não teria influência” sobre sua própria decisão de entrar na disputa",
+      "titleOriginal": "Khanna: Ocasio-Cortez running for president in 2028 'would have no bearing' on own decision to enter race",
+      "link": "https://thehill.com/homenews/campaign/6059638-khanna-ocasio-cortez-presidential-run/",
+      "publishedAt": "2026-08-30T16:23:56.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Ted Cruz defende a “bem-sucedida” estratégia de comunicação de Trump sobre o Irã, citando “várias missões”",
@@ -11,7 +39,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Aon está prestes a fechar um negócio de cerca de US$ 17 bilhões pela corretora de seguros USI",
+      "title": "Exclusivo | Aon está prestes a fechar um acordo de cerca de US$ 17 bilhões pela corretora de seguros USI",
       "titleOriginal": "Exclusive | Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTB1SUxjSHkwbjU5NlRvMjNkQkhlVnY2ZVVRZkNkUjNGNGlsSTd2T1BuY21mR2lJNGNZRGpLeHB0SGZFUTZIVTR1Y1FkN2JxVzVjNDNVR2JNa09Ed1VsS2ZEY2NFdW9ZQ1BlYVkwMUlDeE5SU3NOUlNLME82ajkya21ud28tN29fRERkNkRMcktyRWh6LTBkVGp0VmM5cmc?oc=5",
       "publishedAt": "2026-08-30T15:40:00.000Z"
@@ -39,38 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump promete que Welker, da NBC, será denunciada à FCC “para receber uma repreensão ou punição”",
+      "title": "Trump promete que Welker, da NBC, será denunciada à FCC “para receber repreensão ou punição”",
       "titleOriginal": "Trump promises NBC's Welker will be reported to FCC 'for rebuke or punishment'",
       "link": "https://thehill.com/homenews/media/6059558-trump-threatens-nbc-welker-fcc/",
       "publishedAt": "2026-08-30T15:02:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma West Point para o espaço? Trump defende a criação de uma nova academia para treinar profissionais do setor espacial",
-      "titleOriginal": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
-      "publishedAt": "2026-08-30T14:56:51.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Homan refuta as alegações de prisões de pais em pontos de ônibus pelo ICE",
-      "titleOriginal": "Homan pushes back on alleged ICE arrests of parents at bus stops",
-      "link": "https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests/",
-      "publishedAt": "2026-08-30T14:55:50.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Moulton afirma que o senador Markey, de 80 anos, está muito velho para mais um mandato. Os jovens democratas de Massachusetts estão divididos",
-      "titleOriginal": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVd2Zmhwel9UaXBSaEVGQWdtRDU1MkZBNEZCU1pBU3JvLVIxV3E4N2pRcmRTdnh3WGswekhTVlhMOUtXQXd5YmF4bjM1N0NWOFNCdUJOYjdhOGp4TC0tdE1fRWhhVHgwWDdQQjlOX1lGUzVaa1hlR1ZQSWFtU2dwTHAzdVB1VXJhbnlhN0JWT21lMDR3VU9kNzBUQU02UQ?oc=5",
-      "publishedAt": "2026-08-30T14:08:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O que o atraso da China significa para a corrida lunar entre os EUA e a China",
-      "titleOriginal": "What China's delay means for the US-China moon race",
-      "link": "https://thehill.com/opinion/technology/6059278-what-chinas-delay-means-for-the-us-china-moon-race/",
-      "publishedAt": "2026-08-30T14:00:00.000Z"
     }
   ]
 }
