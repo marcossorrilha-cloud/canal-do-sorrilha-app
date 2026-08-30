@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-08-30T16:48:59.213Z",
+  "updatedAt": "2026-08-30T17:21:26.440Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que o petróleo venezuelano reabastecerá os estoques dos EUA, mas não é tão simples assim",
+      "titleOriginal": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
+      "publishedAt": "2026-08-30T17:07:11.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Clyburn defende a ampliação da Suprema Corte e afirma que “13 é um número bastante bom”",
       "titleOriginal": "Clyburn calls for expanding Supreme Court, says '13 is a pretty good number'",
       "link": "https://thehill.com/homenews/senate/6059611-clyburn-proposes-scotus-expansion/",
       "publishedAt": "2026-08-30T16:40:21.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Diretor da CIA sugeriu a realização de uma cúpula entre Trump, Putin e Zelensky durante visita a Moscou, segundo fontes",
+      "titleOriginal": "CIA director floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgybk9XREo0eU9GenFBZkZQXzk2UWFqTWk3Nl94NUhLb1FwNEN3ajZFWDB6T29jQXN2dzdKTFJkMXloTVk1dUYtenpUVXE1R1VnR3RvYmNMMkxVY2dBaE56T3pENVFHaExxalJlQmtodnhqZDJ4NVZ4RFVEMEM3aTZtNVZMN3F6?oc=5",
+      "publishedAt": "2026-08-30T16:38:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Novas sanções de Trump contra o Irã colocam a China em alerta",
+      "titleOriginal": "Opinion | Trump’s New Iran Sanctions Put China on Notice",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?oc=5",
+      "publishedAt": "2026-08-30T16:31:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -17,22 +38,22 @@
       "publishedAt": "2026-08-30T16:27:39.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma que o petróleo venezuelano reabastecerá os estoques dos EUA, mas não é tão simples assim",
-      "titleOriginal": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html",
-      "publishedAt": "2026-08-30T16:25:17.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Khanna: A candidatura de Ocasio-Cortez à presidência em 2028 “não teria influência” sobre sua própria decisão de entrar na disputa",
+      "title": "Khanna: A candidatura de Ocasio-Cortez à presidência em 2028 “não teria influência alguma” sobre sua própria decisão de entrar na disputa",
       "titleOriginal": "Khanna: Ocasio-Cortez running for president in 2028 'would have no bearing' on own decision to enter race",
       "link": "https://thehill.com/homenews/campaign/6059638-khanna-ocasio-cortez-presidential-run/",
       "publishedAt": "2026-08-30T16:23:56.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Steak ’n Shake: a rede de hambúrgueres do Meio-Oeste que está apostando tudo no MAGA",
+      "titleOriginal": "Steak ’n Shake: The Midwestern Burger Chain That’s Going Full MAGA",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03V280Z3dQdTBORVp4aTB1MGFhbUJremF3QUhuR2haRmVLN0pUQ0lwVWdxSkJrN29VaXQ3U3lUbFUtVE5rZVhRMVBIMmZ6VmRpYU51T2dDWVFrOTVKRUxlZ1BOV3U5Q1U?oc=5",
+      "publishedAt": "2026-08-30T16:19:42.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Ted Cruz defende a “bem-sucedida” estratégia de comunicação de Trump sobre o Irã, citando “várias missões”",
+      "title": "Ted Cruz defende a “eficaz” comunicação de Trump sobre o Irã, citando “várias missões”",
       "titleOriginal": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
       "link": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
       "publishedAt": "2026-08-30T16:13:54.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Harmony Gold’s Earnings Rise on Higher Gold Prices",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm44RTJ5Q2N1ZjZFbGdFTXB4Z1FGV3JWcGVsMzZMelV4OC1VS29mdlJDQnVGWjNzODhteDZoTmstR3BjamxSel9qSDNpUXBYLTdBUW9DZGVVeXNjVGFNbWYwODlIZURsMG5fTFNaX2t4cVhhMENzbms4YUFtOXRKa2QwejNkNUkteXNWZzhMUWllekNUdUVGRWZSalU?oc=5",
       "publishedAt": "2026-08-30T15:15:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que os EUA fecharam um acordo para assumir o controle de mais de 65 bilhões de barris de petróleo da Venezuela",
-      "titleOriginal": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
-      "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "publishedAt": "2026-08-30T15:08:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Regra dos Correios pode impedir milhões de pessoas de votar pelo correio",
-      "titleOriginal": "Postal Service Rule Could Bar Millions From Voting by Mail",
-      "link": "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html",
-      "publishedAt": "2026-08-30T15:07:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump promete que Welker, da NBC, será denunciada à FCC “para receber repreensão ou punição”",
-      "titleOriginal": "Trump promises NBC's Welker will be reported to FCC 'for rebuke or punishment'",
-      "link": "https://thehill.com/homenews/media/6059558-trump-threatens-nbc-welker-fcc/",
-      "publishedAt": "2026-08-30T15:02:28.000Z"
     }
   ]
 }
