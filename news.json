@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-30T22:48:57.391Z",
+  "updatedAt": "2026-08-30T23:21:28.050Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-30T23:11:03.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
+      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
+      "publishedAt": "2026-08-30T22:39:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O DHS nega denúncias de tortura, espancamentos e negligência médica em centros de detenção do ICE",
@@ -11,14 +25,7 @@
     },
     {
       "source": "AP News",
-      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
-      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-      "publishedAt": "2026-08-30T22:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA planejam aplicar sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
+      "title": "Os EUA planejam impor sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
       "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
       "publishedAt": "2026-08-30T21:52:00.000Z"
@@ -29,6 +36,13 @@
       "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
       "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
       "publishedAt": "2026-08-30T21:20:01.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
+      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
+      "publishedAt": "2026-08-30T21:00:55.000Z"
     },
     {
       "source": "AP News",
@@ -50,20 +64,6 @@
       "titleOriginal": "Republicans ready for 'very hasty' 'Trump-a-palooza' convention in Texas",
       "link": "https://thehill.com/homenews/campaign/6058289-rnc-midterm-convention-dallas/",
       "publishedAt": "2026-08-30T21:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Forças americanas atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-30T20:44:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-30T20:22:48.000Z"
     },
     {
       "source": "The Hill",
