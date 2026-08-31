@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T06:21:40.853Z",
+  "updatedAt": "2026-08-31T06:49:12.924Z",
   "count": 10,
   "items": [
     {
@@ -10,11 +10,46 @@
       "publishedAt": "2026-08-31T06:16:13.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Enchente repentina no Grand Canyon deixa um morto e vários desaparecidos ou sem notícias, segundo o serviço de parques",
+      "titleOriginal": "Grand Canyon flash flood leaves 1 dead and several missing or unaccounted for, park service says",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
+      "publishedAt": "2026-08-31T05:44:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Uma eleição que ocorrerá em breve poderá eleger o primeiro governador estadual de extrema direita da Alemanha moderna",
+      "titleOriginal": "An upcoming election could produce modern Germany’s 1st far-right state governor",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzY5X1dxX0tER2FYbVprM0VwVHlCU3RWUWVVRTZrMzR5d0N6ZXRHWGRjMW1yTE1JVmJub3JRUHFFY1ZFcU9BamV3aUtteUpVN01oYkVWSUVLdHJqRkRkVFdWcXhwbkFzMnk0ZWRaN1UxS3RyQXQxeUdOektqM1REbUUtTE5GR2dvYURQZEd2b01ZckJkS0dmVG13VVdnTURjYzI2THd5OA?oc=5",
+      "publishedAt": "2026-08-31T05:17:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, devido ao impacto da alta nos preços dos combustíveis",
+      "title": "As maiores companhias aéreas da China registram prejuízo de mais de US$ 1 bilhão no primeiro semestre, à medida que o impacto do aumento dos preços dos combustíveis se faz sentir",
       "titleOriginal": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGwyUUI3WGtGV2hsNW92T0VQaEJnbGVpRW9XU3Q2S1UxUmY5YlFrLXFWbDBiQWVibEJjTlpUdlRtYXp5c0FROHI2d3JUb1NWc0Q0RnlPcTRxQUpzNkNiTTBjWmpSY1h4cXV3N1NHVXp0Rmd5NHB3WHhfd2kyOGptVFp3WnRIek95S1Ftcm1tc2NlLUsxNjNZblNFeGtFc1BtV2xVRmxwbkIyWndLdlA1ajRjZUtKN2xzdnNMbUpXNEdGUjFOTEM3dQ?oc=5",
       "publishedAt": "2026-08-31T05:15:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Bessent vai ao G20 para reunir aliados em relação ao Irã, enquanto as tarifas prejudicam as relações",
+      "titleOriginal": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+      "publishedAt": "2026-08-31T04:21:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "IA e robótica impulsionam um boom de aberturas de capital na China, com a Shein abrindo o capital em Hong Kong",
+      "titleOriginal": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
+      "publishedAt": "2026-08-31T04:11:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
+      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,46 +66,11 @@
       "publishedAt": "2026-08-31T03:44:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump comemora o lançamento do telescópio espacial da NASA",
-      "titleOriginal": "Trump hails NASA's space telescope launch",
-      "link": "https://thehill.com/policy/transportation/6060316-trump-praises-nasa-roman-launch/",
-      "publishedAt": "2026-08-31T03:02:39.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Líder supremo do Irã pede união dos muçulmanos contra os EUA e Israel, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
-      "publishedAt": "2026-08-31T02:43:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
-      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-31T02:00:55.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-31T01:19:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após enchentes repentinas no Nepal",
-      "titleOriginal": "State Department official says about 85 Americans still missing after Nepal flash flooding",
-      "link": "https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods/",
-      "publishedAt": "2026-08-31T01:13:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
-      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-      "publishedAt": "2026-08-31T01:06:00.000Z"
+      "title": "Por dentro do motim de 24 horas que ameaçou a junta governante do Níger e como as forças russas intervieram",
+      "titleOriginal": "Inside the 24-hour mutiny that threatened Niger’s ruling junta and how Russian forces intervened",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhlbzN1NlZndFNlU3RsSFZsQ3MzX1BzUlI3ZVN2NmRXejRfVnJNcldBZFFGeUFyRVpxOFR6bG9vdlJMWlVOcmxqd3ZFWHEwZGJVemZJVVBmN0tGLVNlaFBOWXZnZ1EyRzBySXZIVy1uamNGc3BMMUFtOFItUzZUTEhEbXVxSUtpSlhlV1pRVlBuV3JhNC1Ic3E1NDJkM21KbEtMcTdVZ2gyS3M?oc=5",
+      "publishedAt": "2026-08-31T03:20:00.000Z"
     }
   ]
 }
