@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-31T20:48:55.075Z",
+  "updatedAt": "2026-08-31T21:21:46.602Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "A FTC e 22 estados entram com ação contra a Amazon por práticas publicitárias enganosas",
+      "titleOriginal": "FTC, 22 states sue Amazon over deceptive advertising practices",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sNmxBYVdLa0x6SmM4QU1fM2tXMEI3MW10cEtqTXEzRklrZm9md2hsY3hkMG9yWjh2bmxmLU12RGxwLXNHZGE3SzNEUlZBY09KbGJPdFlLUVNwd1dUbVlpd2dLTkplV3d6ZTFqQ3dDczFpdkVEb21EUlYzRmFNZw?oc=5",
+      "publishedAt": "2026-08-31T21:19:54.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os ataques dos EUA podem ter tido como alvo um novo tipo de mina naval iraniana",
+      "titleOriginal": "U.S. Strikes May Have Targeted a New Type of Iranian Naval Mine",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html",
+      "publishedAt": "2026-08-31T21:19:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os ataques de Trump a Welker, da NBC, aumentam a pressão sobre a FCC",
+      "titleOriginal": "Trump's attacks on NBC's Welker raise pressure on FCC",
+      "link": "https://thehill.com/homenews/media/6062079-trump-fcc-welker-criticism/",
+      "publishedAt": "2026-08-31T21:18:04.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump leva sua campanha do “Lake America” para a Apple",
+      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
+      "publishedAt": "2026-08-31T20:59:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aprovação de Trump cai para novo mínimo, com a guerra no Irã pesando sobre o apoio: pesquisa",
+      "titleOriginal": "Trump approval dips to new low as Iran war weighs on support: Poll",
+      "link": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
+      "publishedAt": "2026-08-31T20:52:26.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Bessent afirma que o Canadá é pequeno demais para travar uma guerra comercial com os EUA",
+      "titleOriginal": "Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html",
+      "publishedAt": "2026-08-31T20:47:50.000Z"
+    },
     {
       "source": "Axios",
       "title": "São Francisco reformula a forma como contrata serviços para pessoas em situação de rua",
@@ -18,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Jeffries manifesta “sérias preocupações” em relação ao projeto de lei de sanções contra a Rússia aprovado pelo Senado",
+      "title": "Jeffries manifesta “sérias preocupações” com o projeto de lei de sanções contra a Rússia aprovado pelo Senado",
       "titleOriginal": "Jeffries voices ‘serious concerns’ with Senate-passed Russian sanctions bill",
       "link": "https://thehill.com/homenews/house/6061998-jeffries-russia-sanctions-bill-concerns/",
       "publishedAt": "2026-08-31T20:40:16.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
       "publishedAt": "2026-08-31T20:37:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz autoriza a alimentação forçada do acusado de ter atirado contra a Guarda Nacional",
-      "titleOriginal": "Judge allows forced feeding of accused National Guard shooter",
-      "link": "https://thehill.com/regulation/court-battles/6061919-judge-authorizes-bop-force-feeding-rahmanullah-lakanwal/",
-      "publishedAt": "2026-08-31T20:32:04.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
-      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-      "publishedAt": "2026-08-31T20:28:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A chefe da Unidade de Direitos Civis do Departamento de Justiça entra em confronto com Harvard, a esquerda e seus colegas",
-      "titleOriginal": "Leader of DOJ’s Civil Rights Unit Spars With Harvard, the Left and Her Colleagues",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/harmeet-dhillon-doj-trump.html",
-      "publishedAt": "2026-08-31T20:26:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre os rumores de uma candidatura de Hegseth em 2028: “É muito cedo para falar sobre isso”",
-      "titleOriginal": "Trump on talk of Hegseth 2028 run: 'It's very early to talk about that'",
-      "link": "https://thehill.com/homenews/administration/6061917-trump-dismisses-hegseth-2028-run/",
-      "publishedAt": "2026-08-31T20:23:55.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Kalshi suspende candidata republicana à Câmara por ter apostado em sua própria campanha",
-      "titleOriginal": "Kalshi Suspends Republican House Candidate for Betting on Her Own Race",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/house-candidate-kalshi-gambling.html",
-      "publishedAt": "2026-08-31T20:15:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por dentro da nova loja Second Story Spirits, em Lawrenceville",
-      "titleOriginal": "Inside Lawrenceville's new Second Story Spirits",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRktwdzJaRXMxWk1zRndkT3dPY0FqMEFYNVVnWkpjTU4tT0VIUHBtSEltdUlJNFNHcUhHT1o0R2xFNnpqRXFHTGtOcDVWNGxMUFNla2NqR19DNUVkNkgxVFBkWnppcmRXeEIxaVljQmJBMm9ZR2pTR19mT25zR0FLMThzUENlUHZCWUh0UmRTeGtLVkZTTTBqZ2d3?oc=5",
-      "publishedAt": "2026-08-31T20:11:37.000Z"
     }
   ]
 }
