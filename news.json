@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-08-31T19:21:39.666Z",
+  "updatedAt": "2026-08-31T19:49:03.429Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump anuncia nova política de preços para medicamentos sujeitos a receita médica; Câmara dos Deputados retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
+      "title": "O Pentágono adota o Grok e o ChatGPT para uso militar",
+      "titleOriginal": "Pentagon brings on Grok and ChatGPT for military use",
+      "link": "https://thehill.com/policy/defense/6061714-pentagon-adds-grok-chatgpt-ai/",
+      "publishedAt": "2026-08-31T19:30:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Receita proveniente de auditorias do IRS despencou durante o governo Trump, aponta órgão de fiscalização",
+      "titleOriginal": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
+      "link": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
+      "publishedAt": "2026-08-31T19:29:09.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
+      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+      "publishedAt": "2026-08-31T19:24:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump se reunirá com refinarias de petróleo em meio à persistência dos preços da gasolina",
+      "titleOriginal": "Trump to meet with oil refiners amid stubborn gas prices",
+      "link": "https://thehill.com/policy/energy-environment/6061687-trump-refineries-capacity-gas-prices-iran/",
+      "publishedAt": "2026-08-31T19:22:12.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Boulder propõe 13 demissões no orçamento de 2027",
+      "titleOriginal": "Boulder proposes 13 layoffs in 2027 budget",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFVDVld2Z0RnalU1YW95WlNIZ0hZYl9FMEJrODNPem9qVXQ1Y01mN1pjMlFZcWxMN21OSjAzN1EyS2gzeTVyU3lIcXpsbmdhSXBmX3NIeERFX0V6cUFsTzE3VXIwdkZDOUdab3pZTGZlMDAyT1ozU2FOLVFIS0ZzT0JuaG1vdDRSMGVr?oc=5",
+      "publishedAt": "2026-08-31T19:21:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump anuncia nova política de preços para medicamentos controlados; Câmara retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
       "titleOriginal": "Live updates: Trump announces new prescription drug pricing; House returns with shutdown bill on tap",
       "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
       "publishedAt": "2026-08-31T19:19:30.000Z"
@@ -31,46 +66,11 @@
       "publishedAt": "2026-08-31T19:00:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Primeiro-ministro espanhol acusa Israel e a Rússia de espalhar desinformação sobre a crise dos migrantes em Ceuta",
-      "titleOriginal": "Spanish prime minister points finger at Israel, Russia disinformation over Ceuta migrant crisis",
-      "link": "https://thehill.com/policy/international/6061529-spain-russia-israel-morocco-ceuta-migrant-crisis/",
-      "publishedAt": "2026-08-31T18:51:55.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O governo Trump testa ferramentas cibernéticas e de inteligência artificial para proteger os sistemas de abastecimento de água do Texas",
-      "titleOriginal": "Trump administration tests cyber and AI tools to secure Texas water systems",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Qclp0d1RJX2RmOEgtMGxBM09tNWFfRV8zOHNTeFVfM3drNWJ2VzJrem0taFZINUV1T1dTTUVvbHZNcENob1AwLTMwanpLc2VLM0xjeGJWQW1pLTNvVmc3YkZSbGVHMF9xbXp1WmNKTWdZak1PYlU5Zw?oc=5",
-      "publishedAt": "2026-08-31T18:46:12.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "A Westinghouse Electric quer aproveitar o renascimento da energia nuclear para abrir o capital",
-      "titleOriginal": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPODd2VmFmT0xiYkRYTmtsaldiTlBJbWlsdUFmV2JrMnVHaXU0MzhQczBPOG00YVVLdGdiT0hFQU45QlI4bE0wSXNZOUtscjdCalVTVEpvUTVSOHA2X3otS0dLZ3lHRV9IVDVzOGlFU2FDQ2YtTWdVdVlsa0xvdDhpM2VjR3kzYnFIT0RPcFpudTNjcTNGQm14TldmeHZIdVJIZTRZQ0hSTndvRVc3LS1xRkJIQ3hSQzl6b0E?oc=5",
-      "publishedAt": "2026-08-31T18:35:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump leva sua campanha do “Lake America” à Apple",
-      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
-      "publishedAt": "2026-08-31T18:34:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os republicanos vão arcar com o custo das tarifas de Trump nas eleições de meio de mandato",
-      "titleOriginal": "Republicans will pay for Trump’s tariffs in the midterms",
-      "link": "https://thehill.com/opinion/campaign/6061519-gop-vulnerable-trade-war-costs/",
-      "publishedAt": "2026-08-31T18:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Kalshi suspende o ex-deputado federal George Santos por tempo indeterminado após concluir que ele provavelmente cometeu uso de informação privilegiada",
-      "titleOriginal": "Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVdJU1NFR2h5RnRyMWw3T2FSTWliZDV5T0d1ZEFFeXhDanJJd2RLZTFuam5BNUx4LXNQN0RTQVpWZXc1dmk2UWhXZU1zUFRGejZPU3ZsR0dkdU5wT1JsNl9sRGlvcU5vR0Y5VWdpX09URjdLRlBmZEpCLVJxb21leUU1NWczODJ0dVVjX1JMWFpnV3RjNmhDbA?oc=5",
-      "publishedAt": "2026-08-31T18:29:00.000Z"
+      "title": "Exclusivo | FTC entrará com ação alegando que a Amazon enganou anunciantes",
+      "titleOriginal": "Exclusive | FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "publishedAt": "2026-08-31T18:58:00.000Z"
     }
   ]
 }
