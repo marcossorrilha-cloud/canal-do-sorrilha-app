@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-31T01:48:54.641Z",
+  "updatedAt": "2026-08-31T02:21:39.098Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-31T01:38:00.000Z"
+      "source": "The Hill",
+      "title": "Aproximadamente 15 pessoas podem estar desaparecidas após uma enchente repentina no Grand Canyon: Serviço de Parques",
+      "titleOriginal": "Approximately 15 people may be missing after Grand Canyon flash flood: Parks service",
+      "link": "https://thehill.com/homenews/state-watch/6060286-grand-canyon-flash-floods-missing/",
+      "publishedAt": "2026-08-31T01:56:43.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-31T01:32:37.000Z"
     },
     {
       "source": "New York Times",
@@ -32,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia contra a Ucrânia neste ano",
+      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia à Ucrânia neste ano",
       "titleOriginal": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
       "publishedAt": "2026-08-31T00:30:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
       "publishedAt": "2026-08-30T23:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que estará presente na Presidents Cup, em Medinah, na qualidade de presidente de honra",
-      "titleOriginal": "Trump says he’ll be at the Presidents Cup at Medinah as the honorary chairman",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHUxY2N1Tmprc0t1M2FtOTZhbEp4SW9HQWJpRFFRZWU3LTVrQzJobXpXOWp0UERBNTJEd182UFN5ckFmSmNiS3NLbk5SVDJxZGVpNTYyekxPNDlLRl9hd194SEdVbF9jejZzclZZSUo2ZlVaMWtROVM1eGQ3VmlMenJ5ekd5MEVaODhHWkZHWjBCTEpJamtfbGYxTG55d1FhTFBLQ0drOA?oc=5",
-      "publishedAt": "2026-08-30T23:16:00.000Z"
     }
   ]
 }
