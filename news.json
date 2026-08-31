@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-31T17:21:33.464Z",
+  "updatedAt": "2026-08-31T17:49:03.042Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump faz anúncio sobre os preços dos medicamentos",
+      "titleOriginal": "Watch live: Trump makes announcement on drug pricing",
+      "link": "https://thehill.com/video-clips/6061382-watch-live-donald-trump-healthcare-affordability-drug-pricing-announcement/",
+      "publishedAt": "2026-08-31T17:43:25.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A chefe da Unidade de Direitos Civis do Departamento de Justiça entra em confronto com Harvard, a esquerda e seus colegas",
+      "titleOriginal": "Leader of DOJ’s Civil Rights Unit Spars With Harvard, the Left and Her Colleagues",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/harmeet-dhillon-doj-trump.html",
+      "publishedAt": "2026-08-31T17:39:09.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Uma “West Point” para o espaço? Trump defende a criação de uma nova academia para treinar profissionais do setor espacial",
+      "titleOriginal": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
+      "publishedAt": "2026-08-31T17:38:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Jeffries discursa enquanto a Câmara retoma os trabalhos para votações importantes",
+      "titleOriginal": "Watch live: Jeffries speaks as House returns for key votes",
+      "link": "https://thehill.com/video-clips/6061451-watch-live-hakeem-jeffries-house-democrats-presser/",
+      "publishedAt": "2026-08-31T17:35:08.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump está enviando uma mensagem ao Irã com o vídeo da Ilha Kharg gerado por IA, afirma Vance",
+      "titleOriginal": "Trump sending message to Iran with AI Kharg Island video, says Vance",
+      "link": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message/",
+      "publishedAt": "2026-08-31T17:33:36.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
+      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "publishedAt": "2026-08-31T17:33:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que a pesquisa do Times/Siena não está encerrando suas atividades",
+      "titleOriginal": "Why the Times/Siena Poll Isn’t Hanging Up the Phone",
+      "link": "https://www.nytimes.com/2026/08/31/upshot/times-siena-phone-polling.html",
+      "publishedAt": "2026-08-31T17:29:12.000Z"
+    },
     {
       "source": "The Hill",
       "title": "'Repreensão ou punição': Trump ameaça denunciar Kristen Welker à FCC",
@@ -11,66 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Duffy anuncia o fechamento emergencial de 110 autoescolas devido à regra de proficiência em inglês",
+      "title": "Duffy anuncia o fechamento de emergência de 110 autoescolas devido à regra de proficiência em inglês",
       "titleOriginal": "Duffy announces emergency shutdown of 110 driving schools over English proficiency rule",
       "link": "https://thehill.com/policy/transportation/6061278-dot-shuts-driving-schools/",
       "publishedAt": "2026-08-31T16:56:26.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Existem ciclovias que promovem a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
+      "title": "Existem ciclovias voltadas para a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
       "titleOriginal": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
       "publishedAt": "2026-08-31T16:45:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Centenas de pessoas podem estar presas em túneis de usinas hidrelétricas, enquanto o número de mortos pelas enchentes ultrapassa 950 no Nepal e na China",
-      "titleOriginal": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-      "publishedAt": "2026-08-31T16:38:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Frost: Biden deveria ter divulgado os arquivos sobre Epstein",
-      "titleOriginal": "Frost: Biden should have released Epstein files",
-      "link": "https://thehill.com/homenews/house/6061199-frost-epstein-files-biden-trump/",
-      "publishedAt": "2026-08-31T16:36:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Bessent se reúne com o G20 para tentar mobilizar aliados em relação ao Irã, enquanto as tarifas prejudicam as relações",
-      "titleOriginal": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
-      "publishedAt": "2026-08-31T16:35:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O ex-deputado George Santos recebe a primeira proibição vitalícia da história da Kalshi",
-      "titleOriginal": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktYQnlJWkZqcmNUOXBzMkE0dXpCYzFhRGpoNmxkRU92TWJwSHlYU3F0NVR4MkNkVWN0Y25LT3dPcEYybjlTdWxGcHZuQThXWmtCY1o3TExGQ1pvakJhY1NWanh4OWUzVWU3U3ZJZ3FZOWwyLUNVTEk3RmRtN01BWW5hS19reV9qYWg3LTVPUDNQQlIwcmxlZG0tVUFSeXVmNnN6aHI1QTNPR0U?oc=5",
-      "publishedAt": "2026-08-31T16:34:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A guerra com o Irã se intensifica em duas frentes, enquanto Trump faz uma nova ameaça",
-      "titleOriginal": "Iran war flares up on two fronts as Trump issues fresh threat",
-      "link": "https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats/",
-      "publishedAt": "2026-08-31T16:31:50.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
-      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-      "publishedAt": "2026-08-31T16:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os drones a jato da Rússia deixam as prateleiras dos supermercados de Kiev vazias e causam apreensão entre os ucranianos",
-      "titleOriginal": "Russia’s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZQQVJveHhwNlBNaWEyb2FLZkxHblJxeVR3YVpEdWJLdTNRYngyWDNyUk1qeWJQQUM4X210bFNLVUMxaGdheVZ1V1hlQ29GME92b1J6aWF5cWJ0ck0wLXJMYnE1MGlPWGJlNXNBVHNXbzRrMEZLejlPTjAyRmg3NHdWbzlkQ1BoX2hvUFhkUkFNVkwzNGd5UlFoblNFZ0JpQkFaaw?oc=5",
-      "publishedAt": "2026-08-31T16:22:00.000Z"
     }
   ]
 }
