@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-31T04:48:52.650Z",
+  "updatedAt": "2026-08-31T05:21:34.197Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
+      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | O incentivo de US$ 5,5 bilhões que a joint venture de data centers da SoftBank ofereceu para garantir a OpenAI",
+      "title": "Exclusivo | O incentivo de US$ 5,5 bilhões que a joint venture de data centers da SoftBank ofereceu para fechar acordo com a OpenAI",
       "titleOriginal": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
       "publishedAt": "2026-08-31T03:55:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Indicadores oficiais de atividade da China sugerem uma recuperação iminente",
+      "titleOriginal": "China’s Official Activity Gauges Hint at Impending Turnaround",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGViV1lFREJ6Q2w4ZVZyaTVZVUJjMzQ1Zk1BT2RmcUpOOHJaREZ0TFBnV2dqRHVuWnJVYW8xODNvMVpkcjN2cEN4TGdKYlF2RkRRUWI5VGVKQ3QxSkZwY29ZYnVNUl9QTG5PcmdfdDdhYXVvNzUydVlSWGw4akV6LTc1b3lZdzY5X0ExX3ZtTHFjS0NsTHlCTXptaUVWUGE4RlVZVFRTWVRWOUlfQTd5Sg?oc=5",
+      "publishedAt": "2026-08-31T03:44:00.000Z"
     },
     {
       "source": "The Hill",
@@ -18,17 +32,17 @@
     },
     {
       "source": "AP News",
-      "title": "Líder supremo do Irã pede união muçulmana contra os EUA e Israel, além de outras notícias do Oriente Médio",
+      "title": "Líder supremo do Irã pede união dos muçulmanos contra os EUA e Israel, além de outras notícias do Oriente Médio",
       "titleOriginal": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
       "publishedAt": "2026-08-31T02:43:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Os indicadores oficiais da China apontam para uma contração contínua da atividade econômica",
-      "titleOriginal": "China’s Official Gauges Point to Continued Contraction in Economic Activity",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGViV1lFREJ6Q2w4ZVZyaTVZVUJjMzQ1Zk1BT2RmcUpOOHJaREZ0TFBnV2dqRHVuWnJVYW8xODNvMVpkcjN2cEN4TGdKYlF2RkRRUWI5VGVKQ3QxSkZwY29ZYnVNUl9QTG5PcmdfdDdhYXVvNzUydVlSWGw4akV6LTc1b3lZdzY5X0ExX3ZtTHFjS0NsTHlCTXptaUVWUGE4RlVZVFRTWVRWOUlfQTd5Sg?oc=5",
-      "publishedAt": "2026-08-31T02:07:00.000Z"
+      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
+      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
+      "publishedAt": "2026-08-31T02:00:55.000Z"
     },
     {
       "source": "AP News",
@@ -45,32 +59,18 @@
       "publishedAt": "2026-08-31T01:27:28.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-31T01:19:20.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após enchentes repentinas no Nepal",
       "titleOriginal": "State Department official says about 85 Americans still missing after Nepal flash flooding",
       "link": "https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods/",
       "publishedAt": "2026-08-31T01:13:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
-      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-      "publishedAt": "2026-08-31T01:06:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Plano para reduzir o número de seções eleitorais em um importante condado do Texas gera protestos à medida que a disputa pelo Senado se aproxima",
-      "titleOriginal": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGZlT2ktUGhpX2hYdG00bmxpRkFjSHdnS0NYZHFwNkxLX0ZBM3YyOGJyYkxnV1BzTEV1NEp2YTZtMVp0OXAybHBIaGhYZFZaSmtPSXVtVnNnaXo5NFdmamg0TUZTSGRCZVlScEVvRldxNTRIaTdxUU1oRzF2cXJqaXkySE01OGdlREhrc3I5NFZxZWFkTkIwTFNxYk9oUFBEcHRjYQ?oc=5",
-      "publishedAt": "2026-08-31T00:44:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia à Ucrânia neste ano",
-      "titleOriginal": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
-      "publishedAt": "2026-08-31T00:30:00.000Z"
     }
   ]
 }
