@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-31T16:48:59.793Z",
+  "updatedAt": "2026-08-31T17:21:33.464Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "'Repreensão ou punição': Trump ameaça denunciar Kristen Welker à FCC",
+      "titleOriginal": "'Rebuke or punishment': Trump threatens to report Kristen Welker to FCC",
+      "link": "https://thehill.com/opinion/lindseys-lens/6061458-trump-welker-fcc-threat/",
+      "publishedAt": "2026-08-31T17:19:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Duffy anuncia o fechamento emergencial de 110 autoescolas devido à regra de proficiência em inglês",
+      "titleOriginal": "Duffy announces emergency shutdown of 110 driving schools over English proficiency rule",
+      "link": "https://thehill.com/policy/transportation/6061278-dot-shuts-driving-schools/",
+      "publishedAt": "2026-08-31T16:56:26.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Existem ciclovias que promovem a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
+      "titleOriginal": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
+      "publishedAt": "2026-08-31T16:45:45.000Z"
+    },
     {
       "source": "AP News",
       "title": "Centenas de pessoas podem estar presas em túneis de usinas hidrelétricas, enquanto o número de mortos pelas enchentes ultrapassa 950 no Nepal e na China",
@@ -17,11 +38,32 @@
       "publishedAt": "2026-08-31T16:36:27.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Bessent se reúne com o G20 para tentar mobilizar aliados em relação ao Irã, enquanto as tarifas prejudicam as relações",
+      "titleOriginal": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+      "publishedAt": "2026-08-31T16:35:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O ex-deputado George Santos recebe a primeira proibição vitalícia da história da Kalshi",
+      "titleOriginal": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktYQnlJWkZqcmNUOXBzMkE0dXpCYzFhRGpoNmxkRU92TWJwSHlYU3F0NVR4MkNkVWN0Y25LT3dPcEYybjlTdWxGcHZuQThXWmtCY1o3TExGQ1pvakJhY1NWanh4OWUzVWU3U3ZJZ3FZOWwyLUNVTEk3RmRtN01BWW5hS19reV9qYWg3LTVPUDNQQlIwcmxlZG0tVUFSeXVmNnN6aHI1QTNPR0U?oc=5",
+      "publishedAt": "2026-08-31T16:34:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "A guerra com o Irã se intensifica em duas frentes, enquanto Trump lança uma nova ameaça",
+      "title": "A guerra com o Irã se intensifica em duas frentes, enquanto Trump faz uma nova ameaça",
       "titleOriginal": "Iran war flares up on two fronts as Trump issues fresh threat",
       "link": "https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats/",
       "publishedAt": "2026-08-31T16:31:50.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
+      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
+      "publishedAt": "2026-08-31T16:30:00.000Z"
     },
     {
       "source": "AP News",
@@ -29,48 +71,6 @@
       "titleOriginal": "Russia’s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZQQVJveHhwNlBNaWEyb2FLZkxHblJxeVR3YVpEdWJLdTNRYngyWDNyUk1qeWJQQUM4X210bFNLVUMxaGdheVZ1V1hlQ29GME92b1J6aWF5cWJ0ck0wLXJMYnE1MGlPWGJlNXNBVHNXbzRrMEZLejlPTjAyRmg3NHdWbzlkQ1BoX2hvUFhkUkFNVkwzNGd5UlFoblNFZ0JpQkFaaw?oc=5",
       "publishedAt": "2026-08-31T16:22:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
-      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-      "publishedAt": "2026-08-31T16:05:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A IA está pressionando o orçamento de TI das empresas",
-      "titleOriginal": "AI Is Putting Pressure on the Corporate IT Budget",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5GUjYteUdFY0RwSjFFeThUbEw0YnRXU0NSSGZBTnVGY0xMZGxjV2xTS3MtWVNaN0lVVmxMRDB2RHRCUFh2VHBQX3NwVkc0bXgxNGFIMjhBczR3cGZDMnlmalJGSVVYZXQ5TmdKSXNvSS1hWHFmWWZqZWRQMFJ3cDF4SzBIcWxfVU9Mb04xOGhUa2Np?oc=5",
-      "publishedAt": "2026-08-31T15:54:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Órgãos de campanha do Partido Republicano pedem que a Suprema Corte intervenha no caso sobre as tarifas dos anúncios de TV",
-      "titleOriginal": "GOP campaign arms ask Supreme Court to intervene in TV ad rate case",
-      "link": "https://thehill.com/regulation/court-battles/6061170-gop-house-senate-campaign-arms-supreme-court-tv-ad-rates/",
-      "publishedAt": "2026-08-31T15:47:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que as comunidades que se opõem aos centros de dados querem permanecer “atrasadas e pobres”",
-      "titleOriginal": "Trump says communities opposed to data centers want to be 'backwards and poor'",
-      "link": "https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy/",
-      "publishedAt": "2026-08-31T15:36:53.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
-      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-      "publishedAt": "2026-08-31T15:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump afirma que os EUA “responderão” ao ataque iraniano na Jordânia; Câmara retoma trabalhos com projeto de lei sobre a paralisação do governo em pauta",
-      "titleOriginal": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
-      "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
-      "publishedAt": "2026-08-31T15:33:40.000Z"
     }
   ]
 }
