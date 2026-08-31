@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-08-31T22:21:37.696Z",
+  "updatedAt": "2026-08-31T22:48:54.842Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A “Ham and Cheese House” de Palm Beach chega ao mercado por US$ 105 milhões",
+      "titleOriginal": "Exclusive | Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVN3YUk1YW9teU8yOFNMR1R4cmVCaFlZcE1ZbEZBVTNCU291LUozdkF6VDJQQUFUUXZZOG8zdU5WelNoeEVPNlhZTDNReW9teXNUdDhLd052bGd2VGhXMUlEUnFZU2ltb1A3UEd5Sm9FTEVKM0xGRzFZenctWVR5QVZYNVNRSi1xTkk0aG1B?oc=5",
+      "publishedAt": "2026-08-31T22:45:29.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O secretário do Exército, Dan Driscoll, renuncia ao cargo",
+      "titleOriginal": "Army Secretary Dan Driscoll resigns from post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+      "publishedAt": "2026-08-31T22:36:08.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed supera Rogers em pesquisa para o Senado de Michigan",
+      "titleOriginal": "El-Sayed edges Rogers in Michigan Senate poll",
+      "link": "https://thehill.com/homenews/campaign/6062189-el-sayed-rogers-michigan-poll/",
+      "publishedAt": "2026-08-31T22:33:40.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Scott Brown era uma estrela do Partido Republicano. Será que isso fará diferença na disputa pelo Senado em New Hampshire?",
+      "title": "Scott Brown era uma estrela do Partido Republicano. Isso terá importância na disputa pelo Senado em New Hampshire?",
       "titleOriginal": "Scott Brown Was a GOP Star. Will It Matter in the New Hampshire Senate Race?",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/new-hampshire-senate-scott-brown.html",
       "publishedAt": "2026-08-31T22:17:59.000Z"
@@ -25,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Presidente do Supremo discorda sobre a construção do salão de baile: “Não é uma vitória para a separação de poderes”",
+      "title": "Presidente do Supremo discorda sobre a construção do salão de festas: “Não é uma vitória para a separação de poderes”",
       "titleOriginal": "Chief justice dissents on ballroom construction: 'No victory for separation of powers'",
       "link": "https://thehill.com/regulation/court-battles/6062155-roberts-white-house-ballroom-dissent/",
       "publishedAt": "2026-08-31T22:01:55.000Z"
@@ -38,39 +59,18 @@
       "publishedAt": "2026-08-31T21:55:45.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Mais nove laboratórios farmacêuticos fecharam acordos de preços com Trump",
-      "titleOriginal": "Nine more drugmakers cut pricing deals with Trump",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTkxMRTk1TUIwc09fZXM1S1NsVHJKUWk4aWhBanU1V3FpSmpUbnJLemtreWdwVS1JWms4c3p4dDladDdMd1FzMWl0YlJ4VDUwWFYyVWlORkFmRXNBRWl1OEM0UHYtajhobzZZ?oc=5",
-      "publishedAt": "2026-08-31T21:27:35.000Z"
+      "source": "AP News",
+      "title": "Bessent se reúne com o G20 para tentar mobilizar aliados em relação ao Irã, enquanto as tarifas prejudicam as relações",
+      "titleOriginal": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+      "publishedAt": "2026-08-31T21:49:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Juiz federal adia processo judicial sobre a mifepristona até depois das eleições de meio de mandato",
-      "titleOriginal": "Federal judge delays a mifepristone lawsuit until after midterms",
-      "link": "https://thehill.com/policy/healthcare/6062042-judge-pauses-mifepristone-lawsuit/",
-      "publishedAt": "2026-08-31T21:24:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed: Se você está começando uma guerra comercial com o Canadá, “você é o idiota”",
-      "titleOriginal": "El-Sayed: If you're starting a trade war with Canada, 'you're the a‑‑hole'",
-      "link": "https://thehill.com/homenews/campaign/6062022-el-sayed-slams-canada-trade-war/",
-      "publishedAt": "2026-08-31T21:21:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Bessent se reuniu com seu homólogo russo no G20",
-      "titleOriginal": "Bessent met with Russian counterpart at G20",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpVMTBoMkRpM1FZUHdxNkdsOWtDZllfelJJTjhnNS1ydEhWclBmMnBHcDZIUWpFRVF6T2VvZlFxaXd5TGF3a0RacFNRR25kQXBWaURXaERiR0VWeGN1QmJhZzlRZkxOaVE?oc=5",
-      "publishedAt": "2026-08-31T21:21:19.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A FTC e 22 estados movem ação contra a Amazon por práticas publicitárias enganosas",
-      "titleOriginal": "FTC, 22 states sue Amazon over deceptive advertising practices",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sNmxBYVdLa0x6SmM4QU1fM2tXMEI3MW10cEtqTXEzRklrZm9md2hsY3hkMG9yWjh2bmxmLU12RGxwLXNHZGE3SzNEUlZBY09KbGJPdFlLUVNwd1dUbVlpd2dLTkplV3d6ZTFqQ3dDczFpdkVEb21EUlYzRmFNZw?oc=5",
-      "publishedAt": "2026-08-31T21:21:19.000Z"
+      "source": "Wall Street Journal",
+      "title": "A FTC entra com ação contra a Amazon, alegando que a empresa enganou anunciantes e elevou os preços",
+      "titleOriginal": "FTC Sues Amazon, Alleging It Deceived Advertisers and Drove Up Prices",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "publishedAt": "2026-08-31T21:45:00.000Z"
     }
   ]
 }
