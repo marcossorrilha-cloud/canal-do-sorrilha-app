@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-08-31T10:48:55.001Z",
+  "updatedAt": "2026-08-31T11:21:31.323Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Guerra no Irã",
-      "titleOriginal": "Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "publishedAt": "2026-08-31T10:43:44.000Z"
+      "source": "The Hill",
+      "title": "A guarda pretoriana de Biden na mídia agora finge preocupação com a aptidão do presidente para exercer o cargo",
+      "titleOriginal": "Biden's praetorian guard in the media now feigns concern about presidential fitness",
+      "link": "https://thehill.com/opinion/white-house/6056352-media-hypocrisy-mental-acuity/",
+      "publishedAt": "2026-08-31T11:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "As empresas estão financiando as reduções de preços com seus reembolsos de tarifas",
+      "titleOriginal": "Companies Are Paying for Price Cuts With Their Tariff Refunds",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEtjS24zdWhHck9idWJCLXJfMEhFdVdrZUdhdHN5QXYzSi1VUkZoZ2JuT3VxMUJadGpua3A4emJtY1NIUk1xNkZseTNHakU0RDFHZlM0cDVUSHNwd25BWkotT3E2d3F3bmo4cndiUXJ0dTYxRXM5ZG1VYWZfUXBEZ0E0a050SUFXbGpWQWhkX1J3QUNmeUNlNGpqYVpNU1pfeG1MeA?oc=5",
+      "publishedAt": "2026-08-31T10:58:57.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Aon fecha acordo de cerca de US$ 17 bilhões para a corretora de seguros USI",
+      "titleOriginal": "Aon Strikes Roughly $17 Billion Deal for Insurance Brokerage USI",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTB1SUxjSHkwbjU5NlRvMjNkQkhlVnY2ZVVRZkNkUjNGNGlsSTd2T1BuY21mR2lJNGNZRGpLeHB0SGZFUTZIVTR1Y1FkN2JxVzVjNDNVR2JNa09Ed1VsS2ZEY2NFdW9ZQ1BlYVkwMUlDeE5SU3NOUlNLME82ajkya21ud28tN29fRERkNkRMcktyRWh6LTBkVGp0VmM5cmc?oc=5",
+      "publishedAt": "2026-08-31T10:51:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Privacidade x Segurança: Leitores discutem sobre as câmeras de placas de veículos da Flock",
+      "titleOriginal": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3VzQVdhTVRrams5ZFZpdnpsSVdka0pqUzY1dnZCWVJzSHpxYkJON3c2c0NSM3B2eVI4N202SDFxX1l1MG9pdlRxRUM1Mld1akxoc3N4bkhYbWIwc1ZnLVNtMTVOTWh5bDdNVDlKN2tIOUNZMUI1UkpYY1dHV0lFOHptWnBtQ0dFamhDMnZZamxJRkVtd1NiMWdnU2VsWEFFcHM2eXZ3?oc=5",
+      "publishedAt": "2026-08-31T10:48:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Sua placa está sendo escaneada em toda a região do Triângulo",
+      "titleOriginal": "Your license plate is being scanned across the Triangle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnNvcDlMeEtIZ0dvUF83ZGNUaHFsUlRIdjZuOWMzXzFHTHZtS2pCUEQ3dnprOEwzTnhpWTBONTduSzk4eWFKTkVQemh1OUo5bzdGQ0owNko3RXN6S01ZcHgwV2hSRFB0aWNBYlFEeFl4alFydEt1YXNZQ0Ywa3Y2Y2hiVktReERmYjlQRWxVdE1UZjBfa3pqVF8zQVhzdw?oc=5",
+      "publishedAt": "2026-08-31T10:41:15.000Z"
     },
     {
       "source": "AP News",
-      "title": "As bolsas mundiais apresentam resultados mistos e os preços do petróleo disparam após ataque dos EUA a lançadores de foguetes iranianos",
+      "title": "As bolsas mundiais apresentam resultados mistos e os preços do petróleo disparam após ataque dos EUA contra lançadores de foguetes iranianos",
       "titleOriginal": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
       "publishedAt": "2026-08-31T10:27:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Geórgia pagou mais de US$ 20 bilhões em tarifas impostas por Trump, estima um relatório",
+      "titleOriginal": "Georgia paid over $20B in Trump tariffs, report estimates",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa21XczB5ZFcwMy1PTDZ0elp0VGEyZERUcnRVRnFrb0RXVmVlWmROcEZKQ0NRREFadkZoX1p4aDN6TUd5NEw2eVFoT0FhdTU0VDJwcmtDa1lDYTNxSE81MjVWQWNLZUc3VTJQa0lFZHJHMEozNmhiV1Jnc1A0bllKenMzdDNmZmxVOWIyVFBLal9QVmlwV3lLcEQ4S1NuRnJ5UFZBbXdn?oc=5",
+      "publishedAt": "2026-08-31T10:24:13.000Z"
     },
     {
       "source": "Axios",
@@ -25,52 +60,17 @@
     },
     {
       "source": "Axios",
-      "title": "A Geórgia pagou mais de US$ 20 bilhões em tarifas impostas por Trump, estima um relatório",
-      "titleOriginal": "Georgia paid over $20B in Trump tariffs, report estimates",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa21XczB5ZFcwMy1PTDZ0elp0VGEyZERUcnRVRnFrb0RXVmVlWmROcEZKQ0NRREFadkZoX1p4aDN6TUd5NEw2eVFoT0FhdTU0VDJwcmtDa1lDYTNxSE81MjVWQWNLZUc3VTJQa0lFZHJHMEozNmhiV1Jnc1A0bllKenMzdDNmZmxVOWIyVFBLal9QVmlwV3lLcEQ4S1NuRnJ5UFZBbXdn?oc=5",
-      "publishedAt": "2026-08-31T10:21:13.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Sua placa está sendo escaneada em toda a região do Triângulo",
-      "titleOriginal": "Your license plate is being scanned across the Triangle",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnNvcDlMeEtIZ0dvUF83ZGNUaHFsUlRIdjZuOWMzXzFHTHZtS2pCUEQ3dnprOEwzTnhpWTBONTduSzk4eWFKTkVQemh1OUo5bzdGQ0owNko3RXN6S01ZcHgwV2hSRFB0aWNBYlFEeFl4alFydEt1YXNZQ0Ywa3Y2Y2hiVktReERmYjlQRWxVdE1UZjBfa3pqVF8zQVhzdw?oc=5",
-      "publishedAt": "2026-08-31T10:20:13.000Z"
+      "title": "A política da era Trump está remodelando o cenário dos encontros amorosos em Richmond",
+      "titleOriginal": "Trump-era politics reshape dating in Richmond",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVpIX1dwbEpOQ3Y5S1ZSeXpCTGo4V1JSNTl0WFJxcWZ0QzM2QlVKemZ0Qnpyamx4R2RRaFJ5eUJWU0xEZTJ1OV9nUEZIcUU1dEp3ZmF4UDB4bHNKLVp2WThaWFpoRElEMm1rOHNnVDg4aWlpVDZGdWVqc05qeVVmYmlqdTdXcmFjam1LRE9OUQ?oc=5",
+      "publishedAt": "2026-08-31T10:20:52.000Z"
     },
     {
       "source": "Axios",
       "title": "As tarifas de Trump causam prejuízo de US$ 11 bilhões a Ohio",
       "titleOriginal": "Trump tariffs take $11 billion toll on Ohio",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclIzSE84bDNQaC1LWVE4czd1TW0yaF9ySGRPM1J4a2ZjeTI4YnBmcVJKQjhKV1hiU3lDblVqN1ZsX1FvLVNjckJXMmtCc1RkQTg5N3E3dEVXdmFVX1ExTUo4bTRLdzFfNU1xWXhmbHBKOXlZRDVkWXpqQnVFVVR4OFV1TFU?oc=5",
-      "publishedAt": "2026-08-31T10:20:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "EUA atacam o Irã para impedir a instalação de novas minas marítimas no Estreito de Ormuz",
-      "titleOriginal": "U.S. Strikes Iran to Block New Sea Mines in Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzFTRHR3czhpZC1tNndSR2NXby1TZXFXNkNqN3Uwdk9wd09haDRUcDNjaFVGcF9Jd00tSGFKanhOQ2ZjMkVIbGlzQnlHNVlZaGJCU1A3S3dWVm5GdlRQRjZ2Umk3MUVfSm04ZHl6dkRWMlBGUGJBOWxjWUVhR2NGXy1fcFowb0wzYWZfZGJUb3NRWXd1ODVoejdhSWZUdWgxdVk5bVk2cFdIX1dEdl9PY1J6R29sb1IycFdoQ01MMnpHSkNGUGMxdUhPVTZEQ3JE?oc=5",
-      "publishedAt": "2026-08-31T10:07:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Novo míssil dos EUA parece ter matado civis iranianos longe do local da explosão, segundo relatório de especialistas",
-      "titleOriginal": "New US missile appears to have killed Iranian civilians far from its blast site, expert report says",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
-      "publishedAt": "2026-08-31T10:01:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A reflexão do Partido Republicano sobre o futuro após Trump está ganhando força",
-      "titleOriginal": "GOP soul-searching for life after Trump is ramping up",
-      "link": "https://thehill.com/homenews/senate/6058580-republican-party-future-debate/",
-      "publishedAt": "2026-08-31T10:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Pesquisa AP Top 25",
-      "titleOriginal": "AP Top 25 Poll",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-      "publishedAt": "2026-08-31T09:54:22.000Z"
+      "publishedAt": "2026-08-31T10:20:39.000Z"
     }
   ]
 }
