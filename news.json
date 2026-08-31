@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-31T05:21:34.197Z",
+  "updatedAt": "2026-08-31T05:48:53.291Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, com o impacto do aumento dos preços dos combustíveis",
+      "titleOriginal": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGwyUUI3WGtGV2hsNW92T0VQaEJnbGVpRW9XU3Q2S1UxUmY5YlFrLXFWbDBiQWVibEJjTlpUdlRtYXp5c0FROHI2d3JUb1NWc0Q0RnlPcTRxQUpzNkNiTTBjWmpSY1h4cXV3N1NHVXp0Rmd5NHB3WHhfd2kyOGptVFp3WnRIek95S1Ftcm1tc2NlLUsxNjNZblNFeGtFc1BtV2xVRmxwbkIyWndLdlA1ajRjZUtKN2xzdnNMbUpXNEdGUjFOTEM3dQ?oc=5",
+      "publishedAt": "2026-08-31T05:15:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | O incentivo de US$ 5,5 bilhões que a joint venture de data centers da SoftBank ofereceu para fechar acordo com a OpenAI",
+      "title": "Exclusivo | O incentivo de US$ 5,5 bilhões que a joint venture de data centers da SoftBank ofereceu para garantir a OpenAI",
       "titleOriginal": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
       "publishedAt": "2026-08-31T03:55:00.000Z"
@@ -32,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "Líder supremo do Irã pede união dos muçulmanos contra os EUA e Israel, além de outras notícias do Oriente Médio",
+      "title": "Líder supremo do Irã clama pela unidade muçulmana contra os EUA e Israel, além de outras notícias do Oriente Médio",
       "titleOriginal": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
       "publishedAt": "2026-08-31T02:43:00.000Z"
@@ -45,25 +52,11 @@
       "publishedAt": "2026-08-31T02:00:55.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-31T01:38:00.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
+      "title": "EUA atacam ilha no Estreito de Ormuz; Irã retalia com disparos de mísseis",
       "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
       "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
       "publishedAt": "2026-08-31T01:27:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-31T01:19:20.000Z"
     },
     {
       "source": "The Hill",
@@ -71,6 +64,13 @@
       "titleOriginal": "State Department official says about 85 Americans still missing after Nepal flash flooding",
       "link": "https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods/",
       "publishedAt": "2026-08-31T01:13:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
+      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
+      "publishedAt": "2026-08-31T01:06:00.000Z"
     }
   ]
 }
