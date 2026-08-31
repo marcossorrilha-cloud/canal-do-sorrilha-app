@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-31T15:48:57.488Z",
+  "updatedAt": "2026-08-31T16:21:49.517Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A IA está pressionando o orçamento de TI das empresas",
+      "titleOriginal": "AI Is Putting Pressure on the Corporate IT Budget",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5GUjYteUdFY0RwSjFFeThUbEw0YnRXU0NSSGZBTnVGY0xMZGxjV2xTS3MtWVNaN0lVVmxMRDB2RHRCUFh2VHBQX3NwVkc0bXgxNGFIMjhBczR3cGZDMnlmalJGSVVYZXQ5TmdKSXNvSS1hWHFmWWZqZWRQMFJ3cDF4SzBIcWxfVU9Mb04xOGhUa2Np?oc=5",
+      "publishedAt": "2026-08-31T15:54:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Órgãos de campanha do Partido Republicano pedem que a Suprema Corte intervenha em caso sobre tarifas de anúncios na TV",
+      "titleOriginal": "GOP campaign arms ask Supreme Court to intervene in TV ad rate case",
+      "link": "https://thehill.com/regulation/court-battles/6061170-gop-house-senate-campaign-arms-supreme-court-tv-ad-rates/",
+      "publishedAt": "2026-08-31T15:47:12.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump afirma que as comunidades que se opõem aos centros de dados querem permanecer “atrasadas e pobres”",
@@ -11,38 +25,45 @@
     },
     {
       "source": "AP News",
-      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
+      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para conter a influência dos EUA",
       "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
       "publishedAt": "2026-08-31T15:35:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump afirma que os EUA “vão responder” ao ataque do Irã na Jordânia; Câmara dos Deputados retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
+      "title": "Atualizações em tempo real: Trump afirma que os EUA “vão responder” ao ataque do Irã na Jordânia; Câmara retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
       "titleOriginal": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
       "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
       "publishedAt": "2026-08-31T15:33:40.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
-      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
-      "publishedAt": "2026-08-31T15:28:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um importante banco egípcio é afetado pela ofensiva do Tesouro contra o Irã",
+      "title": "Um importante banco egípcio é atingido pela ofensiva do Tesouro contra o Irã",
       "titleOriginal": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGpiVi1ZdE5JNi1hT25MLXBWOGZMWEpUczRhZG1ySTNqMFBFdVhyN3ViY2EtVlg1SnIxRmNEa28wcU5mMkpTNGhxVEdVT1ItcU1rNDU3OUhOb25fclBOS25Gek1hbUhMcVFidHlaMmdNa2xTSTFpZFZMMDFJZGI1TXY1c1Y4TVg5MEVZdUFNa2l6RWVPSmU1ajhTM0Q4T1BTaDBTVTdRN2hYVm9TZU5n?oc=5",
       "publishedAt": "2026-08-31T15:27:22.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump: Reflecting Pool está “quase totalmente consertado”, com melhorias",
+      "title": "Trump: O Reflecting Pool está “quase totalmente consertado”, com melhorias",
       "titleOriginal": "Trump: Reflecting Pool 'almost completely fixed' with improvements",
       "link": "https://thehill.com/homenews/administration/6061024-trump-reflecting-pool-renovations/",
       "publishedAt": "2026-08-31T15:26:18.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Que a Ucrânia tenha como alvo o arqueiro",
+      "titleOriginal": "Opinion | Let Ukraine Aim for the Archer",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRUdzMWxSM0ZkQWtjOG9iX0dPTkItcXVuQ09aNGNGY0piSHdZbFBCLWphVlE5V0RYQjhQeUFOZVo0NmEzUFNUM3N1R3E1U1Q3YUUyMG8zd19PYkJudktsM0RQOExPLVZmckIybTJLaUhkZUs1bGc?oc=5",
+      "publishedAt": "2026-08-31T15:13:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os drones a jato da Rússia deixam as prateleiras dos supermercados de Kiev vazias e causam apreensão entre os ucranianos",
+      "titleOriginal": "Russia’s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZQQVJveHhwNlBNaWEyb2FLZkxHblJxeVR3YVpEdWJLdTNRYngyWDNyUk1qeWJQQUM4X210bFNLVUMxaGdheVZ1V1hlQ29GME92b1J6aWF5cWJ0ck0wLXJMYnE1MGlPWGJlNXNBVHNXbzRrMEZLejlPTjAyRmg3NHdWbzlkQ1BoX2hvUFhkUkFNVkwzNGd5UlFoblNFZ0JpQkFaaw?oc=5",
+      "publishedAt": "2026-08-31T15:06:00.000Z"
     },
     {
       "source": "AP News",
@@ -50,27 +71,6 @@
       "titleOriginal": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
       "publishedAt": "2026-08-31T15:02:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Califórnia enfrenta a influência do capital de risco sobre os escritórios de advocacia",
-      "titleOriginal": "California takes on private equity influence over law firms",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xOWVmYmlKblhCRVZNYzNuWVdaMFk2U1NidjBibHY2SnNEb1FkWm5yVm00RDdjakdpQThrZ3hNVklpNmtLYWM4SkdHZGMxd2V2bkk5Y1ZDRzh3bU5oZ3haa2IwSXNRUEpwQ2FrVGtmNlhEUXRhYlA0?oc=5",
-      "publishedAt": "2026-08-31T14:41:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Aon vai pagar US$ 17 bilhões pela corretora de seguros USI",
-      "titleOriginal": "Aon paying $17 billion for insurance brokerage USI",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DcmxxRDVnQWZwVWxvS2hhT2RuZzRpLXllVGpCSnNKZC0xVDFpYkxMRi13QjVOZldVSWJMUWE4X1pOd0dNTkJFZ004U0JOcTZnSHhUNm9qM1R4dXAyRzdRSy1GSElqQQ?oc=5",
-      "publishedAt": "2026-08-31T14:37:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Dolly era mais do que uma voz cristalina",
-      "titleOriginal": "Opinion | Dolly Was More Than a Crystal-Clear Voice",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUdoS2dLTC1aWXlxTXZxUFB4ZDZTUnotcHFxTHJSbkpGQmMwYjQ2d0lMTjNsTjR2bVV3bXAwM2tObGVKaUl3Ymt0N1ZVNGlkZUFUQnp1ZS0zWXBOd0twX2VZY3UtSnFiMUk4MjVyYmdkSUluQjJpczNCS0kxTXdBZmFMbGs?oc=5",
-      "publishedAt": "2026-08-31T14:28:00.000Z"
     }
   ]
 }
