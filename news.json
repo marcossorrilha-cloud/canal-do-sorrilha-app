@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-31T05:48:53.291Z",
+  "updatedAt": "2026-08-31T06:21:40.853Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
+      "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-08-31T06:16:13.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, com o impacto do aumento dos preços dos combustíveis",
+      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, devido ao impacto da alta nos preços dos combustíveis",
       "titleOriginal": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGwyUUI3WGtGV2hsNW92T0VQaEJnbGVpRW9XU3Q2S1UxUmY5YlFrLXFWbDBiQWVibEJjTlpUdlRtYXp5c0FROHI2d3JUb1NWc0Q0RnlPcTRxQUpzNkNiTTBjWmpSY1h4cXV3N1NHVXp0Rmd5NHB3WHhfd2kyOGptVFp3WnRIek95S1Ftcm1tc2NlLUsxNjNZblNFeGtFc1BtV2xVRmxwbkIyWndLdlA1ajRjZUtKN2xzdnNMbUpXNEdGUjFOTEM3dQ?oc=5",
       "publishedAt": "2026-08-31T05:15:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
-      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-      "publishedAt": "2026-08-31T04:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -39,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "Líder supremo do Irã clama pela unidade muçulmana contra os EUA e Israel, além de outras notícias do Oriente Médio",
+      "title": "Líder supremo do Irã pede união dos muçulmanos contra os EUA e Israel, além de outras notícias do Oriente Médio",
       "titleOriginal": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
       "publishedAt": "2026-08-31T02:43:00.000Z"
@@ -52,11 +52,11 @@
       "publishedAt": "2026-08-31T02:00:55.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "EUA atacam ilha no Estreito de Ormuz; Irã retalia com disparos de mísseis",
-      "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
-      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
-      "publishedAt": "2026-08-31T01:27:28.000Z"
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-31T01:19:39.000Z"
     },
     {
       "source": "The Hill",
