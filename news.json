@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-31T00:21:42.280Z",
+  "updatedAt": "2026-08-31T00:49:06.653Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Exclusivo da AP: Treinadores dos EUA orientam as forças polonesas em um exercício focado em drones, com base nas lições aprendidas na Ucrânia",
+      "titleOriginal": "AP Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
+      "publishedAt": "2026-08-31T00:25:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a agenda política de Trump se reflete em um tribunal federal, no Texas",
+      "titleOriginal": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
+      "publishedAt": "2026-08-31T00:21:26.000Z"
+    },
     {
       "source": "AP News",
       "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
@@ -17,6 +31,20 @@
       "publishedAt": "2026-08-30T23:40:07.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Prefeito de Nova York enfrenta a Amazon",
+      "titleOriginal": "New York Mayor Faces Off Against Amazon",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHRKOGxLanRKMTJIazZ4aXhRMG9fcU03NzFhZFdNQlVFNjJpcjhoeTdwcWdaOWhFS3p3VjV1Uk9QVnFjWVZwVUZYX3VFU3V2TXVVaVNiaURyRkV5NXVDbm9JTW92OVJiUW1ZMERKaXFHOXlYZWJvYXNXSDVya0NpVDExRlRPNjBmbmZNRFpR?oc=5",
+      "publishedAt": "2026-08-30T23:38:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA planejam aplicar sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
+      "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+      "publishedAt": "2026-08-30T23:30:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
       "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
@@ -25,14 +53,14 @@
     },
     {
       "source": "AP News",
-      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, depois que Trump ordenou a mudança de nome",
+      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
       "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
       "publishedAt": "2026-08-30T22:39:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os eleitores islandeses rejeitam uma proposta para retomar as negociações de adesão à União Europeia",
+      "title": "Os eleitores islandeses rejeitam uma proposta para retomar as negociações com vista à adesão à União Europeia",
       "titleOriginal": "Icelandic voters reject a proposal to restart negotiations to join the European Union",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
       "publishedAt": "2026-08-30T22:37:00.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "DHS denies reports of torture, beatings and medical neglect in ICE detention",
       "link": "https://thehill.com/homenews/administration/6060034-dhs-denies-ice-abuse-report/",
       "publishedAt": "2026-08-30T22:01:29.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA planejam aplicar sanções a outro banco em um esforço para coibir as transações com o Irã, afirma Bessent à AP",
-      "titleOriginal": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
-      "publishedAt": "2026-08-30T21:52:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
-      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-08-30T21:39:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Postos de gasolina da rede Freedom Fuel vendiam combustível roubado, alega ação judicial",
-      "titleOriginal": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
-      "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
-      "publishedAt": "2026-08-30T21:20:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Centenas de pessoas comparecem para julgar o concurso de sósias do prefeito de Nova York, Zohran Mamdani",
-      "titleOriginal": "Hundreds show up to judge New York City Mayor Zohran Mamdani look-alike contest",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelhRZ3NYWGFRUWtubURMamEtTFljX2ViMWJZc1MzS3hJdVF6dWRmdlpNWEdTSVZEWGltbmdKbEw4Z1B5UHFRWG5jaXRIeXF1dVJ0Mk1RRWx1VVZaWDNuSFY5SHY0OGxiRW1sVndPUU5LQ2J4azFDeXk3dzdGOU92ZHN5OWNGWjRfOXNoTHRmLWF4UEZUQ19iM3Jn?oc=5",
-      "publishedAt": "2026-08-30T21:00:00.000Z"
     }
   ]
 }
