@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-08-31T21:21:46.602Z",
+  "updatedAt": "2026-08-31T21:49:03.590Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A sueca Boliden vai adquirir participação majoritária na produtora de zinco Nexa Resources por US$ 1,3 bilhão",
+      "titleOriginal": "Sweden’s Boliden to Buy Majority Stake in Zinc Producer Nexa Resources for $1.3 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjNJN0E5N3BZLUR2V3NTbmMxQzFzV0ljUlNiZS1OQ25yLWdkOTJlQTJ2VXlkQXVFdFQzdkNMUUpvR3ZhUVI0WnRqOEY4aUprbzVkVU5wbDlzaWh0SkY2a19rMXlyclBiVUp5ZVlfaFFzYk84TlJxT01MSUNZNHJkZFIwajJSVFo2UHpiOEFFRUI3dmZlaUZXTTc4U0Y5ZV9jNlR4QnBjNUdzVzZZRFVrMExHcklQa0ZlaktKOEtjc3VVdVZhbkVnUA?oc=5",
+      "publishedAt": "2026-08-31T21:36:46.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "A FTC e 22 estados entram com ação contra a Amazon por práticas publicitárias enganosas",
+      "title": "Mais nove laboratórios farmacêuticos fecharam acordos sobre preços com Trump",
+      "titleOriginal": "Nine more drugmakers cut pricing deals with Trump",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTkxMRTk1TUIwc09fZXM1S1NsVHJKUWk4aWhBanU1V3FpSmpUbnJLemtreWdwVS1JWms4c3p4dDladDdMd1FzMWl0YlJ4VDUwWFYyVWlORkFmRXNBRWl1OEM0UHYtajhobzZZ?oc=5",
+      "publishedAt": "2026-08-31T21:26:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz federal adia processo judicial sobre a mifepristona até depois das eleições de meio de mandato",
+      "titleOriginal": "Federal judge delays a mifepristone lawsuit until after midterms",
+      "link": "https://thehill.com/policy/healthcare/6062042-judge-pauses-mifepristone-lawsuit/",
+      "publishedAt": "2026-08-31T21:24:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed: Se você está iniciando uma guerra comercial com o Canadá, “você é o idiota”",
+      "titleOriginal": "El-Sayed: If you're starting a trade war with Canada, 'you're the a‑‑hole'",
+      "link": "https://thehill.com/homenews/campaign/6062022-el-sayed-slams-canada-trade-war/",
+      "publishedAt": "2026-08-31T21:21:31.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Bessent se reuniu com seu homólogo russo no G20",
+      "titleOriginal": "Bessent met with Russian counterpart at G20",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpVMTBoMkRpM1FZUHdxNkdsOWtDZllfelJJTjhnNS1ydEhWclBmMnBHcDZIUWpFRVF6T2VvZlFxaXd5TGF3a0RacFNRR25kQXBWaURXaERiR0VWeGN1QmJhZzlRZkxOaVE?oc=5",
+      "publishedAt": "2026-08-31T21:21:19.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A FTC e 22 estados processam a Amazon por práticas publicitárias enganosas",
       "titleOriginal": "FTC, 22 states sue Amazon over deceptive advertising practices",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sNmxBYVdLa0x6SmM4QU1fM2tXMEI3MW10cEtqTXEzRklrZm9md2hsY3hkMG9yWjh2bmxmLU12RGxwLXNHZGE3SzNEUlZBY09KbGJPdFlLUVNwd1dUbVlpd2dLTkplV3d6ZTFqQ3dDczFpdkVEb21EUlYzRmFNZw?oc=5",
       "publishedAt": "2026-08-31T21:19:54.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Trump approval dips to new low as Iran war weighs on support: Poll",
       "link": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
       "publishedAt": "2026-08-31T20:52:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bessent afirma que o Canadá é pequeno demais para travar uma guerra comercial com os EUA",
-      "titleOriginal": "Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html",
-      "publishedAt": "2026-08-31T20:47:50.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "São Francisco reformula a forma como contrata serviços para pessoas em situação de rua",
-      "titleOriginal": "San Francisco overhauls how it contracts for homelessness services",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VScVNRLThCTkx4d0pkSWJhXzVlbUpkWlIwdUdUTGgyNlJkam13MVpZNFZjNV9UamlIWHBJUndmTHl5RzNxWEYtNUQ5T1hEQXJNdTU0dzJJQlVqQlo4RnZua0JpM2kwSTdXd1plRnJvVk9TWEloVUdwRUtJWG9DX3FpNEZZZ2VSd1hOLWZWNUpjZ09iTEJRd2xITFVHWE40ZWc2U3RXRF9SalNyQWtmb2NB?oc=5",
-      "publishedAt": "2026-08-31T20:41:54.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
-      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-      "publishedAt": "2026-08-31T20:41:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jeffries manifesta “sérias preocupações” com o projeto de lei de sanções contra a Rússia aprovado pelo Senado",
-      "titleOriginal": "Jeffries voices ‘serious concerns’ with Senate-passed Russian sanctions bill",
-      "link": "https://thehill.com/homenews/house/6061998-jeffries-russia-sanctions-bill-concerns/",
-      "publishedAt": "2026-08-31T20:40:16.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Suprema Corte autoriza a continuação da construção do salão de festas de Trump",
-      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
-      "publishedAt": "2026-08-31T20:37:30.000Z"
     }
   ]
 }
