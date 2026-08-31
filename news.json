@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-31T18:49:05.711Z",
+  "updatedAt": "2026-08-31T19:21:39.666Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump anuncia nova política de preços para medicamentos sujeitos a receita médica; Câmara dos Deputados retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
+      "titleOriginal": "Live updates: Trump announces new prescription drug pricing; House returns with shutdown bill on tap",
+      "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
+      "publishedAt": "2026-08-31T19:19:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent sobre a guerra comercial com o Canadá: Carney “optou por se afastar” de um acordo",
+      "titleOriginal": "Bessent on trade war with Canada: Carney ‘chose to walk away’ from a deal",
+      "link": "https://thehill.com/business/6061661-bessent-slams-carney-trade/",
+      "publishedAt": "2026-08-31T19:17:15.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
+      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "publishedAt": "2026-08-31T19:11:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump está usando as acusações de antissemitismo como pretexto para arrecadar dinheiro",
+      "titleOriginal": "Trump is using antisemitism claims as a pretext for a cash-grab",
+      "link": "https://thehill.com/opinion/white-house/6061568-title-vi-investigations-college-funding/",
+      "publishedAt": "2026-08-31T19:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Primeiro-ministro espanhol acusa Israel e a Rússia de espalhar desinformação sobre a crise dos migrantes em Ceuta",
+      "titleOriginal": "Spanish prime minister points finger at Israel, Russia disinformation over Ceuta migrant crisis",
+      "link": "https://thehill.com/policy/international/6061529-spain-russia-israel-morocco-ceuta-migrant-crisis/",
+      "publishedAt": "2026-08-31T18:51:55.000Z"
+    },
     {
       "source": "Axios",
       "title": "O governo Trump testa ferramentas cibernéticas e de inteligência artificial para proteger os sistemas de abastecimento de água do Texas",
       "titleOriginal": "Trump administration tests cyber and AI tools to secure Texas water systems",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Qclp0d1RJX2RmOEgtMGxBM09tNWFfRV8zOHNTeFVfM3drNWJ2VzJrem0taFZINUV1T1dTTUVvbHZNcENob1AwLTMwanpLc2VLM0xjeGJWQW1pLTNvVmc3YkZSbGVHMF9xbXp1WmNKTWdZak1PYlU5Zw?oc=5",
-      "publishedAt": "2026-08-31T18:46:55.000Z"
+      "publishedAt": "2026-08-31T18:46:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Westinghouse Electric quer aproveitar o renascimento da energia nuclear para abrir o capital",
+      "titleOriginal": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPODd2VmFmT0xiYkRYTmtsaldiTlBJbWlsdUFmV2JrMnVHaXU0MzhQczBPOG00YVVLdGdiT0hFQU45QlI4bE0wSXNZOUtscjdCalVTVEpvUTVSOHA2X3otS0dLZ3lHRV9IVDVzOGlFU2FDQ2YtTWdVdVlsa0xvdDhpM2VjR3kzYnFIT0RPcFpudTNjcTNGQm14TldmeHZIdVJIZTRZQ0hSTndvRVc3LS1xRkJIQ3hSQzl6b0E?oc=5",
+      "publishedAt": "2026-08-31T18:35:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump leva sua campanha do “Lake America” à Apple",
+      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
+      "publishedAt": "2026-08-31T18:34:27.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Serão os republicanos que pagarão pelo impacto das tarifas de Trump nas eleições de meio de mandato",
-      "titleOriginal": "Republicans will be the ones who pay for Trump’s tariffs in the midterms",
+      "title": "Os republicanos vão arcar com o custo das tarifas de Trump nas eleições de meio de mandato",
+      "titleOriginal": "Republicans will pay for Trump’s tariffs in the midterms",
       "link": "https://thehill.com/opinion/campaign/6061519-gop-vulnerable-trade-war-costs/",
       "publishedAt": "2026-08-31T18:30:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "\"Que os dados reinem\": Trump e investidores em IA lançam campanha para salvar os data centers",
-      "titleOriginal": "\"Let data reign\": Trump and AI investors wage campaign to save data centers",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YZXpaY0VNV3gyamlnM1ZjZTZCZ1FzbkNPY3lwZE50U1JZeHN6SEdOVVkxZ0Rtb2R4NUVhMEFxVFd4V3lUR3ZrSXZ6cVZPU3hYVVF1Y3hLOGYzRHNseFZSYjlGcXpsZVR1TnlkSkFTa3JhYUpwR0ktYmxydmg?oc=5",
-      "publishedAt": "2026-08-31T18:26:23.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump continua atacando as repórteres",
-      "titleOriginal": "Trump keeps turning his fire on female reporters",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwZVZqYkRfY3k5d2IzVVFFRVl3VFBnckFLSXM3VFloVXQwbHkwTWRadG5NRDBJSDVBeXVjRUlLa2NfX1JQWWFnU3hOMDJZT2FmVGVKY1A1aDNFN3F5VDYyT1BvMVFja0pJNGo2c2s1Vzk5Q3dtQzhN?oc=5",
-      "publishedAt": "2026-08-31T18:12:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Kalshi suspende candidato republicano à Câmara dos Deputados na Carolina do Norte por ter apostado em sua própria campanha",
-      "titleOriginal": "Kalshi suspends GOP House candidate in North Carolina for betting on own race",
-      "link": "https://thehill.com/policy/technology/6061531-kalshi-prediction-market-ban-laurie-buckhout-north-carolina-gop-house-race/",
-      "publishedAt": "2026-08-31T18:08:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump leva sua campanha do “Lake America” para a Apple",
-      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
-      "publishedAt": "2026-08-31T18:07:26.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump avalia ataques limitados contra o Irã para conter os ataques no Estreito de Ormuz",
-      "titleOriginal": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5",
-      "publishedAt": "2026-08-31T18:07:25.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Quer ser governador do Colorado por um dia? Esta é a sua chance.",
-      "titleOriginal": "Want to be Colorado's governor for a day? Here's your chance.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb040eXZXWVlraXZVWEtZVThaTmp2NXAya2MwU3FfbE9OSFFPWDhXRHA5a0p1RGZkMzFVNnpnT2ZzcUdHaHVsNERSY01VOFNPOFVvZHcwZXp4MkxWVE1jNHphczgwSU9pekV1NGlBRXBtWEJPWk8xV0RMbHU1V0FSTFVLS0Mtc3l4Z21VOGJn?oc=5",
-      "publishedAt": "2026-08-31T18:04:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | FTC entrará com ação judicial alegando que a Amazon enganou anunciantes",
-      "titleOriginal": "Exclusive | FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
-      "publishedAt": "2026-08-31T18:00:00.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Israel ajudará a Grécia a construir um escudo de defesa aérea em um acordo histórico de armas",
-      "titleOriginal": "Israel to help Greece build an air defense shield in a landmark weapons deal",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVRsTDYxbHY3RXdBbjMxWUdrRWNsR2hxLUI1THlkRHV2SXVsaGJMOXVpNGpoQUh4UmFLVVIwRHkyZlFObjFsVndNN2VxUE51ZlVjd0ZPV09IODdRelJSZzhiU2d0VjY4dVJxWW0xTGRaXzJ3VHpJZExZR0FKZmZRZEs2V1RkUTFBSzBSQ1hOQQ?oc=5",
-      "publishedAt": "2026-08-31T17:57:00.000Z"
+      "title": "A Kalshi suspende o ex-deputado federal George Santos por tempo indeterminado após concluir que ele provavelmente cometeu uso de informação privilegiada",
+      "titleOriginal": "Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVdJU1NFR2h5RnRyMWw3T2FSTWliZDV5T0d1ZEFFeXhDanJJd2RLZTFuam5BNUx4LXNQN0RTQVpWZXc1dmk2UWhXZU1zUFRGejZPU3ZsR0dkdU5wT1JsNl9sRGlvcU5vR0Y5VWdpX09URjdLRlBmZEpCLVJxb21leUU1NWczODJ0dVVjX1JMWFpnV3RjNmhDbA?oc=5",
+      "publishedAt": "2026-08-31T18:29:00.000Z"
     }
   ]
 }
