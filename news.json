@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-31T23:21:38.962Z",
+  "updatedAt": "2026-08-31T23:48:52.984Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump zomba dos que se opõem aos centros de dados, dizendo que eles querem continuar “atrasados e pobres”",
+      "titleOriginal": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
+      "publishedAt": "2026-08-31T23:30:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+      "publishedAt": "2026-08-31T23:27:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
+      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "publishedAt": "2026-08-31T23:25:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Suprema Corte autoriza a continuação da construção do salão de festas de Trump",
+      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
+      "publishedAt": "2026-08-31T23:09:18.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Não parece provável que os eleitores da MAHA sejam o impulso do Partido Republicano nas eleições de meio de mandato",
@@ -18,17 +46,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A “Ham and Cheese House” de Palm Beach chega ao mercado por US$ 105 milhões",
+      "title": "Exclusivo | A “Ham and Cheese House” de Palm Beach é colocada à venda por US$ 105 milhões",
       "titleOriginal": "Exclusive | Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVN3YUk1YW9teU8yOFNMR1R4cmVCaFlZcE1ZbEZBVTNCU291LUozdkF6VDJQQUFUUXZZOG8zdU5WelNoeEVPNlhZTDNReW9teXNUdDhLd052bGd2VGhXMUlEUnFZU2ltb1A3UEd5Sm9FTEVKM0xGRzFZenctWVR5QVZYNVNRSi1xTkk0aG1B?oc=5",
       "publishedAt": "2026-08-31T22:45:29.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O secretário do Exército, Dan Driscoll, renuncia ao cargo",
-      "titleOriginal": "Army Secretary Dan Driscoll resigns from post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
-      "publishedAt": "2026-08-31T22:39:44.000Z"
     },
     {
       "source": "The Hill",
@@ -38,39 +59,18 @@
       "publishedAt": "2026-08-31T22:33:40.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Secretário do Exército renuncia após meses de atritos com Hegseth",
+      "titleOriginal": "Exclusive | Army Secretary Resigns After Months of Friction With Hegseth",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGFjUVNrMWRBOVdMdWRZdzNtNEpvNTVIWkh3dWFfcXc1akI2aWYySmJVOFg2bWh0a1pjdzM0VE9WNjlOaWhscnFGaUZwNWp0TFV4aDZOQ2FVb2pFd1YtajVLVDJpcjJuajZYY2k3SnBIUmRjNFpTY2tQbnhrZWtWNlNNdkMwR1NEZG5JZGIwd0pLUk5tZU9VY2NwOHFndm9mZFY3RkJDVE5ZRW9tdF9yZjNqNzczSTA?oc=5",
+      "publishedAt": "2026-08-31T22:23:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Scott Brown era uma estrela do Partido Republicano. Isso terá importância na disputa pelo Senado em New Hampshire?",
       "titleOriginal": "Scott Brown Was a GOP Star. Will It Matter in the New Hampshire Senate Race?",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/new-hampshire-senate-scott-brown.html",
       "publishedAt": "2026-08-31T22:17:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Receita proveniente de auditorias do IRS despencou durante o governo Trump, apura órgão de fiscalização",
-      "titleOriginal": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
-      "link": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
-      "publishedAt": "2026-08-31T22:12:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pentágono assina contratos de 7 anos para impulsionar a produção de interceptores",
-      "titleOriginal": "Pentagon inks 7-year deals to bolster interceptor production",
-      "link": "https://thehill.com/newsletters/defense-national-security/6062154-pentagon-inks-deals-bolster-interceptor-production/",
-      "publishedAt": "2026-08-31T22:10:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente do Supremo discorda sobre a construção do salão de festas: “Não é uma vitória para a separação de poderes”",
-      "titleOriginal": "Chief justice dissents on ballroom construction: 'No victory for separation of powers'",
-      "link": "https://thehill.com/regulation/court-battles/6062155-roberts-white-house-ballroom-dissent/",
-      "publishedAt": "2026-08-31T22:01:55.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Aliados de Paxton lançam campanha publicitária de US$ 15 milhões",
-      "titleOriginal": "Paxton allies launch $15 million ad campaign",
-      "link": "https://www.politico.com/news/2026/08/31/ken-paxton-ad-campaign-01057911",
-      "publishedAt": "2026-08-31T21:55:45.000Z"
     }
   ]
 }
