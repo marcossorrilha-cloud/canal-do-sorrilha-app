@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-31T01:21:58.075Z",
+  "updatedAt": "2026-08-31T01:48:54.641Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
+      "titleOriginal": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
+      "publishedAt": "2026-08-31T01:38:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
+      "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-08-31T01:27:28.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após as enchentes repentinas no Nepal",
+      "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após enchentes repentinas no Nepal",
       "titleOriginal": "State Department official says about 85 Americans still missing after Nepal flash flooding",
       "link": "https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods/",
       "publishedAt": "2026-08-31T01:13:13.000Z"
     },
     {
       "source": "AP News",
-      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia à Ucrânia neste ano",
+      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
+      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
+      "publishedAt": "2026-08-31T01:06:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O número de mortos sobe para 38 no ataque mais mortal da Rússia contra a Ucrânia neste ano",
       "titleOriginal": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
       "publishedAt": "2026-08-31T00:30:00.000Z"
@@ -31,20 +52,6 @@
       "publishedAt": "2026-08-31T00:21:26.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-30T23:41:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
-      "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
-      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
-      "publishedAt": "2026-08-30T23:40:07.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Prefeito de Nova York entra em confronto com a Amazon",
       "titleOriginal": "New York Mayor Faces Off Against Amazon",
@@ -59,18 +66,11 @@
       "publishedAt": "2026-08-30T23:30:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-30T23:11:03.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O Lago Ontário agora é chamado de Lago América no Google Maps para usuários dos EUA, após Trump ter ordenado a mudança de nome",
-      "titleOriginal": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-      "publishedAt": "2026-08-30T22:39:00.000Z"
+      "title": "Trump afirma que estará presente na Presidents Cup, em Medinah, na qualidade de presidente de honra",
+      "titleOriginal": "Trump says he’ll be at the Presidents Cup at Medinah as the honorary chairman",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHUxY2N1Tmprc0t1M2FtOTZhbEp4SW9HQWJpRFFRZWU3LTVrQzJobXpXOWp0UERBNTJEd182UFN5ckFmSmNiS3NLbk5SVDJxZGVpNTYyekxPNDlLRl9hd194SEdVbF9jejZzclZZSUo2ZlVaMWtROVM1eGQ3VmlMenJ5ekd5MEVaODhHWkZHWjBCTEpJamtfbGYxTG55d1FhTFBLQ0drOA?oc=5",
+      "publishedAt": "2026-08-30T23:16:00.000Z"
     }
   ]
 }
