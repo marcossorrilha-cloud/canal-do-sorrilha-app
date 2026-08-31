@@ -1,13 +1,69 @@
 {
-  "updatedAt": "2026-08-31T20:21:37.064Z",
+  "updatedAt": "2026-08-31T20:48:55.075Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "São Francisco reformula a forma como contrata serviços para pessoas em situação de rua",
+      "titleOriginal": "San Francisco overhauls how it contracts for homelessness services",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VScVNRLThCTkx4d0pkSWJhXzVlbUpkWlIwdUdUTGgyNlJkam13MVpZNFZjNV9UamlIWHBJUndmTHl5RzNxWEYtNUQ5T1hEQXJNdTU0dzJJQlVqQlo4RnZua0JpM2kwSTdXd1plRnJvVk9TWEloVUdwRUtJWG9DX3FpNEZZZ2VSd1hOLWZWNUpjZ09iTEJRd2xITFVHWE40ZWc2U3RXRF9SalNyQWtmb2NB?oc=5",
+      "publishedAt": "2026-08-31T20:41:54.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
+      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "publishedAt": "2026-08-31T20:41:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Suprema Corte dá ganho de causa a Trump no processo sobre o salão de festas; Câmara retoma os trabalhos com projeto de lei sobre a paralisação do governo em pauta",
-      "titleOriginal": "Live updates: Supreme Court backs Trump in ballroom suit; House returns with shutdown bill on tap",
-      "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
-      "publishedAt": "2026-08-31T20:15:22.000Z"
+      "title": "Jeffries manifesta “sérias preocupações” em relação ao projeto de lei de sanções contra a Rússia aprovado pelo Senado",
+      "titleOriginal": "Jeffries voices ‘serious concerns’ with Senate-passed Russian sanctions bill",
+      "link": "https://thehill.com/homenews/house/6061998-jeffries-russia-sanctions-bill-concerns/",
+      "publishedAt": "2026-08-31T20:40:16.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Suprema Corte autoriza a continuação da construção do salão de festas de Trump",
+      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
+      "publishedAt": "2026-08-31T20:37:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz autoriza a alimentação forçada do acusado de ter atirado contra a Guarda Nacional",
+      "titleOriginal": "Judge allows forced feeding of accused National Guard shooter",
+      "link": "https://thehill.com/regulation/court-battles/6061919-judge-authorizes-bop-force-feeding-rahmanullah-lakanwal/",
+      "publishedAt": "2026-08-31T20:32:04.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
+      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+      "publishedAt": "2026-08-31T20:28:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A chefe da Unidade de Direitos Civis do Departamento de Justiça entra em confronto com Harvard, a esquerda e seus colegas",
+      "titleOriginal": "Leader of DOJ’s Civil Rights Unit Spars With Harvard, the Left and Her Colleagues",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/harmeet-dhillon-doj-trump.html",
+      "publishedAt": "2026-08-31T20:26:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sobre os rumores de uma candidatura de Hegseth em 2028: “É muito cedo para falar sobre isso”",
+      "titleOriginal": "Trump on talk of Hegseth 2028 run: 'It's very early to talk about that'",
+      "link": "https://thehill.com/homenews/administration/6061917-trump-dismisses-hegseth-2028-run/",
+      "publishedAt": "2026-08-31T20:23:55.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Kalshi suspende candidata republicana à Câmara por ter apostado em sua própria campanha",
+      "titleOriginal": "Kalshi Suspends Republican House Candidate for Betting on Her Own Race",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/house-candidate-kalshi-gambling.html",
+      "publishedAt": "2026-08-31T20:15:02.000Z"
     },
     {
       "source": "Axios",
@@ -15,62 +71,6 @@
       "titleOriginal": "Inside Lawrenceville's new Second Story Spirits",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRktwdzJaRXMxWk1zRndkT3dPY0FqMEFYNVVnWkpjTU4tT0VIUHBtSEltdUlJNFNHcUhHT1o0R2xFNnpqRXFHTGtOcDVWNGxMUFNla2NqR19DNUVkNkgxVFBkWnppcmRXeEIxaVljQmJBMm9ZR2pTR19mT25zR0FLMThzUENlUHZCWUh0UmRTeGtLVkZTTTBqZ2d3?oc=5",
       "publishedAt": "2026-08-31T20:11:37.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
-      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-      "publishedAt": "2026-08-31T20:06:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump anuncia acordos sobre preços de medicamentos do Medicaid com nove empresas",
-      "titleOriginal": "Trump announces Medicaid drug pricing deals with 9 firms",
-      "link": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
-      "publishedAt": "2026-08-31T20:02:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Centenas de pessoas podem estar presas em túneis de usinas hidrelétricas, enquanto o número de mortos pelas enchentes ultrapassa 950 no Nepal e na China",
-      "titleOriginal": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-      "publishedAt": "2026-08-31T20:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance chama El-Sayed de “muito, muito malvado”",
-      "titleOriginal": "Vance calls El-Sayed 'very, very evil'",
-      "link": "https://thehill.com/homenews/administration/6061819-vance-calls-el-sayed-evil/",
-      "publishedAt": "2026-08-31T19:56:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono adota o Grok e o ChatGPT para uso militar",
-      "titleOriginal": "Pentagon brings on Grok and ChatGPT for military use",
-      "link": "https://thehill.com/policy/defense/6061714-pentagon-adds-grok-chatgpt-ai/",
-      "publishedAt": "2026-08-31T19:30:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Receita proveniente de auditorias do IRS despencou durante o governo Trump, aponta órgão de fiscalização",
-      "titleOriginal": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
-      "link": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
-      "publishedAt": "2026-08-31T19:29:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
-      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-      "publishedAt": "2026-08-31T19:24:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump se reunirá com refinarias de petróleo em meio à persistência dos preços da gasolina",
-      "titleOriginal": "Trump to meet with oil refiners amid stubborn gas prices",
-      "link": "https://thehill.com/policy/energy-environment/6061687-trump-refineries-capacity-gas-prices-iran/",
-      "publishedAt": "2026-08-31T19:22:12.000Z"
     }
   ]
 }
