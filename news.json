@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:21:48.140Z",
+  "updatedAt": "2026-08-31T03:48:54.006Z",
   "count": 10,
   "items": [
     {
@@ -8,6 +8,13 @@
       "titleOriginal": "Trump hails NASA's space telescope launch",
       "link": "https://thehill.com/policy/transportation/6060316-trump-praises-nasa-roman-launch/",
       "publishedAt": "2026-08-31T03:02:39.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Líder supremo do Irã clama pela unidade muçulmana contra os EUA e Israel, além de outras notícias do Oriente Médio",
+      "titleOriginal": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
+      "publishedAt": "2026-08-31T02:43:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -24,13 +31,6 @@
       "publishedAt": "2026-08-31T01:56:43.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os EUA atacam lançadores de foguetes iranianos no Estreito de Ormuz, na primeira ação militar em semanas",
-      "titleOriginal": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-      "publishedAt": "2026-08-31T01:38:00.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
       "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
@@ -38,15 +38,8 @@
       "publishedAt": "2026-08-31T01:27:28.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
-      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "publishedAt": "2026-08-31T01:18:00.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após enchentes repentinas no Nepal",
+      "title": "Autoridade do Departamento de Estado afirma que cerca de 85 americanos continuam desaparecidos após as enchentes repentinas no Nepal",
       "titleOriginal": "State Department official says about 85 Americans still missing after Nepal flash flooding",
       "link": "https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods/",
       "publishedAt": "2026-08-31T01:13:13.000Z"
@@ -59,8 +52,15 @@
       "publishedAt": "2026-08-31T01:06:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Os EUA atacam o Irã para impedir a ameaça de minas no Estreito de Ormuz",
+      "titleOriginal": "U.S. strikes Iran to prevent Hormuz mine threat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
+      "publishedAt": "2026-08-31T00:48:05.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Plano para reduzir o número de seções eleitorais em um importante condado do Texas gera protestos à medida que a disputa pelo Senado se aproxima",
+      "title": "Plano para reduzir o número de seções eleitorais em um importante condado do Texas gera protestos com a aproximação da disputa pelo Senado",
       "titleOriginal": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGZlT2ktUGhpX2hYdG00bmxpRkFjSHdnS0NYZHFwNkxLX0ZBM3YyOGJyYkxnV1BzTEV1NEp2YTZtMVp0OXAybHBIaGhYZFZaSmtPSXVtVnNnaXo5NFdmamg0TUZTSGRCZVlScEVvRldxNTRIaTdxUU1oRzF2cXJqaXkySE01OGdlREhrc3I5NFZxZWFkTkIwTFNxYk9oUFBEcHRjYQ?oc=5",
       "publishedAt": "2026-08-31T00:44:00.000Z"
