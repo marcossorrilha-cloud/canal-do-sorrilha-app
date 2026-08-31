@@ -1,24 +1,31 @@
 {
-  "updatedAt": "2026-08-31T07:21:47.705Z",
+  "updatedAt": "2026-08-31T07:48:58.379Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Guerra no Irã",
+      "titleOriginal": "Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "publishedAt": "2026-08-31T07:44:39.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "EUA atacam ilha no Estreito de Ormuz; Irã retaliam com disparos de mísseis",
+      "title": "EUA atacam ilha no Estreito de Ormuz; Irã revida com disparos de mísseis",
       "titleOriginal": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
       "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
       "publishedAt": "2026-08-31T06:16:13.000Z"
     },
     {
       "source": "AP News",
-      "title": "Uma eleição que está por vir pode eleger o primeiro governador estadual de extrema direita da Alemanha moderna",
+      "title": "Uma eleição que ocorrerá em breve poderá eleger o primeiro governador estadual de extrema direita da Alemanha moderna",
       "titleOriginal": "An upcoming election could produce modern Germany’s 1st far-right state governor",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzY5X1dxX0tER2FYbVprM0VwVHlCU3RWUWVVRTZrMzR5d0N6ZXRHWGRjMW1yTE1JVmJub3JRUHFFY1ZFcU9BamV3aUtteUpVN01oYkVWSUVLdHJqRkRkVFdWcXhwbkFzMnk0ZWRaN1UxS3RyQXQxeUdOektqM1REbUUtTE5GR2dvYURQZEd2b01ZckJkS0dmVG13VVdnTURjYzI2THd5OA?oc=5",
       "publishedAt": "2026-08-31T05:17:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, à medida que o impacto do aumento dos preços dos combustíveis se faz sentir",
+      "title": "As maiores companhias aéreas da China registram prejuízo superior a US$ 1 bilhão no primeiro semestre, à medida que o impacto do aumento nos preços dos combustíveis se faz sentir",
       "titleOriginal": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGwyUUI3WGtGV2hsNW92T0VQaEJnbGVpRW9XU3Q2S1UxUmY5YlFrLXFWbDBiQWVibEJjTlpUdlRtYXp5c0FROHI2d3JUb1NWc0Q0RnlPcTRxQUpzNkNiTTBjWmpSY1h4cXV3N1NHVXp0Rmd5NHB3WHhfd2kyOGptVFp3WnRIek95S1Ftcm1tc2NlLUsxNjNZblNFeGtFc1BtV2xVRmxwbkIyWndLdlA1ajRjZUtKN2xzdnNMbUpXNEdGUjFOTEM3dQ?oc=5",
       "publishedAt": "2026-08-31T05:15:00.000Z"
@@ -32,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "IA e robótica impulsionam um boom de aberturas de capital na China, com a Shein abrindo o capital em Hong Kong",
+      "title": "IA e robótica impulsionam um boom de aberturas de capital na China, com a Shein entrando na bolsa de Hong Kong",
       "titleOriginal": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
       "publishedAt": "2026-08-31T04:11:00.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Por dentro da revolta de 24 horas que ameaçou a junta governante do Níger e como as forças russas intervieram",
+      "title": "Por dentro do motim de 24 horas que ameaçou a junta governante do Níger e como as forças russas intervieram",
       "titleOriginal": "Inside the 24-hour mutiny that threatened Niger’s ruling junta and how Russian forces intervened",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhlbzN1NlZndFNlU3RsSFZsQ3MzX1BzUlI3ZVN2NmRXejRfVnJNcldBZFFGeUFyRVpxOFR6bG9vdlJMWlVOcmxqd3ZFWHEwZGJVemZJVVBmN0tGLVNlaFBOWXZnZ1EyRzBySXZIVy1uamNGc3BMMUFtOFItUzZUTEhEbXVxSUtpSlhlV1pRVlBuV3JhNC1Ic3E1NDJkM21KbEtMcTdVZ2gyS3M?oc=5",
       "publishedAt": "2026-08-31T03:20:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump elogia o lançamento do telescópio espacial da NASA",
-      "titleOriginal": "Trump hails NASA's space telescope launch",
-      "link": "https://thehill.com/policy/transportation/6060316-trump-praises-nasa-roman-launch/",
-      "publishedAt": "2026-08-31T03:02:39.000Z"
     }
   ]
 }
