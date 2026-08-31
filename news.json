@@ -1,10 +1,52 @@
 {
-  "updatedAt": "2026-08-31T12:49:00.627Z",
+  "updatedAt": "2026-08-31T13:21:40.234Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Trump promete resposta aos ataques de retaliação do Irã: “Vamos atacá-los com força”",
+      "titleOriginal": "Trump vows response to Iran's retaliatory strikes: 'We're going to hit them hard'",
+      "link": "https://thehill.com/homenews/administration/6060630-us-iran-exchange-strikes/",
+      "publishedAt": "2026-08-31T13:20:10.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Este ano, um número maior de cédulas eleitorais enviadas pelo correio está chegando atrasado e está sendo descartado",
+      "title": "Existem ciclovias que promovem a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
+      "titleOriginal": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
+      "publishedAt": "2026-08-31T13:16:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que não estamos desistindo das pesquisas por telefone",
+      "titleOriginal": "Why We’re Not Hanging Up on Phone Polling",
+      "link": "https://www.nytimes.com/2026/08/31/upshot/times-siena-phone-polling.html",
+      "publishedAt": "2026-08-31T13:15:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent aos líderes financeiros do G20: sejam mais firmes com a China",
+      "titleOriginal": "Bessent to G20 finance leaders: Get tougher on China",
+      "link": "https://thehill.com/business/6060518-bessent-urges-g20-china-rebalance/",
+      "publishedAt": "2026-08-31T13:07:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A alta dívida e a alta dos preços pesam sobre Trump, com a aproximação das eleições de meio de mandato",
+      "titleOriginal": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+      "publishedAt": "2026-08-31T12:56:44.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“As eleições intermediárias menos transparentes”: como o dinheiro sujo está inundando as eleições de 2026",
+      "titleOriginal": "‘The Least Transparent Midterm’: How Dark Money Is Washing Over the 2026 Election",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/the-least-transparent-midterm-how-dark-money-is-washing-over-the-2026-election.html",
+      "publishedAt": "2026-08-31T12:55:31.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Este ano, há mais cédulas de votação por correspondência chegando atrasadas, e elas estão sendo descartadas",
       "titleOriginal": "More Mail Ballots Are Arriving Late This Year, and They’re Getting Tossed",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html",
       "publishedAt": "2026-08-31T12:48:04.000Z"
@@ -24,53 +66,11 @@
       "publishedAt": "2026-08-31T12:29:56.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os republicanos tentam culpar os líderes democratas estaduais pelos efeitos negativos das políticas de Trump",
-      "titleOriginal": "Republicans try to blame state Democratic leaders for negative effects from Trump's policies",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRnVBN0tDZ2RYeGZRQ2FQTXlEaURnMTMtcERGR3p6bjQtMktQWWtFLUZvUHgydkRNNVlMckRjaUZFaDl3MFZzSHNFQU1lWEU2RlljcTVvTWRBdC1NNFhEc1M0dmVPWGFPTG9yTThrTkZOSmJKaHB0WFZWQXhaVkRMQXZmaHJ6cW43SDd3VC1PV3c3SVF4a1NmUzR3dlJXcndMUXBZR2JtR2hqekFxeUEySldoOF9fTDNueXJPTU5n?oc=5",
-      "publishedAt": "2026-08-31T12:21:29.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O que as novas tarifas significam para o Colorado",
-      "titleOriginal": "What new tariffs mean for Colorado",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3VEUzBqZjJUVEVjbk10bkZmVTRsQjRMTUFTTGhtOTlkSWROMDZvaEhmTjlTODhHY28wWFEwQTF1YmplWE1OTi0xdXd5OUFIdFQwTFk3MnpVeGJHeE9mUmxwZ1gxcU9kRzAtelQ4NkJSUWlTOUhiYThsMVdkTFpPTW9n?oc=5",
-      "publishedAt": "2026-08-31T12:09:48.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Fox 32 contrata Brandon Pope como novo repórter político",
-      "titleOriginal": "Fox 32 hires Brandon Pope as new political reporter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWJZUWlvZm5QLVdoVmRzcVpvQ09aeThZaVdSRkxxZ21aenRMazV4VFpldkRwRXRNY3FZYTUwbllXTDRHM19GQVdJMTdlWDQ5U0JoUnNIcEJyRzlRT2JEV0w2UlpwRW5ITTFsTjlhLV95SWk4TFNCOTJsVVA3dVNELXVYd09zYnRyOTBla09hRjF5VlVkbXd2alBHdXpGT0QzUDlZZU9PMUJwVF9kSkNpdmhiVQ?oc=5",
-      "publishedAt": "2026-08-31T12:05:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os futuros dos EUA caem e os preços do petróleo disparam após os EUA atacarem alvos iranianos no Estreito de Ormuz",
-      "titleOriginal": "US futures fall and oil prices surge after US hits Iranian sites in the Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-      "publishedAt": "2026-08-31T12:03:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump ainda dá a entender que pode concorrer pela terceira vez à presidência, mas vem falando cada vez mais sobre a vida após 2028",
-      "titleOriginal": "Trump still teases a third presidential run, but he's talking more and more about life after 2028",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNwank1SlN4by12Z2hMMFM5MkVUT2hwSTBYMFl2YkRidDQ2YmhERWFrUGFiUFRhb0R3bS0xNlFLVFY2OHlVSUllcnFOdUVVLWRLMHRFVGNJblpvSW5scTlFY3laS3hrb2pzVTJxbVlsYnh6OW5FOFN0M3pjUDBhYjJUYjBuSFpGaVNzU241RGF4VFpFcmc?oc=5",
-      "publishedAt": "2026-08-31T12:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os deputados da Câmara dos Deputados retornam a Washington com um projeto de lei de financiamento provisório no topo da lista de prioridades",
-      "titleOriginal": "House lawmakers return to Washington with a stopgap funding bill atop the list of priorities",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcE1UOEJ6VGpFVjZFT1UyM0lMbjEzVHBaLTBBSVRoR3BDMTliOHYwODQzb19URWpVRWFHdkdNeEJSSUtyVk11eDNackhtTHduMFNDdzF2UkM2Vjc4R2Npdm1BQUFramtCMUxKZ2d3UTg4ZDBHLVhyN1dHczd5MW1hUkgzY1JOTzJvbngxLW1FWlUtRGE0ejNtczg5SkpSMC1SUU1xYk1Sc0VZNzk3NlF5VTg4YXlDUQ?oc=5",
-      "publishedAt": "2026-08-31T11:34:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Rússia recorre à sabotagem e a ataques cibernéticos contra os aliados da Ucrânia",
-      "titleOriginal": "Russia Turns to Sabotage, Cyberattacks Against Ukraine’s Allies",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkp4ellJNXBlMkJhRF9EdDBMbTBGOU9NTjN3elcwaUZTRk9WSXJ5ZHJ2UERsak02THRpV0t3bDU5SFhJMDVPSTBCRUxZZWNNUVIyU3YzTGNLVDJoUHFCNmxaWVl6MzhqSmtYYWY0eDliUWo1bC04cVR6SzJnZzl6RjFkZjUwb2hTMlZyNjZCbjViZUdoNVVJUl8zN1VCRWdrdWhUYXBlZnJPdjNi?oc=5",
-      "publishedAt": "2026-08-31T11:34:00.000Z"
+      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
+      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
+      "publishedAt": "2026-08-31T12:28:13.000Z"
     }
   ]
 }
