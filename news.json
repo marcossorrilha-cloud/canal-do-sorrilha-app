@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-31T14:48:56.260Z",
+  "updatedAt": "2026-08-31T15:21:37.853Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Centenas de pessoas podem estar presas em túneis de usinas hidrelétricas, enquanto o número de mortos pelas enchentes ultrapassa 950 no Nepal e na China",
+      "titleOriginal": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
+      "publishedAt": "2026-08-31T15:02:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "A Califórnia enfrenta a influência dos fundos de private equity sobre os escritórios de advocacia",
@@ -24,6 +31,13 @@
       "publishedAt": "2026-08-31T14:28:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Emirados Árabes Unidos interceptam um drone iraniano e outras notícias do Oriente Médio",
+      "titleOriginal": "United Arab Emirates intercepts an Iranian drone, and other news from the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGNuTGY0Mzk5WWszNEdJZVAtZlhPb3lwZHBqcVBEam9peHlnYnVrcWtsUmZCdWJFYzlVVjhEbEdwTlR1Xy1wMWZRTG5qZlR4VlAxbEdwY2JWeVRIeU1NMV95SGJ3ZmhSX19LV0ZTZWFqN3pSdWNISHNyWXFiMUc3Q29BS055eWY2VUFXSk5oYVBIM2pRZ0UzNkVzbzZmQ2JuanQ0QXlaYmNjUG8?oc=5",
+      "publishedAt": "2026-08-31T14:26:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Comissária democrata da FCC sobre a ameaça de Trump a Kristen Welker: “Perigosa”",
       "titleOriginal": "Democratic FCC commissioner on Trump's Kristen Welker threat: 'Dangerous'",
@@ -38,39 +52,25 @@
       "publishedAt": "2026-08-31T14:19:45.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "A Câmara dos Deputados conseguirá evitar a paralisação? Democratas judeus divididos em Michigan: debate ao vivo",
-      "titleOriginal": "Can House prevent shutdown; Jewish Democrats divided in Michigan: Live discussion",
-      "link": "https://thehill.com/homenews/editors-call/6060567-house-prevent-shutdown-jewish-democrats-divided-live-discussion/",
-      "publishedAt": "2026-08-31T14:09:53.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Nova York processa xerife que se recusa a rescindir acordo com o ICE",
-      "titleOriginal": "New York Sues Sheriff Who Refuses to End ICE Agreement",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDR2MTZVNGN4WXNoeDNNOGVuX0V5T2QwT283Tk9LY1VGSUxjTXR3VjZtbHFuMGtMQndBVW1MS2hwOXlNNHVFbTVNN1BUenl5ak16ZW9NT3FvbEhqR1NheEZabzVGUU5PeHg3SFYyZlh2M2Jld2lkVUZreFRHMDg4bGNfcDV5Qi0xakhuQTlhTlNaMmpEekIyS01CMFRzWlRy?oc=5",
-      "publishedAt": "2026-08-31T14:00:08.000Z"
+      "title": "O ex-deputado George Santos recebe a primeira punição de banimento vitalício da história da Kalshi",
+      "titleOriginal": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktYQnlJWkZqcmNUOXBzMkE0dXpCYzFhRGpoNmxkRU92TWJwSHlYU3F0NVR4MkNkVWN0Y25LT3dPcEYybjlTdWxGcHZuQThXWmtCY1o3TExGQ1pvakJhY1NWanh4OWUzVWU3U3ZJZ3FZOWwyLUNVTEk3RmRtN01BWW5hS19reV9qYWg3LTVPUDNQQlIwcmxlZG0tVUFSeXVmNnN6aHI1QTNPR0U?oc=5",
+      "publishedAt": "2026-08-31T14:14:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Por que a pesquisa do Times/Siena não está desligando o telefone",
-      "titleOriginal": "Why the Times/Siena Poll Isn’t Hanging Up the Phone",
-      "link": "https://www.nytimes.com/2026/08/31/upshot/times-siena-phone-polling.html",
-      "publishedAt": "2026-08-31T13:59:37.000Z"
+      "source": "Axios",
+      "title": "Como o plano de Trump para acabar com a “Regra das Áreas Sem Estradas” afeta as florestas do Arizona",
+      "titleOriginal": "How Trump's plan to kill the \"Roadless Rule\" affects Arizona forests",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHdqRXFhNU1BdVJLeUdYaGNJdldxU3BzeW12YWxXd2FWV0FuNDZyeU1EVHZ2TE9kekx0Q3RRT3JaTUVBelg3UWlpa3VjNERmcE91em1lR3JZaFV0OUp2bW5uWV9SWW42Z19LRnlvcnpFNW9yVmlVUl9ZZ0FwREJ3ck9KVmktMUJTWWNxbHRsTFdtOTVyWjFXWE9sTXZaTVk0SnpKQ0NPSzd3QQ?oc=5",
+      "publishedAt": "2026-08-31T14:13:23.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Um importante banco egípcio é envolvido nas medidas do Tesouro contra o Irã",
-      "titleOriginal": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGpiVi1ZdE5JNi1hT25MLXBWOGZMWEpUczRhZG1ySTNqMFBFdVhyN3ViY2EtVlg1SnIxRmNEa28wcU5mMkpTNGhxVEdVT1ItcU1rNDU3OUhOb25fclBOS25Gek1hbUhMcVFidHlaMmdNa2xTSTFpZFZMMDFJZGI1TXY1c1Y4TVg5MEVZdUFNa2l6RWVPSmU1ajhTM0Q4T1BTaDBTVTdRN2hYVm9TZU5n?oc=5",
-      "publishedAt": "2026-08-31T13:57:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Departamento de Estado alerta contra viagens ao Nepal após inundações",
-      "titleOriginal": "State Department warns of travel to Nepal after flooding",
-      "link": "https://thehill.com/policy/transportation/6060656-state-department-travel-warning-nepal-flash-flooding/",
-      "publishedAt": "2026-08-31T13:57:08.000Z"
+      "source": "Axios",
+      "title": "Como o prefeito de Mesa, Mark Freeman, está tentando conquistar Taiwan",
+      "titleOriginal": "How Mesa Mayor Mark Freeman is courting Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81blltT0YzWDFWXzhwU1JlYkMtcHRJNE82cXMzdndCZ213TFlob3Ixd2N0bC1FZWRLWVE4ZEpxeWlzbEdIa2Y1NUVFSE9ZbE1QSE9UcDZUV2haTERSOGVEWFE0NzhFZWdvZVVSdHNVdHJuM1lkR3hqYmhrVktTYUU?oc=5",
+      "publishedAt": "2026-08-31T14:12:23.000Z"
     }
   ]
 }
