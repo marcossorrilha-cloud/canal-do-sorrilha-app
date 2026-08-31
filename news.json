@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-31T17:49:03.042Z",
+  "updatedAt": "2026-08-31T18:21:55.657Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Kalshi suspende candidato republicano à Câmara dos Deputados na Carolina do Norte por ter apostado em sua própria campanha",
+      "titleOriginal": "Kalshi suspends GOP House candidate in North Carolina for betting on own race",
+      "link": "https://thehill.com/policy/technology/6061531-kalshi-prediction-market-ban-laurie-buckhout-north-carolina-gop-house-race/",
+      "publishedAt": "2026-08-31T18:08:46.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump leva sua campanha do “Lake America” para a Apple",
+      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
+      "publishedAt": "2026-08-31T18:07:26.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump pondera ataques limitados contra o Irã para conter os ataques no Estreito de Ormuz",
+      "titleOriginal": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5",
+      "publishedAt": "2026-08-31T18:07:25.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Quer ser governador do Colorado por um dia? Esta é a sua chance.",
+      "titleOriginal": "Want to be Colorado's governor for a day? Here's your chance.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb040eXZXWVlraXZVWEtZVThaTmp2NXAya2MwU3FfbE9OSFFPWDhXRHA5a0p1RGZkMzFVNnpnT2ZzcUdHaHVsNERSY01VOFNPOFVvZHcwZXp4MkxWVE1jNHphczgwSU9pekV1NGlBRXBtWEJPWk8xV0RMbHU1V0FSTFVLS0Mtc3l4Z21VOGJn?oc=5",
+      "publishedAt": "2026-08-31T18:04:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques na “zona cinza”",
+      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
+      "publishedAt": "2026-08-31T18:01:53.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump continua atacando as repórteres",
+      "titleOriginal": "Trump keeps turning his fire on female reporters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwZVZqYkRfY3k5d2IzVVFFRVl3VFBnckFLSXM3VFloVXQwbHkwTWRadG5NRDBJSDVBeXVjRUlLa2NfX1JQWWFnU3hOMDJZT2FmVGVKY1A1aDNFN3F5VDYyT1BvMVFja0pJNGo2c2s1Vzk5Q3dtQzhN?oc=5",
+      "publishedAt": "2026-08-31T18:01:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | FTC entrará com ação alegando que a Amazon enganou anunciantes",
+      "titleOriginal": "Exclusive | FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "publishedAt": "2026-08-31T18:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Israel ajudará a Grécia a construir um escudo de defesa aérea em um acordo histórico de armas",
+      "titleOriginal": "Israel to help Greece build an air defense shield in a landmark weapons deal",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVRsTDYxbHY3RXdBbjMxWUdrRWNsR2hxLUI1THlkRHV2SXVsaGJMOXVpNGpoQUh4UmFLVVIwRHkyZlFObjFsVndNN2VxUE51ZlVjd0ZPV09IODdRelJSZzhiU2d0VjY4dVJxWW0xTGRaXzJ3VHpJZExZR0FKZmZRZEs2V1RkUTFBSzBSQ1hOQQ?oc=5",
+      "publishedAt": "2026-08-31T17:57:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Assista ao vivo: Trump faz anúncio sobre os preços dos medicamentos",
@@ -15,62 +71,6 @@
       "titleOriginal": "Leader of DOJ’s Civil Rights Unit Spars With Harvard, the Left and Her Colleagues",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/harmeet-dhillon-doj-trump.html",
       "publishedAt": "2026-08-31T17:39:09.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma “West Point” para o espaço? Trump defende a criação de uma nova academia para treinar profissionais do setor espacial",
-      "titleOriginal": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
-      "publishedAt": "2026-08-31T17:38:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Jeffries discursa enquanto a Câmara retoma os trabalhos para votações importantes",
-      "titleOriginal": "Watch live: Jeffries speaks as House returns for key votes",
-      "link": "https://thehill.com/video-clips/6061451-watch-live-hakeem-jeffries-house-democrats-presser/",
-      "publishedAt": "2026-08-31T17:35:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump está enviando uma mensagem ao Irã com o vídeo da Ilha Kharg gerado por IA, afirma Vance",
-      "titleOriginal": "Trump sending message to Iran with AI Kharg Island video, says Vance",
-      "link": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message/",
-      "publishedAt": "2026-08-31T17:33:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preços do petróleo sobem e ações caem após os EUA atacarem alvos iranianos no Estreito de Ormuz",
-      "titleOriginal": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-      "publishedAt": "2026-08-31T17:33:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que a pesquisa do Times/Siena não está encerrando suas atividades",
-      "titleOriginal": "Why the Times/Siena Poll Isn’t Hanging Up the Phone",
-      "link": "https://www.nytimes.com/2026/08/31/upshot/times-siena-phone-polling.html",
-      "publishedAt": "2026-08-31T17:29:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "'Repreensão ou punição': Trump ameaça denunciar Kristen Welker à FCC",
-      "titleOriginal": "'Rebuke or punishment': Trump threatens to report Kristen Welker to FCC",
-      "link": "https://thehill.com/opinion/lindseys-lens/6061458-trump-welker-fcc-threat/",
-      "publishedAt": "2026-08-31T17:19:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Duffy anuncia o fechamento de emergência de 110 autoescolas devido à regra de proficiência em inglês",
-      "titleOriginal": "Duffy announces emergency shutdown of 110 driving schools over English proficiency rule",
-      "link": "https://thehill.com/policy/transportation/6061278-dot-shuts-driving-schools/",
-      "publishedAt": "2026-08-31T16:56:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Existem ciclovias voltadas para a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
-      "titleOriginal": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
-      "publishedAt": "2026-08-31T16:45:45.000Z"
     }
   ]
 }
