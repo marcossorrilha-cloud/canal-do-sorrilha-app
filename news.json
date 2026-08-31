@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T10:21:41.263Z",
+  "updatedAt": "2026-08-31T10:48:55.001Z",
   "count": 10,
   "items": [
     {
@@ -7,14 +7,56 @@
       "title": "Guerra no Irã",
       "titleOriginal": "Iran war",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "publishedAt": "2026-08-31T10:17:07.000Z"
+      "publishedAt": "2026-08-31T10:43:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As bolsas mundiais apresentam resultados mistos e os preços do petróleo disparam após ataque dos EUA a lançadores de foguetes iranianos",
+      "titleOriginal": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "publishedAt": "2026-08-31T10:27:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Banheiros e ciclovias: ideias para o primeiro orçamento participativo de Columbus",
+      "titleOriginal": "Bathrooms and bike paths: Ideas for Columbus' first participatory budget",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEJ2MzV1TThUOVR3b3VpMGdEbGgtYm1lLVViOWZmbGF0bnlFUDRiX0pUZXRTeEp6c3hpUmNyc0lGX3E5aG1LTGJWelhoWUpQQTFHT1Z0X2ZrdE41UE5ER0dXV1NCU1FGX0NEZUZaQkk0NWFBSUNIX0c1ellYRnBrQlVzMlptY0NUSkZsdWM3TG5ZUGhnSExyekkySVI?oc=5",
+      "publishedAt": "2026-08-31T10:21:31.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Geórgia pagou mais de US$ 20 bilhões em tarifas impostas por Trump, estima um relatório",
+      "titleOriginal": "Georgia paid over $20B in Trump tariffs, report estimates",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa21XczB5ZFcwMy1PTDZ0elp0VGEyZERUcnRVRnFrb0RXVmVlWmROcEZKQ0NRREFadkZoX1p4aDN6TUd5NEw2eVFoT0FhdTU0VDJwcmtDa1lDYTNxSE81MjVWQWNLZUc3VTJQa0lFZHJHMEozNmhiV1Jnc1A0bllKenMzdDNmZmxVOWIyVFBLal9QVmlwV3lLcEQ4S1NuRnJ5UFZBbXdn?oc=5",
+      "publishedAt": "2026-08-31T10:21:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Sua placa está sendo escaneada em toda a região do Triângulo",
+      "titleOriginal": "Your license plate is being scanned across the Triangle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnNvcDlMeEtIZ0dvUF83ZGNUaHFsUlRIdjZuOWMzXzFHTHZtS2pCUEQ3dnprOEwzTnhpWTBONTduSzk4eWFKTkVQemh1OUo5bzdGQ0owNko3RXN6S01ZcHgwV2hSRFB0aWNBYlFEeFl4alFydEt1YXNZQ0Ywa3Y2Y2hiVktReERmYjlQRWxVdE1UZjBfa3pqVF8zQVhzdw?oc=5",
+      "publishedAt": "2026-08-31T10:20:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As tarifas de Trump causam prejuízo de US$ 11 bilhões a Ohio",
+      "titleOriginal": "Trump tariffs take $11 billion toll on Ohio",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclIzSE84bDNQaC1LWVE4czd1TW0yaF9ySGRPM1J4a2ZjeTI4YnBmcVJKQjhKV1hiU3lDblVqN1ZsX1FvLVNjckJXMmtCc1RkQTg5N3E3dEVXdmFVX1ExTUo4bTRLdzFfNU1xWXhmbHBKOXlZRDVkWXpqQnVFVVR4OFV1TFU?oc=5",
+      "publishedAt": "2026-08-31T10:20:13.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
-      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-08-31T10:01:37.000Z"
+      "title": "EUA atacam o Irã para impedir a instalação de novas minas marítimas no Estreito de Ormuz",
+      "titleOriginal": "U.S. Strikes Iran to Block New Sea Mines in Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzFTRHR3czhpZC1tNndSR2NXby1TZXFXNkNqN3Uwdk9wd09haDRUcDNjaFVGcF9Jd00tSGFKanhOQ2ZjMkVIbGlzQnlHNVlZaGJCU1A3S3dWVm5GdlRQRjZ2Umk3MUVfSm04ZHl6dkRWMlBGUGJBOWxjWUVhR2NGXy1fcFowb0wzYWZfZGJUb3NRWXd1ODVoejdhSWZUdWgxdVk5bVk2cFdIX1dEdl9PY1J6R29sb1IycFdoQ01MMnpHSkNGUGMxdUhPVTZEQ3JE?oc=5",
+      "publishedAt": "2026-08-31T10:07:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Novo míssil dos EUA parece ter matado civis iranianos longe do local da explosão, segundo relatório de especialistas",
+      "titleOriginal": "New US missile appears to have killed Iranian civilians far from its blast site, expert report says",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
+      "publishedAt": "2026-08-31T10:01:00.000Z"
     },
     {
       "source": "The Hill",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-08-31T10:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Solstice Advanced Materials e Element Solutions cancelam acordo após reação dos acionistas",
-      "titleOriginal": "Solstice Advanced Materials, Element Solutions Cancel Deal After Shareholder Feedback",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaElDZGRUVm52WkxEeER2S19TNVkyX0F1UW9XMk1PRWdmUGd3ZE5qek1CZjJsanQ2R0NpX3VtOWd3dnRoUmw3MXV4ZVJVa3NWbDQxLXExa2x0Vm1hTE5ucWdIN0hTY1RNMEpZMFQ0bVloSUhDOWR1UW15QUVhVHF3RDduYWwwNGVXa3M2cld1ZlZfZ0FuZmVmRldhV0F0TXlsbzRFYnVUa2hKQkhGX3VDb0Z6ZU8zZ1UwYzdxMExoNA?oc=5",
-      "publishedAt": "2026-08-31T09:40:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe com o agravamento das tensões entre os EUA e o Irã",
-      "titleOriginal": "Oil Rises as U.S.-Iran Tensions Escalates",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUI3LTBZeVRfYWw1NmV4U2dvTTR2UlZlNDY3cTN3WS1hTHo2WXVGQVhLTDRfTm1YRWV4QjFzUElneXFEX3FFbFEzZDBzdVNzYnpEc2ZqLTlGRHVCY1p6b0dRRkIzSktaN0N5cUZ0Tjd0c2dqZUpVWnJjdkc1Ukt5Q05oNE4wMGtiQ0NvcnlablVabFpHbGVCR2ZzQVpEczNWWEhWckpB?oc=5",
-      "publishedAt": "2026-08-31T09:39:00.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Pesquisa AP Top 25",
       "titleOriginal": "AP Top 25 Poll",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-      "publishedAt": "2026-08-31T09:20:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que não estamos desistindo das pesquisas por telefone",
-      "titleOriginal": "Why We’re Not Hanging Up on Phone Polling",
-      "link": "https://www.nytimes.com/2026/08/31/upshot/times-siena-phone-polling.html",
-      "publishedAt": "2026-08-31T09:03:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Este ano, um número maior de cédulas eleitorais enviadas pelo correio está chegando atrasado e está sendo descartado",
-      "titleOriginal": "More Mail Ballots Are Arriving Late This Year, and They’re Getting Tossed",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html",
-      "publishedAt": "2026-08-31T09:02:56.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“As eleições intermediárias menos transparentes”: como o dinheiro sujo está inundando as eleições de 2026",
-      "titleOriginal": "‘The Least Transparent Midterm’: How Dark Money Is Washing Over the 2026 Election",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/the-least-transparent-midterm-how-dark-money-is-washing-over-the-2026-election.html",
-      "publishedAt": "2026-08-31T09:02:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Existem ciclovias que promovam a diversidade, equidade e inclusão (DEI)? O governo Trump afirma que sim.",
-      "titleOriginal": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
-      "publishedAt": "2026-08-31T09:00:39.000Z"
+      "publishedAt": "2026-08-31T09:54:22.000Z"
     }
   ]
 }
