@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-31T11:48:57.851Z",
+  "updatedAt": "2026-08-31T12:21:38.590Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "O que as novas tarifas significam para o Colorado",
+      "titleOriginal": "What new tariffs mean for Colorado",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3VEUzBqZjJUVEVjbk10bkZmVTRsQjRMTUFTTGhtOTlkSWROMDZvaEhmTjlTODhHY28wWFEwQTF1YmplWE1OTi0xdXd5OUFIdFQwTFk3MnpVeGJHeE9mUmxwZ1gxcU9kRzAtelQ4NkJSUWlTOUhiYThsMVdkTFpPTW9n?oc=5",
+      "publishedAt": "2026-08-31T12:10:16.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump ainda dá a entender que pode concorrer à presidência pela terceira vez, mas vem falando cada vez mais sobre a vida após 2028",
+      "titleOriginal": "Trump still teases a third presidential run, but he's talking more and more about life after 2028",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNwank1SlN4by12Z2hMMFM5MkVUT2hwSTBYMFl2YkRidDQ2YmhERWFrUGFiUFRhb0R3bS0xNlFLVFY2OHlVSUllcnFOdUVVLWRLMHRFVGNJblpvSW5scTlFY3laS3hrb2pzVTJxbVlsYnh6OW5FOFN0M3pjUDBhYjJUYjBuSFpGaVNzU241RGF4VFpFcmc?oc=5",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Por que a esquerda não consegue parar de ficar obcecada por Trump",
@@ -18,14 +32,21 @@
     },
     {
       "source": "Axios",
-      "title": "Estima-se que as tarifas impostas por Trump tenham custado a Minnesota US$ 4,8 bilhões",
+      "title": "Estima-se que as tarifas impostas por Trump tenham custado 4,8 bilhões de dólares a Minnesota",
       "titleOriginal": "Trump tariffs have cost Minnesota an estimated $4.8 billion",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDQ2TTZVamxxSkZwLWxMNXV4cnhkb1RCYzRjWFh1UE0zbXdRSlFUcnRWWlR5MC1nYkFqRnUxTXhwcHZHdklEODNoVkw3SkpnQVhidC01N2o3RXZsYTNMQk1lMlZCM1hRa0ZCNFNJQVNWMzR4UnhIMUlxWHpZeS1CR0loUGx2bVI0N1hBZEdXcnVfLXFBXzNudEl0cGxGVlZLbmZBSWFqMA?oc=5",
-      "publishedAt": "2026-08-31T11:20:28.000Z"
+      "publishedAt": "2026-08-31T11:25:41.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Fox 32 contrata Brandon Pope como novo repórter político",
+      "titleOriginal": "Fox 32 hires Brandon Pope as new political reporter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWJZUWlvZm5QLVdoVmRzcVpvQ09aeThZaVdSRkxxZ21aenRMazV4VFpldkRwRXRNY3FZYTUwbllXTDRHM19GQVdJMTdlWDQ5U0JoUnNIcEJyRzlRT2JEV0w2UlpwRW5ITTFsTjlhLV95SWk4TFNCOTJsVVA3dVNELXVYd09zYnRyOTBla09hRjF5VlVkbXd2alBHdXpGT0QzUDlZZU9PMUJwVF9kSkNpdmhiVQ?oc=5",
+      "publishedAt": "2026-08-31T11:24:42.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe com o agravamento das tensões entre os EUA e o Irã",
+      "title": "Preço do petróleo sobe com o agravamento das tensões entre EUA e Irã",
       "titleOriginal": "Oil Rises as U.S.-Iran Tensions Escalates",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUI3LTBZeVRfYWw1NmV4U2dvTTR2UlZlNDY3cTN3WS1hTHo2WXVGQVhLTDRfTm1YRWV4QjFzUElneXFEX3FFbFEzZDBzdVNzYnpEc2ZqLTlGRHVCY1p6b0dRRkIzSktaN0N5cUZ0Tjd0c2dqZUpVWnJjdkc1Ukt5Q05oNE4wMGtiQ0NvcnlablVabFpHbGVCR2ZzQVpEczNWWEhWckpB?oc=5",
       "publishedAt": "2026-08-31T11:12:00.000Z"
@@ -39,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "A guarda pretoriana de Biden na mídia agora finge preocupação com a aptidão do presidente para exercer o cargo",
+      "title": "A guarda pretoriana de Biden na mídia agora finge preocupação com a aptidão do presidente para o cargo",
       "titleOriginal": "Biden's praetorian guard in the media now feigns concern about presidential fitness",
       "link": "https://thehill.com/opinion/white-house/6056352-media-hypocrisy-mental-acuity/",
       "publishedAt": "2026-08-31T11:00:00.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Companies Are Paying for Price Cuts With Their Tariff Refunds",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEtjS24zdWhHck9idWJCLXJfMEhFdVdrZUdhdHN5QXYzSi1VUkZoZ2JuT3VxMUJadGpua3A4emJtY1NIUk1xNkZseTNHakU0RDFHZlM0cDVUSHNwd25BWkotT3E2d3F3bmo4cndiUXJ0dTYxRXM5ZG1VYWZfUXBEZ0E0a050SUFXbGpWQWhkX1J3QUNmeUNlNGpqYVpNU1pfeG1MeA?oc=5",
       "publishedAt": "2026-08-31T10:58:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Aon fecha acordo de cerca de US$ 17 bilhões pela corretora de seguros USI",
-      "titleOriginal": "Aon Strikes Roughly $17 Billion Deal for Insurance Brokerage USI",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTB1SUxjSHkwbjU5NlRvMjNkQkhlVnY2ZVVRZkNkUjNGNGlsSTd2T1BuY21mR2lJNGNZRGpLeHB0SGZFUTZIVTR1Y1FkN2JxVzVjNDNVR2JNa09Ed1VsS2ZEY2NFdW9ZQ1BlYVkwMUlDeE5SU3NOUlNLME82ajkya21ud28tN29fRERkNkRMcktyRWh6LTBkVGp0VmM5cmc?oc=5",
-      "publishedAt": "2026-08-31T10:51:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Privacidade x Segurança: Leitores discutem sobre as câmeras de placas de veículos da Flock",
-      "titleOriginal": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3VzQVdhTVRrams5ZFZpdnpsSVdka0pqUzY1dnZCWVJzSHpxYkJON3c2c0NSM3B2eVI4N202SDFxX1l1MG9pdlRxRUM1Mld1akxoc3N4bkhYbWIwc1ZnLVNtMTVOTWh5bDdNVDlKN2tIOUNZMUI1UkpYY1dHV0lFOHptWnBtQ0dFamhDMnZZamxJRkVtd1NiMWdnU2VsWEFFcHM2eXZ3?oc=5",
-      "publishedAt": "2026-08-31T10:48:14.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Sua placa está sendo escaneada em toda a região do Triângulo",
-      "titleOriginal": "Your license plate is being scanned across the Triangle",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnNvcDlMeEtIZ0dvUF83ZGNUaHFsUlRIdjZuOWMzXzFHTHZtS2pCUEQ3dnprOEwzTnhpWTBONTduSzk4eWFKTkVQemh1OUo5bzdGQ0owNko3RXN6S01ZcHgwV2hSRFB0aWNBYlFEeFl4alFydEt1YXNZQ0Ywa3Y2Y2hiVktReERmYjlQRWxVdE1UZjBfa3pqVF8zQVhzdw?oc=5",
-      "publishedAt": "2026-08-31T10:41:15.000Z"
     }
   ]
 }
