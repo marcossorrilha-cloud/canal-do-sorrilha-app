@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-01T05:50:15.936Z",
+  "updatedAt": "2026-09-01T06:33:35.153Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
+      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
+      "publishedAt": "2026-09-01T06:02:06.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Vance defende sua abordagem ao antissemitismo em declarações a conservadores judeus",
+      "title": "Vance defende sua abordagem ao antissemitismo em discurso dirigido a conservadores judeus",
       "titleOriginal": "Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
       "publishedAt": "2026-09-01T05:05:59.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
-      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
-      "publishedAt": "2026-09-01T05:01:22.000Z"
     },
     {
       "source": "Politico",
@@ -22,13 +22,6 @@
       "titleOriginal": "Vance offers olive branch to pro-Israel Republicans in closed-door speech",
       "link": "https://www.politico.com/news/2026/09/01/jd-vance-republican-jewish-coalition-01058782",
       "publishedAt": "2026-09-01T04:48:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
-      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-09-01T04:35:21.000Z"
     },
     {
       "source": "New York Times",
@@ -46,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "El-Sayed sobre o comentário de Vance a respeito do “mal”: “O que é mal é corromper a si mesmo”",
+      "title": "El-Sayed sobre o comentário de Vance sobre o “mal”: “O que é mal é corromper a si mesmo”",
       "titleOriginal": "El-Sayed on Vance 'evil' remark: 'What's evil is corrupting yourself'",
       "link": "https://thehill.com/homenews/campaign/6062510-el-sayed-vance-evil-clash/",
       "publishedAt": "2026-09-01T03:09:15.000Z"
@@ -67,10 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Massie aponta os “co-conspiradores” de Epstein e discute nova legislação sobre os arquivos de Epstein",
+      "title": "Massie aponta os “co-conspiradores” de Epstein e discute a nova legislação sobre os arquivos de Epstein",
       "titleOriginal": "Massie names Epstein 'coconspirators,' discusses new Epstein files legislation",
       "link": "https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/",
       "publishedAt": "2026-09-01T02:16:39.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump leva sua campanha do “Lake America” até a Apple",
+      "titleOriginal": "Trump takes his \"Lake America\" push to Apple",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMGdoVDJVSzM0clVCUDVCbjI2cmhJYm1wM2N4WDB4UVRwSkI2Um5VWF83NU9qb1V4MXNOR21xTlpRbzNqaGpQLXBZenE5cXl3QTh6LUlILXFpRjZRdGdGcE04T3dsT1JrYUpucFhiZGItSlE4Qjk4NUt3?oc=5",
+      "publishedAt": "2026-09-01T01:16:28.000Z"
     }
   ]
 }
