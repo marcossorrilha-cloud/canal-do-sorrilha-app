@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-09-01T15:48:05.949Z",
+  "updatedAt": "2026-09-01T16:25:58.489Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
+      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "publishedAt": "2026-09-01T16:12:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições de meio de mandato",
+      "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
+      "publishedAt": "2026-09-01T16:09:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Investidores em zonas de oportunidade precisam pagar impostos há muito adiados",
+      "titleOriginal": "Long-Delayed Tax Bill Comes Due for Opportunity Zone Investors",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXlnYlZIWGh5MzRKbWZaTnRsQUdBRGRQSUhKREZ3Y2xFTUN0eF9yWm9BQlRaWmhldzBqRUkzUEptMWhZQmg3aW14c3NPVVJaLUxibVU1WEVSc1AtR0l1bGZBOWZ4OWVEWVJURVREUXhOazN3MlVBeFVEQTl3UkgzSjR6VVRUbHhIWEpSRzQzeVhZWFVia2ZSUnkxN1l1V2ZxU2dDbml0ajJjazlDR0JvdHFzRmU?oc=5",
+      "publishedAt": "2026-09-01T16:09:08.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal anula lei de Nova York que visava responsabilizar empresas de combustíveis fósseis pelas mudanças climáticas",
+      "titleOriginal": "Court strikes down New York law that sought to hold fossil fuel companies liable for climate change",
+      "link": "https://thehill.com/policy/energy-environment/6063511-new-york-fossil-fuels-climate-change-law/",
+      "publishedAt": "2026-09-01T15:59:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | O incentivo de US$ 5,5 bilhões que a joint venture de data centers da SoftBank ofereceu para garantir a OpenAI",
+      "titleOriginal": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
+      "publishedAt": "2026-09-01T15:56:47.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Será que JD Vance conseguirá conquistar os eleitores judeus céticos?",
+      "titleOriginal": "Can JD Vance Win Over Skeptical Jewish Voters?",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+      "publishedAt": "2026-09-01T15:51:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Facção da Câmara pretende congelar a agenda de Johnson; Trump deve se reunir com executivos do setor de energia",
+      "titleOriginal": "Live updates: House faction aims to freeze Johnson's agenda; Trump set to huddle with energy executives",
+      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
+      "publishedAt": "2026-09-01T15:47:56.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Documentário da Netflix sobre o “avião isca” de Trump estreia nesta sexta-feira",
@@ -10,67 +59,18 @@
       "publishedAt": "2026-09-01T15:45:42.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Vice-presidente do Bank of America é morto a facadas na Times Square",
+      "titleOriginal": "Bank of America Vice President Fatally Stabbed in Times Square",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG5hLVA1T19VRjlweXRBeVVBZHU5X0lxakpEZ25WakJYQ2xCNXo0MXVWS253dDlpUjBSem5VLXFQc0dpUWFIX1ZSbGszVTNBNFc3WWVwdVluWWJFREZrM1hUSWQ1REl0bUxaeEhSOUhFRFVKUEpjZXptZlNpWnVkbzBid2dTRi12VVdPVld1ZDU1VUtBaFJSRzlmVEdQZVhW?oc=5",
+      "publishedAt": "2026-09-01T15:45:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Democratas da Câmara exigem respostas sobre a compra de 6.000 luvas de choque elétrico pelo ICE, no valor de US$ 16,7 milhões",
       "titleOriginal": "House Democrats demand answers over ICE’s $16.7M purchase of 6,000 electric shock gloves",
       "link": "https://thehill.com/homenews/house/6063404-democrats-oppose-ice-shock-gloves/",
       "publishedAt": "2026-09-01T15:44:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent: A economia do Irã pode entrar em colapso “em questão de semanas ou meses”",
-      "titleOriginal": "Bessent: Iran economy could collapse 'within weeks or months'",
-      "link": "https://thehill.com/homenews/administration/6063299-bessent-iranian-economy-collapse/",
-      "publishedAt": "2026-09-01T15:38:26.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O presidente do Irã afirma que o país voltaria ao acordo de cessar-fogo se os EUA também o fizessem, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T15:31:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Haberman: “Não há pesquisas” nas regiões onde Trump é popular",
-      "titleOriginal": "Haberman: 'No polling' where Trump is popular",
-      "link": "https://thehill.com/homenews/administration/6063375-trump-haberman-approval-polls/",
-      "publishedAt": "2026-09-01T15:27:15.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Denunciante do USPS alerta que novo sistema de cédulas eleitorais pode falhar",
-      "titleOriginal": "USPS whistleblower warns new ballot system could fail",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
-      "publishedAt": "2026-09-01T15:17:25.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Será que JD Vance conseguirá conquistar os eleitores judeus céticos?",
-      "titleOriginal": "Can JD Vance Win Over Skeptical Jewish Voters?",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
-      "publishedAt": "2026-09-01T15:10:42.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
-      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "publishedAt": "2026-09-01T14:50:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Assembleia Legislativa da Califórnia votará reformas relacionadas aos incêndios florestais após ter bloqueado partes essenciais do plano de Newsom",
-      "titleOriginal": "California Legislature to vote on wildfire reforms after blocking key parts of Newsom’s plan",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWRnV2I2dWRlQTV2WTNBNWl0U3lSSlZXeWVtakpZRkN4UG9DdDFlNGo5dkZXczZqTGlhdmZDelhGRjZwYXZQVkxtbVZ2V053ZGlnQlh3V3hOMGFJTkVaU09rUXJjLUQ4VFFKbzRBc2dvUGl4NElLOXNjWl94cGNCRjZna0N2UERITDdUdTRXeXNDT05aakJOVXlRMDkweGJGdEx1ekJuM24tYWhNNjN3WGJ6aEFoejA?oc=5",
-      "publishedAt": "2026-09-01T14:24:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Democratas da Câmara fazem declarações em meio à corrida para evitar a paralisação do governo e à turbulência em torno da guerra com o Irã",
-      "titleOriginal": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-      "link": "https://thehill.com/video-clips/6063178-watch-live-house-democrats-press-conference-key-votes-cr-iran/",
-      "publishedAt": "2026-09-01T14:17:09.000Z"
     }
   ]
 }
