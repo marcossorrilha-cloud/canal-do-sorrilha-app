@@ -1,20 +1,48 @@
 {
-  "updatedAt": "2026-09-01T23:22:35.842Z",
+  "updatedAt": "2026-09-01T23:49:07.078Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
-      "titleOriginal": "US and Iran trade strikes, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T23:12:00.000Z"
+      "source": "New York Times",
+      "title": "Presidente do Estado-Maior Conjunto afirma que as Forças Armadas “não têm planos” de enviar tropas às seções eleitorais",
+      "titleOriginal": "Joint Chiefs Chairman Says Military Has ‘No Plans’ to Send Troops to the Polls",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/caine-military-elections.html",
+      "publishedAt": "2026-09-01T23:48:45.000Z"
     },
     {
       "source": "New York Times",
       "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
       "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T23:11:24.000Z"
+      "publishedAt": "2026-09-01T23:43:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "70% dos jovens americanos não se orgulham do rumo que os EUA estão tomando como nação: pesquisa",
+      "titleOriginal": "70 percent of young Americans not proud of where US is heading as nation: Poll",
+      "link": "https://thehill.com/blogs/blog-briefing-room/news/6064842-majority-young-people-not-proud-u-s/",
+      "publishedAt": "2026-09-01T23:43:34.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Departamento de Justiça entra com ação contra escolas de Kansas City por causa de política de gênero",
+      "titleOriginal": "Justice Department Sues Kansas City Schools Over Gender Policy",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/transgender-kansas-doj-lawsuit.html",
+      "publishedAt": "2026-09-01T23:19:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Câmara dos Deputados aprova adiamento da proibição do cânhamo",
+      "titleOriginal": "House passes postponement on hemp ban",
+      "link": "https://thehill.com/newsletters/healthcare/6064877-house-passes-postponement-hemp-ban/",
+      "publishedAt": "2026-09-01T23:13:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
+      "titleOriginal": "US and Iran trade strikes, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
+      "publishedAt": "2026-09-01T23:12:00.000Z"
     },
     {
       "source": "New York Times",
@@ -32,45 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Democratas em situação vulnerável votam pela condenação do socialismo em meio à pressão das eleições de meio de mandato",
+      "title": "Democratas em situação vulnerável votam a favor da condenação do socialismo em meio à pressão das eleições de meio de mandato",
       "titleOriginal": "Vulnerable Democrats vote to denounce socialism amid midterm pressure",
       "link": "https://thehill.com/homenews/house/6064837-democrats-vote-denounce-socialism/",
       "publishedAt": "2026-09-01T23:05:24.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
-      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
-      "publishedAt": "2026-09-01T23:02:23.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama sucessório",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama de sucessão",
       "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
       "publishedAt": "2026-09-01T23:01:51.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O trabalho dos Correios para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
-      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-01T22:57:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Câmara dos Deputados censura Chuck Edwards por “assédio sexual” contra funcionários",
-      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
-      "publishedAt": "2026-09-01T22:27:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Câmara dos Deputados censura republicano da Carolina do Norte por alegações de comportamento inadequado com funcionários",
-      "titleOriginal": "House censures North Carolina Republican over allegations of inappropriate behavior with staffers",
-      "link": "https://thehill.com/homenews/house/6064573-house-censures-chuck-edwards/",
-      "publishedAt": "2026-09-01T22:15:19.000Z"
     }
   ]
 }
