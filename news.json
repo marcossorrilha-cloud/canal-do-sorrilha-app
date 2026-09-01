@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-01T01:24:42.436Z",
+  "updatedAt": "2026-09-01T01:50:20.661Z",
   "count": 10,
   "items": [
-    {
-      "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
-      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "publishedAt": "2026-09-01T01:14:55.000Z"
-    },
     {
       "source": "Wall Street Journal",
       "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
       "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-09-01T01:01:44.000Z"
+      "publishedAt": "2026-09-01T01:33:43.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
+      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
+      "publishedAt": "2026-09-01T01:32:02.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+      "publishedAt": "2026-09-01T01:14:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
+      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+      "publishedAt": "2026-09-01T01:10:00.000Z"
     },
     {
       "source": "AP News",
@@ -29,6 +43,13 @@
       "titleOriginal": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
       "publishedAt": "2026-09-01T00:44:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Casa Branca está trabalhando em conjunto com a North American Blue Energy Partners em um acordo petrolífero com a Venezuela",
+      "titleOriginal": "White House working with North American Blue Energy Partners on Venezuela oil deal",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxoZzJrWHM5Tk4wZGg4VmRETnctdGo0d2hLRzlZai1VMTFFMnB0bEdEODhRNEpZZGFaamdseFM3TDJnUlNUcEFTeU1sbTI5TWV6bTY1bGxPcmpGMml0RDdYeGI5dTQyZ2VQOVJkTnIxVzVsSmZQdVZRQWNmamRjMXhxMUE1RnlMcE1EX2djLWZabmNoX2ZRdnln?oc=5",
+      "publishedAt": "2026-09-01T00:27:00.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "Trump Calls for Federal Film and Television Tax Incentive",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1lGVHFDY3RmMkUzMXpZOTdLTzI3YnI4cVJSU2tvdWhkRWpzQlloWDV4dDRRcUpwSTVIY2Q0NUg1bFNiQUYxWEZkTFpncU1xdVBOeTJQbW5sMjVPa0IwZl9rWHVaZ1NMWUdUcHdwVi1PVVpXUDViUmtvMFVTR3hqRkUyTzkzZHY3U1FxMWRoT09wbnp0b1JOdlZNdVhXNjZGS2Z2dA?oc=5",
       "publishedAt": "2026-08-31T23:56:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump zomba dos opositores do centro de dados, dizendo que eles querem continuar “atrasados e pobres”",
-      "titleOriginal": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
-      "publishedAt": "2026-08-31T23:30:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-08-31T23:26:22.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Mulher que brandia duas facas é baleada pela polícia na Times Square",
-      "titleOriginal": "A woman brandishing two knives is shot by police in Times Square",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
-      "publishedAt": "2026-08-31T23:10:00.000Z"
     }
   ]
 }
