@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-09-01T20:50:28.470Z",
+  "updatedAt": "2026-09-01T21:26:13.127Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação incomum: na dissidência",
+      "titleOriginal": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
+      "publishedAt": "2026-09-01T21:19:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Estudante nascido no Haiti, em Ohio, parece ter tirado a própria vida após perder o status de imigrante",
+      "titleOriginal": "Haitian-born student in Ohio appears to take his own life after losing immigration status",
+      "link": "https://thehill.com/homenews/state-watch/6064510-haitian-student-ohio-suicide/",
+      "publishedAt": "2026-09-01T21:19:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky alerta as companhias aéreas de que o espaço aéreo da Rússia é “completamente inseguro”",
+      "titleOriginal": "Zelensky warns airlines Russia's sky 'completely unsafe'",
+      "link": "https://thehill.com/policy/international/6064459-zelensky-russia-airspace-ukraine-war-unsafe/",
+      "publishedAt": "2026-09-01T21:15:38.000Z"
+    },
     {
       "source": "AP News",
       "title": "Os EUA atacam o Irã e Teerã revida, enquanto as hostilidades se intensificam novamente",
       "titleOriginal": "US strikes Iran and Tehran fires back as hostilities flare again",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
-      "publishedAt": "2026-09-01T20:46:00.000Z"
+      "publishedAt": "2026-09-01T21:11:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Milo Yiannopoulos está “muito envergonhado” pelo apoio a Trump após a deportação",
+      "titleOriginal": "Milo Yiannopoulos 'very ashamed' of support for Trump after deportation",
+      "link": "https://thehill.com/media/6064328-milo-yiannopoulos-deportation-trump/",
+      "publishedAt": "2026-09-01T21:10:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Resultados em tempo real: Massachusetts realiza as primárias para a Câmara dos Deputados",
+      "titleOriginal": "Live results: Massachusetts holds House primary contests",
+      "link": "https://thehill.com/homenews/campaign/6041275-live-results-massachusetts-house-primary/",
+      "publishedAt": "2026-09-01T21:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-01T20:58:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da alta nos rendimentos dos títulos",
+      "titleOriginal": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+      "publishedAt": "2026-09-01T20:48:00.000Z"
     },
     {
       "source": "AP News",
@@ -18,59 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Tina Peters recusa cargo no registro eleitoral de um condado da Califórnia",
+      "title": "Tina Peters recusa oferta de emprego no cartório eleitoral de um condado da Califórnia",
       "titleOriginal": "Tina Peters turns down job with California county's registrar of voters",
       "link": "https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job/",
       "publishedAt": "2026-09-01T20:10:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
-      "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T20:08:43.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Câmara dos Deputados aprova projeto de lei de financiamento de curto prazo para evitar uma paralisação antes das eleições",
-      "titleOriginal": "House passes short-term funding bill to avoid a shutdown before the election",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
-      "publishedAt": "2026-09-01T19:56:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
-      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-01T19:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "EUA atacam o Irã em nova onda de ataques",
-      "titleOriginal": "U.S. Targets Iran in Fresh Wave of Strikes",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
-      "publishedAt": "2026-09-01T19:47:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump nomeia pastor como consultor de saúde em questões relacionadas ao tabaco no CDC",
-      "titleOriginal": "Trump names pastor as tobacco health adviser at CDC",
-      "link": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
-      "publishedAt": "2026-09-01T19:34:07.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Legisladores do Tennessee se comprometem a financiar a “Imagination Library” de Dolly Parton",
-      "titleOriginal": "Tennessee lawmakers pledge to fund Dolly Parton's Imagination Library",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeEpYOFFEc1dHOWVia0JVRUV5VGVpNFNBbUhvMUZGT1hadDNVSlIxUE50ZEYwaTVpSGRQU2hXb083VWhndVVZV2NXY2MxWC1HVnZNY2xNekxxX2hWcTJhYTR2d2NiRng4Wm5KQVdhcnJfWnppZll4OF9fSTZqUnJMZHkxZGpmMDdsZXNoN3B1UXd4OVI5YWxGcVFQWDc5VWtnT05wVGxoUVl2WU5tdXE0V194anM4ZUlaYUpwd1F4OGZRMUp2Rml5RFBNd3QySjNu?oc=5",
-      "publishedAt": "2026-09-01T19:21:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed afirma que Trump está fazendo dele o “protagonista das eleições de meio de mandato”",
-      "titleOriginal": "El-Sayed says Trump is making him 'main character of the midterms'",
-      "link": "https://thehill.com/homenews/campaign/6063937-el-sayed-trump-main-character-midterms/",
-      "publishedAt": "2026-09-01T19:20:13.000Z"
     }
   ]
 }
