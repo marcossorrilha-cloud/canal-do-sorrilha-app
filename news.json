@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-01T14:28:25.890Z",
+  "updatedAt": "2026-09-01T14:55:57.214Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
+      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "publishedAt": "2026-09-01T14:50:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Denunciante alerta para possível falha no sistema do USPS durante as eleições intermediárias",
+      "titleOriginal": "Whistleblower warns of potential USPS system failure for midterms",
+      "link": "https://thehill.com/homenews/administration/6063040-usps-midterm-voting-risk/",
+      "publishedAt": "2026-09-01T14:45:17.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Assista ao vivo: Democratas da Câmara fazem declarações em meio à corrida para evitar a paralisação do governo e à turbulência em torno da guerra com o Irã",
@@ -25,17 +39,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump pede ao Congresso que aprove incentivo fiscal para cinema e TV",
+      "title": "Trump pede ao Congresso que aprove incentivo fiscal para o cinema e a TV",
       "titleOriginal": "Trump calls on Congress to pass film and TV tax incentive",
       "link": "https://thehill.com/homenews/administration/6063166-trump-proposes-federal-film-tax-incentives/",
       "publishedAt": "2026-09-01T14:05:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
-      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
-      "publishedAt": "2026-09-01T14:02:19.000Z"
     },
     {
       "source": "New York Times",
@@ -64,13 +71,6 @@
       "titleOriginal": "Jay Feely's Trump endorsement could hurt him in November",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGtHTjB3Qy1sUHhlQXdFQUJERkRVVnZnU0VNZ3V1ZE56OUhLNERRYTk3bktxX2dNZlJKOW5QaTBwaW1HT1gtX1F4cGlkSENKVlFNMWdBNkY3a3BDYjY3Q2tIYlhFT2ZzY0ZDYjhqUnM4WmZObUg0QTYwMmpGeEZQcGxFYjE1VEYyNnJiak9ZYS1XdGhlZzZR?oc=5",
       "publishedAt": "2026-09-01T13:39:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Aprovação de Trump permanece no nível mais baixo de sua carreira política: pesquisa",
-      "titleOriginal": "Trump approval stuck at lowest level of political career: Survey",
-      "link": "https://thehill.com/homenews/administration/6062781-donald-trump-approval-dropping-reuters-ipsos-survey/",
-      "publishedAt": "2026-09-01T13:22:32.000Z"
     }
   ]
 }
