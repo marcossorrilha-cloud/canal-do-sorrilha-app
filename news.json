@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-01T16:43:00.526Z",
+  "updatedAt": "2026-09-01T16:55:18.843Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da onda de vendas de títulos",
+      "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+      "publishedAt": "2026-09-01T16:15:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
@@ -11,21 +18,21 @@
     },
     {
       "source": "New York Times",
-      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições intermediárias",
+      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições de meio de mandato",
       "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
       "publishedAt": "2026-09-01T16:09:41.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Investidores em zonas de oportunidade precisam arcar com impostos há muito adiados",
+      "title": "Investidores em Zonas de Oportunidade precisam arcar com impostos há muito adiados",
       "titleOriginal": "Long-Delayed Tax Bill Comes Due for Opportunity Zone Investors",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXlnYlZIWGh5MzRKbWZaTnRsQUdBRGRQSUhKREZ3Y2xFTUN0eF9yWm9BQlRaWmhldzBqRUkzUEptMWhZQmg3aW14c3NPVVJaLUxibVU1WEVSc1AtR0l1bGZBOWZ4OWVEWVJURVREUXhOazN3MlVBeFVEQTl3UkgzSjR6VVRUbHhIWEpSRzQzeVhZWFVia2ZSUnkxN1l1V2ZxU2dDbml0ajJjazlDR0JvdHFzRmU?oc=5",
       "publishedAt": "2026-09-01T16:09:08.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Tribunal revoga lei de Nova York que visava responsabilizar empresas de combustíveis fósseis pelas mudanças climáticas",
+      "title": "Tribunal revoga lei de Nova York que buscava responsabilizar empresas de combustíveis fósseis pelas mudanças climáticas",
       "titleOriginal": "Court strikes down New York law that sought to hold fossil fuel companies liable for climate change",
       "link": "https://thehill.com/policy/energy-environment/6063511-new-york-fossil-fuels-climate-change-law/",
       "publishedAt": "2026-09-01T15:59:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "House Democrats demand answers over ICE’s $16.7M purchase of 6,000 electric shock gloves",
       "link": "https://thehill.com/homenews/house/6063404-democrats-oppose-ice-shock-gloves/",
       "publishedAt": "2026-09-01T15:44:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent: A economia do Irã pode entrar em colapso “em questão de semanas ou meses”",
-      "titleOriginal": "Bessent: Iran economy could collapse 'within weeks or months'",
-      "link": "https://thehill.com/homenews/administration/6063299-bessent-iranian-economy-collapse/",
-      "publishedAt": "2026-09-01T15:38:26.000Z"
     }
   ]
 }
