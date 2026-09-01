@@ -1,27 +1,62 @@
 {
-  "updatedAt": "2026-09-01T19:49:45.709Z",
+  "updatedAt": "2026-09-01T20:26:23.246Z",
   "count": 10,
   "items": [
-    {
-      "source": "The Hill",
-      "title": "Trump nomeia pastor como consultor de saúde sobre o tabaco no CDC",
-      "titleOriginal": "Trump names pastor as tobacco health adviser at CDC",
-      "link": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
-      "publishedAt": "2026-09-01T19:34:07.000Z"
-    },
     {
       "source": "AP News",
       "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
       "titleOriginal": "US and Iran trade strikes, and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T19:34:00.000Z"
+      "publishedAt": "2026-09-01T20:15:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tina Peters recusa cargo no cartório eleitoral de um condado da Califórnia",
+      "titleOriginal": "Tina Peters turns down job with California county's registrar of voters",
+      "link": "https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job/",
+      "publishedAt": "2026-09-01T20:10:15.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
+      "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "publishedAt": "2026-09-01T20:08:43.000Z"
     },
     {
       "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "title": "Os EUA atacam o Irã e Teerã revida, enquanto as hostilidades se intensificam novamente",
+      "titleOriginal": "US strikes Iran and Tehran fires back as hostilities flare again",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
+      "publishedAt": "2026-09-01T20:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Câmara aprova projeto de lei de financiamento de curto prazo para evitar uma paralisação antes das eleições",
+      "titleOriginal": "House passes short-term funding bill to avoid a shutdown before the election",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+      "publishedAt": "2026-09-01T19:56:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O trabalho do Serviço Postal para cumprir o decreto de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
       "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-01T19:31:00.000Z"
+      "publishedAt": "2026-09-01T19:50:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA atacam o Irã em nova onda de ataques",
+      "titleOriginal": "U.S. Targets Iran in Fresh Wave of Strikes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
+      "publishedAt": "2026-09-01T19:47:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump nomeia pastor como consultor de saúde em questões relacionadas ao tabaco no CDC",
+      "titleOriginal": "Trump names pastor as tobacco health adviser at CDC",
+      "link": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
+      "publishedAt": "2026-09-01T19:34:07.000Z"
     },
     {
       "source": "Axios",
@@ -36,41 +71,6 @@
       "titleOriginal": "El-Sayed says Trump is making him 'main character of the midterms'",
       "link": "https://thehill.com/homenews/campaign/6063937-el-sayed-trump-main-character-midterms/",
       "publishedAt": "2026-09-01T19:20:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tim Cook passa o bastão na Apple, mas continua sendo o “conselheiro de Trump”",
-      "titleOriginal": "Tim Cook hands over reins of Apple, but remains Trump whisperer",
-      "link": "https://thehill.com/policy/technology/6063963-cook-hands-over-apple-ceo-role/",
-      "publishedAt": "2026-09-01T19:16:48.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Médico legista de Lancaster investiga morte de criança por sarampo em meio ao escrutínio do governo Trump",
-      "titleOriginal": "Lancaster coroner investigating child measles death amid Trump admin scrutiny",
-      "link": "https://thehill.com/homenews/state-watch/6064071-lancaster-measles-death-investigation/",
-      "publishedAt": "2026-09-01T19:13:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Líderes democratas foram pegos de surpresa por dois membros que apoiaram Johnson",
-      "titleOriginal": "Democratic leaders blindsided by two members who bailed out Johnson",
-      "link": "https://thehill.com/homenews/house/6064088-house-democrats-blindsided-perez-golden-votes/",
-      "publishedAt": "2026-09-01T19:10:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações caem em Wall Street sob pressão da alta nos preços do petróleo e da onda de vendas de títulos",
-      "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-      "publishedAt": "2026-09-01T19:08:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
-      "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T18:37:35.000Z"
     }
   ]
 }
