@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-01T12:32:49.426Z",
+  "updatedAt": "2026-09-01T12:53:54.726Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "JD Vance chamou Abdul El-Sayed, candidato ao Senado por Michigan, de “maligno” em um discurso",
+      "titleOriginal": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+      "publishedAt": "2026-09-01T12:13:46.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Johnson afirma que apoia a candidatura à reeleição de Max Miller: “Excelente membro do Congresso”",
+      "title": "Johnson afirma que apoia a candidatura à reeleição de Max Miller: “Um excelente membro do Congresso”",
       "titleOriginal": "Johnson says he supports Max Miller reelection bid: 'Great member of Congress'",
       "link": "https://thehill.com/homenews/house/6062756-mike-johnson-max-miller-support-reelection-bid-despite-allegations/",
       "publishedAt": "2026-09-01T11:43:22.000Z"
@@ -18,21 +25,28 @@
     },
     {
       "source": "The Hill",
-      "title": "Como o Congresso pode evitar que a próxima paralisação cause um colapso no transporte aéreo",
+      "title": "Como o Congresso pode evitar que a próxima paralisação cause um caos no transporte aéreo",
       "titleOriginal": "How Congress can prevent the next shutdown from blowing up air travel",
       "link": "https://thehill.com/opinion/finance/6061019-preventing-future-faa-shutdowns/",
       "publishedAt": "2026-09-01T11:30:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A difícil temporada de primárias para os candidatos à reeleição chega ao seu grand finale em Massachusetts",
+      "title": "A difícil temporada de primárias para os candidatos à reeleição chega ao seu grande final em Massachusetts",
       "titleOriginal": "Tough primary season for incumbents reaches grand finale in Massachusetts",
       "link": "https://thehill.com/newsletters/morning-report/6062732-tough-primary-season-incumbents-grand-finale-massachusetts-markey-moulton/",
       "publishedAt": "2026-09-01T11:18:34.000Z"
     },
     {
       "source": "Axios",
-      "title": "Onde as tarifas de Trump afetam mais fortemente Massachusetts",
+      "title": "Exclusivo: Grupo pró-direito ao aborto lança campanha de US$ 250 mil contra Susan Collins",
+      "titleOriginal": "Scoop: Abortion rights group launches $250K campaign against Susan Collins",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlcDZzQXhBbmJzaXF6RWg2X3Q1amFIcFFEb29mN3FJb3Nobnk5V2tmUF9ERTUzOGFfZ3JucHlDb01LYTNmS3hXU09GZUxuSVk0QUR1QURvRktUcnJPbXdGLXNSMUVPeWlHYmM4MjQzY1MtNTR4TnQ0dExRRQ?oc=5",
+      "publishedAt": "2026-09-01T11:02:25.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Onde as tarifas de Trump afetaram mais fortemente Massachusetts",
       "titleOriginal": "Where Trump's tariffs hit Massachusetts the hardest",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84NWx6M1YxUWk1ZlQ1UnlUMGNuS2xtUzRqTHB5UG1uODdjUjR5SjQwaTViZGhNcnBxRjRRUjE2N1hfV0FCZHZZTV9HdDRCZUlyZXhuNU80VGRtOWFiLVQtMzFReHlQbnQ3ZXRDaEVaQVhUYXlqLXp1U0R6S2Z5QQ?oc=5",
       "publishedAt": "2026-09-01T10:49:30.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Global Bond Yields Surge as Oil Prices Fuel Inflation Worries",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE1melJkWU5uSUtsb1U4aEo2Q0NIQmx5SVB2dGpOaHMzeFdJVm81TzRxYUkzYlFMMUxhdW44NktaMzFKQS1aU21aZ1JQd3N3UGFFSGtfMmo5R1lrTTNSQ1VUVmhSdWlxYkxRVmdvOXBaM0JqSEgtb0h2TUx6QURhUHg1YVJKY3dlZWtyanJJT0pTbFhveDN2YlZEdEZVdG8xUE02SmIwejY?oc=5",
       "publishedAt": "2026-09-01T10:06:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Denunciante afirma que autoridades do governo Trump estão desrespeitando ordens judiciais sobre o voto por correspondência",
-      "titleOriginal": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
-      "publishedAt": "2026-09-01T10:00:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nova turbulência abala a estabilidade da guerra no Irã para Trump",
-      "titleOriginal": "New turbulence upends stability of Iran war for Trump",
-      "link": "https://thehill.com/homenews/analysis/6062071-trump-iran-conflict-us-volatility-strait-hormuz/",
-      "publishedAt": "2026-09-01T10:00:00.000Z"
     }
   ]
 }
