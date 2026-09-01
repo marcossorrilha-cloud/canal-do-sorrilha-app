@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-09-01T17:49:18.511Z",
+  "updatedAt": "2026-09-01T18:30:39.532Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Jesse Eisenberg e Mark Hamill participarão da leitura ao vivo de “American Tail”, em apoio à imigração",
+      "title": "Senador republicano se mostra “decepcionado” com a saída do secretário do Exército, que teve desentendimentos com Hegseth",
+      "titleOriginal": "GOP senator ‘disappointed’ over departure of Army secretary who clashed with Hegseth",
+      "link": "https://thehill.com/homenews/senate/6063890-hegseth-pentagon-leadership-turmoil/",
+      "publishedAt": "2026-09-01T18:12:26.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Câmara dos Deputados aprova projeto de lei de financiamento de curto prazo para evitar uma paralisação antes das eleições",
+      "titleOriginal": "House passes short-term funding bill to avoid a shutdown before the election",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+      "publishedAt": "2026-09-01T18:09:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Congresso aprova verbas para o governo até dezembro, evitando uma paralisação antes das eleições",
+      "titleOriginal": "Congress funds government until December, averting pre-election shutdown",
+      "link": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+      "publishedAt": "2026-09-01T18:06:48.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O que é preciso saber sobre o setor energético venezuelano após o acordo petrolífero de Trump",
+      "titleOriginal": "What to Know About Venezuelan Energy Following Trump’s Oil Deal",
+      "link": "https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html",
+      "publishedAt": "2026-09-01T17:54:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os EUA atacam alvos do IRGC no Irã em resposta aos ataques contra as forças americanas",
+      "titleOriginal": "US strikes IRGC targets in Iran in response to attacks on American forces",
+      "link": "https://thehill.com/policy/defense/6063807-us-strikes-irgc-targets-in-iran-in-response-to-attacks-on-american-forces/",
+      "publishedAt": "2026-09-01T17:44:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jesse Eisenberg e Mark Hamill participarão da leitura ao vivo de “American Tail”, uma obra a favor da imigração",
       "titleOriginal": "Jesse Eisenberg, Mark Hamill to join pro-immigration 'American Tail' live reading",
       "link": "https://thehill.com/blogs/in-the-know/6063784-jesse-eisenberg-mark-hamill-american-tail-workers-circle/",
       "publishedAt": "2026-09-01T17:44:43.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump apoia o crédito fiscal federal à produção",
+      "titleOriginal": "Trump endorses federal production tax credit",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
+      "publishedAt": "2026-09-01T17:43:21.000Z"
     },
     {
       "source": "The Hill",
@@ -18,17 +60,10 @@
     },
     {
       "source": "The Hill",
-      "title": "As ameaças de Trump agora não passam de um golpe de sabre com uma faca de plástico",
+      "title": "As ameaças de Trump agora não passam de fanfarronice com uma faca de plástico",
       "titleOriginal": "Trump's threats are now just saber-rattling with a plastic knife",
       "link": "https://thehill.com/opinion/white-house/6062599-us-diplomacy-trump-bluster/",
       "publishedAt": "2026-09-01T17:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que é preciso saber sobre o setor energético venezuelano após o acordo petrolífero de Trump",
-      "titleOriginal": "What to Know About Venezuelan Energy Following Trump’s Oil Deal",
-      "link": "https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html",
-      "publishedAt": "2026-09-01T17:18:09.000Z"
     },
     {
       "source": "The Hill",
@@ -36,41 +71,6 @@
       "titleOriginal": "Hakeem Jeffries calls Laura Loomer a ‘stone-cold racist,’ demands Republicans denounce her",
       "link": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/",
       "publishedAt": "2026-09-01T17:07:33.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA afirmam estar atacando alvos no Irã, enquanto as hostilidades se intensificam novamente após um mês sem ações militares",
-      "titleOriginal": "US says it’s striking targets in Iran as hostilities flare again after month with no military action",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
-      "publishedAt": "2026-09-01T17:02:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Assembleia Legislativa da Califórnia votará projeto de lei para ajudar as vítimas dos incêndios florestais, após ter rejeitado partes do plano de Newsom",
-      "titleOriginal": "California Legislature to vote on bill to aid wildfire victims after blocking parts of Newsom's plan",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWRnV2I2dWRlQTV2WTNBNWl0U3lSSlZXeWVtakpZRkN4UG9DdDFlNGo5dkZXczZqTGlhdmZDelhGRjZwYXZQVkxtbVZ2V053ZGlnQlh3V3hOMGFJTkVaU09rUXJjLUQ4VFFKbzRBc2dvUGl4NElLOXNjWl94cGNCRjZna0N2UERITDdUdTRXeXNDT05aakJOVXlRMDkweGJGdEx1ekJuM24tYWhNNjN3WGJ6aEFoejA?oc=5",
-      "publishedAt": "2026-09-01T17:02:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Putin e Trump se recusam a aceitar a realidade de suas guerras",
-      "titleOriginal": "Putin and Trump refuse to accept the realities of their wars",
-      "link": "https://thehill.com/opinion/national-security/6062270-presidents-rejecting-bad-news/",
-      "publishedAt": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da onda de vendas de títulos",
-      "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-      "publishedAt": "2026-09-01T16:15:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições de meio de mandato",
-      "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
-      "publishedAt": "2026-09-01T16:09:41.000Z"
     }
   ]
 }
