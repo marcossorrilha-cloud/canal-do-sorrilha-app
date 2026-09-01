@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-01T17:25:58.927Z",
+  "updatedAt": "2026-09-01T17:49:18.511Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "EUA lançam ataques aéreos contra o Irã pela segunda vez em três dias",
-      "titleOriginal": "U.S. Launches Airstrikes on Iran for 2nd Time in Three Days",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T17:22:40.000Z"
+      "source": "The Hill",
+      "title": "Jesse Eisenberg e Mark Hamill participarão da leitura ao vivo de “American Tail”, em apoio à imigração",
+      "titleOriginal": "Jesse Eisenberg, Mark Hamill to join pro-immigration 'American Tail' live reading",
+      "link": "https://thehill.com/blogs/in-the-know/6063784-jesse-eisenberg-mark-hamill-american-tail-workers-circle/",
+      "publishedAt": "2026-09-01T17:44:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hunter Biden afirma que Harris não era “leal ao extremo” ao seu pai",
+      "titleOriginal": "Hunter Biden says Harris was not 'loyal to a fault' to his father",
+      "link": "https://thehill.com/blogs/in-the-know/6063405-hunter-biden-criticizes-harris/",
+      "publishedAt": "2026-09-01T17:37:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As ameaças de Trump agora não passam de um golpe de sabre com uma faca de plástico",
+      "titleOriginal": "Trump's threats are now just saber-rattling with a plastic knife",
+      "link": "https://thehill.com/opinion/white-house/6062599-us-diplomacy-trump-bluster/",
+      "publishedAt": "2026-09-01T17:30:00.000Z"
     },
     {
       "source": "New York Times",
@@ -25,9 +39,16 @@
     },
     {
       "source": "AP News",
-      "title": "Os EUA afirmam estar atacando alvos no Irã, à medida que as hostilidades se intensificam novamente após um mês sem ações militares",
+      "title": "Os EUA afirmam estar atacando alvos no Irã, enquanto as hostilidades se intensificam novamente após um mês sem ações militares",
       "titleOriginal": "US says it’s striking targets in Iran as hostilities flare again after month with no military action",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
+      "publishedAt": "2026-09-01T17:02:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Assembleia Legislativa da Califórnia votará projeto de lei para ajudar as vítimas dos incêndios florestais, após ter rejeitado partes do plano de Newsom",
+      "titleOriginal": "California Legislature to vote on bill to aid wildfire victims after blocking parts of Newsom's plan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWRnV2I2dWRlQTV2WTNBNWl0U3lSSlZXeWVtakpZRkN4UG9DdDFlNGo5dkZXczZqTGlhdmZDelhGRjZwYXZQVkxtbVZ2V053ZGlnQlh3V3hOMGFJTkVaU09rUXJjLUQ4VFFKbzRBc2dvUGl4NElLOXNjWl94cGNCRjZna0N2UERITDdUdTRXeXNDT05aakJOVXlRMDkweGJGdEx1ekJuM24tYWhNNjN3WGJ6aEFoejA?oc=5",
       "publishedAt": "2026-09-01T17:02:00.000Z"
     },
     {
@@ -38,15 +59,8 @@
       "publishedAt": "2026-09-01T17:00:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Facção da Câmara dos Deputados pretende congelar a agenda de Johnson; EUA atacam alvos no Irã",
-      "titleOriginal": "Live updates: House faction aims to freeze Johnson's agenda; US strikes Iran targets",
-      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
-      "publishedAt": "2026-09-01T16:59:47.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Ações caem em Wall Street sob pressão da alta nos preços do petróleo e da onda de vendas de títulos",
+      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da onda de vendas de títulos",
       "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
       "publishedAt": "2026-09-01T16:15:00.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
       "publishedAt": "2026-09-01T16:09:41.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Investidores em zonas de oportunidade precisam arcar com impostos há muito adiados",
-      "titleOriginal": "Long-Delayed Tax Bill Comes Due for Opportunity Zone Investors",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXlnYlZIWGh5MzRKbWZaTnRsQUdBRGRQSUhKREZ3Y2xFTUN0eF9yWm9BQlRaWmhldzBqRUkzUEptMWhZQmg3aW14c3NPVVJaLUxibVU1WEVSc1AtR0l1bGZBOWZ4OWVEWVJURVREUXhOazN3MlVBeFVEQTl3UkgzSjR6VVRUbHhIWEpSRzQzeVhZWFVia2ZSUnkxN1l1V2ZxU2dDbml0ajJjazlDR0JvdHFzRmU?oc=5",
-      "publishedAt": "2026-09-01T16:09:08.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O presidente do Irã afirma que o país voltaria a cumprir o acordo de cessar-fogo se os EUA também o fizessem, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T16:06:00.000Z"
     }
   ]
 }
