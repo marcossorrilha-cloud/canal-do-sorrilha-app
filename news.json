@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-09-01T16:55:18.843Z",
+  "updatedAt": "2026-09-01T17:25:58.927Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da onda de vendas de títulos",
-      "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-      "publishedAt": "2026-09-01T16:15:00.000Z"
+      "source": "New York Times",
+      "title": "EUA lançam ataques aéreos contra o Irã pela segunda vez em três dias",
+      "titleOriginal": "U.S. Launches Airstrikes on Iran for 2nd Time in Three Days",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "publishedAt": "2026-09-01T17:22:40.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
-      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "publishedAt": "2026-09-01T16:12:47.000Z"
+      "title": "O que é preciso saber sobre o setor energético venezuelano após o acordo petrolífero de Trump",
+      "titleOriginal": "What to Know About Venezuelan Energy Following Trump’s Oil Deal",
+      "link": "https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html",
+      "publishedAt": "2026-09-01T17:18:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hakeem Jeffries chama Laura Loomer de “racista convicta” e exige que os republicanos a condenem",
+      "titleOriginal": "Hakeem Jeffries calls Laura Loomer a ‘stone-cold racist,’ demands Republicans denounce her",
+      "link": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/",
+      "publishedAt": "2026-09-01T17:07:33.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA afirmam estar atacando alvos no Irã, à medida que as hostilidades se intensificam novamente após um mês sem ações militares",
+      "titleOriginal": "US says it’s striking targets in Iran as hostilities flare again after month with no military action",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
+      "publishedAt": "2026-09-01T17:02:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Putin e Trump se recusam a aceitar a realidade de suas guerras",
+      "titleOriginal": "Putin and Trump refuse to accept the realities of their wars",
+      "link": "https://thehill.com/opinion/national-security/6062270-presidents-rejecting-bad-news/",
+      "publishedAt": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Facção da Câmara dos Deputados pretende congelar a agenda de Johnson; EUA atacam alvos no Irã",
+      "titleOriginal": "Live updates: House faction aims to freeze Johnson's agenda; US strikes Iran targets",
+      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
+      "publishedAt": "2026-09-01T16:59:47.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações caem em Wall Street sob pressão da alta nos preços do petróleo e da onda de vendas de títulos",
+      "titleOriginal": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+      "publishedAt": "2026-09-01T16:15:00.000Z"
     },
     {
       "source": "New York Times",
@@ -25,52 +60,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Investidores em Zonas de Oportunidade precisam arcar com impostos há muito adiados",
+      "title": "Investidores em zonas de oportunidade precisam arcar com impostos há muito adiados",
       "titleOriginal": "Long-Delayed Tax Bill Comes Due for Opportunity Zone Investors",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXlnYlZIWGh5MzRKbWZaTnRsQUdBRGRQSUhKREZ3Y2xFTUN0eF9yWm9BQlRaWmhldzBqRUkzUEptMWhZQmg3aW14c3NPVVJaLUxibVU1WEVSc1AtR0l1bGZBOWZ4OWVEWVJURVREUXhOazN3MlVBeFVEQTl3UkgzSjR6VVRUbHhIWEpSRzQzeVhZWFVia2ZSUnkxN1l1V2ZxU2dDbml0ajJjazlDR0JvdHFzRmU?oc=5",
       "publishedAt": "2026-09-01T16:09:08.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Tribunal revoga lei de Nova York que buscava responsabilizar empresas de combustíveis fósseis pelas mudanças climáticas",
-      "titleOriginal": "Court strikes down New York law that sought to hold fossil fuel companies liable for climate change",
-      "link": "https://thehill.com/policy/energy-environment/6063511-new-york-fossil-fuels-climate-change-law/",
-      "publishedAt": "2026-09-01T15:59:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Será que JD Vance conseguirá conquistar os eleitores judeus céticos?",
-      "titleOriginal": "Can JD Vance Win Over Skeptical Jewish Voters?",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html",
-      "publishedAt": "2026-09-01T15:51:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Facção da Câmara pretende congelar a agenda de Johnson; Trump deve se reunir com executivos do setor de energia",
-      "titleOriginal": "Live updates: House faction aims to freeze Johnson's agenda; Trump set to huddle with energy executives",
-      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
-      "publishedAt": "2026-09-01T15:47:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Documentário da Netflix sobre o “avião isca” de Trump estreia nesta sexta-feira",
-      "titleOriginal": "Netflix documentary on Trump's 'decoy plane' coming Friday",
-      "link": "https://thehill.com/blogs/in-the-know/6063459-netflix-instadocs-trump-decoy-plane-air-force-one/",
-      "publishedAt": "2026-09-01T15:45:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vice-presidente do Bank of America é esfaqueado até a morte na Times Square",
-      "titleOriginal": "Bank of America Vice President Fatally Stabbed in Times Square",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG5hLVA1T19VRjlweXRBeVVBZHU5X0lxakpEZ25WakJYQ2xCNXo0MXVWS253dDlpUjBSem5VLXFQc0dpUWFIX1ZSbGszVTNBNFc3WWVwdVluWWJFREZrM1hUSWQ1REl0bUxaeEhSOUhFRFVKUEpjZXptZlNpWnVkbzBid2dTRi12VVdPVld1ZDU1VUtBaFJSRzlmVEdQZVhW?oc=5",
-      "publishedAt": "2026-09-01T15:45:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas da Câmara exigem respostas sobre a compra de 6.000 luvas de choque elétrico pelo ICE, no valor de US$ 16,7 milhões",
-      "titleOriginal": "House Democrats demand answers over ICE’s $16.7M purchase of 6,000 electric shock gloves",
-      "link": "https://thehill.com/homenews/house/6063404-democrats-oppose-ice-shock-gloves/",
-      "publishedAt": "2026-09-01T15:44:07.000Z"
+      "source": "AP News",
+      "title": "O presidente do Irã afirma que o país voltaria a cumprir o acordo de cessar-fogo se os EUA também o fizessem, além de outras notícias do Oriente Médio",
+      "titleOriginal": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
+      "publishedAt": "2026-09-01T16:06:00.000Z"
     }
   ]
 }
