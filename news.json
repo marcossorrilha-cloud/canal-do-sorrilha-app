@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-01T04:50:43.346Z",
+  "updatedAt": "2026-09-01T05:26:26.291Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Vance defende sua abordagem ao antissemitismo em declarações a conservadores judeus",
+      "titleOriginal": "Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+      "publishedAt": "2026-09-01T05:05:59.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Por dentro do plano de Trump para dar ao Pentágono uma participação nas riquezas petrolíferas da Venezuela",
-      "titleOriginal": "Exclusive | Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzdMWlhIdlktWm5yQ1Q1cXZSdzNiMzNDTURsRVFGSFBmcmhzSWZiZW5zcE95YU1hM1VLbVY3US1weTI0ZEtCSG5ZZXFQTW5SaklpV1NhVzhuVW9WLUlxbU1iRjdFZ1NGVlhJMmdaeFljaEFtMHV1bjY3M3Y4QVFza3B6MXM5cTVWakZXdklIaVRtZDlZamxtU3NqS1dLRXdLd01KdWk1cU1BQUlJdFlfUFp3YXpZamFlZms4bl9B?oc=5",
-      "publishedAt": "2026-09-01T04:49:13.000Z"
+      "title": "Este reduto da direita no Brasil está sendo duramente atingido pelas tarifas de Trump",
+      "titleOriginal": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
+      "publishedAt": "2026-09-01T05:01:22.000Z"
     },
     {
       "source": "Politico",
@@ -25,7 +32,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia enquanto as Forças Armadas dos EUA enfrentam duas guerras",
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "publishedAt": "2026-09-01T03:48:22.000Z"
@@ -45,32 +52,25 @@
       "publishedAt": "2026-09-01T03:09:15.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Mulher esfaqueia aleatoriamente duas pessoas na Times Square, em Nova York, matando uma delas, e depois é morta pela polícia",
+      "titleOriginal": "Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
+      "publishedAt": "2026-09-01T02:57:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano no governo Trump",
+      "title": "Como o Pentágono está entrando no mercado de petróleo venezuelano sob o governo Trump",
       "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
       "publishedAt": "2026-09-01T02:50:48.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Massie aponta os “co-conspiradores” de Epstein e discute a nova legislação sobre os arquivos de Epstein",
+      "title": "Massie aponta os “co-conspiradores” de Epstein e discute nova legislação sobre os arquivos de Epstein",
       "titleOriginal": "Massie names Epstein 'coconspirators,' discusses new Epstein files legislation",
       "link": "https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/",
       "publishedAt": "2026-09-01T02:16:39.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Mulher esfaqueia aleatoriamente duas pessoas na Times Square, em Nova York, matando uma delas, e depois é morta pela polícia",
-      "titleOriginal": "Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
-      "publishedAt": "2026-09-01T01:22:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os Emirados Árabes Unidos afirmam ter interceptado um drone iraniano sobre suas águas territoriais",
-      "titleOriginal": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-      "publishedAt": "2026-09-01T01:10:00.000Z"
     }
   ]
 }
