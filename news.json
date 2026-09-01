@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-01T06:54:06.080Z",
+  "updatedAt": "2026-09-01T07:27:42.903Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Guerra no Irã",
+      "titleOriginal": "Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "publishedAt": "2026-09-01T07:24:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
+      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
+      "publishedAt": "2026-09-01T07:01:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Por dentro do plano de Trump para dar ao Pentágono uma participação nas riquezas petrolíferas da Venezuela",
+      "titleOriginal": "Exclusive | Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzdMWlhIdlktWm5yQ1Q1cXZSdzNiMzNDTURsRVFGSFBmcmhzSWZiZW5zcE95YU1hM1VLbVY3US1weTI0ZEtCSG5ZZXFQTW5SaklpV1NhVzhuVW9WLUlxbU1iRjdFZ1NGVlhJMmdaeFljaEFtMHV1bjY3M3Y4QVFza3B6MXM5cTVWakZXdklIaVRtZDlZamxtU3NqS1dLRXdLd01KdWk1cU1BQUlJdFlfUFp3YXpZamFlZms4bl9B?oc=5",
+      "publishedAt": "2026-09-01T06:54:42.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
@@ -17,6 +38,13 @@
       "publishedAt": "2026-09-01T06:33:06.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Novo míssil dos EUA parece ter deixado um rastro de morte e destruição em uma cidade iraniana, segundo reportagem",
+      "titleOriginal": "New US missile appears to have left wide path of death and destruction in Iranian city, report says",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
+      "publishedAt": "2026-09-01T05:07:00.000Z"
+    },
+    {
       "source": "Politico",
       "title": "Vance estende a mão aos republicanos pró-Israel em discurso a portas fechadas",
       "titleOriginal": "Vance offers olive branch to pro-Israel Republicans in closed-door speech",
@@ -24,18 +52,18 @@
       "publishedAt": "2026-09-01T04:48:42.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para pagar as contas",
-      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-09-01T04:35:21.000Z"
+      "source": "Axios",
+      "title": "Bessent se reuniu com seu homólogo russo no G20",
+      "titleOriginal": "Bessent met with Russian counterpart at G20",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpVMTBoMkRpM1FZUHdxNkdsOWtDZllfelJJTjhnNS1ydEhWclBmMnBHcDZIUWpFRVF6T2VvZlFxaXd5TGF3a0RacFNRR25kQXBWaURXaERiR0VWeGN1QmJhZzlRZkxOaVE?oc=5",
+      "publishedAt": "2026-09-01T03:50:31.000Z"
     },
     {
       "source": "New York Times",
       "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "publishedAt": "2026-09-01T03:48:22.000Z"
+      "publishedAt": "2026-09-01T03:48:23.000Z"
     },
     {
       "source": "AP News",
@@ -43,34 +71,6 @@
       "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
       "publishedAt": "2026-09-01T03:16:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed sobre o comentário de Vance sobre o “mal”: “O que é mau é corromper a si mesmo”",
-      "titleOriginal": "El-Sayed on Vance 'evil' remark: 'What's evil is corrupting yourself'",
-      "link": "https://thehill.com/homenews/campaign/6062510-el-sayed-vance-evil-clash/",
-      "publishedAt": "2026-09-01T03:09:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Mulher esfaqueia aleatoriamente duas pessoas na Times Square, em Nova York, matando uma delas, e depois é morta pela polícia",
-      "titleOriginal": "Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
-      "publishedAt": "2026-09-01T02:57:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano no governo Trump",
-      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "publishedAt": "2026-09-01T02:50:48.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Massie aponta os “co-conspiradores” de Epstein e discute nova legislação sobre os arquivos de Epstein",
-      "titleOriginal": "Massie names Epstein 'coconspirators,' discusses new Epstein files legislation",
-      "link": "https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/",
-      "publishedAt": "2026-09-01T02:16:39.000Z"
     }
   ]
 }
