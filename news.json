@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-09-01T07:51:11.749Z",
+  "updatedAt": "2026-09-01T08:29:36.705Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Guerra no Irã",
-      "titleOriginal": "Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "publishedAt": "2026-09-01T07:47:12.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
-      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-09-01T07:01:46.000Z"
+      "title": "Preço do petróleo sobe com o recrudescimento das hostilidades entre os EUA e o Irã",
+      "titleOriginal": "Oil Rises on Renewed U.S.-Iran Hostilities",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5",
+      "publishedAt": "2026-09-01T07:45:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -22,6 +15,13 @@
       "titleOriginal": "Exclusive | Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzdMWlhIdlktWm5yQ1Q1cXZSdzNiMzNDTURsRVFGSFBmcmhzSWZiZW5zcE95YU1hM1VLbVY3US1weTI0ZEtCSG5ZZXFQTW5SaklpV1NhVzhuVW9WLUlxbU1iRjdFZ1NGVlhJMmdaeFljaEFtMHV1bjY3M3Y4QVFza3B6MXM5cTVWakZXdklIaVRtZDlZamxtU3NqS1dLRXdLd01KdWk1cU1BQUlJdFlfUFp3YXpZamFlZms4bl9B?oc=5",
       "publishedAt": "2026-09-01T06:54:42.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinzenta”",
+      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
+      "publishedAt": "2026-09-01T06:38:30.000Z"
     },
     {
       "source": "New York Times",
@@ -32,10 +32,10 @@
     },
     {
       "source": "AP News",
-      "title": "Mais de 1.000 mortos em enchentes catastróficas no Nepal e na China",
+      "title": "Mais de 1.000 mortos em inundações catastróficas no Nepal e na China",
       "titleOriginal": "More than 1,000 dead from catastrophic Nepal-China floods",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?oc=5",
-      "publishedAt": "2026-09-01T06:14:00.000Z"
+      "publishedAt": "2026-09-01T06:01:00.000Z"
     },
     {
       "source": "AP News",
@@ -53,6 +53,13 @@
     },
     {
       "source": "Axios",
+      "title": "Mais nove empresas farmacêuticas fecharam acordos sobre preços com Trump",
+      "titleOriginal": "Nine more drugmakers cut pricing deals with Trump",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTkxMRTk1TUIwc09fZXM1S1NsVHJKUWk4aWhBanU1V3FpSmpUbnJLemtreWdwVS1JWms4c3p4dDladDdMd1FzMWl0YlJ4VDUwWFYyVWlORkFmRXNBRWl1OEM0UHYtajhobzZZ?oc=5",
+      "publishedAt": "2026-09-01T03:54:34.000Z"
+    },
+    {
+      "source": "Axios",
       "title": "Bessent se reuniu com seu homólogo russo no G20",
       "titleOriginal": "Bessent met with Russian counterpart at G20",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpVMTBoMkRpM1FZUHdxNkdsOWtDZllfelJJTjhnNS1ydEhWclBmMnBHcDZIUWpFRVF6T2VvZlFxaXd5TGF3a0RacFNRR25kQXBWaURXaERiR0VWeGN1QmJhZzlRZkxOaVE?oc=5",
@@ -64,13 +71,6 @@
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "publishedAt": "2026-09-01T03:48:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
-      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-      "publishedAt": "2026-09-01T03:16:00.000Z"
     }
   ]
 }
