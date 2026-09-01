@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-01T01:50:20.661Z",
+  "updatedAt": "2026-09-01T02:26:33.813Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Massie aponta Epstein como “co-conspirador” e discute nova legislação sobre os arquivos de Epstein",
+      "titleOriginal": "Massie names Epstein 'coconspirators,\" discusses new Epstein files legislation",
+      "link": "https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/",
+      "publishedAt": "2026-09-01T02:16:39.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
+      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "publishedAt": "2026-09-01T01:56:02.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
@@ -17,8 +31,15 @@
       "publishedAt": "2026-09-01T01:32:02.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Mulher esfaqueia aleatoriamente duas pessoas na Times Square, em Nova York, matando uma delas, e depois é morta pela polícia",
+      "titleOriginal": "Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
+      "publishedAt": "2026-09-01T01:22:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "publishedAt": "2026-09-01T01:14:55.000Z"
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-01T00:44:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A Casa Branca está trabalhando em conjunto com a North American Blue Energy Partners em um acordo petrolífero com a Venezuela",
-      "titleOriginal": "White House working with North American Blue Energy Partners on Venezuela oil deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxoZzJrWHM5Tk4wZGg4VmRETnctdGo0d2hLRzlZai1VMTFFMnB0bEdEODhRNEpZZGFaamdseFM3TDJnUlNUcEFTeU1sbTI5TWV6bTY1bGxPcmpGMml0RDdYeGI5dTQyZ2VQOVJkTnIxVzVsSmZQdVZRQWNmamRjMXhxMUE1RnlMcE1EX2djLWZabmNoX2ZRdnln?oc=5",
-      "publishedAt": "2026-09-01T00:27:00.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Democratas propõem contraproposta à resolução antisssocialista do Partido Republicano",
       "titleOriginal": "Democrats propose counter to GOP’s anti-socialism resolution",
       "link": "https://thehill.com/homenews/house/6062370-democrats-socialism-resolution/",
       "publishedAt": "2026-09-01T00:19:38.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Centenas de pessoas podem estar presas em túneis de usinas hidrelétricas, enquanto o número de mortos pelas enchentes ultrapassa 950 no Nepal e na China",
-      "titleOriginal": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-      "publishedAt": "2026-09-01T00:01:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump defende incentivo fiscal federal para o cinema e a televisão",
-      "titleOriginal": "Trump Calls for Federal Film and Television Tax Incentive",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1lGVHFDY3RmMkUzMXpZOTdLTzI3YnI4cVJSU2tvdWhkRWpzQlloWDV4dDRRcUpwSTVIY2Q0NUg1bFNiQUYxWEZkTFpncU1xdVBOeTJQbW5sMjVPa0IwZl9rWHVaZ1NMWUdUcHdwVi1PVVpXUDViUmtvMFVTR3hqRkUyTzkzZHY3U1FxMWRoT09wbnp0b1JOdlZNdVhXNjZGS2Z2dA?oc=5",
-      "publishedAt": "2026-08-31T23:56:00.000Z"
     }
   ]
 }
