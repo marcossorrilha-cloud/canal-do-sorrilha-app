@@ -1,55 +1,41 @@
 {
-  "updatedAt": "2026-08-31T23:48:52.984Z",
+  "updatedAt": "2026-09-01T00:37:32.409Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Democratas propõem contraproposta à resolução antisssocialista do Partido Republicano",
+      "titleOriginal": "Democrats propose counter to GOP’s anti-socialism resolution",
+      "link": "https://thehill.com/homenews/house/6062370-democrats-socialism-resolution/",
+      "publishedAt": "2026-09-01T00:19:38.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Trump zomba dos que se opõem aos centros de dados, dizendo que eles querem continuar “atrasados e pobres”",
+      "title": "Trump zomba dos opositores do centro de dados, dizendo que eles querem continuar “atrasados e pobres”",
       "titleOriginal": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
       "publishedAt": "2026-08-31T23:30:07.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
-      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "publishedAt": "2026-08-31T23:27:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-08-31T23:25:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Suprema Corte autoriza a continuação da construção do salão de festas de Trump",
-      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
-      "publishedAt": "2026-08-31T23:09:18.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Não parece provável que os eleitores da MAHA sejam o impulso do Partido Republicano nas eleições de meio de mandato",
+      "title": "Não parece provável que os eleitores do MAHA sejam o impulso do Partido Republicano nas eleições de meio de mandato",
       "titleOriginal": "MAHA voters don’t seem likely to be GOP’s midterm boost",
       "link": "https://thehill.com/newsletters/healthcare/6062243-maha-voters-dont-seem-likely-gops-midterm-boost/",
       "publishedAt": "2026-08-31T22:51:19.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Vance tenta conquistar os eleitores judeus no epicentro da disputa democrata sobre Israel",
+      "title": "Vance busca conquistar os eleitores judeus no epicentro da disputa democrata sobre Israel",
       "titleOriginal": "Vance woos Jewish voters in epicenter of Democratic fight over Israel",
       "link": "https://thehill.com/homenews/campaign/6062198-jd-vance-republican-jewish-coalition-israel-abdul-el-sayed/",
       "publishedAt": "2026-08-31T22:47:46.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A “Ham and Cheese House” de Palm Beach é colocada à venda por US$ 105 milhões",
-      "titleOriginal": "Exclusive | Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVN3YUk1YW9teU8yOFNMR1R4cmVCaFlZcE1ZbEZBVTNCU291LUozdkF6VDJQQUFUUXZZOG8zdU5WelNoeEVPNlhZTDNReW9teXNUdDhLd052bGd2VGhXMUlEUnFZU2ltb1A3UEd5Sm9FTEVKM0xGRzFZenctWVR5QVZYNVNRSi1xTkk0aG1B?oc=5",
-      "publishedAt": "2026-08-31T22:45:29.000Z"
+      "source": "The Hill",
+      "title": "Trump: Os EUA controlam uma grande parte do petróleo da Venezuela",
+      "titleOriginal": "Trump: US has control of large slice of Venezuela's oil",
+      "link": "https://thehill.com/newsletters/energy-environment/6062207-trump-us-has-control-of-large-slice-of-venezuelas-oil/",
+      "publishedAt": "2026-08-31T22:35:59.000Z"
     },
     {
       "source": "The Hill",
@@ -59,11 +45,11 @@
       "publishedAt": "2026-08-31T22:33:40.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Secretário do Exército renuncia após meses de atritos com Hegseth",
-      "titleOriginal": "Exclusive | Army Secretary Resigns After Months of Friction With Hegseth",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGFjUVNrMWRBOVdMdWRZdzNtNEpvNTVIWkh3dWFfcXc1akI2aWYySmJVOFg2bWh0a1pjdzM0VE9WNjlOaWhscnFGaUZwNWp0TFV4aDZOQ2FVb2pFd1YtajVLVDJpcjJuajZYY2k3SnBIUmRjNFpTY2tQbnhrZWtWNlNNdkMwR1NEZG5JZGIwd0pLUk5tZU9VY2NwOHFndm9mZFY3RkJDVE5ZRW9tdF9yZjNqNzczSTA?oc=5",
-      "publishedAt": "2026-08-31T22:23:00.000Z"
+      "source": "The Hill",
+      "title": "O secretário do Exército, Driscoll, renuncia após meses de disputa de competências com Hegseth",
+      "titleOriginal": "Army Secretary Driscoll resigns after months-long turf war with Hegseth",
+      "link": "https://thehill.com/policy/defense/6062211-army-secretary-driscoll-to-depart-pentagon/",
+      "publishedAt": "2026-08-31T22:24:46.000Z"
     },
     {
       "source": "New York Times",
@@ -71,6 +57,20 @@
       "titleOriginal": "Scott Brown Was a GOP Star. Will It Matter in the New Hampshire Senate Race?",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/new-hampshire-senate-scott-brown.html",
       "publishedAt": "2026-08-31T22:17:59.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Receita proveniente de auditorias do IRS despencou durante o governo Trump, aponta órgão de fiscalização",
+      "titleOriginal": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
+      "link": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
+      "publishedAt": "2026-08-31T22:12:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pentágono assina contratos de 7 anos para impulsionar a produção de interceptores",
+      "titleOriginal": "Pentagon inks 7-year deals to bolster interceptor production",
+      "link": "https://thehill.com/newsletters/defense-national-security/6062154-pentagon-inks-deals-bolster-interceptor-production/",
+      "publishedAt": "2026-08-31T22:10:50.000Z"
     }
   ]
 }
