@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-01T09:52:36.474Z",
+  "updatedAt": "2026-09-01T10:30:32.694Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Denunciante afirma que autoridades do governo Trump estão desobedecendo ordens judiciais sobre o voto por correspondência",
+      "titleOriginal": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
+      "publishedAt": "2026-09-01T10:00:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os candidatos democratas à reeleição em Massachusetts esperam resistir à pressão nas primárias por uma mudança geracional",
+      "titleOriginal": "Democratic incumbents in Massachusetts hope to defy primary push for generational change",
+      "link": "https://thehill.com/homenews/campaign/6062040-massachusetts-democrats-primary-challenges-house-seante/",
+      "publishedAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nova turbulência abala a estabilidade da guerra no Irã para Trump",
+      "titleOriginal": "New turbulence upends stability of Iran war for Trump",
+      "link": "https://thehill.com/homenews/analysis/6062071-trump-iran-conflict-us-volatility-strait-hormuz/",
+      "publishedAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os democratas, abalados pelo movimento “woke” e por Trump, defendem que são eles os “normais”",
+      "titleOriginal": "Democrats, shook by woke and Trump, make case they’re the normal ones",
+      "link": "https://thehill.com/homenews/campaign/6062082-trump-era-democratic-primary-shift/",
+      "publishedAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump causa nova dor de cabeça ao Partido Republicano ao pedir que a FCC tome medidas contra a NBC e Welker",
+      "titleOriginal": "Trump creates new headache for GOP with call for FCC to crack down on NBC, Welker",
+      "link": "https://thehill.com/homenews/senate/6062204-trump-welker-press-controversy/",
+      "publishedAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Shein faz uma estreia sem brilho no mercado após anos de tensões geopolíticas",
+      "titleOriginal": "Shein Makes Ho-Hum Market Debut After Years of Geopolitical Drama",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclRYSDRUWnV0X3F0OUNPU1NXVjZBZEdXZ0NPR1czY2dSOGZydEpXbnZOY2d6U0RPMHJNcEYwa1d3UXdIXzItaE9oLU5FT05qSlJCakR1aW5sLU5zeGVzdjhFbExnZnNSMzFzR1BYSXQwVTlab05Da1Z3RmpGcnJUZ3JvLS1oQUtDdDZsMEtjVU1DUQ?oc=5",
+      "publishedAt": "2026-09-01T09:49:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Axios C-Suite: Aumente sua produtividade com o Simplify",
@@ -11,7 +53,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um drama acirrado pela sucessão",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-01T09:32:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado conflito sucessório",
       "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
       "publishedAt": "2026-09-01T09:31:44.000Z"
@@ -22,55 +71,6 @@
       "titleOriginal": "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?oc=5",
       "publishedAt": "2026-09-01T09:25:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Pesquisa com jovens: menos de 1 em cada 3 se orgulha do “rumo que os Estados Unidos estão tomando”",
-      "titleOriginal": "Youth poll: Less than 1 in 3 proud of \"where America is heading\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yeEJxY1d4aUlqOFZNZldkWXZFNTNyWDFLdVoxOEs5S1p3cVlQczBvUW5USVZxRGhIYzVFcUpBRnJWaGhzaXV1MVFhSG9zR1gwWG1BVkRuWkt2cWlRQXBfWjJ3?oc=5",
-      "publishedAt": "2026-09-01T09:02:12.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a Suprema Corte esconde sua própria história",
-      "titleOriginal": "How the Supreme Court Locks Away Its Own History",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html",
-      "publishedAt": "2026-09-01T09:00:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por que o secretário do Exército, Dan Driscoll, renunciou",
-      "titleOriginal": "Why Army Secretary Dan Driscoll resigned",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTlqdW1MckhwOGpwdjNzTzhnekpVWGpacDZ5NHg4UTZabHE3czQ0NDRKRVk1a0pubWc1eURKNkdrM3k2UFRMYl9yYVNzOExpck9CbEZCc2x2RDFTdkp6VXZXQmJ3cWlHYzl1Z2tEYnB5OWE1dk8teUI4emdlNlUxVl9R?oc=5",
-      "publishedAt": "2026-09-01T08:52:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Rendimentos globais dos títulos sobem à medida que os preços do petróleo alimentam os temores de inflação",
-      "titleOriginal": "Global Bond Yields Surge as Oil Prices Fuel Inflation Worries",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE1melJkWU5uSUtsb1U4aEo2Q0NIQmx5SVB2dGpOaHMzeFdJVm81TzRxYUkzYlFMMUxhdW44NktaMzFKQS1aU21aZ1JQd3N3UGFFSGtfMmo5R1lrTTNSQ1VUVmhSdWlxYkxRVmdvOXBaM0JqSEgtb0h2TUx6QURhUHg1YVJKY3dlZWtyanJJT0pTbFhveDN2YlZEdEZVdG8xUE02SmIwejY?oc=5",
-      "publishedAt": "2026-09-01T08:21:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe com o recrudescimento das hostilidades entre os EUA e o Irã",
-      "titleOriginal": "Oil Rises on Renewed U.S.-Iran Hostilities",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5",
-      "publishedAt": "2026-09-01T07:45:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Congresso finalmente está discutindo como salvar a Previdência Social",
-      "titleOriginal": "Congress Is Finally Talking About Saving Social Security",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN29tRkdCTUhYZ1VWYkxUeVVad3Z4R2IxSDVfOEdSRV84SDFCV0NJUUxtb1Z2c3d0b3hXOHpnQlZWdDVtaHVJV3lpa3R4dncwcHB2MFlvczF2SHdSZ3VVdnRiXzBuY1hKZzJrRTZ2SkJuRXg2bjdNdy0za0ZPVncyTXRteTA?oc=5",
-      "publishedAt": "2026-09-01T07:31:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo sobem e as ações oscilam à medida que a violência no Oriente Médio se intensifica, aumentando a incerteza",
-      "titleOriginal": "Oil prices rise and stocks waver as Middle East violence flares, adding to uncertainty",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-      "publishedAt": "2026-09-01T06:41:00.000Z"
     }
   ]
 }
