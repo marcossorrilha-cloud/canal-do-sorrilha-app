@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-31T15:21:44.598Z",
-  "slot": "2026-08-31-PM",
+  "updatedAt": "2026-09-01T03:28:11.800Z",
+  "slot": "2026-09-01-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Em uma cidade no coração dos EUA, a violência dos colonos israelenses na Cisjordânia atinge de perto a população local",
-      "titleOriginal": "In a town in the heart of the US, Israeli settler violence in West Bank hits close to home",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTUwTWpnTXNPaG40cGtwU3ZXLXFPbTFWcDlRX1pWNDFmaFRxYkVkOHBaQkJ1S3oxQ2hlZVpiNGZhS1VVRHdPZnZRNS0yYnhBcVIyTWdMY0w1QVFoN19reVZsd0d4NVluUVlzMnh4d3c5Ry1DM0k0ZlZMRktaYVRyYVI0MnpEZFpTQ0dONXE0dzc5Mkg2TTRIRFhWaw?oc=5",
-      "source": "The Guardian",
+      "title": "Mike Johnson afirmou que apoia a candidatura à reeleição de Max Miller, um “excelente membro”",
+      "titleOriginal": "Mike Johnson said he supports ‘great member’ Max Miller’s reelection bid",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVlFUkpKTE1VSTVoZlNhUVZlZjFPRkNFdUN3ck9FZl9JZHNiYlhudW9aaEhjUzZocE5SS1ZUcE50a0RDbzBzTEd2VkxXUDk1X3ZQZlEwaDJaaWNwRHdmNG05NFZhQ2lnaVlqNGw2YzAwRXMyaDdURVBleXlEM0NrNzRaODJFUGpVay1jWmtfMjlyMW5vUjdKTUJKYmsyektLTWY4Q0JucW02UE01aDdQME5fSzVqVGkxWmlybmx3?oc=5",
+      "source": "Washington Post",
       "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump afirma que o petróleo venezuelano reabastecerá as Reservas Estratégicas de Petróleo",
-      "titleOriginal": "Trump says Venezuelan oil will replenish Strategic Petroleum Reserves",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTZJQm9HRVh2SVJfWnh4LU4wWG1CbTRnZjhsUzJ1WTFDU25LdGc3ck5DOGt3UUREOHJnTFpJODhfRjhHUkl6MFNDcllmdXdRc2wzTnVtTTV6QWlzZjNZb0VmZFVwWmpEd0tNd1dkamFITzgxN2J4eWZsLXlCb203NU9POXJNdWU2dzBzb05SS0Y0dE1NY2FhYlpoWVV2M2ZEbHBSY190XzZtNEc5eFJLdVhFQXF0LV9hbmtkSw?oc=5",
-      "source": "Washington Examiner",
-      "coverage": 3
+      "title": "Exclusivo | Empresa petrolífera venezuelana de Trump planeja grande ofensiva de perfuração",
+      "titleOriginal": "Exclusive | Trump’s Venezuelan Oil Company Plans Massive Drilling Push",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXBsR2laWEk0LUpLUFhld2R2Q3g3bXlGZ1JrbG96eDgxMmV0dmx6SjR3VEg2eEw0cnN3NElDYTUtczdHMUlrTkNvY0tESjJQYWk1OS16b0tnOE5fcGdoRlA0M29pMUlUb1NEel9iQjgtclN3akNGWDVwWVFhNnZPN2F6aTRZVDRFZGZlSHNJTExtTUI4Tk5UOVgyVWF0VGhoeTJFWXMtNllLdw?oc=5",
+      "source": "Wall Street Journal",
+      "coverage": 4
     }
   ]
 }

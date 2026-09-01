@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-01T02:50:18.990Z",
+  "updatedAt": "2026-09-01T03:28:05.119Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Os líderes da China, da Rússia e da Índia estão entre os chefes de Estado reunidos para combater a influência dos EUA",
+      "titleOriginal": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
+      "publishedAt": "2026-09-01T03:16:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
+      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "publishedAt": "2026-09-01T02:50:48.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para pagar as contas",
+      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
       "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
       "publishedAt": "2026-09-01T02:31:44.000Z"
@@ -17,20 +31,6 @@
       "publishedAt": "2026-09-01T02:16:39.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Como o Pentágono está entrando no setor petrolífero venezuelano sob o governo Trump",
-      "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "publishedAt": "2026-09-01T01:56:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Rússia está bombardeando a Europa com uma nova onda de ataques da “zona cinza”",
-      "titleOriginal": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtQRHhaRGN0SEJtaXNMMFJGNEFGWXFzb3BTXzhhZVZCQl9mdmpPTDZkUkNLVUFZc0t3TzBrbjdpYjFPRUdOMHQ1MDJiV3B1MXZwa1JSdUNoTWpJSERvdURnTkFRY0JEUGxFN2RoRzBUclowbW1qRjF1UnlUUnRLZjNTUVdGOHkya29wRTRCQmh5dHNMMkRYZkZaQ0UxZjRoeXVPamo1cENfZw?oc=5",
-      "publishedAt": "2026-09-01T01:32:02.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Mulher esfaqueia aleatoriamente duas pessoas na Times Square, em Nova York, matando uma delas, e depois é morta pela polícia",
       "titleOriginal": "Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police",
@@ -39,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "publishedAt": "2026-09-01T01:14:55.000Z"
