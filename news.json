@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-01T22:25:12.340Z",
+  "updatedAt": "2026-09-01T22:49:06.770Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Câmara dos Deputados repreende Chuck Edwards por “assédio sexual” contra funcionários",
+      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
+      "publishedAt": "2026-09-01T22:27:26.000Z"
+    },
     {
       "source": "New York Times",
       "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
@@ -18,7 +25,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Homem acusado de levar uma guilhotina para perto do Capitólio publicou os planos antes de ser preso",
+      "title": "Homem acusado de levar uma guilhotina para perto do Capitólio divulgou os planos antes de ser preso",
       "titleOriginal": "Man accused of bringing guillotine near Capitol posted plans before arrest",
       "link": "https://thehill.com/blogs/in-the-know/6064692-man-guillotine-plan-capitol/",
       "publishedAt": "2026-09-01T22:09:13.000Z"
@@ -36,13 +43,6 @@
       "titleOriginal": "US strikes Iran and Tehran fires back as hostilities flare again",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
       "publishedAt": "2026-09-01T21:59:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Congresso finalmente está discutindo como salvar a Previdência Social",
-      "titleOriginal": "Congress Is Finally Talking About Saving Social Security",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN29tRkdCTUhYZ1VWYkxUeVVad3Z4R2IxSDVfOEdSRV84SDFCV0NJUUxtb1Z2c3d0b3hXOHpnQlZWdDVtaHVJV3lpa3R4dncwcHB2MFlvczF2SHdSZ3VVdnRiXzBuY1hKZzJrRTZ2SkJuRXg2bjdNdy0za0ZPVncyTXRteTA?oc=5",
-      "publishedAt": "2026-09-01T21:57:58.000Z"
     },
     {
       "source": "The Hill",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-01T21:47:36.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A Alemanha culpa a Rússia pela tentativa de ataque com drone ocorrida no mês passado no aeroporto de Leipzig",
-      "titleOriginal": "Germany blames Russia for last month’s attempted drone attack at Leipzig airport",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmlGSlctSEpyVzd1dDl0bElaeU04WDhBdEswNDFoQVoxWlpnZVBhOGl1T3l1U3NndGZ3alo3RmVLM1dlMGJkdl9fTlJKS1VLRnZJUzlnWkJyc3R5bERlbzR4aE5QZXhpNlE2WFhZOUhpcHJ2Z1lrVTFMVnpjZXZPaGpzR3Z2VUZOWk4xT1p4a3hLZXVkR29RQnBJcHg0S2MxWFQ1eEd2bmVvUXc?oc=5",
-      "publishedAt": "2026-09-01T21:46:00.000Z"
+      "source": "Axios",
+      "title": "Trump apoia o crédito fiscal federal à produção",
+      "titleOriginal": "Trump endorses federal production tax credit",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
+      "publishedAt": "2026-09-01T21:47:36.000Z"
     }
   ]
 }
