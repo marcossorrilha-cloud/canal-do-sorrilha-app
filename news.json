@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-09-01T02:26:33.813Z",
+  "updatedAt": "2026-09-01T02:50:18.990Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para pagar as contas",
+      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
+      "publishedAt": "2026-09-01T02:31:44.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Massie aponta Epstein como “co-conspirador” e discute nova legislação sobre os arquivos de Epstein",
-      "titleOriginal": "Massie names Epstein 'coconspirators,\" discusses new Epstein files legislation",
+      "title": "Massie aponta os “co-conspiradores” de Epstein e discute nova legislação sobre os arquivos de Epstein",
+      "titleOriginal": "Massie names Epstein 'coconspirators,' discusses new Epstein files legislation",
       "link": "https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/",
       "publishedAt": "2026-09-01T02:16:39.000Z"
     },
@@ -15,13 +22,6 @@
       "titleOriginal": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
       "publishedAt": "2026-09-01T01:56:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
-      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
-      "publishedAt": "2026-09-01T01:33:43.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -39,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia enquanto as Forças Armadas dos EUA enfrentam duas guerras",
       "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "publishedAt": "2026-09-01T01:14:55.000Z"
