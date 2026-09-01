@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-09-01T00:55:20.603Z",
+  "updatedAt": "2026-09-01T01:24:42.436Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
+      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
+      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+      "publishedAt": "2026-09-01T01:14:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que Syracuse não consegue atrair os alunos de que precisa para arcar com as despesas",
+      "titleOriginal": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUl6ek54MDUta1NqTlJjdWIwdkdGekpyTkstWURxOG1ZZHF0VmJuYi01bUZsb1lZekJFeUdZcjBTNVNFeW5BUHdnckZMNXlTUEYtVFRJZnpqbFpiWmxyUjFWYXpkN1hiYjNDYTZWWUtOMDEzeVRaQmxzVmhtNnpBVW9LckFQeWcwSGdWVWI2UkJWQzFGQlB5OWp3a0wxM0lwWXc?oc=5",
+      "publishedAt": "2026-09-01T01:01:44.000Z"
+    },
     {
       "source": "AP News",
       "title": "Bessent se reúne com o G20 para tentar mobilizar aliados em relação ao Irã, enquanto as tarifas prejudicam as relações",
       "titleOriginal": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
       "publishedAt": "2026-09-01T00:47:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Caine diz a Slotkin que não há planos de enviar militares às seções eleitorais em novembro",
-      "titleOriginal": "Caine tells Slotkin there are no plans to send military to polls in November",
-      "link": "https://thehill.com/policy/defense/6062392-caine-denies-military-election-intervention/",
-      "publishedAt": "2026-09-01T00:44:48.000Z"
     },
     {
       "source": "AP News",
@@ -52,25 +59,18 @@
       "publishedAt": "2026-08-31T23:30:07.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O secretário do Exército, Daniel Driscoll, renuncia ao cargo enquanto as Forças Armadas dos EUA enfrentam duas guerras",
-      "titleOriginal": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "publishedAt": "2026-08-31T23:27:08.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
       "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-08-31T23:25:00.000Z"
+      "publishedAt": "2026-08-31T23:26:22.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Suprema Corte autoriza a continuação da construção do salão de festas de Trump",
-      "titleOriginal": "Supreme Court allows Trump's ballroom construction to proceed",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
-      "publishedAt": "2026-08-31T23:09:18.000Z"
+      "source": "AP News",
+      "title": "Mulher que brandia duas facas é baleada pela polícia na Times Square",
+      "titleOriginal": "A woman brandishing two knives is shot by police in Times Square",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUo3SHlqTDVtQXFwUmc2am5iVEh5NFBWNENERDRaSDVCOVpXNXQ4cUJrLU9yS2RZaHRTLWlnZ0pXUHU5Nk5hUFZfb0UwT3BYSzNQTDJxeERXemVvSGZxb1g0SzJqWC1wVHlHYWx5SWZJVXdHUTk1R0Y1em9WaWNac19CMGk4ajk2?oc=5",
+      "publishedAt": "2026-08-31T23:10:00.000Z"
     }
   ]
 }
