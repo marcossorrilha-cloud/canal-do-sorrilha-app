@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-01T21:26:13.127Z",
+  "updatedAt": "2026-09-01T21:49:14.768Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Democratas da Câmara ficam abalados após deserções inesperadas",
+      "titleOriginal": "House Democrats left reeling after shock defections",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
+      "publishedAt": "2026-09-01T21:47:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-01T21:32:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tim Cook passa o comando da Apple, mas mantém sua influência política",
+      "titleOriginal": "Tim Cook hands over reins of Apple, keeps political clout",
+      "link": "https://thehill.com/newsletters/technology/6064542-tim-cook-hands-over-reins-of-apple-keeps-political-clout/",
+      "publishedAt": "2026-09-01T21:28:30.000Z"
+    },
     {
       "source": "New York Times",
       "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação incomum: na dissidência",
@@ -11,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Estudante nascido no Haiti, em Ohio, parece ter tirado a própria vida após perder o status de imigrante",
+      "title": "Estudante nascido no Haiti, que morava em Ohio, parece ter tirado a própria vida após perder seu status de imigrante",
       "titleOriginal": "Haitian-born student in Ohio appears to take his own life after losing immigration status",
       "link": "https://thehill.com/homenews/state-watch/6064510-haitian-student-ohio-suicide/",
       "publishedAt": "2026-09-01T21:19:18.000Z"
@@ -32,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Milo Yiannopoulos está “muito envergonhado” pelo apoio a Trump após a deportação",
+      "title": "Milo Yiannopoulos se diz “muito envergonhado” pelo apoio a Trump após a deportação",
       "titleOriginal": "Milo Yiannopoulos 'very ashamed' of support for Trump after deportation",
       "link": "https://thehill.com/media/6064328-milo-yiannopoulos-deportation-trump/",
       "publishedAt": "2026-09-01T21:10:43.000Z"
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-01T21:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
-      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
-      "publishedAt": "2026-09-01T20:58:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações caem em Wall Street sob pressão do aumento dos preços do petróleo e da alta nos rendimentos dos títulos",
-      "titleOriginal": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-      "publishedAt": "2026-09-01T20:48:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
-      "titleOriginal": "US and Iran trade strikes, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T20:15:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tina Peters recusa oferta de emprego no cartório eleitoral de um condado da Califórnia",
-      "titleOriginal": "Tina Peters turns down job with California county's registrar of voters",
-      "link": "https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job/",
-      "publishedAt": "2026-09-01T20:10:15.000Z"
+      "source": "Axios",
+      "title": "Denunciante do USPS alerta que novo sistema de cédulas eleitorais pode falhar",
+      "titleOriginal": "USPS whistleblower warns new ballot system could fail",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
+      "publishedAt": "2026-09-01T20:55:38.000Z"
     }
   ]
 }
