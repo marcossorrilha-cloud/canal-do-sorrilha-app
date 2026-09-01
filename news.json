@@ -1,20 +1,69 @@
 {
-  "updatedAt": "2026-09-01T22:49:06.770Z",
+  "updatedAt": "2026-09-01T23:22:35.842Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Câmara dos Deputados repreende Chuck Edwards por “assédio sexual” contra funcionários",
-      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
-      "publishedAt": "2026-09-01T22:27:26.000Z"
+      "source": "AP News",
+      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
+      "titleOriginal": "US and Iran trade strikes, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
+      "publishedAt": "2026-09-01T23:12:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
       "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T22:17:32.000Z"
+      "publishedAt": "2026-09-01T23:11:24.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O ex-presidente Joe Biden participará da cerimônia do 11 de setembro em Nova York",
+      "titleOriginal": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html",
+      "publishedAt": "2026-09-01T23:10:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Policial da Geórgia atira e mata o jumentinho “HeeHaw” durante buscas por criança desaparecida",
+      "titleOriginal": "Georgia officer shoots, kills baby donkey 'HeeHaw' during missing child search",
+      "link": "https://thehill.com/homenews/state-watch/6064827-georgia-police-shooting-donkey/",
+      "publishedAt": "2026-09-01T23:08:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas em situação vulnerável votam pela condenação do socialismo em meio à pressão das eleições de meio de mandato",
+      "titleOriginal": "Vulnerable Democrats vote to denounce socialism amid midterm pressure",
+      "link": "https://thehill.com/homenews/house/6064837-democrats-vote-denounce-socialism/",
+      "publishedAt": "2026-09-01T23:05:24.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-01T23:02:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama sucessório",
+      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
+      "publishedAt": "2026-09-01T23:01:51.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O trabalho dos Correios para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+      "publishedAt": "2026-09-01T22:57:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Câmara dos Deputados censura Chuck Edwards por “assédio sexual” contra funcionários",
+      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
+      "publishedAt": "2026-09-01T22:27:26.000Z"
     },
     {
       "source": "The Hill",
@@ -22,55 +71,6 @@
       "titleOriginal": "House censures North Carolina Republican over allegations of inappropriate behavior with staffers",
       "link": "https://thehill.com/homenews/house/6064573-house-censures-chuck-edwards/",
       "publishedAt": "2026-09-01T22:15:19.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Homem acusado de levar uma guilhotina para perto do Capitólio divulgou os planos antes de ser preso",
-      "titleOriginal": "Man accused of bringing guillotine near Capitol posted plans before arrest",
-      "link": "https://thehill.com/blogs/in-the-know/6064692-man-guillotine-plan-capitol/",
-      "publishedAt": "2026-09-01T22:09:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
-      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-01T22:01:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA atacam o Irã e Teerã revida, enquanto as hostilidades se intensificam novamente",
-      "titleOriginal": "US strikes Iran and Tehran fires back as hostilities flare again",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
-      "publishedAt": "2026-09-01T21:59:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Homem de Ohio se declara culpado por ter quebrado janelas na casa de Vance",
-      "titleOriginal": "Ohio man pleads guilty to smashing windows at Vance's home",
-      "link": "https://thehill.com/regulation/court-battles/6064527-ohio-man-pleads-guilty-vance/",
-      "publishedAt": "2026-09-01T21:53:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
-      "titleOriginal": "US and Iran trade strikes, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-      "publishedAt": "2026-09-01T21:52:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas da Câmara ficam abalados após deserções inesperadas",
-      "titleOriginal": "House Democrats left reeling after shock defections",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
-      "publishedAt": "2026-09-01T21:47:36.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump apoia o crédito fiscal federal à produção",
-      "titleOriginal": "Trump endorses federal production tax credit",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
-      "publishedAt": "2026-09-01T21:47:36.000Z"
     }
   ]
 }
