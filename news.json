@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-02T19:48:43.672Z",
+  "updatedAt": "2026-09-02T20:27:55.081Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Parecer do Departamento de Justiça insta os estados a comunicarem os casos de migrantes sem status legal permanente",
+      "titleOriginal": "DOJ opinion urges states to report migrants lacking permanent legal status",
+      "link": "https://thehill.com/homenews/administration/6067385-justice-department-states-migrants-safety-net-programs/",
+      "publishedAt": "2026-09-02T20:20:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump diz que está “feliz” por Harry e Meghan terem deixado os EUA para ir para a Grã-Bretanha",
+      "titleOriginal": "Trump says he's 'happy' Harry and Meghan left US for Britain",
+      "link": "https://thehill.com/blogs/in-the-know/6067374-trump-criticizes-royal-family-exit/",
+      "publishedAt": "2026-09-02T20:12:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T20:10:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Governo Trump inicia investigação sobre fraudes eleitorais envolvendo eleitores não cidadãos antes das eleições de meio de mandato",
+      "titleOriginal": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
+      "publishedAt": "2026-09-02T20:05:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
+      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-09-02T19:56:52.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Republicanos da Câmara pressionam autoridade comercial de Trump sobre importações de carne bovina e o Canadá",
@@ -10,18 +45,11 @@
       "publishedAt": "2026-09-02T19:44:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Governo de Trump inicia investigação sobre fraudes eleitorais envolvendo eleitores não cidadãos antes das eleições de meio de mandato",
-      "titleOriginal": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "publishedAt": "2026-09-02T19:43:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
-      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-      "publishedAt": "2026-09-02T19:42:22.000Z"
+      "source": "Wall Street Journal",
+      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
+      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
+      "publishedAt": "2026-09-02T19:39:32.000Z"
     },
     {
       "source": "The Hill",
@@ -29,13 +57,6 @@
       "titleOriginal": "DOJ sues Kansas school district over transgender student policies",
       "link": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
       "publishedAt": "2026-09-02T19:26:14.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
-      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
-      "publishedAt": "2026-09-02T19:23:40.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
       "publishedAt": "2026-09-02T19:13:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
-      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T19:10:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Conquistando os consumidores no US Open",
-      "titleOriginal": "Courting Consumers at the U.S. Open",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
-      "publishedAt": "2026-09-02T18:50:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assessor do Congresso sobrevive a um raio em Nova York",
-      "titleOriginal": "Congressional aide survives lightning strike in New York",
-      "link": "https://thehill.com/homenews/house/6067061-malliotakis-staffer-survives-lightning/",
-      "publishedAt": "2026-09-02T18:44:09.000Z"
     }
   ]
 }
