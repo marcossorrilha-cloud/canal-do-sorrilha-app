@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-02T19:24:39.190Z",
+  "updatedAt": "2026-09-02T19:48:43.672Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Republicanos da Câmara pressionam autoridade comercial de Trump sobre importações de carne bovina e o Canadá",
+      "titleOriginal": "House Republicans press Trump trade official over beef imports, Canada",
+      "link": "https://thehill.com/homenews/senate/6067256-greer-meet-republican-trade-concerns/",
+      "publishedAt": "2026-09-02T19:44:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Governo de Trump inicia investigação sobre fraudes eleitorais envolvendo eleitores não cidadãos antes das eleições de meio de mandato",
+      "titleOriginal": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
+      "publishedAt": "2026-09-02T19:43:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
+      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-09-02T19:42:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça dos EUA processa distrito escolar do Kansas por causa de políticas relativas a alunos transgêneros",
+      "titleOriginal": "DOJ sues Kansas school district over transgender student policies",
+      "link": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
+      "publishedAt": "2026-09-02T19:26:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
+      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
+      "publishedAt": "2026-09-02T19:23:40.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Como os repórteres do New York Times rastrearam o dinheiro oculto na política",
@@ -24,53 +59,18 @@
       "publishedAt": "2026-09-02T19:10:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Conquistando os consumidores no US Open",
+      "titleOriginal": "Courting Consumers at the U.S. Open",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
+      "publishedAt": "2026-09-02T18:50:31.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Assessor do Congresso sobrevive a um raio em Nova York",
       "titleOriginal": "Congressional aide survives lightning strike in New York",
       "link": "https://thehill.com/homenews/house/6067061-malliotakis-staffer-survives-lightning/",
       "publishedAt": "2026-09-02T18:44:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Embaixador dos EUA pede vigilância à OTAN: “Não dá para prever o que Vladimir Putin vai fazer”",
-      "titleOriginal": "US ambassador urges NATO vigilance: 'You can't predict what Vladimir Putin's going to do'",
-      "link": "https://thehill.com/homenews/administration/6066994-nato-ambassador-putin-threats-warning/",
-      "publishedAt": "2026-09-02T18:38:53.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo Trump lança campanha intensiva para identificar fraudes eleitorais difíceis de detectar antes das eleições de meio de mandato",
-      "titleOriginal": "Trump Administration Launches Blitz to Find Elusive Voter Fraud Ahead of Midterms",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "publishedAt": "2026-09-02T18:25:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Tiroteio em Kiev agrava a rivalidade entre as poderosas agências de inteligência da Ucrânia",
-      "titleOriginal": "Gunfight in Kyiv Deepens Feud Between Ukraine’s Powerful Spy Agencies",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2V3UUMyQThIU2RsSDluYlJ2c2h5Tlh3N24xVElfcElqdU5tVWFNZ2hHUE50eGlzY1lYZG9ZRDNqTkE2T1Z0ZVBCNGgzcm9rSkxuVHZIMi12dVJYaXdwcmRhY1VMZW5DSDA1eVdoRE9TdUJYazRNaEZ1MWhrS1hGWjB3Q3RycnRIWkxfYXdXTlFJQVZJWXhuTi15LW13dGpUeHlsNkVR?oc=5",
-      "publishedAt": "2026-09-02T18:01:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Departamento de Justiça tomará alguma medida em relação à lista de cúmplices de Epstein divulgada por Massie?",
-      "titleOriginal": "Will the DOJ act on Epstein co-conspirators list issued by Massie?",
-      "link": "https://thehill.com/homenews/house/6066438-doj-response-thomas-massie-list-jeffrey-epstein-co-conspirators-list/",
-      "publishedAt": "2026-09-02T17:58:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump se reúne com executivos do setor de viagens",
-      "titleOriginal": "Watch live: Trump meets with travel executives",
-      "link": "https://thehill.com/video-clips/6066903-watch-live-donald-trump-travel-executives-white-house-meeting/",
-      "publishedAt": "2026-09-02T17:49:30.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Quase 9 em cada 10 americanos relatam corrupção generalizada no governo após o retorno de Trump",
-      "titleOriginal": "Nearly 9 in 10 Americans report widespread government corruption after Trump's return",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYnFjQUhuWUV1c2NQOTJYX1AxcDlnVHhlbUZ2eFl3dXg1d0JLa0dsNFhhaW9JUWkyRF90ODhDOV92bkVGTVpvVGpXMWFpYU1FNHlLRHVnbjVjRXR3X2RIMV92WTlTVFZPYTNwNk9JUS1VTGV1U2NRREEwUllzWW10SHM1WQ?oc=5",
-      "publishedAt": "2026-09-02T17:48:45.000Z"
     }
   ]
 }
