@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-02T17:49:10.013Z",
+  "updatedAt": "2026-09-02T18:30:40.755Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Governo Trump lança ofensiva para encontrar fraudes eleitorais difíceis de detectar antes das eleições de meio de mandato",
+      "titleOriginal": "Trump Administration Launches Blitz to Find Elusive Voter Fraud Ahead of Midterms",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
+      "publishedAt": "2026-09-02T18:25:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça tomará alguma medida em relação à lista de cúmplices de Epstein divulgada por Massie?",
+      "titleOriginal": "Will the DOJ act on Epstein co-conspirators list issued by Massie?",
+      "link": "https://thehill.com/homenews/house/6066438-doj-response-thomas-massie-list-jeffrey-epstein-co-conspirators-list/",
+      "publishedAt": "2026-09-02T17:58:02.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-02T17:55:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump se reúne com executivos do setor de viagens",
+      "titleOriginal": "Watch live: Trump meets with travel executives",
+      "link": "https://thehill.com/video-clips/6066903-watch-live-donald-trump-travel-executives-white-house-meeting/",
+      "publishedAt": "2026-09-02T17:49:30.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Tribunal conclui que juiz não tinha competência para anular a condenação de Bowe Bergdahl",
@@ -17,8 +45,22 @@
       "publishedAt": "2026-09-02T17:43:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+      "publishedAt": "2026-09-02T17:38:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por dentro do tribunal de Nova Jersey onde se desenrola o conturbado divórcio de um magnata dos fundos de hedge",
+      "titleOriginal": "Inside the N.J. Courtroom Where a Hedge-Fund Titan’s Messy Divorce Is Playing Out",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHYzRmd2UzdWRm9IV1FPOXowc3MzamhhZUowb3NBZXhBbGNaajdoYVNtWGJCcWJFY25RbDhfYTJxOWZNSTJxUkpwNEY3MDBQRGZ2V1NqRy01Wlc4RnlYYzBoNzJCR1U0WS04NkU3ZW9FNy1nRWd0ZnZicUZlVVZ2R1Z0S0hpRzhtMk5JbFpkQzRNd01KdG9NeFNYVlVNak4xRzJRZUpHWEFDQnJVTmJON2JQZ21LeHFTVXgyaw?oc=5",
+      "publishedAt": "2026-09-02T17:36:41.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Grupo pró-Trump divulga primeiro anúncio eleitoral para as eleições de meio de mandato",
+      "title": "Grupo pró-Trump divulga primeiro anúncio eleitoral para as eleições gerais de meio de mandato",
       "titleOriginal": "Pro-Trump group releases first general election midterm ad",
       "link": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
       "publishedAt": "2026-09-02T17:34:36.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Democrats huddle to weigh changes to party rules following surprise defections",
       "link": "https://thehill.com/homenews/house/6066756-democrats-rules-changes-jeffries-golden-perez/",
       "publishedAt": "2026-09-02T17:33:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
-      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "publishedAt": "2026-09-02T17:31:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ações sobem em Wall Street, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
-      "titleOriginal": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T17:31:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Conquistando os consumidores no US Open",
-      "titleOriginal": "Courting Consumers at the U.S. Open",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
-      "publishedAt": "2026-09-02T17:20:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O braço de campanha do Partido Republicano na Câmara distribui mais de 2.000 ingressos para a convenção das eleições intermediárias no Texas",
-      "titleOriginal": "House GOP campaign arm distributes more than 2,000 tickets for midterm convention in Texas",
-      "link": "https://thehill.com/homenews/campaign/6066614-texas-gop-midterms-convention-dallas/",
-      "publishedAt": "2026-09-02T17:02:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nova Jersey solicita à Suprema Corte que analise disputa envolvendo o mercado de previsões",
-      "titleOriginal": "New Jersey asks Supreme Court to review prediction market dispute",
-      "link": "https://thehill.com/policy/technology/6066637-nj-asks-scotus-prediction-markets/",
-      "publishedAt": "2026-09-02T17:00:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Comissão da Câmara analisa a cidadania por direito de nascimento após decisão da Suprema Corte",
-      "titleOriginal": "Watch live: House panel examines birthright citizenship after Supreme Court ruling",
-      "link": "https://thehill.com/video-clips/6065494-watch-live-house-judiciary-committee-birthright-citizenship/",
-      "publishedAt": "2026-09-02T16:52:37.000Z"
     }
   ]
 }
