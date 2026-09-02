@@ -1,34 +1,55 @@
 {
-  "updatedAt": "2026-09-02T14:28:06.207Z",
+  "updatedAt": "2026-09-02T14:53:00.858Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
+      "titleOriginal": "UPS Rejiggers Operating Model, Names Chief Global Operations Officer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFowbGVOZ1l5MnRXSmxLREpBSm8tZXk5Zy00Mjg0cUlOYnRYdVpMQkhJb294dlhYanZXZXBFRzVTeldueGJvZ0p1NlZiN2FyT0xsRGRHeDAwM0pQRjNWNzJyZXRTR1oxQmFaT2hrX0lWdWtqV29ua0FSZFNWUjNoMUh4SUZhaG13OVp6dW14cDFrS3RKamxmR2FpMW11bkN6SFl4b2d6MkZ6RGNZVkNlb2FBaHNJQQ?oc=5",
+      "publishedAt": "2026-09-02T14:48:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
+      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "publishedAt": "2026-09-02T14:48:30.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Trump indicará Hung Cao para o cargo de Secretário da Marinha",
+      "title": "A “velocidade relâmpago” de Trump supera os tribunais",
+      "titleOriginal": "Trump’s ‘Lightning Speed’ Outpaces the Courts",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
+      "publishedAt": "2026-09-02T14:47:31.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e à retomada dos confrontos na guerra dos EUA contra o Irã",
+      "titleOriginal": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T14:45:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação incomum: na minoria",
+      "titleOriginal": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
+      "publishedAt": "2026-09-02T14:34:16.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump indicará Hung Cao para o cargo de secretário da Marinha",
       "titleOriginal": "Trump to Nominate Hung Cao as Navy Secretary",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html",
       "publishedAt": "2026-09-02T14:25:09.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "A “velocidade relâmpago” de Trump ameaça ultrapassar os tribunais",
-      "titleOriginal": "Trump’s ‘Lightning Speed’ Threatens to Outpace the Courts",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
-      "publishedAt": "2026-09-02T14:25:01.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Ocasio-Cortez, quando questionada se namoraria um republicano: “Não, mas não tenho nada contra quem faz isso”",
+      "title": "Ocasio-Cortez, sobre se namoraria um republicano: “Não, mas não tenho nada contra quem faz isso”",
       "titleOriginal": "Ocasio-Cortez on if she'd date a Republican: 'No, no foul to people who do'",
       "link": "https://thehill.com/homenews/house/6065920-ocasio-cortez-dating-values/",
       "publishedAt": "2026-09-02T14:16:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e à retomada dos combates na guerra dos EUA contra o Irã",
-      "titleOriginal": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T14:07:00.000Z"
     },
     {
       "source": "The Hill",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-02T14:00:47.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic fecha contrato de nuvem de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-09-02T13:54:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
-      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
-      "publishedAt": "2026-09-02T13:31:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: “Quando é que o povo iraniano vai se levantar e lutar?”",
-      "titleOriginal": "Trump: 'When are the Iranian people going to rise up and fight?'",
-      "link": "https://thehill.com/homenews/administration/6065514-donald-trump-iranian-people-middle-east-conflict/",
-      "publishedAt": "2026-09-02T13:12:41.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bilionários fizeram os preços em Montana dispararem. Os democratas conseguirão tirar proveito disso?",
-      "titleOriginal": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
-      "publishedAt": "2026-09-02T13:11:07.000Z"
+      "source": "Politico",
+      "title": "Trump convida republicanos de estados decisivos para um jantar no Rose Garden",
+      "titleOriginal": "Trump invites battleground Republicans to Rose Garden dinner",
+      "link": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
+      "publishedAt": "2026-09-02T13:32:27.000Z"
     }
   ]
 }
