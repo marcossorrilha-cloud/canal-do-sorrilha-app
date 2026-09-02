@@ -1,20 +1,48 @@
 {
-  "updatedAt": "2026-09-01T23:49:07.078Z",
+  "updatedAt": "2026-09-02T00:35:15.740Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Presidente do Estado-Maior Conjunto afirma que as Forças Armadas “não têm planos” de enviar tropas às seções eleitorais",
-      "titleOriginal": "Joint Chiefs Chairman Says Military Has ‘No Plans’ to Send Troops to the Polls",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/caine-military-elections.html",
-      "publishedAt": "2026-09-01T23:48:45.000Z"
+      "source": "Wall Street Journal",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-02T00:32:26.000Z"
     },
     {
       "source": "New York Times",
       "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
       "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-01T23:43:54.000Z"
+      "publishedAt": "2026-09-02T00:23:07.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "JD Vance busca conquistar os republicanos judeus. Tucker Carlson continua sendo uma figura marcante.",
+      "titleOriginal": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+      "link": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
+      "publishedAt": "2026-09-02T00:15:24.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições de meio de mandato",
+      "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
+      "publishedAt": "2026-09-02T00:06:04.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A primária democrata em Massachusetts é um confronto geracional, com o deputado Seth Moulton tendo como alvo o senador Ed Markey",
+      "titleOriginal": "Massachusetts Democratic primary is a generational clash as Rep. Seth Moulton targets Sen. Ed Markey",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
+      "publishedAt": "2026-09-02T00:05:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O ex-presidente Joe Biden participará da cerimônia do 11 de setembro em Nova York",
+      "titleOriginal": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html",
+      "publishedAt": "2026-09-01T23:50:54.000Z"
     },
     {
       "source": "The Hill",
@@ -32,45 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Câmara dos Deputados aprova adiamento da proibição do cânhamo",
+      "title": "Câmara aprova adiamento da proibição do cânhamo",
       "titleOriginal": "House passes postponement on hemp ban",
       "link": "https://thehill.com/newsletters/healthcare/6064877-house-passes-postponement-hemp-ban/",
       "publishedAt": "2026-09-01T23:13:37.000Z"
     },
     {
       "source": "AP News",
-      "title": "EUA e Irã trocam ataques, e outras notícias do Oriente Médio",
+      "title": "EUA e Irã trocam ataques e outras notícias do Oriente Médio",
       "titleOriginal": "US and Iran trade strikes, and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
       "publishedAt": "2026-09-01T23:12:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O ex-presidente Joe Biden participará da cerimônia do 11 de setembro em Nova York",
-      "titleOriginal": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html",
-      "publishedAt": "2026-09-01T23:10:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Policial da Geórgia atira e mata o jumentinho “HeeHaw” durante buscas por criança desaparecida",
-      "titleOriginal": "Georgia officer shoots, kills baby donkey 'HeeHaw' during missing child search",
-      "link": "https://thehill.com/homenews/state-watch/6064827-georgia-police-shooting-donkey/",
-      "publishedAt": "2026-09-01T23:08:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas em situação vulnerável votam a favor da condenação do socialismo em meio à pressão das eleições de meio de mandato",
-      "titleOriginal": "Vulnerable Democrats vote to denounce socialism amid midterm pressure",
-      "link": "https://thehill.com/homenews/house/6064837-democrats-vote-denounce-socialism/",
-      "publishedAt": "2026-09-01T23:05:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama de sucessão",
-      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
-      "publishedAt": "2026-09-01T23:01:51.000Z"
     }
   ]
 }
