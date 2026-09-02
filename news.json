@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-02T22:26:23.051Z",
+  "updatedAt": "2026-09-02T22:51:11.216Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-09-02T22:20:02.000Z"
+      "source": "The Hill",
+      "title": "Bessent busca apoio para a agenda de Trump no G20",
+      "titleOriginal": "Bessent rallies support for Trump agenda at G20",
+      "link": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
+      "publishedAt": "2026-09-02T22:42:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sob pressão para conter os conflitos com o Irã à medida que se aproximam as eleições de meio de mandato",
+      "titleOriginal": "Trump under pressure to contain Iran fighting as midterms near",
+      "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
+      "publishedAt": "2026-09-02T22:32:32.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Lutnick: A Anthropic está “de volta ao lado certo” com o governo Trump",
+      "titleOriginal": "Lutnick: Anthropic is \"back on the right side\" with Trump administration",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5",
+      "publishedAt": "2026-09-02T22:13:00.000Z"
     },
     {
       "source": "Axios",
@@ -57,20 +71,6 @@
       "titleOriginal": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
       "link": "https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment/",
       "publishedAt": "2026-09-02T21:20:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lindsay Clancy não aguenta mais um julgamento, afirma seu advogado",
-      "titleOriginal": "Lindsay Clancy can't handle another trial, her lawyer says",
-      "link": "https://thehill.com/homenews/6067026-lindsay-clancy-trial-lawyer/",
-      "publishedAt": "2026-09-02T21:20:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rubio minimiza a ajuda russa ao Irã em meio à guerra: “Nada” impede os objetivos dos EUA",
-      "titleOriginal": "Rubio downplays Russian aid to Iran amid war: ‘Nothing’ impeding US objectives",
-      "link": "https://thehill.com/homenews/administration/6067346-rubio-downplays-russian-iran-aid/",
-      "publishedAt": "2026-09-02T21:04:47.000Z"
     }
   ]
 }
