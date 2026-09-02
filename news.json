@@ -1,20 +1,62 @@
 {
-  "updatedAt": "2026-09-02T16:28:54.973Z",
+  "updatedAt": "2026-09-02T16:52:37.308Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Comissão de Jogos de Massachusetts investiga apostas feitas por meio de representante por Bill Simmons",
+      "titleOriginal": "Massachusetts gaming commission investigating Bill Simmons proxy bets",
+      "link": "https://thehill.com/policy/sports-gaming/6066513-bill-simmons-mgc-investigation/",
+      "publishedAt": "2026-09-02T16:50:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Uma fraude do tipo Ponzi de US$ 140 milhões assombra o Partido Republicano da Geórgia às vésperas das eleições intermediárias",
+      "titleOriginal": "A $140 Million Ponzi Fraud Is Haunting Georgia GOP Ahead of Midterms",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFY2dHhMY1dtYXVKeGdJSnNXdFQ4bHJ3NmxYRndOY2NMVEgzZDE3a1FmTE5SUVVYZnJfOEVfeGhOY0xUYU1yUTBsV1otcGhaRjZZcXdmdUptc1NJd0ZlOTljQWxraklrV3lqR01FREEtbldxRURPUGF1Y3BjTGE2OS1NUWtIZWNZbnVod29QWUtVVE12NUtYSzNSV1JzREx0WTFMZlhOUUxKMVJsclBXcmd3?oc=5",
+      "publishedAt": "2026-09-02T16:36:28.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como os repórteres do New York Times rastrearam o dinheiro oculto na política",
+      "titleOriginal": "How New York Times Reporters Traced Dark Money in Politics",
+      "link": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
+      "publishedAt": "2026-09-02T16:32:06.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
+      "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
+      "publishedAt": "2026-09-02T16:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça defende a proposta do Pentágono de demitir funcionários do “Stars and Stripes”",
+      "titleOriginal": "Justice Department defends Pentagon’s proposed firings of Stars and Stripes staffers",
+      "link": "https://thehill.com/regulation/court-battles/6066488-doj-defends-pentagon-dismissals/",
+      "publishedAt": "2026-09-02T16:28:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: EUA e Irã intensificam ataques; candidatos à reeleição se mantêm em Massachusetts",
+      "titleOriginal": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
+      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
+      "publishedAt": "2026-09-02T16:20:31.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
+      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "publishedAt": "2026-09-02T16:18:34.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
       "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
       "publishedAt": "2026-09-02T16:18:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Conquistando os consumidores no US Open",
-      "titleOriginal": "Courting Consumers at the U.S. Open",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
-      "publishedAt": "2026-09-02T16:17:44.000Z"
     },
     {
       "source": "AP News",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-09-02T16:13:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
-      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
-      "publishedAt": "2026-09-02T16:11:00.000Z"
-    },
-    {
       "source": "AP News",
       "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
       "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
       "publishedAt": "2026-09-02T16:06:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A apresentadora da Fox News afirma que Trump nomeou seu marido como secretário de Transportes “porque era a única opção que restava”",
-      "titleOriginal": "Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
-      "link": "https://thehill.com/homenews/administration/6066310-campos-duffy-shares-trump-nomination/",
-      "publishedAt": "2026-09-02T16:04:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Deputado republicano da Câmara sobre o plano de Trump para a importação de carne moída: “O dano já está feito”",
-      "titleOriginal": "House Republican on Trump ground beef import plan: 'Damage is done'",
-      "link": "https://thehill.com/homenews/house/6066396-downing-trump-beef-tariffs/",
-      "publishedAt": "2026-09-02T16:04:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sugere renomear o Estreito de Ormuz com o próprio nome",
-      "titleOriginal": "Trump floats renaming Strait of Hormuz after himself",
-      "link": "https://thehill.com/homenews/administration/6066413-trump-claims-hormuz-control/",
-      "publishedAt": "2026-09-02T16:03:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bilionários fizeram os preços em Montana dispararem. Os democratas conseguirão tirar proveito disso?",
-      "titleOriginal": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
-      "publishedAt": "2026-09-02T15:56:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tiger Woods não contesta a acusação de direção imprudente e tem a carteira de motorista suspensa por 5 anos",
-      "titleOriginal": "Tiger Woods pleads no contest to reckless driving charge, gets license suspended for 5 years",
-      "link": "https://thehill.com/homenews/6065755-tiger-woods-pleads-no-contest-to-reckless-driving-charge-gets-license-suspended-for-5-years/",
-      "publishedAt": "2026-09-02T15:55:14.000Z"
     }
   ]
 }
