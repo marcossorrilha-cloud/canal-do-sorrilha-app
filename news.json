@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-02T18:51:51.406Z",
+  "updatedAt": "2026-09-02T19:24:39.190Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Como os repórteres do New York Times rastrearam o dinheiro oculto na política",
+      "titleOriginal": "How New York Times Reporters Traced Dark Money in Politics",
+      "link": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
+      "publishedAt": "2026-09-02T19:13:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-02T19:13:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T19:10:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Assessor do Congresso sobrevive a um raio em Nova York",
@@ -18,45 +39,24 @@
     },
     {
       "source": "New York Times",
-      "title": "Governo de Trump lança campanha intensiva para detectar fraudes eleitorais difíceis de identificar antes das eleições de meio de mandato",
+      "title": "Governo Trump lança campanha intensiva para identificar fraudes eleitorais difíceis de detectar antes das eleições de meio de mandato",
       "titleOriginal": "Trump Administration Launches Blitz to Find Elusive Voter Fraud Ahead of Midterms",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
       "publishedAt": "2026-09-02T18:25:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As moedas de US$ 1 com a imagem de Trump já chegaram. Por que gastá-las é legal, mas complicado",
-      "titleOriginal": "The $1 Trump coins are here. Why spending them is legal but tricky",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTdyM2RNLWVkMEpKZEdkbW5hcG12elRQMFYwOW1YRHJqV2ZsYjZyc041QUJVTnlFUVVQZUUyd2t0UkdYMU1NS3pBVXRWWkhLeTRBc2JjOUljSnRwS3ZTeTNlZEl0MVZ0WjhwLTVwYWJIb2FheW11ZEk5UzNfY1NRSXlkMDVDSFU?oc=5",
-      "publishedAt": "2026-09-02T18:22:39.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
-      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
-      "publishedAt": "2026-09-02T18:01:35.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Tiroteio em Kiev agrava a rivalidade entre as poderosas agências de inteligência da Ucrânia",
       "titleOriginal": "Gunfight in Kyiv Deepens Feud Between Ukraine’s Powerful Spy Agencies",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2V3UUMyQThIU2RsSDluYlJ2c2h5Tlh3N24xVElfcElqdU5tVWFNZ2hHUE50eGlzY1lYZG9ZRDNqTkE2T1Z0ZVBCNGgzcm9rSkxuVHZIMi12dVJYaXdwcmRhY1VMZW5DSDA1eVdoRE9TdUJYazRNaEZ1MWhrS1hGWjB3Q3RycnRIWkxfYXdXTlFJQVZJWXhuTi15LW13dGpUeHlsNkVR?oc=5",
-      "publishedAt": "2026-09-02T17:59:00.000Z"
+      "publishedAt": "2026-09-02T18:01:07.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Departamento de Justiça tomará medidas em relação à lista de cúmplices de Epstein divulgada por Massie?",
+      "title": "O Departamento de Justiça tomará alguma medida em relação à lista de cúmplices de Epstein divulgada por Massie?",
       "titleOriginal": "Will the DOJ act on Epstein co-conspirators list issued by Massie?",
       "link": "https://thehill.com/homenews/house/6066438-doj-response-thomas-massie-list-jeffrey-epstein-co-conspirators-list/",
       "publishedAt": "2026-09-02T17:58:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
-      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "publishedAt": "2026-09-02T17:55:00.000Z"
     },
     {
       "source": "The Hill",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-02T17:49:30.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Tribunal conclui que juiz não tinha competência para anular a condenação de Bowe Bergdahl",
-      "titleOriginal": "Judge Lacked Power to Vacate Bowe Bergdahl’s Conviction, Court Finds",
-      "link": "https://www.nytimes.com/2026/09/02/us/bowe-bergdahl-conviction-army-sergeant-afghanistan.html",
-      "publishedAt": "2026-09-02T17:44:17.000Z"
+      "source": "Axios",
+      "title": "Quase 9 em cada 10 americanos relatam corrupção generalizada no governo após o retorno de Trump",
+      "titleOriginal": "Nearly 9 in 10 Americans report widespread government corruption after Trump's return",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYnFjQUhuWUV1c2NQOTJYX1AxcDlnVHhlbUZ2eFl3dXg1d0JLa0dsNFhhaW9JUWkyRF90ODhDOV92bkVGTVpvVGpXMWFpYU1FNHlLRHVnbjVjRXR3X2RIMV92WTlTVFZPYTNwNk9JUS1VTGV1U2NRREEwUllzWW10SHM1WQ?oc=5",
+      "publishedAt": "2026-09-02T17:48:45.000Z"
     }
   ]
 }
