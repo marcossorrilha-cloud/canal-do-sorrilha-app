@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-02T03:27:04.864Z",
-  "slot": "2026-09-02-AM",
+  "updatedAt": "2026-09-02T15:31:46.573Z",
+  "slot": "2026-09-02-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "A influenciadora de extrema direita e aliada de Trump, Laura Loomer, solta um discurso racista e chama legisladores negros de “gueto”",
-      "titleOriginal": "Far-right influencer and Trump ally Laura Loomer unleashes racist tirade, calls Black lawmakers 'ghetto'",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWQtVzB0SWlfSExyNlBDV2NrYXNidFlXNU0yWGw0UkN6ZjJGQzRkR19kYmhBN1VSdGJLNllyUlJjYW9XMVpTckRBSTAtVEplcXBNam5VaWE2OHo0d2NIV2xmTDF0SXNGRnlxNlloaEdveWtRQXMzclpWZDIxN2Z4T2VMdGpTQ2FwR1dEdw?oc=5",
+      "title": "Influenciador do movimento MAGA se diz “envergonhado” por apoiar Trump após deportação pelo ICE",
+      "titleOriginal": "MAGA influencer ‘ashamed’ of Trump support after ICE deportation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlpaUFRsdi1SbTRVSTFpc3Z3MXhMdlJsRTEzQTZyMEZtVV91U3I1YWNFRTVsMU9oZGNfUEtEb2NwTll6MXdKTUZod3hyNWlNZV8zNHUyc0tla2JVdVBEeW84RjJlTUVIZkpfZl9kMm11cEFpUVJTZjlFNjBZU1lTcXRvOURoWHJnRFhDbkRTeTJNWHI3RWI1NzhsV0tRMW91ZnRTdGFIUi0xR3k1?oc=5",
       "source": "CNN",
-      "coverage": 3
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "EUA e Irã trocam golpes na mais recente disputa pelo controle do Estreito de Ormuz",
-      "titleOriginal": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
-      "source": "Wall Street Journal",
+      "title": "Líder democrata de Michigan afirma que o partido enfrenta uma “crise” envolvendo Hasan Piker",
+      "titleOriginal": "Top Michigan Democrat Says Party Has a Hasan Piker ‘Crisis’",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUE1ENnVWUHhSQ1kySlNpZWlUajViNVhXUmM0Rnh0SEZIQWFYT0I3Zk54bEdtRm9lbm9IRjhYSDNKM0hILW1CSG9saXR1bkpCWWdxZ2FRaS1wWWhZclR0M2QxVklGY1cyaW1kRmR1dHBwT1BCSFpFeEE0a1VvdG84S1ZzQTF5a2tqdHpwNnM0bVN2VVUyZTV5YjZDRmRSYUJfQlc4?oc=5",
+      "source": "Breitbart",
       "coverage": 3
     }
   ]

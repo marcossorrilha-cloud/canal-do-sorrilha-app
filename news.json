@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-02T14:53:00.858Z",
+  "updatedAt": "2026-09-02T15:31:39.583Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-02T15:15:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ocasio-Cortez apoia Nixon na disputa pelo Senado na Flórida",
+      "titleOriginal": "Ocasio-Cortez backs Nixon in Florida Senate race",
+      "link": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+      "publishedAt": "2026-09-02T15:13:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações sobem em Wall Street, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T15:09:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os “trumpismos” são o maior problema de comunicação dos republicanos",
+      "titleOriginal": "Trumpisms are the Republicans' biggest messaging problem",
+      "link": "https://thehill.com/opinion/campaign/6064397-trump-endangers-gop-midterms/",
+      "publishedAt": "2026-09-02T15:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os democratas dissidentes da Câmara, Golden e Perez, enfrentam uma pressão cada vez maior por “consequências”",
+      "titleOriginal": "Rogue House Democrats Golden and Perez face growing push for \"consequences\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1FhQUFOd2RNUUV5NHZRVnlyUktKdlUyMlBIVnFfRVl0a0swcUctdVZMV0hNejM4QnZlWm1VRGFWQ1N0ekcwM0pwNGI5OTlIZ2U1Yk5kR1V3cnQ2Z1dCQkhDbnJkNHh4UEQxV0xfMXRHN2tOTzRjR3pRUFVnMHBZWVVPQWhybHlF?oc=5",
+      "publishedAt": "2026-09-02T14:53:19.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
@@ -18,21 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "A “velocidade relâmpago” de Trump supera os tribunais",
-      "titleOriginal": "Trump’s ‘Lightning Speed’ Outpaces the Courts",
+      "title": "A rapidez de Trump no salão de baile da Casa Branca ameaça ultrapassar a dos tribunais",
+      "titleOriginal": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
       "publishedAt": "2026-09-02T14:47:31.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e à retomada dos confrontos na guerra dos EUA contra o Irã",
-      "titleOriginal": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T14:45:00.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação incomum: na minoria",
+      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação inusitada: na dissidência",
       "titleOriginal": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
       "publishedAt": "2026-09-02T14:34:16.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Trump to Nominate Hung Cao as Navy Secretary",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html",
       "publishedAt": "2026-09-02T14:25:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ocasio-Cortez, sobre se namoraria um republicano: “Não, mas não tenho nada contra quem faz isso”",
-      "titleOriginal": "Ocasio-Cortez on if she'd date a Republican: 'No, no foul to people who do'",
-      "link": "https://thehill.com/homenews/house/6065920-ocasio-cortez-dating-values/",
-      "publishedAt": "2026-09-02T14:16:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A polícia de Dallas está desativando centenas de câmeras da Flock após a suspensão do financiamento",
-      "titleOriginal": "Dallas police shutting down hundreds of Flock cameras after funding pause",
-      "link": "https://thehill.com/policy/technology/6065838-dallas-police-flock-camera-funding-freeze/",
-      "publishedAt": "2026-09-02T14:06:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
-      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-      "publishedAt": "2026-09-02T14:00:47.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Trump convida republicanos de estados decisivos para um jantar no Rose Garden",
-      "titleOriginal": "Trump invites battleground Republicans to Rose Garden dinner",
-      "link": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
-      "publishedAt": "2026-09-02T13:32:27.000Z"
     }
   ]
 }
