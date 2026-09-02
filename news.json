@@ -1,45 +1,52 @@
 {
-  "updatedAt": "2026-09-02T10:51:14.680Z",
+  "updatedAt": "2026-09-02T11:26:44.018Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "As manobras de Trump com o barco são ilegais. Isso importa?",
+      "titleOriginal": "Trump's boat strikes are illegal. Does it matter?",
+      "link": "https://thehill.com/opinion/judiciary/6064098-aclu-lawsuit-wrongful-deaths/",
+      "publishedAt": "2026-09-02T11:00:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O pesadelo logístico da Marinha na Guerra do Irã",
+      "title": "O pesadelo logístico da Marinha na guerra contra o Irã",
       "titleOriginal": "The Navy’s Logistical Nightmare in the Iran War",
       "link": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html",
       "publishedAt": "2026-09-02T10:27:52.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Bessent afirma que 19 ministros das Finanças concordaram que as “exportações baratas” são insustentáveis, mas a China discordou",
+      "titleOriginal": "Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemFQRWRvbnJmUTRtSERYcEVXMUh3Y0VyNjFyelVDaUNKbEJtX004c3d1YmtoSTVRY3NVOW1fSTJvOEFoSTdVYS05d29KQlhvdHlKbDhGMXluemdlUU9EdmJCODZSaXh5VXYxUG9tVTJ3VDZoZGc4OUtYOVJMZm1wRVRPSHdtbWZIc0F0elYyTmVTdjJTRm5UT1Zn?oc=5",
+      "publishedAt": "2026-09-02T10:26:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A UE tem dificuldade em encontrar uma resposta eficaz depois que a Alemanha atribuiu à Rússia a responsabilidade por um ataque com drone que foi frustrado",
+      "titleOriginal": "EU struggles to find an effective response after Germany blames Russia for a foiled drone attack",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+      "publishedAt": "2026-09-02T10:24:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "A UPS reformula seu modelo operacional e nomeia diretor de operações globais",
+      "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
       "titleOriginal": "UPS Rejiggers Operating Model, Names Chief Global Operations Officer",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFowbGVOZ1l5MnRXSmxLREpBSm8tZXk5Zy00Mjg0cUlOYnRYdVpMQkhJb294dlhYanZXZXBFRzVTeldueGJvZ0p1NlZiN2FyT0xsRGRHeDAwM0pQRjNWNzJyZXRTR1oxQmFaT2hrX0lWdWtqV29ua0FSZFNWUjNoMUh4SUZhaG13OVp6dW14cDFrS3RKamxmR2FpMW11bkN6SFl4b2d6MkZ6RGNZVkNlb2FBaHNJQQ?oc=5",
       "publishedAt": "2026-09-02T10:18:54.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic fecha contrato de nuvem de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-09-02T10:18:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Varejistas reduzem a variedade de produtos para conter custos da cadeia de suprimentos e tarifas",
-      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
-      "publishedAt": "2026-09-02T10:18:26.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "El-Sayed faz um equilíbrio político delicado em Michigan com Hasan Piker",
+      "title": "El-Sayed faz uma caminhada na corda bamba política em Michigan com Hasan Piker",
       "titleOriginal": "El-Sayed walks political tightrope in Michigan with Hasan Piker",
       "link": "https://thehill.com/homenews/campaign/6063934-elsayed-michigan-senate-piker/",
       "publishedAt": "2026-09-02T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Newsom evita a Geórgia e Ossoff em sua viagem pelo sul",
+      "title": "Newsom evita a Geórgia e Ossoff em sua turnê pelo sul",
       "titleOriginal": "Newsom avoids Georgia, and Ossoff, on southern tour",
       "link": "https://thehill.com/homenews/campaign/6064523-newsom-skips-georgia-south-tour/",
       "publishedAt": "2026-09-02T10:00:00.000Z"
@@ -53,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "A agenda do Congresso em fim de mandato cresce à medida que o órgão adia as prioridades para depois das eleições",
+      "title": "A agenda do Congresso, já em fim de mandato, cresce cada vez mais à medida que as prioridades são adiadas para depois das eleições",
       "titleOriginal": "Lame-duck agenda balloons as Congress punts priorities until after election",
       "link": "https://thehill.com/homenews/senate/6064611-gop-punted-lame-duck-agenda/",
       "publishedAt": "2026-09-02T10:00:00.000Z"
@@ -63,13 +70,6 @@
       "title": "Um terceiro processo de impeachment contra Trump parece inevitável, mas de que tipo?",
       "titleOriginal": "A third Trump impeachment looks inevitable, but what kind?",
       "link": "https://thehill.com/homenews/analysis/6062939-trump-third-impeachment-risks/",
-      "publishedAt": "2026-09-02T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Projeto de lei sobre sanções contra a Rússia está “novamente morto” ao encontrar obstáculos na Câmara",
-      "titleOriginal": "Russia sanctions bill ‘dead again’ as it hits House roadblocks",
-      "link": "https://thehill.com/policy/international/6064417-graham-russia-sanctions-bill-stalls-house/",
       "publishedAt": "2026-09-02T10:00:00.000Z"
     }
   ]
