@@ -1,17 +1,24 @@
 {
-  "updatedAt": "2026-09-02T02:39:39.513Z",
+  "updatedAt": "2026-09-02T02:53:35.301Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Lynch supera desafio nas primárias da Câmara de Massachusetts em disputa pela mudança geracional",
+      "titleOriginal": "Lynch fends off Massachusetts House primary challenge in battle over generational change",
+      "link": "https://thehill.com/homenews/campaign/6063438-lynch-wins-massachusetts-house-primary/",
+      "publishedAt": "2026-09-02T02:44:22.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "title": "O trabalho do Serviço Postal para cumprir o decreto de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
       "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
       "publishedAt": "2026-09-02T01:32:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Trump escolhe o veterano Hung Cao para assumir o cargo de secretário da Marinha",
+      "title": "Trump escolhe o veterano Hung Cao para o cargo de Secretário da Marinha",
       "titleOriginal": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktKTW83RDBLRmVUUjVETVd4LXlGRTRRNllNMl9BRTN1RW1Kc3lxOVJFX3JFLUt5VEF3Zk90bV82YXRWLUE5cFpJMG1LdEpxNEFXaDQwU29POTZ0bncxZFNJWERUblVyM3ZPZmhjbkVsZUtKam1hbzhaWm1JRHp5SjJyNzZSQjg0Rm9sTGlweXY1RGEyQ1ZOc2JjV2ZfQ3ZiZzBuUEUySjNXU2pPZ3c?oc=5",
       "publishedAt": "2026-09-02T01:29:00.000Z"
@@ -52,25 +59,18 @@
       "publishedAt": "2026-09-02T00:25:59.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "EUA atacam o Irã por causa das minas no Estreito de Ormuz, afirma Trump",
-      "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "publishedAt": "2026-09-02T00:23:07.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Objeções da China inviabilizam a declaração financeira do G20",
+      "title": "Objeções da China impedem a aprovação da declaração financeira do G20",
       "titleOriginal": "China's objections derail G20 finance statement",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQ1g1R1VVUFA3MVdwV052ZnVRTDBnT3FrTHNVR1dTM1J5V0gyaUduR1lsb2lZclhWMHJyeE9iejVkWVFLMFd3U190Uzk5TS11NER0VlRDbnhkeDZyUVVhYXhQR0stTVU?oc=5",
       "publishedAt": "2026-09-02T00:20:40.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "EUA e Irã trocam golpes na mais recente disputa pelo controle do Estreito de Ormuz",
-      "titleOriginal": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
-      "publishedAt": "2026-09-02T00:20:00.000Z"
+      "source": "The Hill",
+      "title": "Maioria dos americanos é contra a mudança do nome do Lago Ontário e as tarifas do Canadá: pesquisa",
+      "titleOriginal": "Majority of Americans against Lake Ontario name change, Canada tariffs: Poll",
+      "link": "https://thehill.com/homenews/administration/6064850-americans-against-lake-america-canada-tariffs/",
+      "publishedAt": "2026-09-02T00:16:31.000Z"
     }
   ]
 }
