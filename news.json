@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-02T00:53:16.824Z",
+  "updatedAt": "2026-09-02T01:24:25.094Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Hegseth retira seis oficiais do Exército da lista de promoções",
+      "titleOriginal": "Hegseth removes 6 Army officers from promotion list",
+      "link": "https://thehill.com/policy/defense/6065013-hegseth-again-removes-army-officer-promotions/",
+      "publishedAt": "2026-09-02T00:56:44.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Healey enfrenta Minogue na disputa pelo segundo mandato como governadora de Massachusetts",
       "titleOriginal": "Healey faces off against Minogue in quest for second term as Massachusetts governor",
       "link": "https://thehill.com/homenews/6061077-healey-minogue-massachusetts-governor/",
       "publishedAt": "2026-09-02T00:48:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O senador Ed Markey, de 80 anos, derrota adversário mais jovem em Massachusetts",
-      "titleOriginal": "Senator Ed Markey, 80, Turns Back Younger Challenger in Massachusetts",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html",
-      "publishedAt": "2026-09-02T00:37:57.000Z"
     },
     {
       "source": "Axios",
@@ -29,6 +29,13 @@
       "titleOriginal": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
       "publishedAt": "2026-09-02T00:23:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA e Irã trocam golpes na mais recente disputa pelo controle do Estreito de Ormuz",
+      "titleOriginal": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
+      "publishedAt": "2026-09-02T00:20:00.000Z"
     },
     {
       "source": "The Hill",
@@ -46,31 +53,24 @@
     },
     {
       "source": "Politico",
-      "title": "JD Vance busca conquistar os republicanos judeus. Tucker Carlson continua sendo uma figura marcante.",
+      "title": "JD Vance busca conquistar os republicanos judeus. Tucker Carlson continua sendo uma presença marcante.",
       "titleOriginal": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
       "link": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
       "publishedAt": "2026-09-02T00:15:24.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições intermediárias",
+      "title": "Denunciante afirma que o USPS está avançando secretamente com o plano de votação por correspondência de Trump antes das eleições de meio de mandato",
       "titleOriginal": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
       "publishedAt": "2026-09-02T00:06:04.000Z"
     },
     {
       "source": "AP News",
-      "title": "A primária democrata de Massachusetts é um confronto geracional, com o deputado Seth Moulton enfrentando o senador Ed Markey",
+      "title": "A primária democrata em Massachusetts é um confronto geracional, com o deputado Seth Moulton enfrentando o senador Ed Markey",
       "titleOriginal": "Massachusetts Democratic primary is a generational clash as Rep. Seth Moulton targets Sen. Ed Markey",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
       "publishedAt": "2026-09-02T00:05:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O ex-presidente Joe Biden participará da cerimônia do 11 de setembro em Nova York",
-      "titleOriginal": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html",
-      "publishedAt": "2026-09-01T23:50:54.000Z"
     }
   ]
 }
