@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-02T20:27:55.081Z",
+  "updatedAt": "2026-09-02T20:51:25.227Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
+      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "publishedAt": "2026-09-02T20:47:53.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T20:32:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Parecer do Departamento de Justiça insta os estados a comunicarem os casos de migrantes sem status legal permanente",
@@ -10,18 +24,18 @@
       "publishedAt": "2026-09-02T20:20:16.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Depois que Trump renomeou o Lago Ontário, os americanos não estão acreditando nessa polêmica dele com o Canadá",
+      "titleOriginal": "After Trump renamed Lake Ontario, Americans aren't buying his Canada fight",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSWhrNlViQ2xQOWpMcG9DVXNFSG1IODZTODk0d3VsU1U5NkM2enk5bThlYVNnNDI5c0psalVmLXQzemx5d085NnZFcnI0RGxUa2FjTDBBNlFEVURwaU1ocEFkbjBLNVNoRGttbl9zSWFCZXd2RGMydkdhRQ?oc=5",
+      "publishedAt": "2026-09-02T20:16:10.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Trump diz que está “feliz” por Harry e Meghan terem deixado os EUA para ir para a Grã-Bretanha",
       "titleOriginal": "Trump says he's 'happy' Harry and Meghan left US for Britain",
       "link": "https://thehill.com/blogs/in-the-know/6067374-trump-criticizes-royal-family-exit/",
       "publishedAt": "2026-09-02T20:12:19.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
-      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T20:10:00.000Z"
     },
     {
       "source": "New York Times",
@@ -46,31 +60,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
-      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
-      "publishedAt": "2026-09-02T19:39:32.000Z"
+      "title": "A Proofpoint, de propriedade da Thoma Bravo, está em negociações avançadas para adquirir a Varonis",
+      "titleOriginal": "Thoma Bravo-Owned Proofpoint in Advanced Talks to Buy Varonis",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3JaT0x2ZE82WVA3LS04V0RIM1lNckU5WFhPYkhOWEx0M2pJV2RKNGNiQndWbzZMbFAwNzZhdFoyLTJSMzRtcG9QZXlHclFxODZTalBVYlFKazc2UXROWE85UlZpVUtiVEg0U0pDTkxwRW9DSGpvbWNvYW9LeTRRVmFKd0NqUEdySDlmS1dkV291Q0FPaU8wOXBCcllOd3VBSmkwRktLMmQxWVctQ00tbmFCWkFXS0R2WTNz?oc=5",
+      "publishedAt": "2026-09-02T19:34:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O Departamento de Justiça dos EUA processa distrito escolar do Kansas por causa de políticas relativas a alunos transgêneros",
-      "titleOriginal": "DOJ sues Kansas school district over transgender student policies",
-      "link": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
-      "publishedAt": "2026-09-02T19:26:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como os repórteres do New York Times rastrearam o dinheiro oculto na política",
-      "titleOriginal": "How New York Times Reporters Traced Dark Money in Politics",
-      "link": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
-      "publishedAt": "2026-09-02T19:13:44.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
-      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "publishedAt": "2026-09-02T19:13:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Futuros do petróleo ampliam ganhos com novos ataques entre EUA e Irã",
+      "titleOriginal": "Oil Futures Extend Gains on Renewed U.S.-Iran Strikes",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUJEWHF6c3VYN1B1S3JNOWVXYlVrak9kSkFPaHdmdnZyUE1Fc3RSajFQaHRtSFc5SEY3RE5QUTdHWUZ5U1RVTnJsTm84bWFjVmZsa2tLUXVLdnhCcWV1djVkUXlaQVBwV2RKdzRDNHJtbTdGbjVzZHowS3JPVDBaOGo3c0lXbDFocTlNT2Y4cXNQMjZhTEUzTVRvVERmLTdWZUE?oc=5",
+      "publishedAt": "2026-09-02T19:28:00.000Z"
     }
   ]
 }
