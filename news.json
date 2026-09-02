@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-02T03:26:57.936Z",
+  "updatedAt": "2026-09-02T03:50:13.871Z",
   "count": 10,
   "items": [
     {
       "source": "AP News",
-      "title": "“Pare de tentar bancar o durão”: Carney rebate Trump enquanto a disputa comercial entre EUA e Canadá se intensifica",
-      "titleOriginal": "‘Stop trying to be tough’: Carney fires back at Trump as US-Canada trade fight escalates",
+      "title": "Carney diz a Trump: “Pare de tentar parecer durão”",
+      "titleOriginal": "Carney tells Trump ‘Stop trying to be tough’",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlhOGEtQnA3bU45MzhoSGxzYTJUNXVlQkkyOVJOdTE2Nk05aEJiSnFqQ1pDOXkyRlEyR0NPaERib3BGQWVIQjJpSnBic0NwdTlRUHZfbGJ5YkZ6LXRoS1hPZVVnUi1DOHVMS0tLVTl2dDNJSXpoTGJCbTBCcU0tSDhFcmxFMWZidHpLQTM1QmVLdXZpOHc?oc=5",
-      "publishedAt": "2026-09-02T03:02:00.000Z"
+      "publishedAt": "2026-09-02T03:26:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Lynch supera o desafio nas primárias da Câmara dos Deputados de Massachusetts na disputa pela mudança geracional",
+      "title": "Lynch supera o desafio nas primárias da Câmara de Massachusetts na disputa pela mudança geracional",
       "titleOriginal": "Lynch fends off Massachusetts House primary challenge in battle over generational change",
       "link": "https://thehill.com/homenews/campaign/6063438-lynch-wins-massachusetts-house-primary/",
       "publishedAt": "2026-09-02T02:44:22.000Z"
@@ -22,6 +22,13 @@
       "titleOriginal": "Sen. Ed Markey, 80, wins Mass. Democratic primary over opponent who called for generational change",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
       "publishedAt": "2026-09-02T02:09:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama sucessório",
+      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
+      "publishedAt": "2026-09-02T01:40:59.000Z"
     },
     {
       "source": "AP News",
@@ -59,18 +66,11 @@
       "publishedAt": "2026-09-02T00:48:37.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os EUA atacam petroleiros iranianos sob a nova política de “petroleiro por petroleiro”",
-      "titleOriginal": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
-      "publishedAt": "2026-09-02T00:25:59.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Objeções da China impedem a aprovação da declaração financeira do G20",
-      "titleOriginal": "China's objections derail G20 finance statement",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQ1g1R1VVUFA3MVdwV052ZnVRTDBnT3FrTHNVR1dTM1J5V0gyaUduR1lsb2lZclhWMHJyeE9iejVkWVFLMFd3U190Uzk5TS11NER0VlRDbnhkeDZyUVVhYXhQR0stTVU?oc=5",
-      "publishedAt": "2026-09-02T00:20:40.000Z"
+      "source": "The Hill",
+      "title": "Markey derrota Moulton nas primárias democratas para o Senado em Massachusetts",
+      "titleOriginal": "Markey defeats Moulton in Massachusetts Democratic Senate primary",
+      "link": "https://thehill.com/homenews/campaign/6063607-markey-wins-massachusetts-senate-primary/",
+      "publishedAt": "2026-09-02T00:31:46.000Z"
     }
   ]
 }
