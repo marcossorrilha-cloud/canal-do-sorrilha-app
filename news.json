@@ -1,17 +1,52 @@
 {
-  "updatedAt": "2026-09-02T18:30:40.755Z",
+  "updatedAt": "2026-09-02T18:51:51.406Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Governo Trump lança ofensiva para encontrar fraudes eleitorais difíceis de detectar antes das eleições de meio de mandato",
-      "titleOriginal": "Trump Administration Launches Blitz to Find Elusive Voter Fraud Ahead of Midterms",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "publishedAt": "2026-09-02T18:25:56.000Z"
+      "source": "The Hill",
+      "title": "Assessor do Congresso sobrevive a um raio em Nova York",
+      "titleOriginal": "Congressional aide survives lightning strike in New York",
+      "link": "https://thehill.com/homenews/house/6067061-malliotakis-staffer-survives-lightning/",
+      "publishedAt": "2026-09-02T18:44:09.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Departamento de Justiça tomará alguma medida em relação à lista de cúmplices de Epstein divulgada por Massie?",
+      "title": "Embaixador dos EUA pede vigilância à OTAN: “Não dá para prever o que Vladimir Putin vai fazer”",
+      "titleOriginal": "US ambassador urges NATO vigilance: 'You can't predict what Vladimir Putin's going to do'",
+      "link": "https://thehill.com/homenews/administration/6066994-nato-ambassador-putin-threats-warning/",
+      "publishedAt": "2026-09-02T18:38:53.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Governo de Trump lança campanha intensiva para detectar fraudes eleitorais difíceis de identificar antes das eleições de meio de mandato",
+      "titleOriginal": "Trump Administration Launches Blitz to Find Elusive Voter Fraud Ahead of Midterms",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
+      "publishedAt": "2026-09-02T18:25:57.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As moedas de US$ 1 com a imagem de Trump já chegaram. Por que gastá-las é legal, mas complicado",
+      "titleOriginal": "The $1 Trump coins are here. Why spending them is legal but tricky",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTdyM2RNLWVkMEpKZEdkbW5hcG12elRQMFYwOW1YRHJqV2ZsYjZyc041QUJVTnlFUVVQZUUyd2t0UkdYMU1NS3pBVXRWWkhLeTRBc2JjOUljSnRwS3ZTeTNlZEl0MVZ0WjhwLTVwYWJIb2FheW11ZEk5UzNfY1NRSXlkMDVDSFU?oc=5",
+      "publishedAt": "2026-09-02T18:22:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
+      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
+      "publishedAt": "2026-09-02T18:01:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Tiroteio em Kiev agrava a rivalidade entre as poderosas agências de inteligência da Ucrânia",
+      "titleOriginal": "Gunfight in Kyiv Deepens Feud Between Ukraine’s Powerful Spy Agencies",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2V3UUMyQThIU2RsSDluYlJ2c2h5Tlh3N24xVElfcElqdU5tVWFNZ2hHUE50eGlzY1lYZG9ZRDNqTkE2T1Z0ZVBCNGgzcm9rSkxuVHZIMi12dVJYaXdwcmRhY1VMZW5DSDA1eVdoRE9TdUJYazRNaEZ1MWhrS1hGWjB3Q3RycnRIWkxfYXdXTlFJQVZJWXhuTi15LW13dGpUeHlsNkVR?oc=5",
+      "publishedAt": "2026-09-02T17:59:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça tomará medidas em relação à lista de cúmplices de Epstein divulgada por Massie?",
       "titleOriginal": "Will the DOJ act on Epstein co-conspirators list issued by Massie?",
       "link": "https://thehill.com/homenews/house/6066438-doj-response-thomas-massie-list-jeffrey-epstein-co-conspirators-list/",
       "publishedAt": "2026-09-02T17:58:02.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Judge Lacked Power to Vacate Bowe Bergdahl’s Conviction, Court Finds",
       "link": "https://www.nytimes.com/2026/09/02/us/bowe-bergdahl-conviction-army-sergeant-afghanistan.html",
       "publishedAt": "2026-09-02T17:44:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent atribui parte da culpa à Ucrânia pelo “choque energético” que está elevando os preços",
-      "titleOriginal": "Bessent partly blames Ukraine for 'energy shock' pushing up prices",
-      "link": "https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock/",
-      "publishedAt": "2026-09-02T17:43:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
-      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-02T17:38:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por dentro do tribunal de Nova Jersey onde se desenrola o conturbado divórcio de um magnata dos fundos de hedge",
-      "titleOriginal": "Inside the N.J. Courtroom Where a Hedge-Fund Titan’s Messy Divorce Is Playing Out",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHYzRmd2UzdWRm9IV1FPOXowc3MzamhhZUowb3NBZXhBbGNaajdoYVNtWGJCcWJFY25RbDhfYTJxOWZNSTJxUkpwNEY3MDBQRGZ2V1NqRy01Wlc4RnlYYzBoNzJCR1U0WS04NkU3ZW9FNy1nRWd0ZnZicUZlVVZ2R1Z0S0hpRzhtMk5JbFpkQzRNd01KdG9NeFNYVlVNak4xRzJRZUpHWEFDQnJVTmJON2JQZ21LeHFTVXgyaw?oc=5",
-      "publishedAt": "2026-09-02T17:36:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Grupo pró-Trump divulga primeiro anúncio eleitoral para as eleições gerais de meio de mandato",
-      "titleOriginal": "Pro-Trump group releases first general election midterm ad",
-      "link": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
-      "publishedAt": "2026-09-02T17:34:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas se reúnem para avaliar mudanças nas regras do partido após deserções inesperadas",
-      "titleOriginal": "Democrats huddle to weigh changes to party rules following surprise defections",
-      "link": "https://thehill.com/homenews/house/6066756-democrats-rules-changes-jeffries-golden-perez/",
-      "publishedAt": "2026-09-02T17:33:23.000Z"
     }
   ]
 }
