@@ -1,24 +1,38 @@
 {
-  "updatedAt": "2026-09-02T02:53:35.301Z",
+  "updatedAt": "2026-09-02T03:26:57.936Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "“Pare de tentar bancar o durão”: Carney rebate Trump enquanto a disputa comercial entre EUA e Canadá se intensifica",
+      "titleOriginal": "‘Stop trying to be tough’: Carney fires back at Trump as US-Canada trade fight escalates",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlhOGEtQnA3bU45MzhoSGxzYTJUNXVlQkkyOVJOdTE2Nk05aEJiSnFqQ1pDOXkyRlEyR0NPaERib3BGQWVIQjJpSnBic0NwdTlRUHZfbGJ5YkZ6LXRoS1hPZVVnUi1DOHVMS0tLVTl2dDNJSXpoTGJCbTBCcU0tSDhFcmxFMWZidHpLQTM1QmVLdXZpOHc?oc=5",
+      "publishedAt": "2026-09-02T03:02:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Lynch supera desafio nas primárias da Câmara de Massachusetts em disputa pela mudança geracional",
+      "title": "Lynch supera o desafio nas primárias da Câmara dos Deputados de Massachusetts na disputa pela mudança geracional",
       "titleOriginal": "Lynch fends off Massachusetts House primary challenge in battle over generational change",
       "link": "https://thehill.com/homenews/campaign/6063438-lynch-wins-massachusetts-house-primary/",
       "publishedAt": "2026-09-02T02:44:22.000Z"
     },
     {
       "source": "AP News",
-      "title": "O trabalho do Serviço Postal para cumprir o decreto de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "title": "O senador Ed Markey, de 80 anos, vence as primárias democratas de Massachusetts contra um adversário que defendia uma mudança geracional",
+      "titleOriginal": "Sen. Ed Markey, 80, wins Mass. Democratic primary over opponent who called for generational change",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
+      "publishedAt": "2026-09-02T02:09:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
       "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
       "publishedAt": "2026-09-02T01:32:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Trump escolhe o veterano Hung Cao para o cargo de Secretário da Marinha",
+      "title": "Trump escolhe o veterano Hung Cao para assumir o cargo de secretário da Marinha",
       "titleOriginal": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktKTW83RDBLRmVUUjVETVd4LXlGRTRRNllNMl9BRTN1RW1Kc3lxOVJFX3JFLUt5VEF3Zk90bV82YXRWLUE5cFpJMG1LdEpxNEFXaDQwU29POTZ0bncxZFNJWERUblVyM3ZPZmhjbkVsZUtKam1hbzhaWm1JRHp5SjJyNzZSQjg0Rm9sTGlweXY1RGEyQ1ZOc2JjV2ZfQ3ZiZzBuUEUySjNXU2pPZ3c?oc=5",
       "publishedAt": "2026-09-02T01:29:00.000Z"
@@ -29,13 +43,6 @@
       "titleOriginal": "Trump to Nominate Hung Cao as Navy Secretary",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html",
       "publishedAt": "2026-09-02T01:24:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma fraude do tipo Ponzi de US$ 140 milhões assombra o Partido Republicano da Geórgia às vésperas das eleições intermediárias",
-      "titleOriginal": "A $140 Million Ponzi Fraud Is Haunting Georgia GOP Ahead of Midterms",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFY2dHhMY1dtYXVKeGdJSnNXdFQ4bHJ3NmxYRndOY2NMVEgzZDE3a1FmTE5SUVVYZnJfOEVfeGhOY0xUYU1yUTBsV1otcGhaRjZZcXdmdUptc1NJd0ZlOTljQWxraklrV3lqR01FREEtbldxRURPUGF1Y3BjTGE2OS1NUWtIZWNZbnVod29QWUtVVE12NUtYSzNSV1JzREx0WTFMZlhOUUxKMVJsclBXcmd3?oc=5",
-      "publishedAt": "2026-09-02T01:03:17.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "China's objections derail G20 finance statement",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQ1g1R1VVUFA3MVdwV052ZnVRTDBnT3FrTHNVR1dTM1J5V0gyaUduR1lsb2lZclhWMHJyeE9iejVkWVFLMFd3U190Uzk5TS11NER0VlRDbnhkeDZyUVVhYXhQR0stTVU?oc=5",
       "publishedAt": "2026-09-02T00:20:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Maioria dos americanos é contra a mudança do nome do Lago Ontário e as tarifas do Canadá: pesquisa",
-      "titleOriginal": "Majority of Americans against Lake Ontario name change, Canada tariffs: Poll",
-      "link": "https://thehill.com/homenews/administration/6064850-americans-against-lake-america-canada-tariffs/",
-      "publishedAt": "2026-09-02T00:16:31.000Z"
     }
   ]
 }
