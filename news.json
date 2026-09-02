@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-09-02T13:51:58.070Z",
+  "updatedAt": "2026-09-02T14:28:06.207Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
-      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
-      "publishedAt": "2026-09-02T13:39:29.000Z"
+      "source": "New York Times",
+      "title": "Trump indicará Hung Cao para o cargo de Secretário da Marinha",
+      "titleOriginal": "Trump to Nominate Hung Cao as Navy Secretary",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html",
+      "publishedAt": "2026-09-02T14:25:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A “velocidade relâmpago” de Trump ameaça ultrapassar os tribunais",
+      "titleOriginal": "Trump’s ‘Lightning Speed’ Threatens to Outpace the Courts",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
+      "publishedAt": "2026-09-02T14:25:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ocasio-Cortez, quando questionada se namoraria um republicano: “Não, mas não tenho nada contra quem faz isso”",
+      "titleOriginal": "Ocasio-Cortez on if she'd date a Republican: 'No, no foul to people who do'",
+      "link": "https://thehill.com/homenews/house/6065920-ocasio-cortez-dating-values/",
+      "publishedAt": "2026-09-02T14:16:55.000Z"
     },
     {
       "source": "AP News",
-      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e ao recrudescimento dos confrontos na guerra dos EUA contra o Irã",
+      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e à retomada dos combates na guerra dos EUA contra o Irã",
       "titleOriginal": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T13:39:00.000Z"
+      "publishedAt": "2026-09-02T14:07:00.000Z"
     },
     {
-      "source": "Politico",
-      "title": "Trump convida republicanos de estados decisivos para um jantar no Rose Garden",
-      "titleOriginal": "Trump invites battleground Republicans to Rose Garden dinner",
-      "link": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
-      "publishedAt": "2026-09-02T13:32:27.000Z"
+      "source": "The Hill",
+      "title": "A polícia de Dallas está desativando centenas de câmeras da Flock após a suspensão do financiamento",
+      "titleOriginal": "Dallas police shutting down hundreds of Flock cameras after funding pause",
+      "link": "https://thehill.com/policy/technology/6065838-dallas-police-flock-camera-funding-freeze/",
+      "publishedAt": "2026-09-02T14:06:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
+      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "publishedAt": "2026-09-02T14:00:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Anthropic fecha contrato de nuvem de US$ 35 bilhões com o apoio da Nvidia",
+      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "publishedAt": "2026-09-02T13:54:35.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -43,34 +71,6 @@
       "titleOriginal": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
       "publishedAt": "2026-09-02T13:11:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: EUA e Irã intensificam ataques; candidatos à reeleição se mantêm no poder em Massachusetts",
-      "titleOriginal": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
-      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
-      "publishedAt": "2026-09-02T13:10:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Golden explica sua deserção em relação à regra do Partido Republicano: “Vou ficar do lado dos pescadores”",
-      "titleOriginal": "Golden explains defection on GOP rule: 'I’m going with the fishermen'",
-      "link": "https://thehill.com/homenews/house/6065456-jared-golden-defection-gop-rule-congress/",
-      "publishedAt": "2026-09-02T12:50:29.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
-      "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-      "publishedAt": "2026-09-02T12:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Europa se junta à onda global de vendas de títulos, enquanto as hostilidades no Oriente Médio elevam os preços do petróleo",
-      "titleOriginal": "Europe Joins Global Bond Selloff as Middle East Hostilities Lift Oil Prices",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm5xNm5HZjdYanhkU2dxUWRCZVgtUGlOcDBpanBfa1VZN3Yxb3Z4dU5CX0lFWGFWblctY1dpQkFuR0JZNnVKNFpodW53MUZNSmdSTWRsOWZfMzliM2ktQnhLMnJPS21pVURBMFE1eXJPMDRyRmp2QjQxZWYtTGpyV21vbjdZTEFrTmFTeFdBcEo2RWFrRGVTeWVlQWEtS2M0TVY4dDFCQy1RdXRQRjlTZEhoOUlKbXl2VXFKM0N0bw?oc=5",
-      "publishedAt": "2026-09-02T12:37:27.000Z"
     }
   ]
 }
