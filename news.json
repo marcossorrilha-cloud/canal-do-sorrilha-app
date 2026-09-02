@@ -1,11 +1,39 @@
 {
-  "updatedAt": "2026-09-02T16:52:37.308Z",
+  "updatedAt": "2026-09-02T17:25:29.405Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Conquistando os consumidores no US Open",
+      "titleOriginal": "Courting Consumers at the U.S. Open",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
+      "publishedAt": "2026-09-02T17:20:29.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Comissão de Jogos de Massachusetts investiga apostas feitas por meio de representante por Bill Simmons",
-      "titleOriginal": "Massachusetts gaming commission investigating Bill Simmons proxy bets",
+      "title": "O braço de campanha do Partido Republicano na Câmara distribui mais de 2.000 ingressos para a convenção das eleições intermediárias no Texas",
+      "titleOriginal": "House GOP campaign arm distributes more than 2,000 tickets for midterm convention in Texas",
+      "link": "https://thehill.com/homenews/campaign/6066614-texas-gop-midterms-convention-dallas/",
+      "publishedAt": "2026-09-02T17:02:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nova Jersey solicita à Suprema Corte que analise disputa envolvendo mercado de previsões",
+      "titleOriginal": "New Jersey asks Supreme Court to review prediction market dispute",
+      "link": "https://thehill.com/policy/technology/6066637-nj-asks-scotus-prediction-markets/",
+      "publishedAt": "2026-09-02T17:00:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Comissão da Câmara analisa a cidadania por direito de nascimento após decisão da Suprema Corte",
+      "titleOriginal": "Watch live: House panel examines birthright citizenship after Supreme Court ruling",
+      "link": "https://thehill.com/video-clips/6065494-watch-live-house-judiciary-committee-birthright-citizenship/",
+      "publishedAt": "2026-09-02T16:52:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Comissão de Jogos de Massachusetts investiga apostas feitas por meio de procurador por Bill Simmons",
+      "titleOriginal": "Massachusetts Gaming Commission investigating Bill Simmons proxy bets",
       "link": "https://thehill.com/policy/sports-gaming/6066513-bill-simmons-mgc-investigation/",
       "publishedAt": "2026-09-02T16:50:30.000Z"
     },
@@ -24,6 +52,13 @@
       "publishedAt": "2026-09-02T16:32:06.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
+      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
+      "publishedAt": "2026-09-02T16:31:35.000Z"
+    },
+    {
       "source": "AP News",
       "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
       "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
@@ -36,41 +71,6 @@
       "titleOriginal": "Justice Department defends Pentagon’s proposed firings of Stars and Stripes staffers",
       "link": "https://thehill.com/regulation/court-battles/6066488-doj-defends-pentagon-dismissals/",
       "publishedAt": "2026-09-02T16:28:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: EUA e Irã intensificam ataques; candidatos à reeleição se mantêm em Massachusetts",
-      "titleOriginal": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
-      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
-      "publishedAt": "2026-09-02T16:20:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
-      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "publishedAt": "2026-09-02T16:18:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
-      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
-      "publishedAt": "2026-09-02T16:18:33.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ações sobem em Wall Street, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
-      "titleOriginal": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-      "publishedAt": "2026-09-02T16:13:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
-      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "publishedAt": "2026-09-02T16:06:00.000Z"
     }
   ]
 }
