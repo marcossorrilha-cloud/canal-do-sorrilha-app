@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-09-02T02:01:11.036Z",
+  "updatedAt": "2026-09-02T02:39:39.513Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump escolhe o veterano Hung Cao para assumir o cargo de Secretário da Marinha",
-      "titleOriginal": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktKTW83RDBLRmVUUjVETVd4LXlGRTRRNllNMl9BRTN1RW1Kc3lxOVJFX3JFLUt5VEF3Zk90bV82YXRWLUE5cFpJMG1LdEpxNEFXaDQwU29POTZ0bncxZFNJWERUblVyM3ZPZmhjbkVsZUtKam1hbzhaWm1JRHp5SjJyNzZSQjg0Rm9sTGlweXY1RGEyQ1ZOc2JjV2ZfQ3ZiZzBuUEUySjNXU2pPZ3c?oc=5",
-      "publishedAt": "2026-09-02T01:41:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama de sucessão",
-      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
-      "publishedAt": "2026-09-02T01:40:59.000Z"
-    },
     {
       "source": "AP News",
       "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
       "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
       "publishedAt": "2026-09-02T01:32:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump escolhe o veterano Hung Cao para assumir o cargo de secretário da Marinha",
+      "titleOriginal": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktKTW83RDBLRmVUUjVETVd4LXlGRTRRNllNMl9BRTN1RW1Kc3lxOVJFX3JFLUt5VEF3Zk90bV82YXRWLUE5cFpJMG1LdEpxNEFXaDQwU29POTZ0bncxZFNJWERUblVyM3ZPZmhjbkVsZUtKam1hbzhaWm1JRHp5SjJyNzZSQjg0Rm9sTGlweXY1RGEyQ1ZOc2JjV2ZfQ3ZiZzBuUEUySjNXU2pPZ3c?oc=5",
+      "publishedAt": "2026-09-02T01:29:00.000Z"
     },
     {
       "source": "New York Times",
@@ -66,11 +59,18 @@
       "publishedAt": "2026-09-02T00:23:07.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Maioria dos americanos é contra a mudança do nome do Lago Ontário e as tarifas do Canadá: pesquisa",
-      "titleOriginal": "Majority of Americans against Lake Ontario name change, Canada tariffs: Poll",
-      "link": "https://thehill.com/homenews/administration/6064850-americans-against-lake-america-canada-tariffs/",
-      "publishedAt": "2026-09-02T00:16:31.000Z"
+      "source": "Axios",
+      "title": "Objeções da China inviabilizam a declaração financeira do G20",
+      "titleOriginal": "China's objections derail G20 finance statement",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQ1g1R1VVUFA3MVdwV052ZnVRTDBnT3FrTHNVR1dTM1J5V0gyaUduR1lsb2lZclhWMHJyeE9iejVkWVFLMFd3U190Uzk5TS11NER0VlRDbnhkeDZyUVVhYXhQR0stTVU?oc=5",
+      "publishedAt": "2026-09-02T00:20:40.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA e Irã trocam golpes na mais recente disputa pelo controle do Estreito de Ormuz",
+      "titleOriginal": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OM3NZUk9XUU43YUU1MS13dXJkeHNvNVlEN1U3Ql9acjhaOUNXRXhxNW5MOUdhZmFlR1kyZGRxS3czVjRCN0MzdHFqbmdtaFQ1MXh0T0dLZGtXSHgyc3RVUGh0bUROVjJrcGlkclBLNA?oc=5",
+      "publishedAt": "2026-09-02T00:20:00.000Z"
     }
   ]
 }
