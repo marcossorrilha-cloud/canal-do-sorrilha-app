@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-02T23:24:37.115Z",
+  "updatedAt": "2026-09-02T23:49:00.741Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Juiz federal suspende nova ordem de Trump sobre a cidadania por direito de nascimento",
+      "titleOriginal": "Federal judge blocks Trump’s new birthright citizenship order",
+      "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+      "publishedAt": "2026-09-02T23:35:40.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Estados entram com ação judicial contra a medida que visa encerrar o financiamento federal para cuidados de transição de jovens transgêneros",
+      "title": "Estados entram com ação judicial contra a medida que visa encerrar o financiamento federal para jovens transgêneros para cuidados de transição",
       "titleOriginal": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
       "publishedAt": "2026-09-02T23:16:33.000Z"
@@ -52,25 +59,18 @@
       "publishedAt": "2026-09-02T22:13:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Witkoff se reúne com importante autoridade dos Emirados Árabes Unidos em meio à repressão ao Irã",
-      "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
-      "publishedAt": "2026-09-02T22:06:01.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Norman apoia Graham após questionar por que Trump a apoiou",
+      "title": "Norman declara apoio a Graham após questionar por que Trump a apoiou",
       "titleOriginal": "Norman endorses Graham after questioning why Trump backed her",
       "link": "https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement/",
       "publishedAt": "2026-09-02T22:04:06.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "CEOs do setor de tecnologia e o governo Trump pedem ao G-20 que adote políticas favoráveis à IA",
-      "titleOriginal": "Tech CEOs, Trump Administration Ask G-20 to Adopt Pro-AI Policies",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTNQSnJnNl9jZXVwakxoOWk4RDh6ODd2S0VNVkR0MWd5X0Z4OE1ZaDh4d0RaemR3Um5KTVlzTXJ0T2NFdjlZQXYwV3VrTmVUTExhM01ibTdPTWp4a0JGWE5ncUZWMWI0TkZMYlk4RERhUjY1U0RMdlFtZ29rMjRzZjh4T1BPREVnODNBaFNlYUZTSlcxZWhFQkRteGs0U3p1QXlv?oc=5",
-      "publishedAt": "2026-09-02T21:52:00.000Z"
+      "source": "Axios",
+      "title": "Witkoff se reúne com alto funcionário dos Emirados Árabes Unidos em meio à repressão contra o Irã",
+      "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
+      "publishedAt": "2026-09-02T21:55:25.000Z"
     }
   ]
 }
