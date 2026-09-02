@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-02T04:51:15.466Z",
+  "updatedAt": "2026-09-02T05:29:41.630Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Bessent afirma que 19 ministros das Finanças concordaram que as “exportações baratas” são insustentáveis, mas a China discordou",
+      "titleOriginal": "Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemFQRWRvbnJmUTRtSERYcEVXMUh3Y0VyNjFyelVDaUNKbEJtX004c3d1YmtoSTVRY3NVOW1fSTJvOEFoSTdVYS05d29KQlhvdHlKbDhGMXluemdlUU9EdmJCODZSaXh5VXYxUG9tVTJ3VDZoZGc4OUtYOVJMZm1wRVRPSHdtbWZIc0F0elYyTmVTdjJTRm5UT1Zn?oc=5",
+      "publishedAt": "2026-09-02T04:16:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O pesadelo logístico da Marinha na guerra contra o Irã",
+      "title": "O pesadelo logístico da Marinha na guerra do Irã",
       "titleOriginal": "The Navy’s Logistical Nightmare in the Iran War",
       "link": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html",
       "publishedAt": "2026-09-02T04:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O senador Ed Markey, de 80 anos, vence as primárias democratas de Massachusetts contra um adversário que defendia uma mudança geracional",
+      "titleOriginal": "Sen. Ed Markey, 80, wins Mass. Democratic primary over opponent who called for generational change",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
+      "publishedAt": "2026-09-02T03:57:00.000Z"
     },
     {
       "source": "New York Times",
@@ -15,13 +29,6 @@
       "titleOriginal": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html",
       "publishedAt": "2026-09-02T03:42:47.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
-      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
-      "publishedAt": "2026-09-02T03:32:27.000Z"
     },
     {
       "source": "AP News",
@@ -36,13 +43,6 @@
       "titleOriginal": "House Democrats left reeling after shock defections",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
       "publishedAt": "2026-09-02T03:18:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lynch supera o desafio nas primárias da Câmara de Massachusetts na disputa pela mudança geracional",
-      "titleOriginal": "Lynch fends off Massachusetts House primary challenge in battle over generational change",
-      "link": "https://thehill.com/homenews/campaign/6063438-lynch-wins-massachusetts-house-primary/",
-      "publishedAt": "2026-09-02T02:44:22.000Z"
     },
     {
       "source": "Axios",
@@ -60,17 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "O senador Ed Markey, de 80 anos, vence as primárias democratas de Massachusetts contra um adversário que defendia uma mudança geracional",
-      "titleOriginal": "Sen. Ed Markey, 80, wins Mass. Democratic primary over opponent who called for generational change",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
-      "publishedAt": "2026-09-02T02:09:00.000Z"
+      "title": "O trabalho do Serviço Postal para cumprir a ordem executiva de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
+      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+      "publishedAt": "2026-09-02T01:32:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado conflito sucessório",
-      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
-      "publishedAt": "2026-09-02T01:40:59.000Z"
+      "title": "Trump escolhe o veterano Hung Cao para assumir o cargo de secretário da Marinha",
+      "titleOriginal": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktKTW83RDBLRmVUUjVETVd4LXlGRTRRNllNMl9BRTN1RW1Kc3lxOVJFX3JFLUt5VEF3Zk90bV82YXRWLUE5cFpJMG1LdEpxNEFXaDQwU29POTZ0bncxZFNJWERUblVyM3ZPZmhjbkVsZUtKam1hbzhaWm1JRHp5SjJyNzZSQjg0Rm9sTGlweXY1RGEyQ1ZOc2JjV2ZfQ3ZiZzBuUEUySjNXU2pPZ3c?oc=5",
+      "publishedAt": "2026-09-02T01:29:00.000Z"
     }
   ]
 }
