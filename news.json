@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-02T15:31:39.583Z",
+  "updatedAt": "2026-09-02T15:53:15.384Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O governo Trump apoia o argumento de “uso justo” da OpenAI no processo movido pelo NYT",
+      "titleOriginal": "Trump admin backs OpenAI 'fair use' argument in suit from NYT",
+      "link": "https://thehill.com/homenews/media/6066304-ny-times-openai-ai-lawsuit/",
+      "publishedAt": "2026-09-02T15:50:27.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação incomum: na dissidência",
+      "titleOriginal": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
+      "publishedAt": "2026-09-02T15:43:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Casa da Moeda dos EUA lança oficialmente a moeda de US$ 1 com a imagem de Trump",
+      "titleOriginal": "US Mint officially launches $1 coin featuring Trump",
+      "link": "https://thehill.com/homenews/administration/6066247-us-mint-releases-trump-coins/",
+      "publishedAt": "2026-09-02T15:37:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Varejistas reduzem a variedade de produtos para minimizar os custos da cadeia de suprimentos e as tarifas",
+      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "publishedAt": "2026-09-02T15:32:10.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A UE tem dificuldade em encontrar uma resposta eficaz depois que a Alemanha culpou a Rússia por um ataque com drone que fracassou",
+      "titleOriginal": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+      "publishedAt": "2026-09-02T15:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Por que os Estados Unidos deveriam temer a manipulação de distritos eleitorais, e não a fraude eleitoral",
+      "titleOriginal": "Why America should fear gerrymandering, not voter fraud",
+      "link": "https://thehill.com/opinion/campaign/6064415-gerrymandering-midterm-manipulation/",
+      "publishedAt": "2026-09-02T15:30:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-09-02T15:09:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Os “trumpismos” são o maior problema de comunicação dos republicanos",
-      "titleOriginal": "Trumpisms are the Republicans' biggest messaging problem",
-      "link": "https://thehill.com/opinion/campaign/6064397-trump-endangers-gop-midterms/",
-      "publishedAt": "2026-09-02T15:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os democratas dissidentes da Câmara, Golden e Perez, enfrentam uma pressão cada vez maior por “consequências”",
-      "titleOriginal": "Rogue House Democrats Golden and Perez face growing push for \"consequences\"",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1FhQUFOd2RNUUV5NHZRVnlyUktKdlUyMlBIVnFfRVl0a0swcUctdVZMV0hNejM4QnZlWm1VRGFWQ1N0ekcwM0pwNGI5OTlIZ2U1Yk5kR1V3cnQ2Z1dCQkhDbnJkNHh4UEQxV0xfMXRHN2tOTzRjR3pRUFVnMHBZWVVPQWhybHlF?oc=5",
-      "publishedAt": "2026-09-02T14:53:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
-      "titleOriginal": "UPS Rejiggers Operating Model, Names Chief Global Operations Officer",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFowbGVOZ1l5MnRXSmxLREpBSm8tZXk5Zy00Mjg0cUlOYnRYdVpMQkhJb294dlhYanZXZXBFRzVTeldueGJvZ0p1NlZiN2FyT0xsRGRHeDAwM0pQRjNWNzJyZXRTR1oxQmFaT2hrX0lWdWtqV29ua0FSZFNWUjNoMUh4SUZhaG13OVp6dW14cDFrS3RKamxmR2FpMW11bkN6SFl4b2d6MkZ6RGNZVkNlb2FBaHNJQQ?oc=5",
-      "publishedAt": "2026-09-02T14:48:58.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
-      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
-      "publishedAt": "2026-09-02T14:48:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A rapidez de Trump no salão de baile da Casa Branca ameaça ultrapassar a dos tribunais",
-      "titleOriginal": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
-      "publishedAt": "2026-09-02T14:47:31.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "No salão de baile de Trump, o presidente da Suprema Corte se vê em uma situação inusitada: na dissidência",
-      "titleOriginal": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
-      "publishedAt": "2026-09-02T14:34:16.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump indicará Hung Cao para o cargo de secretário da Marinha",
-      "titleOriginal": "Trump to Nominate Hung Cao as Navy Secretary",
-      "link": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html",
-      "publishedAt": "2026-09-02T14:25:09.000Z"
+      "source": "AP News",
+      "title": "A China pressiona os EUA por respostas após a morte de um homem poucas horas depois de ter sido colocado sob custódia do ICE",
+      "titleOriginal": "China presses the US for answers after a man dies hours after entering ICE custody",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0w4YVFUXzY5UUJqcld2bU8xcWMycFBpVHVYbnFyUzJUU0w5TW1FWVRnVzl0OXBscTMycmdVOWtZMk15T0hUV20yN3VIR1NiUWFLVXJsRU9oaHR3dlF3eEUzazQ4bzZ4M0VBbU1aNm1PNDFVamJRblZEdW16MDBLWEJIaGNaNm10Ui1ENENxMjJOa21RaWZlTHp1TGgzSzV6eFhQQ1Z2eWlyUWFSbWc?oc=5",
+      "publishedAt": "2026-09-02T15:04:00.000Z"
     }
   ]
 }
