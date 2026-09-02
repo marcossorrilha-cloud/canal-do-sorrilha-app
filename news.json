@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-02T12:33:57.994Z",
+  "updatedAt": "2026-09-02T12:53:48.406Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Golden explica sua deserção em relação à regra do Partido Republicano: “Vou ficar do lado dos pescadores”",
+      "titleOriginal": "Golden explains defection on GOP rule: 'I’m going with the fishermen'",
+      "link": "https://thehill.com/homenews/house/6065456-jared-golden-defection-gop-rule-congress/",
+      "publishedAt": "2026-09-02T12:50:29.000Z"
+    },
     {
       "source": "The Hill",
       "title": "As câmeras Flock ampliam o poder da polícia — os cidadãos devem se perguntar a que custo",
@@ -39,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O pesadelo logístico da Marinha na Guerra do Irã",
+      "title": "O pesadelo logístico da Marinha na guerra contra o Irã",
       "titleOriginal": "The Navy’s Logistical Nightmare in the Iran War",
       "link": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html",
       "publishedAt": "2026-09-02T10:27:52.000Z"
@@ -53,23 +60,16 @@
     },
     {
       "source": "AP News",
-      "title": "A UE tem dificuldade em encontrar uma resposta eficaz depois que a Alemanha atribuiu à Rússia a responsabilidade por um ataque com drone frustrado",
+      "title": "A UE tem dificuldade em encontrar uma resposta eficaz depois que a Alemanha culpou a Rússia por um ataque com drone frustrado",
       "titleOriginal": "EU struggles to find an effective response after Germany blames Russia for a foiled drone attack",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
       "publishedAt": "2026-09-02T10:24:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A agenda do Congresso em fim de mandato cresce à medida que o órgão adia as prioridades para depois das eleições",
+      "title": "A agenda do Congresso em fim de mandato cresce cada vez mais, à medida que o órgão adia as prioridades para depois das eleições",
       "titleOriginal": "Lame-duck agenda balloons as Congress punts priorities until after election",
       "link": "https://thehill.com/homenews/senate/6064611-gop-punted-lame-duck-agenda/",
-      "publishedAt": "2026-09-02T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed faz um equilíbrio político delicado em Michigan com Hasan Piker",
-      "titleOriginal": "El-Sayed walks political tightrope in Michigan with Hasan Piker",
-      "link": "https://thehill.com/homenews/campaign/6063934-elsayed-michigan-senate-piker/",
       "publishedAt": "2026-09-02T10:00:00.000Z"
     }
   ]
