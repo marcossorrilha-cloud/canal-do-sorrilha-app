@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-02T21:25:53.248Z",
+  "updatedAt": "2026-09-02T21:49:42.597Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Thune diz que teme perder a maioria no Senado: “Sou realista”",
+      "titleOriginal": "Thune says he worries about losing Senate majority: 'I’m a realist'",
+      "link": "https://thehill.com/homenews/senate/6067615-thune-gop-senate-majority/",
+      "publishedAt": "2026-09-02T21:47:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Moedas com a imagem de Trump já estão esgotadas na Casa da Moeda dos EUA",
+      "titleOriginal": "Trump coins already out of stock at US Mint",
+      "link": "https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out/",
+      "publishedAt": "2026-09-02T21:34:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump considera o acordo judicial de Tiger Woods “muito justo”",
+      "titleOriginal": "Trump calls Tiger Woods plea deal 'very fair'",
+      "link": "https://thehill.com/blogs/in-the-know/6067509-trump-tiger-woods-dui-plea-fair/",
+      "publishedAt": "2026-09-02T21:29:04.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Wall Street sobe com a alta das ações do setor de tecnologia, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T21:23:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Democratas bloqueiam proposta de emenda constitucional para manter o número de juízes da Suprema Corte em nove",
@@ -24,53 +52,25 @@
       "publishedAt": "2026-09-02T21:04:47.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Newsom e Schiff apoiam a iniciativa de Trump em prol do crédito fiscal federal para o cinema",
-      "titleOriginal": "Newsom, Schiff back Trump's push for federal film tax credit",
-      "link": "https://thehill.com/homenews/state-watch/6067488-newsom-schiff-trump-film-tax/",
-      "publishedAt": "2026-09-02T21:00:42.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O USPS está desenvolvendo um sistema de triagem de cédulas eleitorais enviadas pelo correio, apesar das disputas judiciais em torno da ordem de Trump",
-      "titleOriginal": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html",
-      "publishedAt": "2026-09-02T20:38:11.000Z"
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Anthropic assina contrato de nuvem no valor de US$ 35 bilhões com o apoio da Nvidia",
+      "titleOriginal": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "publishedAt": "2026-09-02T20:47:53.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Parecer do Departamento de Justiça insta os estados a comunicarem os casos de migrantes sem status legal permanente",
+      "title": "Parecer do Departamento de Justiça insta os estados a comunicarem os migrantes sem status legal permanente",
       "titleOriginal": "DOJ opinion urges states to report migrants lacking permanent legal status",
       "link": "https://thehill.com/homenews/administration/6067385-justice-department-states-migrants-safety-net-programs/",
       "publishedAt": "2026-09-02T20:20:16.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump diz que está “feliz” por Harry e Meghan terem deixado os EUA para ir para a Grã-Bretanha",
-      "titleOriginal": "Trump says he's 'happy' Harry and Meghan left US for Britain",
-      "link": "https://thehill.com/blogs/in-the-know/6067374-trump-criticizes-royal-family-exit/",
-      "publishedAt": "2026-09-02T20:12:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo Trump inicia investigação sobre fraudes eleitorais envolvendo eleitores não cidadãos antes das eleições de meio de mandato",
-      "titleOriginal": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "publishedAt": "2026-09-02T20:05:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump volta a seguir um roteiro já conhecido à medida que a guerra com o Irã se intensifica novamente",
-      "titleOriginal": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-      "publishedAt": "2026-09-02T19:56:52.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicanos da Câmara pressionam autoridade comercial de Trump sobre importações de carne bovina e o Canadá",
-      "titleOriginal": "House Republicans press Trump trade official over beef imports, Canada",
-      "link": "https://thehill.com/homenews/senate/6067256-greer-meet-republican-trade-concerns/",
-      "publishedAt": "2026-09-02T19:44:00.000Z"
+      "source": "Axios",
+      "title": "Depois que Trump renomeou o Lago Ontário, os americanos não estão acreditando nessa polêmica dele com o Canadá",
+      "titleOriginal": "After Trump renamed Lake Ontario, Americans aren't buying his Canada fight",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSWhrNlViQ2xQOWpMcG9DVXNFSG1IODZTODk0d3VsU1U5NkM2enk5bThlYVNnNDI5c0psalVmLXQzemx5d085NnZFcnI0RGxUa2FjTDBBNlFEVURwaU1ocEFkbjBLNVNoRGttbl9zSWFCZXd2RGMydkdhRQ?oc=5",
+      "publishedAt": "2026-09-02T20:16:10.000Z"
     }
   ]
 }
