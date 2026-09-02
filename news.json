@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-02T17:25:29.405Z",
+  "updatedAt": "2026-09-02T17:49:10.013Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Tribunal conclui que juiz não tinha competência para anular a condenação de Bowe Bergdahl",
+      "titleOriginal": "Judge Lacked Power to Vacate Bowe Bergdahl’s Conviction, Court Finds",
+      "link": "https://www.nytimes.com/2026/09/02/us/bowe-bergdahl-conviction-army-sergeant-afghanistan.html",
+      "publishedAt": "2026-09-02T17:44:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent atribui parte da culpa à Ucrânia pelo “choque energético” que está elevando os preços",
+      "titleOriginal": "Bessent partly blames Ukraine for 'energy shock' pushing up prices",
+      "link": "https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock/",
+      "publishedAt": "2026-09-02T17:43:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Grupo pró-Trump divulga primeiro anúncio eleitoral para as eleições de meio de mandato",
+      "titleOriginal": "Pro-Trump group releases first general election midterm ad",
+      "link": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
+      "publishedAt": "2026-09-02T17:34:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas se reúnem para avaliar mudanças nas regras do partido após deserções inesperadas",
+      "titleOriginal": "Democrats huddle to weigh changes to party rules following surprise defections",
+      "link": "https://thehill.com/homenews/house/6066756-democrats-rules-changes-jeffries-golden-perez/",
+      "publishedAt": "2026-09-02T17:33:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-02T17:31:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações sobem em Wall Street, enquanto os preços do petróleo e os rendimentos dos títulos permanecem relativamente estáveis",
+      "titleOriginal": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T17:31:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Conquistando os consumidores no US Open",
@@ -18,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Nova Jersey solicita à Suprema Corte que analise disputa envolvendo mercado de previsões",
+      "title": "Nova Jersey solicita à Suprema Corte que analise disputa envolvendo o mercado de previsões",
       "titleOriginal": "New Jersey asks Supreme Court to review prediction market dispute",
       "link": "https://thehill.com/policy/technology/6066637-nj-asks-scotus-prediction-markets/",
       "publishedAt": "2026-09-02T17:00:03.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Watch live: House panel examines birthright citizenship after Supreme Court ruling",
       "link": "https://thehill.com/video-clips/6065494-watch-live-house-judiciary-committee-birthright-citizenship/",
       "publishedAt": "2026-09-02T16:52:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Comissão de Jogos de Massachusetts investiga apostas feitas por meio de procurador por Bill Simmons",
-      "titleOriginal": "Massachusetts Gaming Commission investigating Bill Simmons proxy bets",
-      "link": "https://thehill.com/policy/sports-gaming/6066513-bill-simmons-mgc-investigation/",
-      "publishedAt": "2026-09-02T16:50:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma fraude do tipo Ponzi de US$ 140 milhões assombra o Partido Republicano da Geórgia às vésperas das eleições intermediárias",
-      "titleOriginal": "A $140 Million Ponzi Fraud Is Haunting Georgia GOP Ahead of Midterms",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFY2dHhMY1dtYXVKeGdJSnNXdFQ4bHJ3NmxYRndOY2NMVEgzZDE3a1FmTE5SUVVYZnJfOEVfeGhOY0xUYU1yUTBsV1otcGhaRjZZcXdmdUptc1NJd0ZlOTljQWxraklrV3lqR01FREEtbldxRURPUGF1Y3BjTGE2OS1NUWtIZWNZbnVod29QWUtVVE12NUtYSzNSV1JzREx0WTFMZlhOUUxKMVJsclBXcmd3?oc=5",
-      "publishedAt": "2026-09-02T16:36:28.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como os repórteres do New York Times rastrearam o dinheiro oculto na política",
-      "titleOriginal": "How New York Times Reporters Traced Dark Money in Politics",
-      "link": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
-      "publishedAt": "2026-09-02T16:32:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
-      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
-      "publishedAt": "2026-09-02T16:31:35.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
-      "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-      "publishedAt": "2026-09-02T16:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Departamento de Justiça defende a proposta do Pentágono de demitir funcionários do “Stars and Stripes”",
-      "titleOriginal": "Justice Department defends Pentagon’s proposed firings of Stars and Stripes staffers",
-      "link": "https://thehill.com/regulation/court-battles/6066488-doj-defends-pentagon-dismissals/",
-      "publishedAt": "2026-09-02T16:28:21.000Z"
     }
   ]
 }
