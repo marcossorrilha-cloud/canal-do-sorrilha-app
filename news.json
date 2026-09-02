@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-02T08:51:39.770Z",
+  "updatedAt": "2026-09-02T09:27:30.914Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Quem aprova os projetos de reforma de Trump em Washington?",
+      "titleOriginal": "Who Approves Trump’s Washington Makeover Projects?",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html",
+      "publishedAt": "2026-09-02T09:04:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Bilionários fizeram os preços em Montana dispararem. Será que os democratas vão conseguir tirar proveito disso?",
+      "titleOriginal": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
+      "publishedAt": "2026-09-02T09:01:02.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Susan Collins fala sobre Trump, tarifas e sua luta pelo Maine",
+      "titleOriginal": "Susan Collins on Trump, tariffs and her fight for Maine",
+      "link": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
+      "publishedAt": "2026-09-02T09:00:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
@@ -10,11 +31,18 @@
       "publishedAt": "2026-09-02T08:48:53.000Z"
     },
     {
+      "source": "Politico",
+      "title": "Os republicanos não estão exatamente lotando a convenção de meio de mandato de Trump",
+      "titleOriginal": "Republicans aren’t exactly flocking to Trump’s midterm convention",
+      "link": "https://www.politico.com/news/2026/09/02/gop-midterm-convention-attendance-01061286",
+      "publishedAt": "2026-09-02T08:45:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Conquistando os consumidores no US Open",
-      "titleOriginal": "Courting Consumers at the U.S. Open",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnZWXzZlSS0zNzRJa2l3V1Ftczh4THhDYk56WnlvY3Q3RUUybXUzejZsVF9BN05oVTA0dUR0WlFZOWpaQ0tWRzVJeUpGd2JnNDZ6dWZiN3hoMXduVUxqR1Bmdi1aWXM0aFpZeHZ5a0ZRMkNMd3JnZHktY1JtZw?oc=5",
-      "publishedAt": "2026-09-02T08:47:39.000Z"
+      "title": "Preço do petróleo sobe à medida que ataques entre EUA e Irã diminuem as esperanças de reabertura do Estreito de Ormuz",
+      "titleOriginal": "Oil Rises as U.S.-Iran Strikes Dim Hopes for Hormuz Reopening",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUJEWHF6c3VYN1B1S3JNOWVXYlVrak9kSkFPaHdmdnZyUE1Fc3RSajFQaHRtSFc5SEY3RE5QUTdHWUZ5U1RVTnJsTm84bWFjVmZsa2tLUXVLdnhCcWV1djVkUXlaQVBwV2RKdzRDNHJtbTdGbjVzZHowS3JPVDBaOGo3c0lXbDFocTlNT2Y4cXNQMjZhTEUzTVRvVERmLTdWZUE?oc=5",
+      "publishedAt": "2026-09-02T08:39:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,46 +59,18 @@
       "publishedAt": "2026-09-02T07:03:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Alerta de ataque aéreo interrompe o primeiro dia de aula em Kiev após ataques com mísseis russos durante a madrugada",
-      "titleOriginal": "Air raid alert shatters first day of school in Kyiv after overnight Russian missile strikes",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNllkS0ExVWdrT0J2Nk1JeDVoMU01OS1fNGZKRjlGbkdEd3YwRm9zOEt2akkxTWtaWGNta2N2SHhRdEluZ21xQjdtTEpBWUdtZW9mcjBtbWhORm5MUS1Ock1PODFaQ3lrVHZ3RzVCYm5LUDhfS1BCS2ZPenhyUDZ1Z2NXQTdpWkN2ZFVDeEdENmZmUk1kZ2ZFV0pUby11YUR6Nk1NNjZ0RQ?oc=5",
-      "publishedAt": "2026-09-02T06:51:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado conflito de sucessão",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama sucessório",
       "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
       "publishedAt": "2026-09-02T06:31:54.000Z"
     },
     {
       "source": "AP News",
-      "title": "Explosão perto de uma estação ferroviária alemã fere várias pessoas e mobiliza a polícia",
+      "title": "Explosão perto de uma estação ferroviária na Alemanha fere várias pessoas e mobiliza a polícia",
       "titleOriginal": "Explosion near German train station injures several people and draws police response",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BVU0ZJWFptN1pDcnRzOHpOdEhhY21QeGVwQ1YzNmtQbmxqaXQxQjFXSGRzcDN6Zmx4dHhZdzdEc21reEExZHVqSWdhem1qaTdDUGlZTTNXNDBOaGxvVTVRcXp3TnA2NTFnZ1NUVnlhWEp4M3A0bWNVV0NqcWxYNTVZWkl3RjYycFFUTjJtOTFGS2NsT2x2WGNqaGt1YWR4WlBrb1lfVEJWb1dK?oc=5",
       "publishedAt": "2026-09-02T06:22:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas da Câmara ficam abalados após deserções inesperadas",
-      "titleOriginal": "House Democrats left reeling after shock defections",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
-      "publishedAt": "2026-09-02T06:05:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A TPG apresenta pedido confidencial de oferta pública inicial (IPO) para ativos hospitalares na Malásia avaliados em cerca de US$ 8 bilhões",
-      "titleOriginal": "TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnhFeUVrZmpWcDRmRUFrS2xNNkYzUnVRbDVGNjFieWhZY2ZCVWNzaHRScWo0WEI3RjVCYUE3NXQ1Z2l5bGxLWjVMdW43WTRPWHlsZmlZcGRSSm1zd0o5N1VoeWxLX3pRZjZVbzRxX01Ua2hraDc4YWxXaWJwdExTejlIVTBnNm5DQ2Vob3V6NUJwRXBiTU5XSDBFWWRGQTNPdHlOUVVmY3pvSlA0N1UyUzV6OWV4TWdmXzd0QXFPVQ?oc=5",
-      "publishedAt": "2026-09-02T05:15:53.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Super PAC do Partido Republicano ataca Jackson por causa de questões relacionadas a pessoas transgênero",
-      "titleOriginal": "Scoop: GOP Super PAC hits Jackson on transgender issues",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3l1TlBxb0NlMmNRWXlHY1hrRUd0dHpVMHZzcnNocF9OREJWMjZNTklRREl0U3VsZTZkTXlEZG9LS3IxaFp3R3lYYkNEc2kyOEdscC1icnYyV3I2XzBIcnNybm1CWjctYm1Tb1VycVphcnNoblBGQkxXNk5sQnRtS2dDMk83Z2tleUh6Zg?oc=5",
-      "publishedAt": "2026-09-02T04:38:39.000Z"
     }
   ]
 }
