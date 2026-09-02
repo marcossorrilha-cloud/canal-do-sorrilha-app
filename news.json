@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-02T13:28:46.142Z",
+  "updatedAt": "2026-09-02T13:51:58.070Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Vance para El-Sayed: “Não ouse sequer mencionar o nome da minha esposa”",
+      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
+      "publishedAt": "2026-09-02T13:39:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações oscilam em Wall Street em meio a notícias sobre o mercado de trabalho e ao recrudescimento dos confrontos na guerra dos EUA contra o Irã",
+      "titleOriginal": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "publishedAt": "2026-09-02T13:39:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Trump convida republicanos de estados decisivos para um jantar no Rose Garden",
+      "titleOriginal": "Trump invites battleground Republicans to Rose Garden dinner",
+      "link": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
+      "publishedAt": "2026-09-02T13:32:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
+      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
+      "publishedAt": "2026-09-02T13:31:27.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump: “Quando é que o povo iraniano vai se levantar e lutar?”",
@@ -11,17 +39,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Bilionários fizeram os preços em Montana dispararem. Será que os democratas conseguirão tirar proveito disso?",
+      "title": "Bilionários fizeram os preços em Montana dispararem. Os democratas conseguirão tirar proveito disso?",
       "titleOriginal": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html",
       "publishedAt": "2026-09-02T13:11:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vance para El-Sayed: “Não ouse nem mencionar o nome da minha esposa”",
-      "titleOriginal": "Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VIMWxzd080OGRqcGY5bVlOZGMtMGpNNDJmZ21zX1pxb1VVVld2MmlsbU5qdVQxWGR2V053ZmIzdFdBWUxlY1MyeFRyMXdIWkpkWS1tU1JEOTdMWDNpdldmLUFMX29lYkVVMUFQZkQwa1pkQzJ2Z3ktNVRzakZBQW1JaG9KSmVRU01QQVJDTnc4cFh0ajJ0WlpBdWdBNG5BQlp4b0dwbE1ZMU5OYjRVbg?oc=5",
-      "publishedAt": "2026-09-02T13:10:56.000Z"
     },
     {
       "source": "The Hill",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-02T12:50:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Democratas da Câmara ficam abalados após deserções inesperadas",
-      "titleOriginal": "House Democrats left reeling after shock defections",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
-      "publishedAt": "2026-09-02T12:09:19.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As câmeras Flock ampliam o poder da polícia — os cidadãos devem se perguntar a que custo",
-      "titleOriginal": "Flock cameras expand police power — citizens must ask at what cost",
-      "link": "https://thehill.com/opinion/technology/6062041-flock-cameras-police-accountability/",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso retira da pauta a disputa sobre a paralisação nas eleições de meio de mandato",
-      "titleOriginal": "Congress takes midterm shutdown fight off the table",
-      "link": "https://thehill.com/newsletters/morning-report/6065382-congress-passes-stop-gap-funding-avoiding-midtem-shutdown-fight/",
-      "publishedAt": "2026-09-02T11:06:05.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Como a Brunswick está usando IA e o controle de velocidade marítimo para aumentar os preços dos barcos",
-      "titleOriginal": "How Brunswick Is Using AI and Marine Cruise Control to Raise Prices on Boats",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGlzWXk3cWZVNEg0d044NEtQSlp3dDdfVVFrYkI0dGRrYkJ5VjZTbWRITno5TF9vczNZWllqSXMyaEFZZmdOR0lxV2gyT1F2UlpNRW5EQjNMS0FONlBwVEk1YTFmTG1MOUN0T2J1Qll5N2FHcHhzMUJlYmZ0VGtpa2xoY3pKNjVvYnNibXVtc3B4a1RIdXZGSS1EdWFOSF9HMndCM2YtVW9nb3dEMmhKWnlBNF9VTENW?oc=5",
-      "publishedAt": "2026-09-02T11:01:45.000Z"
+      "title": "Europa se junta à onda global de vendas de títulos, enquanto as hostilidades no Oriente Médio elevam os preços do petróleo",
+      "titleOriginal": "Europe Joins Global Bond Selloff as Middle East Hostilities Lift Oil Prices",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm5xNm5HZjdYanhkU2dxUWRCZVgtUGlOcDBpanBfa1VZN3Yxb3Z4dU5CX0lFWGFWblctY1dpQkFuR0JZNnVKNFpodW53MUZNSmdSTWRsOWZfMzliM2ktQnhLMnJPS21pVURBMFE1eXJPMDRyRmp2QjQxZWYtTGpyV21vbjdZTEFrTmFTeFdBcEo2RWFrRGVTeWVlQWEtS2M0TVY4dDFCQy1RdXRQRjlTZEhoOUlKbXl2VXFKM0N0bw?oc=5",
+      "publishedAt": "2026-09-02T12:37:27.000Z"
     }
   ]
 }
