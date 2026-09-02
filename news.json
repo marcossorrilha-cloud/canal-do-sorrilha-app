@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-02T04:29:07.615Z",
+  "updatedAt": "2026-09-02T04:51:15.466Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado drama de sucessão",
-      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
-      "publishedAt": "2026-09-02T04:18:18.000Z"
-    },
     {
       "source": "New York Times",
       "title": "O pesadelo logístico da Marinha na guerra contra o Irã",
@@ -22,6 +15,13 @@
       "titleOriginal": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
       "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html",
       "publishedAt": "2026-09-02T03:42:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O desequilíbrio geopolítico que leva a Rússia a ameaçar o Ocidente",
+      "titleOriginal": "The Geopolitical Mismatch Driving Russia to Threaten the West",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElTQ29rX2wyc2ZPYk9UbnB2ak9zV3VzeFg3Zk9hQWI3U2VZNlZRQ09odTFLX3hNRDZSMGZnNVZVenJ5VXdHNXpxWGZNV0Y0YTB0NjE4RTc2cUREVFhmSHNBajAxVzFEa05CU3ZGLVA1SXJQeHlWWFltMnJBb1hTbzVIcUlhTktkajh1dUpQRUVhNjBZZ0gwVnEtYUhuZXdORHVOZW9n?oc=5",
+      "publishedAt": "2026-09-02T03:32:27.000Z"
     },
     {
       "source": "AP News",
@@ -46,17 +46,17 @@
     },
     {
       "source": "Axios",
+      "title": "Câmara dos Deputados censura Chuck Edwards por “assédio sexual” contra funcionários",
+      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
+      "publishedAt": "2026-09-02T02:30:27.000Z"
+    },
+    {
+      "source": "Axios",
       "title": "Todos os principais líderes militares que deixaram o cargo durante os mandatos de Hegseth e Trump",
       "titleOriginal": "All of the top military leaders who have exited under Hegseth and Trump",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWFNdWE1d3M2TXB6bGNHNjVQR2ktcjhBdF80SlNBc29ndG5ZZ3BlYW5RMFh2TkV4Nkhnel9Nd3RaMzRPWGdMcWlMNDM2QmtWS1d6aDhjcWpyVnFYLXg0V0RVaHpCVEdtNE83N3R3ME9vRTNGd3lQSUlkQV9HNHZGYmE1Rmk?oc=5",
       "publishedAt": "2026-09-02T02:18:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Câmara dos Deputados censura Chuck Edwards por “assédio sexual” contra funcionários",
-      "titleOriginal": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
-      "publishedAt": "2026-09-02T02:13:47.000Z"
     },
     {
       "source": "AP News",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-02T02:09:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O trabalho dos Correios para cumprir o decreto de Trump está sendo feito às pressas e de forma descuidada, afirma um denunciante",
-      "titleOriginal": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "publishedAt": "2026-09-02T01:32:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Um bilionário do setor bancário do Texas e seus filhos estão envolvidos em um acirrado conflito sucessório",
+      "titleOriginal": "A Texas Banking Billionaire and His Children Are Locked in a Bitter Succession Drama",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2wzcFFvR1E5aG1ZaGUyUUNjUk5ZcjE2WHVTSlJvQVVzc3hLZEtDalJEVVppT1RmLVlLdHpQQk95aEU1TzlUSHRLMXVDeEFNb0lCNGxHMHdOc3R4QUhLNUxkdEdSMDNhNHZlS2Z3SmlPR21PZ1A4REM4OTNmcC1rd2cwUXJqX3ZKU3V5cmszdHdEMU1kUEZiS1VxNVdGeTFRUVFteXVQQW42d25QeXVaSHFPcHRHeExtS1JlcmZPSQ?oc=5",
+      "publishedAt": "2026-09-02T01:40:59.000Z"
     }
   ]
 }
