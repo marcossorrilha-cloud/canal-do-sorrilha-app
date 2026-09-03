@@ -1,11 +1,32 @@
 {
-  "updatedAt": "2026-09-03T22:48:58.047Z",
+  "updatedAt": "2026-09-03T23:23:39.979Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "São anunciados planos para o início das obras do Arco do Triunfo de Trump antes da aprovação final",
+      "titleOriginal": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+      "publishedAt": "2026-09-03T23:02:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A SEC processa a LSU enquanto os atletas pedem judicialmente para recuperar a elegibilidade, com a temporada esportiva universitária já em andamento",
+      "titleOriginal": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
+      "publishedAt": "2026-09-03T22:55:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma líder democrata da Câmara",
-      "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Democrat says",
+      "title": "Vance se mostra “extremamente cético” em relação às notícias sobre o ataque a um casamento no Irã",
+      "titleOriginal": "Vance 'extremely skeptical' of Iran wedding attack reports",
+      "link": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
+      "publishedAt": "2026-09-03T22:52:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara",
+      "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
       "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
       "publishedAt": "2026-09-03T22:48:08.000Z"
     },
@@ -17,18 +38,18 @@
       "publishedAt": "2026-09-03T22:41:05.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "São anunciados planos para dar início às obras do Arco do Triunfo de Trump antes da aprovação final",
-      "titleOriginal": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
-      "publishedAt": "2026-09-03T22:34:27.000Z"
+      "source": "AP News",
+      "title": "Trump recorre novamente à Suprema Corte sobre as restrições ao voto por correspondência, com as eleições de meio de mandato se aproximando",
+      "titleOriginal": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
+      "publishedAt": "2026-09-03T22:33:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Elon Musk quer fabricar componentes para turbinas de energia. Não vai ser fácil.",
-      "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
-      "publishedAt": "2026-09-03T22:31:10.000Z"
+      "source": "AP News",
+      "title": "O julgamento de Lindsay Clancy chega ao sexto dia sem veredicto, após um episódio dramático no tribunal",
+      "titleOriginal": "Lindsay Clancy trial ends without a verdict for a sixth day after drama in the courtroom",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
+      "publishedAt": "2026-09-03T22:32:00.000Z"
     },
     {
       "source": "Politico",
@@ -39,17 +60,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Serviço Florestal encerra 23 centros de pesquisa",
+      "title": "Serviço Florestal fecha 23 centros de pesquisa",
       "titleOriginal": "Forest Service closing 23 research sites",
       "link": "https://thehill.com/policy/energy-environment/6070479-forest-service-closes-research-sites/",
       "publishedAt": "2026-09-03T22:16:45.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz sugere que as regras de Trump para o voto por correspondência poderiam causar uma “grande privação do direito de voto”",
-      "titleOriginal": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfranchisement’",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
-      "publishedAt": "2026-09-03T22:13:38.000Z"
     },
     {
       "source": "New York Times",
@@ -57,20 +71,6 @@
       "titleOriginal": "Proposal for White House Visitor Screening Center Advances",
       "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-white-house-visitor-center-planning-commission.html",
       "publishedAt": "2026-09-03T22:05:50.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A SEC entra com uma ação contra a LSU, enquanto os atletas pedem ao tribunal que lhes seja restabelecida a elegibilidade, com a temporada esportiva universitária já em andamento",
-      "titleOriginal": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
-      "publishedAt": "2026-09-03T22:03:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "JD Vance afirma que não chamaria o conflito com o Irã de guerra",
-      "titleOriginal": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
-      "publishedAt": "2026-09-03T21:51:49.000Z"
     }
   ]
 }
