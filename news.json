@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-09-03T08:29:39.686Z",
+  "updatedAt": "2026-09-03T08:52:54.072Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Preços do ouro podem cair; atenção voltada para os dados sobre o mercado de trabalho dos EUA",
+      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso vai ser difícil de convencer.",
+      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
+      "publishedAt": "2026-09-03T08:48:58.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T08:48:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Inflação na Suíça dispara com o aumento dos preços da energia",
+      "titleOriginal": "Swiss Inflation Jumps on Higher Energy Prices",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWQyNlZaMVVqMFVkMUktSWUxc1lBSk1DZWxBVVB5QzBxZ3VBaGlmakxoRlNkbEx0Tmd6bHJHNXNYRVFVTVh1bkFtRGo3OXJBMmdiUG54TnE4S0NRYmdyeTRjanZqY0ZXSzFMUmhYOEVWZXZUMTdSRUdXejhVenB4SFR3RTVUQ05OclV0MkRzSmw2a1U?oc=5",
+      "publishedAt": "2026-09-03T07:34:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do ouro podem cair; atenção aos dados sobre o mercado de trabalho dos EUA",
       "titleOriginal": "Gold Prices Could Decline; Focus on U.S. Jobs Data",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNam5IWFNrTmJYREpnUktNOUZ5V0hlQktibjJ6LURpUmg5SzFZZE1zejZadDhFWWswMEZtOHZqb21fRDlkTzJXQWJ0RE5ONC1VMVhEc3l0RmNrU0E0MlJabnJwUjVyeHF4REEtaXdQVVBhSWlwUGlRbU5sRm4wR0xUNDFOeFJsMWtRbHUwdEtERGxLbGhaRk9DYWZvaEJFd0QxY3dNcGN3?oc=5",
       "publishedAt": "2026-09-03T07:26:00.000Z"
@@ -24,6 +45,13 @@
       "publishedAt": "2026-09-03T06:18:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
+      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
+      "publishedAt": "2026-09-03T06:01:44.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Vance percebe uma espécie de “energia escura espiritual” em torno da IA",
       "titleOriginal": "Vance sees some \"spiritual dark energy\" around AI",
@@ -32,45 +60,17 @@
     },
     {
       "source": "Axios",
-      "title": "Witkoff se reúne com um influente representante dos Emirados Árabes Unidos em meio à repressão contra o Irã",
+      "title": "Witkoff se reúne com alto funcionário dos Emirados Árabes Unidos em meio à repressão ao Irã",
       "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
       "publishedAt": "2026-09-03T05:09:06.000Z"
     },
     {
       "source": "Axios",
-      "title": "Por dentro da controvérsia entre os republicanos da Câmara e a agenda comercial de Trump",
+      "title": "Por trás da discórdia dos republicanos da Câmara com a agenda comercial de Trump",
       "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
       "publishedAt": "2026-09-03T05:06:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo registram ligeira queda, enquanto as ações asiáticas sobem, acompanhando os ganhos de Wall Street",
-      "titleOriginal": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
-      "publishedAt": "2026-09-03T04:45:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Jornalista norte-americano condenado a dois anos de prisão federal por atuar como agente ilegal da China",
-      "titleOriginal": "A US journalist sentenced to 2 years in federal prison for acting as an illegal agent for China",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?oc=5",
-      "publishedAt": "2026-09-03T04:44:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O plano de Trump para a construção de uma cerca no Parque Lafayette, próximo à Casa Branca, está sendo analisado por um painel federal",
-      "titleOriginal": "Trump’s plan for a fence at Lafayette Park near White House gets review by federal panel",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGdoOFhNaWs5Vk5uM3BjM2EtWnROcTdoOXoyRW1kTDRQX0FyT0g2X2Q3aThfSzZyNnlheVBWejItSGFycG90VHRVOEJXdTJmX2k1ZndMM0d6LXpwczMwUW52bFppTzJLWmJISUFhMVVEWUE3bTZWS21XSzU5WU80S21OempNYVlMYUp4RDZRTUxteEFwVGp0ckFfbWtYZnJ5UndsUGpfMUpnUQ?oc=5",
-      "publishedAt": "2026-09-03T04:14:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Veja a seguir as disputas eleitorais “ambiciosas” nas quais os democratas esperam conseguir vitórias surpreendentes na Câmara dos Deputados",
-      "titleOriginal": "Here’s a look at ‘reach’ election races where Democrats hope to pull off House upsets",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2U5c1hlaWVENGVrZ2p3UlM1b0pucjQ2eUpnUHd2M09oeHllNWsyT1p1TWp0ZGJmcl9wWnFoeDNCRXRxdDc5ek16ZHF5V29aLTdZeFd1NTdsN2hVRTNIWWpHXzlYWmJZSHJHOUNWelBKdks2Nm0xM09QRmcwLU1EUXh2eTBPU0FvaVVIY2RmcGhjSzdaa0tpNEViYmNiOHB4TTlDckZUdW9uMkdv?oc=5",
-      "publishedAt": "2026-09-03T04:07:00.000Z"
     }
   ]
 }
