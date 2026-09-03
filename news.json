@@ -1,20 +1,41 @@
 {
-  "updatedAt": "2026-09-03T14:52:42.396Z",
+  "updatedAt": "2026-09-03T15:30:08.640Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso não vai ser fácil de convencer.",
-      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
-      "publishedAt": "2026-09-03T14:48:59.000Z"
+      "source": "New York Times",
+      "title": "El-Sayed quer restabelecer laços com os democratas judeus, mas alguns ainda não estão convencidos",
+      "titleOriginal": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html",
+      "publishedAt": "2026-09-03T15:27:02.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Tribunal suspende iniciativa de Trump para ajudar o Congresso a revogar as regras da Califórnia sobre veículos ecológicos",
-      "titleOriginal": "Court halts Trump effort to help Congress overturn California clean car rules",
-      "link": "https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra/",
-      "publishedAt": "2026-09-03T14:45:19.000Z"
+      "title": "Deputado republicano: a China “está certa” quanto ao uso da IA nas salas de aula",
+      "titleOriginal": "House Republican: China 'has it right' on AI use in classrooms",
+      "link": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+      "publishedAt": "2026-09-03T15:16:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade às obras do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T15:12:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Vance comandará a coletiva de imprensa da Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
+      "titleOriginal": "Live updates: Vance to helm White House's press briefing; House slices 2 weeks off DC schedule",
+      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
+      "publishedAt": "2026-09-03T15:07:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A acusação de desacato ao Congresso traz resultados mistos",
+      "titleOriginal": "Contempt of Congress yields mixed results",
+      "link": "https://thehill.com/opinion/congress-blog/6066635-senate-cites-fauci-contempt/",
+      "publishedAt": "2026-09-03T15:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -25,52 +46,31 @@
     },
     {
       "source": "The Hill",
-      "title": "Republicano da Câmara dos Deputados está “bastante certo” de que a proposta de mudança do nome do Lago Ontário é “uma provocação”",
-      "titleOriginal": "House Republican 'pretty sure' Lake Ontario name change 'a troll'",
-      "link": "https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll/",
-      "publishedAt": "2026-09-03T14:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
       "title": "Os profissionais do 911 não são considerados socorristas — o Congresso deveria mudar isso",
       "titleOriginal": "911 professionals aren't considered first responders — Congress should change that",
       "link": "https://thehill.com/opinion/healthcare/6067444-911-responders-misclassified-labor-law/",
       "publishedAt": "2026-09-03T14:30:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O bilionário Leon Black contesta intimação da Câmara dos Deputados para depor sobre o caso Epstein",
-      "titleOriginal": "Billionaire Leon Black challenges House subpoena for Epstein testimony",
-      "link": "https://thehill.com/homenews/house/6068640-billionaire-leon-black-challenge-house-subpoena-epstein-testimony/",
-      "publishedAt": "2026-09-03T14:11:59.000Z"
+      "source": "AP News",
+      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
+      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+      "publishedAt": "2026-09-03T14:22:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Jeffries se pronuncia depois que dois democratas se opuseram à linha do partido na votação sobre a regra do Partido Republicano",
-      "titleOriginal": "Watch live: Jeffries speaks after 2 Democrats buck party on GOP rule vote",
-      "link": "https://thehill.com/homenews/house/6068511-watch-live-hakeem-jeffries-democratic-party-defections-caucus-rules-midterms/",
-      "publishedAt": "2026-09-03T14:11:10.000Z"
+      "source": "Axios",
+      "title": "Por trás da discórdia dos republicanos da Câmara com a agenda comercial de Trump",
+      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
+      "publishedAt": "2026-09-03T14:16:13.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump: “Eu não uso peruca”",
-      "titleOriginal": "Trump: 'I don't wear a wig'",
-      "link": "https://thehill.com/homenews/administration/6068447-trump-denies-wig-allegations/",
-      "publishedAt": "2026-09-03T14:09:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lutnick “se expressou mal” ao afirmar que nenhum soldado americano morreu na guerra no Irã",
-      "titleOriginal": "Lutnick 'misspoke' when he said no US soldiers have died in Iran war",
-      "link": "https://thehill.com/homenews/administration/6068731-lutnick-apologizes-iran-death-claim/",
-      "publishedAt": "2026-09-03T14:09:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O colosso do financiamento da campanha de Trump é a maior incógnita das eleições de meio de mandato",
-      "titleOriginal": "Trump's campaign funding colossus is the midterms' biggest unknown",
-      "link": "https://thehill.com/opinion/white-house/6067311-trump-midterm-spending-power/",
-      "publishedAt": "2026-09-03T14:00:00.000Z"
+      "source": "AP News",
+      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "publishedAt": "2026-09-03T14:14:00.000Z"
     }
   ]
 }
