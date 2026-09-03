@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:48:53.564Z",
+  "updatedAt": "2026-09-03T20:26:15.930Z",
   "count": 10,
   "items": [
     {
@@ -17,13 +17,6 @@
       "publishedAt": "2026-09-03T19:38:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
-      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-      "publishedAt": "2026-09-03T19:34:00.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Limite bipartidário para o preço da insulina é apresentado na Câmara, enquanto legisladores buscam uma vitória em termos de acessibilidade",
       "titleOriginal": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",
@@ -39,17 +32,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Futuros do petróleo bruto encerram em alta e baixa, sem que se vislumbre um fim para o conflito entre os EUA e o Irã",
+      "title": "Futuros do petróleo bruto encerram em alta e baixa, sem vislumbre de fim para o conflito entre os EUA e o Irã",
       "titleOriginal": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
       "publishedAt": "2026-09-03T19:04:43.000Z"
     },
     {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-03T18:48:04.000Z"
+      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "publishedAt": "2026-09-03T18:49:00.000Z"
     },
     {
       "source": "The Hill",
@@ -60,17 +53,24 @@
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono revoga temporariamente a diretriz sobre testes obrigatórios de testosterona",
+      "title": "O Pentágono revoga temporariamente a orientação sobre a realização obrigatória de exames de testosterona",
       "titleOriginal": "Pentagon temporarily rescinds mandatory testosterone testing guidance",
       "link": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
       "publishedAt": "2026-09-03T18:12:01.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance conduz coletiva de imprensa na Casa Branca e aborda os preços da gasolina e o acordo petrolífero com a Venezuela",
+      "title": "Atualizações ao vivo: Vance conduz coletiva de imprensa na Casa Branca e aborda os preços da gasolina e o acordo petrolífero com a Venezuela",
       "titleOriginal": "Live updates: Vance leads White House press briefing, addresses gas prices, Venezuela oil deal",
       "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
       "publishedAt": "2026-09-03T18:11:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações sobem em Wall Street à medida que os rendimentos dos títulos caem um pouco mais, mesmo com os preços do petróleo continuando a subir",
+      "titleOriginal": "Stocks rise on Wall Street as bond yields ease some more, even while oil prices continue to climb",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+      "publishedAt": "2026-09-03T18:05:00.000Z"
     }
   ]
 }
