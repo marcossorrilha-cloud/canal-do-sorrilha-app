@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-03T00:37:07.256Z",
+  "updatedAt": "2026-09-03T00:54:27.104Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Biden participará da cerimônia em memória do 11 de setembro no Ground Zero, por ocasião do 25º aniversário",
+      "titleOriginal": "Biden to attend Ground Zero 9/11 memorial ceremony for 25th anniversary",
+      "link": "https://thehill.com/homenews/administration/6067901-biden-ground-zero-sept-11-anniversary/",
+      "publishedAt": "2026-09-03T00:33:40.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Com as eleições intermediárias se aproximando, democratas discutem sobre deserções",
@@ -18,7 +25,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal suspende nova ordem de Trump sobre a cidadania por direito de nascimento",
+      "title": "Juiz federal bloqueia a nova ordem de Trump sobre a cidadania por direito de nascimento",
       "titleOriginal": "Federal judge blocks Trump’s new birthright citizenship order",
       "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
       "publishedAt": "2026-09-02T23:35:40.000Z"
@@ -38,18 +45,18 @@
       "publishedAt": "2026-09-02T23:06:39.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Nas eleições de meio de mandato, será que a estratégia de usar os filhos de políticos vai dar certo?",
-      "titleOriginal": "In the Midterms, Will the Nepo-Baby Attack Work?",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
-      "publishedAt": "2026-09-02T22:55:07.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Exclusivo: O NRCC aposta tudo nos gastos coordenados",
       "titleOriginal": "Scoop: NRCC goes all in on coordinated spending",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa21pR1Q1cTg3T2QtMEx3aFZheE13V05MR0hXWVJpQUEwbnFXS2dCLXBsMUs4cURTeWNkYW9fOWVEMF9XUzFIT0tQRWRnRW5LZWRKWl9ublEwNkZkY3pnbXJDaVFyOEZ4MlFTTGVhMVlMeEM3dXBBQ0EzeXNNb2dkZ3FZejl3b3JtTmc2bWlsWQ?oc=5",
-      "publishedAt": "2026-09-02T22:52:30.000Z"
+      "publishedAt": "2026-09-02T22:57:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Nas eleições de meio de mandato, será que a estratégia de atacar os “filhos de figurões” vai funcionar?",
+      "titleOriginal": "In the Midterms, Will the Nepo-Baby Attack Work?",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
+      "publishedAt": "2026-09-02T22:55:07.000Z"
     },
     {
       "source": "The Hill",
@@ -60,17 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump sob pressão para conter os conflitos com o Irã à medida que se aproximam as eleições de meio de mandato",
+      "title": "Trump sob pressão para conter os confrontos com o Irã à medida que se aproximam as eleições de meio de mandato",
       "titleOriginal": "Trump under pressure to contain Iran fighting as midterms near",
       "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
       "publishedAt": "2026-09-02T22:32:32.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Lutnick: A Anthropic está “de volta ao lado certo” com o governo Trump",
-      "titleOriginal": "Lutnick: Anthropic is \"back on the right side\" with Trump administration",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5",
-      "publishedAt": "2026-09-02T22:13:00.000Z"
     }
   ]
 }
