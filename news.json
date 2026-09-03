@@ -1,13 +1,69 @@
 {
-  "updatedAt": "2026-09-03T17:51:57.320Z",
+  "updatedAt": "2026-09-03T18:30:54.820Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance conduz coletiva de imprensa na Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
-      "titleOriginal": "Live updates: Vance leads White House press briefing; House slices 2 weeks off DC schedule",
+      "title": "Ex-advogado responsável por pedidos de indulto contesta demissão após se recusar a restabelecer o direito de Mel Gibson de portar armas",
+      "titleOriginal": "Former pardon attorney challenges firing after refusing to restore Mel Gibson's gun rights",
+      "link": "https://thehill.com/regulation/court-battles/6069747-liz-oyer-mel-gibson-lawsuit/",
+      "publishedAt": "2026-09-03T18:26:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Massie apresenta projeto de lei “Flock off”, que visa restringir o uso de câmeras de vigilância",
+      "titleOriginal": "Massie unveils 'Flock off' bill aimed at restricting surveillance cameras",
+      "link": "https://thehill.com/homenews/house/6069706-thomas-massie-flock-off-act-federal-funds/",
+      "publishedAt": "2026-09-03T18:21:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Pentágono revoga temporariamente a orientação sobre a realização obrigatória de exames de testosterona",
+      "titleOriginal": "Pentagon temporarily rescinds mandatory testosterone testing guidance",
+      "link": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
+      "publishedAt": "2026-09-03T18:12:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações ao vivo: Vance conduz coletiva de imprensa na Casa Branca e aborda os preços da gasolina e o acordo petrolífero com a Venezuela",
+      "titleOriginal": "Live updates: Vance leads White House press briefing, addresses gas prices, Venezuela oil deal",
       "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
-      "publishedAt": "2026-09-03T17:47:26.000Z"
+      "publishedAt": "2026-09-03T18:11:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações sobem em Wall Street à medida que os rendimentos dos títulos caem um pouco mais, mesmo com os preços do petróleo continuando a subir",
+      "titleOriginal": "Stocks rise on Wall Street as bond yields ease some more, even while oil prices continue to climb",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+      "publishedAt": "2026-09-03T18:05:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O FBI está investigando uma denúncia de que milhões de carteiras de habilitação teriam vazado na dark web",
+      "titleOriginal": "FBI investigating report of millions of driver's licenses being leaked on dark web",
+      "link": "https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web/",
+      "publishedAt": "2026-09-03T18:01:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O plano de Trump para a carne bovina realmente reduzirá os preços para os consumidores?",
+      "titleOriginal": "Will Trump's beef plan actually lower prices for consumers?",
+      "link": "https://thehill.com/business/6069690-donald-trump-beef-tariff-relief-lower-prices/",
+      "publishedAt": "2026-09-03T18:00:11.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T17:51:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Fonte da AP: Agente do ICE é acusado de mentir aos investigadores sobre o tiroteio que vitimou um venezuelano",
+      "titleOriginal": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+      "publishedAt": "2026-09-03T17:33:00.000Z"
     },
     {
       "source": "The Hill",
@@ -15,62 +71,6 @@
       "titleOriginal": "ICE whistleblower: Agency cut corners to fill ranks",
       "link": "https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig/",
       "publishedAt": "2026-09-03T17:29:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tucker Carlson: A campanha de El-Sayed é “literalmente ao estilo de Trump”",
-      "titleOriginal": "Tucker Carlson: El-Sayed campaign 'literally Trumpian'",
-      "link": "https://thehill.com/homenews/media/6069453-tucker-carlson-el-sayed-campaign-trumpian/",
-      "publishedAt": "2026-09-03T17:29:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Harris, sobre o fato de alguns democratas a estarem evitando: “Não esperaria nada diferente”",
-      "titleOriginal": "Harris on some Democrats shunning her: 'I would expect nothing less'",
-      "link": "https://thehill.com/homenews/campaign/6069383-harris-red-state-democrat-rejections/",
-      "publishedAt": "2026-09-03T17:23:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nick Saban protagoniza novo comercial de TV em apoio ao projeto de lei de Cruz e Cantwell sobre a NCAA",
-      "titleOriginal": "Nick Saban stars in new TV ad advocating for Cruz, Cantwell NCAA bill",
-      "link": "https://thehill.com/policy/sports-gaming/6069420-nick-saban-college-sports-ncaa-kickoff-weekend/",
-      "publishedAt": "2026-09-03T16:59:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jennings: Trump deveria divulgar uma “declaração formal de vitória” na guerra contra o Irã",
-      "titleOriginal": "Jennings: Trump should release 'formal declaration of victory' for Iran war",
-      "link": "https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration/",
-      "publishedAt": "2026-09-03T16:51:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os projetos de reforma de Trump em Washington, D.C., são “apenas uma ideia” — até se tornarem muito mais do que isso",
-      "titleOriginal": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
-      "link": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
-      "publishedAt": "2026-09-03T16:41:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Comer espera que McConnell retorne ao Senado após o Dia do Trabalho",
-      "titleOriginal": "Comer expects McConnell to return with Senate after Labor Day",
-      "link": "https://thehill.com/homenews/house/6069343-comer-mitch-mcconnell-absence-return-update/",
-      "publishedAt": "2026-09-03T16:32:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance dá mais uma chance à sala de coletivas",
-      "titleOriginal": "Vance gives briefing room another whirl",
-      "link": "https://thehill.com/newsletters/1230-report/6069360-vance-gives-briefing-room-another-whirl/",
-      "publishedAt": "2026-09-03T16:32:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jeffries e os democratas mudam de tom e buscam deixar para trás o escândalo envolvendo o desertor",
-      "titleOriginal": "Jeffries, Democrats shift tone, aim to move beyond defector scandal",
-      "link": "https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection/",
-      "publishedAt": "2026-09-03T16:31:55.000Z"
     }
   ]
 }
