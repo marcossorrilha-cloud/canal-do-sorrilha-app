@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-03T12:53:59.424Z",
+  "updatedAt": "2026-09-03T13:28:18.328Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Ex-secretário da Força Aérea: o Pentágono de Hegeseth é “disfuncional”",
+      "titleOriginal": "Former Air Force secretary: Hegeseth's Pentagon 'dysfunctional'",
+      "link": "https://thehill.com/policy/defense/6068287-former-air-force-secretary-hegeseths-pentagon-dysfunctional/",
+      "publishedAt": "2026-09-03T12:57:27.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Vance comandará a primeira coletiva de imprensa da Casa Branca em semanas; Câmara encerra os trabalhos antes do próximo recesso",
@@ -38,39 +45,32 @@
       "publishedAt": "2026-09-03T12:00:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O ICE informa ter prendido mais cidadãos americanos durante a operação “Metro Surge”",
+      "titleOriginal": "ICE reports arresting more U.S. citizens during Metro Surge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzVIR3Z4dFZ0VnhjSkJEN0JaMDRFMS1SVGE3c0E2NEx1Q2ZpMjFjRF9ReEpTR2JnQjB1azN4S2x1NF83b193WDVQRHl3ZGdIdmo1bTBPYlhoTDBsMjBfTWZzZGhwejJZSkxGNjNYbUlnYjU5QnJGSENRaGZma2htcFFrTmVzeE5oSXFzTERjMA?oc=5",
+      "publishedAt": "2026-09-03T11:22:39.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Até que ponto podemos confiar nas pesquisas?",
+      "title": "Até que ponto podemos confiar nas pesquisas de opinião?",
       "titleOriginal": "How much can we believe the polls?",
       "link": "https://thehill.com/newsletters/morning-report/6068234-political-campaign-polls-trust-midterms/",
       "publishedAt": "2026-09-03T11:12:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O Irã não é o Vietnã, mas Trump está imitando a abordagem fracassada de Lyndon Johnson",
-      "titleOriginal": "Iran is no Vietnam, but Trump is mimicking Lyndon Johnson's failed approach",
-      "link": "https://thehill.com/opinion/national-security/6066434-avoiding-vietnam-mistake-iran-conflict/",
-      "publishedAt": "2026-09-03T11:00:00.000Z"
+      "source": "Axios",
+      "title": "Por dentro da disputa dos republicanos da Câmara com a agenda comercial de Trump",
+      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
+      "publishedAt": "2026-09-03T11:07:44.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Jeffries enfrenta um delicado equilíbrio em relação aos desertores democratas",
-      "titleOriginal": "Jeffries faces tricky balancing act on Democratic defectors",
-      "link": "https://thehill.com/homenews/house/6067840-jeffries-democrat-defection-dilemma/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sand mantém vantagem sobre Lahn na disputa pelo governo de Iowa, enquanto Hinson lidera sobre Turek na disputa pelo Senado: pesquisa",
-      "titleOriginal": "Sand holds edge over Lahn in Iowa governor's race while Hinson leads Turek for Senate: Poll",
-      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hegseth caminha para um confronto com senadores republicanos à medida que a frustração aumenta",
-      "titleOriginal": "Hegseth headed for clash with GOP senators as frustrations grow",
-      "link": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
+      "source": "Axios",
+      "title": "Legisladores apresentam novo projeto de lei para garantir a segurança dos agentes de IA após a violação de segurança da Hugging Face pela OpenAI",
+      "titleOriginal": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xR3ZLVzk0VUdDUVJlZFkzN18yWkpVV0wzUG1VU1BYTkhoVTJFcWdaM1ROWm92VjdoWHN6VEEyT2ZfSmZnU0dNc3JLWHpJdlhmZjZhc2Fpc0dHdWxqQm52SlVDcTVjNUxPVjBWeWJWYw?oc=5",
+      "publishedAt": "2026-09-03T11:01:23.000Z"
     }
   ]
 }
