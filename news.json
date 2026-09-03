@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-03T22:25:44.228Z",
+  "updatedAt": "2026-09-03T22:48:58.047Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Trump recorre novamente à Suprema Corte sobre as restrições ao voto por correspondência, com as eleições de meio de mandato se aproximando",
-      "titleOriginal": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-      "publishedAt": "2026-09-03T22:20:00.000Z"
+      "source": "The Hill",
+      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma líder democrata da Câmara",
+      "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Democrat says",
+      "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
+      "publishedAt": "2026-09-03T22:48:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
+      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
+      "publishedAt": "2026-09-03T22:41:05.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "São anunciados planos para dar início às obras do Arco do Triunfo de Trump antes da aprovação final",
+      "titleOriginal": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+      "publishedAt": "2026-09-03T22:34:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Elon Musk quer fabricar componentes para turbinas de energia. Não vai ser fácil.",
+      "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
+      "publishedAt": "2026-09-03T22:31:10.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Suprema Corte do Missouri suspende o redesenho eleitoral do Partido Republicano, o que provavelmente renderá aos democratas uma cadeira na Câmara dos Deputados",
+      "titleOriginal": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
+      "link": "https://www.politico.com/news/2026/09/03/missouri-gerrymander-paused-2026-election-01064420",
+      "publishedAt": "2026-09-03T22:28:11.000Z"
     },
     {
       "source": "The Hill",
@@ -17,11 +45,11 @@
       "publishedAt": "2026-09-03T22:16:45.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Suprema Corte do Missouri rejeita os mapas eleitorais da Câmara que favoreciam o Partido Republicano",
-      "titleOriginal": "Missouri Supreme Court throws out GOP-favored House maps",
-      "link": "https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans/",
-      "publishedAt": "2026-09-03T22:15:10.000Z"
+      "source": "New York Times",
+      "title": "Juiz sugere que as regras de Trump para o voto por correspondência poderiam causar uma “grande privação do direito de voto”",
+      "titleOriginal": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfranchisement’",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
+      "publishedAt": "2026-09-03T22:13:38.000Z"
     },
     {
       "source": "New York Times",
@@ -32,45 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "A SEC entra com uma ação contra a LSU, enquanto os atletas pedem na Justiça que lhes seja restabelecida a elegibilidade, com a temporada de esportes universitários já em andamento",
+      "title": "A SEC entra com uma ação contra a LSU, enquanto os atletas pedem ao tribunal que lhes seja restabelecida a elegibilidade, com a temporada esportiva universitária já em andamento",
       "titleOriginal": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
       "publishedAt": "2026-09-03T22:03:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Jim Justice cogita concorrer ao cargo de governador da Virgínia Ocidental",
-      "titleOriginal": "Jim Justice considering run for West Virginia governor",
-      "link": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/",
-      "publishedAt": "2026-09-03T21:24:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump assume o risco em relação aos data centers",
-      "titleOriginal": "Trump takes the risk on data centers",
-      "link": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/",
-      "publishedAt": "2026-09-03T21:20:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Deputado democrata da Câmara dos Deputados afirma que suas ligações com um legislador estadual foram grampeadas pelo FBI",
-      "titleOriginal": "House Democrat says his phone calls with a state legislator was wiretapped by FBI",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZm9tWmNTMXp2OHN3OWlwV011YjdNVzdhWWlQQTR4RmE3SVdiTmFrOVlqWkRuNkZoZTBFc3J6QXM2aTZTT1dLSldRWEx4QVRtdkZDOGprdUo2MmZteUY5RThxQ0NrSndHUXUtQm81THB5UEdqUGpJWnlUeDJpa3ZVbk9VVy1NTVlf?oc=5",
-      "publishedAt": "2026-09-03T21:20:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance “está realmente ansioso para passar um tempo com Joe Biden” na cerimônia do 11 de setembro",
-      "titleOriginal": "Vance 'really looking forward to hanging out with Joe Biden' at 9/11 ceremony",
-      "link": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/",
-      "publishedAt": "2026-09-03T21:18:58.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "A cerimônia de inauguração das obras do arco de Trump terá início em breve, afirma Burgum",
-      "titleOriginal": "Groundbreaking for Trump's arch will begin soon, Burgum says",
-      "link": "https://www.politico.com/news/2026/09/03/trump-arch-groundbreaking-timeline-01064052",
-      "publishedAt": "2026-09-03T21:05:21.000Z"
+      "source": "New York Times",
+      "title": "JD Vance afirma que não chamaria o conflito com o Irã de guerra",
+      "titleOriginal": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+      "publishedAt": "2026-09-03T21:51:49.000Z"
     }
   ]
 }
