@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-03T10:28:20.592Z",
+  "updatedAt": "2026-09-03T10:49:40.916Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, avaliado em US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T10:31:09.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Elon Musk quer fabricar componentes para turbinas de potência. Não será fácil.",
@@ -10,29 +17,15 @@
       "publishedAt": "2026-09-03T10:26:40.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-03T10:25:46.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
-      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
-      "publishedAt": "2026-09-03T10:02:03.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Jeffries enfrenta um delicado equilíbrio em relação aos desertores democratas",
+      "title": "Jeffries enfrenta um delicado equilíbrio em relação aos dissidentes democratas",
       "titleOriginal": "Jeffries faces tricky balancing act on Democratic defectors",
       "link": "https://thehill.com/homenews/6067840-jeffries-democrat-defection-dilemma/",
       "publishedAt": "2026-09-03T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Hegseth caminha para um confronto com senadores republicanos à medida que a frustração cresce",
+      "title": "Hegseth caminha para um confronto com senadores republicanos à medida que as frustrações aumentam",
       "titleOriginal": "Hegseth headed for clash with GOP senators as frustrations grow",
       "link": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
       "publishedAt": "2026-09-03T10:00:00.000Z"
@@ -60,10 +53,17 @@
     },
     {
       "source": "Politico",
-      "title": "Kamala Harris está se envolvendo na campanha para as eleições de meio de mandato. Alguns democratas querem que ela fique de fora.",
+      "title": "Kamala Harris está se envolvendo nas eleições de meio de mandato. Alguns democratas querem que ela fique de fora.",
       "titleOriginal": "Kamala Harris is wading into the midterms. Some Democrats want her to stay out.",
       "link": "https://www.politico.com/news/2026/09/03/kamala-harris-midterms-democrats-01063010",
       "publishedAt": "2026-09-03T09:55:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Missões mais prolongadas no Oriente Médio sobrecarregam as forças americanas à medida que o conflito com o Irã se arrasta | O “10-Point” de 3 de setembro",
+      "titleOriginal": "Longer Middle East Deployments Strain U.S. Forces as Iran Conflict Drags On | The 10-Point for September 3",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE?oc=5",
+      "publishedAt": "2026-09-03T09:43:09.000Z"
     },
     {
       "source": "Wall Street Journal",
