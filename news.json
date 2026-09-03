@@ -1,31 +1,38 @@
 {
-  "updatedAt": "2026-09-03T17:26:48.957Z",
+  "updatedAt": "2026-09-03T17:51:57.320Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Harris, sobre o fato de alguns democratas estarem se afastando dela: “Não esperaria nada diferente”",
+      "title": "Atualizações em tempo real: Vance conduz coletiva de imprensa na Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
+      "titleOriginal": "Live updates: Vance leads White House press briefing; House slices 2 weeks off DC schedule",
+      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
+      "publishedAt": "2026-09-03T17:47:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Denunciante do ICE: a agência tomou atalhos para preencher vagas",
+      "titleOriginal": "ICE whistleblower: Agency cut corners to fill ranks",
+      "link": "https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig/",
+      "publishedAt": "2026-09-03T17:29:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tucker Carlson: A campanha de El-Sayed é “literalmente ao estilo de Trump”",
+      "titleOriginal": "Tucker Carlson: El-Sayed campaign 'literally Trumpian'",
+      "link": "https://thehill.com/homenews/media/6069453-tucker-carlson-el-sayed-campaign-trumpian/",
+      "publishedAt": "2026-09-03T17:29:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Harris, sobre o fato de alguns democratas a estarem evitando: “Não esperaria nada diferente”",
       "titleOriginal": "Harris on some Democrats shunning her: 'I would expect nothing less'",
       "link": "https://thehill.com/homenews/campaign/6069383-harris-red-state-democrat-rejections/",
       "publishedAt": "2026-09-03T17:23:41.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
-      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
-      "publishedAt": "2026-09-03T17:17:26.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance deve dar entrevista coletiva à imprensa na Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
-      "titleOriginal": "Live updates: Vance set to brief White House press; House slices 2 weeks off DC schedule",
-      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
-      "publishedAt": "2026-09-03T17:04:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nick Saban protagoniza novo comercial de TV defendendo o projeto de lei de Cruz e Cantwell sobre a NCAA",
+      "title": "Nick Saban protagoniza novo comercial de TV em apoio ao projeto de lei de Cruz e Cantwell sobre a NCAA",
       "titleOriginal": "Nick Saban stars in new TV ad advocating for Cruz, Cantwell NCAA bill",
       "link": "https://thehill.com/policy/sports-gaming/6069420-nick-saban-college-sports-ncaa-kickoff-weekend/",
       "publishedAt": "2026-09-03T16:59:16.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Jeffries e os democratas mudam de tom e buscam superar o escândalo envolvendo o desertor",
+      "title": "Jeffries e os democratas mudam de tom e buscam deixar para trás o escândalo envolvendo o desertor",
       "titleOriginal": "Jeffries, Democrats shift tone, aim to move beyond defector scandal",
       "link": "https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection/",
       "publishedAt": "2026-09-03T16:31:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump defende a forma como lidou com o tema das munições dos EUA em meio ao conflito com o Irã",
-      "titleOriginal": "Trump defends handling of US munitions amid Iran conflict",
-      "link": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
-      "publishedAt": "2026-09-03T16:31:17.000Z"
     }
   ]
 }
