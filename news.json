@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-03T15:50:39.048Z",
+  "updatedAt": "2026-09-03T16:28:02.297Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Os projetos de reforma de Trump em Washington, D.C., são “apenas uma ideia” — até se tornarem muito mais do que isso",
+      "titleOriginal": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
+      "link": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
+      "publishedAt": "2026-09-03T16:18:55.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Permitir que apenas idosos votem pelo correio é inconstitucional?",
+      "titleOriginal": "Is Letting Only Seniors Vote by Mail Unconstitutional?",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/the-docket-senior-mail-ballot.html",
+      "publishedAt": "2026-09-03T16:01:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Vance conduz a primeira coletiva de imprensa desde a saída de Leavitt",
+      "titleOriginal": "Watch live: Vance leads first press briefing since Leavitt departure",
+      "link": "https://thehill.com/video-clips/6069006-watch-live-jd-vance-white-house-press-briefing-karoline-leavitt-departure/",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas pressionam o DHS sobre o financiamento da segurança eleitoral",
+      "titleOriginal": "Democrats press DHS on election security funding",
+      "link": "https://thehill.com/homenews/senate/6069220-cisa-funding-delay-ei-isac/",
+      "publishedAt": "2026-09-03T15:57:35.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A CBP prorroga a suspensão de algumas obras na fronteira, inclusive em um parque nacional do Texas",
       "titleOriginal": "CBP extends pause of some border construction, including in Texas national park",
       "link": "https://thehill.com/policy/energy-environment/6069104-texas-cbp-trump-border-wall-big-bend/",
       "publishedAt": "2026-09-03T15:34:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T15:33:18.000Z"
     },
     {
       "source": "The Hill",
@@ -18,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Por que estamos entrando com uma ação judicial para liberar os recursos destinados às pequenas empresas que o Congresso já aprovou",
+      "title": "Por que estamos entrando com uma ação judicial para que sejam liberados os recursos destinados às pequenas empresas que o Congresso já aprovou",
       "titleOriginal": "Why we're suing to release small business funds Congress already approved",
       "link": "https://thehill.com/opinion/finance/6067136-cdfi-fund-lawsuit-small-businesses/",
       "publishedAt": "2026-09-03T15:30:00.000Z"
@@ -32,45 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Deputado republicano: a China “está certa” quanto ao uso da IA nas salas de aula",
+      "title": "Deputado republicano: China “está certa” quanto ao uso da IA nas salas de aula",
       "titleOriginal": "House Republican: China 'has it right' on AI use in classrooms",
       "link": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
       "publishedAt": "2026-09-03T15:16:52.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance comandará a coletiva de imprensa da Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
-      "titleOriginal": "Live updates: Vance to helm White House's press briefing; House slices 2 weeks off DC schedule",
-      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
-      "publishedAt": "2026-09-03T15:07:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A acusação de desacato ao Congresso traz resultados mistos",
-      "titleOriginal": "Contempt of Congress yields mixed results",
-      "link": "https://thehill.com/opinion/congress-blog/6066635-senate-cites-fauci-contempt/",
-      "publishedAt": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal suspende iniciativa de Trump para ajudar o Congresso a revogar as regras da Califórnia sobre veículos ecológicos",
-      "titleOriginal": "Court halts Trump effort to help Congress overturn California clean car rules",
-      "link": "https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra/",
-      "publishedAt": "2026-09-03T14:45:19.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A mãe de Vance diz que “provavelmente daria um soco” em El-Sayed",
-      "titleOriginal": "Vance's mother says she'd 'probably punch' El-Sayed",
-      "link": "https://thehill.com/homenews/administration/6068915-aikins-threatened-punch-el-sayed/",
-      "publishedAt": "2026-09-03T14:42:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicano da Câmara dos Deputados está “bastante certo” de que a proposta de mudança do nome do Lago Ontário é “uma provocação”",
-      "titleOriginal": "House Republican 'pretty sure' Lake Ontario name change 'a troll'",
-      "link": "https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll/",
-      "publishedAt": "2026-09-03T14:35:00.000Z"
     }
   ]
 }
