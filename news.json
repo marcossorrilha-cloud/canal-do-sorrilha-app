@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-03T19:23:40.388Z",
+  "updatedAt": "2026-09-03T19:48:53.564Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso vai ser difícil de convencer.",
-      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
-      "publishedAt": "2026-09-03T19:19:00.000Z"
+      "source": "The Hill",
+      "title": "“Eu não chamaria isso de guerra”, diz Vance após o recrudescimento das hostilidades no Irã",
+      "titleOriginal": "'I wouldn't call it a war,' Vance says after Iran hostilities flare",
+      "link": "https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label/",
+      "publishedAt": "2026-09-03T19:46:26.000Z"
     },
     {
       "source": "AP News",
-      "title": "Fonte da AP: Agente do ICE é acusado de mentir aos investigadores sobre o tiroteio que vitimou um venezuelano",
-      "titleOriginal": "AP source: ICE officer charged with lying to investigators in the shooting of Venezuelan man",
+      "title": "Agente do ICE é acusado de mentir aos investigadores sobre o tiroteio que vitimou um venezuelano, segundo fonte da AP",
+      "titleOriginal": "ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
-      "publishedAt": "2026-09-03T19:06:00.000Z"
+      "publishedAt": "2026-09-03T19:38:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
+      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+      "publishedAt": "2026-09-03T19:34:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Limite bipartidário para o preço da insulina é apresentado na Câmara, enquanto legisladores buscam uma vitória em termos de acessibilidade",
+      "titleOriginal": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",
+      "link": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
+      "publishedAt": "2026-09-03T19:31:53.000Z"
     },
     {
       "source": "The Hill",
@@ -25,49 +39,35 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Futuros do petróleo bruto encerram com resultados mistos, sem que se vislumbre um fim para o conflito entre os EUA e o Irã",
+      "title": "Futuros do petróleo bruto encerram em alta e baixa, sem que se vislumbre um fim para o conflito entre os EUA e o Irã",
       "titleOriginal": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
       "publishedAt": "2026-09-03T19:04:43.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
-      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
-      "publishedAt": "2026-09-03T19:02:04.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
       "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
       "publishedAt": "2026-09-03T18:48:04.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Elon Musk quer fabricar componentes para turbinas de potência. Não vai ser fácil.",
-      "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
-      "publishedAt": "2026-09-03T18:32:17.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Ex-advogado da Comissão de Indultos contesta demissão após se recusar a restabelecer o direito de porte de arma de Mel Gibson",
+      "title": "Ex-advogado da Comissão de Indultos contesta sua demissão após se recusar a restabelecer o direito de porte de arma de Mel Gibson",
       "titleOriginal": "Former pardon attorney challenges firing after refusing to restore Mel Gibson's gun rights",
       "link": "https://thehill.com/regulation/court-battles/6069747-liz-oyer-mel-gibson-lawsuit/",
       "publishedAt": "2026-09-03T18:26:39.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono revoga temporariamente a orientação sobre a realização obrigatória de exames de testosterona",
+      "title": "O Pentágono revoga temporariamente a diretriz sobre testes obrigatórios de testosterona",
       "titleOriginal": "Pentagon temporarily rescinds mandatory testosterone testing guidance",
       "link": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
       "publishedAt": "2026-09-03T18:12:01.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance conduz coletiva de imprensa na Casa Branca e aborda os preços da gasolina e o acordo sobre o petróleo da Venezuela",
+      "title": "Atualizações em tempo real: Vance conduz coletiva de imprensa na Casa Branca e aborda os preços da gasolina e o acordo petrolífero com a Venezuela",
       "titleOriginal": "Live updates: Vance leads White House press briefing, addresses gas prices, Venezuela oil deal",
       "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
       "publishedAt": "2026-09-03T18:11:37.000Z"
