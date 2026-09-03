@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-03T07:51:13.861Z",
+  "updatedAt": "2026-09-03T08:29:39.686Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Preços do ouro podem cair; atenção aos dados sobre o mercado de trabalho dos EUA",
+      "title": "Preços do ouro podem cair; atenção voltada para os dados sobre o mercado de trabalho dos EUA",
       "titleOriginal": "Gold Prices Could Decline; Focus on U.S. Jobs Data",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNam5IWFNrTmJYREpnUktNOUZ5V0hlQktibjJ6LURpUmg5SzFZZE1zejZadDhFWWswMEZtOHZqb21fRDlkTzJXQWJ0RE5ONC1VMVhEc3l0RmNrU0E0MlJabnJwUjVyeHF4REEtaXdQVVBhSWlwUGlRbU5sRm4wR0xUNDFOeFJsMWtRbHUwdEtERGxLbGhaRk9DYWZvaEJFd0QxY3dNcGN3?oc=5",
       "publishedAt": "2026-09-03T07:26:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "De olho na Rússia, a Finlândia realiza o maior exercício de defesa civil da Europa desde a Segunda Guerra Mundial",
+      "titleOriginal": "With a wary eye on Russia, Finland runs Europe’s largest civil defense exercise since WWII",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+      "publishedAt": "2026-09-03T06:34:32.000Z"
     },
     {
       "source": "AP News",
@@ -25,52 +32,45 @@
     },
     {
       "source": "Axios",
-      "title": "Witkoff se reúne com alto funcionário dos Emirados Árabes Unidos em meio à repressão contra o Irã",
+      "title": "Witkoff se reúne com um influente representante dos Emirados Árabes Unidos em meio à repressão contra o Irã",
       "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
       "publishedAt": "2026-09-03T05:09:06.000Z"
     },
     {
       "source": "Axios",
-      "title": "Por dentro da disputa dos republicanos da Câmara com a agenda comercial de Trump",
+      "title": "Por dentro da controvérsia entre os republicanos da Câmara e a agenda comercial de Trump",
       "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
       "publishedAt": "2026-09-03T05:06:48.000Z"
     },
     {
       "source": "AP News",
-      "title": "O plano de Trump para a construção de uma cerca no Parque Lafayette, próximo à Casa Branca, será analisado por um painel federal",
+      "title": "Os preços do petróleo registram ligeira queda, enquanto as ações asiáticas sobem, acompanhando os ganhos de Wall Street",
+      "titleOriginal": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+      "publishedAt": "2026-09-03T04:45:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Jornalista norte-americano condenado a dois anos de prisão federal por atuar como agente ilegal da China",
+      "titleOriginal": "A US journalist sentenced to 2 years in federal prison for acting as an illegal agent for China",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?oc=5",
+      "publishedAt": "2026-09-03T04:44:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O plano de Trump para a construção de uma cerca no Parque Lafayette, próximo à Casa Branca, está sendo analisado por um painel federal",
       "titleOriginal": "Trump’s plan for a fence at Lafayette Park near White House gets review by federal panel",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGdoOFhNaWs5Vk5uM3BjM2EtWnROcTdoOXoyRW1kTDRQX0FyT0g2X2Q3aThfSzZyNnlheVBWejItSGFycG90VHRVOEJXdTJmX2k1ZndMM0d6LXpwczMwUW52bFppTzJLWmJISUFhMVVEWUE3bTZWS21XSzU5WU80S21OempNYVlMYUp4RDZRTUxteEFwVGp0ckFfbWtYZnJ5UndsUGpfMUpnUQ?oc=5",
       "publishedAt": "2026-09-03T04:14:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Veja a seguir as disputas eleitorais “ambiciosas” nas quais os democratas esperam conseguir vitórias inesperadas na Câmara dos Deputados",
+      "title": "Veja a seguir as disputas eleitorais “ambiciosas” nas quais os democratas esperam conseguir vitórias surpreendentes na Câmara dos Deputados",
       "titleOriginal": "Here’s a look at ‘reach’ election races where Democrats hope to pull off House upsets",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2U5c1hlaWVENGVrZ2p3UlM1b0pucjQ2eUpnUHd2M09oeHllNWsyT1p1TWp0ZGJmcl9wWnFoeDNCRXRxdDc5ek16ZHF5V29aLTdZeFd1NTdsN2hVRTNIWWpHXzlYWmJZSHJHOUNWelBKdks2Nm0xM09QRmcwLU1EUXh2eTBPU0FvaVVIY2RmcGhjSzdaa0tpNEViYmNiOHB4TTlDckZUdW9uMkdv?oc=5",
       "publishedAt": "2026-09-03T04:07:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os russos passaram por um verão conturbado, marcado pela crise do gás e enxames de drones, à medida que a guerra chegava ao seu território",
-      "titleOriginal": "Russians endured a summer of turmoil with gas crisis and swarms of drones as the war came home",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
-      "publishedAt": "2026-09-03T04:02:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Serviço de robotáxi estreia nas movimentadas ruas de Londres, enquanto a Europa avalia a introdução de mais veículos autônomos",
-      "titleOriginal": "Robotaxi service debuts on London's busy streets as Europe weighs more self-driving vehicles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkk4ekwwdEtDZWlrc1VkSGRDVldtTGR1bXVnT2FlYzZqS3FUUjJHUzlNaldFMmtQVkhzcGtPNVlhUUVvdHU3bUtWVUgtMFplN2pXSTJ2V0Qza0M4Y2NfckhFMkJLek1Ya0htclhzZjljSU5IX1VNbWh3dTdiRmszOGNlcmlfWUluQWhoVzg0N2lHZw?oc=5",
-      "publishedAt": "2026-09-03T04:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Stephen A. Smith fala sobre Trump, os democratas e a política do caos",
-      "titleOriginal": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
-      "link": "https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846",
-      "publishedAt": "2026-09-03T03:59:00.000Z"
     }
   ]
 }
