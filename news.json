@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-09-03T16:52:11.439Z",
+  "updatedAt": "2026-09-03T17:26:48.957Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Jennings: Trump deveria divulgar uma “declaração formal de vitória” sobre a guerra contra o Irã",
+      "title": "Harris, sobre o fato de alguns democratas estarem se afastando dela: “Não esperaria nada diferente”",
+      "titleOriginal": "Harris on some Democrats shunning her: 'I would expect nothing less'",
+      "link": "https://thehill.com/homenews/campaign/6069383-harris-red-state-democrat-rejections/",
+      "publishedAt": "2026-09-03T17:23:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
+      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
+      "publishedAt": "2026-09-03T17:17:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Vance deve dar entrevista coletiva à imprensa na Casa Branca; Câmara reduz em duas semanas a agenda em Washington, D.C.",
+      "titleOriginal": "Live updates: Vance set to brief White House press; House slices 2 weeks off DC schedule",
+      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
+      "publishedAt": "2026-09-03T17:04:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nick Saban protagoniza novo comercial de TV defendendo o projeto de lei de Cruz e Cantwell sobre a NCAA",
+      "titleOriginal": "Nick Saban stars in new TV ad advocating for Cruz, Cantwell NCAA bill",
+      "link": "https://thehill.com/policy/sports-gaming/6069420-nick-saban-college-sports-ncaa-kickoff-weekend/",
+      "publishedAt": "2026-09-03T16:59:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jennings: Trump deveria divulgar uma “declaração formal de vitória” na guerra contra o Irã",
       "titleOriginal": "Jennings: Trump should release 'formal declaration of victory' for Iran war",
       "link": "https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration/",
       "publishedAt": "2026-09-03T16:51:54.000Z"
@@ -25,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Vance volta a tentar na sala de coletivas",
+      "title": "Vance dá mais uma chance à sala de coletivas",
       "titleOriginal": "Vance gives briefing room another whirl",
       "link": "https://thehill.com/newsletters/1230-report/6069360-vance-gives-briefing-room-another-whirl/",
       "publishedAt": "2026-09-03T16:32:00.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Trump defends handling of US munitions amid Iran conflict",
       "link": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
       "publishedAt": "2026-09-03T16:31:17.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Juiz federal analisa se deve prorrogar a proibição das mudanças no voto por correspondência do Serviço Postal dos EUA",
-      "titleOriginal": "Federal judge considers whether to extend ban against US Postal Service mail voting changes",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-      "publishedAt": "2026-09-03T16:20:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Permitir que apenas idosos votem pelo correio é inconstitucional?",
-      "titleOriginal": "Is Letting Only Seniors Vote by Mail Unconstitutional?",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/the-docket-senior-mail-ballot.html",
-      "publishedAt": "2026-09-03T16:01:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Vance conduz a primeira coletiva de imprensa desde a saída de Leavitt",
-      "titleOriginal": "Watch live: Vance leads first press briefing since Leavitt departure",
-      "link": "https://thehill.com/video-clips/6069006-watch-live-jd-vance-white-house-press-briefing-karoline-leavitt-departure/",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas pressionam o DHS sobre o financiamento da segurança eleitoral",
-      "titleOriginal": "Democrats press DHS on election security funding",
-      "link": "https://thehill.com/homenews/senate/6069220-cisa-funding-delay-ei-isac/",
-      "publishedAt": "2026-09-03T15:57:35.000Z"
     }
   ]
 }
