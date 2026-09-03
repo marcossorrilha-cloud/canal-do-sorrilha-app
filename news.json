@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-03T08:52:54.072Z",
+  "updatedAt": "2026-09-03T09:28:04.860Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Democratas da Câmara entram em conflito interno por causa de disputas pelo poder na liderança",
+      "titleOriginal": "House Democrats erupt into infighting over leadership power play",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1B3ek51RFYyU29xcHhlMmhHc2xtZHpkX2ZpMnJBcExGSEMwS3NpaWgtQUtzcDl4Qm9pODVfWUh4YS1oVGhSUzRjUWxKUFdRa1BUdzI3ZE5qTEhlTXBvR013WmtUVmx2VDRmZEZzdkJybXBJRHZaRVFEZUdTLXR4Wk1pY0k?oc=5",
+      "publishedAt": "2026-09-03T09:07:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os projetos de reforma de Trump em Washington, D.C., são “apenas uma ideia” — até se tornarem muito mais do que isso",
+      "titleOriginal": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
+      "link": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
+      "publishedAt": "2026-09-03T09:04:10.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Stephen A. Smith dirige algumas palavras aos democratas ao deixar claros seus planos para 2028",
+      "titleOriginal": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
+      "link": "https://www.politico.com/news/2026/09/03/stephen-smith-2028-plans-01062872",
+      "publishedAt": "2026-09-03T09:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do ouro podem cair; atenção aos dados sobre o mercado de trabalho dos EUA",
+      "titleOriginal": "Gold Prices Could Decline; Focus on U.S. Jobs Data",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNam5IWFNrTmJYREpnUktNOUZ5V0hlQktibjJ6LURpUmg5SzFZZE1zejZadDhFWWswMEZtOHZqb21fRDlkTzJXQWJ0RE5ONC1VMVhEc3l0RmNrU0E0MlJabnJwUjVyeHF4REEtaXdQVVBhSWlwUGlRbU5sRm4wR0xUNDFOeFJsMWtRbHUwdEtERGxLbGhaRk9DYWZvaEJFd0QxY3dNcGN3?oc=5",
+      "publishedAt": "2026-09-03T08:59:37.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso vai ser difícil de convencer.",
@@ -11,10 +39,17 @@
     },
     {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade às obras do salão de festas de Trump, no valor de US$ 400 milhões",
       "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
       "publishedAt": "2026-09-03T08:48:25.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços do petróleo registram ligeira queda, enquanto as ações asiáticas sobem, acompanhando os ganhos de Wall Street",
+      "titleOriginal": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+      "publishedAt": "2026-09-03T08:38:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -25,10 +60,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Preços do ouro podem cair; atenção aos dados sobre o mercado de trabalho dos EUA",
-      "titleOriginal": "Gold Prices Could Decline; Focus on U.S. Jobs Data",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNam5IWFNrTmJYREpnUktNOUZ5V0hlQktibjJ6LURpUmg5SzFZZE1zejZadDhFWWswMEZtOHZqb21fRDlkTzJXQWJ0RE5ONC1VMVhEc3l0RmNrU0E0MlJabnJwUjVyeHF4REEtaXdQVVBhSWlwUGlRbU5sRm4wR0xUNDFOeFJsMWtRbHUwdEtERGxLbGhaRk9DYWZvaEJFd0QxY3dNcGN3?oc=5",
-      "publishedAt": "2026-09-03T07:26:00.000Z"
+      "title": "Preços do petróleo caem, apesar dos riscos crescentes decorrentes de uma guerra prolongada entre os EUA e o Irã",
+      "titleOriginal": "Oil Prices Slip Despite Rising Risks From Prolonged U.S.-Iran War",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "publishedAt": "2026-09-03T07:32:00.000Z"
     },
     {
       "source": "AP News",
@@ -36,41 +71,6 @@
       "titleOriginal": "With a wary eye on Russia, Finland runs Europe’s largest civil defense exercise since WWII",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
       "publishedAt": "2026-09-03T06:34:32.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Rússia fechará centros culturais alemães após Berlim culpar Moscou por plano envolvendo drones no aeroporto",
-      "titleOriginal": "Russia to close German cultural centers after Berlin blames Moscow for airport drone plot",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
-      "publishedAt": "2026-09-03T06:18:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Como um bilionário brasileiro ajudou a moldar o plano de importação de carne bovina de Trump",
-      "titleOriginal": "Exclusive | How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3VBU1hDZF8tblJueDJLTkZtZ3VvY2V3emk3cl81Yi1FT0JGZWV3YTZPT1dtcVEtWHV0Mmx1R3RzOHNfM2d6eVJpRXNiM0tKR3JsQTdrdVU5bFFaLU8yOUhFTW1xU3BrVjJJYkNIYWZ0bzBoTVgyVi1rRWdqVTg1QTRMS0dseWcwZmk0WkxJSU9nTzNfSHVDUmZSV2hoQUtYTXcybXZLcEhqUDczZUE?oc=5",
-      "publishedAt": "2026-09-03T06:01:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Vance percebe uma espécie de “energia escura espiritual” em torno da IA",
-      "titleOriginal": "Vance sees some \"spiritual dark energy\" around AI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeEZ5VXRhZVRlUl9kV08tUjk4TmMxNG04bFFaTm9iZFVZaW9pbTRSZW1mM0FVZkNTU0dldTE4QmhsS0JYRV96N0hVTG0xOGdBckR2T1V6cHJXT0JJT19uUHZ6cHBJc0k3MzlMUUhCN05KbklMUng4aldUTQ?oc=5",
-      "publishedAt": "2026-09-03T05:45:08.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Witkoff se reúne com alto funcionário dos Emirados Árabes Unidos em meio à repressão ao Irã",
-      "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
-      "publishedAt": "2026-09-03T05:09:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por trás da discórdia dos republicanos da Câmara com a agenda comercial de Trump",
-      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
-      "publishedAt": "2026-09-03T05:06:48.000Z"
     }
   ]
 }
