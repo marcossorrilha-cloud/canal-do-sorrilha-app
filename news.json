@@ -1,20 +1,69 @@
 {
-  "updatedAt": "2026-09-03T01:51:13.943Z",
+  "updatedAt": "2026-09-03T05:08:57.984Z",
   "count": 10,
   "items": [
-    {
-      "source": "New York Times",
-      "title": "Avião do Secretário de Segurança Interna faz pouso de emergência",
-      "titleOriginal": "Homeland Security Secretary’s Plane Makes Emergency Landing",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/homeland-security-mullin-plane-emergency-landing.html",
-      "publishedAt": "2026-09-03T01:45:23.000Z"
-    },
     {
       "source": "Wall Street Journal",
       "title": "Elon Musk quer fabricar componentes para turbinas de energia. Não vai ser fácil.",
       "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
-      "publishedAt": "2026-09-03T01:21:58.000Z"
+      "publishedAt": "2026-09-03T05:02:13.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Stephen A. Smith fala sobre Trump, os democratas e a política do caos",
+      "titleOriginal": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+      "link": "https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846",
+      "publishedAt": "2026-09-03T03:59:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Avião do Secretário de Segurança Interna faz pouso de emergência",
+      "titleOriginal": "Homeland Security Secretary’s Plane Makes Emergency Landing",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/homeland-security-mullin-plane-emergency-landing.html",
+      "publishedAt": "2026-09-03T03:53:10.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por dentro da disputa dos republicanos da Câmara com a agenda comercial de Trump",
+      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
+      "publishedAt": "2026-09-03T03:51:10.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Elon Musk lança a primeira onda de gastos em disputas-chave nas eleições de meio de mandato",
+      "titleOriginal": "Elon Musk unleashes first wave of spending on key races in the midterms",
+      "link": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146",
+      "publishedAt": "2026-09-03T02:57:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Cara ou coroa? Moeda de US$ 1 com o rosto de Trump e acabamento dourado chega às lojas",
+      "titleOriginal": "Heads or tails? $1 coin with Trump’s face and gold finish goes on sale",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2tTalBvaUh3dnZOMmRWVGczTHktWUlodUtrbHJMaXJsMjRhNC1uY0JXSVZHb1hDVjNNeHEtWXBJY2hfZ0pCQVZENlJPQkNNcHBtWUg3VmNQbi1zRzRzU1lGa2NzQU5wSVlaa00xV3hvblZGMTQzaXdsek92Z1lvYU5lc180ZWJRc0lLY3JpSE0?oc=5",
+      "publishedAt": "2026-09-03T02:42:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Witkoff se reúne com influente autoridade dos Emirados Árabes Unidos em meio à ofensiva contra o Irã",
+      "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
+      "publishedAt": "2026-09-03T02:07:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-03T02:07:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
+      "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
+      "publishedAt": "2026-09-03T01:29:00.000Z"
     },
     {
       "source": "New York Times",
@@ -22,55 +71,6 @@
       "titleOriginal": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html",
       "publishedAt": "2026-09-03T01:08:35.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
-      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "publishedAt": "2026-09-03T00:59:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "El-Sayed quer restabelecer laços com os democratas judeus, mas alguns ainda não estão convencidos",
-      "titleOriginal": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html",
-      "publishedAt": "2026-09-03T00:55:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Biden participará da cerimônia em memória do 11 de setembro no Ground Zero, por ocasião do 25º aniversário",
-      "titleOriginal": "Biden to attend Ground Zero 9/11 memorial ceremony for 25th anniversary",
-      "link": "https://thehill.com/homenews/administration/6067901-biden-ground-zero-sept-11-anniversary/",
-      "publishedAt": "2026-09-03T00:33:40.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com as eleições intermediárias se aproximando, democratas discutem sobre deserções",
-      "titleOriginal": "As Midterms Loom, Democrats Feud Over Defections",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html",
-      "publishedAt": "2026-09-03T00:17:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Estados entram com ação judicial contra medida que visa cortar verbas federais destinadas a jovens transgêneros para cuidados de transição",
-      "titleOriginal": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
-      "publishedAt": "2026-09-03T00:06:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal suspende a nova ordem de Trump sobre a cidadania por direito de nascimento",
-      "titleOriginal": "Federal judge blocks Trump’s new birthright citizenship order",
-      "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
-      "publishedAt": "2026-09-02T23:35:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A campanha “Protect Our Care” tem como alvo 29 republicanos da Câmara dos Deputados",
-      "titleOriginal": "Protect Our Care targeting 29 House Republicans",
-      "link": "https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans/",
-      "publishedAt": "2026-09-02T23:06:39.000Z"
     }
   ]
 }
