@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-09-03T23:23:39.979Z",
+  "updatedAt": "2026-09-03T23:49:04.401Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "O governo Trump alerta que os órgãos federais podem deixar de apoiar o Smithsonian",
+      "titleOriginal": "Trump administration warns agencies could stop helping Smithsonian",
+      "link": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
+      "publishedAt": "2026-09-03T23:47:03.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "São anunciados planos para o início das obras do Arco do Triunfo de Trump antes da aprovação final",
-      "titleOriginal": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
+      "title": "Trump dará início às obras do Arco antes de obter a aprovação",
+      "titleOriginal": "Trump to Break Ground on Arch Before Getting Approval",
       "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
-      "publishedAt": "2026-09-03T23:02:59.000Z"
+      "publishedAt": "2026-09-03T23:44:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
+      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
+      "publishedAt": "2026-09-03T23:01:15.000Z"
     },
     {
       "source": "AP News",
-      "title": "A SEC processa a LSU enquanto os atletas pedem judicialmente para recuperar a elegibilidade, com a temporada esportiva universitária já em andamento",
+      "title": "A SEC move ação contra a LSU enquanto os atletas pedem, em tribunal, que lhes seja restabelecida a elegibilidade, com a temporada esportiva universitária já em andamento",
       "titleOriginal": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
       "publishedAt": "2026-09-03T22:55:00.000Z"
@@ -25,24 +39,10 @@
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara",
+      "title": "O Pentágono tentou desviar fundos do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara",
       "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
       "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
       "publishedAt": "2026-09-03T22:48:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
-      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
-      "publishedAt": "2026-09-03T22:41:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump recorre novamente à Suprema Corte sobre as restrições ao voto por correspondência, com as eleições de meio de mandato se aproximando",
-      "titleOriginal": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-      "publishedAt": "2026-09-03T22:33:00.000Z"
     },
     {
       "source": "AP News",
@@ -53,24 +53,24 @@
     },
     {
       "source": "Politico",
-      "title": "Suprema Corte do Missouri suspende o redesenho eleitoral do Partido Republicano, o que provavelmente renderá aos democratas uma cadeira na Câmara dos Deputados",
+      "title": "Suprema Corte do Missouri suspende o redesenho eleitoral do Partido Republicano, o que provavelmente garantirá aos democratas uma cadeira na Câmara dos Deputados",
       "titleOriginal": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
       "link": "https://www.politico.com/news/2026/09/03/missouri-gerrymander-paused-2026-election-01064420",
       "publishedAt": "2026-09-03T22:28:11.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Serviço Florestal fecha 23 centros de pesquisa",
+      "title": "Serviço Florestal encerra 23 centros de pesquisa",
       "titleOriginal": "Forest Service closing 23 research sites",
       "link": "https://thehill.com/policy/energy-environment/6070479-forest-service-closes-research-sites/",
       "publishedAt": "2026-09-03T22:16:45.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Avança a proposta para a criação de um centro de triagem de visitantes da Casa Branca",
-      "titleOriginal": "Proposal for White House Visitor Screening Center Advances",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-white-house-visitor-center-planning-commission.html",
-      "publishedAt": "2026-09-03T22:05:50.000Z"
+      "title": "Juiz sugere que as regras de Trump para o voto por correspondência poderiam causar uma “grande privação do direito ao voto”",
+      "titleOriginal": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfranchisement’",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
+      "publishedAt": "2026-09-03T22:13:38.000Z"
     }
   ]
 }
