@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-03T01:30:03.868Z",
+  "updatedAt": "2026-09-03T01:51:13.943Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Avião do Secretário de Segurança Interna faz pouso de emergência",
+      "titleOriginal": "Homeland Security Secretary’s Plane Makes Emergency Landing",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/homeland-security-mullin-plane-emergency-landing.html",
+      "publishedAt": "2026-09-03T01:45:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Elon Musk quer fabricar componentes para turbinas de energia. Não vai ser fácil.",
+      "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
+      "publishedAt": "2026-09-03T01:21:58.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A Casa Branca planeja uma reforma de US$ 250.000 em uma pista de boliche de duas pistas",
+      "titleOriginal": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html",
+      "publishedAt": "2026-09-03T01:08:35.000Z"
+    },
     {
       "source": "AP News",
       "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
@@ -32,14 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Estados entram com ação judicial contra a medida que visa suspender o financiamento federal para jovens transgêneros para cuidados de transição",
+      "title": "Estados entram com ação judicial contra medida que visa cortar verbas federais destinadas a jovens transgêneros para cuidados de transição",
       "titleOriginal": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
       "publishedAt": "2026-09-03T00:06:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal suspende nova ordem de Trump sobre a cidadania por direito de nascimento",
+      "title": "Juiz federal suspende a nova ordem de Trump sobre a cidadania por direito de nascimento",
       "titleOriginal": "Federal judge blocks Trump’s new birthright citizenship order",
       "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
       "publishedAt": "2026-09-02T23:35:40.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Protect Our Care targeting 29 House Republicans",
       "link": "https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans/",
       "publishedAt": "2026-09-02T23:06:39.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: O NRCC aposta tudo em gastos coordenados",
-      "titleOriginal": "Scoop: NRCC goes all in on coordinated spending",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa21pR1Q1cTg3T2QtMEx3aFZheE13V05MR0hXWVJpQUEwbnFXS2dCLXBsMUs4cURTeWNkYW9fOWVEMF9XUzFIT0tQRWRnRW5LZWRKWl9ublEwNkZkY3pnbXJDaVFyOEZ4MlFTTGVhMVlMeEM3dXBBQ0EzeXNNb2dkZ3FZejl3b3JtTmc2bWlsWQ?oc=5",
-      "publishedAt": "2026-09-02T22:57:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Nas eleições de meio de mandato, será que a estratégia de usar os filhos de políticos vai dar certo?",
-      "titleOriginal": "In the Midterms, Will the Nepo-Baby Attack Work?",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
-      "publishedAt": "2026-09-02T22:55:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent busca apoio para a agenda de Trump no G20",
-      "titleOriginal": "Bessent rallies support for Trump agenda at G20",
-      "link": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
-      "publishedAt": "2026-09-02T22:42:46.000Z"
     }
   ]
 }
