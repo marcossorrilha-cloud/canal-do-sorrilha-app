@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-03T14:29:21.904Z",
+  "updatedAt": "2026-09-03T14:52:42.396Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-03T14:20:42.000Z"
+      "source": "Wall Street Journal",
+      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso não vai ser fácil de convencer.",
+      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
+      "publishedAt": "2026-09-03T14:48:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal suspende iniciativa de Trump para ajudar o Congresso a revogar as regras da Califórnia sobre veículos ecológicos",
+      "titleOriginal": "Court halts Trump effort to help Congress overturn California clean car rules",
+      "link": "https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra/",
+      "publishedAt": "2026-09-03T14:45:19.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A mãe de Vance diz que “provavelmente daria um soco” em El-Sayed",
+      "titleOriginal": "Vance's mother says she'd 'probably punch' El-Sayed",
+      "link": "https://thehill.com/homenews/administration/6068915-aikins-threatened-punch-el-sayed/",
+      "publishedAt": "2026-09-03T14:42:53.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicano da Câmara dos Deputados está “bastante certo” de que a proposta de mudança do nome do Lago Ontário é “uma provocação”",
+      "titleOriginal": "House Republican 'pretty sure' Lake Ontario name change 'a troll'",
+      "link": "https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll/",
+      "publishedAt": "2026-09-03T14:35:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os profissionais do 911 não são considerados socorristas — o Congresso deveria mudar isso",
+      "titleOriginal": "911 professionals aren't considered first responders — Congress should change that",
+      "link": "https://thehill.com/opinion/healthcare/6067444-911-responders-misclassified-labor-law/",
+      "publishedAt": "2026-09-03T14:30:00.000Z"
     },
     {
       "source": "The Hill",
@@ -39,38 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "As mulheres negras estão prestes a conquistar avanços históricos no Congresso em novembro",
-      "titleOriginal": "Black women are poised for historic congressional gains in November",
-      "link": "https://thehill.com/opinion/campaign/6067118-black-women-midterm-election-gains/",
-      "publishedAt": "2026-09-03T13:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
-      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-      "publishedAt": "2026-09-03T13:27:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
-      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
-      "publishedAt": "2026-09-03T13:23:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-secretário da Força Aérea: o Pentágono de Hegseth é “disfuncional”",
-      "titleOriginal": "Former Air Force secretary: Hegseth's Pentagon 'dysfunctional'",
-      "link": "https://thehill.com/policy/defense/6068287-former-air-force-secretary-hegeseths-pentagon-dysfunctional/",
-      "publishedAt": "2026-09-03T12:57:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
-      "titleOriginal": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
-      "publishedAt": "2026-09-03T12:28:00.000Z"
+      "title": "O colosso do financiamento da campanha de Trump é a maior incógnita das eleições de meio de mandato",
+      "titleOriginal": "Trump's campaign funding colossus is the midterms' biggest unknown",
+      "link": "https://thehill.com/opinion/white-house/6067311-trump-midterm-spending-power/",
+      "publishedAt": "2026-09-03T14:00:00.000Z"
     }
   ]
 }
