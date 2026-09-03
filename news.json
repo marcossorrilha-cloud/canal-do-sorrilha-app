@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-03T13:52:13.475Z",
+  "updatedAt": "2026-09-03T14:29:21.904Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T14:20:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O bilionário Leon Black contesta intimação da Câmara dos Deputados para depor sobre o caso Epstein",
+      "titleOriginal": "Billionaire Leon Black challenges House subpoena for Epstein testimony",
+      "link": "https://thehill.com/homenews/house/6068640-billionaire-leon-black-challenge-house-subpoena-epstein-testimony/",
+      "publishedAt": "2026-09-03T14:11:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Jeffries se pronuncia depois que dois democratas se opuseram à linha do partido na votação sobre a regra do Partido Republicano",
+      "titleOriginal": "Watch live: Jeffries speaks after 2 Democrats buck party on GOP rule vote",
+      "link": "https://thehill.com/homenews/house/6068511-watch-live-hakeem-jeffries-democratic-party-defections-caucus-rules-midterms/",
+      "publishedAt": "2026-09-03T14:11:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump: “Eu não uso peruca”",
+      "titleOriginal": "Trump: 'I don't wear a wig'",
+      "link": "https://thehill.com/homenews/administration/6068447-trump-denies-wig-allegations/",
+      "publishedAt": "2026-09-03T14:09:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lutnick “se expressou mal” ao afirmar que nenhum soldado americano morreu na guerra no Irã",
+      "titleOriginal": "Lutnick 'misspoke' when he said no US soldiers have died in Iran war",
+      "link": "https://thehill.com/homenews/administration/6068731-lutnick-apologizes-iran-death-claim/",
+      "publishedAt": "2026-09-03T14:09:12.000Z"
+    },
     {
       "source": "The Hill",
       "title": "As mulheres negras estão prestes a conquistar avanços históricos no Congresso em novembro",
@@ -11,17 +46,17 @@
     },
     {
       "source": "AP News",
-      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., falece aos 92 anos",
+      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
       "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
       "publishedAt": "2026-09-03T13:27:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-03T13:17:29.000Z"
+      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "publishedAt": "2026-09-03T13:23:00.000Z"
     },
     {
       "source": "The Hill",
@@ -31,46 +66,11 @@
       "publishedAt": "2026-09-03T12:57:27.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Vance comandará a primeira coletiva de imprensa da Casa Branca em semanas; Câmara encerra os trabalhos antes do próximo recesso",
-      "titleOriginal": "Live updates: Vance to helm White House's first press briefing in weeks; House wraps up before next recess",
-      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
-      "publishedAt": "2026-09-03T12:45:21.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Exclusivo da AP: Advogado da Igreja de Sião da China busca ajuda para reassentamento durante escala em Taiwan",
+      "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
       "titleOriginal": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
       "publishedAt": "2026-09-03T12:28:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Vance é a atração principal da inauguração da escola para “reconstruir a indústria americana”",
-      "titleOriginal": "Watch live: Vance headlines opening of school to 'rebuild American manufacturing'",
-      "link": "https://thehill.com/video-clips/6068299-watch-live-jd-vance-marco-rubio-donald-trump-domestic-manufacturing-school-opening/",
-      "publishedAt": "2026-09-03T12:21:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump exorta os republicanos em disputas acirradas a basearem suas campanhas em seu histórico",
-      "titleOriginal": "Trump urges Republicans in tight races to run on his record",
-      "link": "https://thehill.com/homenews/administration/6068248-donald-trump-gop-voting-record-midterms/",
-      "publishedAt": "2026-09-03T12:03:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Na disputa eleitoral: o provocador de quem ambos os partidos não param de falar",
-      "titleOriginal": "On the Ballot: The provocateur both parties can’t stop talking about",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan/",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O petróleo Brent atinge o maior nível em seis semanas devido aos temores de que a guerra entre os EUA e o Irã possa se prolongar",
-      "titleOriginal": "Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
-      "publishedAt": "2026-09-03T11:54:37.000Z"
     }
   ]
 }
