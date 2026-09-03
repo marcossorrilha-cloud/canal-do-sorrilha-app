@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-03T05:57:52.090Z",
+  "updatedAt": "2026-09-03T06:33:39.932Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Por dentro da disputa dos republicanos da Câmara com a agenda comercial de Trump",
+      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
+      "publishedAt": "2026-09-03T05:06:48.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O plano de Trump para a construção de uma cerca no Parque Lafayette, próximo à Casa Branca, será analisado por um painel federal",
+      "titleOriginal": "Trump’s plan for a fence at Lafayette Park near White House gets review by federal panel",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGdoOFhNaWs5Vk5uM3BjM2EtWnROcTdoOXoyRW1kTDRQX0FyT0g2X2Q3aThfSzZyNnlheVBWejItSGFycG90VHRVOEJXdTJmX2k1ZndMM0d6LXpwczMwUW52bFppTzJLWmJISUFhMVVEWUE3bTZWS21XSzU5WU80S21OempNYVlMYUp4RDZRTUxteEFwVGp0ckFfbWtYZnJ5UndsUGpfMUpnUQ?oc=5",
+      "publishedAt": "2026-09-03T04:14:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Veja a seguir as disputas eleitorais “ambiciosas”, nas quais os democratas esperam conseguir vitórias inesperadas na Câmara dos Deputados",
+      "titleOriginal": "Here’s a look at ‘reach’ election races where Democrats hope to pull off House upsets",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2U5c1hlaWVENGVrZ2p3UlM1b0pucjQ2eUpnUHd2M09oeHllNWsyT1p1TWp0ZGJmcl9wWnFoeDNCRXRxdDc5ek16ZHF5V29aLTdZeFd1NTdsN2hVRTNIWWpHXzlYWmJZSHJHOUNWelBKdks2Nm0xM09QRmcwLU1EUXh2eTBPU0FvaVVIY2RmcGhjSzdaa0tpNEViYmNiOHB4TTlDckZUdW9uMkdv?oc=5",
+      "publishedAt": "2026-09-03T04:07:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os russos passaram por um verão conturbado, marcado pela crise do gás e enxames de drones, à medida que a guerra chegava ao país",
+      "titleOriginal": "Russians endured a summer of turmoil with gas crisis and swarms of drones as the war came home",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+      "publishedAt": "2026-09-03T04:02:00.000Z"
+    },
     {
       "source": "Politico",
       "title": "Stephen A. Smith fala sobre Trump, os democratas e a política do caos",
@@ -15,13 +43,6 @@
       "titleOriginal": "Homeland Security Secretary’s Plane Makes Emergency Landing",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/homeland-security-mullin-plane-emergency-landing.html",
       "publishedAt": "2026-09-03T03:53:10.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por dentro da controvérsia dos republicanos da Câmara com a agenda comercial de Trump",
-      "titleOriginal": "Inside House Republicans' beef with Trump's trade agenda",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhFbE1peFluMjZEdWpiSXhrUTZTamlSN2tQLTBPcFFwdHc2UGNYZjVmNFRxRVJPVy01bktCYnRTT0pzdHc2ajdUQ1FCNTZhQlFMcHpzUkZxdUl1Q3V3c05femVienJjbHBGX3dmM2dVbml1cVRpNkVHUi1hdDhRNmdzcXM4cnlKaWNWUXpzV1dlUQ?oc=5",
-      "publishedAt": "2026-09-03T03:51:10.000Z"
     },
     {
       "source": "Politico",
@@ -39,7 +60,7 @@
     },
     {
       "source": "Axios",
-      "title": "Witkoff se reúne com alto funcionário dos Emirados Árabes Unidos em meio à repressão contra o Irã",
+      "title": "Witkoff se reúne com autoridade influente dos Emirados Árabes Unidos em meio à repressão contra o Irã",
       "titleOriginal": "Witkoff meets powerful UAE official amid crackdown on Iran",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5",
       "publishedAt": "2026-09-03T02:07:59.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
       "publishedAt": "2026-09-03T02:07:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Xi visita o Egito enquanto a China busca ampliar sua influência no Oriente Médio",
-      "titleOriginal": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-      "publishedAt": "2026-09-03T01:29:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A Casa Branca planeja uma reforma de US$ 250.000 em uma pista de boliche de duas pistas",
-      "titleOriginal": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html",
-      "publishedAt": "2026-09-03T01:08:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "El-Sayed quer restabelecer laços com os democratas judeus, mas alguns ainda não estão convencidos",
-      "titleOriginal": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed",
-      "link": "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html",
-      "publishedAt": "2026-09-03T00:55:40.000Z"
     }
   ]
 }
