@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-03T11:25:56.805Z",
+  "updatedAt": "2026-09-03T11:50:19.862Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso não vai ser fácil de convencer.",
+      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
+      "publishedAt": "2026-09-03T11:48:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-03T11:40:47.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Rússia fechará centros culturais alemães em meio a um impasse entre Moscou e a Europa sobre a Ucrânia",
+      "titleOriginal": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
+      "publishedAt": "2026-09-03T11:35:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
+      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
+      "publishedAt": "2026-09-03T11:17:25.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Até que ponto podemos confiar nas pesquisas?",
@@ -10,11 +38,25 @@
       "publishedAt": "2026-09-03T11:12:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Relatório Matinal de Risco: O “Dia D econômico” de Trump contra o Irã enfrenta uma batalha difícil",
+      "titleOriginal": "The Morning Risk Report: Trump’s ‘Economic D-Day’ Against Iran Faces an Uphill Battle",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXJsdktnQjRSeDdiWHUybGZwR2owMGNJRWw3UmhYRU5WeUxGYmowd1ZPZVJURXNLZGtNRFQ0RWpXenpxV1Q3aUVPM0V2YnJWQlVWZnVsbjZlZ3lHUkZjcFVyeEk1YnQ2RjhZa2ZHVVJZSmFzdGZYRDJuSUZ2QlVmb1RJM0JNZ3p0MUhKN0pHa0dYMnladEE0Wi1HMXVOeFJvelFvV1AyZnA2blZuSXJyMS1DSTJGS1lKYXd1ZGE1bkVBQ084Z256TGlobUNSMFU?oc=5",
+      "publishedAt": "2026-09-03T11:05:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Legisladores apresentam novo projeto de lei para garantir a segurança dos agentes de IA após a violação de segurança da Hugging Face pela OpenAI",
       "titleOriginal": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xR3ZLVzk0VUdDUVJlZFkzN18yWkpVV0wzUG1VU1BYTkhoVTJFcWdaM1ROWm92VjdoWHN6VEEyT2ZfSmZnU0dNc3JLWHpJdlhmZjZhc2Fpc0dHdWxqQm52SlVDcTVjNUxPVjBWeWJWYw?oc=5",
       "publishedAt": "2026-09-03T11:01:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Tillis quer que Hegseth seja demitido. O chefe do Pentágono está em apuros?",
+      "titleOriginal": "Tillis Wants Hegseth Fired. Is the Pentagon Chief in Trouble?",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlJFYXJhQmtLM3RYX3JzaHR4Q3NmUU14VHRORmRDRlVkdGpnQUFxUl9FdUpJZXMxOFM2ZXhXTnh5dU00azlVbWpRa3hfVGFoZExQdWVtb014ZVRVRGZvaS1NdVliRGRETDB4My1OTkVWLXRqcENIdmlxOFBYdnh0SzhFYnBSZlY0TXJ1MmRkQTY2RHd6TkRXTS1raHpZdw?oc=5",
+      "publishedAt": "2026-09-03T11:01:00.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
       "publishedAt": "2026-09-03T10:54:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jeffries enfrenta um delicado equilíbrio em relação aos desertores democratas",
-      "titleOriginal": "Jeffries faces tricky balancing act on Democratic defectors",
-      "link": "https://thehill.com/homenews/house/6067840-jeffries-democrat-defection-dilemma/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump e o setor de IA partem para a ofensiva para conter a reação negativa em relação aos centros de dados",
-      "titleOriginal": "Trump, AI industry go on offensive to counter data center backlash",
-      "link": "https://thehill.com/policy/technology/6067399-trump-ai-data-centers-offensive/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sand mantém vantagem sobre Lahn na disputa pelo governo de Iowa, enquanto Hinson lidera Turek na disputa pelo Senado: pesquisa",
-      "titleOriginal": "Sand holds edge over Lahn in Iowa governor's race while Hinson leads Turek for Senate: Poll",
-      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senadores democratas solicitam a McMahon detalhes sobre os gastos com a administração de empréstimos estudantis",
-      "titleOriginal": "Democratic senators ask McMahon for details on student loan administration spending",
-      "link": "https://thehill.com/homenews/education/6068035-democratic-senators-education-loan-spending-letter/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hegseth caminha para um confronto com senadores republicanos à medida que a frustração aumenta",
-      "titleOriginal": "Hegseth headed for clash with GOP senators as frustrations grow",
-      "link": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Kamala Harris está se envolvendo nas eleições de meio de mandato. Alguns democratas querem que ela fique de fora.",
-      "titleOriginal": "Kamala Harris is wading into the midterms. Some Democrats want her to stay out.",
-      "link": "https://www.politico.com/news/2026/09/03/kamala-harris-midterms-democrats-01063010",
-      "publishedAt": "2026-09-03T09:55:00.000Z"
     }
   ]
 }
