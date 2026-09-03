@@ -1,34 +1,55 @@
 {
-  "updatedAt": "2026-09-03T11:50:19.862Z",
+  "updatedAt": "2026-09-03T12:33:42.219Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Vance é a atração principal da inauguração da escola para “reconstruir a indústria manufatureira americana”",
+      "titleOriginal": "Watch live: Vance headlines opening of school to 'rebuild American manufacturing'",
+      "link": "https://thehill.com/video-clips/6068299-watch-live-jd-vance-marco-rubio-donald-trump-domestic-manufacturing-school-opening/",
+      "publishedAt": "2026-09-03T12:21:58.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump exorta os republicanos em disputas acirradas a basearem suas campanhas em seu histórico",
+      "titleOriginal": "Trump urges Republicans in tight races to run on his record",
+      "link": "https://thehill.com/homenews/administration/6068248-donald-trump-gop-voting-record-midterms/",
+      "publishedAt": "2026-09-03T12:03:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na disputa: o provocador de quem os dois partidos não param de falar",
+      "titleOriginal": "On the Ballot: The provocateur both parties can’t stop talking about",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan/",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Futuros nos EUA em queda generalizada e preços do petróleo sobem devido aos confrontos em curso na região do Irã",
+      "titleOriginal": "US futures mostly lower and oil prices climb due to ongoing clashes around Iran",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+      "publishedAt": "2026-09-03T11:57:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Trump quer que as grandes petrolíferas construam mais refinarias. Isso não vai ser fácil de convencer.",
-      "titleOriginal": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3NRbUNHM05GODlHQTNPTS1HVExOdHR1RHVBaDMweGdjV21uRzdHVTBVdUIwWWxVTTFIRHB1YTZXMTFpMDhoRHU0Z25jUkJZRTJDLWdNNERDUnQyRFN4cUhOSjNIWnRZYWQ4anNwUjloMTlQeGVsOUdRNXluMTlKVkNkMDJZeUtTYUFNNFVJYVF5dmlXVlN2TzRzTGFLTnpzcWdiOXdFa0FFOFZ3ZkVpdzdR?oc=5",
-      "publishedAt": "2026-09-03T11:48:59.000Z"
+      "title": "O petróleo Brent atinge o maior nível em seis semanas devido aos temores de que a guerra entre os EUA e o Irã possa se prolongar",
+      "titleOriginal": "Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "publishedAt": "2026-09-03T11:49:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de US$ 400 milhões de Trump",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-03T11:40:47.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia fechará centros culturais alemães em meio a um impasse entre Moscou e a Europa sobre a Ucrânia",
+      "title": "A Rússia fechará centros culturais alemães em meio ao impasse entre Moscou e a Europa sobre a Ucrânia",
       "titleOriginal": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
       "publishedAt": "2026-09-03T11:35:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
-      "titleOriginal": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZ6cDZVMmZPNjhqeEY4N2IxV2g0MkhHVnZwMDFDWl9DQlVqbWZTemRzSEJVTHUySVRtaVFsVzZyNFA2cUdFTkhveVRpX2lyUVR1MmNLVW9rVnBkeXMyLWJ6ajNuVGZoMDNPNXA2SnhmbDFweGtXLUFJaVBGcWNJSllxTHFlTEFMVFoxMjE0c2VkV1VteV9BSUxwb2NFV3MwdU9CTnFsRFk?oc=5",
-      "publishedAt": "2026-09-03T11:17:25.000Z"
+      "source": "AP News",
+      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
+      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+      "publishedAt": "2026-09-03T11:32:00.000Z"
     },
     {
       "source": "The Hill",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-03T11:05:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Legisladores apresentam novo projeto de lei para garantir a segurança dos agentes de IA após a violação de segurança da Hugging Face pela OpenAI",
-      "titleOriginal": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xR3ZLVzk0VUdDUVJlZFkzN18yWkpVV0wzUG1VU1BYTkhoVTJFcWdaM1ROWm92VjdoWHN6VEEyT2ZfSmZnU0dNc3JLWHpJdlhmZjZhc2Fpc0dHdWxqQm52SlVDcTVjNUxPVjBWeWJWYw?oc=5",
-      "publishedAt": "2026-09-03T11:01:23.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Tillis quer que Hegseth seja demitido. O chefe do Pentágono está em apuros?",
       "titleOriginal": "Tillis Wants Hegseth Fired. Is the Pentagon Chief in Trouble?",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlJFYXJhQmtLM3RYX3JzaHR4Q3NmUU14VHRORmRDRlVkdGpnQUFxUl9FdUpJZXMxOFM2ZXhXTnh5dU00azlVbWpRa3hfVGFoZExQdWVtb014ZVRVRGZvaS1NdVliRGRETDB4My1OTkVWLXRqcENIdmlxOFBYdnh0SzhFYnBSZlY0TXJ1MmRkQTY2RHd6TkRXTS1raHpZdw?oc=5",
       "publishedAt": "2026-09-03T11:01:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã não é o Vietnã, mas Trump está imitando a abordagem fracassada de Lyndon Johnson",
-      "titleOriginal": "Iran is no Vietnam, but Trump is mimicking Lyndon Johnson's failed approach",
-      "link": "https://thehill.com/opinion/national-security/6066434-avoiding-vietnam-mistake-iran-conflict/",
-      "publishedAt": "2026-09-03T11:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Gloria Steinem, uma voz influente do feminismo norte-americano e cofundadora da revista Ms., morre aos 92 anos",
-      "titleOriginal": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-      "publishedAt": "2026-09-03T10:54:00.000Z"
     }
   ]
 }
