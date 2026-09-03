@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-03T00:54:27.104Z",
+  "updatedAt": "2026-09-03T01:30:03.868Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "O Irã ataca seus vizinhos do Golfo, em retaliação aos ataques dos EUA após um casamento ter sido atingido",
+      "titleOriginal": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+      "publishedAt": "2026-09-03T00:59:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "El-Sayed quer restabelecer laços com os democratas judeus, mas alguns ainda não estão convencidos",
+      "titleOriginal": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed",
+      "link": "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html",
+      "publishedAt": "2026-09-03T00:55:40.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Biden participará da cerimônia em memória do 11 de setembro no Ground Zero, por ocasião do 25º aniversário",
@@ -18,24 +32,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Estados entram com ação judicial contra a medida que visa cortar verbas federais destinadas a jovens transgêneros para cuidados de transição",
+      "title": "Estados entram com ação judicial contra a medida que visa suspender o financiamento federal para jovens transgêneros para cuidados de transição",
       "titleOriginal": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
       "publishedAt": "2026-09-03T00:06:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal bloqueia a nova ordem de Trump sobre a cidadania por direito de nascimento",
+      "title": "Juiz federal suspende nova ordem de Trump sobre a cidadania por direito de nascimento",
       "titleOriginal": "Federal judge blocks Trump’s new birthright citizenship order",
       "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
       "publishedAt": "2026-09-02T23:35:40.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "CEOs do setor de tecnologia e o governo Trump pedem ao G-20 que adote políticas favoráveis à IA",
-      "titleOriginal": "Tech CEOs, Trump Administration Ask G-20 to Adopt Pro-AI Policies",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTNQSnJnNl9jZXVwakxoOWk4RDh6ODd2S0VNVkR0MWd5X0Z4OE1ZaDh4d0RaemR3Um5KTVlzTXJ0T2NFdjlZQXYwV3VrTmVUTExhM01ibTdPTWp4a0JGWE5ncUZWMWI0TkZMYlk4RERhUjY1U0RMdlFtZ29rMjRzZjh4T1BPREVnODNBaFNlYUZTSlcxZWhFQkRteGs0U3p1QXlv?oc=5",
-      "publishedAt": "2026-09-02T23:10:24.000Z"
     },
     {
       "source": "The Hill",
@@ -46,14 +53,14 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: O NRCC aposta tudo nos gastos coordenados",
+      "title": "Exclusivo: O NRCC aposta tudo em gastos coordenados",
       "titleOriginal": "Scoop: NRCC goes all in on coordinated spending",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa21pR1Q1cTg3T2QtMEx3aFZheE13V05MR0hXWVJpQUEwbnFXS2dCLXBsMUs4cURTeWNkYW9fOWVEMF9XUzFIT0tQRWRnRW5LZWRKWl9ublEwNkZkY3pnbXJDaVFyOEZ4MlFTTGVhMVlMeEM3dXBBQ0EzeXNNb2dkZ3FZejl3b3JtTmc2bWlsWQ?oc=5",
       "publishedAt": "2026-09-02T22:57:10.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Nas eleições de meio de mandato, será que a estratégia de atacar os “filhos de figurões” vai funcionar?",
+      "title": "Nas eleições de meio de mandato, será que a estratégia de usar os filhos de políticos vai dar certo?",
       "titleOriginal": "In the Midterms, Will the Nepo-Baby Attack Work?",
       "link": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
       "publishedAt": "2026-09-02T22:55:07.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Bessent rallies support for Trump agenda at G20",
       "link": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
       "publishedAt": "2026-09-02T22:42:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sob pressão para conter os confrontos com o Irã à medida que se aproximam as eleições de meio de mandato",
-      "titleOriginal": "Trump under pressure to contain Iran fighting as midterms near",
-      "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
-      "publishedAt": "2026-09-02T22:32:32.000Z"
     }
   ]
 }
