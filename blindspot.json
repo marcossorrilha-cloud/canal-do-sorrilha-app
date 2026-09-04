@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-04T03:26:57.789Z",
-  "slot": "2026-09-04-AM",
+  "updatedAt": "2026-09-04T15:28:04.556Z",
+  "slot": "2026-09-04-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O Irã lança mísseis e drones contra o Kuwait, à medida que os ataques são retomados na guerra contra os EUA.",
-      "titleOriginal": "Iran fires missiles and drones at Kuwait as strikes resume in war with U.S.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOallJNTBESkZZUGJPSldNM2tCZFlGcHc2UkdOX3hPYjN6NzI0WXVidGJNbHpaRjhKWTRBWGxoZEg2WXp3em55QUpOVVh4RFpleEVYd0ZvcGF4OWp1dFNqVnYxU29Nc3ZJbkVEMUd1QWhKaGRNSi1UempFVHo1Z0FiM29GeVEtUlRweUNYWFFCcnlXX3RkNlkyWGt2UThVT1Nkemp1N2lVOA?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "ONU votará proposta africana para um novo mapa-múndi",
+      "titleOriginal": "U.N. to Vote on African Proposal for a New World Map",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDViWjRvdC04M2JBLURsS3lxWDFMVWItLWVtVHRCVzZtNFUzNDFYQmRFQTlxUWVPay00ejk2eHZwR1RlWTItMzZxVWR3bjVCa2hrbDRMSUpCYVVDVHA2SEhSQ0VoMHVvNGlnVmFIWmMwNmVkbmVQMktJNFpBWVVoNDFRYWFNbzg?oc=5",
+      "source": "New York Times",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Jeffries ameaça com uma “resposta severa” depois que os democratas ajudaram o Partido Republicano a levar adiante a votação contra o socialismo",
-      "titleOriginal": "Jeffries threatens 'serious response' after Democrats help GOP advance anti-socialism vote",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVdza21qcjJFV0dHQkFJaEtFZ2RHZFR2am5PREl6dkFNYldoOVhSLXRycEhLRkxRV1FUZ2VnSzJibTJyS0tNMDRndHE5LUk0Q3VlNk5nMkZZc3p0OFJNd2ZYZlhxVUttMHRNb0tFZk10c1BmYVRXVWxOVUlhZW5rX19CR3ZwUG1UclFYR3pQODBXaWdYWG9aa0NtN01weEFKaWNGVG11T29fU1VfU0s0MTV30gG3AUFVX3lxTE1ra2FEdmtYSS10YnAwaFQ0LTNmQkhMSW81TWpaVnhUUVdXRjlKNnRMNkl0RFl2dHJWVEtsdGpBMnBzTHZJQWhBZnZ4SHZuV2drRmFHdTkxZ0JmalhQRm9QYTd1V0tnX2hlTHE2NGdQVWJ4S3JIbEtiQnpiYmxCRUJ4QTlldnFkV0FTWjlGNU80dDZKX1J4UnY1OFRZd2ZORnhWM0k0c0t4QnQ3SUlocnNLMlpLX0NjVQ?oc=5",
-      "source": "Fox News",
-      "coverage": 4
+      "title": "Vance defende sua amizade com Tucker Carlson, crítico de Trump",
+      "titleOriginal": "Vance Defends Friendship With Trump Critic Tucker Carlson",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUNMOFlHNjhSUkRqenBTbDRGNmdCRENLUHN3bmdqS25ybDZGa2g1OEpSd2xTbnBIWmU4QTVrSUh6WTdNSGdXbnRRdjM3a2xDNGd1RGNGOENCT3FxQzBZSklJcm9aTjZfWWxDc3pQSVplaGtxZlhWT1d3UmwtWU9valNlcnRhYkUwLW9tQ1N3RFlqem41V2h6TUd5NVBLTjJtZE1TWA?oc=5",
+      "source": "Wall Street Journal",
+      "coverage": 3
     }
   ]
 }
