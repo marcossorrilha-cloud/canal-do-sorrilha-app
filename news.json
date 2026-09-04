@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T21:25:40.215Z",
+  "updatedAt": "2026-09-04T21:48:55.948Z",
   "count": 10,
   "items": [
     {
@@ -10,11 +10,25 @@
       "publishedAt": "2026-09-04T21:19:21.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
+      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+      "publishedAt": "2026-09-04T21:09:35.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Trump faz seus primeiros comentários sobre o caso de Lindsay Clancy",
       "titleOriginal": "Trump offers first comments on Lindsay Clancy case",
       "link": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
       "publishedAt": "2026-09-04T20:54:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Juiz ordena que autoridades do governo Trump divulguem os nomes dos responsáveis pela criação de um fundo de US$ 1,8 bilhão",
+      "titleOriginal": "Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
+      "publishedAt": "2026-09-04T20:52:39.000Z"
     },
     {
       "source": "The Hill",
@@ -25,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal levanta a questão de “novo processo sem fundamento” em audiência sobre o Espelho D'água do Lincoln Memorial",
+      "title": "Juiz federal levanta a questão de “novo processo sem fundamento” na audiência sobre o Espelho D'Água do Lincoln Memorial",
       "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial Reflecting Pool hearing",
       "link": "https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case/",
       "publishedAt": "2026-09-04T20:48:30.000Z"
@@ -45,32 +59,18 @@
       "publishedAt": "2026-09-04T20:35:11.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
+      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
+      "publishedAt": "2026-09-04T20:33:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump afirma que os opositores ao centro de dados enfrentam “pobreza, criminalidade e miséria”",
+      "title": "Trump afirma que os opositores do centro de dados enfrentam “pobreza, criminalidade e miséria”",
       "titleOriginal": "Trump says data center opponents face 'poverty, crime and squalor'",
       "link": "https://thehill.com/policy/technology/6072246-trump-ai-data-center-opponents/",
       "publishedAt": "2026-09-04T20:32:58.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
-      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
-      "publishedAt": "2026-09-04T20:32:54.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
-      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
-      "publishedAt": "2026-09-04T20:27:41.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Funcionários do Departamento de Justiça foram orientados a suspender o trabalho antitruste com o governo canadense",
-      "titleOriginal": "Exclusive | DOJ Staff Were Told to Pause Antitrust Work With Canadian Government",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHF6VmV6WXBmWG9zdEhpeTk4MzlaSHgyX085NFZERWQ5Si1VSjk2ZVNiWU04d2FKc0hkZFd5OHNiZXJhRy1GajlqUVdQNWJKUjNuRS1RMWFpTFlvNTdDTnVoVDlFMUFucnJRZVh6R0lZekZrX3BPaERRM0EybmJ6ZVBLUWRnWF85cjlibDFZRlJ0ODVvMDNGU1FKSmZOX0pKakUtbHlSOTVORnNwQVROTlJmRHY?oc=5",
-      "publishedAt": "2026-09-04T20:11:00.000Z"
     }
   ]
 }
