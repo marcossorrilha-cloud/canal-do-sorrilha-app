@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-04T02:50:45.998Z",
+  "updatedAt": "2026-09-04T03:26:50.832Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Forças armadas dos EUA investigam ataque mortal a um casamento iraniano",
+      "titleOriginal": "U.S. military reviewing deadly strike on Iranian wedding",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
+      "publishedAt": "2026-09-04T02:14:43.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Juiz encerra supervisão federal sobre o sindicato Teamsters",
@@ -25,17 +32,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Relatório do departamento aponta que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
+      "title": "Relatório do ministério conclui que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
       "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
       "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
       "publishedAt": "2026-09-04T01:52:50.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T01:36:58.000Z"
     },
     {
       "source": "New York Times",
@@ -43,6 +43,13 @@
       "titleOriginal": "Trump Taps Army Engineering Official as Acting Secretary",
       "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
       "publishedAt": "2026-09-04T01:18:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-04T01:01:25.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -59,18 +66,11 @@
       "publishedAt": "2026-09-04T00:43:05.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Agente do ICE acusado de mentir sobre tiroteio se entrega às autoridades federais, segundo fonte da AP",
-      "titleOriginal": "ICE officer charged with lying about shooting turns himself in to feds, AP source says",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
-      "publishedAt": "2026-09-04T00:24:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Republicanos em situação vulnerável recebem um passe para a convenção no valor de US$ 25 mil",
-      "titleOriginal": "Vulnerable Republicans get a $25K convention pass",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTC1TTU0waDMwdnlRTDkwQ05zNzM3S2hUajBUM1JKMjdsLTRwSVNGUWZHaXhoUXJtb3Q2b0I1c3RBV2JXZ2c5TGZOSVVrNi03S1FtMlRiRnVHX2FsUDNGMzlkUFJKWVhvQ0RFVllVcExfOFE4aGVMcHpCWlE4YTBONkZacGIyYVVo?oc=5",
-      "publishedAt": "2026-09-03T23:58:04.000Z"
+      "source": "Wall Street Journal",
+      "title": "Suprema Corte do Missouri decide que o estado não pode usar o mapa redesenhado nas eleições intermediárias",
+      "titleOriginal": "Missouri Supreme Court Rules State Can’t Use Redrawn Map in Midterms",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1JFTmJvUmVtX0NSbG5JWUEyNDdHektScmtrT2dEaVYta3htbFpCa2VZOThtNG16cE1icGU1Mk85TksxZWt5aHFFakZILTdJWU1PV0pWbXlKRWxCWnFSZVRkTGp5TUhCT1lwVVpMX1BIeGFzc3RpRFg4Tnd6aUJEZ3JvM2poRDFycWpRdWN3NEVrUjN3a0dGQWNTTWpkMWZZSnVPR3hvSHlSdklCdDdUVDJ3?oc=5",
+      "publishedAt": "2026-09-04T00:35:15.000Z"
     }
   ]
 }
