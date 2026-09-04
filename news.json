@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-04T16:49:31.477Z",
+  "updatedAt": "2026-09-04T17:24:35.073Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Autoridades eleitorais da Carolina do Norte alteram as regras para o voto por correspondência pouco antes do envio das cédulas",
+      "titleOriginal": "NC elections officials alter mail ballot rules just before they’re mailed out",
+      "link": "https://thehill.com/homenews/state-watch/6071775-nc-approves-new-mail-in-ballot-guidelines/",
+      "publishedAt": "2026-09-04T17:18:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
+      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
+      "publishedAt": "2026-09-04T17:01:15.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Kushner e Witkoff viajarão para a Rússia e a Ucrânia para retomar as negociações de paz",
+      "titleOriginal": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
+      "publishedAt": "2026-09-04T16:51:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Drone russo atinge sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
+      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "publishedAt": "2026-09-04T16:49:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
@@ -25,31 +53,17 @@
     },
     {
       "source": "AP News",
-      "title": "Drone russo ataca sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
-      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-      "publishedAt": "2026-09-04T16:19:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "EQT vai adquirir a corretora de seguros McGill em um negócio de US$ 2 bilhões",
-      "titleOriginal": "EQT to Buy Insurance Broker McGill in $2 Billion Deal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
-      "publishedAt": "2026-09-04T16:07:30.000Z"
+      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chávez-DeRemer, permitiu a existência de um ambiente de trabalho hostil e desviou fundos",
+      "titleOriginal": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
+      "publishedAt": "2026-09-04T16:09:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após relatório positivo sobre o mercado de trabalho",
+      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após um relatório positivo sobre o mercado de trabalho",
       "titleOriginal": "Trump threatens trade war if rates aren't cut after strong jobs report",
       "link": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
       "publishedAt": "2026-09-04T16:04:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Governo de Trump toma medidas para agilizar as aprovações de perfuração de petróleo no Alasca",
-      "titleOriginal": "Trump administration moves to fast-track oil drilling approvals in Alaska",
-      "link": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
-      "publishedAt": "2026-09-04T16:00:23.000Z"
     },
     {
       "source": "AP News",
@@ -57,20 +71,6 @@
       "titleOriginal": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
       "publishedAt": "2026-09-04T15:35:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump dará início às obras do Arco antes de obter a aprovação",
-      "titleOriginal": "Trump to Break Ground on Arch Before Getting Approval",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
-      "publishedAt": "2026-09-04T15:32:55.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O veredicto que está por vir sobre as alegações de Trump a respeito do Estreito de Ormuz",
-      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
-      "publishedAt": "2026-09-04T15:31:42.000Z"
     }
   ]
 }
