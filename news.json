@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-04T15:27:57.891Z",
+  "updatedAt": "2026-09-04T15:50:54.576Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Trump mantém um plano fracassado para as eleições de meio de mandato",
+      "titleOriginal": "Opinion | Trump Sticks With a Losing Midterm Plan",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMkZuSFFaMnd5eVotVnFhaTBtaTlhVWROZlREbUo3SXNWb0pUMW9xa3lxSk14TTMtVWhSY2UwQWMtVE9YMXNUVEVwcjFmRjVsR2g4T05TYTh6OUhNdklyMWpIMGdqZENLMDNST2UyYWhkNE5XUW9IazdnX3p1YjRhYkln?oc=5",
+      "publishedAt": "2026-09-04T15:43:53.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump dará início às obras do Arco antes de obter a aprovação",
+      "titleOriginal": "Trump to Break Ground on Arch Before Getting Approval",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+      "publishedAt": "2026-09-04T15:32:55.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O veredicto que está por vir sobre as alegações de Trump a respeito do Estreito de Ormuz",
+      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
+      "publishedAt": "2026-09-04T15:31:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O problema dos 50% nas tarifas impostas por Trump ao Canadá",
+      "titleOriginal": "The 50 percent problem with Trump's Canada tariffs",
+      "link": "https://thehill.com/opinion/finance/6069916-legal-challenge-canadian-trade-war/",
+      "publishedAt": "2026-09-04T15:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O Cybercab da Tesla está sendo investigado por órgãos reguladores federais",
+      "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+      "publishedAt": "2026-09-04T15:29:53.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Um Irã mais confiante surge após seis meses de guerra com os EUA",
       "titleOriginal": "A More Confident Iran Emerges After Six Months of War With the U.S.",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
-      "publishedAt": "2026-09-04T15:21:42.000Z"
+      "publishedAt": "2026-09-04T15:21:43.000Z"
     },
     {
       "source": "New York Times",
@@ -15,6 +50,13 @@
       "titleOriginal": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
       "publishedAt": "2026-09-04T15:21:09.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
+      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+      "publishedAt": "2026-09-04T15:01:45.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "titleOriginal": "Former podcaster charged for death threats against Trump",
       "link": "https://thehill.com/homenews/administration/6071430-benjamin-southworth-arrested-trump/",
       "publishedAt": "2026-09-04T14:57:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ty Cobb sobre as eleições intermediárias: Trump pretende “roubar essas eleições sempre que possível”",
-      "titleOriginal": "Ty Cobb on midterms: Trump intends 'to steal these elections where possible'",
-      "link": "https://thehill.com/homenews/administration/6071167-ty-cobb-trump-midterm-interference/",
-      "publishedAt": "2026-09-04T14:21:39.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A pressão na China ajuda a convencer a Volkswagen de que é hora de mudar",
-      "titleOriginal": "Pressure in China helps convince Volkswagen it’s time to change",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRKWXBvUkpXaFF1UjhNWks1cmpDVFdHZFEtSHhFa2RMTlVEVEtHUklyOHQ2ZS01YlA2UXgtbXUtVG5UX0phY1RtU2RWRFc1RUpsQmF0Y0ljMXE5WEhXOEZORW1udXNBTVlfTWNjWV81WlBBLXNsMzRENU5PbGd1ZGoyVExycUI3d3lKaVRSOWplZXJFTl80MVU4Qllvdm83RHhiQ1pTdmdFUQ?oc=5",
-      "publishedAt": "2026-09-04T14:02:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T14:01:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As novas “luvas de choque” do ICE são perigosas, desumanas e totalmente desnecessárias",
-      "titleOriginal": "ICE’s new 'shock gloves' are dangerous, inhumane and totally unnecessary",
-      "link": "https://thehill.com/opinion/immigration/6066746-ice-shock-gloves-purchase/",
-      "publishedAt": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataques russos matam pelo menos três pessoas na Ucrânia, enquanto se aguardam as negociações dos EUA sobre a guerra",
-      "titleOriginal": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-      "publishedAt": "2026-09-04T13:45:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O governo Trump paralisou uma pesquisa sobre PFAS em águas residuais, afirmam ex-funcionários da EPA",
-      "titleOriginal": "Trump administration stalled a survey of PFAS in wastewater, former EPA officials say",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXRYMkpHOW1IbzNoQm1jNkRDa2lRcVV6ekdpWnY0enhXYTdVX3NMTEJHcV83SnNKSFNZYzhjVGZCRWRDeUZBY0lwODBRRjJlN2JIRl9tc1hkVFhNbVNJLWhNVHk2SmRFcGxEZ3pPMk5wQkVyUU9nUDV3Wi1ISUFqWTlSa2plQ2ktVTJFNTlRQ0ZfX3gyWFlacHp4T2dacm5OMzk3eHZ3?oc=5",
-      "publishedAt": "2026-09-04T13:45:00.000Z"
     }
   ]
 }
