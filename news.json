@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-04T16:27:56.746Z",
+  "updatedAt": "2026-09-04T16:49:31.477Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
+      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
+      "publishedAt": "2026-09-04T16:45:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Venezuela é o modelo do que Washington exigirá do Irã",
+      "titleOriginal": "Venezuela is the blueprint for what Washington will demand from Iran",
+      "link": "https://thehill.com/opinion/international/6069947-venezuela-iran-oil-strategy/",
+      "publishedAt": "2026-09-04T16:30:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
@@ -10,25 +24,39 @@
       "publishedAt": "2026-09-04T16:24:09.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Drone russo ataca sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
+      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "publishedAt": "2026-09-04T16:19:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EQT vai adquirir a corretora de seguros McGill em um negócio de US$ 2 bilhões",
+      "titleOriginal": "EQT to Buy Insurance Broker McGill in $2 Billion Deal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
+      "publishedAt": "2026-09-04T16:07:30.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após um relatório positivo sobre o mercado de trabalho",
+      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após relatório positivo sobre o mercado de trabalho",
       "titleOriginal": "Trump threatens trade war if rates aren't cut after strong jobs report",
       "link": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
       "publishedAt": "2026-09-04T16:04:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Governo de Trump toma medidas para acelerar as aprovações de perfuração de petróleo no Alasca",
+      "title": "Governo de Trump toma medidas para agilizar as aprovações de perfuração de petróleo no Alasca",
       "titleOriginal": "Trump administration moves to fast-track oil drilling approvals in Alaska",
       "link": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
       "publishedAt": "2026-09-04T16:00:23.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
-      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
-      "publishedAt": "2026-09-04T15:47:21.000Z"
+      "source": "AP News",
+      "title": "Os EUA impõem sanções a um banco turco que consideram uma “linha de vida financeira essencial” para o Irã",
+      "titleOriginal": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
+      "publishedAt": "2026-09-04T15:35:00.000Z"
     },
     {
       "source": "New York Times",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-09-04T15:32:55.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O problema dos 50% nas tarifas impostas por Trump ao Canadá",
-      "titleOriginal": "The 50 percent problem with Trump's Canada tariffs",
-      "link": "https://thehill.com/opinion/finance/6069916-legal-challenge-canadian-trade-war/",
-      "publishedAt": "2026-09-04T15:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Cybercab da Tesla está sendo investigado por órgãos reguladores federais",
-      "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-      "publishedAt": "2026-09-04T15:29:53.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Um Irã mais confiante surge após seis meses de guerra com os EUA",
-      "titleOriginal": "A More Confident Iran Emerges After Six Months of War With the U.S.",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
-      "publishedAt": "2026-09-04T15:21:43.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Kushner e Witkoff viajarão para a Rússia e a Ucrânia para retomar as negociações de paz",
-      "titleOriginal": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
-      "publishedAt": "2026-09-04T15:21:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Carolina do Norte se prepara para enviar as primeiras cédulas eleitorais do outono, enquanto Trump tenta restringir esse processo",
-      "titleOriginal": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html",
-      "publishedAt": "2026-09-04T15:16:35.000Z"
+      "source": "Axios",
+      "title": "O veredicto que está por vir sobre as alegações de Trump a respeito do Estreito de Ormuz",
+      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
+      "publishedAt": "2026-09-04T15:31:42.000Z"
     }
   ]
 }
