@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-04T08:52:26.515Z",
+  "updatedAt": "2026-09-04T09:27:41.135Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-04T09:11:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A questão da mudança de regime no Irã volta à tona — mais uma vez",
+      "titleOriginal": "Opinion | Iran Regime Change Returns—Again",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XOG0tdngtVTVXU2ctZzh1YlQxMVE2V0o4Q2pPLXF4N1J3bDdvLVAtUlJqU1NpTDF0MnF1OGVlTEg1WHdYSE5SNFRvMTV6Y3hGbjBuXzhldWxlczBKNEdCNm13RkdsQ3ZLR3ZVaTlPSzB4ZWk1NERKbnQ1RQ?oc=5",
+      "publishedAt": "2026-09-04T09:09:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Um atleta paralímpico entra na disputa, apesar da vantagem de jogar em casa dos republicanos",
+      "titleOriginal": "A Paralympian Takes His Shot Despite Republicans’ Home Court Advantage",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
+      "publishedAt": "2026-09-04T09:02:38.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os cartunistas do país comentam a semana na política",
+      "titleOriginal": "The nation’s cartoonists on the week in politics",
+      "link": "https://www.politico.com/gallery/2026/09/04/the-nations-cartoonists-on-the-week-in-politics-01064524",
+      "publishedAt": "2026-09-04T09:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A startup de IA Wonderful atinge avaliação de US$ 5 bilhões e planeja formar uma equipe de 1.000 pessoas",
+      "titleOriginal": "Exclusive | AI Startup Wonderful Hits $5 Billion Valuation, Plans 1,000-Strong Team",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakJGSy1qY1N1N3prQmZDNVNyLXp1eURISS1UaTBMaWg4aUVITkFVSWJmV2xkcGxTbmo5eG9PeDYtck5VQTkwSHJxUEh5LXBoMURtRlpmbExUSGU4eV92d1FPUW5kdzZfajNDRXgtUU5YYkdkS1F1aVF5OC1SUndHOXRMTnZkb3ByNW92NnpYX3JRakVBc0cyYU1sVExhalZ3OUE4MkRQREFkT3I2VWs2N2tYZGlnNWMybUE?oc=5",
+      "publishedAt": "2026-09-04T08:34:39.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Preço do diesel atinge recorde histórico, impulsionado pelas guerras",
+      "titleOriginal": "Diesel price surges to all-time high, fueled by wars",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkR6c1pqR05yUGNyQ1M3Z29GalRnRHFKNHpYZ3FrVmJRNUtJWURvLUZTUXNNWS1ZOU9DcWoxY3otbDhmZVRUS21wZkFVNTU3ZThpSzlLWGtwYk5Vdm5lSVRVNnI4XzQyRDdYQkIwQVlId2w5S3RBSDdiVnZWUVkwcQ?oc=5",
+      "publishedAt": "2026-09-04T08:17:41.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
@@ -25,52 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
-      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
-      "publishedAt": "2026-09-04T05:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T04:35:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As cédulas eleitorais para o voto por correspondência nas eleições intermediárias começam a ser enviadas aos eleitores, enquanto o litígio sobre a ordem de Trump gera incerteza",
-      "titleOriginal": "Midterm mail ballots start to go to voters as litigation over Trump’s order creates uncertainty",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzVmckhKZThpMXNNRm9Tb1B2aFQ4Y1ppa2JaWGxGYTBrbnJPTVFRMTV5aUxYWmdIUF9BNFhpR1hXLVNqc3JkYmVIZEhOM1dtRndyZnZyRW5hZGl3amtYZ05Fc29XTkFxRHRNdUFWSXNQNTkzRXRqMU1xM29MV2NVeDlfbmpqMzRSSDdNd3MzcVBKdThKRUlPZlUzMFJxTVhTUVE?oc=5",
-      "publishedAt": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
-      "titleOriginal": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
-      "publishedAt": "2026-09-04T03:10:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Forças armadas dos EUA investigam ataque mortal a um casamento iraniano",
-      "titleOriginal": "U.S. military reviewing deadly strike on Iranian wedding",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
-      "publishedAt": "2026-09-04T02:29:45.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz encerra supervisão federal sobre o sindicato Teamsters",
-      "titleOriginal": "Judge Ends Federal Oversight of Teamsters",
-      "link": "https://www.nytimes.com/2026/09/03/us/politics/judge-ends-federal-oversight-of-teamsters.html",
-      "publishedAt": "2026-09-04T02:09:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os eleitores do Missouri decidirão sobre o novo mapa eleitoral do Congresso em novembro",
-      "titleOriginal": "Missouri voters to decide new congressional map in November",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3hYRTY4ZG9tZlJRc0RtN1NTSjNuY0RWVnBtRmJnVHJEOUluQTlRMHlJWlJ0eUZBajZzcmpLdnNkbFRVSl94UzYxcW5Bc0JnVVhBVExHeFNNSlBNU3dBSXR5R2lrajN3aGlkdlZrVU0tOE5PZ1VYX25oZng4SS1sOE9lS21Fa2FkQlNCdGJKVjhSbG1jLU4zeWNZcUFvR193dGVNcg?oc=5",
-      "publishedAt": "2026-09-04T02:00:04.000Z"
+      "title": "Eala, Osaka e Zverev avançam, enquanto o nº 3, Auger-Aliassime, é eliminado no US Open",
+      "titleOriginal": "Eala, Osaka and Zverev advance, while No. 3 Auger-Aliassime falls at the US Open",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbk9yOXQ1ei1uUXZ6OEtTTF83X3M4cHBRUklXdlF1X1VMWjFGWFpsZDh5NjNkMWRUaXVCeWJabk5BbGpwMmVxUG84LVJEakt1QXBIWWIxQWVXbHNoLXRLZzlwVXRMYjJqc0hITzlaMU4xUDU1SlRlTmJ0M0dMejQ3V3hILXBlVzJIQ0FjZg?oc=5",
+      "publishedAt": "2026-09-04T06:18:00.000Z"
     }
   ]
 }
