@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-04T14:26:48.631Z",
+  "updatedAt": "2026-09-04T14:51:31.713Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "A pressão na China contribui para convencer a Volkswagen de que é hora de mudar",
+      "titleOriginal": "Pressure in China helps convince Volkswagen it’s time to change",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRKWXBvUkpXaFF1UjhNWks1cmpDVFdHZFEtSHhFa2RMTlVEVEtHUklyOHQ2ZS01YlA2UXgtbXUtVG5UX0phY1RtU2RWRFc1RUpsQmF0Y0ljMXE5WEhXOEZORW1udXNBTVlfTWNjWV81WlBBLXNsMzRENU5PbGd1ZGoyVExycUI3d3lKaVRSOWplZXJFTl80MVU4Qllvdm83RHhiQ1pTdmdFUQ?oc=5",
+      "publishedAt": "2026-09-04T14:02:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "As novas “luvas de choque” do ICE são perigosas, desumanas e totalmente desnecessárias",
@@ -11,9 +18,16 @@
     },
     {
       "source": "AP News",
-      "title": "Ataques russos matam pelo menos três pessoas na Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
+      "title": "Ataques russos matam pelo menos três pessoas na Ucrânia, enquanto se aguarda o início das negociações dos EUA sobre a guerra",
       "titleOriginal": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "publishedAt": "2026-09-04T13:45:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O governo Trump adiou uma pesquisa sobre PFAS em águas residuais, afirmam ex-funcionários da EPA",
+      "titleOriginal": "Trump administration stalled a survey of PFAS in wastewater, former EPA officials say",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXRYMkpHOW1IbzNoQm1jNkRDa2lRcVV6ekdpWnY0enhXYTdVX3NMTEJHcV83SnNKSFNZYzhjVGZCRWRDeUZBY0lwODBRRjJlN2JIRl9tc1hkVFhNbVNJLWhNVHk2SmRFcGxEZ3pPMk5wQkVyUU9nUDV3Wi1ISUFqWTlSa2plQ2ktVTJFNTlRQ0ZfX3gyWFlacHp4T2dacm5OMzk3eHZ3?oc=5",
       "publishedAt": "2026-09-04T13:45:00.000Z"
     },
     {
@@ -25,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump: Os fãs “não ficarão felizes” com a saída de Bartiromo da Fox News",
+      "title": "Trump: Os fãs “não vão ficar felizes” com a saída de Bartiromo da Fox News",
       "titleOriginal": "Trump: Fans 'will not be happy' Bartiromo out at Fox News",
       "link": "https://thehill.com/homenews/administration/6071024-donald-trump-praises-maria-bartiromo-departure/",
       "publishedAt": "2026-09-04T13:13:47.000Z"
@@ -46,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Carolina do Norte deve enviar cédulas em meio à disputa sobre o voto pelo correio; agosto apresenta números sólidos de empregos",
+      "title": "Atualizações em tempo real: Carolina do Norte deve enviar cédulas em meio à disputa sobre o voto pelo correio; agosto apresenta números sólidos de emprego",
       "titleOriginal": "Live updates: NC set to send out ballots amid mail voting fight; August posts strong jobs numbers",
       "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
       "publishedAt": "2026-09-04T12:52:18.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
       "publishedAt": "2026-09-04T12:47:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance e El-Sayed resistem aos apelos para se distanciarem de amigos polêmicos: debate ao vivo",
-      "titleOriginal": "Vance, El-Sayed resist calls to disavow controversial friends: Live discussion",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6070985-vance-el-sayed-controversial-friends-discussion/",
-      "publishedAt": "2026-09-04T12:42:59.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co. de Musk busca apoio de investidores para recrutamento e apoio comercial",
-      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
-      "publishedAt": "2026-09-04T12:31:00.000Z"
     }
   ]
 }
