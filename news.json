@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T02:26:49.869Z",
+  "updatedAt": "2026-09-04T02:50:45.998Z",
   "count": 10,
   "items": [
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Relatório do departamento conclui que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
+      "title": "Relatório do departamento aponta que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
       "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
       "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
       "publishedAt": "2026-09-04T01:52:50.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-04T01:36:58.000Z"
     },
     {
       "source": "New York Times",
@@ -42,11 +49,11 @@
       "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-04T01:01:18.000Z"
+      "publishedAt": "2026-09-04T01:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Suprema Corte de Maryland volta a incluir o referendo sobre o redesenho dos distritos eleitorais na cédula de novembro",
+      "title": "Suprema Corte de Maryland volta a incluir o referendo sobre o redesenho dos distritos eleitorais na cédula eleitoral de novembro",
       "titleOriginal": "Maryland Supreme Court puts redistricting referendum back on November ballot",
       "link": "https://thehill.com/homenews/campaign/6070660-maryland-supreme-court-redistrict-referendum-back/",
       "publishedAt": "2026-09-04T00:43:05.000Z"
@@ -59,18 +66,11 @@
       "publishedAt": "2026-09-04T00:24:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Trump nomeia Adam Telle como secretário interino do Exército após a renúncia de Driscoll",
-      "titleOriginal": "Trump Names Adam Telle Acting Army Secretary After Driscoll Resignation",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODZsWmdEdGNYMk5YcGpLa0c5aWxCVzh5UFJUVnRjV2x2YWRQbEJjRHU1Z3hBY19nSXFzTW5RcUY4RHhIUG5rWFBKalpzRzdUSTVMTjZZWVNHdVhhUDQ1eE12Nk9hNXNUUjN2aFkzUll0UXhvRGJHOWRpdGVNOWZaaGpHcl9GNVZrUjdtM05Sd01ENEJKamU1TmVZNDNGYVR1ZEFmMEs2aGtrcmM4Njh0bU50MmFoamNUYzd4bDhmM0RzbEQ5aHc?oc=5",
-      "publishedAt": "2026-09-03T23:55:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump alerta que os órgãos governamentais podem deixar de apoiar o Smithsonian",
-      "titleOriginal": "Trump administration warns agencies could stop helping Smithsonian",
-      "link": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
-      "publishedAt": "2026-09-03T23:47:03.000Z"
+      "source": "Axios",
+      "title": "Republicanos em situação vulnerável recebem um passe para a convenção no valor de US$ 25 mil",
+      "titleOriginal": "Vulnerable Republicans get a $25K convention pass",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTC1TTU0waDMwdnlRTDkwQ05zNzM3S2hUajBUM1JKMjdsLTRwSVNGUWZHaXhoUXJtb3Q2b0I1c3RBV2JXZ2c5TGZOSVVrNi03S1FtMlRiRnVHX2FsUDNGMzlkUFJKWVhvQ0RFVllVcExfOFE4aGVMcHpCWlE4YTBONkZacGIyYVVo?oc=5",
+      "publishedAt": "2026-09-03T23:58:04.000Z"
     }
   ]
 }
