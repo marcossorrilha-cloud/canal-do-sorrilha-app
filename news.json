@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-04T01:23:47.337Z",
+  "updatedAt": "2026-09-04T01:50:33.734Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Relatório do departamento conclui que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
+      "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
+      "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+      "publishedAt": "2026-09-04T01:44:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Elon Musk quer fabricar componentes para turbinas de energia. Não vai ser fácil.",
+      "titleOriginal": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
+      "publishedAt": "2026-09-04T01:33:15.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump nomeia oficial do Corpo de Engenharia do Exército como secretário interino",
@@ -28,11 +42,11 @@
       "title": "Trump nomeia Adam Telle como secretário interino do Exército após a renúncia de Driscoll",
       "titleOriginal": "Trump Names Adam Telle Acting Army Secretary After Driscoll Resignation",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODZsWmdEdGNYMk5YcGpLa0c5aWxCVzh5UFJUVnRjV2x2YWRQbEJjRHU1Z3hBY19nSXFzTW5RcUY4RHhIUG5rWFBKalpzRzdUSTVMTjZZWVNHdVhhUDQ1eE12Nk9hNXNUUjN2aFkzUll0UXhvRGJHOWRpdGVNOWZaaGpHcl9GNVZrUjdtM05Sd01ENEJKamU1TmVZNDNGYVR1ZEFmMEs2aGtrcmM4Njh0bU50MmFoamNUYzd4bDhmM0RzbEQ5aHc?oc=5",
-      "publishedAt": "2026-09-03T23:56:13.000Z"
+      "publishedAt": "2026-09-03T23:55:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O governo Trump alerta que as agências podem deixar de prestar apoio ao Smithsonian",
+      "title": "O governo Trump alerta que os órgãos federais podem deixar de apoiar o Smithsonian",
       "titleOriginal": "Trump administration warns agencies could stop helping Smithsonian",
       "link": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
       "publishedAt": "2026-09-03T23:47:03.000Z"
@@ -46,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "O julgamento de Lindsay Clancy chega ao sexto dia sem veredicto, após um episódio dramático no tribunal",
+      "title": "O julgamento de Lindsay Clancy chega ao sexto dia sem veredicto, após um momento de tensão no tribunal",
       "titleOriginal": "Lindsay Clancy trial ends without a verdict for a sixth day after drama in the courtroom",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
       "publishedAt": "2026-09-03T23:34:00.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Vance 'extremely skeptical' of Iran wedding attack reports",
       "link": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
       "publishedAt": "2026-09-03T22:52:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara",
-      "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
-      "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
-      "publishedAt": "2026-09-03T22:48:08.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Suprema Corte do Missouri suspende o redesenho eleitoral do Partido Republicano, o que provavelmente renderá aos democratas uma cadeira na Câmara dos Deputados",
-      "titleOriginal": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
-      "link": "https://www.politico.com/news/2026/09/03/missouri-gerrymander-paused-2026-election-01064420",
-      "publishedAt": "2026-09-03T22:28:11.000Z"
     }
   ]
 }
