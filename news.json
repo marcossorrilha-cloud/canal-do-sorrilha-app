@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-04T05:25:55.698Z",
+  "updatedAt": "2026-09-04T05:50:28.357Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas a JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T04:17:42.000Z"
-    },
     {
       "source": "AP News",
       "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
@@ -24,11 +17,18 @@
       "publishedAt": "2026-09-04T02:48:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O Irã ataca o Kuwait em retaliação aos bombardeios dos EUA e outras notícias do Oriente Médio",
+      "titleOriginal": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "publishedAt": "2026-09-04T02:38:00.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "Forças armadas dos EUA investigam ataque mortal durante um casamento no Irã",
+      "title": "Forças armadas dos EUA investigam ataque mortal a um casamento iraniano",
       "titleOriginal": "U.S. military reviewing deadly strike on Iranian wedding",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
-      "publishedAt": "2026-09-04T02:14:43.000Z"
+      "publishedAt": "2026-09-04T02:29:23.000Z"
     },
     {
       "source": "New York Times",
@@ -53,14 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Relatório do departamento conclui que o ex-secretário do Trabalho fomentou a disfunção e a toxicidade",
+      "title": "Relatório do Ministério aponta que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
       "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
       "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
       "publishedAt": "2026-09-04T01:52:50.000Z"
     },
     {
       "source": "AP News",
-      "title": "Musk lança serviço de táxi sem volante, apostando que os passageiros deixem de lado o medo de “não ter controle” e entrem no veículo",
+      "title": "Musk lança serviço de táxi sem volante, apostando que os passageiros deixem de lado o medo de “perder o controle” e entrem no veículo",
       "titleOriginal": "Musk launches steering-wheel-free taxi service in bet riders lose 'no control' fears and hop inside",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU13a2R4d2xXRjFlaF9hVk44UGpLWHlHMVBvZzVZOUxiMUVsTzRVa1NxUGNLZkFrU2k0eVpZbi1ieUg2YWdLclVONnlJSk5yalYyYURpLUUwZl80UmdEZkJXRTdmTXNfSEJadmdUS040ZG1tOEIzbWRQdWV3ZWdyemE3NmhIOHIwMk9lVnhrbHBLUUpkdzVoSEFZYVZKYm80TTNyWg?oc=5",
       "publishedAt": "2026-09-04T01:42:00.000Z"
