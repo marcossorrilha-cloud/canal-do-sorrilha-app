@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-09-04T20:26:21.139Z",
+  "updatedAt": "2026-09-04T20:49:01.799Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: os sólidos números do mercado de trabalho de agosto colocam em dúvida o corte nas taxas; Trump assina acordo sobre a carne bovina",
+      "title": "Juiz federal levanta a questão da “nova acusação sem fundamento” em audiência sobre o espelho d’água do Lincoln Memorial",
+      "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial reflecting pool hearing",
+      "link": "https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case/",
+      "publishedAt": "2026-09-04T20:48:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
+      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
+      "publishedAt": "2026-09-04T20:47:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que os opositores do centro de dados enfrentam “pobreza, criminalidade e miséria”",
+      "titleOriginal": "Trump says data center opponents face 'poverty, crime and squalor'",
+      "link": "https://thehill.com/policy/technology/6072246-trump-ai-data-center-opponents/",
+      "publishedAt": "2026-09-04T20:32:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
+      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
+      "publishedAt": "2026-09-04T20:32:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
+      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+      "publishedAt": "2026-09-04T20:27:41.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: os sólidos números do mercado de trabalho de agosto colocam em dúvida o corte nas taxas de juros; Trump assina acordo sobre a carne bovina",
       "titleOriginal": "Live updates: August's strong jobs numbers put rate cut in doubt; Trump signs beef deal",
       "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
       "publishedAt": "2026-09-04T20:07:21.000Z"
@@ -32,45 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Democrata da Pensilvânia critica Fetterman, chamando-o de “filho de papai preguiçoso”",
+      "title": "Democrata da Pensilvânia critica Fetterman, chamando-o de “filhinho mimado e preguiçoso”",
       "titleOriginal": "Pennsylvania Democrat blasts Fetterman as 'lazy trust fund baby'",
       "link": "https://thehill.com/homenews/house/6072107-boyle-calls-fetterman-lazy/",
       "publishedAt": "2026-09-04T19:29:55.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Trump mantém um plano fracassado para as eleições de meio de mandato",
-      "titleOriginal": "Opinion | Trump Sticks With a Losing Midterm Plan",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMkZuSFFaMnd5eVotVnFhaTBtaTlhVWROZlREbUo3SXNWb0pUMW9xa3lxSk14TTMtVWhSY2UwQWMtVE9YMXNUVEVwcjFmRjVsR2g4T05TYTh6OUhNdklyMWpIMGdqZENLMDNST2UyYWhkNE5XUW9IazdnX3p1YjRhYkln?oc=5",
-      "publishedAt": "2026-09-04T19:28:41.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Drone russo ataca sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
-      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-      "publishedAt": "2026-09-04T19:05:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Publix, Walmart e outras redes de supermercados estão sendo investigadas por causa dos preços da carne bovina",
-      "titleOriginal": "Publix, Walmart, other grocers under investigation over beef prices",
-      "link": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
-      "publishedAt": "2026-09-04T19:01:28.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chavez-DeRemer, permitiu a existência de um ambiente de trabalho hostil e desviou fundos",
-      "titleOriginal": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
-      "publishedAt": "2026-09-04T18:29:16.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Cybercab da Tesla está sendo investigado por órgãos reguladores federais",
-      "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-      "publishedAt": "2026-09-04T18:07:13.000Z"
     }
   ]
 }
