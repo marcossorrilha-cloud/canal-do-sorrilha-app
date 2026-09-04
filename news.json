@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-09-04T12:54:26.158Z",
+  "updatedAt": "2026-09-04T13:27:44.011Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Um atleta paralímpico arrisca, apesar da vantagem de jogar em casa dos republicanos",
+      "titleOriginal": "A Paralympian Takes His Shot Despite Republicans’ Home Court Advantage",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
+      "publishedAt": "2026-09-04T13:21:53.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O Cybercab da Tesla está sendo investigado por órgãos reguladores federais",
+      "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+      "publishedAt": "2026-09-04T13:19:46.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Carolina do Norte deve enviar cédulas em meio à disputa sobre o voto pelo correio; agosto apresenta números sólidos de emprego",
+      "title": "Trump: Os fãs “não vão ficar contentes” com a saída de Bartiromo da Fox News",
+      "titleOriginal": "Trump: Fans 'will not be happy' Bartiromo out at Fox News",
+      "link": "https://thehill.com/homenews/administration/6071024-donald-trump-praises-maria-bartiromo-departure/",
+      "publishedAt": "2026-09-04T13:13:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A FCC pede ao tribunal que rejeite a ação movida pela Disney sobre as licenças das emissoras da ABC",
+      "titleOriginal": "FCC asks court to reject Disney lawsuit over ABC stations' licenses",
+      "link": "https://thehill.com/homenews/media/6070993-fcc-disney-abc-lawsuit-first-amendment-dei/",
+      "publishedAt": "2026-09-04T13:06:52.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A guerra de Trump contra a liberdade de expressão não afeta apenas os democratas",
+      "titleOriginal": "Trump’s war on free speech doesn’t just affect Democrats",
+      "link": "https://thehill.com/opinion/white-house/6070027-welker-fcc-complaint-consequences/",
+      "publishedAt": "2026-09-04T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Carolina do Norte deve enviar cédulas em meio à disputa sobre o voto por correspondência; agosto apresenta números sólidos de empregos",
       "titleOriginal": "Live updates: NC set to send out ballots amid mail voting fight; August posts strong jobs numbers",
       "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
       "publishedAt": "2026-09-04T12:52:18.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
+      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+      "publishedAt": "2026-09-04T12:47:09.000Z"
     },
     {
       "source": "The Hill",
@@ -17,60 +59,18 @@
       "publishedAt": "2026-09-04T12:42:59.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A Boring Co., de Musk, pede apoio aos investidores para recrutamento e ajuda nos negócios",
+      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
+      "publishedAt": "2026-09-04T12:31:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Política em grande escala: a ampla transformação política do Texas",
+      "title": "Política sem meias medidas: a ampla transformação política do Texas",
       "titleOriginal": "Whole Hog Politics: The sprawling political transformation of Texas",
       "link": "https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midterm-outlook/",
       "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Rússia deixou um fuzileiro naval dos EUA sem comida e o torturou por 4 anos — parem de tratar Putin como um aliado",
-      "titleOriginal": "Russia starved, tortured a US Marine for 4 years — stop treating Putin like an ally",
-      "link": "https://thehill.com/opinion/international/6068185-gilman-released-russia-captivity/",
-      "publishedAt": "2026-09-04T11:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A agenda digital da Europa é um presente para a China",
-      "titleOriginal": "Europe's digital agenda is a gift to China",
-      "link": "https://thehill.com/opinion/international/6070296-eu-regulation-hurts-us-ai-leadership/",
-      "publishedAt": "2026-09-04T11:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O veredicto que se aproxima sobre as alegações de Trump a respeito do Estreito de Ormuz",
-      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
-      "publishedAt": "2026-09-04T10:51:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Fetterman poderia ser o voto decisivo. Ele está demonstrando pouco interesse no cargo.",
-      "titleOriginal": "Fetterman Could Be a Swing Vote. He’s Showing Little Interest in the Job.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkdQcGU4TVZQbFo5eE9MRjZkaDBJckxpNXVkOGc4S05tRkxpZ3RlOVV5bFRQS0VTSUVVNV9TLXNKMTJXOUs2SklLSzBfUUhkdnFIWHR4aTItZkRkWEZPaHdkU2JyaWNEWUdCMU9JdXd4dE1Zb1Q4VDRQZUg5dWNZMTVhbWFTa1pmUV9qTVp6OWQxM3FoSGx4VmItNFF3WVRVNG1ZTkdlLTE5WjZldTg5UTZUTTlQeU0?oc=5",
-      "publishedAt": "2026-09-04T10:03:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas temem que o aumento do socialismo afaste os eleitores hispânicos",
-      "titleOriginal": "Democrats worry rising socialism turning off Hispanic voters",
-      "link": "https://thehill.com/homenews/campaign/6070463-democrats-hispanic-voter-socialism/",
-      "publishedAt": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas avaliam até que ponto devem ir na reforma do sistema de saúde na campanha para as eleições de meio de mandato",
-      "titleOriginal": "Democrats weigh how big to go on healthcare reform in midterm push",
-      "link": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
-      "publishedAt": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Maxwell Frost considera que a maior influência da Geração Z no Congresso é um avanço",
-      "titleOriginal": "Maxwell Frost sees greater Gen Z influence on Congress as an improvement",
-      "link": "https://thehill.com/homenews/house/6070350-frost-gen-z-congress/",
-      "publishedAt": "2026-09-04T10:00:00.000Z"
     }
   ]
 }
