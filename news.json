@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-04T00:34:10.508Z",
+  "updatedAt": "2026-09-04T00:52:52.588Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte de Maryland volta a incluir o referendo sobre o redesenho dos distritos eleitorais na cédula eleitoral de novembro",
+      "titleOriginal": "Maryland Supreme Court puts redistricting referendum back on November ballot",
+      "link": "https://thehill.com/homenews/campaign/6070660-maryland-supreme-court-redistrict-referendum-back/",
+      "publishedAt": "2026-09-04T00:43:05.000Z"
+    },
     {
       "source": "AP News",
       "title": "Agente do ICE acusado de mentir sobre tiroteio se entrega às autoridades federais, segundo fonte da AP",
@@ -10,15 +17,8 @@
       "publishedAt": "2026-09-04T00:24:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Trump recorre novamente à Suprema Corte sobre as restrições ao voto por correspondência, com as eleições de meio de mandato se aproximando",
-      "titleOriginal": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-      "publishedAt": "2026-09-04T00:20:00.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "O governo Trump alerta que os órgãos federais podem deixar de apoiar o Smithsonian",
+      "title": "O governo Trump alerta que as agências podem deixar de apoiar o Smithsonian",
       "titleOriginal": "Trump administration warns agencies could stop helping Smithsonian",
       "link": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
       "publishedAt": "2026-09-03T23:47:03.000Z"
@@ -46,21 +46,21 @@
     },
     {
       "source": "AP News",
-      "title": "A SEC processa a LSU enquanto os atletas pedem judicialmente para recuperar a elegibilidade, com a temporada esportiva universitária já em andamento",
+      "title": "A SEC processa a LSU enquanto os atletas pedem ao tribunal que lhes seja restabelecida a elegibilidade, com a temporada esportiva universitária já em andamento",
       "titleOriginal": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
       "publishedAt": "2026-09-03T22:55:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Vance se mostra “extremamente cético” em relação às notícias sobre o ataque a um casamento no Irã",
+      "title": "Vance se mostra “extremamente cético” em relação aos relatos sobre o ataque durante um casamento no Irã",
       "titleOriginal": "Vance 'extremely skeptical' of Iran wedding attack reports",
       "link": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
       "publishedAt": "2026-09-03T22:52:45.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono tentou desviar recursos do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara dos Deputados",
+      "title": "O Pentágono tentou desviar verbas do NIH para fins de defesa, afirma o principal democrata da Comissão de Apropriações da Câmara",
       "titleOriginal": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
       "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
       "publishedAt": "2026-09-03T22:48:08.000Z"
