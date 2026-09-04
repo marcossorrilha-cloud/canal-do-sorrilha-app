@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-04T04:51:08.525Z",
+  "updatedAt": "2026-09-04T05:25:55.698Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas a JD Vance",
       "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T04:24:10.000Z"
+      "publishedAt": "2026-09-04T04:17:42.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
+      "titleOriginal": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
+      "publishedAt": "2026-09-04T03:10:00.000Z"
     },
     {
       "source": "AP News",
@@ -18,14 +25,7 @@
     },
     {
       "source": "Axios",
-      "title": "Republicanos em situação vulnerável recebem um passe para a convenção no valor de US$ 25 mil",
-      "titleOriginal": "Vulnerable Republicans get a $25K convention pass",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTC1TTU0waDMwdnlRTDkwQ05zNzM3S2hUajBUM1JKMjdsLTRwSVNGUWZHaXhoUXJtb3Q2b0I1c3RBV2JXZ2c5TGZOSVVrNi03S1FtMlRiRnVHX2FsUDNGMzlkUFJKWVhvQ0RFVllVcExfOFE4aGVMcHpCWlE4YTBONkZacGIyYVVo?oc=5",
-      "publishedAt": "2026-09-04T02:17:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Forças armadas dos EUA investigam ataque mortal a um casamento iraniano",
+      "title": "Forças armadas dos EUA investigam ataque mortal durante um casamento no Irã",
       "titleOriginal": "U.S. military reviewing deadly strike on Iranian wedding",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
       "publishedAt": "2026-09-04T02:14:43.000Z"
@@ -53,14 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Relatório do departamento aponta que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
+      "title": "Relatório do departamento conclui que o ex-secretário do Trabalho fomentou a disfunção e a toxicidade",
       "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
       "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
       "publishedAt": "2026-09-04T01:52:50.000Z"
     },
     {
       "source": "AP News",
-      "title": "Musk lança serviço de táxi sem volante, na esperança de que os passageiros superem o medo de “não ter controle” e entrem no veículo",
+      "title": "Musk lança serviço de táxi sem volante, apostando que os passageiros deixem de lado o medo de “não ter controle” e entrem no veículo",
       "titleOriginal": "Musk launches steering-wheel-free taxi service in bet riders lose 'no control' fears and hop inside",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU13a2R4d2xXRjFlaF9hVk44UGpLWHlHMVBvZzVZOUxiMUVsTzRVa1NxUGNLZkFrU2k0eVpZbi1ieUg2YWdLclVONnlJSk5yalYyYURpLUUwZl80UmdEZkJXRTdmTXNfSEJadmdUS040ZG1tOEIzbWRQdWV3ZWdyemE3NmhIOHIwMk9lVnhrbHBLUUpkdzVoSEFZYVZKYm80TTNyWg?oc=5",
       "publishedAt": "2026-09-04T01:42:00.000Z"
