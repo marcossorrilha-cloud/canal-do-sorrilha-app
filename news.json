@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-09-04T19:48:57.051Z",
+  "updatedAt": "2026-09-04T20:26:21.139Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Democrata da Pensilvânia critica Fetterman, chamando-o de “filhinho rico e preguiçoso”",
+      "title": "Atualizações em tempo real: os sólidos números do mercado de trabalho de agosto colocam em dúvida o corte nas taxas; Trump assina acordo sobre a carne bovina",
+      "titleOriginal": "Live updates: August's strong jobs numbers put rate cut in doubt; Trump signs beef deal",
+      "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
+      "publishedAt": "2026-09-04T20:07:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte decide a favor do Partido Republicano na disputa sobre os valores dos anúncios de TV; Jackson apresenta voto divergente",
+      "titleOriginal": "Supreme Court sides with GOP in fight over TV ad rates; Jackson dissents",
+      "link": "https://thehill.com/regulation/court-battles/6072187-supreme-court-political-parties-tv-advertisement-rates/",
+      "publishedAt": "2026-09-04T19:56:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Governo de Trump emite intimações para obter dados eleitorais em Nevada",
+      "titleOriginal": "Trump Administration Issues Subpoenas For Voter Data in Nevada",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html",
+      "publishedAt": "2026-09-04T19:55:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Quatro deputados democratas da Câmara dos Deputados seguem para Dallas para uma programação paralela à Convenção Nacional Republicana",
+      "titleOriginal": "4 House Democrats heading to Dallas for RNC counterprogramming",
+      "link": "https://thehill.com/homenews/campaign/6072166-house-democrats-to-visit-texas/",
+      "publishedAt": "2026-09-04T19:52:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democrata da Pensilvânia critica Fetterman, chamando-o de “filho de papai preguiçoso”",
       "titleOriginal": "Pennsylvania Democrat blasts Fetterman as 'lazy trust fund baby'",
       "link": "https://thehill.com/homenews/house/6072107-boyle-calls-fetterman-lazy/",
       "publishedAt": "2026-09-04T19:29:55.000Z"
@@ -17,32 +45,25 @@
       "publishedAt": "2026-09-04T19:28:41.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
-      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
-      "publishedAt": "2026-09-04T19:01:36.000Z"
+      "source": "AP News",
+      "title": "Drone russo ataca sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
+      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "publishedAt": "2026-09-04T19:05:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Publix, Walmart e outros supermercados estão sendo investigados por causa dos preços da carne bovina",
+      "title": "Publix, Walmart e outras redes de supermercados estão sendo investigadas por causa dos preços da carne bovina",
       "titleOriginal": "Publix, Walmart, other grocers under investigation over beef prices",
       "link": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
       "publishedAt": "2026-09-04T19:01:28.000Z"
     },
     {
       "source": "AP News",
-      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chavez-DeRemer, permitiu a existência de um ambiente de trabalho hostil e desviou recursos",
+      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chavez-DeRemer, permitiu a existência de um ambiente de trabalho hostil e desviou fundos",
       "titleOriginal": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
       "publishedAt": "2026-09-04T18:29:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump assinará decreto relacionado à carne bovina após reduzir as tarifas",
-      "titleOriginal": "Watch live: Trump to sign beef-related executive order after easing tariffs",
-      "link": "https://thehill.com/video-clips/6071809-trump-beef-tariff-executive-order/",
-      "publishedAt": "2026-09-04T18:09:10.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
       "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
       "publishedAt": "2026-09-04T18:07:13.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O governo Trump amplia a fiscalização das universidades da Virgínia",
-      "titleOriginal": "Trump administration expands scrutiny of Virginia universities",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDNzLVRHS3AtUDdmYjdFRG05Mk1GV05zV0JrUkJxQzNmeHY1X1c0TzVNSUFWTEstWVQ3Z1A3cWsxa3lfOGVOQVZTdVFIcE95UHY1VVRwdEx4ZDJuOURxaXZHeGFGNkxrQ2JCbkN0dE1aMmhoQlU3NjdRYjk4amljcWZ1aktxU01sRlZHQ2NzcnhIZklTeWZB?oc=5",
-      "publishedAt": "2026-09-04T18:04:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Witkoff e Kushner visitarão a Rússia e a Ucrânia em uma tentativa de dar um novo impulso às negociações de paz",
-      "titleOriginal": "Witkoff, Kushner to visit Russia, Ukraine in effort to jump-start peace talks",
-      "link": "https://thehill.com/homenews/administration/6071900-witkoff-kushner-peace-negotiations/",
-      "publishedAt": "2026-09-04T18:00:54.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Não é viável”: com as cédulas já enviadas pelo correio, autoridades eleitorais afirmam que é tarde demais para a ordem de Trump ao USPS",
-      "titleOriginal": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
-      "link": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
-      "publishedAt": "2026-09-04T18:00:00.000Z"
     }
   ]
 }
