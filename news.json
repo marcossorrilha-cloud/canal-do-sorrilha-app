@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-04T17:24:35.073Z",
+  "updatedAt": "2026-09-04T17:49:28.430Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
+      "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
+      "publishedAt": "2026-09-04T17:36:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
+      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
+      "publishedAt": "2026-09-04T17:32:54.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Autoridades eleitorais da Carolina do Norte alteram as regras para o voto por correspondência pouco antes do envio das cédulas",
@@ -45,15 +59,8 @@
       "publishedAt": "2026-09-04T16:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
-      "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
-      "publishedAt": "2026-09-04T16:24:09.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chávez-DeRemer, permitiu a existência de um ambiente de trabalho hostil e desviou fundos",
+      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chavez-DeRemer, permitiu um ambiente de trabalho hostil e desviou fundos",
       "titleOriginal": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
       "publishedAt": "2026-09-04T16:09:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Trump threatens trade war if rates aren't cut after strong jobs report",
       "link": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
       "publishedAt": "2026-09-04T16:04:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA impõem sanções a um banco turco que consideram uma “linha de vida financeira essencial” para o Irã",
-      "titleOriginal": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
-      "publishedAt": "2026-09-04T15:35:00.000Z"
     }
   ]
 }
