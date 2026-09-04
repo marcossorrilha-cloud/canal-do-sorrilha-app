@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-04T03:50:27.573Z",
+  "updatedAt": "2026-09-04T04:27:13.839Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízos",
+      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
+      "publishedAt": "2026-09-04T03:57:04.000Z"
+    },
     {
       "source": "AP News",
       "title": "Milei, da Argentina, intensifica a disputa pelas Malvinas, aproveitando-se dos comentários de Trump e das tensões relacionadas ao petróleo",
@@ -39,17 +46,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Relatório do departamento aponta que o ex-secretário do Trabalho fomentou a disfunção e a toxicidade",
+      "title": "Relatório do ministério conclui que o ex-secretário do Trabalho fomentou a disfunção e o ambiente tóxico",
       "titleOriginal": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
       "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
       "publishedAt": "2026-09-04T01:52:50.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-04T01:27:16.000Z"
+      "source": "AP News",
+      "title": "Musk lança serviço de táxi sem volante, na esperança de que os passageiros superem o medo de “não ter controle” e entrem no veículo",
+      "titleOriginal": "Musk launches steering-wheel-free taxi service in bet riders lose 'no control' fears and hop inside",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU13a2R4d2xXRjFlaF9hVk44UGpLWHlHMVBvZzVZOUxiMUVsTzRVa1NxUGNLZkFrU2k0eVpZbi1ieUg2YWdLclVONnlJSk5yalYyYURpLUUwZl80UmdEZkJXRTdmTXNfSEJadmdUS040ZG1tOEIzbWRQdWV3ZWdyemE3NmhIOHIwMk9lVnhrbHBLUUpkdzVoSEFZYVZKYm80TTNyWg?oc=5",
+      "publishedAt": "2026-09-04T01:42:00.000Z"
     },
     {
       "source": "New York Times",
@@ -64,13 +71,6 @@
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
       "publishedAt": "2026-09-04T01:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Suprema Corte de Maryland volta a incluir o referendo sobre o redesenho dos distritos eleitorais na cédula de novembro",
-      "titleOriginal": "Maryland Supreme Court puts redistricting referendum back on November ballot",
-      "link": "https://thehill.com/homenews/campaign/6070660-maryland-supreme-court-redistrict-referendum-back/",
-      "publishedAt": "2026-09-04T00:43:05.000Z"
     }
   ]
 }
