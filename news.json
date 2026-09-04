@@ -1,27 +1,62 @@
 {
-  "updatedAt": "2026-09-04T22:49:11.749Z",
+  "updatedAt": "2026-09-04T23:23:28.136Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "A empresa Tetris denuncia a imitação do Tetris feita pela Casa Branca de Trump",
+      "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
+      "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
+      "publishedAt": "2026-09-04T23:10:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Órgão de fiscalização interna dos Correios abre inquérito após denúncia de um denunciante",
+      "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
+      "publishedAt": "2026-09-04T23:01:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
+      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
+      "publishedAt": "2026-09-04T23:01:16.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Carolina do Norte impõe novas restrições ao programa de votação por correspondência",
+      "titleOriginal": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html",
+      "publishedAt": "2026-09-04T23:00:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump considera reduzir as medidas de proteção contra a poluição da água",
+      "titleOriginal": "Trump considers narrowing water pollution protections",
+      "link": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
+      "publishedAt": "2026-09-04T22:58:05.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As últimas concessões de clemência de Trump beneficiam infratores por crimes relacionados a drogas e um líder sindical",
+      "titleOriginal": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
+      "publishedAt": "2026-09-04T22:57:34.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A empresa Tetris denuncia a versão do Tetris criada pela Casa Branca de Trump",
       "titleOriginal": "The Tetris Company Denounces Trump White House Clone of Tetris",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html",
       "publishedAt": "2026-09-04T22:35:28.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa alarme entre os democratas",
+      "title": "Acordo do Pentágono com o N.I.H. sobre biodefesa causa preocupação entre os democratas",
       "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
       "publishedAt": "2026-09-04T22:31:51.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
-      "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
-      "publishedAt": "2026-09-04T22:01:21.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "Paul Ryan: Current state of politics 'fundamentally unserious'",
       "link": "https://thehill.com/homenews/house/6072553-paul-ryan-blasts-politics-unserious/",
       "publishedAt": "2026-09-04T21:52:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump faz os primeiros comentários sobre o caso de Lindsay Clancy",
-      "titleOriginal": "Trump offers first comments on Lindsay Clancy case",
-      "link": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
-      "publishedAt": "2026-09-04T20:54:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz ordena que autoridades do governo Trump divulguem os nomes das pessoas que criaram o fundo de US$ 1,8 bilhão",
-      "titleOriginal": "Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
-      "publishedAt": "2026-09-04T20:52:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O que é preciso saber sobre a mais recente decisão judicial sobre o redesenho dos distritos eleitorais no Missouri",
-      "titleOriginal": "What to know about latest Missouri redistricting ruling",
-      "link": "https://thehill.com/homenews/state-watch/6072305-missouri-redistricting-latest-news/",
-      "publishedAt": "2026-09-04T20:50:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal levanta a questão de “nova acusação sem fundamento” em audiência sobre o Espelho D’Água do Lincoln Memorial",
-      "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial Reflecting Pool hearing",
-      "link": "https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case/",
-      "publishedAt": "2026-09-04T20:48:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
-      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
-      "publishedAt": "2026-09-04T20:47:39.000Z"
     }
   ]
 }
