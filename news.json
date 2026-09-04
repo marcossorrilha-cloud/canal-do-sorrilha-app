@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-04T22:24:56.905Z",
+  "updatedAt": "2026-09-04T22:49:11.749Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Juiz bloqueia mais uma vez as regras sobre votos por correspondência",
-      "titleOriginal": "Judge Once Again Blocks Mail-In Ballot Rules",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
-      "publishedAt": "2026-09-04T22:09:16.000Z"
+      "title": "A empresa Tetris denuncia a imitação do Tetris feita pela Casa Branca de Trump",
+      "titleOriginal": "The Tetris Company Denounces Trump White House Clone of Tetris",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html",
+      "publishedAt": "2026-09-04T22:35:28.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
-      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
-      "publishedAt": "2026-09-04T22:02:54.000Z"
+      "source": "New York Times",
+      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa alarme entre os democratas",
+      "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
+      "publishedAt": "2026-09-04T22:31:51.000Z"
     },
     {
       "source": "New York Times",
@@ -22,13 +22,6 @@
       "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
       "publishedAt": "2026-09-04T22:01:21.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A empresa Tetris denuncia a imitação do Tetris feita pela Casa Branca de Trump",
-      "titleOriginal": "The Tetris Company Denounces Trump White House Clone of Tetris",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html",
-      "publishedAt": "2026-09-04T22:00:11.000Z"
     },
     {
       "source": "New York Times",
@@ -45,18 +38,18 @@
       "publishedAt": "2026-09-04T21:52:30.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Funcionários do Departamento de Justiça foram orientados a suspender o trabalho antitruste com o governo canadense",
-      "titleOriginal": "Exclusive | DOJ Staff Were Told to Pause Antitrust Work With Canadian Government",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHF6VmV6WXBmWG9zdEhpeTk4MzlaSHgyX085NFZERWQ5Si1VSjk2ZVNiWU04d2FKc0hkZFd5OHNiZXJhRy1GajlqUVdQNWJKUjNuRS1RMWFpTFlvNTdDTnVoVDlFMUFucnJRZVh6R0lZekZrX3BPaERRM0EybmJ6ZVBLUWRnWF85cjlibDFZRlJ0ODVvMDNGU1FKSmZOX0pKakUtbHlSOTVORnNwQVROTlJmRHY?oc=5",
-      "publishedAt": "2026-09-04T21:21:47.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Trump faz seus primeiros comentários sobre o caso de Lindsay Clancy",
+      "title": "Trump faz os primeiros comentários sobre o caso de Lindsay Clancy",
       "titleOriginal": "Trump offers first comments on Lindsay Clancy case",
       "link": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
       "publishedAt": "2026-09-04T20:54:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Juiz ordena que autoridades do governo Trump divulguem os nomes das pessoas que criaram o fundo de US$ 1,8 bilhão",
+      "titleOriginal": "Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
+      "publishedAt": "2026-09-04T20:52:39.000Z"
     },
     {
       "source": "The Hill",
@@ -67,10 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal levanta a questão da “nova acusação sem fundamento” na audiência sobre o Espelho D'Água do Lincoln Memorial",
+      "title": "Juiz federal levanta a questão de “nova acusação sem fundamento” em audiência sobre o Espelho D’Água do Lincoln Memorial",
       "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial Reflecting Pool hearing",
       "link": "https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case/",
       "publishedAt": "2026-09-04T20:48:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
+      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
+      "publishedAt": "2026-09-04T20:47:39.000Z"
     }
   ]
 }
