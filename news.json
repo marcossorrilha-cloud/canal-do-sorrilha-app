@@ -1,24 +1,31 @@
 {
-  "updatedAt": "2026-09-04T12:33:06.274Z",
+  "updatedAt": "2026-09-04T12:54:26.158Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Política sem meias medidas: a ampla transformação política do Texas",
+      "title": "Atualizações em tempo real: Carolina do Norte deve enviar cédulas em meio à disputa sobre o voto pelo correio; agosto apresenta números sólidos de emprego",
+      "titleOriginal": "Live updates: NC set to send out ballots amid mail voting fight; August posts strong jobs numbers",
+      "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
+      "publishedAt": "2026-09-04T12:52:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance e El-Sayed resistem aos apelos para se distanciarem de amigos polêmicos: debate ao vivo",
+      "titleOriginal": "Vance, El-Sayed resist calls to disavow controversial friends: Live discussion",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6070985-vance-el-sayed-controversial-friends-discussion/",
+      "publishedAt": "2026-09-04T12:42:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Política em grande escala: a ampla transformação política do Texas",
       "titleOriginal": "Whole Hog Politics: The sprawling political transformation of Texas",
       "link": "https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midterm-outlook/",
       "publishedAt": "2026-09-04T12:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A hora da verdade na disputa sobre o voto por correspondência",
-      "titleOriginal": "Rubber meets the road in mail-in ballot fight",
-      "link": "https://thehill.com/newsletters/morning-report/6070939-donald-trump-mail-in-voting-court-battle/",
-      "publishedAt": "2026-09-04T11:42:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Rússia deixou um fuzileiro naval americano à beira da inanição e o torturou por 4 anos — parem de tratar Putin como um aliado",
+      "title": "A Rússia deixou um fuzileiro naval dos EUA sem comida e o torturou por 4 anos — parem de tratar Putin como um aliado",
       "titleOriginal": "Russia starved, tortured a US Marine for 4 years — stop treating Putin like an ally",
       "link": "https://thehill.com/opinion/international/6068185-gilman-released-russia-captivity/",
       "publishedAt": "2026-09-04T11:30:00.000Z"
@@ -31,8 +38,15 @@
       "publishedAt": "2026-09-04T11:00:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O veredicto que se aproxima sobre as alegações de Trump a respeito do Estreito de Ormuz",
+      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
+      "publishedAt": "2026-09-04T10:51:06.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Fetterman poderia ser o voto decisivo. Ele, porém, tem demonstrado pouco interesse no cargo.",
+      "title": "Fetterman poderia ser o voto decisivo. Ele está demonstrando pouco interesse no cargo.",
       "titleOriginal": "Fetterman Could Be a Swing Vote. He’s Showing Little Interest in the Job.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkdQcGU4TVZQbFo5eE9MRjZkaDBJckxpNXVkOGc4S05tRkxpZ3RlOVV5bFRQS0VTSUVVNV9TLXNKMTJXOUs2SklLSzBfUUhkdnFIWHR4aTItZkRkWEZPaHdkU2JyaWNEWUdCMU9JdXd4dE1Zb1Q4VDRQZUg5dWNZMTVhbWFTa1pmUV9qTVp6OWQxM3FoSGx4VmItNFF3WVRVNG1ZTkdlLTE5WjZldTg5UTZUTTlQeU0?oc=5",
       "publishedAt": "2026-09-04T10:03:00.000Z"
@@ -46,31 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Democratas avaliam até que ponto devem avançar na reforma da saúde na campanha para as eleições de meio de mandato",
+      "title": "Democratas avaliam até que ponto devem ir na reforma do sistema de saúde na campanha para as eleições de meio de mandato",
       "titleOriginal": "Democrats weigh how big to go on healthcare reform in midterm push",
       "link": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
       "publishedAt": "2026-09-04T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Maxwell Frost considera a maior influência da Geração Z no Congresso uma evolução positiva",
+      "title": "Maxwell Frost considera que a maior influência da Geração Z no Congresso é um avanço",
       "titleOriginal": "Maxwell Frost sees greater Gen Z influence on Congress as an improvement",
       "link": "https://thehill.com/homenews/house/6070350-frost-gen-z-congress/",
       "publishedAt": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O gigantesco fundo de petróleo da Noruega propõe a venda de cerca de US$ 80 bilhões em títulos do Tesouro dos EUA",
-      "titleOriginal": "Norway’s Massive Oil Fund Proposes Selling Roughly $80 Billion in U.S. Treasurys",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmNpU0JlUXNVTGRwV3RTY1ZLVHdYMDhxSVNkbTRwZFl3ak9HM2pGODJGNy0yenR4SWJ2dTJfS2ZEVU9kaDBsLXdTQ3dFT1U4V2psTWxUaXZQUGw4YWtPc0Z1bVlXM1F2TDA4RmVsaERCbU1uc3k3Um51cllMRDVGczhHb0tWQjh3R0N3WmNGY1F6eVBldnFFTU5sNTFWRzFycWp6NkFKaw?oc=5",
-      "publishedAt": "2026-09-04T09:40:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O veredicto que está por vir sobre a estratégia de Trump para o Estreito de Ormuz",
-      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz strategy",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
-      "publishedAt": "2026-09-04T09:34:53.000Z"
     }
   ]
 }
