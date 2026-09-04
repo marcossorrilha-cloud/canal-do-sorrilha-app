@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:27:01.887Z",
+  "updatedAt": "2026-09-04T07:51:24.730Z",
   "count": 10,
   "items": [
     {
@@ -39,6 +39,13 @@
     },
     {
       "source": "AP News",
+      "title": "As cédulas eleitorais para o pleito de meio de mandato começam a ser enviadas aos eleitores, enquanto a ação judicial contra a ordem de Trump gera incerteza",
+      "titleOriginal": "Midterm mail ballots start to go to voters as litigation over Trump’s order creates uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzVmckhKZThpMXNNRm9Tb1B2aFQ4Y1ppa2JaWGxGYTBrbnJPTVFRMTV5aUxYWmdIUF9BNFhpR1hXLVNqc3JkYmVIZEhOM1dtRndyZnZyRW5hZGl3amtYZ05Fc29XTkFxRHRNdUFWSXNQNTkzRXRqMU1xM29MV2NVeDlfbmpqMzRSSDdNd3MzcVBKdThKRUlPZlUzMFJxTVhTUVE?oc=5",
+      "publishedAt": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Exclusivo da AP: Advogado da Igreja Zion da China busca ajuda para reassentamento durante escala em Taiwan",
       "titleOriginal": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
@@ -52,13 +59,6 @@
       "publishedAt": "2026-09-04T02:38:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Forças armadas dos EUA investigam ataque mortal contra um casamento iraniano",
-      "titleOriginal": "U.S. military reviewing deadly strike on Iranian wedding",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
-      "publishedAt": "2026-09-04T02:29:23.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Juiz encerra supervisão federal sobre o sindicato Teamsters",
       "titleOriginal": "Judge Ends Federal Oversight of Teamsters",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-04T02:09:06.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os eleitores do Missouri decidirão sobre o novo mapa eleitoral para o Congresso em novembro",
-      "titleOriginal": "Missouri voters to decide new congressional map in November",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3hYRTY4ZG9tZlJRc0RtN1NTSjNuY0RWVnBtRmJnVHJEOUluQTlRMHlJWlJ0eUZBajZzcmpLdnNkbFRVSl94UzYxcW5Bc0JnVVhBVExHeFNNSlBNU3dBSXR5R2lrajN3aGlkdlZrVU0tOE5PZ1VYX25oZng4SS1sOE9lS21Fa2FkQlNCdGJKVjhSbG1jLU4zeWNZcUFvR193dGVNcg?oc=5",
-      "publishedAt": "2026-09-04T02:00:04.000Z"
+      "source": "Wall Street Journal",
+      "title": "O próximo objetivo da Ucrânia é fechar o espaço aéreo comercial da Rússia",
+      "titleOriginal": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjNpQ1RJbVVqb2p4ODhrZ1dlVzRiQjVsV3czM1B1WXVKZ296clktVUtlSVZPYWwyZFpvd3B6WnY4RWVUczZ3eVlSN3NCMGliRkNjYmpCSlpwRF8wV3BMb1FnOTIxUG1OSE5OTzNjUlE3dkp2aGk3ZWhJZUJRZkJkc0ZTVXB2Vkg3VHFfTnVxRHo0WHVwejh3SGdKT3YyUQ?oc=5",
+      "publishedAt": "2026-09-04T02:00:00.000Z"
     }
   ]
 }
