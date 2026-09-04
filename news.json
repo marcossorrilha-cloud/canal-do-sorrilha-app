@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-04T17:49:28.430Z",
+  "updatedAt": "2026-09-04T18:27:55.200Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump assinará decreto relacionado à carne bovina após reduzir as tarifas",
+      "titleOriginal": "Watch live: Trump to sign beef-related executive order after easing tariffs",
+      "link": "https://thehill.com/video-clips/6071809-trump-beef-tariff-executive-order/",
+      "publishedAt": "2026-09-04T18:09:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O “Cybercab” da Tesla está sendo investigado por órgãos reguladores federais",
+      "titleOriginal": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+      "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+      "publishedAt": "2026-09-04T18:07:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O governo Trump amplia a fiscalização das universidades da Virgínia",
+      "titleOriginal": "Trump administration expands scrutiny of Virginia universities",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDNzLVRHS3AtUDdmYjdFRG05Mk1GV05zV0JrUkJxQzNmeHY1X1c0TzVNSUFWTEstWVQ3Z1A3cWsxa3lfOGVOQVZTdVFIcE95UHY1VVRwdEx4ZDJuOURxaXZHeGFGNkxrQ2JCbkN0dE1aMmhoQlU3NjdRYjk4amljcWZ1aktxU01sRlZHQ2NzcnhIZklTeWZB?oc=5",
+      "publishedAt": "2026-09-04T18:04:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Witkoff e Kushner visitarão a Rússia e a Ucrânia em uma tentativa de dar um novo impulso às negociações de paz",
+      "titleOriginal": "Witkoff, Kushner to visit Russia, Ukraine in effort to jump-start peace talks",
+      "link": "https://thehill.com/homenews/administration/6071900-witkoff-kushner-peace-negotiations/",
+      "publishedAt": "2026-09-04T18:00:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Governo Trump elabora plano para o Oriente Médio pós-guerra",
+      "titleOriginal": "Scoop: Trump administration drafting post-war Middle East plan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hdUhWdGhYZmc4VEFuZ2VPdXlVd2pnVDZabV9FcEdBQllQTjMzdUV5dXdkMlFPdGtrSklkSGxmNk9vMlVSLUx2TWxjc3h3U1NJUWhnc1RIM2ZvVzRQUjdwRVc5bVJQVDZoYThUR3EtUG82OFBOLVA3QXl1RFNMZw?oc=5",
+      "publishedAt": "2026-09-04T17:54:13.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
@@ -25,52 +60,17 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "Democratas atacam Fetterman após reportagem do WSJ",
+      "titleOriginal": "Democrats Assail Fetterman After WSJ Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXdvc0hHbGlmVG1TcW5hV2F6T3VyM1hMQ3pXSnNOUTdOUjgxWHd5UktYMG5xOEVaMF9GbGJFRWM5SjM1STBZR3dhRU5ockNraWp5WU5rQ0xPTmN5TnlSYmZGOUd0WklsYXo0cFZZdmJLaHdVYzNTeHYwTGlEc3lhY0I1NEZlZ2g4?oc=5",
+      "publishedAt": "2026-09-04T17:16:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
       "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
       "publishedAt": "2026-09-04T17:01:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Kushner e Witkoff viajarão para a Rússia e a Ucrânia para retomar as negociações de paz",
-      "titleOriginal": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
-      "publishedAt": "2026-09-04T16:51:14.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Drone russo atinge sede do serviço de segurança da Ucrânia, enquanto se aguardam negociações dos EUA sobre a guerra",
-      "titleOriginal": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-      "publishedAt": "2026-09-04T16:49:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
-      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
-      "publishedAt": "2026-09-04T16:45:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Venezuela é o modelo do que Washington exigirá do Irã",
-      "titleOriginal": "Venezuela is the blueprint for what Washington will demand from Iran",
-      "link": "https://thehill.com/opinion/international/6069947-venezuela-iran-oil-strategy/",
-      "publishedAt": "2026-09-04T16:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Relatório de órgão de fiscalização: a ex-secretária do Trabalho, Chavez-DeRemer, permitiu um ambiente de trabalho hostil e desviou fundos",
-      "titleOriginal": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
-      "publishedAt": "2026-09-04T16:09:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após um relatório positivo sobre o mercado de trabalho",
-      "titleOriginal": "Trump threatens trade war if rates aren't cut after strong jobs report",
-      "link": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
-      "publishedAt": "2026-09-04T16:04:46.000Z"
     }
   ]
 }
