@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-04T15:50:54.576Z",
+  "updatedAt": "2026-09-04T16:27:56.746Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Trump mantém um plano fracassado para as eleições de meio de mandato",
-      "titleOriginal": "Opinion | Trump Sticks With a Losing Midterm Plan",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMkZuSFFaMnd5eVotVnFhaTBtaTlhVWROZlREbUo3SXNWb0pUMW9xa3lxSk14TTMtVWhSY2UwQWMtVE9YMXNUVEVwcjFmRjVsR2g4T05TYTh6OUhNdklyMWpIMGdqZENLMDNST2UyYWhkNE5XUW9IazdnX3p1YjRhYkln?oc=5",
-      "publishedAt": "2026-09-04T15:43:53.000Z"
+      "source": "New York Times",
+      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
+      "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
+      "publishedAt": "2026-09-04T16:24:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump ameaça com uma guerra comercial caso as taxas não sejam reduzidas após um relatório positivo sobre o mercado de trabalho",
+      "titleOriginal": "Trump threatens trade war if rates aren't cut after strong jobs report",
+      "link": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
+      "publishedAt": "2026-09-04T16:04:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Governo de Trump toma medidas para acelerar as aprovações de perfuração de petróleo no Alasca",
+      "titleOriginal": "Trump administration moves to fast-track oil drilling approvals in Alaska",
+      "link": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
+      "publishedAt": "2026-09-04T16:00:23.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump planeja usar jato do Catar para mais um voo internacional, apesar das preocupações com a segurança",
+      "titleOriginal": "Trump Plans to Use Qatari Jet for Another Overseas Flight Despite Security Concerns",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
+      "publishedAt": "2026-09-04T15:47:21.000Z"
     },
     {
       "source": "New York Times",
@@ -15,13 +36,6 @@
       "titleOriginal": "Trump to Break Ground on Arch Before Getting Approval",
       "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
       "publishedAt": "2026-09-04T15:32:55.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O veredicto que está por vir sobre as alegações de Trump a respeito do Estreito de Ormuz",
-      "titleOriginal": "The coming verdict on Trump's Strait of Hormuz claims",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQ25Bb0ROcGhfY3REMUhPUEVBeG14NlpoYW1UblBvSGlfc0FGMEZ5VVVnQ2N4aDkyM0pURFNsQlhqcE1TZ0hoaHhLVkxCLXAzeTlFcUNDRWRzVUZMMzVaQkxmdjNoYVZFazU2RmdobVI0Mm5ZbTZ3?oc=5",
-      "publishedAt": "2026-09-04T15:31:42.000Z"
     },
     {
       "source": "The Hill",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-09-04T15:21:09.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
-      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
-      "publishedAt": "2026-09-04T15:01:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A guerra contra as mulheres está acontecendo em um galpão, não na Assembleia Legislativa",
-      "titleOriginal": "The war on women is happening in a warehouse, not in the statehouse",
-      "link": "https://thehill.com/opinion/civil-rights/6069672-eeoc-policy-threatens-working-women/",
-      "publishedAt": "2026-09-04T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-podcaster é acusado de ameaças de morte contra Trump",
-      "titleOriginal": "Former podcaster charged for death threats against Trump",
-      "link": "https://thehill.com/homenews/administration/6071430-benjamin-southworth-arrested-trump/",
-      "publishedAt": "2026-09-04T14:57:10.000Z"
+      "source": "New York Times",
+      "title": "Carolina do Norte se prepara para enviar as primeiras cédulas eleitorais do outono, enquanto Trump tenta restringir esse processo",
+      "titleOriginal": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html",
+      "publishedAt": "2026-09-04T15:16:35.000Z"
     }
   ]
 }
