@@ -1,11 +1,32 @@
 {
-  "updatedAt": "2026-09-04T20:49:01.799Z",
+  "updatedAt": "2026-09-04T21:25:40.215Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Kushner e Witkoff viajarão para a Rússia e a Ucrânia para retomar as negociações de paz",
+      "titleOriginal": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
+      "publishedAt": "2026-09-04T21:19:21.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Juiz federal levanta a questão da “nova acusação sem fundamento” em audiência sobre o espelho d’água do Lincoln Memorial",
-      "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial reflecting pool hearing",
+      "title": "Trump faz seus primeiros comentários sobre o caso de Lindsay Clancy",
+      "titleOriginal": "Trump offers first comments on Lindsay Clancy case",
+      "link": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
+      "publishedAt": "2026-09-04T20:54:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que é preciso saber sobre a mais recente decisão judicial sobre o redesenho dos distritos eleitorais no Missouri",
+      "titleOriginal": "What to know about latest Missouri redistricting ruling",
+      "link": "https://thehill.com/homenews/state-watch/6072305-missouri-redistricting-latest-news/",
+      "publishedAt": "2026-09-04T20:50:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz federal levanta a questão de “novo processo sem fundamento” em audiência sobre o Espelho D'água do Lincoln Memorial",
+      "titleOriginal": "Federal judge raises 'meritless re-prosecution' in Lincoln Memorial Reflecting Pool hearing",
       "link": "https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case/",
       "publishedAt": "2026-09-04T20:48:30.000Z"
     },
@@ -17,8 +38,15 @@
       "publishedAt": "2026-09-04T20:47:39.000Z"
     },
     {
+      "source": "New York Times",
+      "title": "Ex-assessores de John Fetterman ameaçam divulgar mensagens internas do senador",
+      "titleOriginal": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/john-fetterman-former-staff.html",
+      "publishedAt": "2026-09-04T20:35:11.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump afirma que os opositores do centro de dados enfrentam “pobreza, criminalidade e miséria”",
+      "title": "Trump afirma que os opositores ao centro de dados enfrentam “pobreza, criminalidade e miséria”",
       "titleOriginal": "Trump says data center opponents face 'poverty, crime and squalor'",
       "link": "https://thehill.com/policy/technology/6072246-trump-ai-data-center-opponents/",
       "publishedAt": "2026-09-04T20:32:58.000Z"
@@ -38,39 +66,11 @@
       "publishedAt": "2026-09-04T20:27:41.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: os sólidos números do mercado de trabalho de agosto colocam em dúvida o corte nas taxas de juros; Trump assina acordo sobre a carne bovina",
-      "titleOriginal": "Live updates: August's strong jobs numbers put rate cut in doubt; Trump signs beef deal",
-      "link": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
-      "publishedAt": "2026-09-04T20:07:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Suprema Corte decide a favor do Partido Republicano na disputa sobre os valores dos anúncios de TV; Jackson apresenta voto divergente",
-      "titleOriginal": "Supreme Court sides with GOP in fight over TV ad rates; Jackson dissents",
-      "link": "https://thehill.com/regulation/court-battles/6072187-supreme-court-political-parties-tv-advertisement-rates/",
-      "publishedAt": "2026-09-04T19:56:57.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo de Trump emite intimações para obter dados eleitorais em Nevada",
-      "titleOriginal": "Trump Administration Issues Subpoenas For Voter Data in Nevada",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html",
-      "publishedAt": "2026-09-04T19:55:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quatro deputados democratas da Câmara dos Deputados seguem para Dallas para uma programação paralela à Convenção Nacional Republicana",
-      "titleOriginal": "4 House Democrats heading to Dallas for RNC counterprogramming",
-      "link": "https://thehill.com/homenews/campaign/6072166-house-democrats-to-visit-texas/",
-      "publishedAt": "2026-09-04T19:52:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democrata da Pensilvânia critica Fetterman, chamando-o de “filhinho mimado e preguiçoso”",
-      "titleOriginal": "Pennsylvania Democrat blasts Fetterman as 'lazy trust fund baby'",
-      "link": "https://thehill.com/homenews/house/6072107-boyle-calls-fetterman-lazy/",
-      "publishedAt": "2026-09-04T19:29:55.000Z"
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Funcionários do Departamento de Justiça foram orientados a suspender o trabalho antitruste com o governo canadense",
+      "titleOriginal": "Exclusive | DOJ Staff Were Told to Pause Antitrust Work With Canadian Government",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHF6VmV6WXBmWG9zdEhpeTk4MzlaSHgyX085NFZERWQ5Si1VSjk2ZVNiWU04d2FKc0hkZFd5OHNiZXJhRy1GajlqUVdQNWJKUjNuRS1RMWFpTFlvNTdDTnVoVDlFMUFucnJRZVh6R0lZekZrX3BPaERRM0EybmJ6ZVBLUWRnWF85cjlibDFZRlJ0ODVvMDNGU1FKSmZOX0pKakUtbHlSOTVORnNwQVROTlJmRHY?oc=5",
+      "publishedAt": "2026-09-04T20:11:00.000Z"
     }
   ]
 }
