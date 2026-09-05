@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-05T10:24:49.396Z",
+  "updatedAt": "2026-09-05T10:49:00.621Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
-      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
-      "publishedAt": "2026-09-05T10:02:55.000Z"
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T10:47:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas veem na aposta de Trump nos centros de dados um trunfo para as eleições de meio de mandato",
+      "titleOriginal": "Democrats see midterm gift in Trump embrace of data centers",
+      "link": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
+      "publishedAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A escolha de Hegseth enfrenta concorrência na busca pelo novo secretário do Exército",
+      "titleOriginal": "Hegseth’s pick faces competition in search for new Army secretary",
+      "link": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
+      "publishedAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas buscam contrariar a convenção “Trump-a-palooza” do Comitê Nacional Republicano (RNC) em Dallas",
+      "titleOriginal": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
+      "link": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
+      "publishedAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Homens mascarados bloqueiam o tráfego no porto de Dover, no Reino Unido, local onde já ocorreram protestos contra os imigrantes",
+      "titleOriginal": "Masked men block traffic to UK’s port of Dover, site of past anti-immigrant protests",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
+      "publishedAt": "2026-09-05T09:11:00.000Z"
     },
     {
       "source": "New York Times",
@@ -18,17 +46,24 @@
     },
     {
       "source": "New York Times",
-      "title": "Uma retrospectiva do verão marcado pelo movimento MAGA na Washington de Trump",
+      "title": "Uma retrospectiva do verão marcado pelo forte movimento MAGA na Washington de Trump",
       "titleOriginal": "Looking Back on the Summer of High MAGA in Trump's Washington",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/looking-back-on-the-summer-of-high-maga-in-trumps-washington.html",
       "publishedAt": "2026-09-05T09:03:01.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O que a guerra no Irã custou a uma família com a “Estrela de Ouro”",
+      "title": "O que a guerra no Irã custou a uma família “Gold Star”",
       "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
       "publishedAt": "2026-09-05T09:02:53.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, viajarão para Moscou e Kiev neste fim de semana",
+      "titleOriginal": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+      "publishedAt": "2026-09-05T06:47:11.000Z"
     },
     {
       "source": "AP News",
@@ -36,41 +71,6 @@
       "titleOriginal": "LSU leaves former pros Wright, Harris off opening-day roster, AP source says",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnFPOE9YUklOV25yZjZWZTk0X25zQlZ1UGk5TFlJX1MzWnN6ZVBRc0NsdnlydWk1UFBhQ2VtTThuLTNxOXB1UjZPa3lvdHp3SzQ3YXBnTENha3EteWRlRjFuVDV1dzRJa3JUdVB4S21KemctUWN4YmEzeGRvYUtOeDRxV21JWkJNT2g1XzBDWjg?oc=5",
       "publishedAt": "2026-09-05T04:49:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Governo de Trump elabora plano para o Oriente Médio pós-guerra",
-      "titleOriginal": "Scoop: Trump administration drafting post-war Middle East plan",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hdUhWdGhYZmc4VEFuZ2VPdXlVd2pnVDZabV9FcEdBQllQTjMzdUV5dXdkMlFPdGtrSklkSGxmNk9vMlVSLUx2TWxjc3h3U1NJUWhnc1RIM2ZvVzRQUjdwRVc5bVJQVDZoYThUR3EtUG82OFBOLVA3QXl1RFNMZw?oc=5",
-      "publishedAt": "2026-09-05T03:06:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
-      "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
-      "publishedAt": "2026-09-05T02:10:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Em grande operação para localizar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
-      "titleOriginal": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
-      "publishedAt": "2026-09-05T02:08:40.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Agente do ICE acusado de tiroteio em Minnesota é libertado sob fiança",
-      "titleOriginal": "ICE officer charged in Minnesota shooting released on bond",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
-      "publishedAt": "2026-09-05T01:33:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Tetris alega que o jogo “Build the Wall” da Casa Branca viola direitos autorais",
-      "titleOriginal": "Tetris suggests White House 'Build the Wall' game infringes copyright",
-      "link": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
-      "publishedAt": "2026-09-05T01:24:24.000Z"
     }
   ]
 }
