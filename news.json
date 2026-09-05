@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-09-05T20:49:02.434Z",
+  "updatedAt": "2026-09-05T21:24:26.154Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-05T21:01:32.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Republicano do Texas: “Não tenho nem um pingo de simpatia pela Lindsay Clancy”",
+      "title": "Trump enfrenta reação negativa em relação à carne bovina. Será que o plano de importação dará certo?",
+      "titleOriginal": "Trump faces down beef backlash. Will import plan pay off?",
+      "link": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
+      "publishedAt": "2026-09-05T21:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump recorre ao seu enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
+      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
+      "publishedAt": "2026-09-05T20:58:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicano do Texas: “Não tenho nem um pingo de simpatia por Lindsay Clancy”",
       "titleOriginal": "Texas Republican: 'I don't have an ounce of sympathy for Lindsay Clancy'",
       "link": "https://thehill.com/homenews/house/6073377-gill-rejects-clancy-defense/",
       "publishedAt": "2026-09-05T20:27:18.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os EUA atacam três petroleiros iranianos após afirmarem que navios de guerra foram alvo de mísseis balísticos",
+      "title": "Putin se reúne com enviados dos EUA no Kremlin para retomar as negociações sobre o fim da guerra na Ucrânia",
+      "titleOriginal": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+      "publishedAt": "2026-09-05T20:19:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA atacam três petroleiros iranianos após alegarem que navios de guerra foram alvo de mísseis balísticos",
       "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
       "publishedAt": "2026-09-05T20:12:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Autoridades do governo Trump elaboram plano para remunerar pais que ficam em casa, utilizando recursos destinados aos que trabalham",
-      "titleOriginal": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
-      "link": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html",
-      "publishedAt": "2026-09-05T19:58:57.000Z"
+      "source": "Wall Street Journal",
+      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
+      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
+      "publishedAt": "2026-09-05T20:06:14.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-09-05T19:06:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Putin se reúne com enviados dos EUA no Kremlin para retomar as negociações sobre o fim da guerra na Ucrânia",
-      "titleOriginal": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-      "publishedAt": "2026-09-05T18:32:00.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "O que a guerra no Irã custou a uma família “Gold Star”",
       "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
       "publishedAt": "2026-09-05T18:27:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os apostadores estão assediando atletas universitários. É hora de o Congresso agir.",
-      "titleOriginal": "Bettors are harassing college athletes. It's time for Congress to act.",
-      "link": "https://thehill.com/opinion/congress-blog/6072042-congress-sports-betting-legislation/",
-      "publishedAt": "2026-09-05T18:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Kennedy Center reitera o apelo por uma paralisação apoiada por Trump após o desabamento de parte do teto",
-      "titleOriginal": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVNOSUFHS2NWWTVHOS0tc0dmSzJNOVBMTVU0OEhxWHUyMTFCSk9zY1kxaklub0o4bXYyQzNEcEQ0eVVmTnZzZDNaOFZENmFPZmVyTV8zbGJHT2JQQXdmdWM3dk9WYWlLRFRVTHl4RHFfS0lBYlFWUHE4aWNFM0piWGo2NGpPWWtCRXQ0NndnU0laVU1jcVpuRHY4UThPb2tsVS0ta1dueUhjMXZvakE?oc=5",
-      "publishedAt": "2026-09-05T17:54:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Homens mascarados bloqueiam as estradas de acesso ao porto de Dover, na Inglaterra, em um aparente protesto contra os imigrantes",
-      "titleOriginal": "Masked men block roads into Dover port in England in apparent anti-immigrant protest",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
-      "publishedAt": "2026-09-05T16:43:00.000Z"
     }
   ]
 }
