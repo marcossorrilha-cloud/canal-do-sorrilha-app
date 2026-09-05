@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-05T12:29:50.550Z",
+  "updatedAt": "2026-09-05T12:52:10.345Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Trump escolhe a instituição de caridade cristã errada",
+      "titleOriginal": "Opinion | Trump Picks the Wrong Christian Charity",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWs1MWI4RzNqUDBiZFFWOGs4OTZ2Y0ZIcC15cGVBUUtQRDlKME9wbjYtZFZ4UTg3UnByWE9qYTBKelJacUNzaERfdTM2NE8zMWV5NmFjZ3JlNkhkcy1zS1FLNE1HUWU4MzU2VHBDYTZJcXlDd2xxdXRsUTE2Y21ubFJB?oc=5",
+      "publishedAt": "2026-09-05T12:30:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio aos negócios",
+      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
+      "publishedAt": "2026-09-05T12:30:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump assina decreto que permite que pecuaristas matem lobos para proteger os rebanhos",
+      "titleOriginal": "Trump's signs order allowing ranchers to kill wolves to protect herds",
+      "link": "https://thehill.com/homenews/administration/6072956-gray-wolf-endangered-protections-beef-prices/",
+      "publishedAt": "2026-09-05T12:14:01.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Republicanos estão descontentes com a situação econômica",
+      "titleOriginal": "Republicans sour on the economy",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2gtNUVKdW1ydzRYVkM5OFBRTGRkdF8wYUJLR2NZYUc0NGk1cFRjTk5NSDMwZ3lEUjBNRFNKUktTY1pDc20wODdJQmpLMkF0cGpWS21Xd0Zxc0YzN0dIbFFrdjNJUFRWU1Y2MS1Ua05pQ0tJT3BzSE5CSXJ1UVBSeTM4X25LUDhj?oc=5",
+      "publishedAt": "2026-09-05T11:32:44.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-05T11:17:07.000Z"
+      "title": "Homens mascarados bloqueiam o tráfego no porto de Dover, no Reino Unido, em um aparente protesto contra os imigrantes",
+      "titleOriginal": "Masked men block traffic to UK’s port of Dover in apparent anti-immigrant protest",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
+      "publishedAt": "2026-09-05T11:10:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã acusa os EUA de terem atacado um petroleiro perto da Ilha de Kharg, além de outros acontecimentos importantes",
+      "titleOriginal": "Iran accuses the US of targeting a tanker near Kharg Island, and other key developments",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
+      "publishedAt": "2026-09-05T11:10:00.000Z"
     },
     {
       "source": "Axios",
@@ -25,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Democratas veem na aposta de Trump nos centros de dados um presente para as eleições de meio de mandato",
+      "title": "Democratas veem no apoio de Trump aos centros de dados um presente para as eleições de meio de mandato",
       "titleOriginal": "Democrats see midterm gift in Trump embrace of data centers",
       "link": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Hegseth’s pick faces competition in search for new Army secretary",
       "link": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas buscam contrariar a convenção “Trump-a-palooza” do RNC em Dallas",
-      "titleOriginal": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
-      "link": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
-      "publishedAt": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Ex-secretário do Trabalho de Trump bebia no trabalho e desviou verbas públicas: órgão fiscalizador",
-      "titleOriginal": "Trump's ex-labor secretary drank on the job, misused government funds: watchdog",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU9FaWVhSDdrWlZyVlhpX1Nmam9iWkV3RnVnWVhzMU1Pd3FsZ0tnVE9peTIyNk5FREdxVXhnbU9GOHY1V3RZVGxBYzJoWEVqZDk1X3BsbHQzQS1VOTlpb3F2dXNvOTdwTjdKRlY0a0d5d0R6X29kcUltQUZIQ212eUZrdw?oc=5",
-      "publishedAt": "2026-09-05T09:33:21.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Homens mascarados bloqueiam o tráfego no porto de Dover, no Reino Unido, local onde já ocorreram protestos contra a imigração",
-      "titleOriginal": "Masked men block traffic to UK’s port of Dover, site of past anti-immigrant protests",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
-      "publishedAt": "2026-09-05T09:11:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Pesquisas da Gallup mostram que os democratas superam os republicanos em número antes das eleições intermediárias de 2026",
-      "titleOriginal": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
-      "link": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html",
-      "publishedAt": "2026-09-05T09:03:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Uma retrospectiva do verão marcado pelo movimento MAGA na Washington de Trump",
-      "titleOriginal": "Looking Back on the Summer of High MAGA in Trump's Washington",
-      "link": "https://www.nytimes.com/2026/09/05/us/politics/looking-back-on-the-summer-of-high-maga-in-trumps-washington.html",
-      "publishedAt": "2026-09-05T09:03:01.000Z"
     }
   ]
 }
