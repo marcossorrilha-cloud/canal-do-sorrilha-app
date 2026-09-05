@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-05T04:49:15.737Z",
+  "updatedAt": "2026-09-05T05:25:00.343Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
+      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
+      "publishedAt": "2026-09-05T05:01:16.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris de fora da lista de convocados para o primeiro dia de jogos, segundo fonte da AP",
+      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris fora da escalação para o primeiro dia de temporada, segundo fonte da AP",
       "titleOriginal": "LSU leaves former pros Wright, Harris off opening-day roster, AP source says",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnFPOE9YUklOV25yZjZWZTk0X25zQlZ1UGk5TFlJX1MzWnN6ZVBRc0NsdnlydWk1UFBhQ2VtTThuLTNxOXB1UjZPa3lvdHp3SzQ3YXBnTENha3EteWRlRjFuVDV1dzRJa3JUdVB4S21KemctUWN4YmEzeGRvYUtOeDRxV21JWkJNT2g1XzBDWjg?oc=5",
       "publishedAt": "2026-09-05T04:37:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio aos negócios",
-      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
-      "publishedAt": "2026-09-05T04:24:54.000Z"
     },
     {
       "source": "New York Times",
@@ -25,17 +25,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Em grande operação para localizar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
+      "title": "Em grande operação para identificar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
       "titleOriginal": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
       "publishedAt": "2026-09-05T02:08:40.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
-      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T01:47:28.000Z"
     },
     {
       "source": "Axios",
@@ -45,11 +38,18 @@
       "publishedAt": "2026-09-05T01:36:27.000Z"
     },
     {
+      "source": "The Hill",
+      "title": "A Tetris alega que o jogo “Build the Wall” da Casa Branca viola direitos autorais",
+      "titleOriginal": "Tetris suggests White House 'Build the Wall' game infringes copyright",
+      "link": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
+      "publishedAt": "2026-09-05T01:24:24.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-05T01:31:30.000Z"
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T01:19:35.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-04T23:34:10.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Site da Casa Branca lança 5 videogames retrô de fliperama que promovem a agenda de Trump",
-      "titleOriginal": "White House website debuts 5 retro arcade video games that promote Trump’s agenda",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
-      "publishedAt": "2026-09-04T23:20:00.000Z"
+      "source": "New York Times",
+      "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
+      "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
+      "publishedAt": "2026-09-04T23:10:01.000Z"
     }
   ]
 }
