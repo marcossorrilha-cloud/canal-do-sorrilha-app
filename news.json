@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T05:25:00.343Z",
+  "updatedAt": "2026-09-05T05:49:10.362Z",
   "count": 10,
   "items": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "source": "AP News",
-      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris fora da escalação para o primeiro dia de temporada, segundo fonte da AP",
+      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris fora da lista de convocados para a estreia, segundo fonte da AP",
       "titleOriginal": "LSU leaves former pros Wright, Harris off opening-day roster, AP source says",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnFPOE9YUklOV25yZjZWZTk0X25zQlZ1UGk5TFlJX1MzWnN6ZVBRc0NsdnlydWk1UFBhQ2VtTThuLTNxOXB1UjZPa3lvdHp3SzQ3YXBnTENha3EteWRlRjFuVDV1dzRJa3JUdVB4S21KemctUWN4YmEzeGRvYUtOeDRxV21JWkJNT2g1XzBDWjg?oc=5",
       "publishedAt": "2026-09-05T04:37:00.000Z"
@@ -46,31 +46,31 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
-      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T01:19:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "O tempo já não está mais a favor do Irã na batalha dos bloqueios",
       "titleOriginal": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
-      "publishedAt": "2026-09-05T01:01:02.000Z"
+      "publishedAt": "2026-09-05T01:00:00.000Z"
     },
     {
       "source": "Axios",
       "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
       "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
-      "publishedAt": "2026-09-04T23:34:10.000Z"
+      "publishedAt": "2026-09-04T23:48:12.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
+      "title": "Trump afirma que vai destinar parte de seus recursos eleitorais aos republicanos",
       "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
       "publishedAt": "2026-09-04T23:10:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Órgão de fiscalização interna dos Correios abre inquérito após denúncia de um denunciante",
+      "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
+      "publishedAt": "2026-09-04T23:01:25.000Z"
     }
   ]
 }
