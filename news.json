@@ -1,17 +1,10 @@
 {
-  "updatedAt": "2026-09-05T03:26:04.923Z",
+  "updatedAt": "2026-09-05T03:49:28.188Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-05T03:01:30.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
+      "title": "Ex-governador de Kentucky é preso em meio a disputa por pensão alimentícia",
       "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
       "publishedAt": "2026-09-05T02:10:30.000Z"
@@ -28,7 +21,21 @@
       "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T01:24:38.000Z"
+      "publishedAt": "2026-09-05T01:45:03.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ex-secretário do Trabalho de Trump bebia no trabalho e desviou verbas, afirma órgão de fiscalização",
+      "titleOriginal": "Trump's ex-Labor secretary drank on the job, misused funds, watchdog says",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU9FaWVhSDdrWlZyVlhpX1Nmam9iWkV3RnVnWVhzMU1Pd3FsZ0tnVE9peTIyNk5FREdxVXhnbU9GOHY1V3RZVGxBYzJoWEVqZDk1X3BsbHQzQS1VOTlpb3F2dXNvOTdwTjdKRlY0a0d5d0R6X29kcUltQUZIQ212eUZrdw?oc=5",
+      "publishedAt": "2026-09-05T01:36:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-05T01:31:30.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
       "publishedAt": "2026-09-04T23:01:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump considera reduzir as medidas de proteção contra a poluição da água",
-      "titleOriginal": "Trump considers narrowing water pollution protections",
-      "link": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
-      "publishedAt": "2026-09-04T22:58:05.000Z"
     }
   ]
 }
