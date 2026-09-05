@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-04T23:48:44.750Z",
+  "updatedAt": "2026-09-05T00:35:38.341Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O Pentágono submete cerca de 50 membros do Estado-Maior Conjunto a testes de polígrafo em uma investigação ampliada sobre vazamentos",
+      "titleOriginal": "Pentagon Subjects Roughly 50 Members of the Joint Staff to Polygraph Tests in Expanded Leak Hunt",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
+      "publishedAt": "2026-09-05T00:06:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz federal recusa-se a suspender as demissões de funcionários do *Stars and Stripes*",
+      "titleOriginal": "Federal judge declines to halt firings of Stars and Stripes staffers",
+      "link": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/",
+      "publishedAt": "2026-09-05T00:00:13.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
@@ -11,14 +25,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Juiz bloqueia mais uma vez os planos do governo Trump de restringir o voto por correspondência",
+      "title": "Juiz bloqueia mais uma vez os planos do governo Trump de restringir os votos por correspondência",
       "titleOriginal": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
       "publishedAt": "2026-09-04T23:27:18.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump afirma que vai destinar parte de seus recursos para a campanha dos republicanos",
+      "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
       "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
       "publishedAt": "2026-09-04T23:10:01.000Z"
@@ -29,13 +43,6 @@
       "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
       "publishedAt": "2026-09-04T23:01:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
-      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
-      "publishedAt": "2026-09-04T23:01:16.000Z"
     },
     {
       "source": "New York Times",
@@ -53,24 +60,17 @@
     },
     {
       "source": "New York Times",
-      "title": "As últimas concessões de clemência de Trump beneficiam criminosos envolvidos em casos de drogas e um líder sindical",
+      "title": "As últimas concessões de clemência de Trump beneficiam infratores por crimes relacionados a drogas e um líder sindical",
       "titleOriginal": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
       "publishedAt": "2026-09-04T22:57:34.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump classifica o conflito com o Irã como “pequena coisa” e defende a posição de Vance de que não se trata de uma “guerra”",
+      "title": "Trump classifica o conflito com o Irã como “coisa de pouca importância” e defende a posição de Vance de que não se trata de uma “guerra”",
       "titleOriginal": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
       "publishedAt": "2026-09-04T22:52:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Acordo do Pentágono com o NIH sobre biodefesa causa preocupação entre os democratas",
-      "titleOriginal": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
-      "publishedAt": "2026-09-04T22:31:51.000Z"
     }
   ]
 }
