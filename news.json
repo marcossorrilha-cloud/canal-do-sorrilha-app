@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-05T12:52:10.345Z",
+  "updatedAt": "2026-09-05T13:24:34.333Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O governo Trump está abusando do privilégio executivo",
+      "titleOriginal": "The Trump administration is taking executive privilege too far",
+      "link": "https://thehill.com/opinion/white-house/6070129-trump-olc-executive-privilege/",
+      "publishedAt": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Putin ordena uma pausa de 72 horas nos ataques a Kiev, enquanto enviados dos EUA visitam a Rússia e a Ucrânia",
+      "titleOriginal": "Putin orders a 72-hour pause in strikes on Kyiv as US envoys visit Russia and Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+      "publishedAt": "2026-09-05T12:51:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | Trump escolhe a instituição de caridade cristã errada",
@@ -11,21 +25,21 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio aos negócios",
+      "title": "Exclusivo | A Boring Co., de Musk, pede ajuda aos investidores para recrutamento e negócios",
       "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
       "publishedAt": "2026-09-05T12:30:05.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump assina decreto que permite que pecuaristas matem lobos para proteger os rebanhos",
+      "title": "Trump assina decreto que permite que pecuaristas abatam lobos para proteger seus rebanhos",
       "titleOriginal": "Trump's signs order allowing ranchers to kill wolves to protect herds",
       "link": "https://thehill.com/homenews/administration/6072956-gray-wolf-endangered-protections-beef-prices/",
       "publishedAt": "2026-09-05T12:14:01.000Z"
     },
     {
       "source": "Axios",
-      "title": "Republicanos estão descontentes com a situação econômica",
+      "title": "Republicanos estão descontentes com a economia",
       "titleOriginal": "Republicans sour on the economy",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2gtNUVKdW1ydzRYVkM5OFBRTGRkdF8wYUJLR2NZYUc0NGk1cFRjTk5NSDMwZ3lEUjBNRFNKUktTY1pDc20wODdJQmpLMkF0cGpWS21Xd0Zxc0YzN0dIbFFrdjNJUFRWU1Y2MS1Ua05pQ0tJT3BzSE5CSXJ1UVBSeTM4X25LUDhj?oc=5",
       "publishedAt": "2026-09-05T11:32:44.000Z"
@@ -46,30 +60,16 @@
     },
     {
       "source": "Axios",
-      "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
+      "title": "Proibição da regra do governo Trump sobre o voto por correspondência é prorrogada por juiz",
       "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
       "publishedAt": "2026-09-05T10:33:22.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
-      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
-      "publishedAt": "2026-09-05T10:02:55.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Democratas veem no apoio de Trump aos centros de dados um presente para as eleições de meio de mandato",
+      "title": "Democratas veem na aposta de Trump nos centros de dados uma vantagem para as eleições de meio de mandato",
       "titleOriginal": "Democrats see midterm gift in Trump embrace of data centers",
       "link": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
-      "publishedAt": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A escolha de Hegseth enfrenta concorrência na busca pelo novo secretário do Exército",
-      "titleOriginal": "Hegseth’s pick faces competition in search for new Army secretary",
-      "link": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
     }
   ]
