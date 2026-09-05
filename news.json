@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-05T15:25:04.658Z",
+  "updatedAt": "2026-09-05T15:48:58.114Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio aos negócios",
+      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
+      "publishedAt": "2026-09-05T15:31:15.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O Missouri pede à Suprema Corte que aprove o mapa eleitoral que favorece os republicanos",
@@ -11,17 +18,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Os setores de trabalho que mais crescerão (e encolherão) na próxima década: dados federais",
+      "title": "Os setores de trabalho que mais crescerão (e os que mais declinarão) na próxima década: dados federais",
       "titleOriginal": "The fastest growing (and declining) job industries of the next decade: Federal data",
       "link": "https://thehill.com/business/economy/6061614-the-fastest-growing-and-declining-job-industries-of-the-next-decade-federal-data/",
       "publishedAt": "2026-09-05T15:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Pentágono submeteu autoridades de alto escalão a testes de polígrafo para identificar quem vazou informações: Relatos",
+      "title": "Pentágono submeteu altos funcionários a testes de polígrafo para identificar quem vazou informações: Relatos",
       "titleOriginal": "Pentagon gave polygraph tests to high-ranking officials to find leakers: Reports",
       "link": "https://thehill.com/policy/defense/6073033-pentagon-polygraph-test-officials-press-leaks/",
       "publishedAt": "2026-09-05T14:34:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os EUA lançam ataques de retaliação contra três petroleiros iranianos em resposta aos ataques contra navios de guerra da Marinha",
+      "titleOriginal": "US launches retaliatory strikes on 3 Iranian oil carriers in response to attacks against Navy warships",
+      "link": "https://thehill.com/policy/defense/6073048-us-strikes-iranian-oil-carriers-response/",
+      "publishedAt": "2026-09-05T14:29:24.000Z"
     },
     {
       "source": "Axios",
@@ -31,8 +45,15 @@
       "publishedAt": "2026-09-05T14:27:57.000Z"
     },
     {
+      "source": "AP News",
+      "title": "As Forças Armadas dos EUA atacaram três petroleiros iranianos após afirmarem que navios de guerra da Marinha haviam sido alvo de mísseis",
+      "titleOriginal": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
+      "publishedAt": "2026-09-05T14:24:00.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "\"Estamos encurralados\": o Partido Republicano aceita as eleições intermediárias egocêntricas de Trump",
+      "title": "\"Estamos encalhados\": o Partido Republicano aceita as eleições intermediárias egocêntricas de Trump",
       "titleOriginal": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNVIwZkRRWndWU2JMSTU4SU1DZmEtcnE5RXFqZEVqY1VoM2lzS1BTZ2hMV0xRNThJMGdoaXpWS0N1ZFdXaTllNElrQjFmS0lKalVxVFFmVW52eG4xd011SFdmYU5SUDJhWXRtb0JPc1JzSzQ?oc=5",
       "publishedAt": "2026-09-05T13:22:44.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "UK government condemns masked anti-immigrant protesters who blocked Dover port",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
       "publishedAt": "2026-09-05T13:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump está abusando do privilégio executivo",
-      "titleOriginal": "The Trump administration is taking executive privilege too far",
-      "link": "https://thehill.com/opinion/white-house/6070129-trump-olc-executive-privilege/",
-      "publishedAt": "2026-09-05T13:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã acusa os EUA de terem atacado um petroleiro perto da Ilha de Kharg, além de outros acontecimentos importantes no Oriente Médio",
-      "titleOriginal": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
-      "publishedAt": "2026-09-05T12:58:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Republicanos estão insatisfeitos com a situação econômica",
-      "titleOriginal": "Republicans sour on the economy",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2gtNUVKdW1ydzRYVkM5OFBRTGRkdF8wYUJLR2NZYUc0NGk1cFRjTk5NSDMwZ3lEUjBNRFNKUktTY1pDc20wODdJQmpLMkF0cGpWS21Xd0Zxc0YzN0dIbFFrdjNJUFRWU1Y2MS1Ua05pQ0tJT3BzSE5CSXJ1UVBSeTM4X25LUDhj?oc=5",
-      "publishedAt": "2026-09-05T12:53:04.000Z"
     }
   ]
 }
