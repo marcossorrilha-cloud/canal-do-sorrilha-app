@@ -1,27 +1,62 @@
 {
-  "updatedAt": "2026-09-05T11:49:06.204Z",
+  "updatedAt": "2026-09-05T12:29:50.550Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-05T11:17:07.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
+      "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
+      "publishedAt": "2026-09-05T10:33:22.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
+      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
+      "publishedAt": "2026-09-05T10:02:55.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Democratas veem na aposta de Trump nos centros de dados um trunfo para as eleições de meio de mandato",
+      "title": "Democratas veem na aposta de Trump nos centros de dados um presente para as eleições de meio de mandato",
       "titleOriginal": "Democrats see midterm gift in Trump embrace of data centers",
       "link": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A indicação de Hegseth enfrenta concorrência na busca pelo novo secretário do Exército",
+      "title": "A escolha de Hegseth enfrenta concorrência na busca pelo novo secretário do Exército",
       "titleOriginal": "Hegseth’s pick faces competition in search for new Army secretary",
       "link": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Democratas buscam fazer frente à convenção “Trump-a-palooza” do RNC em Dallas",
+      "title": "Democratas buscam contrariar a convenção “Trump-a-palooza” do RNC em Dallas",
       "titleOriginal": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
       "link": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
       "publishedAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ex-secretário do Trabalho de Trump bebia no trabalho e desviou verbas públicas: órgão fiscalizador",
+      "titleOriginal": "Trump's ex-labor secretary drank on the job, misused government funds: watchdog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU9FaWVhSDdrWlZyVlhpX1Nmam9iWkV3RnVnWVhzMU1Pd3FsZ0tnVE9peTIyNk5FREdxVXhnbU9GOHY1V3RZVGxBYzJoWEVqZDk1X3BsbHQzQS1VOTlpb3F2dXNvOTdwTjdKRlY0a0d5d0R6X29kcUltQUZIQ212eUZrdw?oc=5",
+      "publishedAt": "2026-09-05T09:33:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Homens mascarados bloqueiam o tráfego no porto de Dover, no Reino Unido, local onde já ocorreram protestos contra a imigração",
+      "titleOriginal": "Masked men block traffic to UK’s port of Dover, site of past anti-immigrant protests",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
+      "publishedAt": "2026-09-05T09:11:00.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "Looking Back on the Summer of High MAGA in Trump's Washington",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/looking-back-on-the-summer-of-high-maga-in-trumps-washington.html",
       "publishedAt": "2026-09-05T09:03:01.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que a guerra no Irã custou a uma família “Gold Star”",
-      "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
-      "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
-      "publishedAt": "2026-09-05T09:02:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Órgão fiscalizador divulga relatório contundente sobre o ex-secretário do Trabalho de Trump",
-      "titleOriginal": "Watchdog issues scathing report on Trump's former labor secretary",
-      "link": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
-      "publishedAt": "2026-09-05T03:26:39.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ex-governador do Kentucky é preso em meio a uma disputa por pensão alimentícia",
-      "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
-      "publishedAt": "2026-09-05T02:10:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Em grande operação para localizar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
-      "titleOriginal": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
-      "publishedAt": "2026-09-05T02:08:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Tetris alega que o jogo “Build the Wall” da Casa Branca viola direitos autorais",
-      "titleOriginal": "Tetris suggests White House 'Build the Wall' game infringes copyright",
-      "link": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
-      "publishedAt": "2026-09-05T01:24:24.000Z"
     }
   ]
 }
