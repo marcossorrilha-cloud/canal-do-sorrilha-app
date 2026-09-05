@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-05T13:49:07.659Z",
+  "updatedAt": "2026-09-05T14:24:45.955Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T14:22:35.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O Missouri pede à Suprema Corte que autorize o mapa eleitoral que beneficia os republicanos",
+      "title": "O Missouri pede à Suprema Corte que autorize um mapa eleitoral que favoreça os republicanos",
       "titleOriginal": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
       "publishedAt": "2026-09-05T13:40:11.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, pede ajuda aos investidores para recrutamento e negócios",
+      "title": "Exclusivo | A Boring Co. de Musk busca apoio de investidores para contratações e apoio comercial",
       "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
       "publishedAt": "2026-09-05T13:24:56.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "\"Estamos encurralados\": o Partido Republicano aceita as eleições intermediárias de Trump, que giram em torno apenas dele",
+      "titleOriginal": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNVIwZkRRWndWU2JMSTU4SU1DZmEtcnE5RXFqZEVqY1VoM2lzS1BTZ2hMV0xRNThJMGdoaXpWS0N1ZFdXaTllNElrQjFmS0lKalVxVFFmVW52eG4xd011SFdmYU5SUDJhWXRtb0JPc1JzSzQ?oc=5",
+      "publishedAt": "2026-09-05T13:22:44.000Z"
     },
     {
       "source": "AP News",
@@ -45,13 +59,6 @@
       "publishedAt": "2026-09-05T12:51:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Trump escolhe a instituição de caridade cristã errada",
-      "titleOriginal": "Opinion | Trump Picks the Wrong Christian Charity",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWs1MWI4RzNqUDBiZFFWOGs4OTZ2Y0ZIcC15cGVBUUtQRDlKME9wbjYtZFZ4UTg3UnByWE9qYTBKelJacUNzaERfdTM2NE8zMWV5NmFjZ3JlNkhkcy1zS1FLNE1HUWU4MzU2VHBDYTZJcXlDd2xxdXRsUTE2Y21ubFJB?oc=5",
-      "publishedAt": "2026-09-05T12:30:16.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Trump assina decreto que permite que pecuaristas matem lobos para proteger os rebanhos",
       "titleOriginal": "Trump's signs order allowing ranchers to kill wolves to protect herds",
@@ -64,13 +71,6 @@
       "titleOriginal": "Republicans sour on the economy",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2gtNUVKdW1ydzRYVkM5OFBRTGRkdF8wYUJLR2NZYUc0NGk1cFRjTk5NSDMwZ3lEUjBNRFNKUktTY1pDc20wODdJQmpLMkF0cGpWS21Xd0Zxc0YzN0dIbFFrdjNJUFRWU1Y2MS1Ua05pQ0tJT3BzSE5CSXJ1UVBSeTM4X25LUDhj?oc=5",
       "publishedAt": "2026-09-05T11:32:44.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Homens mascarados bloqueiam o tráfego no porto de Dover, no Reino Unido, em um aparente protesto contra os imigrantes",
-      "titleOriginal": "Masked men block traffic to UK’s port of Dover in apparent anti-immigrant protest",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
-      "publishedAt": "2026-09-05T11:10:00.000Z"
     }
   ]
 }
