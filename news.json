@@ -1,24 +1,31 @@
 {
-  "updatedAt": "2026-09-05T15:48:58.114Z",
+  "updatedAt": "2026-09-05T16:26:01.484Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio aos negócios",
-      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
-      "publishedAt": "2026-09-05T15:31:15.000Z"
+      "source": "AP News",
+      "title": "Putin e Zelenskyy concordam em suspender os ataques a Kiev e Moscou durante as negociações com os enviados dos EUA",
+      "titleOriginal": "Putin and Zelenskyy agree to pause strikes on Kyiv and Moscow during talks with US envoys",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+      "publishedAt": "2026-09-05T15:54:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "RFK Jr. reconhece que a criança da Pensilvânia morreu de sarampo e afirma que Shapiro “politizou” a morte de forma precipitada",
+      "titleOriginal": "RFK Jr. accepts PA child died of measles, says Shapiro hastily 'politicized' death",
+      "link": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
+      "publishedAt": "2026-09-05T15:48:39.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O Missouri pede à Suprema Corte que aprove o mapa eleitoral que favorece os republicanos",
+      "title": "O Missouri pede à Suprema Corte que autorize o mapa eleitoral que favorece os republicanos",
       "titleOriginal": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
       "publishedAt": "2026-09-05T15:13:16.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Os setores de trabalho que mais crescerão (e os que mais declinarão) na próxima década: dados federais",
+      "title": "Os setores de trabalho que mais crescerão (e os que mais sofrerão queda) na próxima década: dados federais",
       "titleOriginal": "The fastest growing (and declining) job industries of the next decade: Federal data",
       "link": "https://thehill.com/business/economy/6061614-the-fastest-growing-and-declining-job-industries-of-the-next-decade-federal-data/",
       "publishedAt": "2026-09-05T15:00:00.000Z"
@@ -32,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Os EUA lançam ataques de retaliação contra três petroleiros iranianos em resposta aos ataques contra navios de guerra da Marinha",
+      "title": "Os EUA lançam ataques retaliatórios contra três petroleiros iranianos em resposta aos ataques contra navios de guerra da Marinha",
       "titleOriginal": "US launches retaliatory strikes on 3 Iranian oil carriers in response to attacks against Navy warships",
       "link": "https://thehill.com/policy/defense/6073048-us-strikes-iranian-oil-carriers-response/",
       "publishedAt": "2026-09-05T14:29:24.000Z"
@@ -53,24 +60,17 @@
     },
     {
       "source": "Axios",
-      "title": "\"Estamos encalhados\": o Partido Republicano aceita as eleições intermediárias egocêntricas de Trump",
+      "title": "Ex-secretário do Trabalho de Trump bebia no trabalho e desviou verbas públicas: órgão de fiscalização",
+      "titleOriginal": "Trump's ex-labor secretary drank on the job, misused government funds: watchdog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU9FaWVhSDdrWlZyVlhpX1Nmam9iWkV3RnVnWVhzMU1Pd3FsZ0tnVE9peTIyNk5FREdxVXhnbU9GOHY1V3RZVGxBYzJoWEVqZDk1X3BsbHQzQS1VOTlpb3F2dXNvOTdwTjdKRlY0a0d5d0R6X29kcUltQUZIQ212eUZrdw?oc=5",
+      "publishedAt": "2026-09-05T13:48:40.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "\"Estamos encurralados\": o Partido Republicano aceita as eleições intermediárias de Trump, que giram em torno apenas dele mesmo",
       "titleOriginal": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNVIwZkRRWndWU2JMSTU4SU1DZmEtcnE5RXFqZEVqY1VoM2lzS1BTZ2hMV0xRNThJMGdoaXpWS0N1ZFdXaTllNElrQjFmS0lKalVxVFFmVW52eG4xd011SFdmYU5SUDJhWXRtb0JPc1JzSzQ?oc=5",
       "publishedAt": "2026-09-05T13:22:44.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
-      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "publishedAt": "2026-09-05T13:02:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Governo do Reino Unido condena manifestantes anti-imigração mascarados que bloquearam o porto de Dover",
-      "titleOriginal": "UK government condemns masked anti-immigrant protesters who blocked Dover port",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
-      "publishedAt": "2026-09-05T13:00:00.000Z"
     }
   ]
 }
