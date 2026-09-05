@@ -1,17 +1,24 @@
 {
-  "updatedAt": "2026-09-05T16:49:31.250Z",
+  "updatedAt": "2026-09-05T17:23:50.328Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio empresarial",
+      "title": "Exclusivo | A Boring Co., de Musk, busca apoio de investidores para recrutamento e apoio comercial",
       "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
       "publishedAt": "2026-09-05T16:24:56.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Como uma mulher foi apanhada na “seita” de Epstein — e conseguiu escapar",
+      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
+      "publishedAt": "2026-09-05T16:01:23.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Classificação dos candidatos democratas à presidência em 2028",
+      "title": "Classificação dos candidatos presidenciais democratas para 2028",
       "titleOriginal": "Ranking the Democratic 2028 presidential contenders",
       "link": "https://thehill.com/homenews/analysis/6071507-democrats-rank-2028-presidential-contenders/",
       "publishedAt": "2026-09-05T16:00:00.000Z"
@@ -31,46 +38,39 @@
       "publishedAt": "2026-09-05T15:54:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
-      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T15:50:59.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "RFK Jr. reconhece que a criança da Pensilvânia morreu de sarampo e afirma que Shapiro “politizou” a morte de forma precipitada",
+      "title": "RFK Jr. reconhece que criança da Pensilvânia morreu de sarampo e afirma que Shapiro “politizou” a morte de forma precipitada",
       "titleOriginal": "RFK Jr. accepts PA child died of measles, says Shapiro hastily 'politicized' death",
       "link": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
       "publishedAt": "2026-09-05T15:48:39.000Z"
     },
     {
+      "source": "AP News",
+      "title": "As Forças Armadas dos EUA atacaram três petroleiros iranianos após afirmarem que navios da Marinha haviam sido alvo de mísseis",
+      "titleOriginal": "US military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
+      "publishedAt": "2026-09-05T15:38:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O Missouri pede à Suprema Corte que autorize o mapa eleitoral que favorece os republicanos",
+      "title": "O Missouri pede à Suprema Corte que aprove o mapa eleitoral que beneficia os republicanos",
       "titleOriginal": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
       "publishedAt": "2026-09-05T15:13:16.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Os setores de trabalho que mais crescerão (e aqueles em declínio) na próxima década: dados federais",
+      "title": "Os setores de trabalho que mais crescerão (e os que mais declinarão) na próxima década: dados do governo federal",
       "titleOriginal": "The fastest growing (and declining) job industries of the next decade: Federal data",
       "link": "https://thehill.com/business/economy/6061614-the-fastest-growing-and-declining-job-industries-of-the-next-decade-federal-data/",
       "publishedAt": "2026-09-05T15:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Pentágono submeteu altos funcionários a testes de polígrafo para identificar quem vazava informações: reportagens",
+      "title": "Pentágono submeteu altos funcionários a testes de polígrafo para identificar quem vazou informações: Relatos",
       "titleOriginal": "Pentagon gave polygraph tests to high-ranking officials to find leakers: Reports",
       "link": "https://thehill.com/policy/defense/6073033-pentagon-polygraph-test-officials-press-leaks/",
       "publishedAt": "2026-09-05T14:34:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os EUA lançam ataques de retaliação contra três petroleiros iranianos em resposta aos ataques contra navios de guerra da Marinha",
-      "titleOriginal": "US launches retaliatory strikes on 3 Iranian oil carriers in response to attacks against Navy warships",
-      "link": "https://thehill.com/policy/defense/6073048-us-strikes-iranian-oil-carriers-response/",
-      "publishedAt": "2026-09-05T14:29:24.000Z"
     }
   ]
 }
