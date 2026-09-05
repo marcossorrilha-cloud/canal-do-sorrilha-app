@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T21:24:26.154Z",
+  "updatedAt": "2026-09-05T21:49:04.084Z",
   "count": 10,
   "items": [
     {
@@ -18,10 +18,17 @@
     },
     {
       "source": "Axios",
-      "title": "Trump recorre ao seu enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
+      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
       "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
       "publishedAt": "2026-09-05T20:58:36.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os enviados de Trump, Witkoff e Kushner, se reúnem com Putin para discutir o fim da guerra na Ucrânia",
+      "titleOriginal": "Trump envoys Witkoff and Kushner meet with Putin about ending the Ukraine war",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YenE2dEVHYWtBRFE5N3oxbm9OQmRYaTlWQ2pqQ1Vvb00zMlBfeERuTllJOHZIc3NHWTJlRVZQUEt5a2pZYndEamJlUnRSeDFiLWIzY3Z5T1R0UnlvbnRRd2wxV19MSXJ1WW5nWlZnYTBUWEpTTXNkTVBXTVc?oc=5",
+      "publishedAt": "2026-09-05T20:48:01.000Z"
     },
     {
       "source": "The Hill",
@@ -32,24 +39,10 @@
     },
     {
       "source": "AP News",
-      "title": "Putin se reúne com enviados dos EUA no Kremlin para retomar as negociações sobre o fim da guerra na Ucrânia",
-      "titleOriginal": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-      "publishedAt": "2026-09-05T20:19:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA atacam três petroleiros iranianos após alegarem que navios de guerra foram alvo de mísseis balísticos",
+      "title": "Os EUA atacam três petroleiros iranianos após afirmarem que navios de guerra foram alvo de mísseis balísticos",
       "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
       "publishedAt": "2026-09-05T20:12:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
-      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
-      "publishedAt": "2026-09-05T20:06:14.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -71,6 +64,13 @@
       "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
       "publishedAt": "2026-09-05T18:27:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os apostadores estão assediando atletas universitários. É hora de o Congresso agir.",
+      "titleOriginal": "Bettors are harassing college athletes. It's time for Congress to act.",
+      "link": "https://thehill.com/opinion/congress-blog/6072042-congress-sports-betting-legislation/",
+      "publishedAt": "2026-09-05T18:00:00.000Z"
     }
   ]
 }
