@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-05T00:35:38.341Z",
+  "updatedAt": "2026-09-05T00:52:59.746Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
+      "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
+      "publishedAt": "2026-09-05T00:30:29.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O Pentágono submete cerca de 50 membros do Estado-Maior Conjunto a testes de polígrafo em uma investigação ampliada sobre vazamentos",
@@ -11,7 +18,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal recusa-se a suspender as demissões de funcionários do *Stars and Stripes*",
+      "title": "Juiz federal recusa-se a suspender as demissões de funcionários do “Stars and Stripes”",
       "titleOriginal": "Federal judge declines to halt firings of Stars and Stripes staffers",
       "link": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/",
       "publishedAt": "2026-09-05T00:00:13.000Z"
@@ -22,13 +29,6 @@
       "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
       "publishedAt": "2026-09-04T23:32:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz bloqueia mais uma vez os planos do governo Trump de restringir os votos por correspondência",
-      "titleOriginal": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
-      "publishedAt": "2026-09-04T23:27:18.000Z"
     },
     {
       "source": "New York Times",
@@ -52,6 +52,13 @@
       "publishedAt": "2026-09-04T23:00:34.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
+      "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
+      "publishedAt": "2026-09-04T22:59:02.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Trump considera reduzir as medidas de proteção contra a poluição da água",
       "titleOriginal": "Trump considers narrowing water pollution protections",
@@ -64,13 +71,6 @@
       "titleOriginal": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
       "publishedAt": "2026-09-04T22:57:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump classifica o conflito com o Irã como “coisa de pouca importância” e defende a posição de Vance de que não se trata de uma “guerra”",
-      "titleOriginal": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
-      "publishedAt": "2026-09-04T22:52:00.000Z"
     }
   ]
 }

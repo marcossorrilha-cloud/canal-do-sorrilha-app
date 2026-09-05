@@ -1,52 +1,34 @@
 {
-  "updatedAt": "2026-09-04T03:26:58.000Z",
+  "updatedAt": "2026-09-05T00:53:01.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
   "asOf": "04/09/2026",
   "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 04/09/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
   "house": {
-    "dem": 84.8,
-    "rep": 15.2
+    "dem": 84.7,
+    "rep": 15.3
   },
   "senate": {
-    "dem": 42.9,
-    "rep": 57.1
+    "dem": 56.5,
+    "rep": 43.5
   },
   "states": [
-    {
-      "state": "Texas",
-      "office": "Senado",
-      "candidates": "James Talarico (D) × Ken Paxton (R)",
-      "favored": "",
-      "prob": 50,
-      "name": "",
-      "rating": "Toss-up"
-    },
     {
       "state": "Alasca",
       "office": "Senado",
       "candidates": "Mary Peltola (D) × Dan Sullivan (R)",
       "favored": "D",
-      "prob": 52,
+      "prob": 56,
       "name": "Peltola",
       "rating": "Toss-up"
     },
     {
-      "state": "Ohio",
+      "state": "Texas",
       "office": "Senado",
-      "candidates": "Sherrod Brown (D) × Jon Husted (R)",
+      "candidates": "James Talarico (D) × Ken Paxton (R)",
       "favored": "D",
       "prob": 60,
-      "name": "Brown",
-      "rating": "Lean D"
-    },
-    {
-      "state": "Maine",
-      "office": "Senado",
-      "candidates": "Troy Jackson (D) × Susan Collins (R)",
-      "favored": "D",
-      "prob": 66,
-      "name": "Jackson",
+      "name": "Talarico",
       "rating": "Lean D"
     },
     {
@@ -54,44 +36,53 @@
       "office": "Senado",
       "candidates": "Josh Turek (D) × Ashley Hinson (R)",
       "favored": "R",
-      "prob": 68,
+      "prob": 66,
       "name": "Hinson",
       "rating": "Lean R"
+    },
+    {
+      "state": "Maine",
+      "office": "Senado",
+      "candidates": "Troy Jackson (D) × Susan Collins (R)",
+      "favored": "D",
+      "prob": 68,
+      "name": "Jackson",
+      "rating": "Lean D"
+    },
+    {
+      "state": "Ohio",
+      "office": "Senado",
+      "candidates": "Sherrod Brown (D) × Jon Husted (R)",
+      "favored": "D",
+      "prob": 70,
+      "name": "Brown",
+      "rating": "Lean D"
     },
     {
       "state": "Michigan",
       "office": "Senado",
       "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)",
       "favored": "D",
-      "prob": 81,
+      "prob": 75,
       "name": "El-Sayed",
-      "rating": "Likely D"
+      "rating": "Lean D"
+    },
+    {
+      "state": "Kansas",
+      "office": "Senado",
+      "candidates": "Adam Hamilton (D) × Roger Marshall (R)",
+      "favored": "R",
+      "prob": 84,
+      "name": "Marshall",
+      "rating": "Likely R"
     },
     {
       "state": "Carolina do Norte",
       "office": "Senado",
       "candidates": "Roy Cooper (D) × Michael Whatley (R)",
       "favored": "D",
-      "prob": 83,
+      "prob": 84,
       "name": "Cooper",
-      "rating": "Likely D"
-    },
-    {
-      "state": "Flórida",
-      "office": "Senado",
-      "candidates": "Alexander Vindman (D) × Ashley Moody (R)",
-      "favored": "R",
-      "prob": 86,
-      "name": "Moody",
-      "rating": "Likely R"
-    },
-    {
-      "state": "Geórgia",
-      "office": "Senado",
-      "candidates": "Jon Ossoff (D) × Mike Collins (R)",
-      "favored": "D",
-      "prob": 90,
-      "name": "Ossoff",
       "rating": "Likely D"
     },
     {
@@ -99,7 +90,7 @@
       "office": "Senado",
       "candidates": "Dan Osborn (Ind) × Pete Ricketts (R)",
       "favored": "R",
-      "prob": 93,
+      "prob": 87,
       "name": "Ricketts",
       "rating": "Likely R"
     },
@@ -108,17 +99,44 @@
       "office": "Senado",
       "candidates": "Chris Pappas (D) × John Sununu (R)",
       "favored": "D",
-      "prob": 93,
+      "prob": 87,
       "name": "Pappas",
       "rating": "Likely D"
+    },
+    {
+      "state": "South Carolina",
+      "office": "Senado",
+      "candidates": "Annie Andrews (D) × Darline Graham (R)",
+      "favored": "R",
+      "prob": 87,
+      "name": "Graham",
+      "rating": "Likely R"
+    },
+    {
+      "state": "Flórida",
+      "office": "Senado",
+      "candidates": "Alexander Vindman (D) × Ashley Moody (R)",
+      "favored": "R",
+      "prob": 89,
+      "name": "Moody",
+      "rating": "Likely R"
     },
     {
       "state": "Minnesota",
       "office": "Senado",
       "candidates": "A definir (D × R)",
       "favored": "D",
-      "prob": 94,
+      "prob": 91,
       "name": "Democrata",
+      "rating": "Likely D"
+    },
+    {
+      "state": "Geórgia",
+      "office": "Senado",
+      "candidates": "Jon Ossoff (D) × Mike Collins (R)",
+      "favored": "D",
+      "prob": 92,
+      "name": "Ossoff",
       "rating": "Likely D"
     }
   ]
