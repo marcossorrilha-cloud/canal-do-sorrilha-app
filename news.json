@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-05T13:24:34.333Z",
+  "updatedAt": "2026-09-05T13:49:07.659Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O Missouri pede à Suprema Corte que autorize o mapa eleitoral que beneficia os republicanos",
+      "titleOriginal": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "link": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
+      "publishedAt": "2026-09-05T13:40:11.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A Boring Co., de Musk, pede ajuda aos investidores para recrutamento e negócios",
+      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
+      "publishedAt": "2026-09-05T13:24:56.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-05T13:02:48.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O governo Trump está abusando do privilégio executivo",
       "titleOriginal": "The Trump administration is taking executive privilege too far",
       "link": "https://thehill.com/opinion/white-house/6070129-trump-olc-executive-privilege/",
       "publishedAt": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã acusa os EUA de terem atacado um petroleiro perto da Ilha de Kharg, além de outros acontecimentos importantes no Oriente Médio",
+      "titleOriginal": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
+      "publishedAt": "2026-09-05T12:58:00.000Z"
     },
     {
       "source": "AP News",
@@ -24,15 +52,8 @@
       "publishedAt": "2026-09-05T12:30:16.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A Boring Co., de Musk, pede ajuda aos investidores para recrutamento e negócios",
-      "titleOriginal": "Exclusive | Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC0zNnp1ME1FekQzN0VSNXViQWZDRjB6R3dTX2hEbGJuUTRMYXVFckZmck5pTTMwbEpkVmw3ZzB3cUtHX3gxWnFNZjlscHBObmo5cEJPWDJKWlJEaDl6WDNWaUg0enBiQV9sVEVNT01OQ2NsNDNfNFZaWVc2blBjeF83SzRZbDM5T09pME92YWlQYm81a3VTakpKWQ?oc=5",
-      "publishedAt": "2026-09-05T12:30:05.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Trump assina decreto que permite que pecuaristas abatam lobos para proteger seus rebanhos",
+      "title": "Trump assina decreto que permite que pecuaristas matem lobos para proteger os rebanhos",
       "titleOriginal": "Trump's signs order allowing ranchers to kill wolves to protect herds",
       "link": "https://thehill.com/homenews/administration/6072956-gray-wolf-endangered-protections-beef-prices/",
       "publishedAt": "2026-09-05T12:14:01.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Masked men block traffic to UK’s port of Dover in apparent anti-immigrant protest",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
       "publishedAt": "2026-09-05T11:10:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã acusa os EUA de terem atacado um petroleiro perto da Ilha de Kharg, além de outros acontecimentos importantes",
-      "titleOriginal": "Iran accuses the US of targeting a tanker near Kharg Island, and other key developments",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
-      "publishedAt": "2026-09-05T11:10:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Proibição da regra do governo Trump sobre o voto por correspondência é prorrogada por juiz",
-      "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
-      "publishedAt": "2026-09-05T10:33:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas veem na aposta de Trump nos centros de dados uma vantagem para as eleições de meio de mandato",
-      "titleOriginal": "Democrats see midterm gift in Trump embrace of data centers",
-      "link": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
-      "publishedAt": "2026-09-05T10:00:00.000Z"
     }
   ]
 }
