@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-04T15:28:04.556Z",
-  "slot": "2026-09-04-PM",
+  "updatedAt": "2026-09-05T03:26:11.709Z",
+  "slot": "2026-09-05-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "ONU votará proposta africana para um novo mapa-múndi",
-      "titleOriginal": "U.N. to Vote on African Proposal for a New World Map",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDViWjRvdC04M2JBLURsS3lxWDFMVWItLWVtVHRCVzZtNFUzNDFYQmRFQTlxUWVPay00ejk2eHZwR1RlWTItMzZxVWR3bjVCa2hrbDRMSUpCYVVDVHA2SEhSQ0VoMHVvNGlnVmFIWmMwNmVkbmVQMktJNFpBWVVoNDFRYWFNbzg?oc=5",
-      "source": "New York Times",
-      "coverage": 2
+      "title": "Veteranos fazem pedido de emergência para impedir a construção do arco de Trump",
+      "titleOriginal": "Veterans make emergency request to block construction of Trump’s arch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnk3dzFlS3RwMG9OQ3RBbXlpTFpKdHUtNG5EM25NUUtNSnY1T3BYM29nb09id3AxVjRkcWRRejExUlV6cVU3aUZQUEJ6Q1VBUERxbmszc3hHOE9XaWdlMzAtcG9zOUJBWU5LQi14MjZfc19Yc25aQmM2LWQyYk8xM29MdDJnZUhZMWUydENicVYzbFZBSmFtdE0wWGh6d1ZEZ2JRcUdBUXdlUEl0a3FBMzhncUk?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Vance defende sua amizade com Tucker Carlson, crítico de Trump",
-      "titleOriginal": "Vance Defends Friendship With Trump Critic Tucker Carlson",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUNMOFlHNjhSUkRqenBTbDRGNmdCRENLUHN3bmdqS25ybDZGa2g1OEpSd2xTbnBIWmU4QTVrSUh6WTdNSGdXbnRRdjM3a2xDNGd1RGNGOENCT3FxQzBZSklJcm9aTjZfWWxDc3pQSVplaGtxZlhWT1d3UmwtWU9valNlcnRhYkUwLW9tQ1N3RFlqem41V2h6TUd5NVBLTjJtZE1TWA?oc=5",
-      "source": "Wall Street Journal",
+      "title": "O senador republicano Bill Cassidy suspende a aprovação de quatro indicados de Trump após uma reportagem chocante sobre o comportamento de Lori Chavez-DeRemer",
+      "titleOriginal": "GOP Sen. Bill Cassidy puts hold on four Trump nominees after shocking report on Lori Chavez-DeRemer’s behavior",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQjBpQ2ROQmdHYTJXSUdzVy1JRElBY2RZNi1RNjYzb1hsZUNvaS1OM3pEV2hxLWNFSlJSV0hDVmJOclJ3ZEV1Q28yY25ZY3E4VzN2U0RucndaRjBJblJrSndhRUVyTUlFck1jU1dQVHpWSExqNlNjR0lMcjROOVJKa1pmNUs5ZnA1bi1KV0VsQnY5ZzZZQ01rQVNVdlBDbG9tQXA2NHNIYmg3NjdQblYtbmFFVWJOZi1Obmhkci1QUEVsVUhwYUFkRFYzWFEtMUc5eF9wdGNlRTlQLVdKcEpabg?oc=5",
+      "source": "New York Post",
       "coverage": 3
     }
   ]

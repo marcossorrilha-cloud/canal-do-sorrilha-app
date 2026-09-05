@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-05T02:50:14.194Z",
+  "updatedAt": "2026-09-05T03:26:04.923Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-05T03:01:30.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
@@ -18,24 +25,31 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T01:24:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Tetris alega que o jogo “Build the Wall” da Casa Branca viola direitos autorais",
+      "titleOriginal": "Tetris suggests White House 'Build the Wall' game infringes copyright",
+      "link": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
+      "publishedAt": "2026-09-05T01:24:24.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "O tempo já não está mais a favor do Irã na batalha dos bloqueios",
       "titleOriginal": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
       "publishedAt": "2026-09-05T01:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que o “Dia D econômico” de Washington contra o Irã enfrenta grandes dificuldades",
-      "titleOriginal": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5",
-      "publishedAt": "2026-09-04T23:32:54.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Site da Casa Branca lança 5 videogames retrô de fliperama que promovem a agenda de Trump",
-      "titleOriginal": "White House website debuts 5 retro arcade video games that promote Trump’s agenda",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
-      "publishedAt": "2026-09-04T23:20:00.000Z"
+      "source": "Axios",
+      "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
+      "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
+      "publishedAt": "2026-09-04T23:34:10.000Z"
     },
     {
       "source": "New York Times",
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump considers narrowing water pollution protections",
       "link": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
       "publishedAt": "2026-09-04T22:58:05.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As últimas concessões de clemência de Trump beneficiam infratores por crimes relacionados a drogas e um líder sindical",
-      "titleOriginal": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
-      "publishedAt": "2026-09-04T22:57:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump classifica o conflito com o Irã como “coisa de pouco conta” e defende a posição de Vance de que não se trata de uma “guerra”",
-      "titleOriginal": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
-      "publishedAt": "2026-09-04T22:52:00.000Z"
     }
   ]
 }
