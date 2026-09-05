@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-05T00:52:59.746Z",
+  "updatedAt": "2026-09-05T01:24:34.995Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T01:03:48.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O tempo já não está mais a favor do Irã na batalha dos bloqueios",
+      "titleOriginal": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
+      "publishedAt": "2026-09-05T01:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
@@ -45,13 +59,6 @@
       "publishedAt": "2026-09-04T23:01:25.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Carolina do Norte impõe novas restrições ao programa de votação por correspondência",
-      "titleOriginal": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html",
-      "publishedAt": "2026-09-04T23:00:34.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
       "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
@@ -64,13 +71,6 @@
       "titleOriginal": "Trump considers narrowing water pollution protections",
       "link": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
       "publishedAt": "2026-09-04T22:58:05.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As últimas concessões de clemência de Trump beneficiam infratores por crimes relacionados a drogas e um líder sindical",
-      "titleOriginal": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
-      "publishedAt": "2026-09-04T22:57:34.000Z"
     }
   ]
 }
