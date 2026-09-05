@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-05T01:49:41.697Z",
+  "updatedAt": "2026-09-05T02:26:00.764Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
+      "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
+      "publishedAt": "2026-09-05T02:10:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Em grande operação para localizar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
+      "titleOriginal": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
+      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
+      "publishedAt": "2026-09-05T02:08:40.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
@@ -14,7 +28,7 @@
       "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T01:26:07.000Z"
+      "publishedAt": "2026-09-05T01:24:11.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -22,20 +36,6 @@
       "titleOriginal": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
       "publishedAt": "2026-09-05T01:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ex-governador do Kentucky é preso em meio a disputa por pensão alimentícia",
-      "titleOriginal": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
-      "publishedAt": "2026-09-05T00:30:29.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Pentágono submete cerca de 50 membros do Estado-Maior Conjunto a testes de polígrafo em uma investigação ampliada sobre vazamentos",
-      "titleOriginal": "Pentagon Subjects Roughly 50 Members of the Joint Staff to Polygraph Tests in Expanded Leak Hunt",
-      "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
-      "publishedAt": "2026-09-05T00:06:10.000Z"
     },
     {
       "source": "The Hill",
@@ -53,7 +53,7 @@
     },
     {
       "source": "AP News",
-      "title": "Site da Casa Branca lança 5 videogames retrô de fliperama que promovem a agenda de Trump",
+      "title": "Site da Casa Branca lança cinco jogos de arcade retrô que promovem a agenda de Trump",
       "titleOriginal": "White House website debuts 5 retro arcade video games that promote Trump’s agenda",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
       "publishedAt": "2026-09-04T23:20:00.000Z"
@@ -67,7 +67,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Órgão de fiscalização interna do Serviço Postal abre inquérito após denúncia de um denunciante",
+      "title": "Órgão de fiscalização interna dos Correios abre inquérito após denúncia de um denunciante",
       "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
       "publishedAt": "2026-09-04T23:01:25.000Z"
