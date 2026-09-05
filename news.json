@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:49:15.235Z",
+  "updatedAt": "2026-09-05T08:26:09.432Z",
   "count": 10,
   "items": [
     {
@@ -24,18 +24,11 @@
       "publishedAt": "2026-09-05T07:24:54.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Negócio de US$ 8,4 bilhões da Boeing está gerando prejuízo",
-      "titleOriginal": "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVhLZmljTlVQSlhsUXp4OFB6NTNuTDRtS2NQT01oVzlIVFdlbGxPUVRsM2hjNWg5WU5EeTBKT2NVRGxJYVVpQWVnN09oSGRGX2dXU1FmQmpJcG1IdURVMk42UTZPZ094TlVDQnJza3hVV3FXNG9rZUViNXZrWHN3S0RoMldJU1I1YkE?oc=5",
-      "publishedAt": "2026-09-05T07:04:23.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris fora da lista de convocados para a estreia, segundo fonte da AP",
+      "title": "A LSU deixa os ex-jogadores profissionais Wright e Harris fora da lista de convocados para a primeira rodada, segundo fonte da AP",
       "titleOriginal": "LSU leaves former pros Wright, Harris off opening-day roster, AP source says",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnFPOE9YUklOV25yZjZWZTk0X25zQlZ1UGk5TFlJX1MzWnN6ZVBRc0NsdnlydWk1UFBhQ2VtTThuLTNxOXB1UjZPa3lvdHp3SzQ3YXBnTENha3EteWRlRjFuVDV1dzRJa3JUdVB4S21KemctUWN4YmEzeGRvYUtOeDRxV21JWkJNT2g1XzBDWjg?oc=5",
-      "publishedAt": "2026-09-05T04:37:00.000Z"
+      "publishedAt": "2026-09-05T04:49:00.000Z"
     },
     {
       "source": "New York Times",
@@ -46,14 +39,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Em grande investigação sobre vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
+      "title": "Em uma grande operação para investigar vazamentos, o Pentágono submete membros do Estado-Maior Conjunto a testes de polígrafo",
       "titleOriginal": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
       "publishedAt": "2026-09-05T02:08:40.000Z"
     },
     {
       "source": "AP News",
-      "title": "Agente do ICE acusado de tiroteio em Minnesota é libertado sob fiança",
+      "title": "Agente do ICE acusado de tiroteio em Minnesota é liberado sob fiança",
       "titleOriginal": "ICE officer charged in Minnesota shooting released on bond",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
       "publishedAt": "2026-09-05T01:33:00.000Z"
@@ -71,6 +64,13 @@
       "titleOriginal": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
       "publishedAt": "2026-09-05T01:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O problema do governador do Meio-Oeste do Partido Republicano no Senado",
+      "titleOriginal": "Senate GOP's Midwestern governor's problem",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUQyYmoxSDIyd2RNT0tmSjFXTnlsZG1ENURMZThvdTNNdHZZVTlMZ1dtZk5aTkxFakNTMmhoa2lkdHVQRHh3cnJjbnR4V01YZUFFZUo2MFJsUXFPQWpyZE82RW5NTDExWjZTa3k4Vy1jd3ZiVHp5NHYySUN6YzRyamVZdDRRM0E?oc=5",
+      "publishedAt": "2026-09-05T00:45:01.000Z"
     }
   ]
 }
