@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-05T22:24:19.875Z",
+  "updatedAt": "2026-09-05T22:49:02.729Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
+      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
+      "publishedAt": "2026-09-05T22:30:14.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump encerra o apoio de US$ 45 milhões ao programa de combate ao HIV na Namíbia",
+      "titleOriginal": "Trump admin ends $45M support for Namibia HIV program",
+      "link": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
+      "publishedAt": "2026-09-05T22:24:04.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T22:20:35.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump enfrenta reação negativa em relação à carne bovina. Será que o plano de importação dará certo?",
@@ -22,13 +43,6 @@
       "titleOriginal": "US hits Iranian oil tankers, and other key Mideast developments",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
       "publishedAt": "2026-09-05T20:59:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
-      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T20:56:43.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -57,20 +71,6 @@
       "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
       "publishedAt": "2026-09-05T19:33:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
-      "titleOriginal": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3FZUThSdWpjTjlEZTNPVHBXN21mQi1Pb1JSWWxvMWtab1JmSllPeS1TUGFoUnBsdUxzSWdmUnJlQlV6R0Roc1JhR1ZKYkZYSXdXRkVpejBTdk4zX1VaLWI5TEVYMTJYUmFrdFVlZkFwTlpCWXMweDRxaDhFVUNYV2FYS3d4MmI3WmJESHF0aC1jRVhKdno1Q3lpVE4xMkpLa1RpSnJmd3BucUgwQzRCZ2RiU0c0cG9mT3hfeg?oc=5",
-      "publishedAt": "2026-09-05T19:26:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Embaixador dos EUA chama colonos israelenses violentos de “terroristas” após semanas de agitação na Cisjordânia",
-      "titleOriginal": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
-      "publishedAt": "2026-09-05T19:06:00.000Z"
     }
   ]
 }
