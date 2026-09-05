@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-05T01:24:34.995Z",
+  "updatedAt": "2026-09-05T01:49:41.697Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
+      "publishedAt": "2026-09-05T01:31:30.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T01:03:48.000Z"
+      "publishedAt": "2026-09-05T01:26:07.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -32,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Juiz federal recusa-se a suspender as demissões de funcionários do “Stars and Stripes”",
+      "title": "Juiz federal se recusa a suspender as demissões de funcionários do “Stars and Stripes”",
       "titleOriginal": "Federal judge declines to halt firings of Stars and Stripes staffers",
       "link": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/",
       "publishedAt": "2026-09-05T00:00:13.000Z"
@@ -45,6 +52,13 @@
       "publishedAt": "2026-09-04T23:32:54.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Site da Casa Branca lança 5 videogames retrô de fliperama que promovem a agenda de Trump",
+      "titleOriginal": "White House website debuts 5 retro arcade video games that promote Trump’s agenda",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
+      "publishedAt": "2026-09-04T23:20:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Trump afirma que vai destinar parte de seus recursos de campanha aos republicanos",
       "titleOriginal": "Trump Says He Will Spend Some of His War Chest on Republicans",
@@ -53,24 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Órgão de fiscalização interna dos Correios abre inquérito após denúncia de um denunciante",
+      "title": "Órgão de fiscalização interna do Serviço Postal abre inquérito após denúncia de um denunciante",
       "titleOriginal": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
       "link": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
       "publishedAt": "2026-09-04T23:01:25.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Proibição da regra sobre votação por correspondência do governo Trump é prorrogada por juiz",
-      "titleOriginal": "Ban on Trump administration's mail-in voting rule extended by judge",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMEh0bUd2aThDN0x0Wk9kNUF6bnhUU1JoZ0xaU2h2dWVQMnZHZTZSTS1Oa0RpMmpMTEZiRzJOa3gyVDRPcVgzQnQyVmx3aXh6N3RmQnRaM2hxalRTQl9fTWZrNmxBdi13VkRPLUJVclBraUloZm9Za0lfV3M?oc=5",
-      "publishedAt": "2026-09-04T22:59:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump considera reduzir as medidas de proteção contra a poluição da água",
-      "titleOriginal": "Trump considers narrowing water pollution protections",
-      "link": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
-      "publishedAt": "2026-09-04T22:58:05.000Z"
     }
   ]
 }
