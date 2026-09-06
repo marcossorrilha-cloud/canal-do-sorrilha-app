@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T22:25:35.084Z",
+  "updatedAt": "2026-09-06T22:49:57.135Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "A IKEA reduz os preços em toda a Europa, enquanto as pressões do custo de vida persistem",
+      "title": "A IKEA reduz os preços em toda a Europa enquanto as pressões do custo de vida persistem",
       "titleOriginal": "IKEA Cuts Prices Across Europe as Cost of Living Pressures Persist",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem00c3VBaXFWM2p3QVdGdjJ5YWxVTDRGYjNWaFl4YnhMd0Q5Y0FobGRLQklwSTV2bnlRbjY4YjVKQ1BMdkJRR0JHTWRRTXdsLVZjZFBOalV4U05NRlVzTktDQ2R4ZUlyV2pWZ2daVVFxUlh1cW1EblVVQ05WZzhDZVJyY3l0SzYxZ2VsU1FDZFNKN0I0b3NlbTY1MW9sQTh4SWRfYVVxT2lSbWdhTnVCeQ?oc=5",
       "publishedAt": "2026-09-06T22:22:40.000Z"
@@ -17,11 +17,25 @@
       "publishedAt": "2026-09-06T22:14:40.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Agressor atacou candidato democrata ao governo de Ohio em feira, segundo a campanha",
+      "titleOriginal": "Assailant lunged at Democratic candidate for Ohio governor at fair, campaign says",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
+      "publishedAt": "2026-09-06T22:00:00.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "Exclusivo: Líderes latinos pressionam Beshear sobre a disputa pelo governo do Texas",
-      "titleOriginal": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
+      "title": "Exclusivo: Líderes latinos pressionam Beshear em relação à disputa pelo governo do Texas",
+      "titleOriginal": "Exclusive: Latino leaders pressure Beshear on Texas' race for governor",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
       "publishedAt": "2026-09-06T21:53:34.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
+      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "publishedAt": "2026-09-06T21:53:31.000Z"
     },
     {
       "source": "Axios",
@@ -36,13 +50,6 @@
       "titleOriginal": "TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnhFeUVrZmpWcDRmRUFrS2xNNkYzUnVRbDVGNjFieWhZY2ZCVWNzaHRScWo0WEI3RjVCYUE3NXQ1Z2l5bGxLWjVMdW43WTRPWHlsZmlZcGRSSm1zd0o5N1VoeWxLX3pRZjZVbzRxX01Ua2hraDc4YWxXaWJwdExTejlIVTBnNm5DQ2Vob3V6NUJwRXBiTU5XSDBFWWRGQTNPdHlOUVVmY3pvSlA0N1UyUzV6OWV4TWdmXzd0QXFPVQ?oc=5",
       "publishedAt": "2026-09-06T21:35:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
-      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "publishedAt": "2026-09-06T21:27:08.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "Iran says it plans to announce a new ‘exclusion zone’ near the Strait of Hormuz",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
       "publishedAt": "2026-09-06T20:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O senador republicano John Kennedy se mostra evasivo quanto ao apoio a Hegseth",
-      "titleOriginal": "GOP Sen. John Kennedy hedges on support for Hegseth",
-      "link": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
-      "publishedAt": "2026-09-06T20:30:25.000Z"
     }
   ]
 }
