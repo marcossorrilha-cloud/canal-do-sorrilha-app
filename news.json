@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:38:54.262Z",
+  "updatedAt": "2026-09-06T00:55:33.686Z",
   "count": 10,
   "items": [
     {
@@ -24,6 +24,13 @@
       "publishedAt": "2026-09-05T22:00:36.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
+      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
+      "publishedAt": "2026-09-05T21:50:35.000Z"
+    },
+    {
       "source": "AP News",
       "title": "Documentário sobre a turnê de reunião do Oasis arrasa no Festival de Cinema de Veneza",
       "titleOriginal": "Oasis reunion tour documentary rocks Venice Film Festival",
@@ -39,17 +46,10 @@
     },
     {
       "source": "AP News",
-      "title": "Os EUA atacam três petroleiros iranianos após afirmarem que navios de guerra foram alvo de mísseis balísticos",
+      "title": "Os EUA atacam três petroleiros iranianos após alegarem que navios de guerra foram alvo de mísseis balísticos",
       "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
       "publishedAt": "2026-09-05T21:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
-      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
-      "publishedAt": "2026-09-05T20:59:01.000Z"
     },
     {
       "source": "The Hill",
