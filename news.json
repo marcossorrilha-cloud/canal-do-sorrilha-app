@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-06T10:49:16.514Z",
+  "updatedAt": "2026-09-06T11:25:07.054Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Não culpem a China pela escassez de fertilizantes",
+      "titleOriginal": "Opinion | Don’t Blame China for the Fertilizer Shortage",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzVjUXpGb084dGxaLTlwejVFTUxIRFhEazl1NHR4Y0h5SFFBMXo5NUpvZWZXZVpsSElLcWY3cWxTSl8xLXF5WFpVLVQ4R2Vid25XdEFoenBGcVNENFRocFBvTFozMWFpOGtwT29NOFV2dWZJS09mc2R1LVBidElPbWZ4Z3Q5Sng0?oc=5",
+      "publishedAt": "2026-09-06T11:13:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A história indissociável de Israel e da Irlanda",
+      "titleOriginal": "Opinion | Israel and Ireland’s Inextricable History",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV85dGt0dDh6dmZOU1l5N0oxN01vVEJmLUVsMktTdWZtcnZRaVgzUjNCOGxwbkNGcTcwSUxMS2F0dmo1dFNhVHRJbUl5R0lhRzNoQy1sRjdMVjhncnVrNnhwUFpmdHpHNGZOaVZ6VUdtN1hnZXNlS1Rjajdfd0JfNnVGWklabmJRdlMtWWVYMm5GbGJGSmVqMQ?oc=5",
+      "publishedAt": "2026-09-06T11:13:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hunter Biden afirma: “Talvez eu tenha que” concorrer em 2028",
+      "titleOriginal": "Hunter Biden says \"I may have to\" run in 2028",
+      "link": "https://thehill.com/homenews/campaign/6073586-hunter-biden-says-i-may-have-to-run-in-2028/",
+      "publishedAt": "2026-09-06T11:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A BlackRock dá um voto de confiança ao Texas",
+      "titleOriginal": "Opinion | BlackRock Casts a Vote of Confidence in Texas",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWFmVndZX1pRcEZOU05qY0hZcnZjSE5DbmFILU9UUXFmemtFdE9KcVpsV0pEOWFzalphbnhTS3lDUTFzc19lZk9XMzhTT3RFZ1cydm02OTR3S2ExX0dCSHlzZDFIV1F2U1dQVUozSUtWQjJPOTB5TkhuWTNKSmUyNnBEaDNDVEJlTmc?oc=5",
+      "publishedAt": "2026-09-06T10:58:31.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
@@ -43,34 +71,6 @@
       "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
       "publishedAt": "2026-09-06T09:10:12.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas de New Hampshire dão o alarme: “Estamos perdendo”",
-      "titleOriginal": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
-      "publishedAt": "2026-09-06T09:01:55.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Para um ex-funcionário demitido da campanha de DeSantis, uma segunda chance no Departamento de Estado",
-      "titleOriginal": "For Fired DeSantis Campaign Staff Member, a Second Chance at State Dept.",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
-      "publishedAt": "2026-09-06T09:01:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A liquidez do capital de risco finalmente chegou: a Factorial Funds atinge US$ 1 bilhão em recursos captados",
-      "titleOriginal": "Exclusive | VC Liquidity Is Finally Here: Factorial Funds Hits $1 Billion in Proceeds",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWMxU1FMalhvRkRRQVBUbGgzaG9nYTRGZGJXYWJ6VEtQWUU1VmRSZm9zZ0V4aEQ0Snc4Yk9acFZJblhGbmpENmFUQW56cXJuM000MDNQeTJWTmpaMW9IbWJRMzZyRUZPNkNhTm5JUU1obWZOdGtqQVVZNExuZnBLWU96eHJ5aDN3RXRMbkVRLWlMMG9XdElLem05VEpBdjByR05HSW5pOWJqYjYwZ1E5Q2E4c0RsU19TVHlZdw?oc=5",
-      "publishedAt": "2026-09-06T08:55:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Novartis afirma que o medicamento pelacarsen para doenças cardíacas não atingiu o desfecho primário",
-      "titleOriginal": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
-      "publishedAt": "2026-09-06T07:47:20.000Z"
     }
   ]
 }
