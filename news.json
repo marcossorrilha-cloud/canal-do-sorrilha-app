@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-06T01:24:28.664Z",
+  "updatedAt": "2026-09-06T01:50:41.869Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "A Rússia considera as negociações com os enviados dos EUA “úteis”",
+      "titleOriginal": "Russia calls talks with US envoys \"useful\"",
+      "link": "https://thehill.com/policy/international/6073550-putin-witkoff-kushner-peace-talks/",
+      "publishedAt": "2026-09-06T01:44:46.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
       "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
       "publishedAt": "2026-09-05T22:34:39.000Z"
@@ -24,6 +31,20 @@
       "publishedAt": "2026-09-05T22:00:36.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
+      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
+      "publishedAt": "2026-09-05T21:50:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T21:48:54.000Z"
+    },
+    {
       "source": "AP News",
       "title": "Documentário sobre a turnê de reunião do Oasis arrasa no Festival de Cinema de Veneza",
       "titleOriginal": "Oasis reunion tour documentary rocks Venice Film Festival",
@@ -31,46 +52,25 @@
       "publishedAt": "2026-09-05T21:39:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
+      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
+      "publishedAt": "2026-09-05T21:31:14.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump enfrenta reação negativa em relação à carne bovina. Será que o plano de importação dará certo?",
+      "title": "Trump enfrenta reações negativas em relação à carne bovina. Será que o plano de importação vai dar certo?",
       "titleOriginal": "Trump faces down beef backlash. Will import plan pay off?",
       "link": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
       "publishedAt": "2026-09-05T21:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os EUA atacaram três petroleiros iranianos após afirmarem que navios de guerra haviam sido alvo de mísseis balísticos",
+      "title": "Os EUA atacam três petroleiros iranianos após afirmarem que navios de guerra foram alvo de mísseis balísticos",
       "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
       "publishedAt": "2026-09-05T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump altera a programação da convenção do RNC para as eleições de meio de mandato e afirma que fará um discurso na primeira noite",
-      "titleOriginal": "Trump shakes up RNC midterm convention schedule, says he'll speak on night one",
-      "link": "https://thehill.com/homenews/campaign/6073371-trump-to-speak-night-one/",
-      "publishedAt": "2026-09-05T20:42:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicano do Texas: “Não tenho nem um pingo de simpatia por Lindsay Clancy”",
-      "titleOriginal": "Texas Republican: 'I don't have an ounce of sympathy for Lindsay Clancy'",
-      "link": "https://thehill.com/homenews/house/6073377-gill-rejects-clancy-defense/",
-      "publishedAt": "2026-09-05T20:27:18.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Embaixador dos EUA chama colonos israelenses violentos de “terroristas” após semanas de agitação na Cisjordânia",
-      "titleOriginal": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
-      "publishedAt": "2026-09-05T19:06:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que a guerra no Irã custou a uma família com a “Estrela de Ouro”",
-      "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
-      "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
-      "publishedAt": "2026-09-05T18:27:00.000Z"
     }
   ]
 }
