@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:26:49.398Z",
+  "updatedAt": "2026-09-06T04:50:06.177Z",
   "count": 10,
   "items": [
     {
@@ -7,11 +7,18 @@
       "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
       "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
-      "publishedAt": "2026-09-06T03:14:19.000Z"
+      "publishedAt": "2026-09-06T03:31:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ucrânia",
+      "titleOriginal": "Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "publishedAt": "2026-09-06T02:29:29.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Uma retrospectiva do verão marcado pelo forte movimento MAGA na Washington de Trump",
+      "title": "Uma retrospectiva do verão marcado pelo movimento MAGA na Washington de Trump",
       "titleOriginal": "Looking Back on the Summer of High MAGA in Trump’s Washington",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/trump-maga-dc.html",
       "publishedAt": "2026-09-06T02:01:33.000Z"
@@ -24,13 +31,6 @@
       "publishedAt": "2026-09-06T01:44:46.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Ucrânia",
-      "titleOriginal": "Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "publishedAt": "2026-09-06T01:43:03.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Os enviados de Trump, Witkoff e Kushner, se reúnem com Putin para discutir o fim da guerra na Ucrânia",
       "titleOriginal": "Trump envoys Witkoff and Kushner meet with Putin about ending the Ukraine war",
@@ -39,7 +39,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como uma mulher foi apanhada pela “seita” de Epstein — e conseguiu escapar",
+      "title": "Como uma mulher foi apanhada na “seita” de Epstein — e conseguiu escapar",
       "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
       "publishedAt": "2026-09-05T23:01:23.000Z"
@@ -70,7 +70,7 @@
       "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
       "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T21:16:37.000Z"
+      "publishedAt": "2026-09-05T21:22:51.000Z"
     }
   ]
 }
