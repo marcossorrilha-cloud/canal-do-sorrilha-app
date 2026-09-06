@@ -1,27 +1,41 @@
 {
-  "updatedAt": "2026-09-06T11:49:29.012Z",
+  "updatedAt": "2026-09-06T12:30:32.190Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A BlackRock dá um voto de confiança ao Texas",
-      "titleOriginal": "Opinion | BlackRock Casts a Vote of Confidence in Texas",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWFmVndZX1pRcEZOU05qY0hZcnZjSE5DbmFILU9UUXFmemtFdE9KcVpsV0pEOWFzalphbnhTS3lDUTFzc19lZk9XMzhTT3RFZ1cydm02OTR3S2ExX0dCSHlzZDFIV1F2U1dQVUozSUtWQjJPOTB5TkhuWTNKSmUyNnBEaDNDVEJlTmc?oc=5",
-      "publishedAt": "2026-09-06T11:43:44.000Z"
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Secretário de Energia deve conceder entrevistas em programas de domingo, enquanto EUA e Irã trocam ataques",
+      "titleOriginal": "Live updates: Energy secretary set for Sunday show interviews as US, Iran trade strikes",
+      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+      "publishedAt": "2026-09-06T12:29:12.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Não culpem a China pela escassez de fertilizantes",
-      "titleOriginal": "Opinion | Don’t Blame China for the Fertilizer Shortage",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzVjUXpGb084dGxaLTlwejVFTUxIRFhEazl1NHR4Y0h5SFFBMXo5NUpvZWZXZVpsSElLcWY3cWxTSl8xLXF5WFpVLVQ4R2Vid25XdEFoenBGcVNENFRocFBvTFozMWFpOGtwT29NOFV2dWZJS09mc2R1LVBidElPbWZ4Z3Q5Sng0?oc=5",
-      "publishedAt": "2026-09-06T11:13:46.000Z"
+      "source": "The Hill",
+      "title": "Trump está travando uma guerra contra as crianças dos Estados Unidos — e está vencendo",
+      "titleOriginal": "Trump is waging a war on America's children — and he's winning",
+      "link": "https://thehill.com/opinion/white-house/6071813-trump-administration-child-impact/",
+      "publishedAt": "2026-09-06T12:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | A história indissociável de Israel e da Irlanda",
       "titleOriginal": "Opinion | Israel and Ireland’s Inextricable History",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV85dGt0dDh6dmZOU1l5N0oxN01vVEJmLUVsMktTdWZtcnZRaVgzUjNCOGxwbkNGcTcwSUxMS2F0dmo1dFNhVHRJbUl5R0lhRzNoQy1sRjdMVjhncnVrNnhwUFpmdHpHNGZOaVZ6VUdtN1hnZXNlS1Rjajdfd0JfNnVGWklabmJRdlMtWWVYMm5GbGJGSmVqMQ?oc=5",
-      "publishedAt": "2026-09-06T11:13:33.000Z"
+      "publishedAt": "2026-09-06T11:57:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Não culpe a China pela escassez de fertilizantes",
+      "titleOriginal": "Opinion | Don’t Blame China for the Fertilizer Shortage",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzVjUXpGb084dGxaLTlwejVFTUxIRFhEazl1NHR4Y0h5SFFBMXo5NUpvZWZXZVpsSElLcWY3cWxTSl8xLXF5WFpVLVQ4R2Vid25XdEFoenBGcVNENFRocFBvTFozMWFpOGtwT29NOFV2dWZJS09mc2R1LVBidElPbWZ4Z3Q5Sng0?oc=5",
+      "publishedAt": "2026-09-06T11:13:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os próprios bancos dos Estados Unidos são um ponto fraco na campanha para isolar o Irã",
+      "titleOriginal": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3JVbm9KUzVYQVFfZmZOdEZPWExFaE00NXhFbEJnXzQ5T19uTWpYUjZ4bUpRT3dLeE5sNzlDYVJNV0ZaeDctbkJSR2hhQ3NMcU1KS2hmTU16enZJVjVvVG1Zd21ScEZreE1SQU1Ta2VJTmw4UndwanNRT1NPRC1lTWd2TlkxQnRlVnlXVGRtbGJ2X1hXMC0yLUlvSGx1TGpERXc?oc=5",
+      "publishedAt": "2026-09-06T11:04:00.000Z"
     },
     {
       "source": "The Hill",
@@ -53,24 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
-      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
-      "publishedAt": "2026-09-06T09:10:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "A campanha de Vance para conquistar os eleitores em 2028 já começou",
       "titleOriginal": "Vance’s 2028 Audition With Voters Has Begun",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0FmM2s4UzlzRXdsdE91SXFSR2FGRVRoNncwaHVpR2RSTWUxSUxQVTZ5dlpKR0lLY0lwUFN5VXBrYUY0aXEtXy1tT0dhc3lBZmpjQkZsVUJ3c19qUUdmNndjbHZCdzUzV0QtQ0JTeDZCMXpBZUs1VlZMc19wc05pcW5zakgxWHM?oc=5",
       "publishedAt": "2026-09-06T09:02:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas de New Hampshire dão o alarme: “Estamos perdendo”",
-      "titleOriginal": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
-      "publishedAt": "2026-09-06T09:01:55.000Z"
     }
   ]
 }
