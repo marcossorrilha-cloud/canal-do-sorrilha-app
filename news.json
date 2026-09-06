@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-06T01:50:41.869Z",
+  "updatedAt": "2026-09-06T02:26:23.712Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Uma retrospectiva do verão marcado pelo forte movimento MAGA na Washington de Trump",
+      "titleOriginal": "Looking Back on the Summer of High MAGA in Trump’s Washington",
+      "link": "https://www.nytimes.com/2026/09/05/us/politics/trump-maga-dc.html",
+      "publishedAt": "2026-09-06T02:01:33.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A Rússia considera as negociações com os enviados dos EUA “úteis”",
@@ -11,7 +18,28 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando críticas a JD Vance",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T23:20:04.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ucrânia",
+      "titleOriginal": "Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "publishedAt": "2026-09-05T23:14:03.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como uma mulher foi apanhada na “seita” de Epstein — e conseguiu escapar",
+      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
+      "publishedAt": "2026-09-05T23:01:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
       "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
       "publishedAt": "2026-09-05T22:34:39.000Z"
@@ -31,20 +59,6 @@
       "publishedAt": "2026-09-05T22:00:36.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
-      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
-      "publishedAt": "2026-09-05T21:50:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
-      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
-      "publishedAt": "2026-09-05T21:48:54.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Documentário sobre a turnê de reunião do Oasis arrasa no Festival de Cinema de Veneza",
       "titleOriginal": "Oasis reunion tour documentary rocks Venice Film Festival",
@@ -57,20 +71,6 @@
       "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
       "publishedAt": "2026-09-05T21:31:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump enfrenta reações negativas em relação à carne bovina. Será que o plano de importação vai dar certo?",
-      "titleOriginal": "Trump faces down beef backlash. Will import plan pay off?",
-      "link": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
-      "publishedAt": "2026-09-05T21:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA atacam três petroleiros iranianos após afirmarem que navios de guerra foram alvo de mísseis balísticos",
-      "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
-      "publishedAt": "2026-09-05T21:00:00.000Z"
     }
   ]
 }
