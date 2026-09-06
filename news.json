@@ -1,10 +1,59 @@
 {
-  "updatedAt": "2026-09-06T20:49:00.501Z",
+  "updatedAt": "2026-09-06T21:24:40.171Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
+      "titleOriginal": "UPS Rejiggers Operating Model, Names Chief Global Operations Officer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFowbGVOZ1l5MnRXSmxLREpBSm8tZXk5Zy00Mjg0cUlOYnRYdVpMQkhJb294dlhYanZXZXBFRzVTeldueGJvZ0p1NlZiN2FyT0xsRGRHeDAwM0pQRjNWNzJyZXRTR1oxQmFaT2hrX0lWdWtqV29ua0FSZFNWUjNoMUh4SUZhaG13OVp6dW14cDFrS3RKamxmR2FpMW11bkN6SFl4b2d6MkZ6RGNZVkNlb2FBaHNJQQ?oc=5",
+      "publishedAt": "2026-09-06T21:14:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do diesel no varejo dos EUA atingem nível recorde com a redução da oferta global",
+      "titleOriginal": "U.S. Retail Diesel Prices Hit Record High as Global Supply Tightens",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0xxcG9xdFU3emo2RlhqYUQ3cUZ4WERTRklHR2ZsNUJheTg5eTRCN0NZcGFnR1pKYldWbVZuZlpYaGtrN0hxYk04QnpDNGo4cTlhZWdpX2xXMmhpcmZOT05NcGVxX0JFdl9VaE5UV1M2TGRsUXBCMVZIUXRfWUNMbGdpRWEtVnczbHU3eEJMZDIzMkM2OWlacEVjaWJYc3JJUzVyem5nN2h1aHpKMTFMRDY1eExMQQ?oc=5",
+      "publishedAt": "2026-09-06T21:13:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A escalada das tensões no Oriente Médio faz os preços do petróleo subirem",
+      "titleOriginal": "Flaring Middle East Tensions Push Oil Prices Up",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWkyZEptNDJJVW00ZWZkMUt4SkUtZWJmNFRvMUtQbkM1WTBudU9neTVHUDBxc0ZpQ0kyUU5EclowQ2xqQVBzUjVNZW5JaHNBaEMtRWx0eHkwSHBUZHkwekFKdVFodXQwWGRtQUI5c3FKdTRtNmRYTHJGUFNEZWVjOUdXVzhTQ3NhWndvRXlsWmhEQ1psSDNlc0pB?oc=5",
+      "publishedAt": "2026-09-06T21:10:36.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O senador republicano John Kennedy se mostra evasivo quanto ao apoio a Hegseth",
+      "title": "Líder republicano na Câmara dos Deputados apoia Max Miller: “Apoio qualquer pessoa que tenha um ‘R’ ao lado do nome”",
+      "titleOriginal": "Top House Republican backs Max Miller: 'I support anybody with an R by their name'",
+      "link": "https://thehill.com/homenews/house/6074174-mcclain-backs-miller-abuse-allegations/",
+      "publishedAt": "2026-09-06T21:06:24.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
+      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "publishedAt": "2026-09-06T20:51:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Para o ex-assessor de Trump, um caminho difícil de “delator” à reconciliação",
+      "titleOriginal": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
+      "publishedAt": "2026-09-06T20:49:45.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para participar de negociações de paz",
+      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "publishedAt": "2026-09-06T20:41:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O senador republicano John Kennedy evita se pronunciar sobre o apoio a Hegseth",
       "titleOriginal": "GOP Sen. John Kennedy hedges on support for Hegseth",
       "link": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
       "publishedAt": "2026-09-06T20:30:25.000Z"
@@ -17,60 +66,11 @@
       "publishedAt": "2026-09-06T20:23:28.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump: O desequilíbrio cambial do Canadá em relação aos EUA “não existirá mais”",
-      "titleOriginal": "Trump: Canada's currency imbalance with US will be 'no longer'",
-      "link": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
-      "publishedAt": "2026-09-06T20:17:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Avião de carga da Amazon lança uma densa nuvem de fumaça após sair da pista no aeroporto de Miami",
-      "titleOriginal": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzhrenNJUmd1VHZoVl9jcTFRYUljSjNuWExOTjFlaTZ5WFhyVFpaYnI2dTVSa3NwSkc2RXlfWjdiN1g4TW9zeV9za1I4TnFhZG5IUWlLeG8wZHZsRFJKOVJrQnlxWEhzejZvUzVXUVRUNWRaZF9tTmd1UkZESFhMRUJfLXYzVU85U3VQdWp6akJpcDdxLXVB?oc=5",
-      "publishedAt": "2026-09-06T20:05:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Concorrentes do setor de mídia de varejo organizam um evento no estilo “Upfront” para atrair compradores de publicidade",
-      "titleOriginal": "Retail Media Rivals Host an Upfront-Style Event to Court Ad Buyers",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXJOd3FPc0NEVWZpRV92S0JWSUhyR0hDXzE3S2ZHTTNFQk0zazFVWW56QlZURjh3cVIzSVNCaG41WTRoVENsZk5ISVRYQnVwV2M0dFlZYkNXdGFtQlhmUXFKV0JtSHFfbDB2SC1idlh0RXFoRHNscjlxd3VKc21BOS02eFJieXNySzNJM2Q4d3dOUTMwSFlWYk5icVNsUGltMkNTRG15TWw?oc=5",
-      "publishedAt": "2026-09-06T19:42:09.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
-      "titleOriginal": "Ted Cruz Is Testing the Waters for a 2028 Run—and Taking Swipes at JD Vance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWc5empObmtOMmNiT0YydHkyMjhqSy0wUEpQbzZGRDNTc0RHSDRTc1RNd05TSXpJZnlRQVVkc1ZJamVoTnRIY2l2cGpkY2VPMXd2YlBVS0VEYkdoSm5XeFNXMzNMLXlZRnhyY25YMEJ0UUQ1REVER3R6bmc1ak1wVTYxbWVGV3hTMWxSUzFZbm43Nzd0amtlN2F5dmk3OWRfazM5YXlDRFY5b2l6RDQtdkVpWFlZdUFPVzNuMGhQdw?oc=5",
-      "publishedAt": "2026-09-06T19:34:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Tillis quer que Hegseth seja demitido. O chefe do Pentágono está em apuros?",
-      "titleOriginal": "Tillis Wants Hegseth Fired. Is the Pentagon Chief in Trouble?",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlJFYXJhQmtLM3RYX3JzaHR4Q3NmUU14VHRORmRDRlVkdGpnQUFxUl9FdUpJZXMxOFM2ZXhXTnh5dU00azlVbWpRa3hfVGFoZExQdWVtb014ZVRVRGZvaS1NdVliRGRETDB4My1OTkVWLXRqcENIdmlxOFBYdnh0SzhFYnBSZlY0TXJ1MmRkQTY2RHd6TkRXTS1raHpZdw?oc=5",
-      "publishedAt": "2026-09-06T19:34:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
-      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
-      "publishedAt": "2026-09-06T19:31:44.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democrata da Pensilvânia afirma que “talvez” concorra contra Fetterman em 2028",
-      "titleOriginal": "Pennsylvania Democrat says he 'might' challenge Fetterman in 2028",
-      "link": "https://thehill.com/homenews/campaign/6074036-deluzio-challenges-fetterman-2028/",
-      "publishedAt": "2026-09-06T19:16:20.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Chefe da área de energia de Trump hesita quanto à trajetória do preço da gasolina",
-      "titleOriginal": "Trump's energy boss wavers on gasoline price path",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWi1KOTY5cXNueHN3UVdTMWdBT1RzcTlERHBCRXlyYTEyeUpGLURlVVQwQmVoaHBMaUd5aHVveXhWeV85Z1pxU1VaZkdZcF85elZ0WXFpdjdIbjBSNmhGQ3EwbFFmTzNmYTR6LWViNlpPVWZs?oc=5",
-      "publishedAt": "2026-09-06T19:06:09.000Z"
+      "title": "Japão prevê gasto recorde com defesa à medida que a pressão da China aumenta",
+      "titleOriginal": "Japan Targets Record Defense Spend as China Pressure Grows",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXZ6d3ZpX1d2U1hCekcxam9VR2JmTmJTYlFWbEVwVzhTWDBWdkk2OXd6YnhYZkRXdjUtVlZiWXdDMnVETk5pem9ybHJYdlJDc3lHeDhtRXc2ZGxYazE5TDE0ZEJsSTVRRUw5enEyNDJNTUZuYnNkeS1UaXRoQnRNWkdmaUxiU2hEcl91c1RzWUYyWFA1eEk3aVRKSXN1TkE?oc=5",
+      "publishedAt": "2026-09-06T20:22:32.000Z"
     }
   ]
 }
