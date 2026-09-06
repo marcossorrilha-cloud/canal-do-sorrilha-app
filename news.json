@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-06T15:25:44.454Z",
+  "updatedAt": "2026-09-06T15:49:22.201Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
+      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "publishedAt": "2026-09-06T15:27:44.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Secretário de Energia minimiza o aumento dos preços do gás enquanto os EUA e o Irã trocam ataques",
@@ -15,13 +22,6 @@
       "titleOriginal": "Opinion | Israel and Ireland’s Inextricable History",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV85dGt0dDh6dmZOU1l5N0oxN01vVEJmLUVsMktTdWZtcnZRaVgzUjNCOGxwbkNGcTcwSUxMS2F0dmo1dFNhVHRJbUl5R0lhRzNoQy1sRjdMVjhncnVrNnhwUFpmdHpHNGZOaVZ6VUdtN1hnZXNlS1Rjajdfd0JfNnVGWklabmJRdlMtWWVYMm5GbGJGSmVqMQ?oc=5",
       "publishedAt": "2026-09-06T14:57:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-secretário da Força Aérea afirma que “não poderia servir” no governo Trump",
-      "titleOriginal": "Former Air Force secretary says he 'couldn't serve' in Trump administration",
-      "link": "https://thehill.com/policy/defense/6073772-kendall-blasts-hegseth-leadership/",
-      "publishedAt": "2026-09-06T14:43:48.000Z"
     },
     {
       "source": "The Hill",
@@ -39,6 +39,13 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "Preços do diesel no varejo dos EUA atingem nível recorde com a redução da oferta global",
+      "titleOriginal": "U.S. Retail Diesel Prices Hit Record High as Global Supply Tightens",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0xxcG9xdFU3emo2RlhqYUQ3cUZ4WERTRklHR2ZsNUJheTg5eTRCN0NZcGFnR1pKYldWbVZuZlpYaGtrN0hxYk04QnpDNGo4cTlhZWdpX2xXMmhpcmZOT05NcGVxX0JFdl9VaE5UV1M2TGRsUXBCMVZIUXRfWUNMbGdpRWEtVnczbHU3eEJMZDIzMkM2OWlacEVjaWJYc3JJUzVyem5nN2h1aHpKMTFMRDY1eExMQQ?oc=5",
+      "publishedAt": "2026-09-06T13:43:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "Concorrentes do setor de mídia de varejo organizam um evento no estilo “Upfront” para atrair compradores de publicidade",
       "titleOriginal": "Retail Media Rivals Host an Upfront-Style Event to Court Ad Buyers",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXJOd3FPc0NEVWZpRV92S0JWSUhyR0hDXzE3S2ZHTTNFQk0zazFVWW56QlZURjh3cVIzSVNCaG41WTRoVENsZk5ISVRYQnVwV2M0dFlZYkNXdGFtQlhmUXFKV0JtSHFfbDB2SC1idlh0RXFoRHNscjlxd3VKc21BOS02eFJieXNySzNJM2Q4d3dOUTMwSFlWYk5icVNsUGltMkNTRG15TWw?oc=5",
@@ -53,24 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "O Irã afirma ter atacado um navio dos EUA em uma semana marcada pelo recrudescimento das hostilidades, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Iran says it hit a US ship in a week of renewed hostilities, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-      "publishedAt": "2026-09-06T12:32:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump está travando uma guerra contra as crianças dos Estados Unidos — e está vencendo",
-      "titleOriginal": "Trump is waging a war on America's children — and he's winning",
-      "link": "https://thehill.com/opinion/white-house/6071813-trump-administration-child-impact/",
-      "publishedAt": "2026-09-06T12:00:00.000Z"
+      "title": "O Irã alega ter realizado um ataque contra um navio norte-americano no Estreito de Ormuz, mas os EUA negam a acusação",
+      "titleOriginal": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
+      "publishedAt": "2026-09-06T12:29:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Um ano eleitoral cheio de reviravoltas entra na reta final, com Trump segurando seus trunfos",
-      "titleOriginal": "A whiplash election year enters its final stretch as Trump holds wild cards",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnRIVTdVTmNLVDFTbUN2eUUyYzVfVFFmcU44UHlObXlqUlNfeFVXdG4xcEp4N3ROUEVHMXRBcVp6bldYWkJYNkV0WkRCMlk1Q2p4YWRGM2Nfb09rdEtFbGZqWTY3S2F3cTdNakFybkV2MGtoNW5iUUJLZHdEVEFPXy1yZGt5SVZtOGlMUk1DbEt5bzd1UExGRUhrOXBDR1F5OEE?oc=5",
-      "publishedAt": "2026-09-06T11:23:00.000Z"
+      "title": "Família de sobrevivente das enchentes no Nepal, que está na China, fica aliviada após dias de espera ansiosa",
+      "titleOriginal": "Nepal flood survivor’s family in China relieved after days of anxious waiting",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?oc=5",
+      "publishedAt": "2026-09-06T12:14:00.000Z"
     }
   ]
 }
