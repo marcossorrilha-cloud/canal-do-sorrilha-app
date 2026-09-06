@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-06T03:26:49.807Z",
-  "slot": "2026-09-06-AM",
+  "updatedAt": "2026-09-06T15:25:51.753Z",
+  "slot": "2026-09-06-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Trump dá início a uma grande campanha de gastos para as eleições de meio de mandato com uma compra de espaço publicitário de US$ 10 milhões no Texas",
-      "titleOriginal": "Trump begins major midterm spending with $10 million ad buy in Texas",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1MzdEFQb0pNVE41TXRvclVwc29MXzlDS2lla2RjZ2V4LUNIa1JraE5rb2lGSl9XZE9iVmctYzRMeE9EQUE4N0NSV0NaNHBWMFBEZzZDQTBGa2U3WmtiRm91bThtd0EySUdDa2xNeXliMXdOWDVfUFRMeWkweVZjY0VIOHhhcTFQR1AxVGlRTlRBMU5KRk42bFNBTGhmTDZBaHRTUC1IR1F3RlZYd1pQejVlb3hBWmVJQVE?oc=5",
-      "source": "Washington Post",
+      "title": "Juiz se recusa a impedir que o Pentágono demita jornalistas do *Stars and Stripes*",
+      "titleOriginal": "Judge refuses to block Pentagon from firing Stars and Stripes journalists",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0IyZ1B4TGhkTzhsQXNZeEdFOUlZcWJFUkZVNng4TWtEcmhXZmV1OHpjUEhoVVhtWWRJenRVTUdKaE9sSXZFd2F4N2xtQS1sNE9LbHhhSkFIVmI1c0Q3VHJFMlRXSVdJc2NGT1VWaVVOdHp4YzhhU05IanlFZndZUGkydGtueEk?oc=5",
+      "source": "The Guardian",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Advogado de Andrea Yates, que afogou seus cinco filhos em 2001, reage à anulação do julgamento de Lindsay Clancy",
-      "titleOriginal": "Lawyer for Andrea Yates, who drowned her 5 kids in 2001, reacts to Lindsay Clancy mistrial",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNG1JYlFRWFNsTl9oc0c1ZnZaVDctU1YxSGZqNm5QOS1oV0h3Q25TdFBJUVJkeFllS3FmaUViZTA2UVVJMXByckJXX1lFU2o4dnp5S3BneXJYWjdMR1QyX1ZNQkZYdWFiQXBFN3FLYkl5Sk54cGFTSDNxbVdjSFJ6a2h0aHlPUWtFT3FRVlFmSEh4di1pWHc?oc=5",
-      "source": "New York Post",
+      "title": "Divisão antitruste do Departamento de Justiça dos EUA é orientada a “suspender” o trabalho com o governo canadense em meio a disputa comercial: Relatório",
+      "titleOriginal": "DOJ antitrust division told to ‘pause’ work with Canadian government amid trade dispute: Report",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2gybzU1V0plRElVTXhrOU5VaFVBN0pFVEJFckE1NVhIWmY3U2NuUnpSNXBnUkNqQWhtdW5QNEFLYlNSTlo2LWhvOUw2dmZrSlRjdnVRTXJCZHJNX3hvY0lMWDQwa2ROZzloMHFMNGJGLVVZdlpvM3J3VndvVGExQzlkT1JpOF9yVHFZMHJBa2pLWUpGa3dQMmhhWWk1dw?oc=5",
+      "source": "Washington Examiner",
       "coverage": 4
     }
   ]
