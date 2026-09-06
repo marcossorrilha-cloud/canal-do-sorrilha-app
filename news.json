@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-06T18:49:21.621Z",
+  "updatedAt": "2026-09-06T19:24:01.423Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Democrata da Pensilvânia afirma que “talvez” concorra contra Fetterman em 2028",
+      "titleOriginal": "Pennsylvania Democrat says he 'might' challenge Fetterman in 2028",
+      "link": "https://thehill.com/homenews/campaign/6074036-deluzio-challenges-fetterman-2028/",
+      "publishedAt": "2026-09-06T19:16:20.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Carr: FCC “está avaliando várias medidas” depois que Trump pediu “punição” para Welker, da NBC",
+      "titleOriginal": "Carr: FCC 'looking at a lot of actions' after Trump urged 'punishment' for NBC's Welker",
+      "link": "https://thehill.com/homenews/administration/6073995-carr-fcc-trump-nbc-punishment/",
+      "publishedAt": "2026-09-06T19:04:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Partido de extrema direita alemão deve obter vitória nas eleições regionais, mas não tem certeza se poderá governar",
+      "titleOriginal": "German far-right party set for regional election triumph but uncertain of governing",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
+      "publishedAt": "2026-09-06T19:01:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte autoriza a Casa Branca a dar continuidade à construção do salão de festas de Trump, no valor de US$ 400 milhões",
+      "titleOriginal": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+      "publishedAt": "2026-09-06T18:58:34.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã alega ter realizado um ataque contra um navio norte-americano no Estreito de Ormuz, mas os EUA negam a acusação",
+      "titleOriginal": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
+      "publishedAt": "2026-09-06T18:46:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Ted Cruz está sondando o terreno para uma candidatura em 2028 — e lançando farpas contra JD Vance",
@@ -11,7 +46,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Em reviravolta inesperada, legisladores da Califórnia não aprovam projeto de lei enfraquecido sobre incêndios florestais",
+      "title": "Como uma mulher foi apanhada pela “seita” de Epstein — e conseguiu escapar",
+      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
+      "publishedAt": "2026-09-06T17:56:29.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Em reviravolta inesperada, legisladores da Califórnia não aprovam projeto de lei diluído sobre incêndios florestais",
       "titleOriginal": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY?oc=5",
       "publishedAt": "2026-09-06T17:46:46.000Z"
@@ -25,52 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como uma mulher foi apanhada pela “seita” de Epstein — e conseguiu escapar",
-      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
-      "publishedAt": "2026-09-06T17:31:23.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
       "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
       "publishedAt": "2026-09-06T17:31:01.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Chefe da área de energia de Trump mostra hesitação quanto à trajetória dos preços da gasolina",
-      "titleOriginal": "Trump's energy boss wavers on gasoline price path",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWi1KOTY5cXNueHN3UVdTMWdBT1RzcTlERHBCRXlyYTEyeUpGLURlVVQwQmVoaHBMaUd5aHVveXhWeV85Z1pxU1VaZkdZcF85elZ0WXFpdjdIbjBSNmhGQ3EwbFFmTzNmYTR6LWViNlpPVWZs?oc=5",
-      "publishedAt": "2026-09-06T17:08:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O ex-presidente cubano Raúl Castro reaparece em um evento militar",
-      "titleOriginal": "Former Cuban President Raúl Castro reappears at a military event",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2d5VklsRDZ5MEhRREU4SjhSdEhlbjJVUzZFcm9sWU5OaElXRURsN0pEekJFZmlVTmdwWk9SSU04TXl1bEpSSnVTaDNublpyeXFqVWphWEQyUml1ZW0wd1ZUdDlrQWRzN2ZzbERUSFRVcmQzQXZFaXhFVmt5ZjA5MHMtMkVYOG9jUENYNlVoS2JLX1VCM29leno0TnlTZw?oc=5",
-      "publishedAt": "2026-09-06T17:08:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
-      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "publishedAt": "2026-09-06T17:05:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Wright afirma que vale a pena uma guerra contra o Irã para “recomeçar” o Oriente Médio",
-      "titleOriginal": "Wright says Iran war worth it to 'reset' Middle East",
-      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
-      "publishedAt": "2026-09-06T16:53:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas de New Hampshire dão o alarme: “Estamos perdendo”",
-      "titleOriginal": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
-      "publishedAt": "2026-09-06T16:22:43.000Z"
     }
   ]
 }
