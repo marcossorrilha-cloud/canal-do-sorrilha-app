@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-06T21:49:53.155Z",
+  "updatedAt": "2026-09-06T22:25:35.084Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Trump afirma que as obras no heliporto da Casa Branca estão concluídas após o reinício do projeto em agosto",
-      "titleOriginal": "Trump says White House helipad work is done after August project restart",
-      "link": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
-      "publishedAt": "2026-09-06T21:15:02.000Z"
+      "source": "Wall Street Journal",
+      "title": "A IKEA reduz os preços em toda a Europa, enquanto as pressões do custo de vida persistem",
+      "titleOriginal": "IKEA Cuts Prices Across Europe as Cost of Living Pressures Persist",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem00c3VBaXFWM2p3QVdGdjJ5YWxVTDRGYjNWaFl4YnhMd0Q5Y0FobGRLQklwSTV2bnlRbjY4YjVKQ1BMdkJRR0JHTWRRTXdsLVZjZFBOalV4U05NRlVzTktDQ2R4ZUlyV2pWZ2daVVFxUlh1cW1EblVVQ05WZzhDZVJyY3l0SzYxZ2VsU1FDZFNKN0I0b3NlbTY1MW9sQTh4SWRfYVVxT2lSbWdhTnVCeQ?oc=5",
+      "publishedAt": "2026-09-06T22:22:40.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A UPS reestrutura seu modelo operacional e nomeia diretor de operações globais",
+      "titleOriginal": "UPS Rejiggers Operating Model, Names Chief Global Operations Officer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFowbGVOZ1l5MnRXSmxLREpBSm8tZXk5Zy00Mjg0cUlOYnRYdVpMQkhJb294dlhYanZXZXBFRzVTeldueGJvZ0p1NlZiN2FyT0xsRGRHeDAwM0pQRjNWNzJyZXRTR1oxQmFaT2hrX0lWdWtqV29ua0FSZFNWUjNoMUh4SUZhaG13OVp6dW14cDFrS3RKamxmR2FpMW11bkN6SFl4b2d6MkZ6RGNZVkNlb2FBaHNJQQ?oc=5",
+      "publishedAt": "2026-09-06T22:14:40.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Líderes latinos pressionam Beshear sobre a disputa pelo governo do Texas",
+      "titleOriginal": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
+      "publishedAt": "2026-09-06T21:53:34.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Governadores democratas que cogitam concorrer à Casa Branca enfrentam a armadilha de DeSantis",
+      "titleOriginal": "Dem governors weighing White House face the DeSantis trap",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qU3dXb2FXaTd2dzlyc2xsSVdpUW9jM1F1NDQ1UDBsVXd2TEd2Y2VqM1dBWEEzeXJ3YmdQZ3c5RzBXaTl6al9NOWlRVnB3a1JLTlE3MTNENklhQU4wdV9jc3B3bHcwZTZHN2E0SmFRV1d5b21SZVEwXw?oc=5",
+      "publishedAt": "2026-09-06T21:49:06.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A TPG apresenta pedido confidencial de abertura de capital para ativos hospitalares na Malásia avaliados em cerca de US$ 8 bilhões",
+      "titleOriginal": "TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnhFeUVrZmpWcDRmRUFrS2xNNkYzUnVRbDVGNjFieWhZY2ZCVWNzaHRScWo0WEI3RjVCYUE3NXQ1Z2l5bGxLWjVMdW43WTRPWHlsZmlZcGRSSm1zd0o5N1VoeWxLX3pRZjZVbzRxX01Ua2hraDc4YWxXaWJwdExTejlIVTBnNm5DQ2Vob3V6NUJwRXBiTU5XSDBFWWRGQTNPdHlOUVVmY3pvSlA0N1UyUzV6OWV4TWdmXzd0QXFPVQ?oc=5",
+      "publishedAt": "2026-09-06T21:35:38.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
+      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "publishedAt": "2026-09-06T21:27:08.000Z"
     },
     {
       "source": "The Hill",
@@ -17,13 +52,6 @@
       "publishedAt": "2026-09-06T21:06:24.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O governo Trump amplia as deportações em massa de pessoas sem antecedentes criminais",
-      "titleOriginal": "Trump administration expands mass deportations with noncriminals",
-      "link": "https://thehill.com/homenews/administration/6072318-ice-arrests-surge-non-criminals/",
-      "publishedAt": "2026-09-06T21:00:00.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Para o ex-assessor de Trump, um caminho tortuoso de “delator” à reconciliação",
       "titleOriginal": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
@@ -31,46 +59,18 @@
       "publishedAt": "2026-09-06T20:49:45.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O Irã afirma que planeja anunciar uma nova “zona de exclusão” próxima ao Estreito de Ormuz",
+      "titleOriginal": "Iran says it plans to announce a new ‘exclusion zone’ near the Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
+      "publishedAt": "2026-09-06T20:35:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "O senador republicano John Kennedy se mostra evasivo quanto ao apoio a Hegseth",
       "titleOriginal": "GOP Sen. John Kennedy hedges on support for Hegseth",
       "link": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
       "publishedAt": "2026-09-06T20:30:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Avião sai da pista em Miami; Secretário de Energia minimiza aumento nos preços da gasolina enquanto EUA e Irã trocam ataques",
-      "titleOriginal": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes",
-      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
-      "publishedAt": "2026-09-06T20:23:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: O desequilíbrio cambial do Canadá em relação aos EUA “não existirá mais”",
-      "titleOriginal": "Trump: Canada's currency imbalance with US will be 'no longer'",
-      "link": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
-      "publishedAt": "2026-09-06T20:17:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Avião de carga da Amazon deixa para trás uma nuvem espessa de fumaça após ultrapassar a pista no aeroporto de Miami",
-      "titleOriginal": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
-      "link": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
-      "publishedAt": "2026-09-06T19:56:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hinojosa sobre o investimento de US$ 10 milhões de Trump na campanha de Paxton: “Acho ótimo que o Texas esteja recebendo essa atenção”",
-      "titleOriginal": "Hinojosa on Trump $10 million Paxton race investment: 'I welcome the attention on Texas'",
-      "link": "https://thehill.com/homenews/campaign/6074013-hinojosa-texas-elections-democrats-tossup-attention/",
-      "publishedAt": "2026-09-06T19:20:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democrata da Pensilvânia diz que “talvez” concorra contra Fetterman em 2028",
-      "titleOriginal": "Pennsylvania Democrat says he 'might' challenge Fetterman in 2028",
-      "link": "https://thehill.com/homenews/campaign/6074036-deluzio-challenges-fetterman-2028/",
-      "publishedAt": "2026-09-06T19:16:20.000Z"
     }
   ]
 }
