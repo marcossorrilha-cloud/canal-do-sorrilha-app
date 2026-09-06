@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:30:32.190Z",
+  "updatedAt": "2026-09-06T12:52:26.354Z",
   "count": 10,
   "items": [
     {
@@ -24,25 +24,18 @@
       "publishedAt": "2026-09-06T11:57:20.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Não culpe a China pela escassez de fertilizantes",
-      "titleOriginal": "Opinion | Don’t Blame China for the Fertilizer Shortage",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzVjUXpGb084dGxaLTlwejVFTUxIRFhEazl1NHR4Y0h5SFFBMXo5NUpvZWZXZVpsSElLcWY3cWxTSl8xLXF5WFpVLVQ4R2Vid25XdEFoenBGcVNENFRocFBvTFozMWFpOGtwT29NOFV2dWZJS09mc2R1LVBidElPbWZ4Z3Q5Sng0?oc=5",
-      "publishedAt": "2026-09-06T11:13:46.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os próprios bancos dos Estados Unidos são um ponto fraco na campanha para isolar o Irã",
-      "titleOriginal": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3JVbm9KUzVYQVFfZmZOdEZPWExFaE00NXhFbEJnXzQ5T19uTWpYUjZ4bUpRT3dLeE5sNzlDYVJNV0ZaeDctbkJSR2hhQ3NMcU1KS2hmTU16enZJVjVvVG1Zd21ScEZreE1SQU1Ta2VJTmw4UndwanNRT1NPRC1lTWd2TlkxQnRlVnlXVGRtbGJ2X1hXMC0yLUlvSGx1TGpERXc?oc=5",
-      "publishedAt": "2026-09-06T11:04:00.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Hunter Biden: “Talvez eu tenha que” concorrer à presidência em 2028",
       "titleOriginal": "Hunter Biden: 'I may have to' run for president in 2028",
       "link": "https://thehill.com/homenews/campaign/6073586-hunter-biden-says-i-may-have-to-run-in-2028/",
       "publishedAt": "2026-09-06T11:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
+      "titleOriginal": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3FZUThSdWpjTjlEZTNPVHBXN21mQi1Pb1JSWWxvMWtab1JmSllPeS1TUGFoUnBsdUxzSWdmUnJlQlV6R0Roc1JhR1ZKYkZYSXdXRkVpejBTdk4zX1VaLWI5TEVYMTJYUmFrdFVlZkFwTlpCWXMweDRxaDhFVUNYV2FYS3d4MmI3WmJESHF0aC1jRVhKdno1Q3lpVE4xMkpLa1RpSnJmd3BucUgwQzRCZ2RiU0c0cG9mT3hfeg?oc=5",
+      "publishedAt": "2026-09-06T10:26:14.000Z"
     },
     {
       "source": "Politico",
@@ -71,6 +64,13 @@
       "titleOriginal": "Vance’s 2028 Audition With Voters Has Begun",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0FmM2s4UzlzRXdsdE91SXFSR2FGRVRoNncwaHVpR2RSTWUxSUxQVTZ5dlpKR0lLY0lwUFN5VXBrYUY0aXEtXy1tT0dhc3lBZmpjQkZsVUJ3c19qUUdmNndjbHZCdzUzV0QtQ0JTeDZCMXpBZUs1VlZMc19wc05pcW5zakgxWHM?oc=5",
       "publishedAt": "2026-09-06T09:02:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas de New Hampshire dão o alarme: “Estamos perdendo”",
+      "titleOriginal": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
+      "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
+      "publishedAt": "2026-09-06T09:01:55.000Z"
     }
   ]
 }
