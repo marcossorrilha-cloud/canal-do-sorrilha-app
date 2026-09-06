@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:55:33.686Z",
+  "updatedAt": "2026-09-06T01:24:28.664Z",
   "count": 10,
   "items": [
     {
@@ -24,13 +24,6 @@
       "publishedAt": "2026-09-05T22:00:36.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump recorre a um enorme fundo de campanha para ajudar Paxton, que está em apuros, no Texas",
-      "titleOriginal": "Trump taps massive war chest to help embattled Paxton in Texas",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
-      "publishedAt": "2026-09-05T21:50:35.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Documentário sobre a turnê de reunião do Oasis arrasa no Festival de Cinema de Veneza",
       "titleOriginal": "Oasis reunion tour documentary rocks Venice Film Festival",
@@ -46,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "Os EUA atacam três petroleiros iranianos após alegarem que navios de guerra foram alvo de mísseis balísticos",
+      "title": "Os EUA atacaram três petroleiros iranianos após afirmarem que navios de guerra haviam sido alvo de mísseis balísticos",
       "titleOriginal": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
       "publishedAt": "2026-09-05T21:00:00.000Z"
@@ -71,6 +64,13 @@
       "titleOriginal": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
       "publishedAt": "2026-09-05T19:06:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O que a guerra no Irã custou a uma família com a “Estrela de Ouro”",
+      "titleOriginal": "What the War in Iran Has Cost One Gold Star Family",
+      "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+      "publishedAt": "2026-09-05T18:27:00.000Z"
     }
   ]
 }
