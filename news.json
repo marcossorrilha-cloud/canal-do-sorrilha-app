@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:27:36.537Z",
+  "updatedAt": "2026-09-06T18:49:21.621Z",
   "count": 10,
   "items": [
     {
@@ -17,32 +17,53 @@
       "publishedAt": "2026-09-06T17:46:46.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Chefe da área de energia de Trump hesita quanto à trajetória do preço da gasolina",
-      "titleOriginal": "Trump's energy boss wavers on gasoline price path",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWi1KOTY5cXNueHN3UVdTMWdBT1RzcTlERHBCRXlyYTEyeUpGLURlVVQwQmVoaHBMaUd5aHVveXhWeV85Z1pxU1VaZkdZcF85elZ0WXFpdjdIbjBSNmhGQ3EwbFFmTzNmYTR6LWViNlpPVWZs?oc=5",
-      "publishedAt": "2026-09-06T17:08:34.000Z"
+      "source": "Wall Street Journal",
+      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
+      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
+      "publishedAt": "2026-09-06T17:35:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como uma mulher foi apanhada pela “seita” de Epstein — e conseguiu escapar",
+      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
+      "publishedAt": "2026-09-06T17:31:23.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
       "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
-      "publishedAt": "2026-09-06T17:01:30.000Z"
+      "publishedAt": "2026-09-06T17:31:01.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Wright afirma que vale a pena entrar em guerra com o Irã para “recomeçar” o Oriente Médio",
-      "titleOriginal": "Wright says Iran war worth it to 'reset' Middle East",
-      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
-      "publishedAt": "2026-09-06T16:53:37.000Z"
+      "source": "Axios",
+      "title": "Chefe da área de energia de Trump mostra hesitação quanto à trajetória dos preços da gasolina",
+      "titleOriginal": "Trump's energy boss wavers on gasoline price path",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWi1KOTY5cXNueHN3UVdTMWdBT1RzcTlERHBCRXlyYTEyeUpGLURlVVQwQmVoaHBMaUd5aHVveXhWeV85Z1pxU1VaZkdZcF85elZ0WXFpdjdIbjBSNmhGQ3EwbFFmTzNmYTR6LWViNlpPVWZs?oc=5",
+      "publishedAt": "2026-09-06T17:08:34.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O ex-presidente cubano Raúl Castro reaparece em um evento militar",
+      "titleOriginal": "Former Cuban President Raúl Castro reappears at a military event",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2d5VklsRDZ5MEhRREU4SjhSdEhlbjJVUzZFcm9sWU5OaElXRURsN0pEekJFZmlVTmdwWk9SSU04TXl1bEpSSnVTaDNublpyeXFqVWphWEQyUml1ZW0wd1ZUdDlrQWRzN2ZzbERUSFRVcmQzQXZFaXhFVmt5ZjA5MHMtMkVYOG9jUENYNlVoS2JLX1VCM29leno0TnlTZw?oc=5",
+      "publishedAt": "2026-09-06T17:08:00.000Z"
     },
     {
       "source": "Axios",
       "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
       "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "publishedAt": "2026-09-06T16:25:53.000Z"
+      "publishedAt": "2026-09-06T17:05:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Wright afirma que vale a pena uma guerra contra o Irã para “recomeçar” o Oriente Médio",
+      "titleOriginal": "Wright says Iran war worth it to 'reset' Middle East",
+      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
+      "publishedAt": "2026-09-06T16:53:37.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
       "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
       "publishedAt": "2026-09-06T16:22:43.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Para um ex-funcionário demitido da campanha de DeSantis, uma segunda chance no Departamento de Estado",
-      "titleOriginal": "For Fired DeSantis Campaign Staff Member, a Second Chance at State Dept.",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
-      "publishedAt": "2026-09-06T16:22:22.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A escola iraniana atingida nos primeiros ataques da guerra é hoje um memorial dedicado às crianças",
-      "titleOriginal": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-      "publishedAt": "2026-09-06T16:14:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Futuros do petróleo bruto encerram em alta e baixa, sem que se vislumbre o fim do conflito entre os EUA e o Irã",
-      "titleOriginal": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
-      "publishedAt": "2026-09-06T16:03:42.000Z"
     }
   ]
 }
