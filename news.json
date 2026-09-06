@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-06T03:26:43.612Z",
+  "updatedAt": "2026-09-06T03:50:27.157Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
+      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
+      "publishedAt": "2026-09-06T03:14:19.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
@@ -10,15 +17,8 @@
       "publishedAt": "2026-09-06T02:56:13.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O jogador de pôquer, a tia bilionária e uma guerra imobiliária de US$ 5 bilhões",
-      "titleOriginal": "The Poker Player, the Billionaire Aunt and a $5 Billion Real-Estate War",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMnR1ZEJjeFExU29fQUgtSXpfMWJzREdFdFpneHA0dGktYlZhOEhQc3kxSkhMVEpfQ2xuMnp6OGUxRUlCNlNBR2JQQTVqU090VnJNWDU1cG1XOG5ubm5OMzRJNzRWVGl0SUhUZlZRTlFnNHp6cGFZem1B?oc=5",
-      "publishedAt": "2026-09-06T02:46:14.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Uma retrospectiva do verão marcado pelo forte movimento MAGA na Washington de Trump",
+      "title": "Uma retrospectiva do verão marcado pelo movimento MAGA na Washington de Trump",
       "titleOriginal": "Looking Back on the Summer of High MAGA in Trump’s Washington",
       "link": "https://www.nytimes.com/2026/09/05/us/politics/trump-maga-dc.html",
       "publishedAt": "2026-09-06T02:01:33.000Z"
@@ -46,7 +46,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como uma mulher foi apanhada na “seita” de Epstein — e conseguiu escapar",
+      "title": "Como uma mulher foi apanhada pela “seita” de Epstein — e conseguiu escapar",
       "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
       "publishedAt": "2026-09-05T23:01:23.000Z"
@@ -66,11 +66,11 @@
       "publishedAt": "2026-09-05T21:58:39.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Documentário sobre a turnê de reunião do Oasis arrasa no Festival de Cinema de Veneza",
-      "titleOriginal": "Oasis reunion tour documentary rocks Venice Film Festival",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGxMSkNiay16Y1U1VmlXR2JZRFlHUm9aX0FCOVhaWko3SWstUkhEWDBmb3M2elZqOFpVX09yTlc5cEZRaDRFT0FuWVdVT0hHSDU2cFk4UDJleEJuT1lLR25hdlNHaHlUeTlOa3Z5aDAyZXhpdWNxOENMVGd6eHhNWThPSUdQLU00eDVHRGZsWQ?oc=5",
-      "publishedAt": "2026-09-05T21:39:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "A portas fechadas, John Fetterman demonstra pouco interesse pelo trabalho de um senador",
+      "titleOriginal": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2dXdWdQUFBuNW55c1JxcW5PWlhGZk9LclpZVTBNNzZQYVZUV29CZEsxQ05PTEc0ajIyY0NVamEwOWJwOXFKRjJYUUFhTWUybkd3M2xadjFsNWwxM2hodGRvVW43TGx2Zl9SVTJGVXNGUHh4MjBTRXVnZGZoUXUwN3pPdDZJUEpyeGpR?oc=5",
+      "publishedAt": "2026-09-05T21:45:26.000Z"
     }
   ]
 }
