@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-07T01:26:04.240Z",
+  "updatedAt": "2026-09-07T01:51:51.673Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra no Irã se intensifica",
+      "title": "Por trás do acordo de Trump com a Venezuela",
+      "titleOriginal": "Behind Trump’s Venezuela Deal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
+      "publishedAt": "2026-09-07T01:38:09.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Relatório Matinal de Risco: FTC entra com ação judicial alegando que a Amazon enganou anunciantes",
+      "titleOriginal": "The Morning Risk Report: FTC Files Lawsuit Alleging Amazon Deceived Advertisers",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVM0cEZMZk9PbGROZEpzSk9CVGFLU2ZMWUE2UmpVWTBNZXZZei13STJZZlZqYjh2NHdhRVJBNDhaaG1Wd1JOdnhLb292MlNscmhPM1lFczljdWduQ3VyMEVTUnNMSkdSLXZFQ2RJZ1VOZnk2c0stTXFHbXl3MlR5MUVrVmZPeDN5R29WSnhVZndBRkpMZks3cHJMek1Wdkh3ZngtNkJ6ZnY0aktHUVBza0NOamFiSW1STGVaQUFMaXJIT1ZIOGdBaTNJVQ?oc=5",
+      "publishedAt": "2026-09-07T01:38:09.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra com o Irã se intensifica",
       "titleOriginal": "U.S. Stocks Fall as Iran War Inflation Heats Up",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
       "publishedAt": "2026-09-07T01:12:05.000Z"
@@ -25,17 +39,17 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "Preço do petróleo sobe em meio à escalada do conflito entre os EUA e o Irã",
+      "titleOriginal": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmhDWFpnOE0xTW9sOGJvVlJhcUxTRTRiM0NxWHFuaXFaT0NwQVVWNS1PSzluQmF4bmpUSUhxSXVVLTdPSDhiajF4RkpLRmtmdkp0STRlMWZUaUNKVzlQWEZ0X1dZUzk4T0h3bGNsOXZCVWwybnYwWWNxS1p2OERTZ3h3S2tTZ0pVdU5SVHE0VjVoZk9CS3ZJVGVxOTVpV01pWkE4QjZn?oc=5",
+      "publishedAt": "2026-09-06T23:38:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
       "titleOriginal": "Financial Services Roundup: Market Talk",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDBOSGEyTDlBWE9fbXNkOFlfYW9iY2duVjlKZmJ3ak05b3Y1eUFRZlFYa3JfQ2RYTldlUFhLR29WN0dXRC1RSnNHc2ZjcjBXbXQyVmU0Zi1aSGI5Y3B2R2RKNzJPY0dGdkRjek4tX2g5dFZsaUQ3amtsdEoxbXFBUjF3?oc=5",
       "publishedAt": "2026-09-06T23:19:27.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A história indissociável de Israel e da Irlanda",
-      "titleOriginal": "Opinion | Israel and Ireland’s Inextricable History",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV85dGt0dDh6dmZOU1l5N0oxN01vVEJmLUVsMktTdWZtcnZRaVgzUjNCOGxwbkNGcTcwSUxMS2F0dmo1dFNhVHRJbUl5R0lhRzNoQy1sRjdMVjhncnVrNnhwUFpmdHpHNGZOaVZ6VUdtN1hnZXNlS1Rjajdfd0JfNnVGWklabmJRdlMtWWVYMm5GbGJGSmVqMQ?oc=5",
-      "publishedAt": "2026-09-06T23:19:19.000Z"
     },
     {
       "source": "New York Times",
@@ -45,32 +59,18 @@
       "publishedAt": "2026-09-06T23:14:43.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump publica mapa que identifica o Novo México como “Nova América” após boato na internet",
-      "titleOriginal": "Trump posts map labeling New Mexico as 'New America' after online hoax",
-      "link": "https://thehill.com/homenews/administration/6074249-trump-posts-map-labeling-new-mexico-as-new-america-after-online-hoax/",
-      "publishedAt": "2026-09-06T23:14:00.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Líderes latinos pressionam Beshear em relação à disputa pelo governo do Texas",
+      "titleOriginal": "Exclusive: Latino leaders pressure Beshear on Texas' race for governor",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
+      "publishedAt": "2026-09-06T23:07:09.000Z"
     },
     {
       "source": "AP News",
-      "title": "Agressor atacou candidato democrata ao governo de Ohio durante feira, segundo a campanha",
+      "title": "Agressor atacou candidato democrata ao governo de Ohio em feira, segundo a campanha",
       "titleOriginal": "Assailant lunged at Democratic candidate for Ohio governor at fair, campaign says",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
       "publishedAt": "2026-09-06T23:01:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Governadores democratas que cogitam concorrer à Casa Branca enfrentam o dilema DeSantis",
-      "titleOriginal": "Dem governors weighing White House face the DeSantis dilemma",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qU3dXb2FXaTd2dzlyc2xsSVdpUW9jM1F1NDQ1UDBsVXd2TEd2Y2VqM1dBWEEzeXJ3YmdQZ3c5RzBXaTl6al9NOWlRVnB3a1JLTlE3MTNENklhQU4wdV9jc3B3bHcwZTZHN2E0SmFRV1d5b21SZVEwXw?oc=5",
-      "publishedAt": "2026-09-06T22:57:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Itália dá um susto nos EUA e a China vence a República Tcheca na Copa do Mundo Feminina da FIBA",
-      "titleOriginal": "Italy gives US a scare and China edges Czech Republic in women’s FIBA World Cup",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnBfaFc1TDJoSEhmT1BNMnctNEZRdHN1MVZHQzFLRkhweGxaVlVyNWFGYkpZLXhEVG1KYTFzLWVvUHRPNHdTRnZzNUM4RWlRTUpfSW9sdWZ1ZkJzanRvbER1cEo1STJPSVgwZXJvUTA3OTBiUF9iSTRWaTJRdm1CVkJ1ZW01SjdFMnRFeUVQRU9GN25ZMTFJ?oc=5",
-      "publishedAt": "2026-09-06T22:47:00.000Z"
     }
   ]
 }
