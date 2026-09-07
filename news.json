@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-07T23:25:20.419Z",
+  "updatedAt": "2026-09-07T23:49:05.996Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Hunter Biden (e seu laptop) entram na criptosfera com uma nova moeda meme",
+      "titleOriginal": "Exclusive | Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ25xQUE5RHlFMGtPVlFBN3M5ZFRJWDdCX2o5V3dHVHJVSTlMWV9nOUw3VkhkX3YyUUlYX3BXZFhHMW1EZlFsVVQ0ZmNtaEtzNlVoU3ZvTUJ4LXN1SjI4NjV2cWZSYW1kTS1XRnNrTnBpVFdkQ2ZXdWo1SUF0emNZXzgzNFBfNi1rdzA0N3RCWWowaFU4NlA3b3JXNWFRQ1VmSUZLbWZFcEhuZU83elhwcDlSMGtDa0Q3?oc=5",
+      "publishedAt": "2026-09-07T23:37:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
+      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
+      "publishedAt": "2026-09-07T23:34:22.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
@@ -31,27 +45,6 @@
       "publishedAt": "2026-09-07T22:31:47.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara dos Deputados",
-      "titleOriginal": "Opinion | Hakeem Jeffries Is Hapless in the House",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJsdGJmQUVtdHBaUjMxMDBrOU94UTJPUmtMa2swRF9Dd2tMdlRZakxwazNQQVRKMnp3Y1FiZVNkblp6TTRCUDFQdldFUjlDUUtEalFTU3lsejBfbTNZUmcxWDZYOGlsU0NLOFhXTjV0clJZR1hqSmtnMlFJTEF6QnhaclNoV2phQndHTVNfLTIzQ19YeFBF?oc=5",
-      "publishedAt": "2026-09-07T22:27:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
-      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
-      "publishedAt": "2026-09-07T22:04:21.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-07T22:01:24.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Trump publica atualizações sobre seus projetos de “embelezamento” em Washington, D.C.",
       "titleOriginal": "Trump posts updates about his DC ‘beautification’ projects",
@@ -60,17 +53,24 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Novartis afirma que o medicamento para doenças cardíacas Pelacarsen não atingiu o desfecho primário",
+      "title": "A Novartis afirma que o medicamento para doenças cardíacas pelacarsen não atingiu o desfecho primário",
       "titleOriginal": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
       "publishedAt": "2026-09-07T21:50:02.000Z"
     },
     {
       "source": "AP News",
-      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de 5 pessoas em Miami",
+      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e matou cinco pessoas em Miami",
       "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
       "publishedAt": "2026-09-07T21:41:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A senadora Marsha Blackburn poderia nomear seu próprio substituto no Senado",
+      "titleOriginal": "Sen. Marsha Blackburn could appoint her own replacement in the Senate",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVN4LVBma2MyR2hnRnlhZmN0M2lCN3dNdWwxajlGMS1TYVU2VkRZYm9PSkJKaXFDVzlnYVozQVl0TjduM0FweUZIQnRkRG5kUXBiTkpGMDRXV2x2dHAyS2dTcm5QYnZXSGZzNTJMc3JoY2FrM2QycUw4UUNCUEMyemFiaHpKR0RBMG9UWEdPNkdPdGUyNFdLRkhKRGhlYkZJMHpjdmJJTGZwdzBoS2phYUZrTEJCZ0szY2c?oc=5",
+      "publishedAt": "2026-09-07T21:24:14.000Z"
     }
   ]
 }
