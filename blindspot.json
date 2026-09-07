@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-07T03:28:40.335Z",
-  "slot": "2026-09-07-AM",
+  "updatedAt": "2026-09-07T15:27:48.070Z",
+  "slot": "2026-09-07-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O jornal “The Post” acompanhou os policiais estaduais durante a operação de repressão à imigração promovida por Trump. Veja o que observamos.",
-      "titleOriginal": "The Post watched state troopers carrying out Trump’s immigration crackdown. Here’s what we saw.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkk0R09fVWhZaEVMeDJlMHZUVEpPUmlpZkp1VXVPaWV5LW1UelltaVoxY3NxUjlGNkZMejlfTmotTDJjM1J3N1NWZFM4VHlRWkh5UkxKS3ZHZjdzYzd2VlJ2VDd1QjZXQXlsa3A1dDNpbzlTVFBGU0U2UWpuN1lQWmFpeGQ0anNsdmVTTGtqRzZiYzAyNWl3RWVqZHZjbWZSQWdDVkdUbjUzbzUyTl9pbHExQ1EycUdIMGp0cGRCbG9qZ1dy?oc=5",
+      "title": "Em Kiev, enviados dos EUA afirmam que há um esforço em andamento para a realização de negociações trilaterais com o objetivo de pôr fim à guerra da Rússia",
+      "titleOriginal": "In Kyiv, U.S. envoys say push is on for trilateral talks to end Russia’s war",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPck1PNW5Cb3Njc2IyUUNLUWJDWjczaE1JRHRvbGtaaDcxcTNza1lRMVJrMmVqVnFyeWhKZnhhZXNSTE5CNXZ5STMyYlJvZXBsUmtZNEppeTVVc0U2YkFwYU1PY0dPQ2VvYjVlR2RmUlhlVTRyOGxDdHJaN1ZVazBxek9SeFJWUHlhOVQ4eUhaRUk4SWZ1RXI2WVB5MnZXZkdlM2h4UTNLOVg4UVFVaW9DQ1A0cjJJdw?oc=5",
       "source": "Washington Post",
-      "coverage": 2
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump sugere a ideia de mudar o nome do Novo México para “Nova América”",
-      "titleOriginal": "Trump teases idea of changing New Mexico to ‘New America’",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUlLaDQxNThTd295dGZYSDBwWE9OMFFLb0RaR3VxeHZWUTQ4S2RKZWUwVjlEbnRQb3NqdnRKa282VWhjQ0haV2NMRzY3b3BWVDJpRlBTNFRFZnA3U1ZoT3FCaFhjU3hVbTFPYnI5eTdhZURMbkh1TWs2eUFwQU5xRXZBRVVoSDZhSXBkOFM4cE45MVNVdDZFcDdVOXpsTG90UXlSSFNEaDlvbWZ0dkI4Z1FwZ0x0YUU?oc=5",
-      "source": "Washington Examiner",
+      "title": "Michael Rapaport critica o “palhaço” Macklemore por sua apresentação contra Israel",
+      "titleOriginal": "Michael Rapaport slams 'clown' Macklemore for anti-Israel performance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkY5enJiR0U4dk9wSWhsTGk0SThVZHVKVmlLaF96dzhnN3F0RHlXLUZFUEk3Rk1lQ3ZQVWFHUy1iaUVndUdPOFcyRHh6RFhWODZIUFQzWGhBQm9Cb25BQ2c3S2t1V01jMG1GWEMxcmJ6bVl4RklVUDNEUUhKb2U2am4xMVQxU3FWRWNiTXRobEI1TWxyYWpBVE0xN2NYVjA1UVQ40gGoAUFVX3lxTFBsTDNfZDk4eU5zRXgwYnRRMkRMZlBlMlR3aDIwbjZMSmY0ZVo0ZWFSeElVT1BPNHczc00zblpFdkpjMW1ZZlF3LWhhUmVxVm16bmhWeENKMlJUQzBLS09mWUowVG1MMUNaRUphaUlzZVVlcmsxa0gxSTNxNm9tSmRQenJIb3ctX3JNZnJEc3ZjcnpOOXlEdkJKLVMtanQ0bVRrT3VJS0pUbA?oc=5",
+      "source": "Fox News",
       "coverage": 3
     }
   ]
