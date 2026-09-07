@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-07T16:27:52.131Z",
+  "updatedAt": "2026-09-07T16:51:55.807Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "5 disputas eleitorais a acompanhar neste outono para obter respostas às principais questões das eleições de meio de mandato",
+      "titleOriginal": "5 Races to Watch This Fall for Answers to the Biggest Midterm Questions",
+      "link": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
+      "publishedAt": "2026-09-07T16:44:31.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
+      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
+      "publishedAt": "2026-09-07T16:40:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
+      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
+      "publishedAt": "2026-09-07T16:31:30.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de cinco pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T16:29:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
@@ -10,32 +38,18 @@
       "publishedAt": "2026-09-07T16:19:09.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "5 disputas eleitorais a acompanhar neste outono para obter respostas às principais questões das eleições de meio de mandato",
-      "titleOriginal": "5 Races to Watch This Fall for Answers to the Biggest Midterm Questions",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
-      "publishedAt": "2026-09-07T16:03:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-07T16:01:23.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Onde está Trump, o “Rei da Dívida”, quando precisamos dele para lidar com a dívida pública?",
-      "titleOriginal": "Where is 'King of Debt' Trump when we need him on the national debt?",
-      "link": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
+      "title": "A reforma de Trump em Washington, D.C.: o que você precisa saber",
+      "titleOriginal": "Trump’s DC makeover: What to know",
+      "link": "https://thehill.com/homenews/administration/6072139-trump-dc-beautification-projects/",
       "publishedAt": "2026-09-07T16:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Investigadores federais apuram as causas do acidente com incêndio envolvendo um jato de carga da Amazon na pista de pouso, que matou cinco pessoas em Miami",
-      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-      "publishedAt": "2026-09-07T15:59:00.000Z"
+      "source": "The Hill",
+      "title": "Onde está o “Rei da Dívida” Trump quando precisamos dele para lidar com a dívida pública?",
+      "titleOriginal": "Where is 'King of Debt' Trump when we need him on the national debt?",
+      "link": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
+      "publishedAt": "2026-09-07T16:00:00.000Z"
     },
     {
       "source": "Axios",
@@ -53,24 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Pesquisa do BOE aponta para uma desaceleração nas pressões sobre os preços",
-      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
-      "publishedAt": "2026-09-07T15:10:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Missões mais prolongadas no Oriente Médio sobrecarregam as forças americanas à medida que o conflito com o Irã se arrasta | O “10-Point” de 3 de setembro",
-      "titleOriginal": "Longer Middle East Deployments Strain U.S. Forces as Iran Conflict Drags On | The 10-Point for September 3",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE?oc=5",
-      "publishedAt": "2026-09-07T15:01:27.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "É um momento difícil para os sindicatos na era Trump — as prefeituras e os estados podem ajudar",
-      "titleOriginal": "It's a tough time for unions in the age of Trump — cities and states can help",
-      "link": "https://thehill.com/opinion/white-house/6071536-protecting-labor-rights/",
-      "publishedAt": "2026-09-07T15:00:00.000Z"
+      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
+      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
+      "publishedAt": "2026-09-07T15:01:46.000Z"
     }
   ]
 }
