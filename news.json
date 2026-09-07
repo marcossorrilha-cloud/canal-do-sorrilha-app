@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-07T07:53:09.222Z",
+  "updatedAt": "2026-09-07T08:30:57.810Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Guerra no Irã",
+      "titleOriginal": "Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "publishedAt": "2026-09-07T08:29:20.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
-      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
-      "publishedAt": "2026-09-07T07:40:13.000Z"
+      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
+      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "publishedAt": "2026-09-07T08:25:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Orientações para auditores na era da IA",
+      "titleOriginal": "Advice for Auditors in the AI Era",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMkNzcmZUZFpHNnlVVnJDbDY2QVVSTGlOcU1aOXJRbDAzLUFRbU01cjBIVmc5YmlDSktXeXBudUxuNWlHa3FOTGhkTzhtTEE4VzMzdFE4RExGQ0J2WkNBdVgtMzZEOTJGbWpsRHRrTjVNZnhOZTR3LVZyRXBxTFk?oc=5",
+      "publishedAt": "2026-09-07T08:20:23.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,46 +45,32 @@
       "publishedAt": "2026-09-07T07:31:45.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Chanceler alemã enfrenta tempos difíceis após a primeira vitória de um partido de extrema direita em eleições estaduais desde a era nazista",
+      "titleOriginal": "German chancellor faces tough times after first far-right party's state election win since Nazi era",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+      "publishedAt": "2026-09-07T07:31:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Dólar recua, sem se abalar com a alta nos preços do petróleo",
+      "title": "Dólar recua, sem se deixar abalar pela alta nos preços do petróleo",
       "titleOriginal": "Dollar Declines, Shrugs Off Higher Oil Prices",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1SMlBLeTFJUF92QjE5Ny0zTVNNZnZPaFBmVHhpQkRCVVMxVEw0RFc2Tzg4aDhXTEtEWmxiWTdkTlBrRzhvY2RjQWpwRzZJakhxbV9vR2ZuelRaQ0NWajA4OEwtZnppYnNJMkJ1ZVNhNUhWazFRTWV6S3dISkJzX3BCV1lSU3d6dDVGSEdFLV81Y0tMbjAwNU5MN3lBRHlQeG42TV9ya0FfMUZXMjBFT3RoZXIxYnJnSFE?oc=5",
       "publishedAt": "2026-09-07T07:17:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O produtor de “O Diabo Veste Prada” corre na esteira ao som de “Law & Order”",
-      "titleOriginal": "‘The Devil Wears Prada’ Producer Runs on the Treadmill to ‘Law & Order’",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2wzNEpqMVloRHJSVnRES0lfdFpRNFBZMFVNMHZCODl4bW1QVWJ3RlZBSFM3cGExcU1wZ2F2M1FkNzQyeU5ZWVFDSlk2aDhTWkJaZ29lQ1RVNWk4YzRleV9KMV82U3BDZ1JQZFNpeERaWE1yb3NrTFdjMThtSzVMOGpJMExHUzQ?oc=5",
-      "publishedAt": "2026-09-07T07:09:37.000Z"
+      "source": "AP News",
+      "title": "Jogadores de futebol iranianos que solicitaram asilo na Austrália afirmam que o silêncio durante o hino foi um protesto contra Teerã",
+      "titleOriginal": "Iranian soccer players who sought asylum in Australia say anthem silence was protest against Tehran",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2RDMzNfdjdKeDlScmk0N0tDUXhnckNyVmxIWVdwU2lGMURrU2o2cnlSc19qcTNrdkZRanM2SnYtd1Z0NGt3U05uUTRIbnZLNVFNRzJSWExjdjhmUWk2WXZPOEVtN3p6ZGd6V0xzdGZ0TjRpMl9lTHU0ZU80aUUxLV9aN08tcEdsT3NhS3VWcG02TnVycEVtandn?oc=5",
+      "publishedAt": "2026-09-07T06:23:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ola, a oferta de aquisição de US$ 15 bilhões da Uber recebe apoio do conselho da Delivery Hero",
-      "titleOriginal": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
-      "publishedAt": "2026-09-07T06:54:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A dificuldade de sair da guerra entre os EUA e o Irã leva à cautela no mercado de títulos de longo prazo",
-      "titleOriginal": "Difficult Exit From U.S.-Iran War Prompts Caution in Long-End Bonds",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGxnS1Y3akF3RzdYWFl1TlhlLXAza0dvZGFaZW1PRm40Q2Fabkp1c0pSaXJKSkdUdW9kWC1UejBmRU9sRVpsd0p6VFppamxXdXRLODg2bVhwTFk1TjlGNUd5YzRQcHZsUW5WRFdMeXBIU2N5NktOaG8wOGRjcnVhbw?oc=5",
-      "publishedAt": "2026-09-07T06:11:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra com o Irã se intensifica",
-      "titleOriginal": "U.S. Stocks Fall as Iran War Inflation Heats Up",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
-      "publishedAt": "2026-09-07T06:09:21.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Em reviravolta inesperada, legisladores da Califórnia não aprovam projeto de lei enfraquecido sobre incêndios florestais",
-      "titleOriginal": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY?oc=5",
-      "publishedAt": "2026-09-07T05:49:10.000Z"
+      "title": "Pesquisa do BOE aponta para uma diminuição das pressões sobre os preços",
+      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
+      "publishedAt": "2026-09-07T06:10:13.000Z"
     }
   ]
 }
