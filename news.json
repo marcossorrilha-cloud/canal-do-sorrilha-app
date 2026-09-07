@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-07T05:27:08.391Z",
+  "updatedAt": "2026-09-07T05:52:25.624Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Relatório Matinal de Risco: FTC entra com ação judicial alegando que a Amazon enganou anunciantes",
+      "titleOriginal": "The Morning Risk Report: FTC Files Lawsuit Alleging Amazon Deceived Advertisers",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVM0cEZMZk9PbGROZEpzSk9CVGFLU2ZMWUE2UmpVWTBNZXZZei13STJZZlZqYjh2NHdhRVJBNDhaaG1Wd1JOdnhLb292MlNscmhPM1lFczljdWduQ3VyMEVTUnNMSkdSLXZFQ2RJZ1VOZnk2c0stTXFHbXl3MlR5MUVrVmZPeDN5R29WSnhVZndBRkpMZks3cHJMek1Wdkh3ZngtNkJ6ZnY0aktHUVBza0NOamFiSW1STGVaQUFMaXJIT1ZIOGdBaTNJVQ?oc=5",
+      "publishedAt": "2026-09-07T05:35:04.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "O produtor de “O Diabo Veste Prada” corre na esteira ao som de “Law & Order”",
       "titleOriginal": "‘The Devil Wears Prada’ Producer Runs on the Treadmill to ‘Law & Order’",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2wzNEpqMVloRHJSVnRES0lfdFpRNFBZMFVNMHZCODl4bW1QVWJ3RlZBSFM3cGExcU1wZ2F2M1FkNzQyeU5ZWVFDSlk2aDhTWkJaZ29lQ1RVNWk4YzRleV9KMV82U3BDZ1JQZFNpeERaWE1yb3NrTFdjMThtSzVMOGpJMExHUzQ?oc=5",
       "publishedAt": "2026-09-07T05:09:02.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Alemanha contesta as alegações de genocídio em Gaza no tribunal superior da ONU",
+      "titleOriginal": "Germany fights Gaza genocide claims at the UN’s top court",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUM4VTlUZ0owTGV1aDBLYzVqMzBQbnM3N1BTSTZ5SDlBQTZKOEo1RWxpX3RkeUpITExneXU1UmhkdGhIRndyRjFmN21DZm05UTFXYjZ4TlhseHVNa0F3UnZRQzJGbjRKcURBUlI1SjB4YUdPZGd5MHlSa0Jfc3BSM1FGVUt0RGpHdTVxWUJnRnRabTg2QkhyYlFmY3VBSzhVcGl1YzgySm9NYllqbm13?oc=5",
+      "publishedAt": "2026-09-07T05:06:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -45,32 +59,18 @@
       "publishedAt": "2026-09-07T03:08:27.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Witkoff e Kushner visitam a Ucrânia pela primeira vez para negociações de paz",
-      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "publishedAt": "2026-09-07T02:21:43.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Pequim vai injetar bilhões em bancos e seguradoras para impulsionar o crescimento",
+      "title": "Pequim injetará bilhões em bancos e seguradoras para impulsionar o crescimento",
       "titleOriginal": "Beijing to Inject Billions Into Banks, Insurers to Boost Growth",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWRvcWJKVmo2WVF4dDJCZU1VMF9QTFdTZWlxM3lhcXVyaXlHWVBZYlhDdlRuRWZYQm1DMDFRTTZzdUJHU0V6ZEdPakFROXNaSXBuUTJpVGMyaUNMMnJsQy1SdC14N1pDa3RoaUl5ck9EMXdoMzVuRnJjYjE5Vkd0RTk3dU54T3pDak5pbkJzX2xuSTNZTG9ETzBLbzVKVU9v?oc=5",
       "publishedAt": "2026-09-07T02:21:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe à medida que o agravamento do conflito entre os EUA e o Irã alimenta temores de interrupção no abastecimento",
+      "title": "Preço do petróleo sobe à medida que a escalada do conflito entre os EUA e o Irã alimenta temores de interrupção no abastecimento",
       "titleOriginal": "Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDVpM3I5V29ZOW1vb0ZvZ3UyOVpjRWx0T0JacE9iOHBCOUlGd251QVNNRG9HbTA3cDVVb3ZfQ2VtMW9xY21MUXJaSmkxRG13aUVtUGF5T2tDZXhueTJxVmZaSE1TQkVPa21qT1R1M1pXYWJjUTlGeE9wX0VPY2tWREZPeE1qeTNHYnZGa3ZrdDByeHhLb2tLUHF6UEJNcHNlQ3ctc1d2LTFKU1ZlTzlnNldoVWxIY3c?oc=5",
       "publishedAt": "2026-09-07T02:18:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Homem armado avançou contra candidato democrata ao governo de Ohio em uma feira, segundo as autoridades",
-      "titleOriginal": "Armed man charged toward Democratic candidate for Ohio governor at fair, law enforcement says",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
-      "publishedAt": "2026-09-07T02:10:00.000Z"
     }
   ]
 }
