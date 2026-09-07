@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-07T01:51:51.673Z",
+  "updatedAt": "2026-09-07T02:27:59.388Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Homem armado avançou contra candidato democrata ao governo de Ohio em uma feira, segundo as autoridades",
+      "titleOriginal": "Armed man charged toward Democratic candidate for Ohio governor at fair, law enforcement says",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
+      "publishedAt": "2026-09-07T02:10:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ola, a oferta de aquisição de US$ 15 bilhões da Uber recebe apoio do conselho da Delivery Hero",
+      "titleOriginal": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+      "publishedAt": "2026-09-07T02:02:25.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Por trás do acordo de Trump com a Venezuela",
@@ -18,10 +32,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra com o Irã se intensifica",
-      "titleOriginal": "U.S. Stocks Fall as Iran War Inflation Heats Up",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
-      "publishedAt": "2026-09-07T01:12:05.000Z"
+      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
+      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "publishedAt": "2026-09-07T01:22:26.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -32,7 +46,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara",
+      "title": "Como uma mulher foi apanhada na “seita” de Epstein — e conseguiu escapar",
+      "titleOriginal": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFg1RDNFWUFqUV81ZXF0SjI0b2xfMks3ZEVFRk1EMkpNX21qVkxMVmhoOFJCaEkyYndzY1VFM3ZaWG5YT0Vqb2tERlpxaXgtd2NQQldXSmdKTEdsR2ZyNmIwTnFqdnVFRlF1cHQtVVVwYV9zNXFUbmhZSzcxbktsRUNpdlJ5bXQxckF3RmliZFJnODA?oc=5",
+      "publishedAt": "2026-09-07T01:01:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara dos Deputados",
       "titleOriginal": "Opinion | Hakeem Jeffries Is Hapless in the House",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJsdGJmQUVtdHBaUjMxMDBrOU94UTJPUmtMa2swRF9Dd2tMdlRZakxwazNQQVRKMnp3Y1FiZVNkblp6TTRCUDFQdldFUjlDUUtEalFTU3lsejBfbTNZUmcxWDZYOGlsU0NLOFhXTjV0clJZR1hqSmtnMlFJTEF6QnhaclNoV2phQndHTVNfLTIzQ19YeFBF?oc=5",
       "publishedAt": "2026-09-06T23:57:20.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Financial Services Roundup: Market Talk",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDBOSGEyTDlBWE9fbXNkOFlfYW9iY2duVjlKZmJ3ak05b3Y1eUFRZlFYa3JfQ2RYTldlUFhLR29WN0dXRC1RSnNHc2ZjcjBXbXQyVmU0Zi1aSGI5Y3B2R2RKNzJPY0dGdkRjek4tX2g5dFZsaUQ3amtsdEoxbXFBUjF3?oc=5",
       "publishedAt": "2026-09-06T23:19:27.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Para o ex-assessor de Trump, um caminho tortuoso de “delator” à reconciliação",
-      "titleOriginal": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
-      "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
-      "publishedAt": "2026-09-06T23:14:43.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Líderes latinos pressionam Beshear em relação à disputa pelo governo do Texas",
-      "titleOriginal": "Exclusive: Latino leaders pressure Beshear on Texas' race for governor",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
-      "publishedAt": "2026-09-06T23:07:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Agressor atacou candidato democrata ao governo de Ohio em feira, segundo a campanha",
-      "titleOriginal": "Assailant lunged at Democratic candidate for Ohio governor at fair, campaign says",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
-      "publishedAt": "2026-09-06T23:01:00.000Z"
     }
   ]
 }
