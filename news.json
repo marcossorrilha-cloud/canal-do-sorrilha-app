@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-07T15:51:49.186Z",
+  "updatedAt": "2026-09-07T16:27:52.131Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
+      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
+      "publishedAt": "2026-09-07T16:19:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "5 disputas eleitorais a acompanhar neste outono para obter respostas às principais questões das eleições de meio de mandato",
+      "titleOriginal": "5 Races to Watch This Fall for Answers to the Biggest Midterm Questions",
+      "link": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
+      "publishedAt": "2026-09-07T16:03:31.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
+      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
+      "publishedAt": "2026-09-07T16:01:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Onde está Trump, o “Rei da Dívida”, quando precisamos dele para lidar com a dívida pública?",
+      "titleOriginal": "Where is 'King of Debt' Trump when we need him on the national debt?",
+      "link": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
+      "publishedAt": "2026-09-07T16:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Investigadores federais apuram as causas do acidente com incêndio envolvendo um jato de carga da Amazon na pista de pouso, que matou cinco pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T15:59:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "O novo golpe duplo nos corredores dos supermercados: preço e segurança",
@@ -18,59 +53,24 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Palo Alto projeta crescimento de dois dígitos, impulsionado pelos gastos com segurança cibernética impulsionados pela IA",
-      "titleOriginal": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR?oc=5",
-      "publishedAt": "2026-09-07T15:22:59.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
+      "title": "Pesquisa do BOE aponta para uma desaceleração nas pressões sobre os preços",
       "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
       "publishedAt": "2026-09-07T15:10:13.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Missões mais prolongadas no Oriente Médio sobrecarregam as forças americanas à medida que o conflito com o Irã se arrasta | O “10-Point” de 3 de setembro",
+      "titleOriginal": "Longer Middle East Deployments Strain U.S. Forces as Iran Conflict Drags On | The 10-Point for September 3",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE?oc=5",
+      "publishedAt": "2026-09-07T15:01:27.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "É um momento difícil para os sindicatos na era Trump — as cidades e os estados podem ajudar",
+      "title": "É um momento difícil para os sindicatos na era Trump — as prefeituras e os estados podem ajudar",
       "titleOriginal": "It's a tough time for unions in the age of Trump — cities and states can help",
       "link": "https://thehill.com/opinion/white-house/6071536-protecting-labor-rights/",
       "publishedAt": "2026-09-07T15:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como um distrito escolar do Colorado está combatendo a ofensiva antitransgênero de Trump",
-      "titleOriginal": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
-      "publishedAt": "2026-09-07T14:58:18.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de 5 pessoas em Miami",
-      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-      "publishedAt": "2026-09-07T14:51:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Erika Kirk relata o conselho que recebeu de Usha Vance após a morte do marido: “As palavras dela ficaram gravadas no meu coração”",
-      "titleOriginal": "Erika Kirk recounts Usha Vance's advice after husband's death: 'Her words are seared into my heart'",
-      "link": "https://thehill.com/blogs/in-the-know/6074949-erika-kirk-usha-vance-advice/",
-      "publishedAt": "2026-09-07T14:50:48.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Hunter Biden (e seu laptop) entram na criptosfera com uma nova “meme coin”",
-      "titleOriginal": "Exclusive | Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ25xQUE5RHlFMGtPVlFBN3M5ZFRJWDdCX2o5V3dHVHJVSTlMWV9nOUw3VkhkX3YyUUlYX3BXZFhHMW1EZlFsVVQ0ZmNtaEtzNlVoU3ZvTUJ4LXN1SjI4NjV2cWZSYW1kTS1XRnNrTnBpVFdkQ2ZXdWo1SUF0emNZXzgzNFBfNi1rdzA0N3RCWWowaFU4NlA3b3JXNWFRQ1VmSUZLbWZFcEhuZU83elhwcDlSMGtDa0Q3?oc=5",
-      "publishedAt": "2026-09-07T14:50:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia anuncia o fechamento do consulado alemão em São Petersburgo",
-      "titleOriginal": "Russia announces the closure of the German consulate in St. Petersburg",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjkzbEFVZHg1TlZDcXYtcmtuWnF5Yzc3Rm5JS0hfellZcVItanJDVmV3WWR3T2FmaFp2VE43MDFzazVOM084SGc3VlhkcFlvYUFyZ09Mb0JQalRocUVLRHFIaG5SVVRBaFZXT3BKMUVxUXAtbE5TVFp4OTE2dzJpVEc3OTZLUG4tUnZCeXBmV2JvUFFuQ05iVElmR2R3U0hUUTZLeHdHUUpwOUF1NGc?oc=5",
-      "publishedAt": "2026-09-07T14:37:00.000Z"
     }
   ]
 }
