@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-09-07T17:26:29.816Z",
+  "updatedAt": "2026-09-07T17:50:45.727Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara",
+      "titleOriginal": "Opinion | Hakeem Jeffries Is Hapless in the House",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJsdGJmQUVtdHBaUjMxMDBrOU94UTJPUmtMa2swRF9Dd2tMdlRZakxwazNQQVRKMnp3Y1FiZVNkblp6TTRCUDFQdldFUjlDUUtEalFTU3lsejBfbTNZUmcxWDZYOGlsU0NLOFhXTjV0clJZR1hqSmtnMlFJTEF6QnhaclNoV2phQndHTVNfLTIzQ19YeFBF?oc=5",
+      "publishedAt": "2026-09-07T17:32:48.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Como um distrito escolar do Colorado está combatendo a campanha antitrans de Trump",
+      "title": "Como um distrito escolar do Colorado está combatendo a ofensiva antitransgênero de Trump",
       "titleOriginal": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
       "link": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
       "publishedAt": "2026-09-07T17:26:13.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Palo Alto projeta crescimento de dois dígitos à medida que a IA impulsiona os gastos com segurança cibernética",
-      "titleOriginal": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR?oc=5",
-      "publishedAt": "2026-09-07T17:23:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky à Axios: EUA estudam medidas para reduzir as tensões entre a Rússia e a Ucrânia neste inverno",
-      "titleOriginal": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1JUc284NjBMMkppZ29XSm9kUjBwSnpvcjhxT05xTG1rWGViQkswMEh4SzdPZ1NKN0VTQVUxcWc1T1ByMEJEUGdUS01nbVU0eFd3anRTX1h3aVo2QWNHcW96dzhoR3MzbWlrYS15TG1hYkZ1Zm1SMHRGVjZKeTFabnNqRWtIRHQ0LUdXYW9kd3huUQ?oc=5",
-      "publishedAt": "2026-09-07T17:12:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
       "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-      "publishedAt": "2026-09-07T17:01:14.000Z"
+      "publishedAt": "2026-09-07T17:25:22.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-07T16:47:13.000Z"
+      "title": "Orientações para auditores na era da IA",
+      "titleOriginal": "Advice for Auditors in the AI Era",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMkNzcmZUZFpHNnlVVnJDbDY2QVVSTGlOcU1aOXJRbDAzLUFRbU01cjBIVmc5YmlDSktXeXBudUxuNWlHa3FOTGhkTzhtTEE4VzMzdFE4RExGQ0J2WkNBdVgtMzZEOTJGbWpsRHRrTjVNZnhOZTR3LVZyRXBxTFk?oc=5",
+      "publishedAt": "2026-09-07T17:20:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump promete vitória nas eleições intermediárias e critica os democratas em mensagem do Dia do Trabalho",
+      "titleOriginal": "Trump promises midterm victory, slams Democrats in Labor Day message",
+      "link": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
+      "publishedAt": "2026-09-07T17:15:50.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Zelensky à Axios: EUA estão analisando medidas para reduzir as tensões entre a Rússia e a Ucrânia neste inverno",
+      "titleOriginal": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1JUc284NjBMMkppZ29XSm9kUjBwSnpvcjhxT05xTG1rWGViQkswMEh4SzdPZ1NKN0VTQVUxcWc1T1ByMEJEUGdUS01nbVU0eFd3anRTX1h3aVo2QWNHcW96dzhoR3MzbWlrYS15TG1hYkZ1Zm1SMHRGVjZKeTFabnNqRWtIRHQ0LUdXYW9kd3huUQ?oc=5",
+      "publishedAt": "2026-09-07T16:58:34.000Z"
     },
     {
       "source": "New York Times",
@@ -53,24 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e matou cinco pessoas em Miami",
+      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de cinco pessoas em Miami",
       "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
       "publishedAt": "2026-09-07T16:29:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
-      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
-      "publishedAt": "2026-09-07T16:19:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A reforma de Trump em Washington, D.C.: o que você precisa saber",
-      "titleOriginal": "Trump’s DC makeover: What to know",
-      "link": "https://thehill.com/homenews/administration/6072139-trump-dc-beautification-projects/",
-      "publishedAt": "2026-09-07T16:00:00.000Z"
+      "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
+      "titleOriginal": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3FZUThSdWpjTjlEZTNPVHBXN21mQi1Pb1JSWWxvMWtab1JmSllPeS1TUGFoUnBsdUxzSWdmUnJlQlV6R0Roc1JhR1ZKYkZYSXdXRkVpejBTdk4zX1VaLWI5TEVYMTJYUmFrdFVlZkFwTlpCWXMweDRxaDhFVUNYV2FYS3d4MmI3WmJESHF0aC1jRVhKdno1Q3lpVE4xMkpLa1RpSnJmd3BucUgwQzRCZ2RiU0c0cG9mT3hfeg?oc=5",
+      "publishedAt": "2026-09-07T16:26:19.000Z"
     }
   ]
 }
