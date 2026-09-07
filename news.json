@@ -1,20 +1,48 @@
 {
-  "updatedAt": "2026-09-07T10:28:36.250Z",
+  "updatedAt": "2026-09-07T10:51:57.779Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Empresas reduzem drasticamente as opções dos consumidores para economizar nos custos de importação",
+      "titleOriginal": "Companies Slash Consumer Choice to Save on Import Costs",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDQxbjBPdGVzaTBqUnZPVlVvZ0loaTJILUk1UnBrMWlCcm1hWW1VcVZSU2dCNUhwQS1pSWlwM3kycE9BT0FKVGFrdkNoOEYwbnZVNGZ4WndsZy1GYjA4eWZHZTFOa044cERNdHEwd3I1LUQ3OEphLXJ0c2tjUzV1eWNEMmcxNzRjcW1oVEM5VGhDazJXcGhjeTh4TWgtSWtnSmg0?oc=5",
+      "publishedAt": "2026-09-07T10:34:55.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A matemática por trás de uma onda democrata — ou de uma reviravolta republicana",
+      "titleOriginal": "The math behind a Democratic wave — or a GOP upset",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmhEN2JGTnRCSEM3eV9QZE9QR3Z1b2JMenpzTDNUaDdub0VYSmRxUzlXZGlsNU04YkhlMG9LbWluUHBQeUVVZ0wzdF9aREVWcVVtLVZNQVVYSUEtN1VLM2ZQaEtURnk2R19Lbm5pQjR4N01MQnJLRXFySkdCcktkbGZ1RWVtd2hHbzNxbC1QOWVxYnM?oc=5",
+      "publishedAt": "2026-09-07T10:33:34.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
+      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
+      "publishedAt": "2026-09-07T10:31:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Palo Alto projeta crescimento de dois dígitos, impulsionado pelos gastos com segurança cibernética impulsionados pela IA",
+      "titleOriginal": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR?oc=5",
+      "publishedAt": "2026-09-07T10:28:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Que a Ucrânia tenha como meta o Arqueiro",
+      "titleOriginal": "Opinion | Let Ukraine Aim for the Archer",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRUdzMWxSM0ZkQWtjOG9iX0dPTkItcXVuQ09aNGNGY0piSHdZbFBCLWphVlE5V0RYQjhQeUFOZVo0NmEzUFNUM3N1R3E1U1Q3YUUyMG8zd19PYkJudktsM0RQOExPLVZmckIybTJLaUhkZUs1bGc?oc=5",
+      "publishedAt": "2026-09-07T10:22:51.000Z"
+    },
     {
       "source": "AP News",
       "title": "Guerra no Irã",
       "titleOriginal": "Iran war",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "publishedAt": "2026-09-07T10:21:39.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra com o Irã se intensifica",
-      "titleOriginal": "U.S. Stocks Fall as Iran War Inflation Heats Up",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
-      "publishedAt": "2026-09-07T10:07:16.000Z"
+      "publishedAt": "2026-09-07T10:04:35.000Z"
     },
     {
       "source": "The Hill",
@@ -39,38 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por trás do acordo de Trump com a Venezuela",
-      "titleOriginal": "Behind Trump’s Venezuela Deal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
-      "publishedAt": "2026-09-07T09:30:29.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "O produtor de “O Diabo Veste Prada” corre na esteira ao som de “Law & Order”",
       "titleOriginal": "‘The Devil Wears Prada’ Producer Runs on the Treadmill to ‘Law & Order’",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2wzNEpqMVloRHJSVnRES0lfdFpRNFBZMFVNMHZCODl4bW1QVWJ3RlZBSFM3cGExcU1wZ2F2M1FkNzQyeU5ZWVFDSlk2aDhTWkJaZ29lQ1RVNWk4YzRleV9KMV82U3BDZ1JQZFNpeERaWE1yb3NrTFdjMThtSzVMOGpJMExHUzQ?oc=5",
       "publishedAt": "2026-09-07T09:08:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Verificação de fatos sobre anúncios da campanha para as eleições intermediárias que fazem referência a Jeffrey Epstein",
-      "titleOriginal": "Fact-Checking Midterm Ads Referring to Jeffrey Epstein",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/fact-check-midterm-ads-jeffrey-epstein-files.html",
-      "publishedAt": "2026-09-07T09:04:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Enquanto a guerra se prolonga, Trump se deleita com projetos de reforma",
-      "titleOriginal": "As War Grinds On, Trump Relishes Renovation Projects",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
-      "publishedAt": "2026-09-07T09:04:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como um distrito escolar do Colorado está combatendo a ofensiva antitransgênero de Trump",
-      "titleOriginal": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
-      "publishedAt": "2026-09-07T09:03:15.000Z"
     }
   ]
 }
