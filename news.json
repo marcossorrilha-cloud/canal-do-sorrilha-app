@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-07T07:29:36.730Z",
+  "updatedAt": "2026-09-07T07:53:09.222Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
+      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
+      "publishedAt": "2026-09-07T07:40:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Empresas reduzem drasticamente as opções dos consumidores para economizar nos custos de importação",
+      "titleOriginal": "Companies Slash Consumer Choice to Save on Import Costs",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDQxbjBPdGVzaTBqUnZPVlVvZ0loaTJILUk1UnBrMWlCcm1hWW1VcVZSU2dCNUhwQS1pSWlwM3kycE9BT0FKVGFrdkNoOEYwbnZVNGZ4WndsZy1GYjA4eWZHZTFOa044cERNdHEwd3I1LUQ3OEphLXJ0c2tjUzV1eWNEMmcxNzRjcW1oVEM5VGhDazJXcGhjeTh4TWgtSWtnSmg0?oc=5",
+      "publishedAt": "2026-09-07T07:39:42.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Índices europeus apresentam desempenho misto no início do pregão, com alta no setor de tecnologia e queda no setor de saúde",
+      "titleOriginal": "European Indexes Mixed in Early Trade as Tech Gains, Healthcare Falls",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVh1R1ZTZVh4LUV4RERRdUZYSzBCUWg2RkwyWDVJR2NvcDBhRTlWUnNlMUFWZmNBN0MzWFZOejNVd1FiaUNla3RZdHBQUTBlc1lQN0pQVm1qQ2poSnZBa0V0RDRNWHpJMHMxekpUU2M2NFgzZ2JKZF9oV29fUmtLVWpiNHlXdEpieWVFTHAxUnQ?oc=5",
+      "publishedAt": "2026-09-07T07:33:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
+      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
+      "publishedAt": "2026-09-07T07:31:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Dólar recua, sem se abalar com a alta nos preços do petróleo",
+      "titleOriginal": "Dollar Declines, Shrugs Off Higher Oil Prices",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1SMlBLeTFJUF92QjE5Ny0zTVNNZnZPaFBmVHhpQkRCVVMxVEw0RFc2Tzg4aDhXTEtEWmxiWTdkTlBrRzhvY2RjQWpwRzZJakhxbV9vR2ZuelRaQ0NWajA4OEwtZnppYnNJMkJ1ZVNhNUhWazFRTWV6S3dISkJzX3BCV1lSU3d6dDVGSEdFLV81Y0tMbjAwNU5MN3lBRHlQeG42TV9ya0FfMUZXMjBFT3RoZXIxYnJnSFE?oc=5",
+      "publishedAt": "2026-09-07T07:17:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "O produtor de “O Diabo Veste Prada” corre na esteira ao som de “Law & Order”",
@@ -18,17 +53,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A chinesa NIO reduz prejuízo graças ao crescimento nas vendas de veículos elétricos e prevê aumento no volume de vendas",
-      "titleOriginal": "China’s NIO Narrows Loss on EV Sales Growth, Expects Volume Pickup",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGJJOHVjbUtjN0xpemJsZjNQN1NFNFBSdE13dzFVS2VNWnhLeFg1NloyMkx1MmNlYVZsdi0zUlVSVEpLbGV0MHpMaE44R1BVbk1SYWExd2tHdElDZkp5TzVpWW5GYkNPeTNiSnRZLU1pMnBNRFVDdHFMbGhORWhzZ1dmRDR1Z1hjZXVr?oc=5",
-      "publishedAt": "2026-09-07T06:39:28.000Z"
+      "title": "A dificuldade de sair da guerra entre os EUA e o Irã leva à cautela no mercado de títulos de longo prazo",
+      "titleOriginal": "Difficult Exit From U.S.-Iran War Prompts Caution in Long-End Bonds",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGxnS1Y3akF3RzdYWFl1TlhlLXAza0dvZGFaZW1PRm40Q2Fabkp1c0pSaXJKSkdUdW9kWC1UejBmRU9sRVpsd0p6VFppamxXdXRLODg2bVhwTFk1TjlGNUd5YzRQcHZsUW5WRFdMeXBIU2N5NktOaG8wOGRjcnVhbw?oc=5",
+      "publishedAt": "2026-09-07T06:11:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por trás do acordo de Trump com a Venezuela",
-      "titleOriginal": "Behind Trump’s Venezuela Deal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
-      "publishedAt": "2026-09-07T06:33:18.000Z"
+      "title": "Ações dos EUA caem à medida que a inflação causada pela guerra com o Irã se intensifica",
+      "titleOriginal": "U.S. Stocks Fall as Iran War Inflation Heats Up",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
+      "publishedAt": "2026-09-07T06:09:21.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -36,41 +71,6 @@
       "titleOriginal": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY?oc=5",
       "publishedAt": "2026-09-07T05:49:10.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe à medida que a escalada do conflito entre os EUA e o Irã alimenta temores de interrupção no abastecimento",
-      "titleOriginal": "Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDVpM3I5V29ZOW1vb0ZvZ3UyOVpjRWx0T0JacE9iOHBCOUlGd251QVNNRG9HbTA3cDVVb3ZfQ2VtMW9xY21MUXJaSmkxRG13aUVtUGF5T2tDZXhueTJxVmZaSE1TQkVPa21qT1R1M1pXYWJjUTlGeE9wX0VPY2tWREZPeE1qeTNHYnZGa3ZrdDByeHhLb2tLUHF6UEJNcHNlQ3ctc1d2LTFKU1ZlTzlnNldoVWxIY3c?oc=5",
-      "publishedAt": "2026-09-07T05:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Líderes latinos pressionam Beshear sobre a disputa pelo governo do Texas",
-      "titleOriginal": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
-      "publishedAt": "2026-09-07T05:08:18.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Alemanha contesta as alegações de genocídio em Gaza no tribunal superior da ONU",
-      "titleOriginal": "Germany fights Gaza genocide claims at the UN’s top court",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUM4VTlUZ0owTGV1aDBLYzVqMzBQbnM3N1BTSTZ5SDlBQTZKOEo1RWxpX3RkeUpITExneXU1UmhkdGhIRndyRjFmN21DZm05UTFXYjZ4TlhseHVNa0F3UnZRQzJGbjRKcURBUlI1SjB4YUdPZGd5MHlSa0Jfc3BSM1FGVUt0RGpHdTVxWUJnRnRabTg2QkhyYlFmY3VBSzhVcGl1YzgySm9NYllqbm13?oc=5",
-      "publishedAt": "2026-09-07T05:06:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preocupações com o excesso de capacidade da China ganham repercussão global",
-      "titleOriginal": "Concerns Over China’s Overcapacity Go Global",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDlXRDhsTmF5bmxjQ1JQcGw3Wm5SY08ybEFNSmFUdnoxakgyNkdPcjJ3UlNucDk3cXpOYzBYdVZ3aU94OXRVYXYxMEVham1aaDJaSlJKeVNmUndYaTltY3hyTUlWdHR2UkNmdDVoamxvVjB0QTZWREtfbW1kajdWdGtybUcteFUtbENWWS1pYkNSX1E?oc=5",
-      "publishedAt": "2026-09-07T04:56:35.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Witkoff e Kushner, pela primeira vez, visitam a Ucrânia para negociações de paz",
-      "titleOriginal": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "publishedAt": "2026-09-07T04:24:26.000Z"
     }
   ]
 }
