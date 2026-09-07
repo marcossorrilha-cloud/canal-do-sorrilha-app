@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:38:39.495Z",
+  "updatedAt": "2026-09-07T00:55:52.982Z",
   "count": 10,
   "items": [
     {
@@ -11,17 +11,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
-      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
-      "publishedAt": "2026-09-07T00:01:44.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe em meio à escalada do conflito entre os EUA e o Irã",
-      "titleOriginal": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmhDWFpnOE0xTW9sOGJvVlJhcUxTRTRiM0NxWHFuaXFaT0NwQVVWNS1PSzluQmF4bmpUSUhxSXVVLTdPSDhiajF4RkpLRmtmdkp0STRlMWZUaUNKVzlQWEZ0X1dZUzk4T0h3bGNsOXZCVWwybnYwWWNxS1p2OERTZ3h3S2tTZ0pVdU5SVHE0VjVoZk9CS3ZJVGVxOTVpV01pWkE4QjZn?oc=5",
-      "publishedAt": "2026-09-06T23:38:00.000Z"
+      "title": "Petróleo WTI volta a US$ 90 com novos ataques dos EUA contra o Irã",
+      "titleOriginal": "WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5",
+      "publishedAt": "2026-09-06T23:24:58.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -29,6 +22,13 @@
       "titleOriginal": "Financial Services Roundup: Market Talk",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDBOSGEyTDlBWE9fbXNkOFlfYW9iY2duVjlKZmJ3ak05b3Y1eUFRZlFYa3JfQ2RYTldlUFhLR29WN0dXRC1RSnNHc2ZjcjBXbXQyVmU0Zi1aSGI5Y3B2R2RKNzJPY0dGdkRjek4tX2g5dFZsaUQ3amtsdEoxbXFBUjF3?oc=5",
       "publishedAt": "2026-09-06T23:19:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A história indissociável de Israel e da Irlanda",
+      "titleOriginal": "Opinion | Israel and Ireland’s Inextricable History",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQV85dGt0dDh6dmZOU1l5N0oxN01vVEJmLUVsMktTdWZtcnZRaVgzUjNCOGxwbkNGcTcwSUxMS2F0dmo1dFNhVHRJbUl5R0lhRzNoQy1sRjdMVjhncnVrNnhwUFpmdHpHNGZOaVZ6VUdtN1hnZXNlS1Rjajdfd0JfNnVGWklabmJRdlMtWWVYMm5GbGJGSmVqMQ?oc=5",
+      "publishedAt": "2026-09-06T23:19:19.000Z"
     },
     {
       "source": "New York Times",
@@ -45,15 +45,22 @@
       "publishedAt": "2026-09-06T23:14:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por trás do acordo de Trump com a Venezuela",
-      "titleOriginal": "Behind Trump’s Venezuela Deal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
-      "publishedAt": "2026-09-06T22:40:44.000Z"
+      "source": "AP News",
+      "title": "Itália dá um susto nos EUA e a China vence a República Tcheca na Copa do Mundo Feminina da FIBA",
+      "titleOriginal": "Italy gives US a scare and China edges Czech Republic in women’s FIBA World Cup",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnBfaFc1TDJoSEhmT1BNMnctNEZRdHN1MVZHQzFLRkhweGxaVlVyNWFGYkpZLXhEVG1KYTFzLWVvUHRPNHdTRnZzNUM4RWlRTUpfSW9sdWZ1ZkJzanRvbER1cEo1STJPSVgwZXJvUTA3OTBiUF9iSTRWaTJRdm1CVkJ1ZW01SjdFMnRFeUVQRU9GN25ZMTFJ?oc=5",
+      "publishedAt": "2026-09-06T22:47:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Palo Alto projeta crescimento de dois dígitos, impulsionado pelos gastos com segurança cibernética impulsionados pela IA",
+      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
+      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
+      "publishedAt": "2026-09-06T22:40:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Palo Alto projeta crescimento de dois dígitos, com a IA impulsionando os gastos com segurança cibernética",
       "titleOriginal": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR?oc=5",
       "publishedAt": "2026-09-06T22:38:44.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Assailant lunged at Democratic candidate for Ohio governor at fair, campaign says",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
       "publishedAt": "2026-09-06T22:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Líderes latinos pressionam Beshear sobre a disputa pelo governo do Texas",
-      "titleOriginal": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
-      "publishedAt": "2026-09-06T21:55:01.000Z"
     }
   ]
 }
