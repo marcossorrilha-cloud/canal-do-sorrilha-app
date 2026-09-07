@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-09-07T21:50:47.867Z",
+  "updatedAt": "2026-09-07T22:26:09.212Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
+      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
+      "publishedAt": "2026-09-07T22:04:21.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O círculo íntimo de Elon Musk está investindo pesadamente para tornar os psicodélicos populares",
+      "titleOriginal": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2lmWXZTQkIxbTdmQXRTTEJXNUcyRVhrcGd3TkxnWXRlbFZ2VXE2b1VNV3RTQVRGS003UkE1WXZVdnJiWVBIdlFIOXBOcUNZaGt3eDU0STFBLWphQkFWWHZrdXB0UnZNemRJZ1FNYTZQRlZNU25uQnJRczhXY0ZMeWM3LUIzeXh1aXNQdHp1Tm0xOHVsTXdEVHZiRG0yM181SkN4MGJNdFhvR3NlVUZoczhRTVg1cG03dlNjTU1iSQ?oc=5",
+      "publishedAt": "2026-09-07T22:01:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump publica atualizações sobre seus projetos de “embelezamento” em Washington, D.C.",
+      "titleOriginal": "Trump posts updates about his DC ‘beautification’ projects",
+      "link": "https://thehill.com/homenews/administration/6075345-trump-dc-beautification-projects/",
+      "publishedAt": "2026-09-07T21:53:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Novartis afirma que o medicamento para doenças cardíacas Pelacarsen não atingiu o desfecho primário",
+      "titleOriginal": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
+      "publishedAt": "2026-09-07T21:50:02.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Investigadores federais investigam o acidente com incêndio de um jato de carga da Amazon na pista, que causou a morte de cinco pessoas em Miami",
+      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e matou 5 pessoas em Miami",
       "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
       "publishedAt": "2026-09-07T21:41:00.000Z"
@@ -32,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Nesta semana no Capitólio: os holofotes políticos se voltam para a convenção do Partido Republicano para as eleições de meio de mandato, em Dallas",
+      "title": "Esta semana no Capitólio: os holofotes políticos se voltam para a convenção do Partido Republicano para as eleições de meio de mandato, em Dallas",
       "titleOriginal": "This week on the Hill: Political spotlight turns to GOP midterm convention in Dallas",
       "link": "https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary/",
       "publishedAt": "2026-09-07T21:00:00.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Midterm elections head into the home stretch as candidates hit Labor Day events",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNkOVg1TEpyVEdvMjM1b004MFlwRUczTUI0c253aERWdGg0blg1cXV3VVlnMF9sSnhYeTlhcHJVSEdJVXVrWnVuNlRmVFVhQlFJaFhlZTEtUzdDTzNlV0toSmNoNWRFT0h6czJtbDlDRTNuOFgzLXFPMkNnRC1iWl9nUVdDZTJKaUNCNU5VeHB0ZkNUVGRzMUh5SEFRY05DMENESjhSbHdObnhacl8zc1ZhMA?oc=5",
       "publishedAt": "2026-09-07T20:49:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã aumenta o preço da gasolina para os maiores consumidores em meio às dificuldades econômicas",
-      "titleOriginal": "Iran increases gasoline price for its heaviest consumers as economy struggles",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZE9fdGFqaXVhNEprd3dRclpqYUFIZlZFZDF1cDVCTFdMbElsYUlXYkxyX29kOHZRRXl2LXc3MWp1UVZlc1lmTXJib0cyMTdpM0FqTENqUC1CV1VJLVI3Z0dvVURtYlJLMC1qc3RfMThVLWN4aVR0QmsxNmQzTDRrTWdDbVE0SmdPdERTek8yb01QWHhTRmpiR0hha2lmaExFeUlF?oc=5",
-      "publishedAt": "2026-09-07T20:31:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | EverBank se unirá ao WaFd para criar um banco de US$ 75 bilhões",
-      "titleOriginal": "Exclusive | EverBank to Combine With WaFd to Create $75 Billion Bank",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3dtUHNmQmxmRnZpVVlic01mdGdBMlJXdUhJM1pyenhpQXlzUzJSZjcxWXRyTjdrdkdNZFJMcHFIYVREMFdLaGFKdHVmdlgxdFFxcHJLQTBFa3pxdlNCM09KeVNwaGVMRmRGR01lT09uS25oNmR1U2NnWFg4a2tEZThWcmxUWHYxUzMyR19aWEw1WWpsWmFTZWhLMXM0TmQ3?oc=5",
-      "publishedAt": "2026-09-07T20:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump publica mapa com a bandeira americana estampada sobre o Canadá, a Groenlândia e o México",
-      "titleOriginal": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico",
-      "link": "https://thehill.com/homenews/administration/6075255-trump-map-territorial-ambitions/",
-      "publishedAt": "2026-09-07T20:00:47.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
-      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
-      "publishedAt": "2026-09-07T19:50:23.000Z"
     }
   ]
 }
