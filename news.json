@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:30:27.815Z",
+  "updatedAt": "2026-09-07T09:53:36.950Z",
   "count": 10,
   "items": [
     {
@@ -7,18 +7,32 @@
       "title": "Guerra no Irã",
       "titleOriginal": "Iran war",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "publishedAt": "2026-09-07T09:25:41.000Z"
+      "publishedAt": "2026-09-07T09:48:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Relatório Matinal de Risco: A ilha paradisíaca que é um centro secreto para a evasão das sanções contra a Rússia",
+      "titleOriginal": "The Morning Risk Report: The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVThPTlhka2NYc2taZllVMURYaVIxUkxneXdRSUYxb0VfYV96WEJ3NTN0bkZxLW1tS1RKT21sRlBXYXVmbUdzckRESUliaTlNVWlpaVdSRUIzbnZ0RzJjVEZET2tEa3V1UHBrRkh2dlNyLVh2STRmNlpKQkNLYUtzVFhGbnoyR0VINUFlbTVmM0tFaHEtVmdWY3FCUnE4a044MWtiV2g0Tm14TWVtSVYyTExMXzdqVTJ4TDJKd2RoM3U2QzRUMEFKbW94VlFHTUw3LWQtdXEwNDRhOEZ5dzdjeg?oc=5",
+      "publishedAt": "2026-09-07T09:36:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por trás do acordo de Trump com a Venezuela",
+      "titleOriginal": "Behind Trump’s Venezuela Deal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
+      "publishedAt": "2026-09-07T09:30:29.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Verificação de fatos em anúncios eleitorais para as eleições de meio de mandato que mencionam Jeffrey Epstein",
+      "title": "Verificação de fatos em anúncios da campanha para as eleições de meio de mandato que mencionam Jeffrey Epstein",
       "titleOriginal": "Fact-Checking Midterm Ads Referring to Jeffrey Epstein",
       "link": "https://www.nytimes.com/2026/09/07/us/politics/fact-check-midterm-ads-jeffrey-epstein-files.html",
       "publishedAt": "2026-09-07T09:04:18.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Enquanto a guerra se prolonga, Trump se deleita com projetos de reforma",
+      "title": "Enquanto a guerra se arrasta, Trump se deleita com projetos de reforma",
       "titleOriginal": "As War Grinds On, Trump Relishes Renovation Projects",
       "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
       "publishedAt": "2026-09-07T09:04:10.000Z"
@@ -32,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Com o fim do gerrymandering, os democratas de Wisconsin buscam assumir o controle",
+      "title": "Com o fim da manipulação eleitoral, os democratas de Wisconsin buscam o controle",
       "titleOriginal": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control",
       "link": "https://www.nytimes.com/2026/09/07/us/politics/wisconsin-legislature-democrats.html",
       "publishedAt": "2026-09-07T09:00:31.000Z"
@@ -50,20 +64,6 @@
       "titleOriginal": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5",
       "publishedAt": "2026-09-07T08:44:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por trás do acordo de Trump com a Venezuela",
-      "titleOriginal": "Behind Trump’s Venezuela Deal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVHNhY0xsbHlmMVRGazNhcTJSWXg5SGxGM0JvbFdKaFlNOVc3Q3ktRDVNYUVBWFZuXzExMGlBdjJQY1lnSFYtZmRfdzZJbjBZaDZINlR1Y2dZTGx1aFBfZHBrTDBpX1JGTmxkQUI4dVhzWFVm?oc=5",
-      "publishedAt": "2026-09-07T08:32:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Palo Alto projeta crescimento de dois dígitos, impulsionado pelos gastos com segurança cibernética impulsionados pela IA",
-      "titleOriginal": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR?oc=5",
-      "publishedAt": "2026-09-07T08:32:06.000Z"
     },
     {
       "source": "Wall Street Journal",
