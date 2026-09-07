@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-07T19:25:35.707Z",
+  "updatedAt": "2026-09-07T19:50:00.779Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
+      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
+      "publishedAt": "2026-09-07T19:48:30.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
       "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
       "publishedAt": "2026-09-07T19:24:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de 5 pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T19:16:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -17,11 +31,32 @@
       "publishedAt": "2026-09-07T19:04:21.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-07T19:01:23.000Z"
+      "source": "AP News",
+      "title": "Ataques aéreos israelenses contra vila libanesa matam 12 pessoas, além de outros acontecimentos importantes no Oriente Médio",
+      "titleOriginal": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
+      "publishedAt": "2026-09-07T18:45:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Papa retorna ao santuário onde rezou após sua eleição e revela um afresco que retrata o evento",
+      "titleOriginal": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
+      "publishedAt": "2026-09-07T18:17:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Governo do Reino Unido condena protestos contra imigrantes nos portos em relação às travessias de barco pelo Canal da Mancha",
+      "titleOriginal": "UK government condemns anti-migrant protests at ports over Channel boat crossings",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamx1N1dneVVhRHAwRWNwZVFMN0QxOHpjdC1HNHQxU3FyV0VGcUc3d0tyazlaRHM5d2FYOWFiRGtzZEdVVW1fLUN1bnp4Ull0NW9IT2xSNDItSzVjQkZNYzVLaWhpX215UlpTVUZzV19UWVg5VGRZMmNsT3RaSUhOWklVdV9zeE8xaml5TlBMeEdjcGNSd1FQcTgzUm9VVWh3VEJGR0R4UQ?oc=5",
+      "publishedAt": "2026-09-07T18:08:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A UE busca tranquilizar a Groenlândia, abalada pelas declarações de Trump, com a promessa de uma nova parceria e investimentos",
+      "titleOriginal": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
+      "publishedAt": "2026-09-07T18:02:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -32,45 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Como um distrito escolar do Colorado está combatendo a ofensiva antitransgênero de Trump",
+      "title": "Como um distrito escolar do Colorado está enfrentando a ofensiva antitransgênero de Trump",
       "titleOriginal": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
       "link": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
       "publishedAt": "2026-09-07T17:26:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump promete vitória nas eleições de meio de mandato e critica os democratas em mensagem do Dia do Trabalho",
-      "titleOriginal": "Trump promises midterm victory, slams Democrats in Labor Day message",
-      "link": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
-      "publishedAt": "2026-09-07T17:15:50.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Líderes latinos pressionam Beshear em relação à disputa pelo governo do Texas",
-      "titleOriginal": "Exclusive: Latino leaders pressure Beshear on Texas' race for governor",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYmlrdkZWd053bFZMU0o5OVp0MmxtMktrSG1GQXlTVFEwQ0lkSUtiU2xJUFkwcGNiX3FlZ3ZCM2ZuUGNsVWlqd2tsTi1ua3pnZnNHU1RFS2gwUHlxcDNDZlVVMjNNYldyQ0J2ZVhmX1ZNRExhTVJJLXZ3?oc=5",
-      "publishedAt": "2026-09-07T17:14:08.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky à Axios: EUA estudam medidas para reduzir as tensões entre a Rússia e a Ucrânia neste inverno",
-      "titleOriginal": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1JUc284NjBMMkppZ29XSm9kUjBwSnpvcjhxT05xTG1rWGViQkswMEh4SzdPZ1NKN0VTQVUxcWc1T1ByMEJEUGdUS01nbVU0eFd3anRTX1h3aVo2QWNHcW96dzhoR3MzbWlrYS15TG1hYkZ1Zm1SMHRGVjZKeTFabnNqRWtIRHQ0LUdXYW9kd3huUQ?oc=5",
-      "publishedAt": "2026-09-07T16:58:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "5 disputas eleitorais a acompanhar neste outono para obter respostas às principais questões das eleições de meio de mandato",
-      "titleOriginal": "5 Races to Watch This Fall for Answers to the Biggest Midterm Questions",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
-      "publishedAt": "2026-09-07T16:44:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Concorrentes do setor de mídia de varejo organizam um evento no estilo “Upfront” para atrair compradores de publicidade",
-      "titleOriginal": "Retail Media Rivals Host an Upfront-Style Event to Court Ad Buyers",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXJOd3FPc0NEVWZpRV92S0JWSUhyR0hDXzE3S2ZHTTNFQk0zazFVWW56QlZURjh3cVIzSVNCaG41WTRoVENsZk5ISVRYQnVwV2M0dFlZYkNXdGFtQlhmUXFKV0JtSHFfbDB2SC1idlh0RXFoRHNscjlxd3VKc21BOS02eFJieXNySzNJM2Q4d3dOUTMwSFlWYk5icVNsUGltMkNTRG15TWw?oc=5",
-      "publishedAt": "2026-09-07T16:42:10.000Z"
     }
   ]
 }
