@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-07T21:26:58.865Z",
+  "updatedAt": "2026-09-07T21:50:47.867Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Investigadores federais investigam o acidente com incêndio de um jato de carga da Amazon na pista, que causou a morte de cinco pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T21:41:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A senadora Marsha Blackburn poderia nomear seu próprio substituto no Senado",
+      "titleOriginal": "Sen. Marsha Blackburn could appoint her own replacement in the Senate",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVN4LVBma2MyR2hnRnlhZmN0M2lCN3dNdWwxajlGMS1TYVU2VkRZYm9PSkJKaXFDVzlnYVozQVl0TjduM0FweUZIQnRkRG5kUXBiTkpGMDRXV2x2dHAyS2dTcm5QYnZXSGZzNTJMc3JoY2FrM2QycUw4UUNCUEMyemFiaHpKR0RBMG9UWEdPNkdPdGUyNFdLRkhKRGhlYkZJMHpjdmJJTGZwdzBoS2phYUZrTEJCZ0szY2c?oc=5",
+      "publishedAt": "2026-09-07T21:24:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã afirma que o míssil balístico aprimorado demonstra que o país tomará medidas preventivas contra ameaças",
+      "titleOriginal": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9PNHFnZGJneDI2Zk5KQUdybFlKMWJzcjhpcGpTN29VQjg0RlB0N0MybWRqeDA2eGtWZ0pkNWNyS3REMVlzMjg3UE5lbGczMzRnM21iVnpxMDZFRlAtRTRYdTlGdzlyMXdETFl6bi10Qjl2Rjg1YUlxRDc1QVo1RXh4OFRDMkVQUDk2cVpnYVRuYlk0OVN3TF9xcWkwcmRwRkRBUzY4S01ZaGRIZHZR?oc=5",
+      "publishedAt": "2026-09-07T21:24:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
@@ -10,22 +31,8 @@
       "publishedAt": "2026-09-07T21:01:46.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
-      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
-      "publishedAt": "2026-09-07T21:01:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Investigadores federais investigam o acidente com incêndio envolvendo um jato de carga da Amazon na pista de pouso, que causou a morte de cinco pessoas em Miami",
-      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-      "publishedAt": "2026-09-07T21:00:00.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Esta semana no Capitólio: os holofotes políticos se voltam para a convenção do Partido Republicano para as eleições de meio de mandato, em Dallas",
+      "title": "Nesta semana no Capitólio: os holofotes políticos se voltam para a convenção do Partido Republicano para as eleições de meio de mandato, em Dallas",
       "titleOriginal": "This week on the Hill: Political spotlight turns to GOP midterm convention in Dallas",
       "link": "https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary/",
       "publishedAt": "2026-09-07T21:00:00.000Z"
@@ -36,6 +43,13 @@
       "titleOriginal": "Midterm elections head into the home stretch as candidates hit Labor Day events",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNkOVg1TEpyVEdvMjM1b004MFlwRUczTUI0c253aERWdGg0blg1cXV3VVlnMF9sSnhYeTlhcHJVSEdJVXVrWnVuNlRmVFVhQlFJaFhlZTEtUzdDTzNlV0toSmNoNWRFT0h6czJtbDlDRTNuOFgzLXFPMkNnRC1iWl9nUVdDZTJKaUNCNU5VeHB0ZkNUVGRzMUh5SEFRY05DMENESjhSbHdObnhacl8zc1ZhMA?oc=5",
       "publishedAt": "2026-09-07T20:49:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã aumenta o preço da gasolina para os maiores consumidores em meio às dificuldades econômicas",
+      "titleOriginal": "Iran increases gasoline price for its heaviest consumers as economy struggles",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZE9fdGFqaXVhNEprd3dRclpqYUFIZlZFZDF1cDVCTFdMbElsYUlXYkxyX29kOHZRRXl2LXc3MWp1UVZlc1lmTXJib0cyMTdpM0FqTENqUC1CV1VJLVI3Z0dvVURtYlJLMC1qc3RfMThVLWN4aVR0QmsxNmQzTDRrTWdDbVE0SmdPdERTek8yb01QWHhTRmpiR0hha2lmaExFeUlF?oc=5",
+      "publishedAt": "2026-09-07T20:31:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -57,20 +71,6 @@
       "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
       "publishedAt": "2026-09-07T19:50:23.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-07T19:01:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataques aéreos israelenses contra vila libanesa matam 12 pessoas, além de outros acontecimentos importantes no Oriente Médio",
-      "titleOriginal": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
-      "publishedAt": "2026-09-07T18:45:00.000Z"
     }
   ]
 }
