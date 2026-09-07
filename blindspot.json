@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-06T15:25:51.753Z",
-  "slot": "2026-09-06-PM",
+  "updatedAt": "2026-09-07T03:28:40.335Z",
+  "slot": "2026-09-07-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Juiz se recusa a impedir que o Pentágono demita jornalistas do *Stars and Stripes*",
-      "titleOriginal": "Judge refuses to block Pentagon from firing Stars and Stripes journalists",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0IyZ1B4TGhkTzhsQXNZeEdFOUlZcWJFUkZVNng4TWtEcmhXZmV1OHpjUEhoVVhtWWRJenRVTUdKaE9sSXZFd2F4N2xtQS1sNE9LbHhhSkFIVmI1c0Q3VHJFMlRXSVdJc2NGT1VWaVVOdHp4YzhhU05IanlFZndZUGkydGtueEk?oc=5",
-      "source": "The Guardian",
-      "coverage": 3
+      "title": "O jornal “The Post” acompanhou os policiais estaduais durante a operação de repressão à imigração promovida por Trump. Veja o que observamos.",
+      "titleOriginal": "The Post watched state troopers carrying out Trump’s immigration crackdown. Here’s what we saw.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkk0R09fVWhZaEVMeDJlMHZUVEpPUmlpZkp1VXVPaWV5LW1UelltaVoxY3NxUjlGNkZMejlfTmotTDJjM1J3N1NWZFM4VHlRWkh5UkxKS3ZHZjdzYzd2VlJ2VDd1QjZXQXlsa3A1dDNpbzlTVFBGU0U2UWpuN1lQWmFpeGQ0anNsdmVTTGtqRzZiYzAyNWl3RWVqZHZjbWZSQWdDVkdUbjUzbzUyTl9pbHExQ1EycUdIMGp0cGRCbG9qZ1dy?oc=5",
+      "source": "Washington Post",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Divisão antitruste do Departamento de Justiça dos EUA é orientada a “suspender” o trabalho com o governo canadense em meio a disputa comercial: Relatório",
-      "titleOriginal": "DOJ antitrust division told to ‘pause’ work with Canadian government amid trade dispute: Report",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2gybzU1V0plRElVTXhrOU5VaFVBN0pFVEJFckE1NVhIWmY3U2NuUnpSNXBnUkNqQWhtdW5QNEFLYlNSTlo2LWhvOUw2dmZrSlRjdnVRTXJCZHJNX3hvY0lMWDQwa2ROZzloMHFMNGJGLVVZdlpvM3J3VndvVGExQzlkT1JpOF9yVHFZMHJBa2pLWUpGa3dQMmhhWWk1dw?oc=5",
+      "title": "Trump sugere a ideia de mudar o nome do Novo México para “Nova América”",
+      "titleOriginal": "Trump teases idea of changing New Mexico to ‘New America’",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUlLaDQxNThTd295dGZYSDBwWE9OMFFLb0RaR3VxeHZWUTQ4S2RKZWUwVjlEbnRQb3NqdnRKa282VWhjQ0haV2NMRzY3b3BWVDJpRlBTNFRFZnA3U1ZoT3FCaFhjU3hVbTFPYnI5eTdhZURMbkh1TWs2eUFwQU5xRXZBRVVoSDZhSXBkOFM4cE45MVNVdDZFcDdVOXpsTG90UXlSSFNEaDlvbWZ0dkI4Z1FwZ0x0YUU?oc=5",
       "source": "Washington Examiner",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
