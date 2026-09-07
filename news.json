@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-07T17:50:45.727Z",
+  "updatedAt": "2026-09-07T18:30:19.046Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara",
-      "titleOriginal": "Opinion | Hakeem Jeffries Is Hapless in the House",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJsdGJmQUVtdHBaUjMxMDBrOU94UTJPUmtMa2swRF9Dd2tMdlRZakxwazNQQVRKMnp3Y1FiZVNkblp6TTRCUDFQdldFUjlDUUtEalFTU3lsejBfbTNZUmcxWDZYOGlsU0NLOFhXTjV0clJZR1hqSmtnMlFJTEF6QnhaclNoV2phQndHTVNfLTIzQ19YeFBF?oc=5",
-      "publishedAt": "2026-09-07T17:32:48.000Z"
+      "title": "Preocupações com o excesso de capacidade da China ganham repercussão mundial",
+      "titleOriginal": "Concerns Over China’s Overcapacity Go Global",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDlXRDhsTmF5bmxjQ1JQcGw3Wm5SY08ybEFNSmFUdnoxakgyNkdPcjJ3UlNucDk3cXpOYzBYdVZ3aU94OXRVYXYxMEVham1aaDJaSlJKeVNmUndYaTltY3hyTUlWdHR2UkNmdDVoamxvVjB0QTZWREtfbW1kajdWdGtybUcteFUtbENWWS1pYkNSX1E?oc=5",
+      "publishedAt": "2026-09-07T18:26:36.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
+      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
+      "publishedAt": "2026-09-07T18:01:30.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Investigadores federais investigam acidente com jato de carga da Amazon que resultou em incêndio na pista e matou cinco pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T17:51:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Zelensky à Axios: EUA estudam medidas para reduzir as tensões entre a Rússia e a Ucrânia neste inverno",
+      "titleOriginal": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1JUc284NjBMMkppZ29XSm9kUjBwSnpvcjhxT05xTG1rWGViQkswMEh4SzdPZ1NKN0VTQVUxcWc1T1ByMEJEUGdUS01nbVU0eFd3anRTX1h3aVo2QWNHcW96dzhoR3MzbWlrYS15TG1hYkZ1Zm1SMHRGVjZKeTFabnNqRWtIRHQ0LUdXYW9kd3huUQ?oc=5",
+      "publishedAt": "2026-09-07T17:27:37.000Z"
     },
     {
       "source": "New York Times",
@@ -32,17 +53,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump promete vitória nas eleições intermediárias e critica os democratas em mensagem do Dia do Trabalho",
+      "title": "Trump promete vitória nas eleições de meio de mandato e critica os democratas em mensagem do Dia do Trabalho",
       "titleOriginal": "Trump promises midterm victory, slams Democrats in Labor Day message",
       "link": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
       "publishedAt": "2026-09-07T17:15:50.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky à Axios: EUA estão analisando medidas para reduzir as tensões entre a Rússia e a Ucrânia neste inverno",
-      "titleOriginal": "Zelensky to Axios: U.S. exploring Russia-Ukraine winter de-escalation steps",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1JUc284NjBMMkppZ29XSm9kUjBwSnpvcjhxT05xTG1rWGViQkswMEh4SzdPZ1NKN0VTQVUxcWc1T1ByMEJEUGdUS01nbVU0eFd3anRTX1h3aVo2QWNHcW96dzhoR3MzbWlrYS15TG1hYkZ1Zm1SMHRGVjZKeTFabnNqRWtIRHQ0LUdXYW9kd3huUQ?oc=5",
-      "publishedAt": "2026-09-07T16:58:34.000Z"
     },
     {
       "source": "New York Times",
@@ -53,24 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Pesquisa do BOE aponta para uma desaceleração das pressões sobre os preços",
-      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
-      "publishedAt": "2026-09-07T16:40:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que resultou em incêndio na pista e causou a morte de cinco pessoas em Miami",
-      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-      "publishedAt": "2026-09-07T16:29:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
-      "titleOriginal": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3FZUThSdWpjTjlEZTNPVHBXN21mQi1Pb1JSWWxvMWtab1JmSllPeS1TUGFoUnBsdUxzSWdmUnJlQlV6R0Roc1JhR1ZKYkZYSXdXRkVpejBTdk4zX1VaLWI5TEVYMTJYUmFrdFVlZkFwTlpCWXMweDRxaDhFVUNYV2FYS3d4MmI3WmJESHF0aC1jRVhKdno1Q3lpVE4xMkpLa1RpSnJmd3BucUgwQzRCZ2RiU0c0cG9mT3hfeg?oc=5",
-      "publishedAt": "2026-09-07T16:26:19.000Z"
+      "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara",
+      "titleOriginal": "Opinion | Hakeem Jeffries Is Hapless in the House",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJsdGJmQUVtdHBaUjMxMDBrOU94UTJPUmtMa2swRF9Dd2tMdlRZakxwazNQQVRKMnp3Y1FiZVNkblp6TTRCUDFQdldFUjlDUUtEalFTU3lsejBfbTNZUmcxWDZYOGlsU0NLOFhXTjV0clJZR1hqSmtnMlFJTEF6QnhaclNoV2phQndHTVNfLTIzQ19YeFBF?oc=5",
+      "publishedAt": "2026-09-07T16:27:20.000Z"
     }
   ]
 }
