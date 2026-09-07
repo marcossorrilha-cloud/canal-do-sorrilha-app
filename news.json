@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-07T20:50:34.931Z",
+  "updatedAt": "2026-09-07T21:26:58.865Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Vance chamou a IA de satânica. Ele encontrou eco entre os republicanos cristãos.",
+      "titleOriginal": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ?oc=5",
+      "publishedAt": "2026-09-07T21:01:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
+      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
+      "publishedAt": "2026-09-07T21:01:30.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Investigadores federais apuram acidente com jato de carga da Amazon que causou incêndio na pista e matou 5 pessoas em Miami",
+      "title": "Investigadores federais investigam o acidente com incêndio envolvendo um jato de carga da Amazon na pista de pouso, que causou a morte de cinco pessoas em Miami",
       "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-      "publishedAt": "2026-09-07T20:41:00.000Z"
+      "publishedAt": "2026-09-07T21:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Esta semana no Capitólio: os holofotes políticos se voltam para a convenção do Partido Republicano para as eleições de meio de mandato, em Dallas",
+      "titleOriginal": "This week on the Hill: Political spotlight turns to GOP midterm convention in Dallas",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary/",
+      "publishedAt": "2026-09-07T21:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As eleições de meio de mandato entram na reta final, com os candidatos participando de eventos do Dia do Trabalho",
+      "titleOriginal": "Midterm elections head into the home stretch as candidates hit Labor Day events",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNkOVg1TEpyVEdvMjM1b004MFlwRUczTUI0c253aERWdGg0blg1cXV3VVlnMF9sSnhYeTlhcHJVSEdJVXVrWnVuNlRmVFVhQlFJaFhlZTEtUzdDTzNlV0toSmNoNWRFT0h6czJtbDlDRTNuOFgzLXFPMkNnRC1iWl9nUVdDZTJKaUNCNU5VeHB0ZkNUVGRzMUh5SEFRY05DMENESjhSbHdObnhacl8zc1ZhMA?oc=5",
+      "publishedAt": "2026-09-07T20:49:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | EverBank se unirá ao WaFd para criar um banco de US$ 75 bilhões",
+      "titleOriginal": "Exclusive | EverBank to Combine With WaFd to Create $75 Billion Bank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3dtUHNmQmxmRnZpVVlic01mdGdBMlJXdUhJM1pyenhpQXlzUzJSZjcxWXRyTjdrdkdNZFJMcHFIYVREMFdLaGFKdHVmdlgxdFFxcHJLQTBFa3pxdlNCM09KeVNwaGVMRmRGR01lT09uS25oNmR1U2NnWFg4a2tEZThWcmxUWHYxUzMyR19aWEw1WWpsWmFTZWhLMXM0TmQ3?oc=5",
+      "publishedAt": "2026-09-07T20:30:00.000Z"
     },
     {
       "source": "The Hill",
@@ -25,17 +60,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
-      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
-      "publishedAt": "2026-09-07T19:14:11.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Orientações para auditores na era da IA",
-      "titleOriginal": "Advice for Auditors in the AI Era",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMkNzcmZUZFpHNnlVVnJDbDY2QVVSTGlOcU1aOXJRbDAzLUFRbU01cjBIVmc5YmlDSktXeXBudUxuNWlHa3FOTGhkTzhtTEE4VzMzdFE4RExGQ0J2WkNBdVgtMzZEOTJGbWpsRHRrTjVNZnhOZTR3LVZyRXBxTFk?oc=5",
-      "publishedAt": "2026-09-07T18:50:24.000Z"
+      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
+      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
+      "publishedAt": "2026-09-07T19:01:23.000Z"
     },
     {
       "source": "AP News",
@@ -43,34 +71,6 @@
       "titleOriginal": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
       "publishedAt": "2026-09-07T18:45:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preocupações com o excesso de capacidade da China se espalham pelo mundo",
-      "titleOriginal": "Concerns Over China’s Overcapacity Go Global",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDlXRDhsTmF5bmxjQ1JQcGw3Wm5SY08ybEFNSmFUdnoxakgyNkdPcjJ3UlNucDk3cXpOYzBYdVZ3aU94OXRVYXYxMEVham1aaDJaSlJKeVNmUndYaTltY3hyTUlWdHR2UkNmdDVoamxvVjB0QTZWREtfbW1kajdWdGtybUcteFUtbENWWS1pYkNSX1E?oc=5",
-      "publishedAt": "2026-09-07T18:26:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Papa retorna ao santuário onde rezou após a eleição e revela um afresco que retrata o evento",
-      "titleOriginal": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
-      "publishedAt": "2026-09-07T18:17:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Governo do Reino Unido condena protestos contra imigrantes nos portos em relação às travessias de barco pelo Canal da Mancha",
-      "titleOriginal": "UK government condemns anti-migrant protests at ports over Channel boat crossings",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamx1N1dneVVhRHAwRWNwZVFMN0QxOHpjdC1HNHQxU3FyV0VGcUc3d0tyazlaRHM5d2FYOWFiRGtzZEdVVW1fLUN1bnp4Ull0NW9IT2xSNDItSzVjQkZNYzVLaWhpX215UlpTVUZzV19UWVg5VGRZMmNsT3RaSUhOWklVdV9zeE8xaml5TlBMeEdjcGNSd1FQcTgzUm9VVWh3VEJGR0R4UQ?oc=5",
-      "publishedAt": "2026-09-07T18:08:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A UE busca tranquilizar a Groenlândia, abalada pelas declarações de Trump, com a promessa de uma nova parceria e investimentos",
-      "titleOriginal": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
-      "publishedAt": "2026-09-07T18:02:00.000Z"
     }
   ]
 }
