@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-07T13:29:50.514Z",
+  "updatedAt": "2026-09-07T13:52:54.346Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Pesquisa do BOE aponta para uma redução nas pressões sobre os preços",
+      "titleOriginal": "BOE Survey Points to Cooling Price Pressures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEJfa2xWNDZrdmlGQVE0RFpQajVEQWJkYU0zUjVmd1B1ZGM4emJLUU1zYUUtakh1cTVDU29rVXBfcUpWMkVKb2VUMlF2NDVqRUNzNGlGVXNaWHZTb09UZ3NmSGt2U1lfdVF3RFY2NnVIQm9SdkpNRHRUN19PcEJUSGtPMGJiTkh3Y21JN3NHaGE0QQ?oc=5",
+      "publishedAt": "2026-09-07T13:40:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Governador do Novo México critica postagem de Trump sobre a “Nova América” e afirma que o nome “não está em discussão”",
+      "titleOriginal": "New Mexico governor rips Trump's 'New America' post, says name 'isn't up for debate'",
+      "link": "https://thehill.com/homenews/state-watch/6074788-lujan-grisham-slams-trump-new-america/",
+      "publishedAt": "2026-09-07T13:30:51.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | Hakeem Jeffries não tem sorte na Câmara",
@@ -18,7 +32,7 @@
     },
     {
       "source": "AP News",
-      "title": "Ataques aéreos israelenses contra vila libanesa matam 9 pessoas, além de outros acontecimentos importantes no Oriente Médio",
+      "title": "Ataques aéreos israelenses contra uma vila libanesa matam 9 pessoas, além de outros acontecimentos importantes no Oriente Médio",
       "titleOriginal": "Israeli airstrikes on Lebanese village kill 9, plus other key Mideast developments",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
       "publishedAt": "2026-09-07T13:02:00.000Z"
@@ -38,6 +52,13 @@
       "publishedAt": "2026-09-07T12:49:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Investigadores federais investigam acidente com jato de carga da Amazon que resultou em incêndio na pista e matou cinco pessoas em Miami",
+      "titleOriginal": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "publishedAt": "2026-09-07T12:37:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Atualizações em tempo real: ameaça de tarifas retaliatórias do Canadá; cresce a oposição das grandes empresas de tecnologia com a aproximação das eleições de meio de mandato",
       "titleOriginal": "Live updates: Canadian retaliatory tariffs loom; Big Tech opposition grows as midterms approach",
@@ -46,31 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Relatório Matinal de Risco: FTC entra com ação judicial alegando que a Amazon enganou anunciantes",
-      "titleOriginal": "The Morning Risk Report: FTC Files Lawsuit Alleging Amazon Deceived Advertisers",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVM0cEZMZk9PbGROZEpzSk9CVGFLU2ZMWUE2UmpVWTBNZXZZei13STJZZlZqYjh2NHdhRVJBNDhaaG1Wd1JOdnhLb292MlNscmhPM1lFczljdWduQ3VyMEVTUnNMSkdSLXZFQ2RJZ1VOZnk2c0stTXFHbXl3MlR5MUVrVmZPeDN5R29WSnhVZndBRkpMZks3cHJMek1Wdkh3ZngtNkJ6ZnY0aktHUVBza0NOamFiSW1STGVaQUFMaXJIT1ZIOGdBaTNJVQ?oc=5",
-      "publishedAt": "2026-09-07T12:27:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Concorrentes do setor de mídia de varejo organizam um evento no estilo “Upfront” para atrair compradores de publicidade",
-      "titleOriginal": "Retail Media Rivals Host an Upfront-Style Event to Court Ad Buyers",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXJOd3FPc0NEVWZpRV92S0JWSUhyR0hDXzE3S2ZHTTNFQk0zazFVWW56QlZURjh3cVIzSVNCaG41WTRoVENsZk5ISVRYQnVwV2M0dFlZYkNXdGFtQlhmUXFKV0JtSHFfbDB2SC1idlh0RXFoRHNscjlxd3VKc21BOS02eFJieXNySzNJM2Q4d3dOUTMwSFlWYk5icVNsUGltMkNTRG15TWw?oc=5",
-      "publishedAt": "2026-09-07T12:12:10.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Fabricante do Range Rover cortará 4.000 empregos devido ao impacto das tarifas de Trump",
-      "titleOriginal": "Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDg0RVNBdGpUakJuRjZGN2NKU0JwXzJncDk4QmpGMHFhcG1XX3VxM2Y0NHN1TW0yNXRhQ3NxMnBrV2JSMlZIYVNRaVY2SUhRNS04M3EzSUZCd2ZPLWZ3WUV6YlJZNzhmUHdPYXVfRzdoWWVaWmwtd3duN3VSQmVNUE1SRW4wbWJ6eER1T1g0TTdkYmFlekd5ejhpNmFMaVA5SUlvT0dTblM2U0N4dGxEVDVEWU1lWDFTTUR5QXhobEU?oc=5",
-      "publishedAt": "2026-09-07T12:02:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump publica mapa sugerindo que o Novo México seja renomeado como “Nova América”",
-      "titleOriginal": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
-      "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html",
-      "publishedAt": "2026-09-07T11:54:06.000Z"
+      "title": "Fábrica da Volkswagen se tornará unidade de defesa em acordo com a empresa israelense Aurelius",
+      "titleOriginal": "Volkswagen Factory to Become Defense Plant in Deal With Israel’s Aurelius",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUg0eEw0WXdadG1qU3VOWVY5aDhWcGZrbUZXS2c1SGx0ckx3anJUcGpQVThDUXVHeUlMOTNJQ0E3TjBpQUZ6LVdxWC1ocE1YSUllajBRWVdJdkstR0F2SDVPd1ZucWl5Q0ROUXdpOEw5WVBORGtxTTM5VVlJT000aHFfWEVsbVNHS29ORHVFT2pJZ3BsdDJzN0Vod1lNQ2RtdVJIZGJqVjhFa01pQzBFX2JKWnM5YUk?oc=5",
+      "publishedAt": "2026-09-07T12:29:00.000Z"
     }
   ]
 }
