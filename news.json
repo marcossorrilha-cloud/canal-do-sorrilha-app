@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-08T08:30:10.828Z",
+  "updatedAt": "2026-09-08T21:30:35.389Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
+      "title": "As reservas cambiais da China continuam a subir",
+      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
+      "publishedAt": "2026-09-08T21:20:06.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por que os republicanos da Câmara estão retirando seus US$ 5 milhões de uma importante disputa eleitoral em Nova York",
+      "titleOriginal": "Why House Republicans are pulling their $5 million from a key N.Y. battleground seat",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFVmOXM4T3YzV242a1BQM1dtb2t5MmoyR1dOdzlxR2F2Z1pXUkVwTWl4a2w0Qm5NRVRYRUs0UENBSEdScDNTREVQbjJLbFhMdVlGRnlKN21rQ3lXZ2FKWW1qX29JUjVxa3NyLU5QQi1UUEwxbUplazM3Q1RlallJNWpabw?oc=5",
+      "publishedAt": "2026-09-08T21:12:33.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA impõem sanções aos setores restantes do setor de aviação iraniano, em mais uma medida para isolar Teerã",
+      "titleOriginal": "US hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakJ2NUxyYjhUX1hndHdnUG4wS09xRFhjM1JXVkNET3hidmk5ejdlX1hJZ2o0MG41bG5ncDlqWGpROUlFR3F1dC1hQ3loSlN0cXZFWDBqNXVPSXFycUk5OTlmckV3ZDlwdlFodmZVQmF4Y3ZUZ0xPMEVHNUcwVXg2Qkw5Nzk0cUFEaWV1cUU4V1pnaDg?oc=5",
+      "publishedAt": "2026-09-08T21:10:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A campanha do Partido Republicano para o Senado que deu terrivelmente errado na Geórgia",
+      "titleOriginal": "The GOP Senate Campaign Gone Disastrously Wrong in Georgia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnJqVWRzNGVzRE04bTl0b01KMDgtb3hyYkxyZ21DRE1fZUsyaGRNSGwtT3NLcW9RN2lyYnlJd0lIOV9FbzBhcDFxNENIOEhPaGJSRzQzUW5WcUZBT0NiSjJtZXVFYURXVFVzZFRETmhwLVdJNExkakZBNWJhSlNoS3ZiUlQ3XzhaUTN6VDBRQWpCWk9VbWVxTWdrQnZSTDhMejk3Y2ZlSU8tQQ?oc=5",
+      "publishedAt": "2026-09-08T21:01:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Resultados ao vivo: Sullivan e Shaheen se enfrentam em uma acirrada primária para a Câmara dos Deputados em New Hampshire",
+      "titleOriginal": "Live results: Sullivan, Shaheen face off in testy New Hampshire House primary",
+      "link": "https://thehill.com/homenews/house/6074513-live-results-new-hampshire-house-primary/",
+      "publishedAt": "2026-09-08T21:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Membro da Guarda Nacional é acusado de apontar arma para outro soldado durante patrulha em Washington, D.C.",
+      "titleOriginal": "National Guardsman Charged With Pointing Gun at Another Soldier on D.C. Patrol",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/national-guardsman-gun-soldier-dc-patrol.html",
+      "publishedAt": "2026-09-08T20:54:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O mais novo alvo das mudanças de Trump? Os uniformes da Força Espacial.",
+      "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
+      "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
+      "publishedAt": "2026-09-08T20:53:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ucrânia pondera legalizar a indústria pornográfica para financiar seus recursos de guerra",
       "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-      "publishedAt": "2026-09-08T08:01:14.000Z"
+      "publishedAt": "2026-09-08T20:47:53.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
-      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
-      "publishedAt": "2026-09-08T07:59:11.000Z"
+      "source": "The Hill",
+      "title": "A iniciativa de Trump em favor do crédito fiscal para o cinema encontra receptividade entre os democratas",
+      "titleOriginal": "Trump’s push for film tax credit finds receptive audience in Democrats",
+      "link": "https://thehill.com/homenews/administration/6076992-trump-federal-film-tax-credit-democrats-support/",
+      "publishedAt": "2026-09-08T20:39:37.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Como dois homens sem advogados conseguiram levar seus casos até a Suprema Corte",
-      "titleOriginal": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1YzOHZXQy0xQTRwVjZFV01GMWdYQTRqQ0lXdENrcFJNeE5ubTdzTWpTeXBEZGZ2T2ZiSzFBVUdvUjR1NnNRSjhSaXpWb0lGNjBZQWV5NWRiMTRILXdTUld2MWRrTzVNQV80TTB2YkEzRThwSEhacGh2UHZNdkRkcTlKZWhUOHd3N1hkNlVrTWdSMUF5eldTOHlmLWFhX3JlUllILXpuTFE?oc=5",
-      "publishedAt": "2026-09-08T07:55:17.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O círculo íntimo de Elon Musk está investindo pesadamente para tornar os psicodélicos parte da cultura popular",
-      "titleOriginal": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2lmWXZTQkIxbTdmQXRTTEJXNUcyRVhrcGd3TkxnWXRlbFZ2VXE2b1VNV3RTQVRGS003UkE1WXZVdnJiWVBIdlFIOXBOcUNZaGt3eDU0STFBLWphQkFWWHZrdXB0UnZNemRJZ1FNYTZQRlZNU25uQnJRczhXY0ZMeWM3LUIzeXh1aXNQdHp1Tm0xOHVsTXdEVHZiRG0yM181SkN4MGJNdFhvR3NlVUZoczhRTVg1cG03dlNjTU1iSQ?oc=5",
-      "publishedAt": "2026-09-08T07:50:47.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ken Paxton está em apuros no Texas, mas conta com seu histórico (e com Trump)",
-      "titleOriginal": "Ken Paxton Is in Texas Trouble, But He Has History (and Trump)",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDVhdWRFblpCeTJOWkt3bElzQnVkZTVaa2YzUjJvNl9Ndk8tMFhjU0hkMm5WcE1WMEtwUU9CLUNXbUwyRU54QVlocUlnRFIyQ0kwV2Y0RHNsSzNGX3dGQWFYNHV4YXRldmNiMWJFR0N1eW9iT1FTVGRvOGIxSUdBU253UE9QbnQ2VkZPZGhtT2lkcmowcHRkUG1UZURtdw?oc=5",
-      "publishedAt": "2026-09-08T06:46:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As exportações da China se recuperam em agosto, registrando um salto de 25%, à medida que o superávit comercial do país aumenta",
-      "titleOriginal": "China’s exports pick up in August, jumping 25% as its trade surplus widens",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHZITmVCeWxybnNhVVVxNmJHNGZoTVF4aGxNaXJ2U3FobzdXY1haaUticWMzQmJmekNYMEFVaS04UVE0VzR2QjB4Tzd6WVZkZ3Rzd3JDX3ZJejZYSmNsMWczNkdYSDY3VEZzTjlfVlpJSTVMT0d5MC1qeG9RTW1WLWp0dnpsU2I1QTIzbEVvSTlCdjFrUl9HaWpMYkF1TGd6M3Bv?oc=5",
-      "publishedAt": "2026-09-08T06:28:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Rússia e Coreia do Norte inauguram a primeira ligação rodoviária que atravessa a fronteira comum",
-      "titleOriginal": "Russia and North Korea open the first road link across shared border",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
-      "publishedAt": "2026-09-08T06:20:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Mistral AI ultrapassa a avaliação de US$ 24 bilhões após rodada de investimentos liderada pela Samsung",
-      "titleOriginal": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDloWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw?oc=5",
-      "publishedAt": "2026-09-08T05:34:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
-      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
-      "publishedAt": "2026-09-08T04:55:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A empresa chinesa Huawei Technologies enfrenta um julgamento por extorsão em Nova York",
-      "titleOriginal": "China’s Huawei Technologies faces racketeering trial in New York",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?oc=5",
-      "publishedAt": "2026-09-08T04:19:00.000Z"
+      "source": "The Hill",
+      "title": "Hochul manifesta apoio a Mamdani depois que Giuliani lhe diz para não comparecer à cerimônia do 11 de setembro",
+      "titleOriginal": "Hochul voices support for Mamdani after Giuliani tells him to skip 9/11 ceremony",
+      "link": "https://thehill.com/homenews/state-watch/6077228-hochul-voices-support-for-mamdani-after-giuliani-tells-him-to-skip-9-11-ceremony/",
+      "publishedAt": "2026-09-08T20:36:41.000Z"
     }
   ]
 }
