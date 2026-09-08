@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-08T21:50:10.321Z",
+  "updatedAt": "2026-09-08T22:26:50.566Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "As reservas cambiais da China continuam a subir",
+      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
+      "publishedAt": "2026-09-08T22:19:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Enquete: Qual é a sua opinião sobre o projeto da nova arena do sul da Filadélfia?",
+      "titleOriginal": "Poll: Your take on South Philly's new arena design",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhtOGE4QkVtX0JXaG1HSUt0OTh3RWtJMVViR2Zid3pOTE9OMWI5cG5FLURzTmo1RTQzWks5emxsMlVGc3NWMWJtME9IbWdqQ2VEcFhqcFBjR2h5V0NObHNiWW1ROEdDNHp6SWVxdWoybTM1Sjc0UHJRcGg4QWhVdnRRMWZuV3h2Zi05bWUzWFNzcWQ5ZElRNENwR0ZHRmdTcXBoR2pmdzcxdmpfQ0VXaXRVWmt0VUVOY0haN1RRcUxZQQ?oc=5",
+      "publishedAt": "2026-09-08T22:18:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal federal vai ouvir argumentos sobre o acesso à pílula abortiva",
+      "titleOriginal": "Federal court to hear arguments on abortion pill access",
+      "link": "https://thehill.com/newsletters/healthcare/6077518-federal-court-to-hear-arguments-on-abortion-pill-access/",
+      "publishedAt": "2026-09-08T22:11:59.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Suprema Corte rejeita tentativa de restabelecer o redesenho distrital favorável ao Partido Republicano no Missouri antes das eleições intermediárias",
+      "titleOriginal": "Supreme Court rejects bid to revive Missouri’s pro-GOP redistricting before midterms",
+      "link": "https://www.politico.com/news/2026/09/08/supreme-court-rejects-missouri-redistricting-bid-01068211",
+      "publishedAt": "2026-09-08T22:09:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "No segundo mandato de Trump, o boom dos produtos com a marca MAGA está chegando ao fim",
+      "titleOriginal": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlJaW1sUkxKVFlXYmhZZ0ZjWnI2LWNTbTRWRnBnYmZFVDFFX1UyTmhvV1hmV2hGZEJNdkNKUjNSc0xiRnRsM2Y5ZF84Zzc1SlJ4VWpjT2Y5cmZMRzZGVVRSTGh4RnhybXJ2U0tXcDl1VXhTMGNFak1XdWpPdWk1UXJjVWwwd09nWlRMVGpnRkZqdGNKSGJGMzRqZ2FOUjJU?oc=5",
+      "publishedAt": "2026-09-08T22:05:17.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Kavanaugh não vai restabelecer o mapa eleitoral do Missouri, favorável ao Partido Republicano, para as eleições intermediárias",
@@ -11,10 +46,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump se dedica a provocar os críticos à medida que cresce a ansiedade do Partido Republicano em relação às eleições de meio de mandato",
+      "title": "Trump se empenha em provocar os críticos à medida que cresce a ansiedade no Partido Republicano em relação às eleições de meio de mandato",
       "titleOriginal": "Trump leans into trolling critics as GOP midterm anxiety grows",
       "link": "https://thehill.com/homenews/administration/6077459-new-mexico-name-controversy/",
       "publishedAt": "2026-09-08T21:35:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Pacientes estão viajando para a China em busca do tratamento mais avançado contra o câncer",
+      "titleOriginal": "Patients Are Flying to China for the Latest Cancer Treatment",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?oc=5",
+      "publishedAt": "2026-09-08T21:31:29.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
       "publishedAt": "2026-09-08T21:26:05.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "As reservas cambiais da China continuam a subir",
-      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
-      "publishedAt": "2026-09-08T21:20:06.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "EUA atacam petroleiros iranianos e outras notícias importantes do Oriente Médio",
-      "titleOriginal": "US strikes Iranian tankers plus other key Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc?oc=5",
-      "publishedAt": "2026-09-08T21:20:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por que os republicanos da Câmara estão retirando seus US$ 5 milhões de uma disputa eleitoral decisiva em Nova York",
-      "titleOriginal": "Why House Republicans are pulling their $5 million from a key N.Y. battleground seat",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFVmOXM4T3YzV242a1BQM1dtb2t5MmoyR1dOdzlxR2F2Z1pXUkVwTWl4a2w0Qm5NRVRYRUs0UENBSEdScDNTREVQbjJLbFhMdVlGRnlKN21rQ3lXZ2FKWW1qX29JUjVxa3NyLU5QQi1UUEwxbUplazM3Q1RlallJNWpabw?oc=5",
-      "publishedAt": "2026-09-08T21:12:33.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA impõem sanções aos setores restantes da aviação iraniana, em mais uma medida para isolar Teerã",
-      "titleOriginal": "US hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakJ2NUxyYjhUX1hndHdnUG4wS09xRFhjM1JXVkNET3hidmk5ejdlX1hJZ2o0MG41bG5ncDlqWGpROUlFR3F1dC1hQ3loSlN0cXZFWDBqNXVPSXFycUk5OTlmckV3ZDlwdlFodmZVQmF4Y3ZUZ0xPMEVHNUcwVXg2Qkw5Nzk0cUFEaWV1cUU4V1pnaDg?oc=5",
-      "publishedAt": "2026-09-08T21:10:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Resultados ao vivo: Sullivan e Shaheen se enfrentam em uma acirrada primária para a Câmara dos Deputados em New Hampshire",
-      "titleOriginal": "Live results: Sullivan, Shaheen face off in testy New Hampshire House primary",
-      "link": "https://thehill.com/homenews/house/6074513-live-results-new-hampshire-house-primary/",
-      "publishedAt": "2026-09-08T21:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Membro da Guarda Nacional é acusado de apontar arma para outro soldado durante patrulha em Washington, D.C.",
-      "titleOriginal": "National Guardsman Charged With Pointing Gun at Another Soldier on D.C. Patrol",
-      "link": "https://www.nytimes.com/2026/09/08/us/politics/national-guardsman-gun-soldier-dc-patrol.html",
-      "publishedAt": "2026-09-08T20:54:46.000Z"
     }
   ]
 }
