@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-09-08T23:25:21.522Z",
+  "updatedAt": "2026-09-08T23:49:11.095Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Decisões judiciais contraditórias deixam as disputas pelo Congresso no Missouri em caos",
+      "titleOriginal": "Dueling Court Rulings Leave Missouri’s Congressional Races in Chaos",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html",
+      "publishedAt": "2026-09-08T23:45:45.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Como bilhões de dinheiro iraniano passam pelos bancos dos EUA",
+      "title": "Como os ataques com drones ucranianos estão abalando a economia russa",
+      "titleOriginal": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFINTVQRkIxRGVyMllZMGptRXBpdWU0WndVWFRUazBMTTNKbnF4OFl6R2lnLXR3T1ljYUV2S29tZGRTT0ppT21JT2drWW1wdkxlM2Z2bF8wUkp4TDB3WTRIY1B0alNCWC1vUExLeWN5bXdkbTRsbFBuLVctQkhHTVU4eS1mdmJzZVcxMjNPSWVmV2J3RWcxcG5SbjdjNEk?oc=5",
+      "publishedAt": "2026-09-08T23:32:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Carville afirma que Trump “quer torturar” o Partido Republicano antes das eleições de meio de mandato",
+      "titleOriginal": "Carville claims Trump 'wants to torture' GOP ahead of midterms",
+      "link": "https://thehill.com/homenews/campaign/6077638-carville-trump-wants-gop-lose/",
+      "publishedAt": "2026-09-08T23:28:32.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Na homenagem ao 11 de setembro, Trump acrescenta nova alegação sobre seu papel controverso após o ataque",
+      "titleOriginal": "At 9/11 Tribute, Trump Adds New Claim to His Disputed Role After Attack",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html",
+      "publishedAt": "2026-09-08T23:24:08.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As Forças Armadas dos EUA afirmam ter destruído mais 5 petroleiros iranianos após ataques com mísseis contra um navio de guerra da Marinha",
+      "titleOriginal": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+      "publishedAt": "2026-09-08T23:15:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
       "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
       "publishedAt": "2026-09-08T23:09:29.000Z"
@@ -17,22 +52,8 @@
       "publishedAt": "2026-09-08T23:09:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Na homenagem ao 11 de setembro, Trump acrescenta nova alegação sobre seu papel controverso após o ataque",
-      "titleOriginal": "At 9/11 Tribute, Trump Adds New Claim To His Disputed Role After Attack",
-      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html",
-      "publishedAt": "2026-09-08T23:07:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos para a guerra",
-      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-      "publishedAt": "2026-09-08T23:01:15.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Deputado democrata em situação delicada na Câmara dos Deputados está vendendo produtos de campanha inspirados na marca Zyn",
+      "title": "Deputado democrata em situação vulnerável na Câmara dos Deputados está vendendo produtos de campanha inspirados na Zyn",
       "titleOriginal": "Vulnerable House Democrat selling Zyn-inspired campaign merchandise",
       "link": "https://thehill.com/homenews/house/6077601-vulnerable-house-democrat-selling-zyn-inspired-campaign-merchandise/",
       "publishedAt": "2026-09-08T23:00:30.000Z"
@@ -43,27 +64,6 @@
       "titleOriginal": "Trump's summer of sabotage",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
       "publishedAt": "2026-09-08T22:52:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Suprema Corte do Brasil destitui chefe da Polícia Federal; Lula recorre da decisão",
-      "titleOriginal": "Brazil Supreme Court removes federal police chief, Lula appeals the decision",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXNmTl93NVNpaXE4emtReFdSb0RWWVBsU2FITl9yWF9iZUhZMFRSTmJfa3pqb2xNUmt4VHl5OGxWNGp0SFNod0ViRjFBaXJQaFVFT0FBUDhjaHd0a0JsNERUWmZpeU9XMHFzNDJ0Y0ZVMWw3RDJLYlV5VWdtSGdMTkhNbDFlT0J0RnI1S1ljOG9IcE1IQWRUV21CVVdZT3dOTWRoNQ?oc=5",
-      "publishedAt": "2026-09-08T22:44:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Suprema Corte recusa-se a intervir em caso de isenção religiosa da vacinação em Nova York",
-      "titleOriginal": "Supreme Court declines to intervene in New York religious vaccine exemption case",
-      "link": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
-      "publishedAt": "2026-09-08T22:37:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "No segundo mandato de Trump, o boom dos produtos com a marca MAGA está chegando ao fim",
-      "titleOriginal": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlJaW1sUkxKVFlXYmhZZ0ZjWnI2LWNTbTRWRnBnYmZFVDFFX1UyTmhvV1hmV2hGZEJNdkNKUjNSc0xiRnRsM2Y5ZF84Zzc1SlJ4VWpjT2Y5cmZMRzZGVVRSTGh4RnhybXJ2U0tXcDl1VXhTMGNFak1XdWpPdWk1UXJjVWwwd09nWlRMVGpnRkZqdGNKSGJGMzRqZ2FOUjJU?oc=5",
-      "publishedAt": "2026-09-08T22:36:50.000Z"
     },
     {
       "source": "The Hill",
