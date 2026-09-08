@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-08T22:50:23.888Z",
+  "updatedAt": "2026-09-08T23:25:21.522Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Como bilhões de dinheiro iraniano passam pelos bancos dos EUA",
+      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
+      "publishedAt": "2026-09-08T23:09:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "EUA atacam petroleiros iranianos e outras notícias importantes do Oriente Médio",
+      "titleOriginal": "US strikes Iranian tankers plus other key Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc?oc=5",
+      "publishedAt": "2026-09-08T23:09:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Na homenagem ao 11 de setembro, Trump acrescenta nova alegação sobre seu papel controverso após o ataque",
+      "titleOriginal": "At 9/11 Tribute, Trump Adds New Claim To His Disputed Role After Attack",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html",
+      "publishedAt": "2026-09-08T23:07:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos para a guerra",
+      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "publishedAt": "2026-09-08T23:01:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado democrata em situação delicada na Câmara dos Deputados está vendendo produtos de campanha inspirados na marca Zyn",
+      "titleOriginal": "Vulnerable House Democrat selling Zyn-inspired campaign merchandise",
+      "link": "https://thehill.com/homenews/house/6077601-vulnerable-house-democrat-selling-zyn-inspired-campaign-merchandise/",
+      "publishedAt": "2026-09-08T23:00:30.000Z"
+    },
     {
       "source": "Axios",
       "title": "O verão de sabotagem de Trump",
       "titleOriginal": "Trump's summer of sabotage",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
-      "publishedAt": "2026-09-08T22:48:34.000Z"
+      "publishedAt": "2026-09-08T22:52:34.000Z"
     },
     {
       "source": "AP News",
@@ -18,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Suprema Corte recusa-se a intervir em caso de isenção religiosa para vacinação em Nova York",
+      "title": "Suprema Corte recusa-se a intervir em caso de isenção religiosa da vacinação em Nova York",
       "titleOriginal": "Supreme Court declines to intervene in New York religious vaccine exemption case",
       "link": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
       "publishedAt": "2026-09-08T22:37:42.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Former Texas attorney general aide, Paxton whistleblower backs Talarico in attack ad",
       "link": "https://thehill.com/homenews/campaign/6077568-talarico-ad-ex-paxton-aide/",
       "publishedAt": "2026-09-08T22:33:17.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Enquete: O que você acha do projeto da nova arena do sul da Filadélfia?",
-      "titleOriginal": "Poll: Your take on South Philly's new arena design",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhtOGE4QkVtX0JXaG1HSUt0OTh3RWtJMVViR2Zid3pOTE9OMWI5cG5FLURzTmo1RTQzWks5emxsMlVGc3NWMWJtME9IbWdqQ2VEcFhqcFBjR2h5V0NObHNiWW1ROEdDNHp6SWVxdWoybTM1Sjc0UHJRcGg4QWhVdnRRMWZuV3h2Zi05bWUzWFNzcWQ5ZElRNENwR0ZHRmdTcXBoR2pmdzcxdmpfQ0VXaXRVWmt0VUVOY0haN1RRcUxZQQ?oc=5",
-      "publishedAt": "2026-09-08T22:18:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O uso de tecnologia chinesa pela Ford é considerado “inaceitável” pelo secretário de Transportes",
-      "titleOriginal": "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkR4THd1YjJBS1IybmVWRVFTQmhyWS01dWc2SWViSUZWRlltbnB5RFRMLTZmMVVxLTVYTTJmd2JiT2R2VFZnOENFUVBnUWhfZHZTNUc4VDl2dzZIOW01cWRLREpxUkV5ZERJRTl5Y05DZWtkcUwxS2ZjZnNVLWVGWndEYkRHMmhsbDNhaXdkUTlDbmxZZENVZVBHQmxfOVpiT3lFNDdNSG04MHUxOVhGeVd3MVBRTXdT?oc=5",
-      "publishedAt": "2026-09-08T22:15:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal federal vai ouvir argumentos sobre o acesso à pílula abortiva",
-      "titleOriginal": "Federal court to hear arguments on abortion pill access",
-      "link": "https://thehill.com/newsletters/healthcare/6077518-federal-court-to-hear-arguments-on-abortion-pill-access/",
-      "publishedAt": "2026-09-08T22:11:59.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Suprema Corte rejeita tentativa de restabelecer o redesenho distrital favorável ao Partido Republicano no Missouri antes das eleições intermediárias",
-      "titleOriginal": "Supreme Court rejects bid to revive Missouri’s pro-GOP redistricting before midterms",
-      "link": "https://www.politico.com/news/2026/09/08/supreme-court-rejects-missouri-redistricting-bid-01068211",
-      "publishedAt": "2026-09-08T22:09:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como os ataques com drones ucranianos estão abalando a economia da Rússia",
-      "titleOriginal": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFINTVQRkIxRGVyMllZMGptRXBpdWU0WndVWFRUazBMTTNKbnF4OFl6R2lnLXR3T1ljYUV2S29tZGRTT0ppT21JT2drWW1wdkxlM2Z2bF8wUkp4TDB3WTRIY1B0alNCWC1vUExLeWN5bXdkbTRsbFBuLVctQkhHTVU4eS1mdmJzZVcxMjNPSWVmV2J3RWcxcG5SbjdjNEk?oc=5",
-      "publishedAt": "2026-09-08T22:02:03.000Z"
     }
   ]
 }
