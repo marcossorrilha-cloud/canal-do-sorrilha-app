@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-09-08T07:28:41.471Z",
+  "updatedAt": "2026-09-08T07:53:16.930Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Varejistas reduzem a variedade de produtos para conter custos da cadeia de suprimentos e tarifas",
-      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
-      "publishedAt": "2026-09-08T07:18:38.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como os ataques com drones ucranianos estão abalando a economia da Rússia",
-      "titleOriginal": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFINTVQRkIxRGVyMllZMGptRXBpdWU0WndVWFRUazBMTTNKbnF4OFl6R2lnLXR3T1ljYUV2S29tZGRTT0ppT21JT2drWW1wdkxlM2Z2bF8wUkp4TDB3WTRIY1B0alNCWC1vUExLeWN5bXdkbTRsbFBuLVctQkhHTVU4eS1mdmJzZVcxMjNPSWVmV2J3RWcxcG5SbjdjNEk?oc=5",
-      "publishedAt": "2026-09-08T07:02:02.000Z"
+      "title": "Ken Paxton está em apuros no Texas, mas conta com seu histórico (e com Trump)",
+      "titleOriginal": "Ken Paxton Is in Texas Trouble, But He Has History (and Trump)",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDVhdWRFblpCeTJOWkt3bElzQnVkZTVaa2YzUjJvNl9Ndk8tMFhjU0hkMm5WcE1WMEtwUU9CLUNXbUwyRU54QVlocUlnRFIyQ0kwV2Y0RHNsSzNGX3dGQWFYNHV4YXRldmNiMWJFR0N1eW9iT1FTVGRvOGIxSUdBU253UE9QbnQ2VkZPZGhtT2lkcmowcHRkUG1UZURtdw?oc=5",
+      "publishedAt": "2026-09-08T06:46:27.000Z"
     },
     {
       "source": "AP News",
@@ -38,6 +31,13 @@
       "publishedAt": "2026-09-08T04:55:45.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
+      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "publishedAt": "2026-09-08T04:21:24.000Z"
+    },
+    {
       "source": "AP News",
       "title": "A empresa chinesa Huawei Technologies enfrenta um julgamento por extorsão em Nova York",
       "titleOriginal": "China’s Huawei Technologies faces racketeering trial in New York",
@@ -52,13 +52,6 @@
       "publishedAt": "2026-09-08T04:07:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
-      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
-      "publishedAt": "2026-09-08T04:04:22.000Z"
-    },
-    {
       "source": "AP News",
       "title": "O Partido Republicano estava confiante em manter sua maioria no Senado. Agora, a disputa pelo controle está totalmente em aberto",
       "titleOriginal": "The GOP was confident about keeping its Senate majority. Now the fight for control is wide open",
@@ -67,7 +60,14 @@
     },
     {
       "source": "AP News",
-      "title": "O Nepal passou por meses de turbulência política. Inundações devastadoras estão agora colocando à prova seu novo governo",
+      "title": "Rússia e Coreia do Norte inauguram a primeira estrada que atravessa a fronteira entre os dois países",
+      "titleOriginal": "Russia and North Korea open the first road across their shared border",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
+      "publishedAt": "2026-09-08T03:38:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Nepal passou por meses de turbulência política. Agora, inundações devastadoras estão colocando à prova seu novo governo",
       "titleOriginal": "Nepal endured months of political upheaval. Devastating floods are now testing its new government",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjlXM0ctblQyMnZwT29iSTBDNzdzRjJkSEU5WWotdFNEV2swbGlhdXlOQnZDQ2VKUFp0OUVnUWhfQjZpZWlBMG5tR3dlVTlua2g0dmFIcmp0REZ4S3czeXBkSlVjUmR2aUljM0R4bTBUSUZpU3FmYTg4cmNsdHo1bkRyZEVIbVg2cjlraWxISFNjVHc?oc=5",
       "publishedAt": "2026-09-08T03:32:00.000Z"
