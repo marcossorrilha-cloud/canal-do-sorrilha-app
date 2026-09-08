@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-08T03:53:09.344Z",
+  "updatedAt": "2026-09-08T04:28:18.900Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Nos templos de Taiwan, um vislumbre do que a China poderia ter sido",
+      "titleOriginal": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkVQMzc0SHAzWlc4bHBrV0xkandDZE4tLUhLbDJpUDJkcVMwUUJJS2p5dXlfb3hFQ2VRMXByY0ZqeFdZV1RIVE50RUtWWGY2SzMwcGp4NzJWM25xYmtoT0VPQmFaRkFZZ0JnWWdqcl91SkxheUo0V3p4VmJEM2UwVk1VajZDSUx4dnFYd1hTTjV4Tm9NZHJjTkRzWEE4emlQT3F5azhvRQ?oc=5",
+      "publishedAt": "2026-09-08T03:46:52.000Z"
+    },
     {
       "source": "AP News",
       "title": "O Papa Leão XIV inaugura um afresco no santuário onde rezou após sua eleição no ano passado",
       "titleOriginal": "Pope Leo XIV unveils a fresco at the sanctuary where he prayed after his election last year",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
       "publishedAt": "2026-09-08T02:10:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Canadá escolhe a Alstom para fabricar vagões de passageiros em um contrato de vários bilhões de dólares",
+      "titleOriginal": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3FZUThSdWpjTjlEZTNPVHBXN21mQi1Pb1JSWWxvMWtab1JmSllPeS1TUGFoUnBsdUxzSWdmUnJlQlV6R0Roc1JhR1ZKYkZYSXdXRkVpejBTdk4zX1VaLWI5TEVYMTJYUmFrdFVlZkFwTlpCWXMweDRxaDhFVUNYV2FYS3d4MmI3WmJESHF0aC1jRVhKdno1Q3lpVE4xMkpLa1RpSnJmd3BucUgwQzRCZ2RiU0c0cG9mT3hfeg?oc=5",
+      "publishedAt": "2026-09-08T02:00:12.000Z"
     },
     {
       "source": "The Hill",
@@ -22,13 +36,6 @@
       "titleOriginal": "Russia and North Korea open the first road link across shared border",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
       "publishedAt": "2026-09-08T01:48:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
-      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
-      "publishedAt": "2026-09-08T01:23:33.000Z"
     },
     {
       "source": "The Hill",
@@ -46,7 +53,7 @@
     },
     {
       "source": "AP News",
-      "title": "Merz, da Alemanha, fica chocado com a vitória da extrema direita nas eleições estaduais, mas mantém o rumo nas reformas impopulares",
+      "title": "Merz, da Alemanha, fica chocado com a vitória da extrema direita nas eleições estaduais, mas mantém firme as reformas impopulares",
       "titleOriginal": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
       "publishedAt": "2026-09-08T01:01:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
       "publishedAt": "2026-09-08T00:18:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Notas da AP sobre a decisão: O que esperar das primárias estaduais de New Hampshire",
-      "titleOriginal": "AP Decision Notes: What to expect in New Hampshire’s state primary",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOF95ckhrdE91X1NQM2tWc1NJREloVXZKV2J2Ny1LNWQ2MklUZkxnTklxc0p0c29RN2hCRnFwS3kxNkRfcjh0Z2NWVF9Hby1MREI1aTNRSFU0b2R2Z2o4T2FtMmVzd3hhbHRjUmt6NnpKZFZlb3d0QUxRbEJWQW5rZ3cxdmRaZVNiQzQ3SHhFc01sRGh6dnE3amdQVnhmUFN0TXhoNm5DYmJUUVF4anJzV1BuSnhtS0RyYXUzUkVOMFhqUnRucUdncF9YTllYQzRq?oc=5",
-      "publishedAt": "2026-09-07T23:27:00.000Z"
     }
   ]
 }
