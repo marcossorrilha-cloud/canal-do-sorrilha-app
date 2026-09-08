@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:27:11.557Z",
+  "updatedAt": "2026-09-08T05:52:16.809Z",
   "count": 10,
   "items": [
     {
@@ -31,18 +31,25 @@
       "publishedAt": "2026-09-08T04:31:18.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Varejistas reduzem a variedade de produtos para contornar os custos da cadeia de suprimentos e as tarifas",
+      "titleOriginal": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "publishedAt": "2026-09-08T04:21:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A empresa chinesa Huawei Technologies enfrenta um julgamento por extorsão em Nova York",
+      "titleOriginal": "China’s Huawei Technologies faces racketeering trial in New York",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?oc=5",
+      "publishedAt": "2026-09-08T04:19:00.000Z"
+    },
+    {
       "source": "AP News",
       "title": "O que é preciso saber sobre a escalada da guerra comercial entre o Canadá e os EUA, à medida que Carney retalia com tarifas",
       "titleOriginal": "What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
       "publishedAt": "2026-09-08T04:07:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Democratas criticam Fetterman após reportagem do WSJ sobre como ele gasta seu tempo",
-      "titleOriginal": "Democrats Criticize Fetterman After WSJ Report on How He Spends His Time",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3FmT040RVU2SFRpVjIyRGxPYnZmZjg0YVIwcnRVb3hXOVNpUlp5ZVI5VWhDZUh2OVFHN0VmTUNhUFk2bV9GcU5lQWdkWklNY1d5ZW5INzJZTEh3dllkQ1I5WVVzY0k2M043YURzS0tndExOVVZyUTR3ZmQ0VHRGWEZ2VWhEajFLTWEtMmZDUjB2elFfR3N3VXIxSnAtLXlSbDlPVktLdlBUSkFRQXlpNUFwRUpBMngx?oc=5",
-      "publishedAt": "2026-09-08T04:04:22.000Z"
     },
     {
       "source": "AP News",
@@ -57,13 +64,6 @@
       "titleOriginal": "Russia and North Korea open the first road across their shared border",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
       "publishedAt": "2026-09-08T03:38:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ken Paxton está em apuros no Texas, mas conta com seu histórico (e com Trump)",
-      "titleOriginal": "Ken Paxton Is in Texas Trouble, But He Has History (and Trump)",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDVhdWRFblpCeTJOWkt3bElzQnVkZTVaa2YzUjJvNl9Ndk8tMFhjU0hkMm5WcE1WMEtwUU9CLUNXbUwyRU54QVlocUlnRFIyQ0kwV2Y0RHNsSzNGX3dGQWFYNHV4YXRldmNiMWJFR0N1eW9iT1FTVGRvOGIxSUdBU253UE9QbnQ2VkZPZGhtT2lkcmowcHRkUG1UZURtdw?oc=5",
-      "publishedAt": "2026-09-08T02:50:21.000Z"
     },
     {
       "source": "AP News",
