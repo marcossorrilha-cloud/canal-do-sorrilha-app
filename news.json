@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-09-08T22:26:50.566Z",
+  "updatedAt": "2026-09-08T22:50:23.888Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "O verão de sabotagem de Trump",
+      "titleOriginal": "Trump's summer of sabotage",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
+      "publishedAt": "2026-09-08T22:48:34.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte do Brasil destitui chefe da Polícia Federal; Lula recorre da decisão",
+      "titleOriginal": "Brazil Supreme Court removes federal police chief, Lula appeals the decision",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXNmTl93NVNpaXE4emtReFdSb0RWWVBsU2FITl9yWF9iZUhZMFRSTmJfa3pqb2xNUmt4VHl5OGxWNGp0SFNod0ViRjFBaXJQaFVFT0FBUDhjaHd0a0JsNERUWmZpeU9XMHFzNDJ0Y0ZVMWw3RDJLYlV5VWdtSGdMTkhNbDFlT0J0RnI1S1ljOG9IcE1IQWRUV21CVVdZT3dOTWRoNQ?oc=5",
+      "publishedAt": "2026-09-08T22:44:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte recusa-se a intervir em caso de isenção religiosa para vacinação em Nova York",
+      "titleOriginal": "Supreme Court declines to intervene in New York religious vaccine exemption case",
+      "link": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
+      "publishedAt": "2026-09-08T22:37:42.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "As reservas cambiais da China continuam a subir",
-      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
-      "publishedAt": "2026-09-08T22:19:54.000Z"
+      "title": "No segundo mandato de Trump, o boom dos produtos com a marca MAGA está chegando ao fim",
+      "titleOriginal": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlJaW1sUkxKVFlXYmhZZ0ZjWnI2LWNTbTRWRnBnYmZFVDFFX1UyTmhvV1hmV2hGZEJNdkNKUjNSc0xiRnRsM2Y5ZF84Zzc1SlJ4VWpjT2Y5cmZMRzZGVVRSTGh4RnhybXJ2U0tXcDl1VXhTMGNFak1XdWpPdWk1UXJjVWwwd09nWlRMVGpnRkZqdGNKSGJGMzRqZ2FOUjJU?oc=5",
+      "publishedAt": "2026-09-08T22:36:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-assessor do procurador-geral do Texas e denunciante do caso Paxton apoia Talarico em anúncio de ataque",
+      "titleOriginal": "Former Texas attorney general aide, Paxton whistleblower backs Talarico in attack ad",
+      "link": "https://thehill.com/homenews/campaign/6077568-talarico-ad-ex-paxton-aide/",
+      "publishedAt": "2026-09-08T22:33:17.000Z"
     },
     {
       "source": "Axios",
-      "title": "Enquete: Qual é a sua opinião sobre o projeto da nova arena do sul da Filadélfia?",
+      "title": "Enquete: O que você acha do projeto da nova arena do sul da Filadélfia?",
       "titleOriginal": "Poll: Your take on South Philly's new arena design",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhtOGE4QkVtX0JXaG1HSUt0OTh3RWtJMVViR2Zid3pOTE9OMWI5cG5FLURzTmo1RTQzWks5emxsMlVGc3NWMWJtME9IbWdqQ2VEcFhqcFBjR2h5V0NObHNiWW1ROEdDNHp6SWVxdWoybTM1Sjc0UHJRcGg4QWhVdnRRMWZuV3h2Zi05bWUzWFNzcWQ5ZElRNENwR0ZHRmdTcXBoR2pmdzcxdmpfQ0VXaXRVWmt0VUVOY0haN1RRcUxZQQ?oc=5",
       "publishedAt": "2026-09-08T22:18:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O uso de tecnologia chinesa pela Ford é considerado “inaceitável” pelo secretário de Transportes",
+      "titleOriginal": "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkR4THd1YjJBS1IybmVWRVFTQmhyWS01dWc2SWViSUZWRlltbnB5RFRMLTZmMVVxLTVYTTJmd2JiT2R2VFZnOENFUVBnUWhfZHZTNUc4VDl2dzZIOW01cWRLREpxUkV5ZERJRTl5Y05DZWtkcUwxS2ZjZnNVLWVGWndEYkRHMmhsbDNhaXdkUTlDbmxZZENVZVBHQmxfOVpiT3lFNDdNSG04MHUxOVhGeVd3MVBRTXdT?oc=5",
+      "publishedAt": "2026-09-08T22:15:10.000Z"
     },
     {
       "source": "The Hill",
@@ -32,45 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "No segundo mandato de Trump, o boom dos produtos com a marca MAGA está chegando ao fim",
-      "titleOriginal": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlJaW1sUkxKVFlXYmhZZ0ZjWnI2LWNTbTRWRnBnYmZFVDFFX1UyTmhvV1hmV2hGZEJNdkNKUjNSc0xiRnRsM2Y5ZF84Zzc1SlJ4VWpjT2Y5cmZMRzZGVVRSTGh4RnhybXJ2U0tXcDl1VXhTMGNFak1XdWpPdWk1UXJjVWwwd09nWlRMVGpnRkZqdGNKSGJGMzRqZ2FOUjJU?oc=5",
-      "publishedAt": "2026-09-08T22:05:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Kavanaugh não vai restabelecer o mapa eleitoral do Missouri, favorável ao Partido Republicano, para as eleições intermediárias",
-      "titleOriginal": "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
-      "link": "https://thehill.com/regulation/court-battles/6077470-supreme-court-missouri-congressional-map/",
-      "publishedAt": "2026-09-08T21:44:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump se empenha em provocar os críticos à medida que cresce a ansiedade no Partido Republicano em relação às eleições de meio de mandato",
-      "titleOriginal": "Trump leans into trolling critics as GOP midterm anxiety grows",
-      "link": "https://thehill.com/homenews/administration/6077459-new-mexico-name-controversy/",
-      "publishedAt": "2026-09-08T21:35:14.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Pacientes estão viajando para a China em busca do tratamento mais avançado contra o câncer",
-      "titleOriginal": "Patients Are Flying to China for the Latest Cancer Treatment",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?oc=5",
-      "publishedAt": "2026-09-08T21:31:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os mercados de previsão chegam às portas da Suprema Corte",
-      "titleOriginal": "Prediction markets arrive at Supreme Court's doorstep",
-      "link": "https://thehill.com/newsletters/technology/6077441-prediction-markets-arrive-at-supreme-courts-doorstep/",
-      "publishedAt": "2026-09-08T21:29:50.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
-      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
-      "publishedAt": "2026-09-08T21:26:05.000Z"
+      "title": "Como os ataques com drones ucranianos estão abalando a economia da Rússia",
+      "titleOriginal": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFINTVQRkIxRGVyMllZMGptRXBpdWU0WndVWFRUazBMTTNKbnF4OFl6R2lnLXR3T1ljYUV2S29tZGRTT0ppT21JT2drWW1wdkxlM2Z2bF8wUkp4TDB3WTRIY1B0alNCWC1vUExLeWN5bXdkbTRsbFBuLVctQkhHTVU4eS1mdmJzZVcxMjNPSWVmV2J3RWcxcG5SbjdjNEk?oc=5",
+      "publishedAt": "2026-09-08T22:02:03.000Z"
     }
   ]
 }
