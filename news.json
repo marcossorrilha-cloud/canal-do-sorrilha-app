@@ -1,31 +1,66 @@
 {
-  "updatedAt": "2026-09-09T19:49:15.667Z",
+  "updatedAt": "2026-09-09T20:28:15.583Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "As ações caem em Wall Street, com os preços do petróleo voltando a ultrapassar os US$ 100 por barril após a escalada do conflito no Irã",
+      "titleOriginal": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+      "publishedAt": "2026-09-09T20:18:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "A convenção de Trump oferece uma “experiência para investidores” e ingressos caros",
-      "titleOriginal": "Trump’s Convention Offers an ‘Investor Experience’ and Pricey Tickets",
+      "title": "A convenção de Trump oferece uma oportunidade incomum de arrecadação de fundos para os republicanos",
+      "titleOriginal": "Trump’s Convention Offers an Unusual Fund-Raising Opportunity for Republicans",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-fundraising.html",
-      "publishedAt": "2026-09-09T19:46:59.000Z"
+      "publishedAt": "2026-09-09T20:16:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Air Force One, presente do Catar, aciona escorregador inflável antes de partir para a convenção do Partido Republicano no Texas",
+      "title": "Kash Patel prestará depoimento perante o Congresso na próxima semana",
+      "titleOriginal": "Kash Patel to testify before Congress next week",
+      "link": "https://thehill.com/homenews/senate/6079918-kash-patel-senate-testimony/",
+      "publishedAt": "2026-09-09T20:09:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "60 publicações em 10 horas: como as redes sociais de Trump refletem sua versão da realidade",
+      "titleOriginal": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
+      "publishedAt": "2026-09-09T20:05:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista: O programa “The Hill ‘Rising’” apresenta uma cobertura especial ao vivo, no horário nobre, da convenção da RNC para as eleições de meio de mandato",
+      "titleOriginal": "Watch: The Hill 'Rising' presents live special primetime RNC midterm convention coverage",
+      "link": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
+      "publishedAt": "2026-09-09T20:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que consideraria conceder perdão a Michael Cohen",
+      "titleOriginal": "Trump says he'd consider pardoning Michael Cohen",
+      "link": "https://thehill.com/homenews/administration/6079896-cohen-hush-money-trial-recantation/",
+      "publishedAt": "2026-09-09T19:55:34.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Criptomoeda do “laptop” de Hunter Biden despenca logo após o lançamento",
+      "titleOriginal": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
+      "publishedAt": "2026-09-09T19:53:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Air Force One, doado pelo Catar, aciona um escorregador inflável antes de partir para a convenção do Partido Republicano no Texas",
       "titleOriginal": "Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas",
       "link": "https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide/",
       "publishedAt": "2026-09-09T19:41:52.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Departamento de Energia eleva em 33 centavos a previsão do preço do diesel para 2027 em meio à guerra com o Irã",
-      "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
-      "publishedAt": "2026-09-09T19:38:19.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
+      "title": "O preço do petróleo ultrapassa os US$ 100 por barril à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
       "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
       "publishedAt": "2026-09-09T19:38:00.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Appeals court hears bid to curtail access to medication abortion",
       "link": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
       "publishedAt": "2026-09-09T19:36:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ataques do Irã a base na Jordânia causaram danos limitados, afirmam autoridades americanas",
-      "titleOriginal": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
-      "publishedAt": "2026-09-09T19:34:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Operação “Midway Blitz” do ICE custou US$ 1,2 bilhão às empresas de Chicago: estudo",
-      "titleOriginal": "ICE's 'Midway Blitz' operation cost Chicago businesses $1.2 billion: Study",
-      "link": "https://thehill.com/homenews/state-watch/6079755-ice-operation-chicago-business-cost/",
-      "publishedAt": "2026-09-09T19:33:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump prevê que a guerra com o Irã terminará “imediatamente após a eleição”",
-      "titleOriginal": "Trump predicts Iran war will end 'immediately after the election'",
-      "link": "https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms/",
-      "publishedAt": "2026-09-09T19:27:52.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Moeda meme ligada ao laptop de Hunter Biden dispara, mas depois despenca após estreia no mercado",
-      "titleOriginal": "Hunter Biden’s laptop-linked meme coin soars, then falls after market debut",
-      "link": "https://thehill.com/policy/technology/6079738-hunter-biden-laptop-meme-coin-launches/",
-      "publishedAt": "2026-09-09T19:23:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como republicanos e democratas avaliam suas vantagens nas eleições de meio de mandato.",
-      "titleOriginal": "How Republicans and Democrats see their advantages in the midterms.",
-      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/how-republicans-and-democrats-see-their-advantages-in-the-midterms",
-      "publishedAt": "2026-09-09T19:17:51.000Z"
     }
   ]
 }
