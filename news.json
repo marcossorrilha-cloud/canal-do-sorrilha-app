@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:34:02.817Z",
+  "updatedAt": "2026-09-09T06:54:53.546Z",
   "count": 10,
   "items": [
     {
@@ -18,14 +18,21 @@
     },
     {
       "source": "AP News",
-      "title": "Decisões judiciais contraditórias geram confusão nas eleições para o Congresso no Missouri",
+      "title": "Decisões judiciais contraditórias aumentam a confusão nas eleições para o Congresso no Missouri",
       "titleOriginal": "Competing court orders add confusion to Missouri congressional elections",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
       "publishedAt": "2026-09-09T03:54:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Por que os republicanos da Câmara estão retirando seus US$ 5 milhões de uma importante disputa eleitoral em Nova York",
+      "titleOriginal": "Why House Republicans are pulling their $5 million from a key N.Y. battleground seat",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFVmOXM4T3YzV242a1BQM1dtb2t5MmoyR1dOdzlxR2F2Z1pXUkVwTWl4a2w0Qm5NRVRYRUs0UENBSEdScDNTREVQbjJLbFhMdVlGRnlKN21rQ3lXZ2FKWW1qX29JUjVxa3NyLU5QQi1UUEwxbUplazM3Q1RlallJNWpabw?oc=5",
+      "publishedAt": "2026-09-09T03:29:07.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Trump deu presentes de fim de ano no valor de US$ 45.000 para Natalie Harp e outros dois assessores da Casa Branca",
+      "title": "Trump deu presentes de Natal no valor de US$ 45.000 a Natalie Harp e a outros dois assessores da Casa Branca",
       "titleOriginal": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
       "publishedAt": "2026-09-09T03:20:00.000Z"
@@ -49,7 +56,7 @@
       "title": "Inflação ao consumidor e ao produtor na China registram ligeiro aumento",
       "titleOriginal": "China’s Consumer, Producer Inflation Edge Higher",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2dYTndOblJqbl9lVFRaTEhoa3RkeDJTYXVMTUlCcG9MeFhkNnRxdGZ4THJNdVBSSXZmSUJDTF8xQjV1SXJPbjl4M3pwV2xBbEdadEVwTFBjS2ltOW5tWkR6RlVGWnFKcEd2XzY4dWZLOXFNR0tqejQ0bmVFbnVKVU5iQkdiRjY2R0tZ?oc=5",
-      "publishedAt": "2026-09-09T03:03:26.000Z"
+      "publishedAt": "2026-09-09T03:01:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -64,13 +71,6 @@
       "titleOriginal": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
       "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
       "publishedAt": "2026-09-09T02:33:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O mais novo alvo das mudanças de Trump? Os uniformes da Força Espacial.",
-      "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
-      "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
-      "publishedAt": "2026-09-09T02:29:11.000Z"
     }
   ]
 }
