@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-09T16:52:26.014Z",
+  "updatedAt": "2026-09-09T17:27:17.851Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Diretor do Smithsonian deve renunciar após ameaças do governo Trump de cortar o apoio",
+      "titleOriginal": "Smithsonian head to resign after Trump admin threats to cut off support",
+      "link": "https://thehill.com/opinion/lindseys-lens/6079443-lonnie-bunch-smithsonian-resignation/",
+      "publishedAt": "2026-09-09T17:20:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Plano de assistência social socialista do vice-presidente JD Vance é revelado: conservadores em conflito!",
+      "titleOriginal": "VP JD Vance's socialist welfare plan exposed: Conservatives feuding!",
+      "link": "https://thehill.com/opinion/robbys-radar/6079365-soave-counters-vance-childcare-proposal/",
+      "publishedAt": "2026-09-09T17:10:05.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como funcionaria o plano de votação por correspondência de Trump",
+      "titleOriginal": "How Trump’s Mail Voting Plan Would Work",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-mail-in-voting-ballots-usps.html",
+      "publishedAt": "2026-09-09T17:05:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Baseado no mérito e sem distinção racial: a desculpa do Pentágono para a demissão de oficiais negros",
+      "titleOriginal": "Merit-based and colorblind: The Pentagon's cover story for purging Black officers",
+      "link": "https://thehill.com/opinion/6078078-trump-administration-dismantles-military-mobility/",
+      "publishedAt": "2026-09-09T17:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Coalizão bipartidária pressiona o governo Trump para que divulgue o quadro de segurança para IA",
@@ -18,59 +46,31 @@
     },
     {
       "source": "The Hill",
-      "title": "O “Trump-a-palooza” começa no Texas",
+      "title": "O “Trump-a-palooza” dá início no Texas",
       "titleOriginal": "'Trump-a-palooza' kicks off in Texas",
       "link": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/",
       "publishedAt": "2026-09-09T16:42:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Congresso precisa acertar na questão da transparência dos preços dos serviços de saúde",
+      "title": "O Congresso precisa garantir a transparência dos preços dos serviços de saúde",
       "titleOriginal": "Congress must get healthcare price transparency right",
       "link": "https://thehill.com/opinion/healthcare/6077734-house-lower-costs-transparency/",
       "publishedAt": "2026-09-09T16:30:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "As eleições não vão resolver as divisões políticas dos Estados Unidos",
-      "titleOriginal": "Elections won’t fix America's political divisions",
-      "link": "https://thehill.com/opinion/campaign/6076926-overcoming-us-political-polarization/",
-      "publishedAt": "2026-09-09T16:00:00.000Z"
+      "source": "AP News",
+      "title": "Zelenskyy pede que se intensifique a pressão internacional sobre a Rússia devido às mortes de civis",
+      "titleOriginal": "Zelenskyy urges more international pressure on Russia for civilian deaths",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVptWDlGOFQ4OUpVelNYVXVMNXZwOUYzaTVuUlhhcV9iR0pnMGdRZnJtdVkzSkxsMnlQUlJjYTJIYkk5cTJxWUpRbjU4eUJJV2NfTm5hZnRUSFJxdjkxazdIR2tSR2VkN1dMZW1SaWVUV1F0TFdaSWJDNXh4c3lweVE4TjA3WGM2aENCbGprLWM4T0NRY2R4OE9TWFNYeWVpdnFF?oc=5",
+      "publishedAt": "2026-09-09T16:04:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ações da Chewy caem à medida que os consumidores reduzem os gastos com guloseimas para animais de estimação",
-      "titleOriginal": "Chewy Shares Slide as Consumers Pare Back Spending on Pet Treats",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGxrenZZMDdWYnZqa0tzQ1FtN0lOYl9QSjZzcUV3dkNuTkFLNkdrWDdGZnBkVC14aFNUNTh1ZlBWdFVCR2QtMXdUTUFHNGx0Um1SMVZlSjA0ZnEwZTJvX0p4NWdieDNoaVl3eFA1NGdyUmNyYUtqNGtZU2lpeFg1c3ZiUzJCVmd6VmJ0ajNFTDNvbFd1cEhwZHJiXzhMRU53cUsyWnZlbUJqY3M?oc=5",
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "EUA proíbem a importação de laticínios, da maioria das bebidas alcoólicas e de motocicletas do Canadá em meio a uma guerra comercial cada vez mais acirrada",
-      "titleOriginal": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
-      "publishedAt": "2026-09-09T15:51:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ford: Críticas de Duffy sobre acordos com a China são uma “tentativa equivocada de ganhar destaque na mídia”",
-      "titleOriginal": "Ford: Duffy criticism over deals with China 'wrongheaded attempt to capture headlines'",
-      "link": "https://thehill.com/business/6079042-ford-refutes-duffy-china-claims/",
-      "publishedAt": "2026-09-09T15:39:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Navarro: A Casa Branca informou à Fox News que a demissão de Bartiromo foi “totalmente inaceitável”",
-      "titleOriginal": "Navarro: White House told Fox News Bartiromo ouster was 'totally unacceptable'",
-      "link": "https://thehill.com/homenews/media/6079001-navarro-fox-news-bartiromo-ouster/",
-      "publishedAt": "2026-09-09T15:36:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Kudlow para Cruz: “Talvez seja melhor você pensar” antes de anunciar sua candidatura à presidência em novembro",
-      "titleOriginal": "Kudlow to Cruz: 'You might want to think' about announcing presidential bid in November",
-      "link": "https://thehill.com/homenews/campaign/6078802-ted-cruz-2028-presidential-run/",
-      "publishedAt": "2026-09-09T15:27:07.000Z"
+      "title": "O Tesouro dos EUA planeja recomprar títulos de 10 a 20 anos no valor de US$ 6 bilhões",
+      "titleOriginal": "U.S. Treasury Plans $6 Billion 10- to 20-Year Bond Buyback",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmpCdnk5QmVtb21SSVo3Z2VRT3NfMTFmRm02OWVTUWk4bVVWUUdoaDVOY1RYaVU3ODdsekJ0OFIxQ2hLdGp6Qm9SWFAteXlicjMzWFZ3bTFqT241LUpkdktOLTdKbmY2UGR5X3JYWmdQMXY3Rm90YjkzV2VCdjJmSXJ4cGYxZEx1RUUyZmpQMVZLLXcyVGdUamxuOHN6SnItODNuXw?oc=5",
+      "publishedAt": "2026-09-09T16:02:00.000Z"
     }
   ]
 }
