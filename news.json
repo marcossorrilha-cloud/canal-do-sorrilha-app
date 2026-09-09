@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-09T04:52:35.921Z",
+  "updatedAt": "2026-09-09T05:27:11.537Z",
   "count": 10,
   "items": [
     {
       "source": "Politico",
-      "title": "Stefany Shaheen, filha da senadora Jeanne Shaheen, vence as primárias para a Câmara dos Deputados de New Hampshire",
+      "title": "Stefany Shaheen, filha da senadora Jeanne Shaheen, vence as primárias para a Câmara dos Deputados em New Hampshire",
       "titleOriginal": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
       "link": "https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480",
       "publishedAt": "2026-09-09T04:48:32.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O verão de sabotagem de Trump",
+      "titleOriginal": "Trump's summer of sabotage",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
+      "publishedAt": "2026-09-09T04:02:08.000Z"
     },
     {
       "source": "AP News",
@@ -17,22 +24,15 @@
       "publishedAt": "2026-09-09T03:54:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O verão de sabotagem de Trump",
-      "titleOriginal": "Trump's summer of sabotage",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
-      "publishedAt": "2026-09-09T03:48:34.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Trump deu presentes de Natal no valor de US$ 45.000 a Natalie Harp e a outros dois assessores da Casa Branca",
+      "title": "Trump deu presentes de fim de ano no valor de US$ 45.000 a Natalie Harp e a outros dois assessores da Casa Branca",
       "titleOriginal": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
       "publishedAt": "2026-09-09T03:20:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo Procurador-Geral da Carolina do Norte com os produtores",
+      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo procurador-geral da Carolina do Norte com os produtores",
       "titleOriginal": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
       "link": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
       "publishedAt": "2026-09-09T03:17:39.000Z"
