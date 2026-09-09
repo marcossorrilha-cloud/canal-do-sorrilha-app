@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-09T02:28:19.101Z",
+  "updatedAt": "2026-09-09T02:52:12.267Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Carney afirma que a retaliação contra as tarifas dos EUA era inevitável",
+      "titleOriginal": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
+      "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
+      "publishedAt": "2026-09-09T02:33:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O mais novo alvo das mudanças de Trump? Os uniformes da Força Espacial.",
+      "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
+      "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
+      "publishedAt": "2026-09-09T02:29:11.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump proíbe a importação de laticínios, motocicletas e diversas bebidas alcoólicas do Canadá",
@@ -24,32 +38,18 @@
       "publishedAt": "2026-09-09T02:12:14.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
-      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-      "publishedAt": "2026-09-09T02:01:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "As reservas cambiais da China continuam a subir",
-      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
-      "publishedAt": "2026-09-09T01:50:15.000Z"
+      "source": "New York Times",
+      "title": "A capacidade de Trump de dar voz às preocupações dos eleitores é posta à prova enquanto os republicanos se reúnem em Dallas",
+      "titleOriginal": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
+      "publishedAt": "2026-09-09T01:59:40.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Confronto entre Pappas e Sununu está definido na disputa pelo Senado que os democratas precisam vencer: três pontos a serem destacados de New Hampshire",
+      "title": "Confronto entre Pappas e Sununu está marcado na disputa pelo Senado que os democratas precisam vencer: três pontos a serem destacados de New Hampshire",
       "titleOriginal": "Pappas-Sununu showdown set in Democrats' must-win Senate race: 3 takeaways from New Hampshire",
       "link": "https://thehill.com/homenews/campaign/6077243-pappas-sununu-new-hampshire-primary-takeaways/",
       "publishedAt": "2026-09-09T01:48:09.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como os ataques com drones ucranianos estão abalando a economia da Rússia",
-      "titleOriginal": "How Ukrainian Drone Strikes Are Pounding Russia’s Economy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFINTVQRkIxRGVyMllZMGptRXBpdWU0WndVWFRUazBMTTNKbnF4OFl6R2lnLXR3T1ljYUV2S29tZGRTT0ppT21JT2drWW1wdkxlM2Z2bF8wUkp4TDB3WTRIY1B0alNCWC1vUExLeWN5bXdkbTRsbFBuLVctQkhHTVU4eS1mdmJzZVcxMjNPSWVmV2J3RWcxcG5SbjdjNEk?oc=5",
-      "publishedAt": "2026-09-09T01:45:08.000Z"
     },
     {
       "source": "AP News",
@@ -60,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "A política externa de Trump economiza US$ 320 bilhões aos contribuintes ao longo de quatro anos: Relatório",
+      "title": "A política externa de Trump economiza US$ 320 bilhões aos contribuintes em quatro anos: Relatório",
       "titleOriginal": "Trump’s foreign policy saves taxpayers $320 billion over 4 years: Report",
       "link": "https://thehill.com/newsletters/defense-national-security/6077894-trump-foreign-policy-saves-taxpayers/",
       "publishedAt": "2026-09-09T01:32:18.000Z"
