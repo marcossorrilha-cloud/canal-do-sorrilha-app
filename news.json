@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-09-09T03:52:39.257Z",
+  "updatedAt": "2026-09-09T04:28:29.425Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
-      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
-      "publishedAt": "2026-09-09T03:26:05.000Z"
+      "title": "As reservas cambiais da China continuam a subir",
+      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
+      "publishedAt": "2026-09-09T04:23:28.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Decisões judiciais contraditórias aumentam a confusão nas eleições para o Congresso do Missouri",
+      "titleOriginal": "Competing court orders add confusion to Missouri congressional elections",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
+      "publishedAt": "2026-09-09T03:54:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump deu presentes de Natal no valor de US$ 45.000 a Natalie Harp e a outros dois assessores da Casa Branca",
+      "titleOriginal": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
+      "publishedAt": "2026-09-09T03:20:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo Procurador-Geral da Carolina do Norte com os produtores",
+      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo procurador-geral da Carolina do Norte com os produtores",
       "titleOriginal": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
       "link": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
       "publishedAt": "2026-09-09T03:17:39.000Z"
@@ -22,6 +36,13 @@
       "titleOriginal": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas",
       "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
       "publishedAt": "2026-09-09T03:07:02.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Inflação ao consumidor e ao produtor na China registram ligeiro aumento",
+      "titleOriginal": "China’s Consumer, Producer Inflation Edge Higher",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2dYTndOblJqbl9lVFRaTEhoa3RkeDJTYXVMTUlCcG9MeFhkNnRxdGZ4THJNdVBSSXZmSUJDTF8xQjV1SXJPbjl4M3pwV2xBbEdadEVwTFBjS2ltOW5tWkR6RlVGWnFKcEd2XzY4dWZLOXFNR0tqejQ0bmVFbnVKVU5iQkdiRjY2R0tZ?oc=5",
+      "publishedAt": "2026-09-09T03:01:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -50,27 +71,6 @@
       "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
       "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
       "publishedAt": "2026-09-09T02:29:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump proíbe a importação de laticínios, motocicletas e diversas bebidas alcoólicas do Canadá",
-      "titleOriginal": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages",
-      "link": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
-      "publishedAt": "2026-09-09T02:25:52.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ucrânia considera legalizar a indústria pornográfica para financiar seus recursos de guerra",
-      "titleOriginal": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-      "publishedAt": "2026-09-09T02:01:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "EUA atacam petroleiros iranianos e outras notícias importantes do Oriente Médio",
-      "titleOriginal": "US strikes Iranian tankers plus other key Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc?oc=5",
-      "publishedAt": "2026-09-09T01:43:00.000Z"
     }
   ]
 }
