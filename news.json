@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T18:31:39.453Z",
+  "updatedAt": "2026-09-09T18:52:21.343Z",
   "count": 10,
   "items": [
     {
@@ -10,8 +10,22 @@
       "publishedAt": "2026-09-09T18:16:17.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Com a aproximação das eleições de meio de mandato, nova pesquisa revela que poucos americanos confiam nas campanhas eleitorais ou em Trump",
+      "titleOriginal": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
+      "publishedAt": "2026-09-09T18:16:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump apela para “Tornar a Alemanha Grande Novamente”. Na Alemanha, a nostalgia carrega um passado sombrio.",
+      "titleOriginal": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Zko3dmFlMzdhOW9RXzZ1RzFpU0FmUzJHMGpwOXNCdHBMWlcxd1dTQ1NvWjlsbDhCMGlYc08xT2tqMHVSaElHajNKNXRIX2ZjcEhVWGwyWTNyZkVCcno2RWRTc1FYZlI4UnN3UE5OUzY?oc=5",
+      "publishedAt": "2026-09-09T18:07:53.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Casa Branca cancela jogo sobre o muro na fronteira após reações negativas ao Tetris",
+      "title": "Casa Branca cancela jogo sobre o muro da fronteira após reação negativa ao Tetris",
       "titleOriginal": "White House axes border wall game after Tetris pushback",
       "link": "https://thehill.com/homenews/administration/6079556-white-house-removes-build-wall/",
       "publishedAt": "2026-09-09T18:06:12.000Z"
@@ -25,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Aqui estão cinco disputas eleitorais a serem acompanhadas neste outono para obter respostas às principais questões das eleições intermediárias.",
+      "title": "Aqui estão cinco disputas eleitorais a serem acompanhadas neste outono para obter respostas às principais questões das eleições de meio de mandato.",
       "titleOriginal": "Here are 5 races to watch this fall for answers to the biggest midterm questions.",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/here-are-5-races-to-watch-this-fall-for-answers-to-the-biggest-midterm-questions",
       "publishedAt": "2026-09-09T18:01:47.000Z"
@@ -39,7 +53,7 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Sanders convoca senadores para reunião informativa sobre IA em meio a crescentes preocupações",
+      "title": "Exclusivo: Sanders convoca senadores para reunião informativa sobre IA em meio a crescente preocupação",
       "titleOriginal": "Scoop: Sanders convenes senators for AI briefing amid mounting alarm",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMnVLQXoyd3hMYTNMQ05KUjhwQVNGZzNCOXN2eUVuZmZia0xrWEk0Ul9ydlRxRGllYkU1OTlrOUVtQk1SampBT2J4aHhwYlZORk9aanVkb2JXZy01c0JRZVMxWkU2Nm1vR3c1YWVB?oc=5",
       "publishedAt": "2026-09-09T18:00:17.000Z"
@@ -53,24 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Pacientes estão viajando para a China em busca do tratamento mais avançado contra o câncer",
+      "title": "Pacientes estão viajando para a China em busca do tratamento mais recente contra o câncer",
       "titleOriginal": "Patients Are Flying to China for the Latest Cancer Treatment",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEx5Um9QbC1VWThkcE1oa2tvRkQyRWRJWGRncHZGODFjSVFLU1htb0gyaXYyY0RpRmtOenFUblpubU1GbjdDSFcyTS1mY3RSUnFaYTRKc0tGdFRDSlA2djNQek0tTlpjQk9mM0pEWV9iNVcycV9ETEVtYXNFX1RFbVVGMGRVTXl6OGdRSjN5S1duQ1VFMWR3SklfVG5pY08tRDdHbkFLcjVWY2M?oc=5",
       "publishedAt": "2026-09-09T17:53:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jackson e El-Sayed têm ligeira vantagem nas principais disputas pelo Senado: pesquisa da CNN",
-      "titleOriginal": "Jackson, El-Sayed hold slight edge in key Senate races: CNN poll",
-      "link": "https://thehill.com/homenews/campaign/6079483-troy-jackson-abdul-el-sayed-maine-michigan-democratic-senate-races/",
-      "publishedAt": "2026-09-09T17:48:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump proíbe algumas importações do Canadá à medida que a guerra comercial na América do Norte se intensifica",
-      "titleOriginal": "Trump bans some Canadian imports as North America trade war intensifies",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
-      "publishedAt": "2026-09-09T17:47:24.000Z"
     }
   ]
 }
