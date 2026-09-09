@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T12:55:24.031Z",
+  "updatedAt": "2026-09-09T13:30:14.792Z",
   "count": 10,
   "items": [
     {
@@ -10,6 +10,13 @@
       "publishedAt": "2026-09-09T12:44:50.000Z"
     },
     {
+      "source": "New York Times",
+      "title": "A capacidade de Trump de dar voz às preocupações dos eleitores é posta à prova enquanto os republicanos se reúnem em Dallas",
+      "titleOriginal": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas",
+      "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
+      "publishedAt": "2026-09-09T12:39:27.000Z"
+    },
+    {
       "source": "Axios",
       "title": "O prefeito de Denver, Johnston, dá início à campanha de reeleição",
       "titleOriginal": "Denver Mayor Johnston kicks off re-election campaign",
@@ -17,8 +24,15 @@
       "publishedAt": "2026-09-09T12:21:57.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Os mercados dos EUA apontam para uma queda, à medida que os preços do petróleo ultrapassam os US$ 100 e o conflito em torno do Irã se intensifica",
+      "titleOriginal": "US markets point lower as crude prices breach $100 with the conflict around Iran intensifying",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+      "publishedAt": "2026-09-09T12:09:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O Irã ataca embarcações e uma base dos EUA na Jordânia após o naufrágio de petroleiros",
+      "title": "O Irã ataca navios e uma base dos EUA na Jordânia após o afundamento de petroleiros",
       "titleOriginal": "Iran attacks vessels, US base in Jordan after tankers sunk",
       "link": "https://thehill.com/policy/international/6078254-us-iran-war-jordan-retaliation-oil-tankers-sunk/",
       "publishedAt": "2026-09-09T12:03:07.000Z"
@@ -32,21 +46,14 @@
     },
     {
       "source": "The Hill",
-      "title": "A Câmara deve aumentar a pressão sobre Putin",
+      "title": "A Câmara dos Deputados precisa aumentar a pressão sobre Putin",
       "titleOriginal": "The House must turn the screws on Putin",
       "link": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
       "publishedAt": "2026-09-09T12:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Os dólares do petróleo do Irã estão se esgotando — e levando o país a uma crise ainda mais profunda",
-      "titleOriginal": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXRfc2dzTXJvU0JkTG56SThDeEpvVWFhbDV6Q0ZGZ3pBdzI3UGNFblRaajd0LTFmdkdoLW8tOTF1QVdZOFAtMC1Ob183YWpRT1JsVnhVOThTTk80WTdQb0tPd3NUSENVWnVoSl9UcExHeDZGbndLQnEtblFLZU1KR01nTDM3dVVyOS1Kc1JRME1WTU52QThMSWZ3emxpUWl4bjVUYVFvT2xmNG5VZFhOU09R?oc=5",
-      "publishedAt": "2026-09-09T11:57:54.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Brent chega a US$ 100, à medida que a escalada entre os EUA e o Irã e os ataques dos houthis agravam os temores quanto ao abastecimento no Golfo",
+      "title": "O Brent atinge US$ 100 à medida que a escalada entre EUA e Irã e os ataques dos houthis agravam os temores quanto ao abastecimento no Golfo",
       "titleOriginal": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1U4eTNZZ0F0VlUwYkJ1clV6eWxWWnV3QzFiVjBwTzdNNkJhMGJZN3hjQ0hCY3cxbFlabEc2UTc2WUg1dFpSZV9zZ0VvNURCeGJER2lkbTd5UWE1VWNvaDN1NDdlclk5c1RXR3A0VnZzSHRZY21HdnVPWHlpck5zV29LVVlwQlVoSmdHMXF4V2Z3cTdnWllHb0F3R0pYX3Bnai0yLWN4MkZuMHV2aTIyT2VQV2JYeVA4bHRmMFFPMGdPRm8?oc=5",
       "publishedAt": "2026-09-09T11:49:00.000Z"
@@ -63,13 +70,6 @@
       "title": "Os preços do trigo estão disparando, e os agricultores do Kansas não conseguem lucrar com isso",
       "titleOriginal": "Wheat prices are soaring and Kansas farmers can't cash in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFJBdklZNGliYVA0b3p1dVBUekF6Szg4ZUEtWkxFeEZCak9fNlpWLUhDS1dsYTJKYW1kajZaWmJBVWdxbVk4cmVlM2hwdHlVbWFEdDdMX0o3YS1SdnczeEkxS1Y3emx4Z3lVTUIxLWpuRjF5U1BqSmxaRl9DUU1qNnNQdVJjSDRFR2tPb0FpQQ?oc=5",
-      "publishedAt": "2026-09-09T11:33:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "41 mil moradores do Missouri acabaram de recuperar o direito ao voto. Muitos nem sabem disso.",
-      "titleOriginal": "41,000 Missourians just got the right to vote back. Many don't know it.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTBhVTlZZzMwQ2VPNjl3Q2FUbFZxTmxXdXFGWnRwMGtyWVVnai04T2F1MzhUR012cjdFSHFhcXd0LWFEbDN4NHZhTFk4WUlwa082WFEwcjdyelNjd25keURnMk93TXU4WG9NUkhaR0tlUkNmUGk1LXZ3T3QyWmVNdEllVklQZnpVa0g3WmFNTW1QTjl0ZUVlbC1SSldHUTJDNzcta01WNHpHUEpIQUVz?oc=5",
       "publishedAt": "2026-09-09T11:33:02.000Z"
     }
   ]
