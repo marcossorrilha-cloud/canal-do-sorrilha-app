@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-09T22:26:50.447Z",
+  "updatedAt": "2026-09-09T22:49:46.270Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
+      "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
+      "publishedAt": "2026-09-09T22:46:11.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Até que ponto Trump se importa com quem vai vencer as eleições de meio de mandato?",
+      "titleOriginal": "How Much Does Trump Care Who Wins the Midterms?",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterm-strategy.html",
+      "publishedAt": "2026-09-09T22:39:08.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Estados entram com duas ações judiciais contra os cortes de Trump na Lei de Espécies Ameaçadas de Extinção",
+      "titleOriginal": "States File 2 Lawsuits Over Trump’s Cuts to Endangered Species Act",
+      "link": "https://www.nytimes.com/2026/09/09/climate/lawsuit-trump-endangered-species-act.html",
+      "publishedAt": "2026-09-09T22:38:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado republicano afirma que Paxton precisa debater com Talarico para vencer no Texas",
+      "titleOriginal": "GOP lawmaker says Paxton must debate Talarico to win Texas",
+      "link": "https://thehill.com/homenews/campaign/6080357-pete-sessions-ken-paxton-debate-james-talarico/",
+      "publishedAt": "2026-09-09T22:35:58.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Fetterman elogiará Trump em vídeo bombástico da convenção do Partido Republicano",
+      "titleOriginal": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "publishedAt": "2026-09-09T22:19:23.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Legisladores alertam para os perigos da IA após advertência de pesquisadores da Anthropic",
@@ -25,52 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "O Tesouro aumenta o teto para a recompra de dívida para US$ 6 bilhões",
+      "title": "O Tesouro aumenta o limite para a recompra de dívida para US$ 6 bilhões",
       "titleOriginal": "Treasury boosts debt buyback cap to $6 billion",
       "link": "https://thehill.com/newsletters/business-economy/6080260-treasury-boosts-debt-buyback-cap-to-6-billion/",
       "publishedAt": "2026-09-09T21:41:10.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump fica atrasado após a ativação de uma rampa de emergência no novo Air Force One",
+      "title": "Trump fica retido após a ativação de uma rampa de emergência no novo Air Force One",
       "titleOriginal": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html",
       "publishedAt": "2026-09-09T21:40:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "James Talarico responde à convenção de meio de mandato de Trump com uma campanha de arrecadação de alimentos",
-      "titleOriginal": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html",
-      "publishedAt": "2026-09-09T21:32:29.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Criptomoeda do “laptop” de Hunter Biden despenca logo após o lançamento",
-      "titleOriginal": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
-      "publishedAt": "2026-09-09T21:31:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nomeados por Trump para cargos na área da saúde devem avançar com o retorno do Senado",
-      "titleOriginal": "Trump’s health nominees set to move forward with Senate return",
-      "link": "https://thehill.com/newsletters/healthcare/6080173-trumps-health-nominees-set-to-move-forward-with-senate-return/",
-      "publishedAt": "2026-09-09T21:29:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pritzker: Vance é o “principal bajulador” de Trump",
-      "titleOriginal": "Pritzker: Vance is Trump's 'chief bootlicker'",
-      "link": "https://thehill.com/homenews/campaign/6080162-pritzker-calls-vance-bootlicker/",
-      "publishedAt": "2026-09-09T21:29:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã reacende o conflito no Estreito de Ormuz enquanto os EUA intensificam a pressão",
-      "titleOriginal": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-      "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
-      "publishedAt": "2026-09-09T21:25:33.000Z"
     }
   ]
 }
