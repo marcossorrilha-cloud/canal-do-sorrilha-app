@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-09T17:27:17.851Z",
+  "updatedAt": "2026-09-09T17:50:34.942Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O iOS 27 será lançado em breve: seu dispositivo Apple será compatível com a atualização mais recente?",
+      "titleOriginal": "iOS 27 is coming soon: Will your Apple device qualify for latest update?",
+      "link": "https://thehill.com/business/6076518-ios-27-is-coming-soon-will-your-apple-device-qualify-for-latest-update/",
+      "publishedAt": "2026-09-09T17:30:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Diretor do Smithsonian deve renunciar após ameaças do governo Trump de cortar o apoio",
@@ -18,14 +25,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Como funcionaria o plano de votação por correspondência de Trump",
+      "title": "Como funcionaria o plano de Trump para o voto por correspondência",
       "titleOriginal": "How Trump’s Mail Voting Plan Would Work",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-mail-in-voting-ballots-usps.html",
       "publishedAt": "2026-09-09T17:05:07.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Baseado no mérito e sem distinção racial: a desculpa do Pentágono para a demissão de oficiais negros",
+      "title": "Baseado no mérito e sem distinção racial: a justificativa do Pentágono para a demissão de oficiais negros",
       "titleOriginal": "Merit-based and colorblind: The Pentagon's cover story for purging Black officers",
       "link": "https://thehill.com/opinion/6078078-trump-administration-dismantles-military-mobility/",
       "publishedAt": "2026-09-09T17:00:00.000Z"
@@ -46,31 +53,24 @@
     },
     {
       "source": "The Hill",
-      "title": "O “Trump-a-palooza” dá início no Texas",
+      "title": "O “Trump-a-palooza” começa no Texas",
       "titleOriginal": "'Trump-a-palooza' kicks off in Texas",
       "link": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/",
       "publishedAt": "2026-09-09T16:42:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Congresso precisa garantir a transparência dos preços dos serviços de saúde",
+      "title": "O Congresso precisa garantir a transparência nos preços dos serviços de saúde",
       "titleOriginal": "Congress must get healthcare price transparency right",
       "link": "https://thehill.com/opinion/healthcare/6077734-house-lower-costs-transparency/",
       "publishedAt": "2026-09-09T16:30:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Zelenskyy pede que se intensifique a pressão internacional sobre a Rússia devido às mortes de civis",
+      "title": "Zelenskyy pede mais pressão internacional sobre a Rússia devido às mortes de civis",
       "titleOriginal": "Zelenskyy urges more international pressure on Russia for civilian deaths",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVptWDlGOFQ4OUpVelNYVXVMNXZwOUYzaTVuUlhhcV9iR0pnMGdRZnJtdVkzSkxsMnlQUlJjYTJIYkk5cTJxWUpRbjU4eUJJV2NfTm5hZnRUSFJxdjkxazdIR2tSR2VkN1dMZW1SaWVUV1F0TFdaSWJDNXh4c3lweVE4TjA3WGM2aENCbGprLWM4T0NRY2R4OE9TWFNYeWVpdnFF?oc=5",
       "publishedAt": "2026-09-09T16:04:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Tesouro dos EUA planeja recomprar títulos de 10 a 20 anos no valor de US$ 6 bilhões",
-      "titleOriginal": "U.S. Treasury Plans $6 Billion 10- to 20-Year Bond Buyback",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmpCdnk5QmVtb21SSVo3Z2VRT3NfMTFmRm02OWVTUWk4bVVWUUdoaDVOY1RYaVU3ODdsekJ0OFIxQ2hLdGp6Qm9SWFAteXlicjMzWFZ3bTFqT241LUpkdktOLTdKbmY2UGR5X3JYWmdQMXY3Rm90YjkzV2VCdjJmSXJ4cGYxZEx1RUUyZmpQMVZLLXcyVGdUamxuOHN6SnItODNuXw?oc=5",
-      "publishedAt": "2026-09-09T16:02:00.000Z"
     }
   ]
 }
