@@ -1,27 +1,48 @@
 {
-  "updatedAt": "2026-09-09T20:50:24.605Z",
+  "updatedAt": "2026-09-09T21:26:19.899Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Onde as câmeras Flock e outros leitores de placas de veículos estão monitorando",
-      "titleOriginal": "Where Flock cameras and other license plate readers are watching",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDY4TDVvOXFGYlVfWS11bUdNRl9mT2lXZjZfLVpUZXZiN2ZScUtsQTJWblg4ekp6VmszRnV6QmUxSk8wR3o1V3NKSldjQkNDNHdocWRZbFVfQm9HekIxbXlLT2FXSDJrZUpKUW9KamFsRGxhUjc3NThSZV9TYVFXbw?oc=5",
-      "publishedAt": "2026-09-09T20:44:23.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Enquanto os republicanos se reúnem em Dallas, Talarico apresenta um espetáculo diferente",
-      "titleOriginal": "As Republicans Gather in Dallas, Talarico Offers a Different Show",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html",
-      "publishedAt": "2026-09-09T20:41:39.000Z"
+      "title": "A convenção de meio de mandato de Trump pode ter dificuldades para conquistar audiência diante do início da temporada da NFL",
+      "titleOriginal": "Trump’s Midterm Convention May Struggle for Ratings Against the NFL Kickoff",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-rnc-convention-nfl-ratings.html",
+      "publishedAt": "2026-09-09T21:20:12.000Z"
     },
     {
       "source": "AP News",
       "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
       "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-      "publishedAt": "2026-09-09T20:30:00.000Z"
+      "publishedAt": "2026-09-09T21:18:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Resultados em tempo real: McKee luta para manter o cargo de governador de Rhode Island",
+      "titleOriginal": "Live results: McKee fights to hold on to Rhode Island governor's mansion",
+      "link": "https://thehill.com/homenews/campaign/6041285-live-results-rhode-island-governor-primary/",
+      "publishedAt": "2026-09-09T21:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump responde bruscamente a repórter da ABC por causa de pergunta sobre republicanos que estão evitando a convenção do Partido Republicano",
+      "titleOriginal": "Trump snaps at ABC reporter over question on Republicans avoiding GOP convention",
+      "link": "https://thehill.com/homenews/administration/6080068-republicans-skip-midterm-gop-rally/",
+      "publishedAt": "2026-09-09T20:49:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Onde as câmeras Flock e outros leitores de placas estão monitorando",
+      "titleOriginal": "Where Flock cameras and other license plate readers are watching",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDY4TDVvOXFGYlVfWS11bUdNRl9mT2lXZjZfLVpUZXZiN2ZScUtsQTJWblg4ekp6VmszRnV6QmUxSk8wR3o1V3NKSldjQkNDNHdocWRZbFVfQm9HekIxbXlLT2FXSDJrZUpKUW9KamFsRGxhUjc3NThSZV9TYVFXbw?oc=5",
+      "publishedAt": "2026-09-09T20:44:48.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A confusão de Trump nas eleições de meio de mandato se choca com o prazo apertado do tribunal",
+      "titleOriginal": "Trump's midterm mess collides with a courtroom time crunch",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OYlFMSHlmNFB5cUYzalVMejg5LUtpY0ZDT0p0ckJOMVU4RmQtMzVrNk90SXg4dlA4S041TG82MW1CRmdabGlwQ2RzMHFQOXpraFlRaHR2aHBBUzV2TjUxVnBVLWY0bDZ0azZOaVNRS3M2QWYycUE?oc=5",
+      "publishedAt": "2026-09-09T20:31:05.000Z"
     },
     {
       "source": "The Hill",
@@ -29,20 +50,6 @@
       "titleOriginal": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
       "link": "https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial/",
       "publishedAt": "2026-09-09T20:22:38.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A confusão de Trump nas eleições de meio de mandato colide com a pressa nos tribunais",
-      "titleOriginal": "Trump's midterm mess collides with a courtroom time crunch",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OYlFMSHlmNFB5cUYzalVMejg5LUtpY0ZDT0p0ckJOMVU4RmQtMzVrNk90SXg4dlA4S041TG82MW1CRmdabGlwQ2RzMHFQOXpraFlRaHR2aHBBUzV2TjUxVnBVLWY0bDZ0azZOaVNRS3M2QWYycUE?oc=5",
-      "publishedAt": "2026-09-09T20:21:06.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A convenção de Trump oferece uma oportunidade incomum de arrecadação de fundos para os republicanos",
-      "titleOriginal": "Trump’s Convention Offers an Unusual Fund-Raising Opportunity for Republicans",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-fundraising.html",
-      "publishedAt": "2026-09-09T20:16:06.000Z"
     },
     {
       "source": "The Hill",
@@ -60,17 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Assista: O programa “Rising”, do The Hill, apresenta uma cobertura especial ao vivo da convenção da RNC para as eleições de meio de mandato, no horário nobre",
+      "title": "Assista: O programa “The Hill ‘Rising’” apresenta uma cobertura especial ao vivo, no horário nobre, da convenção da RNC para as eleições de meio de mandato",
       "titleOriginal": "Watch: The Hill 'Rising' presents live special primetime RNC midterm convention coverage",
       "link": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
       "publishedAt": "2026-09-09T20:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que consideraria conceder perdão a Michael Cohen",
-      "titleOriginal": "Trump says he'd consider pardoning Michael Cohen",
-      "link": "https://thehill.com/homenews/administration/6079896-cohen-hush-money-trial-recantation/",
-      "publishedAt": "2026-09-09T19:55:34.000Z"
     }
   ]
 }
