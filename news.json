@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-09T14:29:14.534Z",
+  "updatedAt": "2026-09-09T14:53:25.398Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "O Super PAC de Trump começa a gastar seu fundo de campanha, com um novo grupo arrecadando US$ 47 milhões",
+      "titleOriginal": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
+      "publishedAt": "2026-09-09T14:52:10.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Newsom acusa Trump de mentir durante sua narrativa sobre a resposta aos ataques de 11 de setembro",
+      "title": "Será que David Beasley é a figura mais interessante que está voltando à cena política?",
+      "titleOriginal": "Is David Beasley the most interesting second act in politics?",
+      "link": "https://thehill.com/opinion/civil-rights/6077237-nobel-peace-prize-wfp/",
+      "publishedAt": "2026-09-09T14:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Newsom acusa Trump de mentir ao contar uma história sobre sua reação aos ataques de 11 de setembro",
       "titleOriginal": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
       "link": "https://thehill.com/homenews/administration/6078397-gavin-newsom-donald-trump-911-comments/",
       "publishedAt": "2026-09-09T14:24:09.000Z"
@@ -39,38 +53,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump critica a revista New York Magazine por ter chamado suas declarações sobre o 11 de setembro de “mentira esquisita”",
+      "title": "Trump critica a revista *New York Magazine* por chamar suas declarações sobre o 11 de setembro de “mentira esquisita”",
       "titleOriginal": "Trump attacks New York Magazine for calling 9/11 remarks 'weird lie'",
       "link": "https://thehill.com/homenews/administration/6078299-donald-trump-new-york-magazine-9-11-remarks-criticism/",
       "publishedAt": "2026-09-09T12:44:50.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A capacidade de Trump de se conectar com os eleitores será posta à prova na Convenção Republicana para as eleições de meio de mandato",
+      "title": "A capacidade de Trump de se conectar com os eleitores será posta à prova na convenção republicana para as eleições de meio de mandato",
       "titleOriginal": "Trump’s Ability to Connect With Voters to Be Tested at Republican Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
       "publishedAt": "2026-09-09T12:39:27.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O prefeito de Denver, Johnston, dá início à campanha de reeleição",
-      "titleOriginal": "Denver Mayor Johnston kicks off re-election campaign",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWpLUC1lVHUxWGpoNVhGbFFlRzhKMjFNTXhmYzRua2prLUdSdEdTdEVBUnhiNWYzYlIzdUJRTFZ4VjdkR3lZc0p0RGFEQVowU0JtR2pPdWtNLWVwU2dpdkIzMjBHYzFpdGhvazk1MTkwLUtPUEdTVlFtdDRrRE50d09ySnZjMDVGSjN1bHZKX3RMak8yR0tV?oc=5",
-      "publishedAt": "2026-09-09T12:21:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Brent atinge US$ 100 à medida que a escalada entre EUA e Irã e os ataques dos houthis agravam os temores quanto ao abastecimento no Golfo",
-      "titleOriginal": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1U4eTNZZ0F0VlUwYkJ1clV6eWxWWnV3QzFiVjBwTzdNNkJhMGJZN3hjQ0hCY3cxbFlabEc2UTc2WUg1dFpSZV9zZ0VvNURCeGJER2lkbTd5UWE1VWNvaDN1NDdlclk5c1RXR3A0VnZzSHRZY21HdnVPWHlpck5zV29LVVlwQlVoSmdHMXF4V2Z3cTdnWllHb0F3R0pYX3Bnai0yLWN4MkZuMHV2aTIyT2VQV2JYeVA4bHRmMFFPMGdPRm8?oc=5",
-      "publishedAt": "2026-09-09T11:49:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump proíbe algumas importações do Canadá à medida que a guerra comercial na América do Norte se intensifica",
-      "titleOriginal": "Trump bans some Canadian imports as North America trade war intensifies",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
-      "publishedAt": "2026-09-09T11:42:52.000Z"
+      "source": "AP News",
+      "title": "Zelenskyy pede mais pressão internacional sobre a Rússia devido às mortes de civis",
+      "titleOriginal": "Zelenskyy urges more international pressure on Russia for civilian deaths",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVptWDlGOFQ4OUpVelNYVXVMNXZwOUYzaTVuUlhhcV9iR0pnMGdRZnJtdVkzSkxsMnlQUlJjYTJIYkk5cTJxWUpRbjU4eUJJV2NfTm5hZnRUSFJxdjkxazdIR2tSR2VkN1dMZW1SaWVUV1F0TFdaSWJDNXh4c3lweVE4TjA3WGM2aENCbGprLWM4T0NRY2R4OE9TWFNYeWVpdnFF?oc=5",
+      "publishedAt": "2026-09-09T12:35:00.000Z"
     }
   ]
 }
