@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-09T12:34:17.004Z",
+  "updatedAt": "2026-09-09T12:55:24.031Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump critica a revista New York Magazine por ter chamado suas declarações sobre o 11 de setembro de “mentira esquisita”",
+      "titleOriginal": "Trump attacks New York Magazine for calling 9/11 remarks 'weird lie'",
+      "link": "https://thehill.com/homenews/administration/6078299-donald-trump-new-york-magazine-9-11-remarks-criticism/",
+      "publishedAt": "2026-09-09T12:44:50.000Z"
+    },
     {
       "source": "Axios",
       "title": "O prefeito de Denver, Johnston, dá início à campanha de reeleição",
@@ -11,7 +18,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O Irã ataca navios e uma base norte-americana na Jordânia após o afundamento de petroleiros",
+      "title": "O Irã ataca embarcações e uma base dos EUA na Jordânia após o naufrágio de petroleiros",
       "titleOriginal": "Iran attacks vessels, US base in Jordan after tankers sunk",
       "link": "https://thehill.com/policy/international/6078254-us-iran-war-jordan-retaliation-oil-tankers-sunk/",
       "publishedAt": "2026-09-09T12:03:07.000Z"
@@ -39,7 +46,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "O Brent atinge US$ 100, à medida que a escalada entre EUA e Irã e os ataques dos houthis agravam os temores sobre o abastecimento no Golfo",
+      "title": "O Brent chega a US$ 100, à medida que a escalada entre os EUA e o Irã e os ataques dos houthis agravam os temores quanto ao abastecimento no Golfo",
       "titleOriginal": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1U4eTNZZ0F0VlUwYkJ1clV6eWxWWnV3QzFiVjBwTzdNNkJhMGJZN3hjQ0hCY3cxbFlabEc2UTc2WUg1dFpSZV9zZ0VvNURCeGJER2lkbTd5UWE1VWNvaDN1NDdlclk5c1RXR3A0VnZzSHRZY21HdnVPWHlpck5zV29LVVlwQlVoSmdHMXF4V2Z3cTdnWllHb0F3R0pYX3Bnai0yLWN4MkZuMHV2aTIyT2VQV2JYeVA4bHRmMFFPMGdPRm8?oc=5",
       "publishedAt": "2026-09-09T11:49:00.000Z"
@@ -53,7 +60,7 @@
     },
     {
       "source": "Axios",
-      "title": "Os preços do trigo estão disparando e os agricultores do Kansas não conseguem lucrar com isso",
+      "title": "Os preços do trigo estão disparando, e os agricultores do Kansas não conseguem lucrar com isso",
       "titleOriginal": "Wheat prices are soaring and Kansas farmers can't cash in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFJBdklZNGliYVA0b3p1dVBUekF6Szg4ZUEtWkxFeEZCak9fNlpWLUhDS1dsYTJKYW1kajZaWmJBVWdxbVk4cmVlM2hwdHlVbWFEdDdMX0o3YS1SdnczeEkxS1Y3emx4Z3lVTUIxLWpuRjF5U1BqSmxaRl9DUU1qNnNQdVJjSDRFR2tPb0FpQQ?oc=5",
       "publishedAt": "2026-09-09T11:33:02.000Z"
@@ -62,15 +69,8 @@
       "source": "Axios",
       "title": "41 mil moradores do Missouri acabaram de recuperar o direito ao voto. Muitos nem sabem disso.",
       "titleOriginal": "41,000 Missourians just got the right to vote back. Many don't know it.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXVuV1p3elJld3d5TTlZM2puN0lHRno4QnZoNWdkUWJtaDVpck1hdXZTMndqdE1ESUNjV0lWSUg5dXR3SEZXN0NGMXl3XzlIaUdITms1b0g0NURtM3lObDdYS2NrUERxSW9ycjJnRUFKZFhZdjNjT1FpeWQ4bDFnU2xDdktOcVlWd2hPbHl2dDVUN0NwWkU2dnE3VFFndw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTBhVTlZZzMwQ2VPNjl3Q2FUbFZxTmxXdXFGWnRwMGtyWVVnai04T2F1MzhUR012cjdFSHFhcXd0LWFEbDN4NHZhTFk4WUlwa082WFEwcjdyelNjd25keURnMk93TXU4WG9NUkhaR0tlUkNmUGk1LXZ3T3QyWmVNdEllVklQZnpVa0g3WmFNTW1QTjl0ZUVlbC1SSldHUTJDNzcta01WNHpHUEpIQUVz?oc=5",
       "publishedAt": "2026-09-09T11:33:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Mistral AI ultrapassa a avaliação de US$ 24 bilhões após rodada de investimentos liderada pela Samsung",
-      "titleOriginal": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDloWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw?oc=5",
-      "publishedAt": "2026-09-09T11:29:29.000Z"
     }
   ]
 }
