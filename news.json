@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-09-09T04:28:29.425Z",
+  "updatedAt": "2026-09-09T04:52:35.921Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "As reservas cambiais da China continuam a subir",
-      "titleOriginal": "China’s Foreign Exchange Reserves Continue to Climb",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
-      "publishedAt": "2026-09-09T04:23:28.000Z"
+      "source": "Politico",
+      "title": "Stefany Shaheen, filha da senadora Jeanne Shaheen, vence as primárias para a Câmara dos Deputados de New Hampshire",
+      "titleOriginal": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
+      "link": "https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480",
+      "publishedAt": "2026-09-09T04:48:32.000Z"
     },
     {
       "source": "AP News",
-      "title": "Decisões judiciais contraditórias aumentam a confusão nas eleições para o Congresso do Missouri",
+      "title": "Decisões judiciais contraditórias aumentam a confusão nas eleições para o Congresso no Missouri",
       "titleOriginal": "Competing court orders add confusion to Missouri congressional elections",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
       "publishedAt": "2026-09-09T03:54:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O verão de sabotagem de Trump",
+      "titleOriginal": "Trump's summer of sabotage",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2o0cVBEV3Q2eXpzMWRGRk9sQTE5WXljREduUHU5OWdyLWtuT29wS1BNV2l1OGtHaUc0WDY0T0NHZF9relBXSkhlTV9HZTFMUENpaEFlSFFsUWpuRHVDY0kxc3VJbTZEdWJQNEgyRFk1SEp1WXZ0ZHlSTXZ5S3RnYTA2eVNGWnhIR3dNTVBhRTZGandsT2FjU3RCenE?oc=5",
+      "publishedAt": "2026-09-09T03:48:34.000Z"
     },
     {
       "source": "AP News",
@@ -25,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo procurador-geral da Carolina do Norte com os produtores",
+      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo Procurador-Geral da Carolina do Norte com os produtores",
       "titleOriginal": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
       "link": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
       "publishedAt": "2026-09-09T03:17:39.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
       "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
       "publishedAt": "2026-09-09T02:33:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O mais recente alvo das mudanças de Trump? Os uniformes da Força Espacial.",
-      "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
-      "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
-      "publishedAt": "2026-09-09T02:29:11.000Z"
     }
   ]
 }
