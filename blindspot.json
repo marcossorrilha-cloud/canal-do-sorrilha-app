@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-08T21:35:15.559Z",
-  "slot": "2026-09-08-PM",
+  "updatedAt": "2026-09-09T03:28:30.256Z",
+  "slot": "2026-09-09-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Indivíduo armado atacou o candidato democrata ao governo de Ohio",
-      "titleOriginal": "Armed individual lunged at Democratic nominee for Ohio governor",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFh2d2k4NERMMlIwdmtBXzhMRXRVY3pGcG0yNld3TUNLUXk2T1dTT21QYzJyblJOMkNGWWJvekhuZ2hmbGN6clQ4Z0U4OE9FU0p4N2pMTmVCTDByeFlFdXhtRk1IeTRyRTJWeGpER2E1MVhtbWxzZlVYMXprOFVnV1J0NXJhVmdVRDhKMGhpUXVxNkVnSjBnc1Rybnl3cnJKSVZaUm94QjVWLUNJQl9DWGRsak1lSzhNM0U2Zw?oc=5",
+      "title": "Homem armado é indiciado após confrontar candidato a governador de Ohio em feira municipal",
+      "titleOriginal": "Armed man charged after confronting Ohio governor candidate at county fair",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTVxXzQ5b2syVkd2MGFHbjJnVHJQeldsNWNyeG01bjZNcVVFS2huVnpRYWlUMlBmdGJLUTJCYk83OF9mRVRTTjU4emNrUXVleksyOUxYcXlQVU5XM3Q4ekhqMll4cTU5QkVVVVZYRWluUEpqVUVEWlYtTDhNTU9VcDdCYm0zNi1FMHg1LWNnaGN0UWtGSWg2RmdseklHNmJQamZvb3JjeU9Uam1WUmxFMGtmdU8yMHE3RWxVTWRpV0w?oc=5",
       "source": "Washington Post",
-      "coverage": 4
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Eleições surpreendentes na Alemanha podem resultar em coalizão populista de esquerda e direita: Berlim promete usar “instrumentos” do Estado para se “defender” contra o resultado",
-      "titleOriginal": "Bombshell Germany Election Could Mean Left-Right Populist Coalition: Berlin Vows to Use State ‘Instruments’ to ‘Defend’ Against Result",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjBsSGJ6bXZtVm5YREQyNU1PWWU1MVU4TmYtZWRQbmlRSGVQRW9VTTQ2VHQxbDg1U3pFR0FwLW96cERNWnZqTjVxRjJUZlZqU241Ums4ZGgzRG0tZWkyRVRkeUFWdEJvcFZ2ZE9JZ1dHS3pDSXdTYlBROHFRTFN4eWtJZmg2QXhXaUF2Z0otajR2SUNkQ3VrRUR3Sl9oNjNLdFVqUHNSVkQyNzNnVTJXUnZ3aDd5ZnVt0gG-AUFVX3lxTE96UGJ1dEU4eXdEQXRkN0psb2d5R2VKQTNhajRwZnZtZm92NU5idDc5ZDdqSXJhbHUzRWVoYUhBUzV4cGZNTldtV3doQ3daRU1iVEEwdi0wampqM0VPU01IczBSRk92NTY3b2w4cTBWLWJ4b0ZCUmNvT1Z6Rkt4TmVZRHE1RWRDU1U4YTA1OWdaandEQTFaVkg4MWhLdmMxX3FOT0hCSlhXcEV5dzNHR0E1aTZKOGJFRnAwVUNTb1E?oc=5",
-      "source": "Breitbart",
-      "coverage": 4
+      "title": "A OpenAI contrata a filha de Chuck Schumer como responsável principal pelas relações com o governo durante as negociações regulatórias",
+      "titleOriginal": "OpenAI hires Chuck Schumer’s daughter as lead government outreach during regulatory talks",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHlDY0xNcFhPMGhFd3RZMjZGRC1vZ0pfWDlHaTZSTklnXzBEdnl5eEg2cS1fN2tXQzRnQ0NUNklVd0t5b0FBTTJQY2w3SkdFeklnOVhnVXoweXlNVnRHLUdzdzRyNi1ySWJBUlkyR1M1Y3FPejNHZVd5bWQzOUdUazh2alFzWnN5S2I4and5R2lxQlFVV0RialFmZWFSLWk4ZFZqSVUtWldrSFRtOHRZTVYtZ1o?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 3
     }
   ]
 }
