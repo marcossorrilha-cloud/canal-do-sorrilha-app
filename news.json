@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-09T20:28:15.583Z",
+  "updatedAt": "2026-09-09T20:50:24.605Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Onde as câmeras Flock e outros leitores de placas de veículos estão monitorando",
+      "titleOriginal": "Where Flock cameras and other license plate readers are watching",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDY4TDVvOXFGYlVfWS11bUdNRl9mT2lXZjZfLVpUZXZiN2ZScUtsQTJWblg4ekp6VmszRnV6QmUxSk8wR3o1V3NKSldjQkNDNHdocWRZbFVfQm9HekIxbXlLT2FXSDJrZUpKUW9KamFsRGxhUjc3NThSZV9TYVFXbw?oc=5",
+      "publishedAt": "2026-09-09T20:44:23.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto os republicanos se reúnem em Dallas, Talarico apresenta um espetáculo diferente",
+      "titleOriginal": "As Republicans Gather in Dallas, Talarico Offers a Different Show",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html",
+      "publishedAt": "2026-09-09T20:41:39.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "As ações caem em Wall Street, com os preços do petróleo voltando a ultrapassar os US$ 100 por barril após a escalada do conflito no Irã",
-      "titleOriginal": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-      "publishedAt": "2026-09-09T20:18:00.000Z"
+      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
+      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "publishedAt": "2026-09-09T20:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lewandowski rebate reportagem do Wall Street Journal considerada “motivada por interesses políticos”",
+      "titleOriginal": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
+      "link": "https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial/",
+      "publishedAt": "2026-09-09T20:22:38.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A confusão de Trump nas eleições de meio de mandato colide com a pressa nos tribunais",
+      "titleOriginal": "Trump's midterm mess collides with a courtroom time crunch",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OYlFMSHlmNFB5cUYzalVMejg5LUtpY0ZDT0p0ckJOMVU4RmQtMzVrNk90SXg4dlA4S041TG82MW1CRmdabGlwQ2RzMHFQOXpraFlRaHR2aHBBUzV2TjUxVnBVLWY0bDZ0azZOaVNRS3M2QWYycUE?oc=5",
+      "publishedAt": "2026-09-09T20:21:06.000Z"
     },
     {
       "source": "New York Times",
@@ -25,14 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "60 publicações em 10 horas: como as redes sociais de Trump refletem sua versão da realidade",
+      "title": "60 postagens em 10 horas: como as redes sociais de Trump refletem sua versão da realidade",
       "titleOriginal": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
       "publishedAt": "2026-09-09T20:05:49.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Assista: O programa “The Hill ‘Rising’” apresenta uma cobertura especial ao vivo, no horário nobre, da convenção da RNC para as eleições de meio de mandato",
+      "title": "Assista: O programa “Rising”, do The Hill, apresenta uma cobertura especial ao vivo da convenção da RNC para as eleições de meio de mandato, no horário nobre",
       "titleOriginal": "Watch: The Hill 'Rising' presents live special primetime RNC midterm convention coverage",
       "link": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
       "publishedAt": "2026-09-09T20:00:00.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Trump says he'd consider pardoning Michael Cohen",
       "link": "https://thehill.com/homenews/administration/6079896-cohen-hush-money-trial-recantation/",
       "publishedAt": "2026-09-09T19:55:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Criptomoeda do “laptop” de Hunter Biden despenca logo após o lançamento",
-      "titleOriginal": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
-      "publishedAt": "2026-09-09T19:53:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Air Force One, doado pelo Catar, aciona um escorregador inflável antes de partir para a convenção do Partido Republicano no Texas",
-      "titleOriginal": "Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas",
-      "link": "https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide/",
-      "publishedAt": "2026-09-09T19:41:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
-      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-      "publishedAt": "2026-09-09T19:38:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal de apelação analisa pedido para restringir o acesso ao aborto medicamentoso",
-      "titleOriginal": "Appeals court hears bid to curtail access to medication abortion",
-      "link": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
-      "publishedAt": "2026-09-09T19:36:49.000Z"
     }
   ]
 }
