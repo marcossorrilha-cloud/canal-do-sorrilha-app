@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-09-09T21:26:19.899Z",
+  "updatedAt": "2026-09-09T21:50:19.401Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "O Tesouro aumenta o limite para a recompra de títulos da dívida para US$ 6 bilhões",
+      "titleOriginal": "Treasury boosts debt buyback cap to $6 billion",
+      "link": "https://thehill.com/newsletters/business-economy/6080260-treasury-boosts-debt-buyback-cap-to-6-billion/",
+      "publishedAt": "2026-09-09T21:41:10.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "A convenção de meio de mandato de Trump pode ter dificuldades para conquistar audiência diante do início da temporada da NFL",
-      "titleOriginal": "Trump’s Midterm Convention May Struggle for Ratings Against the NFL Kickoff",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-rnc-convention-nfl-ratings.html",
-      "publishedAt": "2026-09-09T21:20:12.000Z"
+      "title": "Trump fica atrasado após a ativação de uma rampa de emergência no novo Air Force One",
+      "titleOriginal": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html",
+      "publishedAt": "2026-09-09T21:40:34.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "James Talarico responde à convenção de meio de mandato de Trump com uma campanha de arrecadação de alimentos",
+      "titleOriginal": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html",
+      "publishedAt": "2026-09-09T21:32:29.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Criptomoeda do “laptop” de Hunter Biden despenca logo após o lançamento",
+      "titleOriginal": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
+      "publishedAt": "2026-09-09T21:31:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nomeados por Trump para cargos na área da saúde devem avançar com o retorno do Senado",
+      "titleOriginal": "Trump’s health nominees set to move forward with Senate return",
+      "link": "https://thehill.com/newsletters/healthcare/6080173-trumps-health-nominees-set-to-move-forward-with-senate-return/",
+      "publishedAt": "2026-09-09T21:29:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pritzker: Vance é o “principal bajulador” de Trump",
+      "titleOriginal": "Pritzker: Vance is Trump's 'chief bootlicker'",
+      "link": "https://thehill.com/homenews/campaign/6080162-pritzker-calls-vance-bootlicker/",
+      "publishedAt": "2026-09-09T21:29:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Irã reacende o conflito no Estreito de Ormuz enquanto os EUA intensificam a pressão",
+      "titleOriginal": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
+      "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
+      "publishedAt": "2026-09-09T21:25:33.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Sanders convoca senadores para reunião informativa sobre IA em meio a crescente preocupação",
+      "titleOriginal": "Scoop: Sanders convenes senators for AI briefing amid mounting alarm",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMnVLQXoyd3hMYTNMQ05KUjhwQVNGZzNCOXN2eUVuZmZia0xrWEk0Ul9ydlRxRGllYkU1OTlrOUVtQk1SampBT2J4aHhwYlZORk9aanVkb2JXZy01c0JRZVMxWkU2Nm1vR3c1YWVB?oc=5",
+      "publishedAt": "2026-09-09T21:22:30.000Z"
     },
     {
       "source": "AP News",
@@ -17,60 +66,11 @@
       "publishedAt": "2026-09-09T21:18:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Resultados em tempo real: McKee luta para manter o cargo de governador de Rhode Island",
-      "titleOriginal": "Live results: McKee fights to hold on to Rhode Island governor's mansion",
-      "link": "https://thehill.com/homenews/campaign/6041285-live-results-rhode-island-governor-primary/",
-      "publishedAt": "2026-09-09T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump responde bruscamente a repórter da ABC por causa de pergunta sobre republicanos que estão evitando a convenção do Partido Republicano",
-      "titleOriginal": "Trump snaps at ABC reporter over question on Republicans avoiding GOP convention",
-      "link": "https://thehill.com/homenews/administration/6080068-republicans-skip-midterm-gop-rally/",
-      "publishedAt": "2026-09-09T20:49:00.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Onde as câmeras Flock e outros leitores de placas estão monitorando",
-      "titleOriginal": "Where Flock cameras and other license plate readers are watching",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDY4TDVvOXFGYlVfWS11bUdNRl9mT2lXZjZfLVpUZXZiN2ZScUtsQTJWblg4ekp6VmszRnV6QmUxSk8wR3o1V3NKSldjQkNDNHdocWRZbFVfQm9HekIxbXlLT2FXSDJrZUpKUW9KamFsRGxhUjc3NThSZV9TYVFXbw?oc=5",
-      "publishedAt": "2026-09-09T20:44:48.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A confusão de Trump nas eleições de meio de mandato se choca com o prazo apertado do tribunal",
-      "titleOriginal": "Trump's midterm mess collides with a courtroom time crunch",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OYlFMSHlmNFB5cUYzalVMejg5LUtpY0ZDT0p0ckJOMVU4RmQtMzVrNk90SXg4dlA4S041TG82MW1CRmdabGlwQ2RzMHFQOXpraFlRaHR2aHBBUzV2TjUxVnBVLWY0bDZ0azZOaVNRS3M2QWYycUE?oc=5",
-      "publishedAt": "2026-09-09T20:31:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lewandowski rebate reportagem do Wall Street Journal considerada “motivada por interesses políticos”",
-      "titleOriginal": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
-      "link": "https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial/",
-      "publishedAt": "2026-09-09T20:22:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Kash Patel prestará depoimento perante o Congresso na próxima semana",
-      "titleOriginal": "Kash Patel to testify before Congress next week",
-      "link": "https://thehill.com/homenews/senate/6079918-kash-patel-senate-testimony/",
-      "publishedAt": "2026-09-09T20:09:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "60 postagens em 10 horas: como as redes sociais de Trump refletem sua versão da realidade",
-      "titleOriginal": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
-      "publishedAt": "2026-09-09T20:05:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista: O programa “The Hill ‘Rising’” apresenta uma cobertura especial ao vivo, no horário nobre, da convenção da RNC para as eleições de meio de mandato",
-      "titleOriginal": "Watch: The Hill 'Rising' presents live special primetime RNC midterm convention coverage",
-      "link": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
-      "publishedAt": "2026-09-09T20:00:00.000Z"
+      "title": "Trump apela para “Tornar a Alemanha Grande Novamente”. Na Alemanha, a nostalgia carrega um passado sombrio.",
+      "titleOriginal": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Zko3dmFlMzdhOW9RXzZ1RzFpU0FmUzJHMGpwOXNCdHBMWlcxd1dTQ1NvWjlsbDhCMGlYc08xT2tqMHVSaElHajNKNXRIX2ZjcEhVWGwyWTNyZkVCcno2RWRTc1FYZlI4UnN3UE5OUzY?oc=5",
+      "publishedAt": "2026-09-09T21:11:05.000Z"
     }
   ]
 }
