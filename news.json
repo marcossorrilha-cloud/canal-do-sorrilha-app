@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-09-09T15:29:02.522Z",
+  "updatedAt": "2026-09-09T15:52:30.001Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Kudlow para Cruz: “Talvez você devesse pensar” em anunciar sua candidatura à presidência em novembro",
-      "titleOriginal": "Kudlow to Cruz: 'You might wanna think' about announcing presidential bid in November",
+      "title": "Ford: Críticas de Duffy sobre acordos com a China são “uma tentativa equivocada de ganhar destaque na mídia”",
+      "titleOriginal": "Ford: Duffy criticism over deals with China 'wrongheaded attempt to capture headlines'",
+      "link": "https://thehill.com/business/6079042-ford-refutes-duffy-china-claims/",
+      "publishedAt": "2026-09-09T15:39:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Navarro: A Casa Branca disse à Fox News que a demissão de Bartiromo foi “totalmente inaceitável”",
+      "titleOriginal": "Navarro: White House told Fox News Bartiromo ouster was 'totally unacceptable'",
+      "link": "https://thehill.com/homenews/media/6079001-navarro-fox-news-bartiromo-ouster/",
+      "publishedAt": "2026-09-09T15:36:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Kudlow para Cruz: “Talvez seja melhor você pensar bem” antes de anunciar sua candidatura à presidência em novembro",
+      "titleOriginal": "Kudlow to Cruz: 'You might want to think' about announcing presidential bid in November",
       "link": "https://thehill.com/homenews/campaign/6078802-ted-cruz-2028-presidential-run/",
       "publishedAt": "2026-09-09T15:27:07.000Z"
     },
@@ -18,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O governo Trump nomeia diretores permanentes para as divisões da FDA",
+      "title": "O governo Trump nomeia chefes permanentes das divisões da FDA",
       "titleOriginal": "Trump administration names permanent FDA division leaders",
       "link": "https://thehill.com/policy/healthcare/6079000-trump-fills-key-fda-leadership/",
       "publishedAt": "2026-09-09T15:11:27.000Z"
@@ -46,31 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "Com a aproximação das eleições de meio de mandato, nova pesquisa revela que poucos americanos confiam nas campanhas eleitorais ou em Trump",
+      "title": "Com a aproximação das eleições intermediárias, nova pesquisa revela que poucos americanos confiam nas campanhas eleitorais ou em Trump",
       "titleOriginal": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
       "publishedAt": "2026-09-09T14:25:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Newsom acusa Trump de mentir durante a anedota sobre sua reação aos ataques de 11 de setembro",
+      "title": "Newsom acusa Trump de mentir ao contar uma história sobre sua reação aos ataques de 11 de setembro",
       "titleOriginal": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
       "link": "https://thehill.com/homenews/administration/6078397-gavin-newsom-donald-trump-911-comments/",
       "publishedAt": "2026-09-09T14:24:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ações caem em Wall Street à medida que os preços do petróleo ultrapassam os US$ 100 por barril, após a escalada do conflito entre os EUA e o Irã",
-      "titleOriginal": "Stocks fall on Wall Street as oil prices jump above $100 a barrel after US and Iran war escalates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-      "publishedAt": "2026-09-09T14:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O'Reilly: Os republicanos “ainda estão seguindo o modelo antigo”",
-      "titleOriginal": "O'Reilly: Republicans 'still running in the old model'",
-      "link": "https://thehill.com/homenews/campaign/6078474-bill-oreilly-republicans-democrats-messaging-2026-midterms/",
-      "publishedAt": "2026-09-09T13:54:58.000Z"
     }
   ]
 }
