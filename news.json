@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-09-09T21:50:19.401Z",
+  "updatedAt": "2026-09-09T22:26:50.447Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "O Tesouro aumenta o limite para a recompra de títulos da dívida para US$ 6 bilhões",
+      "title": "Legisladores alertam para os perigos da IA após advertência de pesquisadores da Anthropic",
+      "titleOriginal": "Lawmakers sound alarm on AI dangers after Anthropic researchers' warning",
+      "link": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+      "publishedAt": "2026-09-09T22:14:11.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump, em tom hostil, reabre velhas feridas nas relações entre os EUA e o Canadá",
+      "titleOriginal": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html",
+      "publishedAt": "2026-09-09T21:54:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A caótica disputa pela redistribuição distrital no Missouri: como está a situação",
+      "titleOriginal": "Missouri’s chaotic redistricting battle: Where it stands",
+      "link": "https://thehill.com/regulation/court-battles/6080105-missouri-redistricting-congressional-map-legal-fight/",
+      "publishedAt": "2026-09-09T21:53:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Tesouro aumenta o teto para a recompra de dívida para US$ 6 bilhões",
       "titleOriginal": "Treasury boosts debt buyback cap to $6 billion",
       "link": "https://thehill.com/newsletters/business-economy/6080260-treasury-boosts-debt-buyback-cap-to-6-billion/",
       "publishedAt": "2026-09-09T21:41:10.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
       "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
       "publishedAt": "2026-09-09T21:25:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Sanders convoca senadores para reunião informativa sobre IA em meio a crescente preocupação",
-      "titleOriginal": "Scoop: Sanders convenes senators for AI briefing amid mounting alarm",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMnVLQXoyd3hMYTNMQ05KUjhwQVNGZzNCOXN2eUVuZmZia0xrWEk0Ul9ydlRxRGllYkU1OTlrOUVtQk1SampBT2J4aHhwYlZORk9aanVkb2JXZy01c0JRZVMxWkU2Nm1vR3c1YWVB?oc=5",
-      "publishedAt": "2026-09-09T21:22:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
-      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-      "publishedAt": "2026-09-09T21:18:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump apela para “Tornar a Alemanha Grande Novamente”. Na Alemanha, a nostalgia carrega um passado sombrio.",
-      "titleOriginal": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Zko3dmFlMzdhOW9RXzZ1RzFpU0FmUzJHMGpwOXNCdHBMWlcxd1dTQ1NvWjlsbDhCMGlYc08xT2tqMHVSaElHajNKNXRIX2ZjcEhVWGwyWTNyZkVCcno2RWRTc1FYZlI4UnN3UE5OUzY?oc=5",
-      "publishedAt": "2026-09-09T21:11:05.000Z"
     }
   ]
 }
