@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:28:23.144Z",
+  "updatedAt": "2026-09-09T03:52:39.257Z",
   "count": 10,
   "items": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo procurador-geral da Carolina do Norte com os produtores",
+      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo Procurador-Geral da Carolina do Norte com os produtores",
       "titleOriginal": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
       "link": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
       "publishedAt": "2026-09-09T03:17:39.000Z"
@@ -24,6 +24,20 @@
       "publishedAt": "2026-09-09T03:07:02.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Trump assina decretos para proibir a entrada de alguns produtos canadenses no mercado dos EUA",
+      "titleOriginal": "Trump Signs Orders to Ban Some Canadian Products From U.S. Market",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT29PLU05aU1vbGF3dFMwU2lkZVJTODFzM1hiSWV0RXh3X0l2M0lsUUFDZzE4WjlZbVBqSGNnSmZaQnV1MVAzOVlRQUJrbnd0QTRqNTQtQkpfYTRiajZnbnFENTdyOTdnekFjOHpYVm03aG9KZnRMV2VPVWZWYlYxQWEwaWQ4Zm9IdnVGWFZOR3pFNkdzYlhtbk1nZ2NNenlmZmxkWHNHNjhMOTJR?oc=5",
+      "publishedAt": "2026-09-09T02:51:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump proíbe algumas importações do Canadá à medida que a guerra comercial na América do Norte se intensifica",
+      "titleOriginal": "Trump bans some Canadian imports as North America trade war intensifies",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
+      "publishedAt": "2026-09-09T02:42:45.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Carney afirma que a retaliação contra as tarifas dos EUA era inevitável",
       "titleOriginal": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
@@ -32,31 +46,17 @@
     },
     {
       "source": "New York Times",
-      "title": "O mais novo alvo das mudanças de Trump? Os uniformes da Força Espacial.",
+      "title": "O mais recente alvo das mudanças de Trump? Os uniformes da Força Espacial.",
       "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
       "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
       "publishedAt": "2026-09-09T02:29:11.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump proíbe a importação de laticínios, motocicletas e muitas bebidas alcoólicas do Canadá",
+      "title": "Trump proíbe a importação de laticínios, motocicletas e diversas bebidas alcoólicas do Canadá",
       "titleOriginal": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages",
       "link": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
       "publishedAt": "2026-09-09T02:25:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As Forças Armadas dos EUA afirmam ter destruído mais 5 petroleiros iranianos após ataques com mísseis contra um navio de guerra da Marinha",
-      "titleOriginal": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-      "publishedAt": "2026-09-09T02:16:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O círculo íntimo de Elon Musk está investindo pesadamente para tornar os psicodélicos parte da cultura popular",
-      "titleOriginal": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2lmWXZTQkIxbTdmQXRTTEJXNUcyRVhrcGd3TkxnWXRlbFZ2VXE2b1VNV3RTQVRGS003UkE1WXZVdnJiWVBIdlFIOXBOcUNZaGt3eDU0STFBLWphQkFWWHZrdXB0UnZNemRJZ1FNYTZQRlZNU25uQnJRczhXY0ZMeWM3LUIzeXh1aXNQdHp1Tm0xOHVsTXdEVHZiRG0yM181SkN4MGJNdFhvR3NlVUZoczhRTVg1cG03dlNjTU1iSQ?oc=5",
-      "publishedAt": "2026-09-09T02:07:36.000Z"
     },
     {
       "source": "Wall Street Journal",
