@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-09T22:49:46.270Z",
+  "updatedAt": "2026-09-09T23:25:22.939Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Líderes republicanos da Câmara dos Deputados aproveitam discursos na convenção para atacar os “comunistas malucos”",
+      "titleOriginal": "House GOP leaders use convention speeches to take aim at 'crazy communists'",
+      "link": "https://thehill.com/homenews/campaign/6080427-scalise-emmer-anti-communist-rnc-convention/",
+      "publishedAt": "2026-09-09T23:13:26.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: O PAC da J Street está gastando US$ 3 milhões para derrotar os republicanos apoiados pela AIPAC",
+      "titleOriginal": "Scoop: J Street PAC spending $3M to defeat AIPAC-backed Republicans",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2VCYkhUOVg5bTI5cG52YjFWZzNvbWlnSk0zTmEzVE9MYzdKRTdQR0NYeHZPSFdDbDRXbVkwd2VrSzIwMGE0TnF5NktJMk9Wa3ZjY2VjZ3pCZEV6ZFRnRGlubHN5a2tVQjlGQUdmeTJWQ1Vib25PakFSWjFUaDR6dm1rWVFTVFJkM1NtOQ?oc=5",
+      "publishedAt": "2026-09-09T23:04:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Departamento de Energia eleva a previsão para o preço do diesel em 2027 em 33 centavos em meio à guerra com o Irã",
+      "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
+      "publishedAt": "2026-09-09T23:00:05.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
@@ -25,24 +46,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Deputado republicano afirma que Paxton precisa debater com Talarico para vencer no Texas",
+      "title": "Deputado do Partido Republicano afirma que Paxton precisa debater com Talarico para vencer no Texas",
       "titleOriginal": "GOP lawmaker says Paxton must debate Talarico to win Texas",
       "link": "https://thehill.com/homenews/campaign/6080357-pete-sessions-ken-paxton-debate-james-talarico/",
       "publishedAt": "2026-09-09T22:35:58.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: Fetterman elogiará Trump em vídeo bombástico da convenção do Partido Republicano",
-      "titleOriginal": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
-      "publishedAt": "2026-09-09T22:19:23.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Legisladores alertam para os perigos da IA após advertência de pesquisadores da Anthropic",
+      "title": "Legisladores alertam para os riscos da IA após advertência de pesquisadores da Anthropic",
       "titleOriginal": "Lawmakers sound alarm on AI dangers after Anthropic researchers' warning",
       "link": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
       "publishedAt": "2026-09-09T22:14:11.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump admite que a guerra com o Irã não terminará antes das eleições de meio de mandato",
+      "titleOriginal": "Trump admits Iran war will not end before midterms",
+      "link": "https://thehill.com/newsletters/defense-national-security/6080270-trump-admits-iran-war-will-not-end-before-midterms/",
+      "publishedAt": "2026-09-09T22:01:08.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html",
       "publishedAt": "2026-09-09T21:54:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A caótica disputa pela redistribuição distrital no Missouri: como está a situação",
-      "titleOriginal": "Missouri’s chaotic redistricting battle: Where it stands",
-      "link": "https://thehill.com/regulation/court-battles/6080105-missouri-redistricting-congressional-map-legal-fight/",
-      "publishedAt": "2026-09-09T21:53:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Tesouro aumenta o limite para a recompra de dívida para US$ 6 bilhões",
-      "titleOriginal": "Treasury boosts debt buyback cap to $6 billion",
-      "link": "https://thehill.com/newsletters/business-economy/6080260-treasury-boosts-debt-buyback-cap-to-6-billion/",
-      "publishedAt": "2026-09-09T21:41:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump fica retido após a ativação de uma rampa de emergência no novo Air Force One",
-      "titleOriginal": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html",
-      "publishedAt": "2026-09-09T21:40:34.000Z"
     }
   ]
 }
