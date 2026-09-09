@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-09-09T19:26:01.618Z",
+  "updatedAt": "2026-09-09T19:49:15.667Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "A convenção de Trump oferece uma “experiência para investidores” e ingressos caros",
+      "titleOriginal": "Trump’s Convention Offers an ‘Investor Experience’ and Pricey Tickets",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-fundraising.html",
+      "publishedAt": "2026-09-09T19:46:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Air Force One, presente do Catar, aciona escorregador inflável antes de partir para a convenção do Partido Republicano no Texas",
+      "titleOriginal": "Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas",
+      "link": "https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide/",
+      "publishedAt": "2026-09-09T19:41:52.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Departamento de Energia eleva em 33 centavos a previsão do preço do diesel para 2027 em meio à guerra com o Irã",
+      "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
+      "publishedAt": "2026-09-09T19:38:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
+      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "publishedAt": "2026-09-09T19:38:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelação analisa pedido para restringir o acesso ao aborto medicamentoso",
+      "titleOriginal": "Appeals court hears bid to curtail access to medication abortion",
+      "link": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
+      "publishedAt": "2026-09-09T19:36:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Ataques do Irã a base na Jordânia causaram danos limitados, afirmam autoridades americanas",
+      "titleOriginal": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+      "publishedAt": "2026-09-09T19:34:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Operação “Midway Blitz” do ICE custou US$ 1,2 bilhão às empresas de Chicago: estudo",
+      "titleOriginal": "ICE's 'Midway Blitz' operation cost Chicago businesses $1.2 billion: Study",
+      "link": "https://thehill.com/homenews/state-watch/6079755-ice-operation-chicago-business-cost/",
+      "publishedAt": "2026-09-09T19:33:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump prevê que a guerra com o Irã terminará “imediatamente após a eleição”",
+      "titleOriginal": "Trump predicts Iran war will end 'immediately after the election'",
+      "link": "https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms/",
+      "publishedAt": "2026-09-09T19:27:52.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Moeda meme ligada ao laptop de Hunter Biden dispara, mas depois despenca após estreia no mercado",
@@ -15,62 +71,6 @@
       "titleOriginal": "How Republicans and Democrats see their advantages in the midterms.",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/how-republicans-and-democrats-see-their-advantages-in-the-midterms",
       "publishedAt": "2026-09-09T19:17:51.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
-      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-      "publishedAt": "2026-09-09T19:08:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "60 publicações em 10 horas: como as redes sociais de Trump refletem sua versão da realidade",
-      "titleOriginal": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
-      "publishedAt": "2026-09-09T19:01:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O caos na redistribuição distrital do Missouri deixa o mapa eleitoral de novembro em dúvida: debate ao vivo",
-      "titleOriginal": "Missouri redistricting chaos leaves November map in doubt: Live discussion",
-      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6079594-missouri-redistricting-case-chaos-midterms-live-discussion/",
-      "publishedAt": "2026-09-09T18:16:17.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Com a aproximação das eleições de meio de mandato, nova pesquisa revela que poucos americanos confiam nas campanhas eleitorais ou em Trump",
-      "titleOriginal": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
-      "publishedAt": "2026-09-09T18:16:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump defende que a Alemanha volte a ser grande. Na Alemanha, a nostalgia traz consigo um passado sombrio.",
-      "titleOriginal": "Trump calls to Make Germany Great Again. In Germany, nostalgia carries a dark past.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Zko3dmFlMzdhOW9RXzZ1RzFpU0FmUzJHMGpwOXNCdHBMWlcxd1dTQ1NvWjlsbDhCMGlYc08xT2tqMHVSaElHajNKNXRIX2ZjcEhVWGwyWTNyZkVCcno2RWRTc1FYZlI4UnN3UE5OUzY?oc=5",
-      "publishedAt": "2026-09-09T18:07:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Casa Branca cancela jogo sobre o muro na fronteira após reações negativas ao Tetris",
-      "titleOriginal": "White House axes border wall game after Tetris pushback",
-      "link": "https://thehill.com/homenews/administration/6079556-white-house-removes-build-wall/",
-      "publishedAt": "2026-09-09T18:06:12.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que a “convenção” republicana de Trump para as eleições intermediárias não é uma convenção de verdade",
-      "titleOriginal": "Why Trump’s Republican Midterm ‘Convention’ Isn’t a Real Convention",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-gop-party.html",
-      "publishedAt": "2026-09-09T18:05:53.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Aqui estão cinco disputas eleitorais a serem acompanhadas neste outono para obter respostas às principais questões das eleições de meio de mandato.",
-      "titleOriginal": "Here are 5 races to watch this fall for answers to the biggest midterm questions.",
-      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/here-are-5-races-to-watch-this-fall-for-answers-to-the-biggest-midterm-questions",
-      "publishedAt": "2026-09-09T18:01:47.000Z"
     }
   ]
 }
