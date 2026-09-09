@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-09T15:52:30.001Z",
+  "updatedAt": "2026-09-09T16:29:46.241Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "As eleições não vão resolver as divisões políticas dos Estados Unidos",
+      "titleOriginal": "Elections won’t fix America's political divisions",
+      "link": "https://thehill.com/opinion/campaign/6076926-overcoming-us-political-polarization/",
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ações da Chewy caem à medida que os consumidores reduzem os gastos com guloseimas para animais de estimação",
+      "titleOriginal": "Chewy Shares Slide as Consumers Pare Back Spending on Pet Treats",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGxrenZZMDdWYnZqa0tzQ1FtN0lOYl9QSjZzcUV3dkNuTkFLNkdrWDdGZnBkVC14aFNUNTh1ZlBWdFVCR2QtMXdUTUFHNGx0Um1SMVZlSjA0ZnEwZTJvX0p4NWdieDNoaVl3eFA1NGdyUmNyYUtqNGtZU2lpeFg1c3ZiUzJCVmd6VmJ0ajNFTDNvbFd1cEhwZHJiXzhMRU53cUsyWnZlbUJqY3M?oc=5",
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "EUA proíbem a importação de laticínios, da maioria das bebidas alcoólicas e de motocicletas do Canadá em meio a uma guerra comercial cada vez mais acirrada",
+      "titleOriginal": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+      "publishedAt": "2026-09-09T15:51:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Ford: Críticas de Duffy sobre acordos com a China são “uma tentativa equivocada de ganhar destaque na mídia”",
@@ -25,8 +46,8 @@
     },
     {
       "source": "The Hill",
-      "title": "Rogers e El-Sayed empatados na disputa pelo Senado de Michigan: pesquisa",
-      "titleOriginal": "Rogers, El-Sayed deadlocked in Michigan Senate race: Survey",
+      "title": "Rogers e El-Sayed travam disputa acirrada pelo Senado de Michigan: pesquisa",
+      "titleOriginal": "Rogers, El-Sayed locked in tight Michigan Senate race: Survey",
       "link": "https://thehill.com/homenews/campaign/6078750-michigan-senate-poll-rogers-elsayed/",
       "publishedAt": "2026-09-09T15:11:43.000Z"
     },
@@ -38,39 +59,18 @@
       "publishedAt": "2026-09-09T15:11:27.000Z"
     },
     {
+      "source": "AP News",
+      "title": "As ações caem em Wall Street à medida que os preços do petróleo voltam a ultrapassar os US$ 100 por barril, após a escalada do conflito no Irã",
+      "titleOriginal": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+      "publishedAt": "2026-09-09T15:08:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "O Super PAC de Trump começa a esvaziar seu fundo de campanha, com um novo grupo arrecadando US$ 47 milhões",
       "titleOriginal": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
       "publishedAt": "2026-09-09T14:52:10.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os estados que concederam bilhões em incentivos fiscais aos data centers agora estão rescindindo esses acordos",
-      "titleOriginal": "States That Gave Data Centers Billions in Tax Breaks Are Now Ripping Up the Deals",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWpXNzRLdWRISWlLckd4QkZoUWJXdXZ2WFMwM0ItRkZTaTBWbGR0Sy1BU2VFcmlwcGZhczJ6U3dxcFdpZFQ5bzVfVmYwbjFIWjFIUlV6VlhtQU9PcnVoOWw0T3duZlNBbGpEakZZcklMdDQ5U2g2VURXcGFNVXVMOUNIOUt2UTdYOGRxNXp4a1lxVTF3c1ZING1iRDBYQlNpNmh6RXZ1bzdQV0pZMmRFRzBjZmM4NXdxQkZNdnIybjRYQ19v?oc=5",
-      "publishedAt": "2026-09-09T14:42:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Será que David Beasley é a figura mais interessante da segunda fase de sua carreira política?",
-      "titleOriginal": "Is David Beasley the most interesting second act in politics?",
-      "link": "https://thehill.com/opinion/civil-rights/6077237-nobel-peace-prize-wfp/",
-      "publishedAt": "2026-09-09T14:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Com a aproximação das eleições intermediárias, nova pesquisa revela que poucos americanos confiam nas campanhas eleitorais ou em Trump",
-      "titleOriginal": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
-      "publishedAt": "2026-09-09T14:25:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Newsom acusa Trump de mentir ao contar uma história sobre sua reação aos ataques de 11 de setembro",
-      "titleOriginal": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
-      "link": "https://thehill.com/homenews/administration/6078397-gavin-newsom-donald-trump-911-comments/",
-      "publishedAt": "2026-09-09T14:24:09.000Z"
     }
   ]
 }
