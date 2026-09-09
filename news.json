@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-09T13:30:14.792Z",
+  "updatedAt": "2026-09-09T13:52:43.983Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Por que os conservadores mudaram de posição em relação a Israel",
+      "titleOriginal": "Why conservatives have shifted on Israel",
+      "link": "https://thehill.com/opinion/congress-blog/politics/6072170-conservative-shift-israel-generation/",
+      "publishedAt": "2026-09-09T13:30:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump critica a revista New York Magazine por ter chamado suas declarações sobre o 11 de setembro de “mentira esquisita”",
@@ -46,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "A Câmara dos Deputados precisa aumentar a pressão sobre Putin",
+      "title": "A Câmara precisa aumentar a pressão sobre Putin",
       "titleOriginal": "The House must turn the screws on Putin",
       "link": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
       "publishedAt": "2026-09-09T12:00:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Trump bans some Canadian imports as North America trade war intensifies",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
       "publishedAt": "2026-09-09T11:42:52.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os preços do trigo estão disparando, e os agricultores do Kansas não conseguem lucrar com isso",
-      "titleOriginal": "Wheat prices are soaring and Kansas farmers can't cash in",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFJBdklZNGliYVA0b3p1dVBUekF6Szg4ZUEtWkxFeEZCak9fNlpWLUhDS1dsYTJKYW1kajZaWmJBVWdxbVk4cmVlM2hwdHlVbWFEdDdMX0o3YS1SdnczeEkxS1Y3emx4Z3lVTUIxLWpuRjF5U1BqSmxaRl9DUU1qNnNQdVJjSDRFR2tPb0FpQQ?oc=5",
-      "publishedAt": "2026-09-09T11:33:02.000Z"
     }
   ]
 }
