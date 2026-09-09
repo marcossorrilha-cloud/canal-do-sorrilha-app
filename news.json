@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T05:27:11.537Z",
+  "updatedAt": "2026-09-09T05:51:36.552Z",
   "count": 10,
   "items": [
     {
       "source": "Politico",
-      "title": "Stefany Shaheen, filha da senadora Jeanne Shaheen, vence as primárias para a Câmara dos Deputados em New Hampshire",
+      "title": "Stefany Shaheen, filha da senadora Jeanne Shaheen, vence as primárias para a Câmara dos Deputados de New Hampshire",
       "titleOriginal": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
       "link": "https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480",
       "publishedAt": "2026-09-09T04:48:32.000Z"
@@ -18,21 +18,21 @@
     },
     {
       "source": "AP News",
-      "title": "Decisões judiciais contraditórias aumentam a confusão nas eleições para o Congresso no Missouri",
+      "title": "Decisões judiciais contraditórias geram confusão nas eleições para o Congresso no Missouri",
       "titleOriginal": "Competing court orders add confusion to Missouri congressional elections",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
       "publishedAt": "2026-09-09T03:54:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump deu presentes de fim de ano no valor de US$ 45.000 a Natalie Harp e a outros dois assessores da Casa Branca",
+      "title": "Trump deu presentes de Natal no valor de US$ 45.000 para Natalie Harp e outros dois assessores da Casa Branca",
       "titleOriginal": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
       "publishedAt": "2026-09-09T03:20:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo procurador-geral da Carolina do Norte com os produtores",
+      "title": "O banco de alimentos de Charlotte recebe 270 mil ovos como parte do acordo firmado pelo Procurador-Geral da Carolina do Norte com os produtores",
       "titleOriginal": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
       "link": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
       "publishedAt": "2026-09-09T03:17:39.000Z"
@@ -59,18 +59,18 @@
       "publishedAt": "2026-09-09T02:51:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump proíbe algumas importações do Canadá à medida que a guerra comercial na América do Norte se intensifica",
-      "titleOriginal": "Trump bans some Canadian imports as North America trade war intensifies",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
-      "publishedAt": "2026-09-09T02:42:45.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Carney afirma que a retaliação contra as tarifas dos EUA era inevitável",
       "titleOriginal": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
       "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
       "publishedAt": "2026-09-09T02:33:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O mais novo alvo de Trump para uma reformulação? Os uniformes da Força Espacial.",
+      "titleOriginal": "Trump’s Latest Makeover Target? Space Force Uniforms.",
+      "link": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
+      "publishedAt": "2026-09-09T02:29:11.000Z"
     }
   ]
 }
