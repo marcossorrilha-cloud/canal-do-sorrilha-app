@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-09T16:29:46.241Z",
+  "updatedAt": "2026-09-09T16:52:26.014Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Coalizão bipartidária pressiona o governo Trump para que divulgue o quadro de segurança para IA",
+      "titleOriginal": "Bipartisan coalition pushes Trump administration on AI security framework release",
+      "link": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
+      "publishedAt": "2026-09-09T16:47:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Holder critica Blanche por causa do discurso planejado para a convenção do Partido Republicano: “Vergonhoso”",
+      "titleOriginal": "Holder blasts Blanche over planned GOP convention speech: 'Disgraceful'",
+      "link": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/",
+      "publishedAt": "2026-09-09T16:42:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O “Trump-a-palooza” começa no Texas",
+      "titleOriginal": "'Trump-a-palooza' kicks off in Texas",
+      "link": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/",
+      "publishedAt": "2026-09-09T16:42:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Congresso precisa acertar na questão da transparência dos preços dos serviços de saúde",
+      "titleOriginal": "Congress must get healthcare price transparency right",
+      "link": "https://thehill.com/opinion/healthcare/6077734-house-lower-costs-transparency/",
+      "publishedAt": "2026-09-09T16:30:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "As eleições não vão resolver as divisões políticas dos Estados Unidos",
@@ -25,52 +53,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Ford: Críticas de Duffy sobre acordos com a China são “uma tentativa equivocada de ganhar destaque na mídia”",
+      "title": "Ford: Críticas de Duffy sobre acordos com a China são uma “tentativa equivocada de ganhar destaque na mídia”",
       "titleOriginal": "Ford: Duffy criticism over deals with China 'wrongheaded attempt to capture headlines'",
       "link": "https://thehill.com/business/6079042-ford-refutes-duffy-china-claims/",
       "publishedAt": "2026-09-09T15:39:37.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Navarro: A Casa Branca disse à Fox News que a demissão de Bartiromo foi “totalmente inaceitável”",
+      "title": "Navarro: A Casa Branca informou à Fox News que a demissão de Bartiromo foi “totalmente inaceitável”",
       "titleOriginal": "Navarro: White House told Fox News Bartiromo ouster was 'totally unacceptable'",
       "link": "https://thehill.com/homenews/media/6079001-navarro-fox-news-bartiromo-ouster/",
       "publishedAt": "2026-09-09T15:36:13.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Kudlow para Cruz: “Talvez seja melhor você pensar bem” antes de anunciar sua candidatura à presidência em novembro",
+      "title": "Kudlow para Cruz: “Talvez seja melhor você pensar” antes de anunciar sua candidatura à presidência em novembro",
       "titleOriginal": "Kudlow to Cruz: 'You might want to think' about announcing presidential bid in November",
       "link": "https://thehill.com/homenews/campaign/6078802-ted-cruz-2028-presidential-run/",
       "publishedAt": "2026-09-09T15:27:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rogers e El-Sayed travam disputa acirrada pelo Senado de Michigan: pesquisa",
-      "titleOriginal": "Rogers, El-Sayed locked in tight Michigan Senate race: Survey",
-      "link": "https://thehill.com/homenews/campaign/6078750-michigan-senate-poll-rogers-elsayed/",
-      "publishedAt": "2026-09-09T15:11:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump nomeia chefes permanentes das divisões da FDA",
-      "titleOriginal": "Trump administration names permanent FDA division leaders",
-      "link": "https://thehill.com/policy/healthcare/6079000-trump-fills-key-fda-leadership/",
-      "publishedAt": "2026-09-09T15:11:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As ações caem em Wall Street à medida que os preços do petróleo voltam a ultrapassar os US$ 100 por barril, após a escalada do conflito no Irã",
-      "titleOriginal": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-      "publishedAt": "2026-09-09T15:08:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Super PAC de Trump começa a esvaziar seu fundo de campanha, com um novo grupo arrecadando US$ 47 milhões",
-      "titleOriginal": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
-      "publishedAt": "2026-09-09T14:52:10.000Z"
     }
   ]
 }
