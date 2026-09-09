@@ -1,24 +1,38 @@
 {
-  "updatedAt": "2026-09-09T09:29:26.632Z",
+  "updatedAt": "2026-09-09T09:52:44.362Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Como bilhões em dinheiro iraniano passam pelos bancos dos EUA",
-      "titleOriginal": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5",
-      "publishedAt": "2026-09-09T09:26:05.000Z"
+      "title": "A campanha do Partido Republicano para o Senado que deu terrivelmente errado na Geórgia",
+      "titleOriginal": "The GOP Senate Campaign Gone Disastrously Wrong in Georgia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnJqVWRzNGVzRE04bTl0b01KMDgtb3hyYkxyZ21DRE1fZUsyaGRNSGwtT3NLcW9RN2lyYnlJd0lIOV9FbzBhcDFxNENIOEhPaGJSRzQzUW5WcUZBT0NiSjJtZXVFYURXVFVzZFRETmhwLVdJNExkakZBNWJhSlNoS3ZiUlQ3XzhaUTN6VDBRQWpCWk9VbWVxTWdrQnZSTDhMejk3Y2ZlSU8tQQ?oc=5",
+      "publishedAt": "2026-09-09T09:41:49.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A cobertura de medicamentos do Medicare enfrenta uma perspectiva preocupante em termos de gastos",
+      "titleOriginal": "Medicare drug coverage faces an ominous spending outlook",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RVVfTUttRnF0ellFcGEzeVBtUmxTMUFQRGhjMGVoQzcxbXRXMEJxU0Q3dGtISWhjM2ZFMWZ3M3FBdFlHYk9fbEpyRVNoMGR6R0ZQN08zd1N4dGg4ekIyaHlSTFQyN2ZIVHExNFhQTjl0cVZpSThpcGI4SFZZdDA?oc=5",
+      "publishedAt": "2026-09-09T09:33:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ouro sobe, com foco no Oriente Médio e na política do Fed",
+      "titleOriginal": "Gold Rises, With Middle East and Fed Policy in Focus",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWU8wU2xDUU9NVUEtQ0hQdzhSQTJQRmtNNWpJTllxcFFlVElWSFp3MWpXN0RmNnBvcl9IcWpBMXJtNEZSTlVmNUIxTmpoNG8yRTBzMDhBby14M0hJWXBaZElLMkp4YzR0a3h5Ukxsd0VEal94MGJ1bndRX055ZHUyenh3YjY2TlpkUlFjcS03Q0ZjZVRzaGNERGh3?oc=5",
+      "publishedAt": "2026-09-09T09:33:45.000Z"
     },
     {
       "source": "Axios",
       "title": "O comitê de ação política (PAC) de Musk investe pesado em anúncios de ataque contra pessoas trans",
       "titleOriginal": "Musk's PAC goes big on trans attack ads",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQjVEZlpkZ1I0dGltZ0x3M0F0d3VuZUdjTlZWMVdERW9WbnpSWmJ2c28tZWJjSU82TXFleXQ2TUVFWVRwYXpIdkhmSk1sYTJEand5ajJkM3hULWs0LXNmQ19KU1JudW1KLVE?oc=5",
-      "publishedAt": "2026-09-09T09:11:15.000Z"
+      "publishedAt": "2026-09-09T09:13:55.000Z"
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: a estrutura de IA de Trump não possui diretrizes para o relato público de incidentes",
+      "title": "Exclusivo: a estrutura de IA de Trump não possui diretrizes para notificação pública de incidentes",
       "titleOriginal": "Scoop: Trump AI framework lacks public incident reporting guidelines",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVW9FYU52ZVp1MkxDaEhEN0VqUFdaTkNNZ2N6TmlxVUI1bVFTOHY1R0JuR0lVM0t3SG1kSldmaGtTUzRfaDBmRzR3dzdwdUNMVF85SXNlM0dUTFlsUDItT1N3Q2hlY1pxQjVxUW01SmhKUFoycmFZUUxNbzNpX1JaNlF1SkxuUTJmM1ByTkhLczI3cTA?oc=5",
       "publishedAt": "2026-09-09T09:04:58.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Exclusive | EverBank to Combine With WaFd to Create $75 Billion Bank",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3dtUHNmQmxmRnZpVVlic01mdGdBMlJXdUhJM1pyenhpQXlzUzJSZjcxWXRyTjdrdkdNZFJMcHFIYVREMFdLaGFKdHVmdlgxdFFxcHJLQTBFa3pxdlNCM09KeVNwaGVMRmRGR01lT09uS25oNmR1U2NnWFg4a2tEZThWcmxUWHYxUzMyR19aWEw1WWpsWmFTZWhLMXM0TmQ3?oc=5",
       "publishedAt": "2026-09-09T08:31:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Brent atinge US$ 100 à medida que a escalada entre EUA e Irã e os ataques dos houthis agravam os temores quanto ao abastecimento no Golfo",
-      "titleOriginal": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1U4eTNZZ0F0VlUwYkJ1clV6eWxWWnV3QzFiVjBwTzdNNkJhMGJZN3hjQ0hCY3cxbFlabEc2UTc2WUg1dFpSZV9zZ0VvNURCeGJER2lkbTd5UWE1VWNvaDN1NDdlclk5c1RXR3A0VnZzSHRZY21HdnVPWHlpck5zV29LVVlwQlVoSmdHMXF4V2Z3cTdnWllHb0F3R0pYX3Bnai0yLWN4MkZuMHV2aTIyT2VQV2JYeVA4bHRmMFFPMGdPRm8?oc=5",
-      "publishedAt": "2026-09-09T07:52:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A China está roubando a IA americana? Por que a “destilação” está deixando Washington em pé de guerra",
-      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
-      "publishedAt": "2026-09-09T07:47:00.000Z"
     }
   ]
 }
