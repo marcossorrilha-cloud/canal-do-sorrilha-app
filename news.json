@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-10T12:54:41.356Z",
+  "updatedAt": "2026-09-10T13:27:07.222Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
+      "titleOriginal": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
+      "publishedAt": "2026-09-10T13:17:54.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A China está roubando a IA americana? Por que a “destilação” deixou Washington em pé de guerra",
+      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
+      "publishedAt": "2026-09-10T12:57:59.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump, sobre a vaia da plateia da convenção a Thune: “Não, não. John está se esforçando bastante”",
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump, Fetterman deliver surprises at RNC night 1",
       "link": "https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1/",
       "publishedAt": "2026-09-10T11:16:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Na Ucrânia, Putin está ficando sem tempo e sem opções",
-      "titleOriginal": "In Ukraine, Putin is running out of time and options",
-      "link": "https://thehill.com/opinion/national-security/6078388-russia-nato-escalation-threats/",
-      "publishedAt": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Se Trump não consegue lotar uma arena em Dallas, será que ele conseguirá mobilizar o eleitorado em novembro?",
-      "titleOriginal": "If Trump Can’t Fill a Dallas Arena, Can He Turn Out a November Vote?",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelU3OUp4eGMxZFZ2amMwd3RaSjJVYWFzVi14SFlwTHZxd3NENTllU3VsV3hOUkNzNG1SZkZEeTVsbTc4amlHSlJjM3NxT1JVYnNOM3hVOVNIdWhlMHV2T3VaMVV4TXBBMzJOeEt3WjVqdjlWS1N0UW5lZXJsd3FTZmZzM2gyYjVxekxDZDM4MEJnNVFTN2tpUXA4ZnBjOGUxcGZGOTNR?oc=5",
-      "publishedAt": "2026-09-10T10:55:00.000Z"
     }
   ]
 }
