@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-10T01:26:24.354Z",
+  "updatedAt": "2026-09-10T01:52:17.194Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "“Sabe, não tivemos ninguém nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que entraram durante o governo Biden.”",
+      "titleOriginal": "“You know, we had zero for the last — zero people for the last 16 months. Can you believe it? We had 25 million come in under Biden.”",
+      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/you-know-we-had-zero-for-the-last-zero-people-for-the-last-16-months-can-you-believe-it-we-had-25-million-come-in-under-biden",
+      "publishedAt": "2026-09-10T01:35:34.000Z"
+    },
     {
       "source": "New York Times",
       "title": "AOC entra na campanha eleitoral da candidata ao Senado Angie Nixon, na Flórida",
       "titleOriginal": "AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html",
-      "publishedAt": "2026-09-10T00:51:19.000Z"
+      "publishedAt": "2026-09-10T01:29:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As proteções temporárias para cerca de 200 mil imigrantes salvadorenhos estão em suspenso à medida que o prazo se aproxima",
+      "titleOriginal": "Temporary protections for about 200,000 Salvadoran immigrants are in limbo as deadline nears",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmt4d0dMbHNLb1REbFVFVV9PLWg4b05TUmZTTUhCWVJTaFZ2el9nWi1MbUt1eFh6YTJFcEpEZWhMTHMtNFE4ZUw2Mk1oVkRlZm5TWHhEZEJkYXZ4dnRwYjY4bnRwdmlNZjc5dUR6TDNRQThEMVFHUnVBdm05NFlrMWlMOFAyMkE0Y0Y2SHNiRFhsTWgySFZKN3NieEhnb2F2Wm1ya2NBRHZST295SXc?oc=5",
+      "publishedAt": "2026-09-10T01:28:00.000Z"
     },
     {
       "source": "The Hill",
@@ -18,7 +32,7 @@
     },
     {
       "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril enquanto os EUA e o Irã lançam novos ataques; ao mesmo tempo, os preços da gasolina também disparam",
+      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
       "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
       "publishedAt": "2026-09-10T00:35:00.000Z"
@@ -39,7 +53,7 @@
     },
     {
       "source": "New York Times",
-      "title": "A reforma do censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
+      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
       "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
       "publishedAt": "2026-09-10T00:21:27.000Z"
@@ -52,25 +66,11 @@
       "publishedAt": "2026-09-09T23:36:10.000Z"
     },
     {
-      "source": "Politico",
-      "title": "“Estamos indo na direção errada”: convenção republicana marcada pela questão do custo de vida",
-      "titleOriginal": "‘We are going in the wrong direction’: Republican convention dogged by the cost of living",
-      "link": "https://www.politico.com/news/2026/09/09/republicans-economy-trump-dallas-midterm-convention-01069724",
-      "publishedAt": "2026-09-09T23:25:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Fetterman aparece em vídeo elogiando McCormick na convenção do Partido Republicano para as eleições de meio de mandato",
-      "titleOriginal": "Fetterman appears in video praising McCormick at GOP midterm convention",
-      "link": "https://thehill.com/homenews/senate/6080435-fetterman-mccormick-trump-gop-midterm-convention-dallas/",
-      "publishedAt": "2026-09-09T23:17:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Líderes republicanos da Câmara dos Deputados aproveitam discursos na convenção para atacar os “comunistas malucos”",
-      "titleOriginal": "House GOP leaders use convention speeches to take aim at 'crazy communists'",
-      "link": "https://thehill.com/homenews/campaign/6080427-scalise-emmer-anti-communist-rnc-convention/",
-      "publishedAt": "2026-09-09T23:13:26.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Fetterman elogiará Trump em vídeo bombástico na convenção do Partido Republicano",
+      "titleOriginal": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "publishedAt": "2026-09-09T23:27:21.000Z"
     }
   ]
 }
