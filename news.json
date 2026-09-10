@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-10T14:28:11.073Z",
+  "updatedAt": "2026-09-10T14:53:33.958Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O príncipe Harry, Bill Nye e Chrissy Teigen participarão da reunião da Clinton Global Initiative deste ano",
+      "titleOriginal": "Prince Harry, Bill Nye, Chrissy Teigen to join this year's Clinton Global Initiative meeting",
+      "link": "https://thehill.com/blogs/in-the-know/6081767-prince-harry-bill-nye-chrissy-teigen-clinton-global-initiative/",
+      "publishedAt": "2026-09-10T14:52:22.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços do petróleo voltam aos níveis registrados em maio e puxam Wall Street para baixo",
+      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "publishedAt": "2026-09-10T14:28:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Positron é avaliada em US$ 5 bilhões em nova rodada de financiamento, à medida que a demanda por chips de IA dispara",
+      "titleOriginal": "Exclusive | Positron Valued at $5 Billion in New Funding as Demand for AI Chips Surges",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWpZd1RtLU1tcFpSOUoxYVYtd0gzeTZfanNNaVg1UWxoZ2lfSTFZV2MzdldoTDQyR0lCTGFUd1ZsTG8xcVRlZ1NZWHBPWWphNHdpTTVjSFAtREJnQzhZc0VaS3Vha3U0bVBPQXZqdmhRRlV0Rm9DWnE2MnFTTS1sTWlwajZ1VHFDanNianRkRnpkaG5WZ3ZfT01NdkkzaHlSbUw0?oc=5",
+      "publishedAt": "2026-09-10T14:08:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Os democratas poderiam conquistar o controle do Senado? O que mostra a previsão do DDHQ: debate ao vivo",
@@ -11,59 +32,38 @@
     },
     {
       "source": "New York Times",
-      "title": "Com a queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
+      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
       "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
       "publishedAt": "2026-09-10T13:29:15.000Z"
     },
     {
       "source": "New York Times",
-      "title": "“Finja que estou concorrendo”: 7 pontos a serem destacados da Convenção do Partido Republicano para as eleições de meio de mandato",
+      "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
       "titleOriginal": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
       "publishedAt": "2026-09-10T13:17:54.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Alternativas baratas a medicamentos biológicos enfrentam obstáculos, ameaçando a economia no setor de saúde dos EUA",
+      "title": "Exclusivo | Alternativas baratas a medicamentos biológicos enfrentam atrasos, ameaçando a economia no setor de saúde dos EUA",
       "titleOriginal": "Exclusive | Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXdSZkx1TDZWeVZaQXRmalpDTUFITi1pUVdCUlRPNHF1b0poR2JFbXpwUEdtRkxaZEdLQkl4WHFybEN0bm1IMU50dVFNQ2lOV01uSm4tNXVPb1hVYzAtdFFZUWJMYlEtLVl5ZDVybFRETDVnSFd2bHlpTElQa1RFbWFXSkRhSERjVUJsUjVLeWF4RlNxSGhzSWdyOWdULUF0a0pTcDNId3htemtER0xoZEd2eUtnN3M?oc=5",
       "publishedAt": "2026-09-10T13:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Positron é avaliada em US$ 5 bilhões em nova rodada de financiamento, em meio ao aumento da demanda por CPUs",
-      "titleOriginal": "Exclusive | Positron Valued at $5 Billion in New Funding as CPU Demand Surges",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWpZd1RtLU1tcFpSOUoxYVYtd0gzeTZfanNNaVg1UWxoZ2lfSTFZV2MzdldoTDQyR0lCTGFUd1ZsTG8xcVRlZ1NZWHBPWWphNHdpTTVjSFAtREJnQzhZc0VaS3Vha3U0bVBPQXZqdmhRRlV0Rm9DWnE2MnFTTS1sTWlwajZ1VHFDanNianRkRnpkaG5WZ3ZfT01NdkkzaHlSbUw0?oc=5",
-      "publishedAt": "2026-09-10T13:00:00.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Os planos do Medicare Advantage parecem estar reduzindo os benefícios em 2027",
+      "title": "Os planos Medicare Advantage parecem estar reduzindo os benefícios em 2027",
       "titleOriginal": "Medicare Advantage plans appear to be cutting benefits in 2027",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VV19pX3dhdHB5M2ZIS0I2X2lEY3VGbFdXaEhMa0NpT2gwLWdKdDVMYnpnMkVlNG1Bbm9RTllhU05yUHVzSHFJa2VWWU8yQWNXdTZoVXhrZjhrMTItdkVGNm54RWZlVTdGdzZDaUh1Y1RTQWY4cDNPRQ?oc=5",
       "publishedAt": "2026-09-10T12:56:15.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump, sobre a vaia da plateia da convenção a Thune: “Não, não. John está se esforçando muito”",
-      "titleOriginal": "Trump on convention crowd booing Thune: 'No, no. John is working hard'",
-      "link": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
-      "publishedAt": "2026-09-10T12:32:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pode apostar: os vínculos dos Trump com os mercados de previsão vão se tornar um problema para a Receita Federal dos EUA",
-      "titleOriginal": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
-      "link": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
-      "publishedAt": "2026-09-10T12:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O'Reilly: “Fetterman vai se tornar republicano”",
-      "titleOriginal": "O'Reilly: 'Fetterman is going to be a Republican'",
-      "link": "https://thehill.com/homenews/senate/6080968-bill-oreilly-john-fetterman-democrats-republicans-midterms-gop-convention/",
-      "publishedAt": "2026-09-10T12:03:17.000Z"
+      "source": "Wall Street Journal",
+      "title": "Houthis do Iêmen, apoiados pelo Irã, avançam em direção ao ponto estratégico de Bab al-Mandeb",
+      "titleOriginal": "Yemen’s Iran-Backed Houthis Sweep Toward Strategic Bab al-Mandeb",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzRaY3lhemZzTjU2ejRXaWQ4X3dENFhURUY2dnh3YlRSOFhPZHhVVDRiRDVmbW5xa0J1SUFUbjhPNUEzNUl2Uk9zOWFOdVRpM0xhazBENDhUY0stcnROM2ppaXc4aWhHVjJSUy1HMmRwcktpbFBzZUJzd0lwRm1iZ1BYa0JsNG9zbURhWUdMNEdYeng3QmxGaGJIVUN4NVVrNlIwS0dsekRPV3lVSTJn?oc=5",
+      "publishedAt": "2026-09-10T12:39:00.000Z"
     },
     {
       "source": "Axios",
