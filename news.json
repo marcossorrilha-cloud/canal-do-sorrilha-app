@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-10T10:28:46.008Z",
+  "updatedAt": "2026-09-10T10:51:57.173Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Inflação ao consumidor e ao produtor na China registram ligeiro aumento",
+      "titleOriginal": "China’s Consumer, Producer Inflation Edge Higher",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2dYTndOblJqbl9lVFRaTEhoa3RkeDJTYXVMTUlCcG9MeFhkNnRxdGZ4THJNdVBSSXZmSUJDTF8xQjV1SXJPbjl4M3pwV2xBbEdadEVwTFBjS2ltOW5tWkR6RlVGWnFKcEd2XzY4dWZLOXFNR0tqejQ0bmVFbnVKVU5iQkdiRjY2R0tZ?oc=5",
+      "publishedAt": "2026-09-10T10:32:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ford está empatado com Lombardo na acirrada disputa pelo governo de Nevada: pesquisa",
+      "titleOriginal": "Ford neck and neck with Lombardo in toss-up Nevada governor's race: Poll",
+      "link": "https://thehill.com/homenews/campaign/6080153-ford-lombardo-nevada-gubernatorial-poll/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os republicanos da Câmara apoiam a reeleição de Max Miller, mas mantêm distância",
+      "titleOriginal": "House Republicans back Max Miller reelection, but keep their distance",
+      "link": "https://thehill.com/homenews/house/6080271-house-gop-max-miller-ohio/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Doadores democratas determinados a derrubar Trump afirmam que estão abrindo os talões de cheques",
+      "titleOriginal": "Democratic donors determined to oust Trump say they’re opening checkbooks",
+      "link": "https://thehill.com/homenews/campaign/6079964-trump-opposition-dnc-funding/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O elefante na sala na Convenção Nacional Republicana: o dinheiro de Trump",
+      "titleOriginal": "The elephant in the room at the RNC: Trump's money",
+      "link": "https://thehill.com/homenews/administration/6080226-trump-campaign-spending-gop-convention/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A indignação pública em relação ao boom da IA gera preocupações no Partido Republicano para as eleições de meio de mandato",
+      "titleOriginal": "Public anger over AI boom triggers GOP midterm worries",
+      "link": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Grupo de defesa da IA lança iniciativa política em nível estadual",
@@ -11,7 +53,7 @@
     },
     {
       "source": "Axios",
-      "title": "O Partido Republicano aproveita o aniversário do 11 de setembro para criticar os democratas de esquerda",
+      "title": "O Partido Republicano aproveita o aniversário do 11 de setembro para atacar os democratas de esquerda",
       "titleOriginal": "GOP uses 9/11 anniversary to bash left-wing Dems",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9STHhUWEpGYmRCTmMyREdhMXhrZEFxdjdMZXhoN01jMm52Z05oLWFJWURsNFRfbTg1MjQwM21yR0FtcHk5SDJtYlliaFlTRlpjUGVyVnpvTTFvenZPUmF4cW8yY2Myd1UydHl1Q2J5dw?oc=5",
       "publishedAt": "2026-09-10T09:24:54.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
       "publishedAt": "2026-09-10T09:04:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: OpenAI enfrenta investigação no Senado liderada pelo Partido Republicano sobre a violação de dados da Hugging Face",
-      "titleOriginal": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5",
-      "publishedAt": "2026-09-10T09:00:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As bolsas mundiais recuam e os preços do petróleo são negociados acima de US$ 100 o barril",
-      "titleOriginal": "World shares retreat and oil prices trade above $100 a barrel",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-      "publishedAt": "2026-09-10T08:29:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
-      "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
-      "publishedAt": "2026-09-10T08:20:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As exportações de carros da China nos primeiros oito meses superam o total de 2025, à medida que as vendas de veículos elétricos disparam",
-      "titleOriginal": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?oc=5",
-      "publishedAt": "2026-09-10T08:14:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
-      "titleOriginal": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
-      "publishedAt": "2026-09-10T07:56:44.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Brent se mantém acima dos US$ 100 em meio à escalada das tensões entre os EUA e o Irã",
-      "titleOriginal": "Brent Holds Above $100 on U.S.-Iran Escalation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFBUTWh0bXNxSnhsbmZLVjFFUDNTYTRlT3FKcW1VSlppUnYzT2J3VklDUzhBMVZxSWlzcGkyOGkwcmpGVllpUEFaaFlnaXJFcE5iUTlWOTRTWjRrVHh0MG5ELVhBZ0N2SG1qdGhXQnh1RGRCS29rZ1ZyOThzbk5fSmxiS2g0dXZ0SXY2aFFMbEhJYm9ENXkwQ1l3NTZLQm5TV2FTRQ?oc=5",
-      "publishedAt": "2026-09-10T07:20:00.000Z"
     }
   ]
 }
