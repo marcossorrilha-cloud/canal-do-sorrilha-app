@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-10T16:51:49.399Z",
+  "updatedAt": "2026-09-10T17:26:41.102Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "A China está roubando a IA americana? Por que a “destilação” deixou Washington em pé de guerra",
-      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
-      "publishedAt": "2026-09-10T16:49:48.000Z"
+      "source": "The Hill",
+      "title": "O governo Trump alega que a faculdade de Direito da UC Berkeley favorece candidatos negros",
+      "titleOriginal": "Trump administration alleges UC Berkeley law school favors Black applicants",
+      "link": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
+      "publishedAt": "2026-09-10T17:24:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cerca de metade dos hospitais cumpre as regras de transparência de preços: Relatório",
+      "titleOriginal": "Roughly half of hospitals complying with price transparency rules: Report",
+      "link": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
+      "publishedAt": "2026-09-10T17:20:33.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Poluição em centros de dados de IA representa ameaça à saúde, alertam ex-funcionários da EPA",
+      "titleOriginal": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
+      "link": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
+      "publishedAt": "2026-09-10T17:06:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump faz discurso e visita o Museu Nacional da Medalha de Honra",
+      "titleOriginal": "Watch live: Trump gives remarks, tours National Medal of Honor Museum",
+      "link": "https://thehill.com/video-clips/6082128-watch-live-donald-trump-texas-remarks-national-medal-of-honor-museum/",
+      "publishedAt": "2026-09-10T17:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -18,14 +39,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump cita Charlie Kirk na convenção do RNC",
+      "title": "Trump cita Charlie Kirk na convenção da RNC",
       "titleOriginal": "Trump invokes Charlie Kirk at RNC convention",
       "link": "https://thehill.com/newsletters/1230-report/6082115-trump-invokes-charlie-kirk-at-rnc-convention/",
       "publishedAt": "2026-09-10T16:31:25.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A Câmara dos Deputados deve agir para cortar o suprimento de gás do Ártico que sustenta Putin",
+      "title": "A Câmara deve agir para cortar o suprimento vital de gás do Ártico de Putin",
       "titleOriginal": "The House must act to cut Putin's Arctic gas lifeline",
       "link": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
       "publishedAt": "2026-09-10T16:30:00.000Z"
@@ -39,38 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em novo jogo online",
+      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
       "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
       "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
       "publishedAt": "2026-09-10T16:25:05.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O ex-presidente Bush ao general Dan Caine: “Graças a Deus você está onde está”",
-      "titleOriginal": "Former President Bush to Gen. Dan Caine: 'Thank God you are where you are'",
-      "link": "https://thehill.com/homenews/administration/6082051-george-w-bush-dan-caine-warnings-911-anniversary-speech/",
-      "publishedAt": "2026-09-10T16:14:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Governador de Utah declara o dia 10 de setembro como o “Dia de Charlie Kirk”, um ano após o assassinato",
-      "titleOriginal": "Utah governor designates Sept. 10 as 'Charlie Kirk Day' 1 year after assassination",
-      "link": "https://thehill.com/homenews/state-watch/6082031-utah-spencer-cox-charlie-kirk-day/",
-      "publishedAt": "2026-09-10T16:09:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Talarico destaca o apoio do Partido Republicano à sua campanha para o Senado",
-      "titleOriginal": "Talarico touts GOP support for Senate campaign",
-      "link": "https://thehill.com/homenews/campaign/6081974-republicans-endorse-talarico/",
-      "publishedAt": "2026-09-10T15:53:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Partido Republicano aproveita o aniversário do 11 de setembro para criticar os democratas de esquerda",
-      "titleOriginal": "GOP uses 9/11 anniversary to bash left-wing Dems",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9STHhUWEpGYmRCTmMyREdhMXhrZEFxdjdMZXhoN01jMm52Z05oLWFJWURsNFRfbTg1MjQwM21yR0FtcHk5SDJtYlliaFlTRlpjUGVyVnpvTTFvenZPUmF4cW8yY2Myd1UydHl1Q2J5dw?oc=5",
-      "publishedAt": "2026-09-10T15:52:35.000Z"
+      "source": "AP News",
+      "title": "O silêncio do governo Trump faz com que 200 mil imigrantes salvadorenhos tenham esperança de que estejam protegidos",
+      "titleOriginal": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
+      "publishedAt": "2026-09-10T16:24:00.000Z"
     }
   ]
 }
