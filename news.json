@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T06:55:04.724Z",
+  "updatedAt": "2026-09-10T07:29:13.116Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Dólar recua acompanhando a queda nos rendimentos dos títulos do Tesouro e nos preços do petróleo",
+      "titleOriginal": "Dollar Declines Along Lower Treasury Yields, Oil Prices",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnBlLTNqR1B1TElLeTdjVEtmbWdWVlBYT2pKLTk5UWxHUm5taEE5RkdCczc4UUxmM3l4aU1qRkdscGI2TUp2aVdtM1dURE92bjRzdVVPVWhQb3FmMVFZZjVmeXR0cHVuUExPaEFQTlRadXlpdElTQnBEMTh1YnU0QjQ4R2drZGVmbF9JSHNqRHNFZ0kxSjBVSQ?oc=5",
+      "publishedAt": "2026-09-10T07:08:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump sugere cheques de US$ 5.000 como “dividendo Trump” caso os republicanos vençam as eleições de meio de mandato",
@@ -25,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump implora ao Partido Republicano para “fingir” que ele está na cédula eleitoral de novembro, na primeira noite da convenção das eleições intermediárias",
+      "title": "Trump implora ao Partido Republicano para que “finja” que ele está na cédula eleitoral de novembro na primeira noite da convenção das eleições de meio de mandato",
       "titleOriginal": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
       "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
       "publishedAt": "2026-09-10T04:14:42.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico na convenção do Partido Republicano",
+      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
       "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "publishedAt": "2026-09-10T02:28:47.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Estou oferecendo a vocês as maiores reduções de preço de medicamentos de receita da história, com diferenças de 400 — 400, 500 e até 600 por cento.”",
-      "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
-      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
-      "publishedAt": "2026-09-10T02:21:07.000Z"
     }
   ]
 }
