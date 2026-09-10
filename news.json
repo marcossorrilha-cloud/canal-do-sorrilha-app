@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:26:41.102Z",
+  "updatedAt": "2026-09-10T17:50:38.276Z",
   "count": 10,
   "items": [
     {
@@ -38,15 +38,22 @@
       "publishedAt": "2026-09-10T16:34:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Os preços do petróleo voltam aos níveis registrados em maio e levam Wall Street a uma queda",
+      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "publishedAt": "2026-09-10T16:32:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump cita Charlie Kirk na convenção da RNC",
+      "title": "Trump cita Charlie Kirk na convenção do RNC",
       "titleOriginal": "Trump invokes Charlie Kirk at RNC convention",
       "link": "https://thehill.com/newsletters/1230-report/6082115-trump-invokes-charlie-kirk-at-rnc-convention/",
       "publishedAt": "2026-09-10T16:31:25.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A Câmara deve agir para cortar o suprimento vital de gás do Ártico de Putin",
+      "title": "A Câmara dos Deputados deve agir para cortar o suprimento vital de gás do Ártico de Putin",
       "titleOriginal": "The House must act to cut Putin's Arctic gas lifeline",
       "link": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
       "publishedAt": "2026-09-10T16:30:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
       "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
       "publishedAt": "2026-09-10T16:25:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O silêncio do governo Trump faz com que 200 mil imigrantes salvadorenhos tenham esperança de que estejam protegidos",
-      "titleOriginal": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-      "publishedAt": "2026-09-10T16:24:00.000Z"
     }
   ]
 }
