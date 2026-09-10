@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-09-09T13:45:54.000Z",
-  "newestTs": 1788958571079,
+  "updatedAt": "2026-09-10T18:55:46.000Z",
+  "newestTs": 1789064352742,
   "archiveUrl": "https://marcossorrilha.substack.com/archive",
   "count": 5,
   "items": [
+    {
+      "title": "Clipping | Política dos Estados Unidos | 10 de setembro de 2026",
+      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-2a7",
+      "date": "10/09/2026",
+      "note": "Seleção de 24 horas • 10 de setembro de 2026. O que aconteceu, por que importa e o que merece atenção."
+    },
     {
       "title": "Clipping | Política dos Estados Unidos | 9 de setembro de 2026",
       "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-b78",
@@ -27,12 +33,6 @@
       "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-299",
       "date": "05/09/2026",
       "note": "Seleção de 24 horas • 5 de setembro de 2026. O que aconteceu, por que importa e o que merece atenção."
-    },
-    {
-      "title": "Clipping | Política dos Estados Unidos | 4 de setembro de 2026",
-      "link": "https://marcossorrilha.substack.com/p/clipping-politica-dos-estados-unidos-15b",
-      "date": "04/09/2026",
-      "note": "Seleção de 24 horas • O que aconteceu, por que importa e o que merece atenção."
     }
   ]
 }
