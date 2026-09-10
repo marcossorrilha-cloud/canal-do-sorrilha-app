@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-10T02:28:36.147Z",
+  "updatedAt": "2026-09-10T02:52:33.448Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Trump promete um “dividendo Trump” de US$ 5 mil caso os republicanos mantenham o controle do Congresso",
+      "titleOriginal": "Trump pledges $5k 'Trump dividend' if Republicans hold onto Congress",
+      "link": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
+      "publishedAt": "2026-09-10T02:48:47.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "“Estou proporcionando a vocês os maiores cortes nos preços dos medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
+      "title": "“Estou proporcionando a vocês as maiores reduções de preço de medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
       "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
       "publishedAt": "2026-09-10T02:21:07.000Z"
@@ -53,7 +60,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova propensão à escalada",
+      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova disposição para a escalada",
       "titleOriginal": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
       "publishedAt": "2026-09-10T01:00:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Democratic socialist ousts Providence mayor in primary",
       "link": "https://thehill.com/homenews/campaign/6079175-democratic-socialist-wins-providence-mayoral-primary/",
       "publishedAt": "2026-09-10T00:35:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
-      "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-      "publishedAt": "2026-09-10T00:35:00.000Z"
     }
   ]
 }
