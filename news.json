@@ -1,25 +1,53 @@
 {
-  "updatedAt": "2026-09-10T16:27:16.649Z",
+  "updatedAt": "2026-09-10T16:51:49.399Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A China está roubando a IA americana? Por que a “destilação” deixou Washington em pé de guerra",
+      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
+      "publishedAt": "2026-09-10T16:49:48.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | O Irã está produzindo mísseis balísticos novamente",
+      "titleOriginal": "Exclusive | Iran Is Producing Ballistic Missiles Again",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlhkWEszbkt3NkluSFRiWXk4UUZkb0I3MjFjdllTekZUcWVqOEdmTmFvNlQ3YkM0aXp0X3JITFEwNGJjZlRDMnp6UVZSdEdHQm1ic3JJZ2ZKTUdnU0Jfc1NRNHlTV3RSUUVIZEU4S2xJSC1VM1Q1OVQ3dzZvYjg3aC1UUXhDRHc?oc=5",
+      "publishedAt": "2026-09-10T16:34:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Cinco coisas que você precisa saber sobre a promessa de Trump de um dividendo de US$ 5 mil",
-      "titleOriginal": "Five things to know about Trump's $5K dividend pledge",
+      "title": "Trump cita Charlie Kirk na convenção do RNC",
+      "titleOriginal": "Trump invokes Charlie Kirk at RNC convention",
+      "link": "https://thehill.com/newsletters/1230-report/6082115-trump-invokes-charlie-kirk-at-rnc-convention/",
+      "publishedAt": "2026-09-10T16:31:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Câmara dos Deputados deve agir para cortar o suprimento de gás do Ártico que sustenta Putin",
+      "titleOriginal": "The House must act to cut Putin's Arctic gas lifeline",
+      "link": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
+      "publishedAt": "2026-09-10T16:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "5 coisas que você precisa saber sobre a promessa de Trump de um dividendo de US$ 5 mil",
+      "titleOriginal": "5 things to know about Trump's $5K dividend pledge",
       "link": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
       "publishedAt": "2026-09-10T16:25:32.000Z"
     },
     {
       "source": "The Hill",
-      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
+      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em novo jogo online",
       "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
       "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
       "publishedAt": "2026-09-10T16:25:05.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O ex-presidente Bush transmite uma mensagem contundente ao general Dan Caine",
-      "titleOriginal": "Former President Bush delivers pointed message to general Dan Caine",
+      "title": "O ex-presidente Bush ao general Dan Caine: “Graças a Deus você está onde está”",
+      "titleOriginal": "Former President Bush to Gen. Dan Caine: 'Thank God you are where you are'",
       "link": "https://thehill.com/homenews/administration/6082051-george-w-bush-dan-caine-warnings-911-anniversary-speech/",
       "publishedAt": "2026-09-10T16:14:43.000Z"
     },
@@ -38,39 +66,11 @@
       "publishedAt": "2026-09-10T15:53:28.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Grupos de interesse gastam US$ 31 milhões em atividades de lobby no Congresso em relação ao projeto de lei de Cruz e Cantwell sobre esportes universitários",
-      "titleOriginal": "Interest groups spend $31 million lobbying Congress on Cruz, Cantwell college sports bill",
-      "link": "https://thehill.com/policy/sports-gaming/6081927-ncaa-college-sports-bill/",
-      "publishedAt": "2026-09-10T15:43:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump enfrenta reações negativas com a promessa de dividendos de US$ 5.000",
-      "titleOriginal": "Trump faces blowback with $5,000 dividend promise",
-      "link": "https://thehill.com/homenews/administration/6081944-trump-dividend-pledge-backlash/",
-      "publishedAt": "2026-09-10T15:41:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo voltam aos níveis registrados em maio e puxam Wall Street para baixo",
-      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-      "publishedAt": "2026-09-10T15:38:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Poluição em centros de dados de IA representa ameaça à saúde, alertam ex-funcionários da EPA",
-      "titleOriginal": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
-      "link": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
-      "publishedAt": "2026-09-10T15:33:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Audiência do “dia dos deputados” na Câmara apresenta propostas de reforma",
-      "titleOriginal": "House 'member day' hearing airs reform proposals",
-      "link": "https://thehill.com/opinion/congress-blog/6079308-house-rule-change-recommendations/",
-      "publishedAt": "2026-09-10T15:30:00.000Z"
+      "source": "Axios",
+      "title": "O Partido Republicano aproveita o aniversário do 11 de setembro para criticar os democratas de esquerda",
+      "titleOriginal": "GOP uses 9/11 anniversary to bash left-wing Dems",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9STHhUWEpGYmRCTmMyREdhMXhrZEFxdjdMZXhoN01jMm52Z05oLWFJWURsNFRfbTg1MjQwM21yR0FtcHk5SDJtYlliaFlTRlpjUGVyVnpvTTFvenZPUmF4cW8yY2Myd1UydHl1Q2J5dw?oc=5",
+      "publishedAt": "2026-09-10T15:52:35.000Z"
     }
   ]
 }
