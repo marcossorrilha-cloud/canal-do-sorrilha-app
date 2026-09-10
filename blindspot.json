@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-10T03:28:37.817Z",
-  "slot": "2026-09-10-AM",
+  "updatedAt": "2026-09-10T15:28:53.003Z",
+  "slot": "2026-09-10-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Citando a “limpeza étnica”, o Reino Unido proíbe as importações provenientes dos assentamentos israelenses na Cisjordânia",
-      "titleOriginal": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3U5QnVuR29BemY3Q3hKeHpJcE05UlFtdmJRSDNnNEQ4OGYtLW5VS0ttZUFmLWNab29reVRoX0FLdVllaGphTjRyQnJCT182ZWszaWFScjdKdjV0UWNNOWhiMzVhQmNMdXNDM0JZNE5mbl85VG5xQ2NrR19TeEM2aHVUWHZzOWtZVWVzWUgtaG9KWG5ha3VlNjA4dDFwNVE?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "“Que vergonha!”: Jimmy Kimmel percebe uma atitude “estranha” de Trump em relação a “três mulheres jovens e atraentes”",
+      "titleOriginal": "‘Shame On You!’: Jimmy Kimmel Spots ‘Weird’ Trump Move On ‘3 Young Attractive Women’",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnFRX215Y0t3WFlVTDJaTmpyTWJTbjlnSWM2TlY1Z3Zrb1JjcVVMekc4SDl5T2ROcDlDRkdGeF8ycUJLdEZZSlNPZkc4bkZMWE5DeTBJaFdOTC1zSWozMVRQcFRhSzZHNV9SNm1CQmJUNzJocjVEQWtnRGp3UlA3NXhYQkd3ZTdjOFlxalItX09lLUdBMUt3dDUxUdIBoAFBVV95cUxQR0tZbjgwYmt2eld3ZVFDWmJ3ZlBjY0hMNHhvUmhRX2tlTmthMXJvaUVCRl9MYW9zaEYzUW9tWEx5QnF0eVhmNE1VY3E0blFNVnVPNFFsSGJhd25TWmlmSjQwdWk5RDNvczVqaEtpU29CaDhzQld6SXJ0aDN1SEZsREp6OUl3ck83QnNZVExrRTBxQXYzYzFRQ2hEM2Uzckxa?oc=5",
+      "source": "HuffPost",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump exorta os republicanos a “continuarem lutando” na reta final para as eleições de meio de mandato",
-      "titleOriginal": "Trump Urges Republicans to ‘Keep Fighting’ Down Home Stretch to Midterm Elections",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZE5XOThEamFjTXJqRWNBMEpQT052dVVFODc3SzNOQmN4OERtdGZ4YjIyZjE1anQxTlBneTVETUZFSmpkb1lhbUFUamZWcldmOGQtUGJpbmgxRWM3SUd4YVlJdEtRUDZtdm05SzhTdGlFdEt2ZnlsLTVYc21MVHhWSjhQdnFXZnUzN2FyeEhMTjBnU2R1TEVOR2FoZm5PRFJ4VmxHQW85MnVTSkIyNzR6TnM2eTVFaUpObnBMdjNYRWlHWkhu0gHKAUFVX3lxTFBMckd5TXFXOUtXcnJsUFVFT0tHbDBiajJOYklQck1XSHd6TVV4ekE1dDNmMXdUQ19nVGgzSFRNSE1ILTQ4c0NHTDhsNzA0TVZ5Z1BVUlVHMnJabnRTQXlNQkpyMVpSVm54YXJzdnZuMDhoZVB0WVJwWC1YMVBybjJNUVdUVGFsdDFuUWpjMVlTUjYtTHJTOFB6UU1tZWJUS0d6M1NWQjl4UjFGRnlUMzFZa2ZkU3loeEdyNGg4WndrcllMZnBRWjVTb2c?oc=5",
-      "source": "Breitbart",
+      "title": "O advogado de Lindsay Clancy finalmente desmascara as teorias da conspiração do TikTok em torno do caso",
+      "titleOriginal": "Lindsay Clancy’s Lawyer Finally Blows Up TikTok Conspiracies Surrounding Case",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0JBN21WdGdMRjIxei05ODd5Q2pHVzhOYWs4T0thQ0FQYVQ0OG1lelJqUURZVnVfM3QtbXRTV1Y5aUltNk1BaXVYR0FKc25lZ1VRbnVYMlpiaXlQY0kzMzJObXQ2OUp6cVJjeUpsLUlJQ08zVUdkYWwzdlRkenNZNmRYWXE3d180dGVDeTVzdlBPSC03d2d2U3M4RXZTRW56NExXczd2bFB0VTg?oc=5",
+      "source": "Daily Wire",
       "coverage": 3
     }
   ]
