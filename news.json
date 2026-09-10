@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T13:27:07.222Z",
+  "updatedAt": "2026-09-10T13:52:19.535Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
+      "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
+      "publishedAt": "2026-09-10T13:29:15.000Z"
+    },
     {
       "source": "New York Times",
       "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
@@ -11,10 +18,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A China está roubando a IA americana? Por que a “destilação” deixou Washington em pé de guerra",
-      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
-      "publishedAt": "2026-09-10T12:57:59.000Z"
+      "title": "Exclusivo | Positron é avaliada em US$ 5 bilhões em nova rodada de financiamento, em meio ao aumento da demanda por CPUs",
+      "titleOriginal": "Exclusive | Positron Valued at $5 Billion in New Funding as CPU Demand Surges",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWpZd1RtLU1tcFpSOUoxYVYtd0gzeTZfanNNaVg1UWxoZ2lfSTFZV2MzdldoTDQyR0lCTGFUd1ZsTG8xcVRlZ1NZWHBPWWphNHdpTTVjSFAtREJnQzhZc0VaS3Vha3U0bVBPQXZqdmhRRlV0Rm9DWnE2MnFTTS1sTWlwajZ1VHFDanNianRkRnpkaG5WZ3ZfT01NdkkzaHlSbUw0?oc=5",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os planos do Medicare Advantage parecem estar reduzindo os benefícios em 2027",
+      "titleOriginal": "Medicare Advantage plans appear to be cutting benefits in 2027",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VV19pX3dhdHB5M2ZIS0I2X2lEY3VGbFdXaEhMa0NpT2gwLWdKdDVMYnpnMkVlNG1Bbm9RTllhU05yUHVzSHFJa2VWWU8yQWNXdTZoVXhrZjhrMTItdkVGNm54RWZlVTdGdzZDaUh1Y1RTQWY4cDNPRQ?oc=5",
+      "publishedAt": "2026-09-10T12:56:15.000Z"
     },
     {
       "source": "The Hill",
@@ -25,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Pode apostar: os laços da família Trump com os mercados de previsão vão se tornar um problema para a Receita Federal dos EUA",
+      "title": "Pode apostar: os laços da família Trump com os mercados de previsão vão se tornar um problema para a Receita Federal",
       "titleOriginal": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
       "link": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
       "publishedAt": "2026-09-10T12:30:00.000Z"
@@ -39,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "O'Reilly: “Fetterman vai se tornar republicano”",
+      "title": "O'Reilly: “Fetterman vai se tornar um republicano”",
       "titleOriginal": "O'Reilly: 'Fetterman is going to be a Republican'",
       "link": "https://thehill.com/homenews/senate/6080968-bill-oreilly-john-fetterman-democrats-republicans-midterms-gop-convention/",
       "publishedAt": "2026-09-10T12:03:17.000Z"
@@ -54,23 +68,9 @@
     {
       "source": "The Hill",
       "title": "Secretário de Estado do Missouri enfrenta audiência por desacato em meio à disputa sobre o redesenho dos distritos eleitorais",
-      "titleOriginal": "Missouri Secretary of State faces contempt hearing amid redistricting fight",
+      "titleOriginal": "Missouri Secretary of state faces contempt hearing amid redistricting fight",
       "link": "https://thehill.com/regulation/court-battles/6080998-missouri-secretary-of-state-denny-hoskins-contempt-hearing-redistricting-battle-midterms/",
       "publishedAt": "2026-09-10T11:48:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O homem que obrigou o Congresso a cuidar dos sobreviventes do 11 de setembro",
-      "titleOriginal": "The man who forced Congress to care for 9/11 survivors",
-      "link": "https://thehill.com/opinion/national-security/6077146-john-feal-911-advocacy/",
-      "publishedAt": "2026-09-10T11:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump e Fetterman causam surpresa na primeira noite da Convenção Nacional Republicana",
-      "titleOriginal": "Trump, Fetterman deliver surprises at RNC night 1",
-      "link": "https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1/",
-      "publishedAt": "2026-09-10T11:16:31.000Z"
     }
   ]
 }
