@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-09-10T01:52:17.194Z",
+  "updatedAt": "2026-09-10T02:28:36.147Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "“Sabe, não tivemos ninguém nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que entraram durante o governo Biden.”",
+      "title": "“Estou proporcionando a vocês os maiores cortes nos preços dos medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
+      "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
+      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
+      "publishedAt": "2026-09-10T02:21:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Mas já foram arrecadados trilhões de dólares em receitas com tarifas.”",
+      "titleOriginal": "“But trillions of dollars in tariff revenue have come in.”",
+      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/but-trillions-of-dollars-in-tariff-revenue-have-come-in",
+      "publishedAt": "2026-09-10T02:12:12.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“100 por cento — pense nisso — dos democratas votaram contra a identificação do eleitor.”",
+      "titleOriginal": "“100 percent — think of it — of the Democrats voted against voter ID.”",
+      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/100-percent-think-of-it-of-the-democrats-voted-against-voter-id",
+      "publishedAt": "2026-09-10T02:00:38.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Fetterman faz uma participação surpresa na convenção de Trump",
+      "titleOriginal": "Fetterman Has a Surprise Cameo at Trump’s Convention",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
+      "publishedAt": "2026-09-10T01:48:38.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Sabe, não tivemos ninguém nos últimos... zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que entraram durante o governo Biden.”",
       "titleOriginal": "“You know, we had zero for the last — zero people for the last 16 months. Can you believe it? We had 25 million come in under Biden.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/you-know-we-had-zero-for-the-last-zero-people-for-the-last-16-months-can-you-believe-it-we-had-25-million-come-in-under-biden",
       "publishedAt": "2026-09-10T01:35:34.000Z"
@@ -24,6 +52,13 @@
       "publishedAt": "2026-09-10T01:28:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova propensão à escalada",
+      "titleOriginal": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
+      "publishedAt": "2026-09-10T01:00:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Socialista democrático derrota o prefeito de Providence nas primárias",
       "titleOriginal": "Democratic socialist ousts Providence mayor in primary",
@@ -36,41 +71,6 @@
       "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
       "publishedAt": "2026-09-10T00:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Reed vence com facilidade as primárias democratas para o sexto mandato no Senado por Rhode Island",
-      "titleOriginal": "Reed easily wins Democratic primary for sixth Rhode Island Senate term",
-      "link": "https://thehill.com/homenews/campaign/6079928-reed-wins-rhode-island-senate-primary/",
-      "publishedAt": "2026-09-10T00:27:16.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Dan McKee se torna o primeiro governador em oito anos a perder as primárias",
-      "titleOriginal": "Dan McKee becomes first governor in 8 years to lose primary",
-      "link": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983",
-      "publishedAt": "2026-09-10T00:25:46.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
-      "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
-      "publishedAt": "2026-09-10T00:21:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Trump planeja enviar reembolsos de US$ 500 do Obamacare antes das eleições",
-      "titleOriginal": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSHdYVTlMSGh1b3dGV19UcnZTd05SRGFfQmdlV0VBRTBSZHlDZmhWcGNaLWNBelI2c09iX1RHQmw0QkVRdmszVF80SEZmdnBrMW9lRE92X2NVc0RBTC1WR3BHR2xWdE9TU05YV1BSMkdCRzQ?oc=5",
-      "publishedAt": "2026-09-09T23:36:10.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Fetterman elogiará Trump em vídeo bombástico na convenção do Partido Republicano",
-      "titleOriginal": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
-      "publishedAt": "2026-09-09T23:27:21.000Z"
     }
   ]
 }
