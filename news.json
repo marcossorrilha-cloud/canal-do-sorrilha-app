@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-10T15:28:44.865Z",
+  "updatedAt": "2026-09-10T15:51:36.843Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Grupos de interesse gastam US$ 31 milhões em atividades de lobby no Congresso em relação ao projeto de lei de Cruz e Cantwell sobre esportes universitários",
+      "titleOriginal": "Interest groups spend $31 million lobbying Congress on Cruz, Cantwell college sports bill",
+      "link": "https://thehill.com/policy/sports-gaming/6081927-ncaa-college-sports-bill/",
+      "publishedAt": "2026-09-10T15:43:22.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Poluição em centros de dados de IA representa ameaça à saúde, alertam ex-funcionários da EPA",
+      "titleOriginal": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
+      "link": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
+      "publishedAt": "2026-09-10T15:33:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Audiência do “dia dos deputados” na Câmara apresenta propostas de reforma",
+      "titleOriginal": "House 'member day' hearing airs reform proposals",
+      "link": "https://thehill.com/opinion/congress-blog/6079308-house-rule-change-recommendations/",
+      "publishedAt": "2026-09-10T15:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump sugere cheques de US$ 5.000 como “dividendo Trump” caso os republicanos vençam as eleições de meio de mandato",
+      "titleOriginal": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
+      "publishedAt": "2026-09-10T15:29:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Denver entra com ação judicial para impedir a presença de agentes do ICE nos locais de votação",
+      "titleOriginal": "Denver sues to block ICE officers from voting sites",
+      "link": "https://thehill.com/regulation/court-battles/6081890-denver-lawsuit-ice-polling-sites/",
+      "publishedAt": "2026-09-10T15:29:24.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
@@ -18,17 +53,10 @@
     },
     {
       "source": "The Hill",
-      "title": "A extradição está se tornando uma moeda de troca política — veja como os estados podem impedir isso",
+      "title": "A extradição está se tornando uma bola de jogo político — veja como os estados podem impedir isso",
       "titleOriginal": "Extradition is becoming a political football — here's how the states can stop it",
       "link": "https://thehill.com/opinion/judiciary/6077349-texas-minnesota-extradition-loophole/",
       "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: OpenAI enfrenta investigação do Senado sobre a violação de dados da Hugging Face",
-      "titleOriginal": "Scoop: OpenAI faces Senate probe into Hugging Face breach",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5",
-      "publishedAt": "2026-09-10T14:59:58.000Z"
     },
     {
       "source": "The Hill",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Os preços do petróleo voltam aos níveis de maio e puxam Wall Street para baixo",
+      "title": "Os preços do petróleo voltam aos níveis registrados em maio e puxam Wall Street para baixo",
       "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
       "publishedAt": "2026-09-10T14:28:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataque israelense em Gaza mata pelo menos quatro pessoas, incluindo crianças, e outros acontecimentos no Oriente Médio",
-      "titleOriginal": "Israeli strike in Gaza kills at least 4, including children, and other Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR?oc=5",
-      "publishedAt": "2026-09-10T14:11:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Positron é avaliada em US$ 5 bilhões em nova rodada de financiamento, em meio ao aumento da demanda por chips de IA",
-      "titleOriginal": "Exclusive | Positron Valued at $5 Billion in New Funding as Demand for AI Chips Surges",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWpZd1RtLU1tcFpSOUoxYVYtd0gzeTZfanNNaVg1UWxoZ2lfSTFZV2MzdldoTDQyR0lCTGFUd1ZsTG8xcVRlZ1NZWHBPWWphNHdpTTVjSFAtREJnQzhZc0VaS3Vha3U0bVBPQXZqdmhRRlV0Rm9DWnE2MnFTTS1sTWlwajZ1VHFDanNianRkRnpkaG5WZ3ZfT01NdkkzaHlSbUw0?oc=5",
-      "publishedAt": "2026-09-10T14:08:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas poderiam conquistar o controle do Senado? O que mostra a previsão do DDHQ: debate ao vivo",
-      "titleOriginal": "Could Democrats win Senate control? What the DDHQ forecast shows: Live discussion",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/6081382-democratic-chances-senate-control-midterms-ddhq-live-discussion/",
-      "publishedAt": "2026-09-10T13:55:07.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
-      "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
-      "publishedAt": "2026-09-10T13:29:15.000Z"
     }
   ]
 }
