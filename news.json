@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-10T03:52:36.708Z",
+  "updatedAt": "2026-09-10T04:28:30.638Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra com o Irã na convenção de Trump",
+      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra contra o Irã na convenção de Trump",
       "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
       "publishedAt": "2026-09-10T03:36:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A promessa de Trump de um “dividendo” de US$ 5.000 é sua maior jogada eleitoral até agora",
+      "titleOriginal": "Trump’s $5,000 ‘Dividend’ Promise Is His Biggest Election Gambit Yet",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2NmUTVoUUl2c0hYWkdYQ25oQU5RdXdTSmVPNUo1LThNNXAxZUFnc2hwLUU3cWxPYkhYQVl6aUh6MlRKN1VtTUhkVWQ1R0RVb3cxMzhPSndINUp0c1VucEMxVkd6emg3TThPVG9hYkgxMWNiaW43V1FkMXVlZ1dfV05mNmgzTFB6ZDNPQjlUXzJxaE9wVVNUNXBWb2hHR1pDb0tNemFQRmtlX2R4NFE?oc=5",
+      "publishedAt": "2026-09-10T03:06:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: O PAC da J Street está gastando US$ 3 milhões para derrotar os republicanos apoiados pela AIPAC",
+      "titleOriginal": "Scoop: J Street PAC spending $3M to defeat AIPAC-backed Republicans",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2VCYkhUOVg5bTI5cG52YjFWZzNvbWlnSk0zTmEzVE9MYzdKRTdQR0NYeHZPSFdDbDRXbVkwd2VrSzIwMGE0TnF5NktJMk9Wa3ZjY2VjZ3pCZEV6ZFRnRGlubHN5a2tVQjlGQUdmeTJWQ1Vib25PakFSWjFUaDR6dm1rWVFTVFJkM1NtOQ?oc=5",
+      "publishedAt": "2026-09-10T02:53:38.000Z"
     },
     {
       "source": "The Hill",
@@ -15,6 +29,13 @@
       "titleOriginal": "Trump pledges $5K 'Trump dividend' if Republicans hold onto Congress",
       "link": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
       "publishedAt": "2026-09-10T02:48:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Governo de Trump propõe eliminar perguntas sobre raça do Censo",
+      "titleOriginal": "Trump Administration Proposes Eliminating Race Questions From Census",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjM5YmozTDJSYkh4SThEYkFFdzVobTRjM2tXZXVaazZ6SmpKQTM5TVNGNjNsV2dKaGk4dUZQU3Q4UW5hZ29naGF1c3ZabXQybUZjSGVyUDJXYWFWdW9xRjRzSUhHbi0tOFE3TVBuZWxwVE5jMWFzM1kxQzZIRUMzRUYzemt2NWtHWThHQ09aM1pWRW93eHZPdGxYS09zOGFuRGZzT1Zwby0?oc=5",
+      "publishedAt": "2026-09-10T02:48:00.000Z"
     },
     {
       "source": "New York Times",
@@ -32,45 +53,24 @@
     },
     {
       "source": "New York Times",
-      "title": "“100 por cento — pense nisso — dos democratas votaram contra a exigência de identificação do eleitor.”",
+      "title": "“100 por cento — pense nisso — dos democratas votaram contra a identificação do eleitor.”",
       "titleOriginal": "“100 percent — think of it — of the Democrats voted against voter ID.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/100-percent-think-of-it-of-the-democrats-voted-against-voter-id",
       "publishedAt": "2026-09-10T02:00:38.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Fetterman faz uma participação especial de surpresa na convenção de Trump",
+      "title": "Fetterman faz uma participação surpresa na convenção de Trump",
       "titleOriginal": "Fetterman Has a Surprise Cameo at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
       "publishedAt": "2026-09-10T01:48:38.000Z"
     },
     {
       "source": "New York Times",
-      "title": "“Sabe, não tivemos ninguém nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de imigrantes que entraram durante o governo Biden.”",
+      "title": "“Sabe, tivemos zero nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que entraram durante o governo Biden.”",
       "titleOriginal": "“You know, we had zero for the last — zero people for the last 16 months. Can you believe it? We had 25 million come in under Biden.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/you-know-we-had-zero-for-the-last-zero-people-for-the-last-16-months-can-you-believe-it-we-had-25-million-come-in-under-biden",
       "publishedAt": "2026-09-10T01:35:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "AOC entra na campanha eleitoral da candidata ao Senado Angie Nixon, na Flórida",
-      "titleOriginal": "AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html",
-      "publishedAt": "2026-09-10T01:29:37.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova propensão à escalada",
-      "titleOriginal": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
-      "publishedAt": "2026-09-10T01:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Socialista democrático derrota o prefeito de Providence nas primárias",
-      "titleOriginal": "Democratic socialist ousts Providence mayor in primary",
-      "link": "https://thehill.com/homenews/campaign/6079175-democratic-socialist-wins-providence-mayoral-primary/",
-      "publishedAt": "2026-09-10T00:35:55.000Z"
     }
   ]
 }
