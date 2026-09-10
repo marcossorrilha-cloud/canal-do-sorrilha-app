@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-10T20:50:43.525Z",
+  "updatedAt": "2026-09-10T21:24:52.458Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Lummis intensifica a pressão sobre os democratas em relação ao projeto de lei sobre criptomoedas",
+      "titleOriginal": "Lummis ramps up pressure on Democrats over crypto bill",
+      "link": "https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/",
+      "publishedAt": "2026-09-10T21:20:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ataques de 11 de setembro estão entre os “eventos históricos mais importantes” na vida dos adultos norte-americanos: pesquisa",
+      "titleOriginal": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
+      "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
+      "publishedAt": "2026-09-10T21:14:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Governo de Trump afirma que os EUA trabalharão com o Peru no combate ao crime",
+      "titleOriginal": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
+      "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
+      "publishedAt": "2026-09-10T21:05:52.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Alguns republicanos relutam em aceitar a oferta de Trump de um “dividendo” de US$ 5.000",
+      "titleOriginal": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
+      "publishedAt": "2026-09-10T21:04:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Sam Bankman-Fried pede à Suprema Corte que reexamine sua condenação por fraude",
+      "titleOriginal": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html",
+      "publishedAt": "2026-09-10T21:02:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Talarico lidera Paxton no Texas por 4 pontos: pesquisa",
+      "titleOriginal": "Talarico leads Paxton in Texas by 4 points: Poll",
+      "link": "https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/",
+      "publishedAt": "2026-09-10T21:02:08.000Z"
+    },
     {
       "source": "New York Times",
       "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
@@ -11,17 +53,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a Guerra do Irã",
+      "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a guerra no Irã",
       "titleOriginal": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
       "publishedAt": "2026-09-10T20:38:27.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Governo de Trump afirma que os EUA trabalharão com o Peru no combate ao crime",
-      "titleOriginal": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
-      "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
-      "publishedAt": "2026-09-10T20:35:20.000Z"
+      "source": "AP News",
+      "title": "Zelenskyy visita o Canadá para buscar mais apoio militar para a Ucrânia",
+      "titleOriginal": "Zelenskyy visits Canada to seek further military support for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
+      "publishedAt": "2026-09-10T20:32:00.000Z"
     },
     {
       "source": "The Hill",
@@ -29,48 +71,6 @@
       "titleOriginal": "DDHQ shifts Senate odds to Democrats, then back to GOP: 'A coin flip'",
       "link": "https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq/",
       "publishedAt": "2026-09-10T20:31:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Sam Bankman-Fried pede ao Supremo Tribunal Federal que reexamine sua condenação por fraude",
-      "titleOriginal": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html",
-      "publishedAt": "2026-09-10T20:28:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
-      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-10T20:22:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rubio afirma que “não tem planos, neste momento”, de concorrer à presidência",
-      "titleOriginal": "Rubio says he has 'no plans at this time' to run for president",
-      "link": "https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run/",
-      "publishedAt": "2026-09-10T20:19:40.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preços do petróleo disparam para o nível mais alto desde maio e levam Wall Street a uma queda",
-      "titleOriginal": "Oil prices leap to their highest since May and drag Wall Street lower",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-      "publishedAt": "2026-09-10T20:10:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
-      "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
-      "link": "https://thehill.com/homenews/6082275-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
-      "publishedAt": "2026-09-10T20:06:32.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
-      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "publishedAt": "2026-09-10T19:57:51.000Z"
     }
   ]
 }
