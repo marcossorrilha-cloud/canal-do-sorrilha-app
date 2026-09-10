@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T00:53:58.947Z",
+  "updatedAt": "2026-09-10T01:26:24.354Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "AOC entra na campanha eleitoral da candidata ao Senado Angie Nixon, na Flórida",
+      "titleOriginal": "AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html",
+      "publishedAt": "2026-09-10T00:51:19.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Socialista democrático derrota o prefeito de Providence nas primárias",
@@ -11,7 +18,7 @@
     },
     {
       "source": "AP News",
-      "title": "O preço do petróleo ultrapassa os US$ 100 por barril, à medida que os EUA e o Irã lançam novos ataques, enquanto os preços da gasolina também disparam",
+      "title": "O preço do petróleo ultrapassa os US$ 100 por barril enquanto os EUA e o Irã lançam novos ataques; ao mesmo tempo, os preços da gasolina também disparam",
       "titleOriginal": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
       "publishedAt": "2026-09-10T00:35:00.000Z"
@@ -32,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
+      "title": "A reforma do censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
       "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
       "publishedAt": "2026-09-10T00:21:27.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "House GOP leaders use convention speeches to take aim at 'crazy communists'",
       "link": "https://thehill.com/homenews/campaign/6080427-scalise-emmer-anti-communist-rnc-convention/",
       "publishedAt": "2026-09-09T23:13:26.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: O PAC da J Street está gastando US$ 3 milhões para derrotar republicanos apoiados pela AIPAC",
-      "titleOriginal": "Scoop: J Street PAC spending $3M to defeat AIPAC-backed Republicans",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2VCYkhUOVg5bTI5cG52YjFWZzNvbWlnSk0zTmEzVE9MYzdKRTdQR0NYeHZPSFdDbDRXbVkwd2VrSzIwMGE0TnF5NktJMk9Wa3ZjY2VjZ3pCZEV6ZFRnRGlubHN5a2tVQjlGQUdmeTJWQ1Vib25PakFSWjFUaDR6dm1rWVFTVFJkM1NtOQ?oc=5",
-      "publishedAt": "2026-09-09T23:04:54.000Z"
     }
   ]
 }
