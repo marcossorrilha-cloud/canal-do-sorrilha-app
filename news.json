@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-10T11:51:13.991Z",
+  "updatedAt": "2026-09-10T12:34:14.247Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump, sobre a vaia da plateia da convenção a Thune: “Não, não. O John está se esforçando bastante”",
+      "titleOriginal": "Trump on convention crowd booing Thune: 'No, no. John is working hard'",
+      "link": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
+      "publishedAt": "2026-09-10T12:32:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pode apostar: os laços da família Trump com os mercados de previsão vão se tornar um problema para a Receita Federal",
+      "titleOriginal": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
+      "link": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
+      "publishedAt": "2026-09-10T12:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que considerar a China como uma potência emergente comum é uma visão equivocada",
+      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
+      "publishedAt": "2026-09-10T12:26:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O'Reilly: “Fetterman vai se tornar um republicano”",
+      "titleOriginal": "O'Reilly: 'Fetterman is going to be a Republican'",
+      "link": "https://thehill.com/homenews/senate/6080968-bill-oreilly-john-fetterman-democrats-republicans-midterms-gop-convention/",
+      "publishedAt": "2026-09-10T12:03:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na disputa eleitoral: Um ano após o assassinato de Charlie Kirk, a Turning Point USA segue em frente",
+      "titleOriginal": "On the Ballot: One year after Charlie Kirk’s assassination, Turning Point USA presses on",
+      "link": "https://thehill.com/homenews/6078925-on-the-ballot-charlie-kirk-assasination-turning-point-usa/",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Secretário de Estado do Missouri enfrenta audiência por desacato em meio à disputa sobre o redesenho dos distritos eleitorais",
@@ -31,46 +66,11 @@
       "publishedAt": "2026-09-10T11:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump faz uma promessa já conhecida: cheques de US$ 5.000 para todos",
-      "titleOriginal": "Trump makes a familiar promise: $5,000 checks for everyone",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NTFtOXRhQU4xeS1aVnRXQ1RvYVAyOWVOQXZSVklZOFUycFFPOVlwbnVlTFlfTTVlZTRzRTVzTGp1NHFUME1udXpiOGlsRUpZRHN2UTBTTVFpLWFtcUUydWVldEVkRXV4Snc?oc=5",
-      "publishedAt": "2026-09-10T10:14:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ford está empatado com Lombardo na acirrada disputa pelo governo de Nevada: pesquisa",
-      "titleOriginal": "Ford neck and neck with Lombardo in toss-up Nevada governor's race: Poll",
-      "link": "https://thehill.com/homenews/campaign/6080153-ford-lombardo-nevada-gubernatorial-poll/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os republicanos da Câmara apoiam a reeleição de Max Miller, mas mantêm distância",
-      "titleOriginal": "House Republicans back Max Miller reelection, but keep their distance",
-      "link": "https://thehill.com/homenews/house/6080271-house-gop-max-miller-ohio/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Doadores democratas determinados a derrubar Trump afirmam que estão abrindo os talões de cheques",
-      "titleOriginal": "Democratic donors determined to oust Trump say they’re opening checkbooks",
-      "link": "https://thehill.com/homenews/campaign/6079964-trump-opposition-dnc-funding/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O elefante na sala na Convenção Nacional Republicana: o dinheiro de Trump",
-      "titleOriginal": "The elephant in the room at the RNC: Trump's money",
-      "link": "https://thehill.com/homenews/administration/6080226-trump-campaign-spending-gop-convention/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A indignação pública em relação ao boom da IA gera preocupações no Partido Republicano para as eleições de meio de mandato",
-      "titleOriginal": "Public anger over AI boom triggers GOP midterm worries",
-      "link": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Se Trump não consegue lotar uma arena em Dallas, será que ele conseguirá mobilizar eleitores em novembro?",
+      "titleOriginal": "If Trump Can’t Fill a Dallas Arena, Can He Turn Out a November Vote?",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelU3OUp4eGMxZFZ2amMwd3RaSjJVYWFzVi14SFlwTHZxd3NENTllU3VsV3hOUkNzNG1SZkZEeTVsbTc4amlHSlJjM3NxT1JVYnNOM3hVOVNIdWhlMHV2T3VaMVV4TXBBMzJOeEt3WjVqdjlWS1N0UW5lZXJsd3FTZmZzM2gyYjVxekxDZDM4MEJnNVFTN2tpUXA4ZnBjOGUxcGZGOTNR?oc=5",
+      "publishedAt": "2026-09-10T10:56:59.000Z"
     }
   ]
 }
