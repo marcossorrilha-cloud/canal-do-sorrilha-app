@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T03:28:30.398Z",
+  "updatedAt": "2026-09-10T03:52:36.708Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra com o Irã na convenção de Trump",
+      "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
+      "publishedAt": "2026-09-10T03:36:08.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump promete um “dividendo Trump” de US$ 5 mil caso os republicanos mantenham o controle do Congresso",
@@ -11,7 +18,7 @@
     },
     {
       "source": "New York Times",
-      "title": "“Estou oferecendo a vocês as maiores reduções de preço de medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
+      "title": "“Estou proporcionando a vocês as maiores reduções de preço de medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
       "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
       "publishedAt": "2026-09-10T02:21:07.000Z"
@@ -25,21 +32,21 @@
     },
     {
       "source": "New York Times",
-      "title": "“100 por cento — pense nisso — dos democratas votaram contra a identificação do eleitor.”",
+      "title": "“100 por cento — pense nisso — dos democratas votaram contra a exigência de identificação do eleitor.”",
       "titleOriginal": "“100 percent — think of it — of the Democrats voted against voter ID.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/100-percent-think-of-it-of-the-democrats-voted-against-voter-id",
       "publishedAt": "2026-09-10T02:00:38.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Fetterman faz uma participação surpresa na convenção de Trump",
+      "title": "Fetterman faz uma participação especial de surpresa na convenção de Trump",
       "titleOriginal": "Fetterman Has a Surprise Cameo at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
       "publishedAt": "2026-09-10T01:48:38.000Z"
     },
     {
       "source": "New York Times",
-      "title": "“Sabe, não tivemos ninguém nos últimos... zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que chegaram durante o governo Biden.”",
+      "title": "“Sabe, não tivemos ninguém nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de imigrantes que entraram durante o governo Biden.”",
       "titleOriginal": "“You know, we had zero for the last — zero people for the last 16 months. Can you believe it? We had 25 million come in under Biden.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/you-know-we-had-zero-for-the-last-zero-people-for-the-last-16-months-can-you-believe-it-we-had-25-million-come-in-under-biden",
       "publishedAt": "2026-09-10T01:35:34.000Z"
@@ -52,15 +59,8 @@
       "publishedAt": "2026-09-10T01:29:37.000Z"
     },
     {
-      "source": "AP News",
-      "title": "As proteções temporárias para cerca de 200 mil imigrantes salvadorenhos estão em suspenso à medida que o prazo se aproxima",
-      "titleOriginal": "Temporary protections for about 200,000 Salvadoran immigrants are in limbo as deadline nears",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmt4d0dMbHNLb1REbFVFVV9PLWg4b05TUmZTTUhCWVJTaFZ2el9nWi1MbUt1eFh6YTJFcEpEZWhMTHMtNFE4ZUw2Mk1oVkRlZm5TWHhEZEJkYXZ4dnRwYjY4bnRwdmlNZjc5dUR6TDNRQThEMVFHUnVBdm05NFlrMWlMOFAyMkE0Y0Y2SHNiRFhsTWgySFZKN3NieEhnb2F2Wm1ya2NBRHZST295SXc?oc=5",
-      "publishedAt": "2026-09-10T01:28:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova disposição para a escalada",
+      "title": "Com incidentes de risco envolvendo navios de guerra dos EUA, o Irã demonstra uma nova propensão à escalada",
       "titleOriginal": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
       "publishedAt": "2026-09-10T01:00:00.000Z"
