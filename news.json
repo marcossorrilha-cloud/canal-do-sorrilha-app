@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-10T10:51:57.173Z",
+  "updatedAt": "2026-09-10T11:27:07.371Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump e Fetterman causam surpresa na primeira noite da Convenção Nacional Republicana",
+      "titleOriginal": "Trump, Fetterman deliver surprises at RNC night 1",
+      "link": "https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1/",
+      "publishedAt": "2026-09-10T11:16:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na Ucrânia, Putin está ficando sem tempo e sem opções",
+      "titleOriginal": "In Ukraine, Putin is running out of time and options",
+      "link": "https://thehill.com/opinion/national-security/6078388-russia-nato-escalation-threats/",
+      "publishedAt": "2026-09-10T11:00:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Inflação ao consumidor e ao produtor na China registram ligeiro aumento",
       "titleOriginal": "China’s Consumer, Producer Inflation Edge Higher",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2dYTndOblJqbl9lVFRaTEhoa3RkeDJTYXVMTUlCcG9MeFhkNnRxdGZ4THJNdVBSSXZmSUJDTF8xQjV1SXJPbjl4M3pwV2xBbEdadEVwTFBjS2ltOW5tWkR6RlVGWnFKcEd2XzY4dWZLOXFNR0tqejQ0bmVFbnVKVU5iQkdiRjY2R0tZ?oc=5",
       "publishedAt": "2026-09-10T10:32:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump faz uma promessa já conhecida: cheques de US$ 5.000 para todos",
+      "titleOriginal": "Trump makes a familiar promise: $5,000 checks for everyone",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NTFtOXRhQU4xeS1aVnRXQ1RvYVAyOWVOQXZSVklZOFUycFFPOVlwbnVlTFlfTTVlZTRzRTVzTGp1NHFUME1udXpiOGlsRUpZRHN2UTBTTVFpLWFtcUUydWVldEVkRXV4Snc?oc=5",
+      "publishedAt": "2026-09-10T10:14:54.000Z"
     },
     {
       "source": "The Hill",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-10T10:00:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Grupo de defesa da IA lança iniciativa política em nível estadual",
-      "titleOriginal": "AI advocacy group launches state-level policy push",
-      "link": "https://thehill.com/policy/technology/6079886-ari-launches-state-ai-policy-push/",
-      "publishedAt": "2026-09-10T09:30:00.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "O Partido Republicano aproveita o aniversário do 11 de setembro para atacar os democratas de esquerda",
-      "titleOriginal": "GOP uses 9/11 anniversary to bash left-wing Dems",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9STHhUWEpGYmRCTmMyREdhMXhrZEFxdjdMZXhoN01jMm52Z05oLWFJWURsNFRfbTg1MjQwM21yR0FtcHk5SDJtYlliaFlTRlpjUGVyVnpvTTFvenZPUmF4cW8yY2Myd1UydHl1Q2J5dw?oc=5",
-      "publishedAt": "2026-09-10T09:24:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Departamento de Justiça intensifica as ameaças aos estados na disputa pelos registros eleitorais",
-      "titleOriginal": "D.O.J. Escalates Threats to States in Battle for Election Records",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
-      "publishedAt": "2026-09-10T09:04:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
-      "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
-      "publishedAt": "2026-09-10T09:04:27.000Z"
+      "title": "O X, de Elon Musk, é o chat em grupo da comunidade de IA",
+      "titleOriginal": "Elon Musk's X is the AI community group chat",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tRDVaNGNmcHhPTU9GOVpwVUx1SkhncGNqU2pfdllJWVp1UVRBemtORTRpSGlPdFgtY1phZFc1Sl85OTNXVTN2V1pRekdIX19nMDB2MXI2OVJuOTd0M2RoRTdTeXpTZjY5UWdyZVVYWjVRS1JEWDI0?oc=5",
+      "publishedAt": "2026-09-10T09:47:50.000Z"
     }
   ]
 }
