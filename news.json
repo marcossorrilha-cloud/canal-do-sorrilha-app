@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:29:13.116Z",
+  "updatedAt": "2026-09-10T07:52:21.480Z",
   "count": 10,
   "items": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Trump sugere cheques de US$ 5.000 como “dividendo Trump” caso os republicanos vençam as eleições de meio de mandato",
+      "title": "Trump sugere a distribuição de cheques de US$ 5.000, chamados de “Dividendo Trump”, caso os republicanos vençam as eleições intermediárias",
       "titleOriginal": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
       "publishedAt": "2026-09-10T05:35:19.000Z"
@@ -24,18 +24,25 @@
       "publishedAt": "2026-09-10T05:31:32.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
+      "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "publishedAt": "2026-09-10T05:30:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
+      "titleOriginal": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
+      "publishedAt": "2026-09-10T05:22:40.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra com o Irã na convenção de Trump",
       "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
       "publishedAt": "2026-09-10T05:09:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump implora ao Partido Republicano para que “finja” que ele está na cédula eleitoral de novembro na primeira noite da convenção das eleições de meio de mandato",
-      "titleOriginal": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-      "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "publishedAt": "2026-09-10T04:14:42.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -46,7 +53,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Acordo envolvendo drones dá início à consolidação no setor ucraniano, composto por 500 empresas",
+      "title": "Exclusivo | Acordo envolvendo drones dá início à consolidação no setor ucraniano, que conta com 500 empresas",
       "titleOriginal": "Exclusive | Drone Deal Kicks Off Consolidation in Ukraine’s 500-Company Industry",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjSldxcXZySEw2ckYxdWwyTVZqNndpSlBVd016WDJyRWw4a1Azd29GODZwTHFNTm5QVG5CVlluSEtuLVNaWEo1NEc3dFdncnNCUXV0ZmhTaW9HZ1pFc2s2c2VhaV9JOF9VSENrbVNFQlJDWGlRN2I4QncyaDBwMERrOUVtaGpiSVlIWW1KUnJlSGFhX1JoSi1hdXBLeEJZbHNjek5Uazk?oc=5",
       "publishedAt": "2026-09-10T04:01:00.000Z"
@@ -60,17 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Governo de Trump propõe eliminar perguntas sobre raça do Censo",
+      "title": "Governo de Trump propõe a eliminação das perguntas sobre raça do Censo",
       "titleOriginal": "Trump Administration Proposes Eliminating Race Questions From Census",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjM5YmozTDJSYkh4SThEYkFFdzVobTRjM2tXZXVaazZ6SmpKQTM5TVNGNjNsV2dKaGk4dUZQU3Q4UW5hZ29naGF1c3ZabXQybUZjSGVyUDJXYWFWdW9xRjRzSUhHbi0tOFE3TVBuZWxwVE5jMWFzM1kxQzZIRUMzRUYzemt2NWtHWThHQ09aM1pWRW93eHZPdGxYS09zOGFuRGZzT1Zwby0?oc=5",
       "publishedAt": "2026-09-10T02:48:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
-      "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
-      "publishedAt": "2026-09-10T02:28:47.000Z"
     }
   ]
 }
