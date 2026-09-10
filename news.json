@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-10T08:53:16.363Z",
+  "updatedAt": "2026-09-10T09:28:52.482Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Dólar recua acompanhando a queda nos rendimentos dos títulos do Tesouro e nos preços do petróleo",
-      "titleOriginal": "Dollar Declines Along Lower Treasury Yields, Oil Prices",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnBlLTNqR1B1TElLeTdjVEtmbWdWVlBYT2pKLTk5UWxHUm5taEE5RkdCczc4UUxmM3l4aU1qRkdscGI2TUp2aVdtM1dURE92bjRzdVVPVWhQb3FmMVFZZjVmeXR0cHVuUExPaEFQTlRadXlpdElTQnBEMTh1YnU0QjQ4R2drZGVmbF9JSHNqRHNFZ0kxSjBVSQ?oc=5",
-      "publishedAt": "2026-09-10T07:08:00.000Z"
+      "source": "New York Times",
+      "title": "O Departamento de Justiça intensifica as ameaças aos estados na disputa pelos registros eleitorais",
+      "titleOriginal": "D.O.J. Escalates Threats to States in Battle for Election Records",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
+      "publishedAt": "2026-09-10T09:04:49.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump sugere cheques de US$ 5.000 como “dividendo Trump” caso os republicanos vençam as eleições intermediárias",
+      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
+      "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
+      "publishedAt": "2026-09-10T09:04:26.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Coreia do Sul está prestes a fechar acordo envolvendo bilhões em investimentos dos EUA, uma vitória para Trump",
+      "titleOriginal": "Exclusive | South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy10cDBublphQmRWMzBUdzZrejdIVm5qUkl6Y1dFN0N3NWhqX3lxLVFOVnBIOGFDaE5xWFBkZjZScXJNeWs0blBrN21uREJpNmFpVmJWeFpIZFN3U0o4dzlBa2YyWDc4ZExYQzhCTWJ6bks4b0hMc25aT0JtVVBqMEFEcGplU2tzNXlFNzZMUVJlc04ycHotV0ZkVU96aDUtelFPek5ISThfTFlCSzRQNXlUZHA?oc=5",
+      "publishedAt": "2026-09-10T06:40:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações asiáticas caem e preços do petróleo são negociados acima de US$ 100 por barril",
+      "titleOriginal": "Asian shares fall and oil prices trade above $100 a barrel",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "publishedAt": "2026-09-10T06:25:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump sugere cheques de US$ 5.000 do “Dividendo Trump” caso os republicanos vençam as eleições intermediárias",
       "titleOriginal": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
       "publishedAt": "2026-09-10T05:35:19.000Z"
@@ -25,10 +46,17 @@
     },
     {
       "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
+      "title": "Fetterman elogia Trump em vídeo bombástico na convenção do Partido Republicano",
       "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "publishedAt": "2026-09-10T05:30:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A IA está tornando mais difícil confiar nos próprios olhos nesta eleição",
+      "titleOriginal": "AI is making it harder to trust your own eyes this election",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNkd4blVoV0FxZ2RjNlIxeUI2aHNVcFBDcHUxNzV0ZnVaX25Pd2l1Y3d5R0hMQlUxRms5WDJ2NDNKVzliNGFwNTVOdHh5bVdrQWpIbDk4MWl1OTJWRjZRQ3FjX0RyVUtpQk9pX3FvME4xY25sdVUxN2FVMWw1cFU?oc=5",
+      "publishedAt": "2026-09-10T05:14:20.000Z"
     },
     {
       "source": "New York Times",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-09-10T05:09:24.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump implora ao Partido Republicano para que “finjam” que ele está na cédula eleitoral de novembro, na primeira noite da convenção das eleições de meio de mandato",
-      "titleOriginal": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-      "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "publishedAt": "2026-09-10T04:14:42.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Centros de dados impulsionam os preços do urânio",
-      "titleOriginal": "Data Centers Light Fire Under Uranium Prices",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVFBobzVWNWdXMlZvVTNtQVpKbGxQVmRFWEhta0VvMXdQc0xsSklWX2RFTnppbEktMkZTZDlnR2ZmYm9qanQ0UDZDYVViYy1mNlBpbmdUSk5Da0piT0FYX1dFZHdUbmRybGQ5NXBSRGtXekhHRXY5WXFKRzg1OVg4OUtJWmJLZXpscUpDSFNIYlNuczdSbmNnUzQycERBRG5rT2x3?oc=5",
-      "publishedAt": "2026-09-10T04:11:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Acordo envolvendo drones dá início à consolidação no setor ucraniano, que conta com 500 empresas",
-      "titleOriginal": "Exclusive | Drone Deal Kicks Off Consolidation in Ukraine’s 500-Company Industry",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjSldxcXZySEw2ckYxdWwyTVZqNndpSlBVd016WDJyRWw4a1Azd29GODZwTHFNTm5QVG5CVlluSEtuLVNaWEo1NEc3dFdncnNCUXV0ZmhTaW9HZ1pFc2s2c2VhaV9JOF9VSENrbVNFQlJDWGlRN2I4QncyaDBwMERrOUVtaGpiSVlIWW1KUnJlSGFhX1JoSi1hdXBLeEJZbHNjek5Uazk?oc=5",
-      "publishedAt": "2026-09-10T04:01:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A promessa de Trump de um “dividendo” de US$ 5.000 é sua maior jogada eleitoral até agora",
-      "titleOriginal": "Trump’s $5,000 ‘Dividend’ Promise Is His Biggest Election Gambit Yet",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2NmUTVoUUl2c0hYWkdYQ25oQU5RdXdTSmVPNUo1LThNNXAxZUFnc2hwLUU3cWxPYkhYQVl6aUh6MlRKN1VtTUhkVWQ1R0RVb3cxMzhPSndINUp0c1VucEMxVkd6emg3TThPVG9hYkgxMWNiaW43V1FkMXVlZ1dfV05mNmgzTFB6ZDNPQjlUXzJxaE9wVVNUNXBWb2hHR1pDb0tNemFQRmtlX2R4NFE?oc=5",
-      "publishedAt": "2026-09-10T03:06:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Governo Trump propõe a eliminação das perguntas sobre raça do Censo",
-      "titleOriginal": "Trump Administration Proposes Eliminating Race Questions From Census",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjM5YmozTDJSYkh4SThEYkFFdzVobTRjM2tXZXVaazZ6SmpKQTM5TVNGNjNsV2dKaGk4dUZQU3Q4UW5hZ29naGF1c3ZabXQybUZjSGVyUDJXYWFWdW9xRjRzSUhHbi0tOFE3TVBuZWxwVE5jMWFzM1kxQzZIRUMzRUYzemt2NWtHWThHQ09aM1pWRW93eHZPdGxYS09zOGFuRGZzT1Zwby0?oc=5",
-      "publishedAt": "2026-09-10T02:48:00.000Z"
+      "source": "Axios",
+      "title": "Departamento de Energia eleva em 33 centavos a previsão do preço do diesel para 2027 em meio à guerra no Irã",
+      "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
+      "publishedAt": "2026-09-10T04:15:53.000Z"
     }
   ]
 }
