@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-10T09:28:52.482Z",
+  "updatedAt": "2026-09-10T09:52:44.984Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Grupo de defesa da IA lança iniciativa para promover políticas em nível estadual",
+      "titleOriginal": "AI advocacy group launches state-level policy push",
+      "link": "https://thehill.com/policy/technology/6079886-ari-launches-state-ai-policy-push/",
+      "publishedAt": "2026-09-10T09:30:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O X, de Elon Musk, é o chat em grupo da comunidade de IA",
+      "titleOriginal": "Elon Musk's X is the AI community group chat",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tRDVaNGNmcHhPTU9GOVpwVUx1SkhncGNqU2pfdllJWVp1UVRBemtORTRpSGlPdFgtY1phZFc1Sl85OTNXVTN2V1pRekdIX19nMDB2MXI2OVJuOTd0M2RoRTdTeXpTZjY5UWdyZVVYWjVRS1JEWDI0?oc=5",
+      "publishedAt": "2026-09-10T09:20:10.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O Departamento de Justiça intensifica as ameaças aos estados na disputa pelos registros eleitorais",
@@ -25,14 +39,14 @@
     },
     {
       "source": "AP News",
-      "title": "Ações asiáticas caem e preços do petróleo são negociados acima de US$ 100 por barril",
+      "title": "Ações asiáticas caem e os preços do petróleo são negociados acima de US$ 100 o barril",
       "titleOriginal": "Asian shares fall and oil prices trade above $100 a barrel",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
       "publishedAt": "2026-09-10T06:25:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump sugere cheques de US$ 5.000 do “Dividendo Trump” caso os republicanos vençam as eleições intermediárias",
+      "title": "Trump sugere cheques de US$ 5.000 como “Dividendo Trump” caso os republicanos vençam as eleições de meio de mandato",
       "titleOriginal": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
       "publishedAt": "2026-09-10T05:35:19.000Z"
@@ -46,7 +60,7 @@
     },
     {
       "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico na convenção do Partido Republicano",
+      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
       "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "publishedAt": "2026-09-10T05:30:17.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "AI is making it harder to trust your own eyes this election",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNkd4blVoV0FxZ2RjNlIxeUI2aHNVcFBDcHUxNzV0ZnVaX25Pd2l1Y3d5R0hMQlUxRms5WDJ2NDNKVzliNGFwNTVOdHh5bVdrQWpIbDk4MWl1OTJWRjZRQ3FjX0RyVUtpQk9pX3FvME4xY25sdVUxN2FVMWw1cFU?oc=5",
       "publishedAt": "2026-09-10T05:14:20.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra com o Irã na convenção de Trump",
-      "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
-      "publishedAt": "2026-09-10T05:09:24.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Departamento de Energia eleva em 33 centavos a previsão do preço do diesel para 2027 em meio à guerra no Irã",
-      "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
-      "publishedAt": "2026-09-10T04:15:53.000Z"
     }
   ]
 }
