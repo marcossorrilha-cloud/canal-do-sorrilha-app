@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-10T22:49:35.778Z",
+  "updatedAt": "2026-09-10T23:24:17.870Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O indicado por Trump para o cargo de cirurgião-geral revela investimentos no setor de tabaco e farmacêutico",
+      "titleOriginal": "Trump surgeon general nominee discloses tobacco, pharma investments",
+      "link": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
+      "publishedAt": "2026-09-10T23:15:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Departamento de Justiça abre investigação sobre as negociações do Los Angeles Clippers com Kawhi Leonard",
+      "titleOriginal": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/kawhi-leonard-clippers-nba-justice-department.html",
+      "publishedAt": "2026-09-10T23:09:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rendimentos dos títulos sobem ligeiramente após a promessa de Trump sobre dividendos",
+      "titleOriginal": "Bond yields rise modestly after Trump's dividend pledge",
+      "link": "https://thehill.com/business/6083360-gop-midterm-dividend-bond-yields-high/",
+      "publishedAt": "2026-09-10T22:58:02.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Secretário interino da Marinha afirma que o Irã “destruiu completamente” a base dos EUA no Bahrein",
       "titleOriginal": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
       "link": "https://thehill.com/newsletters/defense-national-security/6083326-acting-navy-secretary-says-iran-blew-the-hell-out-of-us-base-in-bahrain/",
       "publishedAt": "2026-09-10T22:43:21.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os principais republicanos não esperavam os dividendos de Trump. Agora, estão em pânico.",
+      "titleOriginal": "Top Republicans didn’t expect Trump’s dividends. Now they’re scrambling.",
+      "link": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
+      "publishedAt": "2026-09-10T22:33:38.000Z"
     },
     {
       "source": "New York Times",
@@ -18,7 +46,7 @@
     },
     {
       "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, depois que o tribunal rejeitou o mapa apoiado por Trump",
       "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
       "publishedAt": "2026-09-10T22:26:00.000Z"
@@ -31,46 +59,18 @@
       "publishedAt": "2026-09-10T22:00:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump enfrenta reação negativa por causa da promessa de dividendo de US$ 5 mil",
-      "titleOriginal": "Trump sees backlash over $5K dividend pledge",
-      "link": "https://thehill.com/newsletters/business-economy/6083240-trump-sees-backlash-over-5k-dividend-pledge/",
-      "publishedAt": "2026-09-10T21:45:27.000Z"
+      "source": "Axios",
+      "title": "Super PAC do Partido Republicano na Câmara coloca os adversários democratas em destaque",
+      "titleOriginal": "House GOP super PAC puts Democratic challengers in starring roles",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemhoTUV4ck9rM1Z3YnBRclVBUHpjcEhuRDFCNWVnSnE4azhiQ2JTckdKVjNVSEItdFNZS3FKekx4dXVEbTBsWkJYdjhoMS1WNDhBdnVpelZRX2YtRWVWVFVTU285Q0R5eGlTWU15TFU1cXpuNkdBRnowN0VhV0c3aFNHaEt4aVdBU1dPNDIydXI1VFp6Znk4?oc=5",
+      "publishedAt": "2026-09-10T21:53:30.000Z"
     },
     {
       "source": "AP News",
-      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
+      "title": "O promotor designado para liderar a investigação contra os adversários de Trump disse à AP que renunciou ao cargo",
       "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
       "publishedAt": "2026-09-10T21:40:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Pentágono está em negociações para participar do financiamento de infraestrutura de IA com um empréstimo de US$ 5 bilhões",
-      "titleOriginal": "Exclusive | Pentagon in Talks to Get Into AI Infrastructure Funding With a $5 Billion Loan",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU1OdlM4b0w3OWIxeFNFNEVhTnE4c0RpXzVzNk5wWTVGYXFPMXU4VUpVeEVoaWJyTDFRdkkwYXBUNnpwV2ZNZEZ1M2pkUV9nTnZTS28zaWZadlF2MHlwYXdNWHhEekFiRENSeDFQYXhGbk1XMEM2Sm5tNDNyejRFRk5KaF9uUXY0SkZQQkxlMk5lQ0R0aDFxbmJRbkF3cGJWTTJub2Fkc0U0dVBJZ2tXdlVpdXo?oc=5",
-      "publishedAt": "2026-09-10T21:38:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
-      "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
-      "publishedAt": "2026-09-10T21:35:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lummis intensifica a pressão sobre os democratas em relação ao projeto de lei sobre criptomoedas",
-      "titleOriginal": "Lummis ramps up pressure on Democrats over crypto bill",
-      "link": "https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/",
-      "publishedAt": "2026-09-10T21:20:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ataques de 11 de setembro estão entre os “eventos históricos mais importantes” da vida dos adultos norte-americanos: pesquisa",
-      "titleOriginal": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
-      "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
-      "publishedAt": "2026-09-10T21:14:19.000Z"
     }
   ]
 }
