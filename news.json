@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-10T11:27:07.371Z",
+  "updatedAt": "2026-09-10T11:51:13.991Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Secretário de Estado do Missouri enfrenta audiência por desacato em meio à disputa sobre o redesenho dos distritos eleitorais",
+      "titleOriginal": "Missouri Secretary of State faces contempt hearing amid redistricting fight",
+      "link": "https://thehill.com/regulation/court-battles/6080998-missouri-secretary-of-state-denny-hoskins-contempt-hearing-redistricting-battle-midterms/",
+      "publishedAt": "2026-09-10T11:48:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O homem que obrigou o Congresso a cuidar dos sobreviventes do 11 de setembro",
+      "titleOriginal": "The man who forced Congress to care for 9/11 survivors",
+      "link": "https://thehill.com/opinion/national-security/6077146-john-feal-911-advocacy/",
+      "publishedAt": "2026-09-10T11:30:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump e Fetterman causam surpresa na primeira noite da Convenção Nacional Republicana",
@@ -15,13 +29,6 @@
       "titleOriginal": "In Ukraine, Putin is running out of time and options",
       "link": "https://thehill.com/opinion/national-security/6078388-russia-nato-escalation-threats/",
       "publishedAt": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Inflação ao consumidor e ao produtor na China registram ligeiro aumento",
-      "titleOriginal": "China’s Consumer, Producer Inflation Edge Higher",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2dYTndOblJqbl9lVFRaTEhoa3RkeDJTYXVMTUlCcG9MeFhkNnRxdGZ4THJNdVBSSXZmSUJDTF8xQjV1SXJPbjl4M3pwV2xBbEdadEVwTFBjS2ltOW5tWkR6RlVGWnFKcEd2XzY4dWZLOXFNR0tqejQ0bmVFbnVKVU5iQkdiRjY2R0tZ?oc=5",
-      "publishedAt": "2026-09-10T10:32:54.000Z"
     },
     {
       "source": "Axios",
@@ -64,13 +71,6 @@
       "titleOriginal": "Public anger over AI boom triggers GOP midterm worries",
       "link": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
       "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O X, de Elon Musk, é o chat em grupo da comunidade de IA",
-      "titleOriginal": "Elon Musk's X is the AI community group chat",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tRDVaNGNmcHhPTU9GOVpwVUx1SkhncGNqU2pfdllJWVp1UVRBemtORTRpSGlPdFgtY1phZFc1Sl85OTNXVTN2V1pRekdIX19nMDB2MXI2OVJuOTd0M2RoRTdTeXpTZjY5UWdyZVVYWjVRS1JEWDI0?oc=5",
-      "publishedAt": "2026-09-10T09:47:50.000Z"
     }
   ]
 }
