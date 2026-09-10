@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:33:49.821Z",
+  "updatedAt": "2026-09-10T06:55:04.724Z",
   "count": 10,
   "items": [
     {
@@ -18,24 +18,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Candidatos republicanos ao Senado evitam abordar o tema das tarifas e da guerra contra o Irã na convenção de Trump",
+      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra com o Irã na convenção de Trump",
       "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
       "publishedAt": "2026-09-10T05:09:24.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump implora ao Partido Republicano para “fingir” que ele está na cédula eleitoral de novembro, na primeira noite da convenção para as eleições de meio de mandato",
+      "title": "Trump implora ao Partido Republicano para “fingir” que ele está na cédula eleitoral de novembro, na primeira noite da convenção das eleições intermediárias",
       "titleOriginal": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
       "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
       "publishedAt": "2026-09-10T04:14:42.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: O PAC da J Street está gastando US$ 3 milhões para derrotar os republicanos apoiados pela AIPAC",
-      "titleOriginal": "Scoop: J Street PAC spending $3M to defeat AIPAC-backed Republicans",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2VCYkhUOVg5bTI5cG52YjFWZzNvbWlnSk0zTmEzVE9MYzdKRTdQR0NYeHZPSFdDbDRXbVkwd2VrSzIwMGE0TnF5NktJMk9Wa3ZjY2VjZ3pCZEV6ZFRnRGlubHN5a2tVQjlGQUdmeTJWQ1Vib25PakFSWjFUaDR6dm1rWVFTVFJkM1NtOQ?oc=5",
-      "publishedAt": "2026-09-10T04:11:29.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -46,7 +39,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Acordo envolvendo drones dá início à consolidação no setor ucraniano, que conta com 500 empresas",
+      "title": "Exclusivo | Acordo envolvendo drones dá início à consolidação no setor ucraniano, composto por 500 empresas",
       "titleOriginal": "Exclusive | Drone Deal Kicks Off Consolidation in Ukraine’s 500-Company Industry",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjSldxcXZySEw2ckYxdWwyTVZqNndpSlBVd016WDJyRWw4a1Azd29GODZwTHFNTm5QVG5CVlluSEtuLVNaWEo1NEc3dFdncnNCUXV0ZmhTaW9HZ1pFc2s2c2VhaV9JOF9VSENrbVNFQlJDWGlRN2I4QncyaDBwMERrOUVtaGpiSVlIWW1KUnJlSGFhX1JoSi1hdXBLeEJZbHNjek5Uazk?oc=5",
       "publishedAt": "2026-09-10T04:01:00.000Z"
@@ -60,17 +53,24 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Governo de Trump propõe eliminar perguntas sobre raça do censo",
+      "title": "Governo de Trump propõe eliminar perguntas sobre raça do Censo",
       "titleOriginal": "Trump Administration Proposes Eliminating Race Questions From Census",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjM5YmozTDJSYkh4SThEYkFFdzVobTRjM2tXZXVaazZ6SmpKQTM5TVNGNjNsV2dKaGk4dUZQU3Q4UW5hZ29naGF1c3ZabXQybUZjSGVyUDJXYWFWdW9xRjRzSUhHbi0tOFE3TVBuZWxwVE5jMWFzM1kxQzZIRUMzRUYzemt2NWtHWThHQ09aM1pWRW93eHZPdGxYS09zOGFuRGZzT1Zwby0?oc=5",
       "publishedAt": "2026-09-10T02:48:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
+      "title": "Fetterman elogia Trump em vídeo bombástico na convenção do Partido Republicano",
       "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "publishedAt": "2026-09-10T02:28:47.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Estou oferecendo a vocês as maiores reduções de preço de medicamentos de receita da história, com diferenças de 400 — 400, 500 e até 600 por cento.”",
+      "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
+      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
+      "publishedAt": "2026-09-10T02:21:07.000Z"
     }
   ]
 }
