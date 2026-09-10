@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-10T22:25:09.111Z",
+  "updatedAt": "2026-09-10T22:49:35.778Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Secretário interino da Marinha afirma que o Irã “destruiu completamente” a base dos EUA no Bahrein",
+      "titleOriginal": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
+      "link": "https://thehill.com/newsletters/defense-national-security/6083326-acting-navy-secretary-says-iran-blew-the-hell-out-of-us-base-in-bahrain/",
+      "publishedAt": "2026-09-10T22:43:21.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto se aproximam as difíceis provas intermediárias, o presidente organiza um “Trump-a-palooza”.",
+      "titleOriginal": "As tough midterms loom, the president hosts a ‘Trump-a-palooza.’",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/as-tough-midterms-loom-the-president-hosts-a-trump-a-palooza",
+      "publishedAt": "2026-09-10T22:32:04.000Z"
+    },
     {
       "source": "AP News",
       "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
       "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-10T22:04:00.000Z"
+      "publishedAt": "2026-09-10T22:26:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | O incansável bilionário do mercado de criptomoedas que se mudou para a Venezuela em busca de petróleo",
+      "titleOriginal": "Exclusive | The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkpTdmVGa3N1NDJsUkxmNk94V0M2Q3dpYzUzSFp5MTVMRzIyM0xIVWJVNWRnQm5EZEhPNVpHYUVMWG80WG5FQmhrcUFneGJZTjIxMWU2WmtFekpYMmNyOVNlOUJKM2ZjWjIwai1WdnVBU0w1cl8zQmp3dnpVc3lrMTNybU1CaEg4dnNJWHBaY05UbG1QWWl0UU5Kbl91WUd4dU13YWlSQmViQjF0OU1tVjB0LTEwRmVpNGpNTU52WjU?oc=5",
+      "publishedAt": "2026-09-10T22:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -17,13 +38,6 @@
       "publishedAt": "2026-09-10T21:45:27.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Por dentro da Convenção Republicana para as Eleições Intermediárias, onde rolou o “Trump-a-Palooza”",
-      "titleOriginal": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
-      "publishedAt": "2026-09-10T21:41:06.000Z"
-    },
-    {
       "source": "AP News",
       "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
       "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
@@ -31,18 +45,18 @@
       "publishedAt": "2026-09-10T21:40:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Pentágono está em negociações para participar do financiamento de infraestrutura de IA com um empréstimo de US$ 5 bilhões",
+      "titleOriginal": "Exclusive | Pentagon in Talks to Get Into AI Infrastructure Funding With a $5 Billion Loan",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU1OdlM4b0w3OWIxeFNFNEVhTnE4c0RpXzVzNk5wWTVGYXFPMXU4VUpVeEVoaWJyTDFRdkkwYXBUNnpwV2ZNZEZ1M2pkUV9nTnZTS28zaWZadlF2MHlwYXdNWHhEekFiRENSeDFQYXhGbk1XMEM2Sm5tNDNyejRFRk5KaF9uUXY0SkZQQkxlMk5lQ0R0aDFxbmJRbkF3cGJWTTJub2Fkc0U0dVBJZ2tXdlVpdXo?oc=5",
+      "publishedAt": "2026-09-10T21:38:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
       "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
       "publishedAt": "2026-09-10T21:35:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-10T21:26:23.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
       "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
       "publishedAt": "2026-09-10T21:14:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo de Trump afirma que os EUA trabalharão com o Peru no combate ao crime",
-      "titleOriginal": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
-      "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
-      "publishedAt": "2026-09-10T21:05:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Alguns republicanos rejeitam a oferta de Trump de um “dividendo” de US$ 5.000",
-      "titleOriginal": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
-      "publishedAt": "2026-09-10T21:04:14.000Z"
     }
   ]
 }
