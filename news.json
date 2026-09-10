@@ -1,24 +1,52 @@
 {
-  "updatedAt": "2026-09-09T23:49:34.128Z",
+  "updatedAt": "2026-09-10T00:34:04.339Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Fetterman aparece em vídeo na noite de abertura da convenção de Trump",
-      "titleOriginal": "Fetterman Appears in Video in Opening Night of Trump’s Convention",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
-      "publishedAt": "2026-09-09T23:33:48.000Z"
+      "source": "The Hill",
+      "title": "Reed vence com facilidade as primárias democratas para o sexto mandato no Senado por Rhode Island",
+      "titleOriginal": "Reed easily wins Democratic primary for sixth Rhode Island Senate term",
+      "link": "https://thehill.com/homenews/campaign/6079928-reed-wins-rhode-island-senate-primary/",
+      "publishedAt": "2026-09-10T00:27:16.000Z"
     },
     {
       "source": "Politico",
-      "title": "Os republicanos estão comemorando em Dallas. Só não pergunte a eles sobre acessibilidade.",
-      "titleOriginal": "Republicans are partying in Dallas. Just don't ask them about affordability.",
+      "title": "Dan McKee se torna o primeiro governador em oito anos a perder as primárias",
+      "titleOriginal": "Dan McKee becomes first governor in 8 years to lose primary",
+      "link": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983",
+      "publishedAt": "2026-09-10T00:25:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
+      "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
+      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
+      "publishedAt": "2026-09-10T00:21:27.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Trump planeja enviar reembolsos de US$ 500 do Obamacare antes das eleições",
+      "titleOriginal": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSHdYVTlMSGh1b3dGV19UcnZTd05SRGFfQmdlV0VBRTBSZHlDZmhWcGNaLWNBelI2c09iX1RHQmw0QkVRdmszVF80SEZmdnBrMW9lRE92X2NVc0RBTC1WR3BHR2xWdE9TU05YV1BSMkdCRzQ?oc=5",
+      "publishedAt": "2026-09-09T23:36:10.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Estamos indo na direção errada”: Convenção Republicana é marcada pela questão do custo de vida",
+      "titleOriginal": "‘We are going in the wrong direction’: Republican convention dogged by the cost of living",
       "link": "https://www.politico.com/news/2026/09/09/republicans-economy-trump-dallas-midterm-convention-01069724",
       "publishedAt": "2026-09-09T23:25:24.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Líderes republicanos da Câmara dos Deputados aproveitam discursos na convenção para atacar os “comunistas malucos”",
+      "title": "Fetterman aparece em vídeo elogiando McCormick na convenção do Partido Republicano para as eleições de meio de mandato",
+      "titleOriginal": "Fetterman appears in video praising McCormick at GOP midterm convention",
+      "link": "https://thehill.com/homenews/senate/6080435-fetterman-mccormick-trump-gop-midterm-convention-dallas/",
+      "publishedAt": "2026-09-09T23:17:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Líderes republicanos da Câmara aproveitam discursos na convenção para atacar os “comunistas malucos”",
       "titleOriginal": "House GOP leaders use convention speeches to take aim at 'crazy communists'",
       "link": "https://thehill.com/homenews/campaign/6080427-scalise-emmer-anti-communist-rnc-convention/",
       "publishedAt": "2026-09-09T23:13:26.000Z"
@@ -32,17 +60,10 @@
     },
     {
       "source": "Axios",
-      "title": "Departamento de Energia eleva em 33 centavos a previsão do preço do diesel para 2027 em meio à guerra com o Irã",
+      "title": "Departamento de Energia eleva em 33 centavos a previsão para o preço do diesel em 2027 em meio à guerra com o Irã",
       "titleOriginal": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
       "publishedAt": "2026-09-09T23:00:05.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A reforma do Censo proposta por Trump excluiria alguns imigrantes e eliminaria perguntas sobre raça",
-      "titleOriginal": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
-      "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
-      "publishedAt": "2026-09-09T22:46:11.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "How Much Does Trump Care Who Wins the Midterms?",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterm-strategy.html",
       "publishedAt": "2026-09-09T22:39:08.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Estados entram com duas ações judiciais contra os cortes de Trump na Lei de Espécies Ameaçadas de Extinção",
-      "titleOriginal": "States File 2 Lawsuits Over Trump’s Cuts to Endangered Species Act",
-      "link": "https://www.nytimes.com/2026/09/09/climate/lawsuit-trump-endangered-species-act.html",
-      "publishedAt": "2026-09-09T22:38:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Deputado do Partido Republicano afirma que Paxton precisa debater com Talarico para vencer no Texas",
-      "titleOriginal": "GOP lawmaker says Paxton must debate Talarico to win Texas",
-      "link": "https://thehill.com/homenews/campaign/6080357-pete-sessions-ken-paxton-debate-james-talarico/",
-      "publishedAt": "2026-09-09T22:35:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores alertam para os perigos da IA após advertência de pesquisadores da Anthropic",
-      "titleOriginal": "Lawmakers sound alarm on AI dangers after Anthropic researchers' warning",
-      "link": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
-      "publishedAt": "2026-09-09T22:14:11.000Z"
     }
   ]
 }
