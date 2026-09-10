@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-10T18:53:26.765Z",
+  "updatedAt": "2026-09-10T19:23:55.319Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O Departamento de Justiça intensifica as ameaças aos estados na disputa pelos registros eleitorais",
+      "titleOriginal": "D.O.J. Escalates Threats to States in Battle for Election Records",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
+      "publishedAt": "2026-09-10T19:21:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As Forças Armadas dos EUA adotam uma abordagem mais moderada em relação a novos alvos na campanha de ataques com embarcações",
+      "titleOriginal": "US military takes lighter touch toward new targets in boat strike campaign",
+      "link": "https://thehill.com/policy/defense/6082785-us-military-targets-refueling-vessels-drug-fight/",
+      "publishedAt": "2026-09-10T19:12:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, após o tribunal rejeitar o mapa apoiado por Trump",
+      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+      "publishedAt": "2026-09-10T18:50:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Fotos com Trump por US$ 88.600 e suítes patrocinadas pela A.I.: republicanos se reúnem em Dallas",
@@ -11,7 +32,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Steve Witkoff, enviado especial de Trump, ganhou mais de US$ 250 milhões enquanto ocupava um cargo no governo",
+      "title": "Steve Witkoff, enviado especial de Trump, ganhou mais de US$ 250 milhões enquanto ocupava cargo no governo",
       "titleOriginal": "Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/steve-witkoff-trump-crypto-world-liberty.html",
       "publishedAt": "2026-09-10T18:35:35.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Exclusive | Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXdSZkx1TDZWeVZaQXRmalpDTUFITi1pUVdCUlRPNHF1b0poR2JFbXpwUEdtRkxaZEdLQkl4WHFybEN0bm1IMU50dVFNQ2lOV01uSm4tNXVPb1hVYzAtdFFZUWJMYlEtLVl5ZDVybFRETDVnSFd2bHlpTElQa1RFbWFXSkRhSERjVUJsUjVLeWF4RlNxSGhzSWdyOWdULUF0a0pTcDNId3htemtER0xoZEd2eUtnN3M?oc=5",
       "publishedAt": "2026-09-10T17:51:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O plano de Trump para o censo poderia redefinir os mapas eleitorais e eliminar as perguntas sobre raça",
-      "titleOriginal": "Trump's census plan could reshape voting maps, eliminate race questions",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tcGJfWUJETFVNNXhfWmE3Q0xJamJhWW9zY0FvZE5sOEY0VmVvaVBmM3J2YWdnaU1QOW5PTS1KQnFlNjN3Qkd1VVhEVVdfLTFZS2tQR0pOOHRUaXFIREZtcEJRT2pEeG1Pa2pqTnJZeDN0UTlETWVWUGZHVzU?oc=5",
-      "publishedAt": "2026-09-10T17:37:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O governo Trump alega que a faculdade de Direito da UC Berkeley favorece candidatos negros",
-      "titleOriginal": "Trump administration alleges UC Berkeley law school favors Black applicants",
-      "link": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
-      "publishedAt": "2026-09-10T17:24:47.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços no atacado nos EUA sobem, em mais um sinal de que a inflação persiste, enquanto os preços do petróleo continuam a subir",
-      "titleOriginal": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVp0ZDkzdlBaS01sZUJ0VXA2SFVaNkpkc3RKQ1hjdGZ0SzdkYl95c19qSVExX2VNWE1SMzFiZmMzaXl1UW5GUVd4el9LRHMtT1Nhd3ZEOGlVVFBQTUtuS2RzeWJ6ZVRSanV0Y2VpZXpUVk5GM3I2Wkt3ckEycWhIY1lJcWFxa002V2RFb3BYN1NkNWFPR0R1NWJLRU9vVEU?oc=5",
-      "publishedAt": "2026-09-10T17:21:00.000Z"
     }
   ]
 }
