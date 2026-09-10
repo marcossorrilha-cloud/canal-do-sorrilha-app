@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-10T15:51:36.843Z",
+  "updatedAt": "2026-09-10T16:27:16.649Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Cinco coisas que você precisa saber sobre a promessa de Trump de um dividendo de US$ 5 mil",
+      "titleOriginal": "Five things to know about Trump's $5K dividend pledge",
+      "link": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
+      "publishedAt": "2026-09-10T16:25:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
+      "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
+      "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
+      "publishedAt": "2026-09-10T16:25:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O ex-presidente Bush transmite uma mensagem contundente ao general Dan Caine",
+      "titleOriginal": "Former President Bush delivers pointed message to general Dan Caine",
+      "link": "https://thehill.com/homenews/administration/6082051-george-w-bush-dan-caine-warnings-911-anniversary-speech/",
+      "publishedAt": "2026-09-10T16:14:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Governador de Utah declara o dia 10 de setembro como o “Dia de Charlie Kirk”, um ano após o assassinato",
+      "titleOriginal": "Utah governor designates Sept. 10 as 'Charlie Kirk Day' 1 year after assassination",
+      "link": "https://thehill.com/homenews/state-watch/6082031-utah-spencer-cox-charlie-kirk-day/",
+      "publishedAt": "2026-09-10T16:09:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Talarico destaca o apoio do Partido Republicano à sua campanha para o Senado",
+      "titleOriginal": "Talarico touts GOP support for Senate campaign",
+      "link": "https://thehill.com/homenews/campaign/6081974-republicans-endorse-talarico/",
+      "publishedAt": "2026-09-10T15:53:28.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Grupos de interesse gastam US$ 31 milhões em atividades de lobby no Congresso em relação ao projeto de lei de Cruz e Cantwell sobre esportes universitários",
@@ -10,11 +45,25 @@
       "publishedAt": "2026-09-10T15:43:22.000Z"
     },
     {
+      "source": "The Hill",
+      "title": "Trump enfrenta reações negativas com a promessa de dividendos de US$ 5.000",
+      "titleOriginal": "Trump faces blowback with $5,000 dividend promise",
+      "link": "https://thehill.com/homenews/administration/6081944-trump-dividend-pledge-backlash/",
+      "publishedAt": "2026-09-10T15:41:52.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços do petróleo voltam aos níveis registrados em maio e puxam Wall Street para baixo",
+      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "publishedAt": "2026-09-10T15:38:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Poluição em centros de dados de IA representa ameaça à saúde, alertam ex-funcionários da EPA",
       "titleOriginal": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
       "link": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
-      "publishedAt": "2026-09-10T15:33:28.000Z"
+      "publishedAt": "2026-09-10T15:33:29.000Z"
     },
     {
       "source": "The Hill",
@@ -22,55 +71,6 @@
       "titleOriginal": "House 'member day' hearing airs reform proposals",
       "link": "https://thehill.com/opinion/congress-blog/6079308-house-rule-change-recommendations/",
       "publishedAt": "2026-09-10T15:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump sugere cheques de US$ 5.000 como “dividendo Trump” caso os republicanos vençam as eleições de meio de mandato",
-      "titleOriginal": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-      "publishedAt": "2026-09-10T15:29:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Denver entra com ação judicial para impedir a presença de agentes do ICE nos locais de votação",
-      "titleOriginal": "Denver sues to block ICE officers from voting sites",
-      "link": "https://thehill.com/regulation/court-battles/6081890-denver-lawsuit-ice-polling-sites/",
-      "publishedAt": "2026-09-10T15:29:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-10T15:26:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Chip Roy sobre os dividendos de Trump: “A dependência é maligna e destrói a alma em todas as suas formas”",
-      "titleOriginal": "Chip Roy on Trump dividends: ‘Dependency is evil & soul-sucking in all its forms’",
-      "link": "https://thehill.com/homenews/house/6081696-chip-roy-criticizes-trump-dividend/",
-      "publishedAt": "2026-09-10T15:05:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A extradição está se tornando uma bola de jogo político — veja como os estados podem impedir isso",
-      "titleOriginal": "Extradition is becoming a political football — here's how the states can stop it",
-      "link": "https://thehill.com/opinion/judiciary/6077349-texas-minnesota-extradition-loophole/",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O príncipe Harry, Bill Nye e Chrissy Teigen participarão da reunião da Clinton Global Initiative deste ano",
-      "titleOriginal": "Prince Harry, Bill Nye, Chrissy Teigen to join this year's Clinton Global Initiative meeting",
-      "link": "https://thehill.com/blogs/in-the-know/6081767-prince-harry-bill-nye-chrissy-teigen-clinton-global-initiative/",
-      "publishedAt": "2026-09-10T14:52:22.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo voltam aos níveis registrados em maio e puxam Wall Street para baixo",
-      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-      "publishedAt": "2026-09-10T14:28:00.000Z"
     }
   ]
 }
