@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-10T17:50:38.276Z",
+  "updatedAt": "2026-09-10T18:29:23.042Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Zelenskyy visita o Canadá para buscar mais apoio militar para a Ucrânia",
+      "titleOriginal": "Zelenskyy visits Canada to seek further military support for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
+      "publishedAt": "2026-09-10T17:58:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Comissário da FCC: a “autocensura” de Kimmel mostra que a tentativa de Trump de “controlar” a mídia está dando certo",
+      "titleOriginal": "FCC commissioner: Kimmel's 'self-censorship' shows Trump's bid to 'control' media working",
+      "link": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/",
+      "publishedAt": "2026-09-10T17:57:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump: Se o Partido Republicano vencer as eleições de meio de mandato, todos os cidadãos adultos receberão um dividendo de US$ 5 mil | RISING",
+      "titleOriginal": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend | RISING",
+      "link": "https://thehill.com/video-clips/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
+      "publishedAt": "2026-09-10T17:54:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O plano de Trump para o censo poderia redefinir os mapas eleitorais e eliminar as perguntas sobre raça",
+      "titleOriginal": "Trump's census plan could reshape voting maps, eliminate race questions",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tcGJfWUJETFVNNXhfWmE3Q0xJamJhWW9zY0FvZE5sOEY0VmVvaVBmM3J2YWdnaU1QOW5PTS1KQnFlNjN3Qkd1VVhEVVdfLTFZS2tQR0pOOHRUaXFIREZtcEJRT2pEeG1Pa2pqTnJZeDN0UTlETWVWUGZHVzU?oc=5",
+      "publishedAt": "2026-09-10T17:37:30.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O governo Trump alega que a faculdade de Direito da UC Berkeley favorece candidatos negros",
       "titleOriginal": "Trump administration alleges UC Berkeley law school favors Black applicants",
       "link": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
       "publishedAt": "2026-09-10T17:24:47.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços no atacado nos EUA sobem, mais um sinal de que a inflação se mantém persistente, enquanto os preços do petróleo continuam a subir",
+      "titleOriginal": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVp0ZDkzdlBaS01sZUJ0VXA2SFVaNkpkc3RKQ1hjdGZ0SzdkYl95c19qSVExX2VNWE1SMzFiZmMzaXl1UW5GUVd4el9LRHMtT1Nhd3ZEOGlVVFBQTUtuS2RzeWJ6ZVRSanV0Y2VpZXpUVk5GM3I2Wkt3ckEycWhIY1lJcWFxa002V2RFb3BYN1NkNWFPR0R1NWJLRU9vVEU?oc=5",
+      "publishedAt": "2026-09-10T17:21:00.000Z"
     },
     {
       "source": "The Hill",
@@ -36,41 +71,6 @@
       "titleOriginal": "Exclusive | Iran Is Producing Ballistic Missiles Again",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlhkWEszbkt3NkluSFRiWXk4UUZkb0I3MjFjdllTekZUcWVqOEdmTmFvNlQ3YkM0aXp0X3JITFEwNGJjZlRDMnp6UVZSdEdHQm1ic3JJZ2ZKTUdnU0Jfc1NRNHlTV3RSUUVIZEU4S2xJSC1VM1Q1OVQ3dzZvYjg3aC1UUXhDRHc?oc=5",
       "publishedAt": "2026-09-10T16:34:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo voltam aos níveis registrados em maio e levam Wall Street a uma queda",
-      "titleOriginal": "Oil prices climb back to where they were in May and drag Wall Street lower",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-      "publishedAt": "2026-09-10T16:32:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump cita Charlie Kirk na convenção do RNC",
-      "titleOriginal": "Trump invokes Charlie Kirk at RNC convention",
-      "link": "https://thehill.com/newsletters/1230-report/6082115-trump-invokes-charlie-kirk-at-rnc-convention/",
-      "publishedAt": "2026-09-10T16:31:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Câmara dos Deputados deve agir para cortar o suprimento vital de gás do Ártico de Putin",
-      "titleOriginal": "The House must act to cut Putin's Arctic gas lifeline",
-      "link": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
-      "publishedAt": "2026-09-10T16:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "5 coisas que você precisa saber sobre a promessa de Trump de um dividendo de US$ 5 mil",
-      "titleOriginal": "5 things to know about Trump's $5K dividend pledge",
-      "link": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
-      "publishedAt": "2026-09-10T16:25:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
-      "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
-      "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
-      "publishedAt": "2026-09-10T16:25:05.000Z"
     }
   ]
 }
