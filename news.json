@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-10T19:49:06.115Z",
+  "updatedAt": "2026-09-10T20:26:12.157Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Governo de Trump afirma que os EUA trabalharão com o Peru no combate ao crime",
+      "titleOriginal": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
+      "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
+      "publishedAt": "2026-09-10T20:22:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rubio afirma que “não tem planos, neste momento”, de concorrer à presidência",
+      "titleOriginal": "Rubio says he has 'no plans at this time' to run for president",
+      "link": "https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run/",
+      "publishedAt": "2026-09-10T20:19:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed critica Rogers por sua participação na convenção do Partido Republicano em um novo jogo online",
+      "titleOriginal": "El-Sayed hits Rogers on GOP convention appearance in new online game",
+      "link": "https://thehill.com/homenews/6082275-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
+      "publishedAt": "2026-09-10T20:06:32.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
+      "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
+      "publishedAt": "2026-09-10T19:59:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Nos bastidores, Vance coletou opiniões sem rodeios sobre a Guerra do Irã",
+      "titleOriginal": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
+      "publishedAt": "2026-09-10T19:56:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A defesa da Ucrânia está ficando cada vez mais cara, e a Europa tem dificuldade para arcar com os custos",
+      "titleOriginal": "Defending Ukraine Is Getting More Expensive, and Europe Is Struggling to Foot the Bill",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnpwOTczRVM5S3BTN0hacGdmRUI2OHUwdS1kMk95RzQ5c3JDa2FTZUM2REltcnZadjh6REl0LVF3YnJHODN5c0xOa3ZZRVlZMWpmS25RYmlUbEU4Sjdkanhocmw5cWJwTGdPTHN3d0NGNm5yeFQ3anJ1WS1rWUpsTDR1NGNkaGFXem5vdVhmS3hSMlBNdDBFa1JEd0tKSmRtLS02dDJTOGVWdFhKNHhPdHNjc0hlYzV1dUN4YTFhS0pHcF9uTEE?oc=5",
+      "publishedAt": "2026-09-10T19:49:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Irã volta a produzir mísseis balísticos: Relatório",
@@ -18,17 +60,10 @@
     },
     {
       "source": "The Hill",
-      "title": "As Forças Armadas dos EUA adotam uma abordagem mais moderada em relação a novos alvos na campanha de ataques com barcos",
+      "title": "As Forças Armadas dos EUA adotam uma abordagem mais moderada em relação a novos alvos na campanha de ataques com embarcações",
       "titleOriginal": "US military takes lighter touch toward new targets in boat strike campaign",
       "link": "https://thehill.com/policy/defense/6082785-us-military-targets-refueling-vessels-drug-fight/",
       "publishedAt": "2026-09-10T19:12:19.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que a Justiça rejeitou o mapa apoiado por Trump",
-      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-10T18:50:00.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "Republicans Court Donors at Midterm Convention With $88,600 Photos and AI-Sponsored Suites",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html",
       "publishedAt": "2026-09-10T18:45:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Steve Witkoff, enviado especial de Trump, ganhou mais de US$ 250 milhões enquanto ocupava cargos no governo",
-      "titleOriginal": "Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/steve-witkoff-trump-crypto-world-liberty.html",
-      "publishedAt": "2026-09-10T18:35:35.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Kamala Harris fará campanha com Ossoff na Geórgia",
-      "titleOriginal": "Kamala Harris to campaign with Ossoff in Georgia",
-      "link": "https://www.politico.com/news/2026/09/10/kamala-harris-campaign-ossoff-georgia-01070894",
-      "publishedAt": "2026-09-10T18:30:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Zelenskyy visita o Canadá para buscar mais apoio militar para a Ucrânia",
-      "titleOriginal": "Zelenskyy visits Canada to seek further military support for Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
-      "publishedAt": "2026-09-10T17:58:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Comissário da FCC: a “autocensura” de Kimmel mostra que a tentativa de Trump de “controlar” a mídia está dando certo",
-      "titleOriginal": "FCC commissioner: Kimmel's 'self-censorship' shows Trump's bid to 'control' media working",
-      "link": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/",
-      "publishedAt": "2026-09-10T17:57:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: Se o Partido Republicano vencer as eleições intermediárias, todos os cidadãos adultos receberão um dividendo de US$ 5 mil | RISING",
-      "titleOriginal": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend | RISING",
-      "link": "https://thehill.com/homenews/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
-      "publishedAt": "2026-09-10T17:54:17.000Z"
     }
   ]
 }
