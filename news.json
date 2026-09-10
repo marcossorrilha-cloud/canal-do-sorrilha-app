@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-10T18:29:23.042Z",
+  "updatedAt": "2026-09-10T18:53:26.765Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Fotos com Trump por US$ 88.600 e suítes patrocinadas pela A.I.: republicanos se reúnem em Dallas",
+      "titleOriginal": "$88,600 Pictures With Trump and A.I.-Sponsored Suites: Republicans Schmooze in Dallas",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html",
+      "publishedAt": "2026-09-10T18:45:38.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Steve Witkoff, enviado especial de Trump, ganhou mais de US$ 250 milhões enquanto ocupava um cargo no governo",
+      "titleOriginal": "Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/steve-witkoff-trump-crypto-world-liberty.html",
+      "publishedAt": "2026-09-10T18:35:35.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Kamala Harris fará campanha com Ossoff na Geórgia",
+      "titleOriginal": "Kamala Harris to campaign with Ossoff in Georgia",
+      "link": "https://www.politico.com/news/2026/09/10/kamala-harris-campaign-ossoff-georgia-01070894",
+      "publishedAt": "2026-09-10T18:30:05.000Z"
+    },
     {
       "source": "AP News",
       "title": "Zelenskyy visita o Canadá para buscar mais apoio militar para a Ucrânia",
@@ -18,10 +39,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump: Se o Partido Republicano vencer as eleições de meio de mandato, todos os cidadãos adultos receberão um dividendo de US$ 5 mil | RISING",
+      "title": "Trump: Se o Partido Republicano vencer as eleições intermediárias, todos os cidadãos adultos receberão um dividendo de US$ 5 mil | RISING",
       "titleOriginal": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend | RISING",
-      "link": "https://thehill.com/video-clips/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
+      "link": "https://thehill.com/homenews/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
       "publishedAt": "2026-09-10T17:54:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Alternativas baratas a medicamentos biológicos enfrentam atrasos, ameaçando a economia no setor de saúde dos EUA",
+      "titleOriginal": "Exclusive | Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXdSZkx1TDZWeVZaQXRmalpDTUFITi1pUVdCUlRPNHF1b0poR2JFbXpwUEdtRkxaZEdLQkl4WHFybEN0bm1IMU50dVFNQ2lOV01uSm4tNXVPb1hVYzAtdFFZUWJMYlEtLVl5ZDVybFRETDVnSFd2bHlpTElQa1RFbWFXSkRhSERjVUJsUjVLeWF4RlNxSGhzSWdyOWdULUF0a0pTcDNId3htemtER0xoZEd2eUtnN3M?oc=5",
+      "publishedAt": "2026-09-10T17:51:00.000Z"
     },
     {
       "source": "Axios",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Os preços no atacado nos EUA sobem, mais um sinal de que a inflação se mantém persistente, enquanto os preços do petróleo continuam a subir",
+      "title": "Os preços no atacado nos EUA sobem, em mais um sinal de que a inflação persiste, enquanto os preços do petróleo continuam a subir",
       "titleOriginal": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVp0ZDkzdlBaS01sZUJ0VXA2SFVaNkpkc3RKQ1hjdGZ0SzdkYl95c19qSVExX2VNWE1SMzFiZmMzaXl1UW5GUVd4el9LRHMtT1Nhd3ZEOGlVVFBQTUtuS2RzeWJ6ZVRSanV0Y2VpZXpUVk5GM3I2Wkt3ckEycWhIY1lJcWFxa002V2RFb3BYN1NkNWFPR0R1NWJLRU9vVEU?oc=5",
       "publishedAt": "2026-09-10T17:21:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cerca de metade dos hospitais cumpre as regras de transparência de preços: Relatório",
-      "titleOriginal": "Roughly half of hospitals complying with price transparency rules: Report",
-      "link": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
-      "publishedAt": "2026-09-10T17:20:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Poluição em centros de dados de IA representa ameaça à saúde, alertam ex-funcionários da EPA",
-      "titleOriginal": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
-      "link": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
-      "publishedAt": "2026-09-10T17:06:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump faz discurso e visita o Museu Nacional da Medalha de Honra",
-      "titleOriginal": "Watch live: Trump gives remarks, tours National Medal of Honor Museum",
-      "link": "https://thehill.com/video-clips/6082128-watch-live-donald-trump-texas-remarks-national-medal-of-honor-museum/",
-      "publishedAt": "2026-09-10T17:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | O Irã está produzindo mísseis balísticos novamente",
-      "titleOriginal": "Exclusive | Iran Is Producing Ballistic Missiles Again",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlhkWEszbkt3NkluSFRiWXk4UUZkb0I3MjFjdllTekZUcWVqOEdmTmFvNlQ3YkM0aXp0X3JITFEwNGJjZlRDMnp6UVZSdEdHQm1ic3JJZ2ZKTUdnU0Jfc1NRNHlTV3RSUUVIZEU4S2xJSC1VM1Q1OVQ3dzZvYjg3aC1UUXhDRHc?oc=5",
-      "publishedAt": "2026-09-10T16:34:00.000Z"
     }
   ]
 }
