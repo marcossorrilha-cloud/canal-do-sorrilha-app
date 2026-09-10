@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-10T04:28:30.638Z",
+  "updatedAt": "2026-09-10T04:52:49.389Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Candidatos republicanos ao Senado evitam falar sobre tarifas e guerra contra o Irã na convenção de Trump",
+      "title": "A promessa de Trump de cheques de dividendos no valor de US$ 5.000 vem na esteira de promessas anteriores de pagamentos em dinheiro que nunca se concretizaram",
+      "titleOriginal": "Trump’s Promise of $5,000 Dividend Checks Follows Past Cash Pledges That Never Materialized",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-check-midterms.html",
+      "publishedAt": "2026-09-10T04:44:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Negócio envolvendo drones dá início à consolidação no setor ucraniano, que conta com 500 empresas",
+      "titleOriginal": "Exclusive | Drone Deal Kicks Off Consolidation in Ukraine’s 500-Company Industry",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjSldxcXZySEw2ckYxdWwyTVZqNndpSlBVd016WDJyRWw4a1Azd29GODZwTHFNTm5QVG5CVlluSEtuLVNaWEo1NEc3dFdncnNCUXV0ZmhTaW9HZ1pFc2s2c2VhaV9JOF9VSENrbVNFQlJDWGlRN2I4QncyaDBwMERrOUVtaGpiSVlIWW1KUnJlSGFhX1JoSi1hdXBLeEJZbHNjek5Uazk?oc=5",
+      "publishedAt": "2026-09-10T04:01:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Candidatos republicanos ao Senado evitam abordar o tema das tarifas e da guerra com o Irã na convenção de Trump",
       "titleOriginal": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
       "publishedAt": "2026-09-10T03:36:08.000Z"
@@ -24,13 +38,6 @@
       "publishedAt": "2026-09-10T02:53:38.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump promete um “dividendo Trump” de US$ 5 mil caso os republicanos mantenham o controle do Congresso",
-      "titleOriginal": "Trump pledges $5K 'Trump dividend' if Republicans hold onto Congress",
-      "link": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-      "publishedAt": "2026-09-10T02:48:47.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Governo de Trump propõe eliminar perguntas sobre raça do Censo",
       "titleOriginal": "Trump Administration Proposes Eliminating Race Questions From Census",
@@ -39,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "“Estou proporcionando a vocês as maiores reduções de preço de medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
+      "title": "“Estou oferecendo a vocês os maiores cortes nos preços dos medicamentos de prescrição da história, com reduções de 400 — 400, 500 e até 600 por cento.”",
       "titleOriginal": "“I’m giving you the largest prescription drug price cuts in history, with differences of 400 — 400, 500 and even 600 percent.”",
       "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/im-giving-you-the-largest-prescription-drug-price-cuts-in-history-with-differences-of-400-400-500-and-even-600-percent",
       "publishedAt": "2026-09-10T02:21:07.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Fetterman Has a Surprise Cameo at Trump’s Convention",
       "link": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
       "publishedAt": "2026-09-10T01:48:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Sabe, tivemos zero nos últimos — zero pessoa nos últimos 16 meses. Dá pra acreditar? Tivemos 25 milhões de pessoas que entraram durante o governo Biden.”",
-      "titleOriginal": "“You know, we had zero for the last — zero people for the last 16 months. Can you believe it? We had 25 million come in under Biden.”",
-      "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/you-know-we-had-zero-for-the-last-zero-people-for-the-last-16-months-can-you-believe-it-we-had-25-million-come-in-under-biden",
-      "publishedAt": "2026-09-10T01:35:34.000Z"
     }
   ]
 }
