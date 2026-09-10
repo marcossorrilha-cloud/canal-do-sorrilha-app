@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T23:24:17.870Z",
+  "updatedAt": "2026-09-10T23:49:21.175Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Reino Unido proíbe o comércio com os assentamentos israelenses na Cisjordânia",
+      "titleOriginal": "UK bans trade with Israeli settlements in West Bank",
+      "link": "https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt/",
+      "publishedAt": "2026-09-10T23:30:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O indicado por Trump para o cargo de cirurgião-geral revela investimentos no setor de tabaco e farmacêutico",
@@ -45,32 +52,25 @@
       "publishedAt": "2026-09-10T22:32:04.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, depois que o tribunal rejeitou o mapa apoiado por Trump",
-      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-10T22:26:00.000Z"
+      "source": "The Hill",
+      "title": "Trump promete reembolsos do Obamacare para os eleitores dos estados decisivos",
+      "titleOriginal": "Trump promises Obamacare rebates to people in swing states",
+      "link": "https://thehill.com/newsletters/healthcare/6083316-trump-promises-obamacare-rebates-to-people-in-swing-states/",
+      "publishedAt": "2026-09-10T22:27:08.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | O incansável bilionário do mercado de criptomoedas que se mudou para a Venezuela em busca de petróleo",
-      "titleOriginal": "Exclusive | The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkpTdmVGa3N1NDJsUkxmNk94V0M2Q3dpYzUzSFp5MTVMRzIyM0xIVWJVNWRnQm5EZEhPNVpHYUVMWG80WG5FQmhrcUFneGJZTjIxMWU2WmtFekpYMmNyOVNlOUJKM2ZjWjIwai1WdnVBU0w1cl8zQmp3dnpVc3lrMTNybU1CaEg4dnNJWHBaY05UbG1QWWl0UU5Kbl91WUd4dU13YWlSQmViQjF0OU1tVjB0LTEwRmVpNGpNTU52WjU?oc=5",
-      "publishedAt": "2026-09-10T22:00:00.000Z"
+      "source": "New York Times",
+      "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
+      "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
+      "publishedAt": "2026-09-10T21:35:33.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Super PAC do Partido Republicano na Câmara coloca os adversários democratas em destaque",
-      "titleOriginal": "House GOP super PAC puts Democratic challengers in starring roles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemhoTUV4ck9rM1Z3YnBRclVBUHpjcEhuRDFCNWVnSnE4azhiQ2JTckdKVjNVSEItdFNZS3FKekx4dXVEbTBsWkJYdjhoMS1WNDhBdnVpelZRX2YtRWVWVFVTU285Q0R5eGlTWU15TFU1cXpuNkdBRnowN0VhV0c3aFNHaEt4aVdBU1dPNDIydXI1VFp6Znk4?oc=5",
-      "publishedAt": "2026-09-10T21:53:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O promotor designado para liderar a investigação contra os adversários de Trump disse à AP que renunciou ao cargo",
-      "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
-      "publishedAt": "2026-09-10T21:40:00.000Z"
+      "source": "The Hill",
+      "title": "Lummis intensifica a pressão sobre os democratas em relação ao projeto de lei sobre criptomoedas",
+      "titleOriginal": "Lummis ramps up pressure on Democrats over crypto bill",
+      "link": "https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/",
+      "publishedAt": "2026-09-10T21:20:06.000Z"
     }
   ]
 }
