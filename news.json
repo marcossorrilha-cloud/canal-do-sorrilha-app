@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-10T21:24:52.458Z",
+  "updatedAt": "2026-09-10T21:49:57.434Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump enfrenta reações negativas por causa da promessa de dividendos de US$ 5 mil",
+      "titleOriginal": "Trump sees backlash over $5K dividend pledge",
+      "link": "https://thehill.com/newsletters/business-economy/6083240-trump-sees-backlash-over-5k-dividend-pledge/",
+      "publishedAt": "2026-09-10T21:45:27.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por dentro da Convenção Republicana para as Eleições Intermediárias, onde rolou o “Trump-a-Palooza”",
+      "titleOriginal": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
+      "publishedAt": "2026-09-10T21:41:06.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
+      "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
+      "publishedAt": "2026-09-10T21:35:33.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Lummis intensifica a pressão sobre os democratas em relação ao projeto de lei sobre criptomoedas",
@@ -11,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Ataques de 11 de setembro estão entre os “eventos históricos mais importantes” na vida dos adultos norte-americanos: pesquisa",
+      "title": "Ataques de 11 de setembro estão entre os “eventos históricos mais importantes” da vida dos adultos norte-americanos: pesquisa",
       "titleOriginal": "9/11 attacks among 'most important historic events' in US adults' lifetimes: Poll",
       "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
       "publishedAt": "2026-09-10T21:14:19.000Z"
@@ -32,7 +53,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Sam Bankman-Fried pede à Suprema Corte que reexamine sua condenação por fraude",
+      "title": "Sam Bankman-Fried pede ao Supremo Tribunal Federal que reexamine sua condenação por fraude",
       "titleOriginal": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html",
       "publishedAt": "2026-09-10T21:02:38.000Z"
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-10T21:02:08.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
-      "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
-      "publishedAt": "2026-09-10T20:50:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a guerra no Irã",
-      "titleOriginal": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
-      "publishedAt": "2026-09-10T20:38:27.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Zelenskyy visita o Canadá para buscar mais apoio militar para a Ucrânia",
-      "titleOriginal": "Zelenskyy visits Canada to seek further military support for Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
-      "publishedAt": "2026-09-10T20:32:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O DDHQ altera as previsões para o Senado a favor dos democratas, mas depois volta a favor do Partido Republicano: “É como jogar uma moeda”",
-      "titleOriginal": "DDHQ shifts Senate odds to Democrats, then back to GOP: 'A coin flip'",
-      "link": "https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq/",
-      "publishedAt": "2026-09-10T20:31:35.000Z"
+      "source": "Wall Street Journal",
+      "title": "A Adobe atinge 1 bilhão de usuários ativos mensais e eleva a previsão para o ano inteiro",
+      "titleOriginal": "Adobe Hits 1 Billion Monthly Active Users, Raises Full-Year Outlook",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3FkUEhNZ3UtY1oxUmI4Wjg4Q1l6QWpoOF9CV1NMZ1RmdWpqWnNJSjE0Yk1EU1lFeW50cnRsUGhBUkxJaUJuR0lnOWJmNkRWaUdjYWRYNG5VRUE5T3J0TWZxWmpYRWk5bnJ0aElkSEJsbi1YekQ0MVZnM0RZYzZmQnRncG56VFp5RDJtQ0N3eV9CUnc2WEtiZ205UWxCcW1iSHdrUHNIRjU2dmR3UnRIbmRibw?oc=5",
+      "publishedAt": "2026-09-10T20:46:00.000Z"
     }
   ]
 }
