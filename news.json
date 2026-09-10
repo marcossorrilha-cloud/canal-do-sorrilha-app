@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-10T13:52:19.535Z",
+  "updatedAt": "2026-09-10T14:28:11.073Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Os democratas poderiam conquistar o controle do Senado? O que mostra a previsão do DDHQ: debate ao vivo",
+      "titleOriginal": "Could Democrats win Senate control? What the DDHQ forecast shows: Live discussion",
+      "link": "https://thehill.com/homenews/campaign/data-nerds/6081382-democratic-chances-senate-control-midterms-ddhq-live-discussion/",
+      "publishedAt": "2026-09-10T13:55:07.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Com queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
+      "title": "Com a queda nas pesquisas, os republicanos recorrem a uma estratégia já conhecida: o medo",
       "titleOriginal": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
       "publishedAt": "2026-09-10T13:29:15.000Z"
     },
     {
       "source": "New York Times",
-      "title": "“Finja que estou concorrendo”: 7 lições da Convenção do Partido Republicano para as eleições de meio de mandato",
+      "title": "“Finja que estou concorrendo”: 7 pontos a serem destacados da Convenção do Partido Republicano para as eleições de meio de mandato",
       "titleOriginal": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
       "publishedAt": "2026-09-10T13:17:54.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Alternativas baratas a medicamentos biológicos enfrentam obstáculos, ameaçando a economia no setor de saúde dos EUA",
+      "titleOriginal": "Exclusive | Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXdSZkx1TDZWeVZaQXRmalpDTUFITi1pUVdCUlRPNHF1b0poR2JFbXpwUEdtRkxaZEdLQkl4WHFybEN0bm1IMU50dVFNQ2lOV01uSm4tNXVPb1hVYzAtdFFZUWJMYlEtLVl5ZDVybFRETDVnSFd2bHlpTElQa1RFbWFXSkRhSERjVUJsUjVLeWF4RlNxSGhzSWdyOWdULUF0a0pTcDNId3htemtER0xoZEd2eUtnN3M?oc=5",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -32,45 +46,31 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump, sobre a vaia da plateia da convenção a Thune: “Não, não. John está se esforçando bastante”",
+      "title": "Trump, sobre a vaia da plateia da convenção a Thune: “Não, não. John está se esforçando muito”",
       "titleOriginal": "Trump on convention crowd booing Thune: 'No, no. John is working hard'",
       "link": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
       "publishedAt": "2026-09-10T12:32:01.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Pode apostar: os laços da família Trump com os mercados de previsão vão se tornar um problema para a Receita Federal",
+      "title": "Pode apostar: os vínculos dos Trump com os mercados de previsão vão se tornar um problema para a Receita Federal dos EUA",
       "titleOriginal": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
       "link": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
       "publishedAt": "2026-09-10T12:30:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-10T12:26:21.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "O'Reilly: “Fetterman vai se tornar um republicano”",
+      "title": "O'Reilly: “Fetterman vai se tornar republicano”",
       "titleOriginal": "O'Reilly: 'Fetterman is going to be a Republican'",
       "link": "https://thehill.com/homenews/senate/6080968-bill-oreilly-john-fetterman-democrats-republicans-midterms-gop-convention/",
       "publishedAt": "2026-09-10T12:03:17.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Na disputa eleitoral: Um ano após o assassinato de Charlie Kirk, a Turning Point USA segue em frente",
-      "titleOriginal": "On the Ballot: One year after Charlie Kirk’s assassination, Turning Point USA presses on",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6078925-on-the-ballot-charlie-kirk-assasination-turning-point-usa/",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Secretário de Estado do Missouri enfrenta audiência por desacato em meio à disputa sobre o redesenho dos distritos eleitorais",
-      "titleOriginal": "Missouri Secretary of state faces contempt hearing amid redistricting fight",
-      "link": "https://thehill.com/regulation/court-battles/6080998-missouri-secretary-of-state-denny-hoskins-contempt-hearing-redistricting-battle-midterms/",
-      "publishedAt": "2026-09-10T11:48:24.000Z"
+      "source": "Axios",
+      "title": "Fetterman elogia Trump em vídeo bombástico da convenção do Partido Republicano",
+      "titleOriginal": "Fetterman praises Trump in bombshell GOP convention video",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "publishedAt": "2026-09-10T11:31:26.000Z"
     }
   ]
 }
