@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-10T21:49:57.434Z",
+  "updatedAt": "2026-09-10T22:25:09.111Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
+      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+      "publishedAt": "2026-09-10T22:04:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump enfrenta reações negativas por causa da promessa de dividendos de US$ 5 mil",
+      "title": "Trump enfrenta reação negativa por causa da promessa de dividendo de US$ 5 mil",
       "titleOriginal": "Trump sees backlash over $5K dividend pledge",
       "link": "https://thehill.com/newsletters/business-economy/6083240-trump-sees-backlash-over-5k-dividend-pledge/",
       "publishedAt": "2026-09-10T21:45:27.000Z"
@@ -17,11 +24,25 @@
       "publishedAt": "2026-09-10T21:41:06.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
+      "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
+      "publishedAt": "2026-09-10T21:40:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "25 anos após o 11 de setembro, Trump personifica uma nação que segue em frente",
       "titleOriginal": "25 Years After 9/11, Trump Personifies a Nation Moving On",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
       "publishedAt": "2026-09-10T21:35:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
+      "publishedAt": "2026-09-10T21:26:23.000Z"
     },
     {
       "source": "The Hill",
@@ -46,31 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Alguns republicanos relutam em aceitar a oferta de Trump de um “dividendo” de US$ 5.000",
+      "title": "Alguns republicanos rejeitam a oferta de Trump de um “dividendo” de US$ 5.000",
       "titleOriginal": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
       "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
       "publishedAt": "2026-09-10T21:04:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Sam Bankman-Fried pede ao Supremo Tribunal Federal que reexamine sua condenação por fraude",
-      "titleOriginal": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/sam-bankman-fried-supreme-court.html",
-      "publishedAt": "2026-09-10T21:02:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Talarico lidera Paxton no Texas por 4 pontos: pesquisa",
-      "titleOriginal": "Talarico leads Paxton in Texas by 4 points: Poll",
-      "link": "https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/",
-      "publishedAt": "2026-09-10T21:02:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Adobe atinge 1 bilhão de usuários ativos mensais e eleva a previsão para o ano inteiro",
-      "titleOriginal": "Adobe Hits 1 Billion Monthly Active Users, Raises Full-Year Outlook",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3FkUEhNZ3UtY1oxUmI4Wjg4Q1l6QWpoOF9CV1NMZ1RmdWpqWnNJSjE0Yk1EU1lFeW50cnRsUGhBUkxJaUJuR0lnOWJmNkRWaUdjYWRYNG5VRUE5T3J0TWZxWmpYRWk5bnJ0aElkSEJsbi1YekQ0MVZnM0RZYzZmQnRncG56VFp5RDJtQ0N3eV9CUnc2WEtiZ205UWxCcW1iSHdrUHNIRjU2dmR3UnRIbmRibw?oc=5",
-      "publishedAt": "2026-09-10T20:46:00.000Z"
     }
   ]
 }
