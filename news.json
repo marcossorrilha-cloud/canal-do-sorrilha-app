@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:51:54.925Z",
+  "updatedAt": "2026-09-11T11:26:45.327Z",
   "count": 10,
   "items": [
     {
@@ -10,8 +10,15 @@
       "publishedAt": "2026-09-11T10:25:55.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Os preços do petróleo caem para US$ 104 e as bolsas mundiais apresentam resultados mistos após as perdas em Wall Street",
+      "titleOriginal": "Oil prices fall to $104 and world shares are mixed following Wall Street losses",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+      "publishedAt": "2026-09-11T10:18:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Os democratas ganham terreno entre os eleitores hispânicos descontentes com Trump",
+      "title": "Os democratas ganham terreno entre os eleitores hispânicos insatisfeitos com Trump",
       "titleOriginal": "Democrats gain ground among Hispanic voters disenchanted with Trump",
       "link": "https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration/",
       "publishedAt": "2026-09-11T10:00:00.000Z"
@@ -31,11 +38,18 @@
       "publishedAt": "2026-09-11T10:00:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O que é preciso saber sobre a eleição deste domingo na Suécia, o mais novo membro da OTAN",
+      "titleOriginal": "What to know about Sunday’s election in Sweden, NATO’s newest member",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdvT0c2UG1sRDc1WFZfMkRPQU90MVc1dzNGWHo4RWM0X1VHLUJqU2E3ZFRqOWRWdHBoNV9oVlFqM1JKQlduMmxuSTdJdkNoWVpaWGlXdm56Umc4QmxXVnhBZVBwNWY5XzNlWmtPR1JnS0Q1MXdmcC1JMnVoSlYxZHNjdTlOdTJKSGpnWllTZTA4Z3FiYUhxOW5VUVltU2RacWk0cXpYNXUtU1It?oc=5",
+      "publishedAt": "2026-09-11T09:33:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "title": "Por que considerar a China como uma potência emergente comum é uma visão equivocada",
       "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-11T09:26:25.000Z"
+      "publishedAt": "2026-09-11T09:08:11.000Z"
     },
     {
       "source": "New York Times",
@@ -56,21 +70,7 @@
       "title": "Ouro deve registrar perda semanal, com as expectativas de aumento das taxas de juros pressionando os preços",
       "titleOriginal": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJSQ3JVMXdCWkR4d2RjbDkxRTVFR0dBcUN2Nk5ZU3ktR0wwem1JcXRSaFhTUlAzczkzWTY4NVJzMjRXVDlXSVdCelV0TTRLQS1CSW5peUV3SDdTdzNmTndSay05ODVUTVFlVWhja2RUNHV0YWJSVjNrc3hWWEtWV0ZycFE5X3FfbW5kWDEwZUFyMGM?oc=5",
-      "publishedAt": "2026-09-11T08:36:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
-      "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
-      "publishedAt": "2026-09-11T08:22:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Preço do petróleo cai para US$ 105 e ações asiáticas registram queda, acompanhando as perdas de Wall Street",
-      "titleOriginal": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
-      "publishedAt": "2026-09-11T07:33:00.000Z"
+      "publishedAt": "2026-09-11T08:48:25.000Z"
     }
   ]
 }
