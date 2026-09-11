@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-11T20:02:05.661Z",
+  "updatedAt": "2026-09-11T22:35:48.232Z",
   "count": 10,
   "items": [
     {
       "source": "AP News",
-      "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra com o Irã",
-      "titleOriginal": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
+      "title": "Os houthis tomam uma ilha, abrindo uma nova frente na guerra com o Irã, enquanto a Arábia Saudita interrompe o funcionamento de um oleoduto",
+      "titleOriginal": "Houthis seize an island, opening a new front in the Iran war, as Saudi Arabia shuts down a pipeline",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "publishedAt": "2026-09-11T19:52:00.000Z"
+      "publishedAt": "2026-09-11T22:29:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Por trás da homenagem de Trump ao 11 de setembro, uma defesa de sua guerra contra o Irã",
-      "titleOriginal": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran",
+      "title": "Será que os alertas alarmistas sobre a IA influenciarão as eleições de meio de mandato?",
+      "titleOriginal": "Will Stark Warnings About AI Shape the Midterm Elections?",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
+      "publishedAt": "2026-09-11T22:21:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Verificando os fatos por trás dos ataques de Trump aos candidatos democratas ao Senado",
+      "titleOriginal": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
+      "publishedAt": "2026-09-11T21:28:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Husted demite seu diretor político por causa de publicações com imagens nazistas",
+      "titleOriginal": "Husted ousts his political director over posts with Nazi imagery",
+      "link": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
+      "publishedAt": "2026-09-11T21:19:55.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Mike Johnson é instado a cancelar o recesso da Câmara devido a alertas sobre IA",
+      "titleOriginal": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzNfelNQaFhjd1MyazVGeVk4WEFPbGpLNmRDWWhfVkp0RUc0ampoWHpZQ2wxcldET2RfeWlnVXlVTDUxNjJCcFQ1T1dCaFZHbGNOOWViYmJvNDNYLVhXMzJLMFJ1OUFhRzRHczA3SHVYWkg5RGxFUnhpZEM0N3Z1YQ?oc=5",
+      "publishedAt": "2026-09-11T21:06:08.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações dos EUA sobem após queda nos preços do petróleo e divulgação de dados sobre a inflação em linha com as expectativas",
+      "titleOriginal": "US stocks jump after oil prices ease and an inflation update comes in near expectations",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+      "publishedAt": "2026-09-11T21:04:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um empecilho”",
+      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
+      "publishedAt": "2026-09-11T20:22:21.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump parece defender uma guerra contra o Irã durante discurso no aniversário do 11 de setembro",
+      "titleOriginal": "Trump Appears to Defend Iran War During 9/11 Anniversary Speech",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
-      "publishedAt": "2026-09-11T19:37:23.000Z"
+      "publishedAt": "2026-09-11T20:09:11.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Deputado estadual pede a Trump que renomeie o Lago Erie como “Lago Pensilvânia”",
-      "titleOriginal": "State lawmaker calls on Trump to rename Lake Erie to 'Lake Pennsylvania'",
-      "link": "https://thehill.com/homenews/state-watch/6085202-maloney-requests-lake-pennsylvania-trump/",
-      "publishedAt": "2026-09-11T19:24:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
-      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
-      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
-      "publishedAt": "2026-09-11T19:13:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Laura Ingraham pressiona Trump sobre o “suborno” de US$ 5.000",
-      "titleOriginal": "Laura Ingraham presses Trump on $5,000 ‘bribe’",
-      "link": "https://thehill.com/opinion/lindseys-lens/6085124-trump-proposed-five-thousand-dollar-bribe/",
-      "publishedAt": "2026-09-11T18:47:28.000Z"
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo registram forte alta semanal em meio a riscos relacionados à oferta",
+      "titleOriginal": "Oil Prices Post Big Weekly Gain Amid Supply Risks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWRUWm1JNlJuUXpZZWtjRlROdlFScHZuVEJnaFhZdllnYUc1YmJGVzlrbk4wUnRwX2dWX2RUSExGT1ltQ1lGS2hVVFhZUnNhWDZWcEgxTUlSOW9ncXVIaWVhbjNncktKbTBacHpSNnhvT1NmbnJfMlFVaGZ4TFhybG5uVGVPTnJjb0ZqVko1WlNBOWI0ZndPYm93MWN5cjd2?oc=5",
+      "publishedAt": "2026-09-11T19:56:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "A inflação continua alta em agosto, à medida que a guerra no Irã eleva os custos da energia",
-      "titleOriginal": "Inflation stays hot in August as Iran war drives energy costs higher",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RV1BfZnF3NFZrdFpsYVFFY21TNXhHbG9zN0cySjVaZnpKSWZoRE1pLUh6SXBuOWdjR2JEbGRhMHVXVjdqejhJV25iazQ5cGZMQjZqaTRrd3JpR2VpSEQ2aXlWaDcxN2dEZXk0?oc=5",
-      "publishedAt": "2026-09-11T18:42:05.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os influenciadores convidados para a Convenção Republicana das Eleições Intermediárias evitaram, em grande parte, falar sobre a economia",
-      "titleOriginal": "Influencers Invited to the Republican Midterm Convention Largely Avoided Talking About The Economy",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html",
-      "publishedAt": "2026-09-11T18:38:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Autoridade ucraniana de alto escalão revela detalhes da guerra com a Rússia",
-      "titleOriginal": "Top Ukrainian official gives inside look at the war with Russia",
-      "link": "https://thehill.com/policy/international/6084952-ukraine-lt-gen-kyrylo-budanov-newsnation-exclusive-russia-war-breakthroughs/",
-      "publishedAt": "2026-09-11T18:24:04.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Empresa contratada refuta as alegações de Trump sobre vandalismo no Reflecting Pool",
-      "titleOriginal": "Contractor undercuts Trump's Reflecting Pool vandal claims",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yQmdYR25ULUZhM1BiaVR2Uld1Uk5HdDQwRkJQb1ZXT0d4TkJuY3JOTjlnUE8tdy1Lb0hIcGxnQWpPb3B5cnRTbFV1QTVjNllDVUZORElGUVMzN0ExLUxuNFh2UzdGOE9KODJqaGxGSFREX2ZLMVhUenBMZFJFdw?oc=5",
-      "publishedAt": "2026-09-11T18:23:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump está “99% certo” de que poderia ter discursado no evento do 11 de setembro em Nova York “se eu quisesse”",
-      "titleOriginal": "Trump ‘99 percent certain' he could have spoken at 9/11 event in New York City 'if I wanted to'",
-      "link": "https://thehill.com/homenews/administration/6085013-trump-claims-nyc-911-speech/",
-      "publishedAt": "2026-09-11T18:13:10.000Z"
+      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
+      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "publishedAt": "2026-09-11T19:33:20.000Z"
     }
   ]
 }
