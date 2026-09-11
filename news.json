@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-11T03:28:03.824Z",
+  "updatedAt": "2026-09-11T03:52:15.701Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-11T03:26:24.000Z"
+      "source": "The Hill",
+      "title": "Final da Convenção Nacional Republicana “girou em torno de Vance”, enquanto a base do Partido Republicano já de olho em 2028",
+      "titleOriginal": "RNC finale ‘all about Vance’ as GOP base looks to 2028",
+      "link": "https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/",
+      "publishedAt": "2026-09-11T03:49:54.000Z"
     },
     {
       "source": "The Hill",
@@ -24,6 +24,13 @@
       "publishedAt": "2026-09-11T03:17:49.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstáculo”",
+      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
+      "publishedAt": "2026-09-11T02:56:45.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
       "titleOriginal": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
@@ -38,15 +45,8 @@
       "publishedAt": "2026-09-11T02:19:20.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou atrapalhar”",
-      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
-      "publishedAt": "2026-09-11T02:18:51.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "JD Vance assume o protagonismo na convenção republicana, enquanto o partido enfrenta riscos nas eleições de meio de mandato",
+      "title": "JD Vance ganha destaque na convenção republicana em um momento em que o partido enfrenta riscos nas eleições de meio de mandato",
       "titleOriginal": "JD Vance takes center stage at Republican convention as party faces midterm risks",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
       "publishedAt": "2026-09-11T02:17:00.000Z"
@@ -60,7 +60,7 @@
     },
     {
       "source": "New York Times",
-      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do governo anterior, em que a maior parte do crescimento do emprego foi destinada a estrangeiros em situação irregular, 100% do crescimento do emprego nos Estados Unidos da América está sendo destinado aos cidadãos americanos, que é exatamente para onde ele deve ir.”",
+      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do governo anterior, em que a maior parte do crescimento do emprego foi destinada a estrangeiros em situação irregular, 100% do crescimento do emprego nos Estados Unidos da América está indo para os cidadãos americanos, que é exatamente onde deve estar.”",
       "titleOriginal": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
       "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth",
       "publishedAt": "2026-09-11T02:09:57.000Z"
