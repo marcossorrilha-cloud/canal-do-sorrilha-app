@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-11T02:51:50.198Z",
+  "updatedAt": "2026-09-11T03:28:03.824Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
+      "publishedAt": "2026-09-11T03:26:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Oz quer que Fetterman, a “estrela inesperada”, mude de lado e se torne republicano",
+      "titleOriginal": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
+      "link": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
+      "publishedAt": "2026-09-11T03:24:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump lidera a convenção com uma promessa: “Você vai para o inferno” se não votar",
+      "titleOriginal": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
+      "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
+      "publishedAt": "2026-09-11T03:17:49.000Z"
+    },
     {
       "source": "New York Times",
       "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
@@ -17,6 +38,20 @@
       "publishedAt": "2026-09-11T02:19:20.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou atrapalhar”",
+      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
+      "publishedAt": "2026-09-11T02:18:51.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "JD Vance assume o protagonismo na convenção republicana, enquanto o partido enfrenta riscos nas eleições de meio de mandato",
+      "titleOriginal": "JD Vance takes center stage at Republican convention as party faces midterm risks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
+      "publishedAt": "2026-09-11T02:17:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "O temor de uma onda democrata coloca o Texas no centro das atenções na Convenção do Partido Republicano",
       "titleOriginal": "Fears of a Democratic Wave Push Texas to Center Stage at G.O.P. Convention",
@@ -25,7 +60,7 @@
     },
     {
       "source": "New York Times",
-      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do governo anterior, em que a maior parte do crescimento do emprego foi destinada a imigrantes ilegais, 100% do crescimento do emprego nos Estados Unidos da América está indo para os cidadãos americanos, que é exatamente onde deve estar.”",
+      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do governo anterior, em que a maior parte do crescimento do emprego foi destinada a estrangeiros em situação irregular, 100% do crescimento do emprego nos Estados Unidos da América está sendo destinado aos cidadãos americanos, que é exatamente para onde ele deve ir.”",
       "titleOriginal": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
       "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth",
       "publishedAt": "2026-09-11T02:09:57.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?oc=5",
       "publishedAt": "2026-09-11T02:08:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Quando os programas do Medicaid destinados a pessoas em situação de rua ou gestantes em estados como Minnesota e Wisconsin começaram a desmoronar, porque o dinheiro que vocês haviam pago para apoiar essas gestantes estava indo para os fraudadores. Eis o que os democratas fizeram: recusaram-se a processar criminalmente os responsáveis.”",
-      "titleOriginal": "“When Medicaid programs for homeless or expecting mothers in states like Minnesota and Wisconsin, they began to fall apart because the money that you had paid to support those expectant mothers was going to fraudsters. Here’s what the Democrats did: They refused to prosecute the crime.”",
-      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because",
-      "publishedAt": "2026-09-11T02:05:07.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Líderes republicanos insistem que os que não compareceram em Dallas não estão se afastando de Trump",
-      "titleOriginal": "Republican leaders insist Dallas no-shows aren't running from Trump",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlJuZVVpcjA1Q1hac3VmVE9kT3BRWGthbWxZNkVaNllocmt2UGUtTEhRc1ZkblZ5d01SNENCY0Nkd0Jsd2lkbUkxYmZnOVNsQ3FFdzJ0blgyajd3NWxsUUxJUHRMOEZ0aFJMQmRRTTFmYlB6ZVBRcHRrTFF0S3NfTjdBV0xoZVJsemNrdkRhcWFndw?oc=5",
-      "publishedAt": "2026-09-11T01:40:48.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a Guerra do Irã",
-      "titleOriginal": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
-      "publishedAt": "2026-09-11T01:17:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O silêncio do governo Trump faz com que 200 mil imigrantes salvadorenhos tenham esperança de que estejam protegidos",
-      "titleOriginal": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-      "publishedAt": "2026-09-11T00:57:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
-      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-11T00:54:00.000Z"
     }
   ]
 }
