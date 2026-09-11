@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-09-11T00:52:24.959Z",
+  "updatedAt": "2026-09-11T01:26:17.015Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a Guerra do Irã",
+      "titleOriginal": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
+      "publishedAt": "2026-09-11T01:17:31.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, após o tribunal rejeitar o mapa apoiado por Trump",
+      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+      "publishedAt": "2026-09-11T00:54:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
+      "publishedAt": "2026-09-11T00:39:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O promotor designado para liderar a investigação contra os adversários de Trump disse à AP que renunciou ao cargo",
       "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
       "publishedAt": "2026-09-11T00:25:00.000Z"
@@ -24,13 +45,6 @@
       "publishedAt": "2026-09-11T00:11:12.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, depois que o tribunal rejeitou o mapa apoiado por Trump",
-      "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "publishedAt": "2026-09-10T23:51:00.000Z"
-    },
-    {
       "source": "Axios",
       "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstáculo”",
       "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
@@ -38,39 +52,25 @@
       "publishedAt": "2026-09-10T23:43:13.000Z"
     },
     {
+      "source": "New York Times",
+      "title": "Dezenas de manifestantes se reúnem em frente à Convenção Republicana para as Eleições Intermediárias, em Dallas",
+      "titleOriginal": "Dozens of Protesters Gather Outside the Republican Midterm Convention in Dallas",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/dallas-republican-convention-protests-arrests",
+      "publishedAt": "2026-09-10T23:34:52.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Convenção republicana para as eleições de meio de mandato dá a Vance um momento de destaque, enquanto o partido enfrenta riscos nas eleições",
+      "title": "Convenção republicana para as eleições de meio de mandato dá a Vance um momento de destaque, enquanto o partido enfrenta riscos nas eleições de meio de mandato",
       "titleOriginal": "Republican midterm convention provides Vance center stage moment as party faces midterm risks",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
       "publishedAt": "2026-09-10T23:22:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O indicado por Trump para o cargo de diretor-geral de Saúde divulga investimentos no setor de tabaco e farmacêutico",
+      "title": "O indicado por Trump para o cargo de cirurgião-geral revela investimentos no setor do tabaco e farmacêutico",
       "titleOriginal": "Trump surgeon general nominee discloses tobacco, pharma investments",
       "link": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
       "publishedAt": "2026-09-10T23:15:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça abre investigação sobre as negociações do Los Angeles Clippers com Kawhi Leonard",
-      "titleOriginal": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/kawhi-leonard-clippers-nba-justice-department.html",
-      "publishedAt": "2026-09-10T23:09:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rendimentos dos títulos sobem modestamente após a promessa de Trump sobre dividendos",
-      "titleOriginal": "Bond yields rise modestly after Trump's dividend pledge",
-      "link": "https://thehill.com/business/6083360-gop-midterm-dividend-bond-yields-high/",
-      "publishedAt": "2026-09-10T22:58:02.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Governador da Califórnia assina novas leis para proteger as crianças na internet",
-      "titleOriginal": "California’s Governor Signs New Laws to Protect Children Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSl8yOHEtMmlnYXZJRzV3RGw2WDBaaUxsT2YwSTFUUWlILTFHMzlVV2pFZDkyU2hYeTF6S2c1cm1PRFF0QmdGY01MTmp2WUNOcVl5Sm9nWFdGak03WVFHQ0NLSE00SjdIMWNmZHAxY3BvQXJiQ0ZzVDJnZkVoUk9pdW1ycThmbHFFOGR4YWg3NEdvdkYxdFZCT2RBeVNjRGhHTjNxOE9DS3E1NHM?oc=5",
-      "publishedAt": "2026-09-10T22:47:00.000Z"
     }
   ]
 }
