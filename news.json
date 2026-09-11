@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-11T13:28:40.240Z",
+  "updatedAt": "2026-09-11T13:51:52.703Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Democratas estão 11 pontos à frente dos republicanos na disputa pelo controle da Câmara: pesquisa",
+      "title": "Atualizações ao vivo: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
+      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
+      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
+      "publishedAt": "2026-09-11T13:39:51.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas lideram os republicanos por 11 pontos na disputa pelo controle da Câmara: pesquisa",
       "titleOriginal": "Democrats top Republicans by 11 points for House control: Survey",
       "link": "https://thehill.com/homenews/campaign/6083950-democrats-republicans-house-control-midterms-survey/",
       "publishedAt": "2026-09-11T13:23:32.000Z"
@@ -17,6 +24,13 @@
       "publishedAt": "2026-09-11T13:22:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "A Anthropic afirma que o Irã utilizou seu modelo de IA americano para atacar navios de guerra da Marinha dos EUA",
+      "titleOriginal": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
+      "publishedAt": "2026-09-11T13:12:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "A Archy levanta US$ 50 milhões para automatizar os processos administrativos de consultórios odontológicos",
       "titleOriginal": "Archy raises $50M to automate dental back offices",
@@ -24,11 +38,11 @@
       "publishedAt": "2026-09-11T13:05:04.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
-      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
-      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
-      "publishedAt": "2026-09-11T13:03:16.000Z"
+      "source": "Axios",
+      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
+      "publishedAt": "2026-09-11T13:04:01.000Z"
     },
     {
       "source": "New York Times",
@@ -36,6 +50,13 @@
       "titleOriginal": "Influencers Invited to the Republican Midterm Convention Largely Avoided Talking About The Economy",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html",
       "publishedAt": "2026-09-11T13:00:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra contra o Irã",
+      "titleOriginal": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+      "publishedAt": "2026-09-11T12:58:00.000Z"
     },
     {
       "source": "AP News",
@@ -47,30 +68,9 @@
     {
       "source": "The Hill",
       "title": "DeSantis critica a promessa de Trump de pagar um dividendo de US$ 5 mil: “Mais dívida e mais inflação”",
-      "titleOriginal": "DeSantis knocks Trump $5K dividend payment pledge: 'More debt and more inflation'",
+      "titleOriginal": "DeSantis knocks Trump's $5K dividend payment pledge: 'More debt and more inflation'",
       "link": "https://thehill.com/homenews/state-watch/6083953-ron-desantis-donald-trump-dividends-midterms/",
       "publishedAt": "2026-09-11T12:57:17.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A inflação continua alta em agosto, à medida que a guerra no Irã eleva os custos da energia",
-      "titleOriginal": "Inflation stays hot in August as Iran war drives energy costs higher",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RV1BfZnF3NFZrdFpsYVFFY21TNXhHbG9zN0cySjVaZnpKSWZoRE1pLUh6SXBuOWdjR2JEbGRhMHVXVjdqejhJV25iazQ5cGZMQjZqaTRrd3JpR2VpSEQ2aXlWaDcxN2dEZXk0?oc=5",
-      "publishedAt": "2026-09-11T12:48:23.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
-      "publishedAt": "2026-09-11T12:40:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "25 anos após o 11 de setembro: como os ataques transformaram a política americana",
-      "titleOriginal": "25 years after 9/11: How the attacks transformed American politics",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6083907-25-years-sept-11-attacks-american-politics-live-discussion/",
-      "publishedAt": "2026-09-11T12:39:15.000Z"
     }
   ]
 }
