@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:28:04.843Z",
+  "updatedAt": "2026-09-11T07:51:46.416Z",
   "count": 10,
   "items": [
     {
@@ -11,17 +11,31 @@
     },
     {
       "source": "New York Times",
-      "title": "7 pontos a serem destacados da Convenção Republicana para as eleições de meio de mandato",
+      "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
       "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
       "publishedAt": "2026-09-11T06:08:23.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O grande final da convenção de meio de mandato de Trump: “Estou um pouco cansado da política”",
+      "title": "O grande final da convenção de Trump para as eleições de meio de mandato: “Estou um pouco cansado da política”",
       "titleOriginal": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
-      "publishedAt": "2026-09-11T05:40:05.000Z"
+      "publishedAt": "2026-09-11T05:40:06.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O verdadeiro teste para os “Quatro Pequenos Tigres das GPUs” da China ainda está por vir",
+      "titleOriginal": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?oc=5",
+      "publishedAt": "2026-09-11T05:34:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços do petróleo permanecem acima de US$ 108 e as ações asiáticas caem, acompanhando as perdas de Wall Street",
+      "titleOriginal": "Oil prices stay above $108 and Asian shares decline, tracking Wall Street losses",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+      "publishedAt": "2026-09-11T04:59:00.000Z"
     },
     {
       "source": "Politico",
@@ -39,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Oz quer que Fetterman, a “estrela inesperada”, mude de lado e se torne republicano",
+      "title": "Oz quer que Fetterman, a “estrela inesperada”, mude de partido e se torne republicano",
       "titleOriginal": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
       "link": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
       "publishedAt": "2026-09-11T03:24:03.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
       "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
       "publishedAt": "2026-09-11T03:17:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance critica Talarico em discurso na convenção do Texas",
-      "titleOriginal": "Vance takes aim at Talarico in Texas convention speech",
-      "link": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
-      "publishedAt": "2026-09-11T03:03:51.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
-      "titleOriginal": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
-      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/now-were-cutting-your-prices-by-50-60-70-80-and-a-couple-of-cases-90-percent",
-      "publishedAt": "2026-09-11T02:47:23.000Z"
     }
   ]
 }
