@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-11T15:27:26.988Z",
+  "updatedAt": "2026-09-11T15:52:09.207Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Congresso e nossa classe política vêm decepcionando as famílias das vítimas do 11 de setembro há 25 anos",
+      "titleOriginal": "Congress and our political class have been letting 9/11 families down for 25 years",
+      "link": "https://thehill.com/opinion/congress-blog/politics/6081670-911-anniversary-political-accountability/",
+      "publishedAt": "2026-09-11T15:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Buffalo Bills tocará os hinos dos EUA e do Canadá na estreia em casa",
+      "titleOriginal": "Buffalo Bills to play US and Canadian anthems at home opener",
+      "link": "https://thehill.com/policy/sports-gaming/6082839-buffalo-bills-to-play-us-and-canadian-anthems-at-home-opener/",
+      "publishedAt": "2026-09-11T15:26:18.000Z"
+    },
     {
       "source": "AP News",
       "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra contra o Irã",
@@ -32,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "JD Vance está certo sobre os pais que ficam em casa — mas sua solução está totalmente errada",
+      "title": "JD Vance está certo sobre os pais que ficam em casa — mas a solução que ele propõe está totalmente errada",
       "titleOriginal": "JD Vance is right about stay-at-home parents — but his solution is all wrong",
       "link": "https://thehill.com/opinion/white-house/6079767-trump-administration-parental-pay-proposal/",
       "publishedAt": "2026-09-11T15:00:00.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
       "publishedAt": "2026-09-11T14:39:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Carney: Últimas medidas comerciais de Trump são “relativamente modestas”",
-      "titleOriginal": "Carney: Latest Trump trade moves 'relatively modest'",
-      "link": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
-      "publishedAt": "2026-09-11T14:27:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
-      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
-      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
-      "publishedAt": "2026-09-11T14:24:36.000Z"
     }
   ]
 }
