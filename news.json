@@ -1,20 +1,69 @@
 {
-  "updatedAt": "2026-09-11T11:50:32.210Z",
+  "updatedAt": "2026-09-11T12:33:26.689Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
-      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "publishedAt": "2026-09-11T10:31:18.000Z"
+      "source": "The Hill",
+      "title": "Preço do diesel ultrapassa US$ 6, estabelecendo novo recorde",
+      "titleOriginal": "Diesel prices top $6, setting new record",
+      "link": "https://thehill.com/policy/energy-environment/6083842-diesel-prices-record-high-iran-war-russia-ukraine-attacks-trump-midterms/",
+      "publishedAt": "2026-09-11T12:28:38.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como Trump está usando o Serviço Postal para interferir nas eleições",
+      "titleOriginal": "How Trump Is Using the Postal Service to Intervene in Elections",
+      "link": "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html",
+      "publishedAt": "2026-09-11T12:28:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
+      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
+      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
+      "publishedAt": "2026-09-11T12:14:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump comemora os 25 anos do 11 de setembro em discurso no Pentágono",
+      "titleOriginal": "Watch live: Trump commemorates 25 years since 9/11 in Pentagon speech",
+      "link": "https://thehill.com/video-clips/6083859-watch-live-donald-trump-pentagon-september-11-attacks-25th-anniversary/",
+      "publishedAt": "2026-09-11T12:13:31.000Z"
     },
     {
       "source": "AP News",
-      "title": "Relatório sobre a inflação é divulgado em um momento de alta nos preços do petróleo, aumento das taxas de juros e indecisão do Fed",
-      "titleOriginal": "Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
-      "publishedAt": "2026-09-11T10:31:00.000Z"
+      "title": "Os preços do diesel nos EUA ultrapassam os US$ 6 por galão, agravando as dificuldades no transporte de produtos de uso diário",
+      "titleOriginal": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
+      "publishedAt": "2026-09-11T12:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Política sem meias medidas: uma pseudopolítica em uma pseudoconvenção",
+      "titleOriginal": "Whole Hog Politics: A pseudo-policy at a pseudo-convention",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/6082989-trump-dividend-stimulus-plans/",
+      "publishedAt": "2026-09-11T12:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Futuros dos EUA em alta, preços do petróleo em queda antes da divulgação de um dos indicadores mais importantes sobre a inflação dos últimos anos",
+      "titleOriginal": "US futures up, oil prices down ahead of one of the more crucial reads on inflation in years",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+      "publishedAt": "2026-09-11T11:49:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstrucionista”",
+      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
+      "publishedAt": "2026-09-11T11:19:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições intermediárias",
+      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "publishedAt": "2026-09-11T10:31:18.000Z"
     },
     {
       "source": "Axios",
@@ -22,55 +71,6 @@
       "titleOriginal": "Poll: Predict the Bengals' 2026 season",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDhRa21sWWNiU0hCdUtzRnRGN0NlR2t1cjdBeEh4QXMyb1E5djdOMzR6UFY4dWJrQVB0RGtvc0hacEw1VU43RHozRTNkSU9xNTBGNzdyQlpZNHBFbHY3Q1FnaUU3bGFCckhSc19YWmktWjFLYVVGVW5BTEJxUWhKTGhVeDBkamZHUEtuNzZ4RTM1R2hRaV91ekl5YWpWY1F1?oc=5",
       "publishedAt": "2026-09-11T10:25:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os preços do petróleo caem para US$ 104 e as bolsas mundiais apresentam resultados mistos após as perdas em Wall Street",
-      "titleOriginal": "Oil prices fall to $104 and world shares are mixed following Wall Street losses",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
-      "publishedAt": "2026-09-11T10:18:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas ganham terreno entre os eleitores hispânicos descontentes com Trump",
-      "titleOriginal": "Democrats gain ground among Hispanic voters disenchanted with Trump",
-      "link": "https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration/",
-      "publishedAt": "2026-09-11T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A participação de Fetterman na convenção do Partido Republicano levanta dúvidas sobre seu futuro político",
-      "titleOriginal": "Fetterman’s GOP convention appearance raises questions about his political future",
-      "link": "https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-pennsylvania/",
-      "publishedAt": "2026-09-11T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "25 anos após o 11 de setembro, a segurança nos aeroportos volta a ser analisada por Trump",
-      "titleOriginal": "25 years after 9/11, airport security gets second look from Trump",
-      "link": "https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security/",
-      "publishedAt": "2026-09-11T10:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O que é preciso saber sobre a eleição deste domingo na Suécia, o mais novo membro da OTAN",
-      "titleOriginal": "What to know about Sunday’s election in Sweden, NATO’s newest member",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdvT0c2UG1sRDc1WFZfMkRPQU90MVc1dzNGWHo4RWM0X1VHLUJqU2E3ZFRqOWRWdHBoNV9oVlFqM1JKQlduMmxuSTdJdkNoWVpaWGlXdm56Umc4QmxXVnhBZVBwNWY5XzNlWmtPR1JnS0Q1MXdmcC1JMnVoSlYxZHNjdTlOdTJKSGpnWllTZTA4Z3FiYUhxOW5VUVltU2RacWk0cXpYNXUtU1It?oc=5",
-      "publishedAt": "2026-09-11T09:33:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por dentro da batalha jurídica do RNC em torno da “integridade eleitoral”",
-      "titleOriginal": "Inside the RNC's legal fight over \"election integrity\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiaUhyRkF1SloxMDdQNVF2R1VjaHRPZXdEVy12X1V0cXVlZFhhdUp0VlJxUVZsQlRZX2taX2M1VGxnM0pMNUQ5T2NFbHFINFl6dm05ME9oMW42ZlpuczRZWG42SXhPcEZaQjl4TU1meG9zTldFVUtv?oc=5",
-      "publishedAt": "2026-09-11T09:23:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é uma visão equivocada",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-11T09:08:11.000Z"
     }
   ]
 }
