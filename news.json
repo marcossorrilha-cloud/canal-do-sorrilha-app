@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T08:29:23.912Z",
+  "updatedAt": "2026-09-11T08:53:34.208Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Ouro deve registrar perda semanal, com as expectativas de aumento das taxas de juros pressionando os preços",
+      "titleOriginal": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJSQ3JVMXdCWkR4d2RjbDkxRTVFR0dBcUN2Nk5ZU3ktR0wwem1JcXRSaFhTUlAzczkzWTY4NVJzMjRXVDlXSVdCelV0TTRLQS1CSW5peUV3SDdTdzNmTndSay05ODVUTVFlVWhja2RUNHV0YWJSVjNrc3hWWEtWV0ZycFE5X3FfbW5kWDEwZUFyMGM?oc=5",
+      "publishedAt": "2026-09-11T08:36:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
@@ -11,21 +18,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "title": "Por que considerar a China uma potência emergente comum é uma visão equivocada",
       "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
       "publishedAt": "2026-09-11T07:56:25.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
-      "publishedAt": "2026-09-11T06:55:57.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Ônibus de turismo holandês capota na Suíça, deixando várias pessoas mortas, segundo a polícia",
+      "title": "Ônibus de turismo holandês capota na Suíça, causando a morte de várias pessoas, segundo a polícia",
       "titleOriginal": "Dutch tour bus overturns in Switzerland, leaving several people dead, police say",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekZMUTh0Q1RldW0weVhXeXJGM2R4OG95UU1hOVh4MHlkNGVoR21WSE81VkR6el9wcWVfOXpyMkNvX0tLUFlvNTBJZ2EyLVpsVmJPQmloV245cm5lS0tiRFFPXzdVNDJVdTVKUHN2V28yLVg2dG5kaUI3OTlWUkhLSnNvV3JUdlVRby1fTXMxekdhSXQwcXowSHRYN2w?oc=5",
       "publishedAt": "2026-09-11T06:05:00.000Z"
@@ -52,6 +52,13 @@
       "publishedAt": "2026-09-11T04:59:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
+      "publishedAt": "2026-09-11T04:51:43.000Z"
+    },
+    {
       "source": "Politico",
       "title": "Ted Cruz sobre sua trajetória rumo a 2028, JD Vance e o futuro do Partido Republicano",
       "titleOriginal": "Ted Cruz on his 2028 lane, JD Vance and the GOP’s future",
@@ -64,13 +71,6 @@
       "titleOriginal": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDFOOW5haFcyQ1ZsR0VqVHhFR3kwZ0ZGb1FxN1hyY1dsM0xGSHVjcW85OEVFODVhQ1BTeFpNNzVWdnRqUl9fMzFuVHBtR1E4TWo5MzhkQVQyTU93X3AtVXNtUy1GOWxQYU9yc2VNNGx2c3hQREV1NGVvQVVsZkIwVm9zekpLaUhPdTM3OGZsdFU5WEVaWUtTUG1vY0M?oc=5",
       "publishedAt": "2026-09-11T03:46:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Oz quer que Fetterman, a “estrela inesperada”, mude de partido e se torne republicano",
-      "titleOriginal": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
-      "link": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
-      "publishedAt": "2026-09-11T03:24:03.000Z"
     }
   ]
 }
