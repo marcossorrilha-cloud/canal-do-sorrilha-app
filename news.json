@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:28:05.213Z",
+  "updatedAt": "2026-09-11T09:52:31.670Z",
   "count": 10,
   "items": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ouro deve registrar perda semanal, à medida que as expectativas de aumento das taxas de juros pressionam os preços",
+      "title": "Ouro deve registrar perda semanal, com as expectativas de alta nas taxas de juros pressionando os preços",
       "titleOriginal": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJSQ3JVMXdCWkR4d2RjbDkxRTVFR0dBcUN2Nk5ZU3ktR0wwem1JcXRSaFhTUlAzczkzWTY4NVJzMjRXVDlXSVdCelV0TTRLQS1CSW5peUV3SDdTdzNmTndSay05ODVUTVFlVWhja2RUNHV0YWJSVjNrc3hWWEtWV0ZycFE5X3FfbW5kWDEwZUFyMGM?oc=5",
       "publishedAt": "2026-09-11T08:48:25.000Z"
     },
     {
       "source": "New York Times",
-      "title": "7 pontos a serem destacados da Convenção Republicana para as eleições de meio de mandato",
+      "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
       "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
       "publishedAt": "2026-09-11T08:22:25.000Z"
@@ -43,13 +43,6 @@
       "titleOriginal": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
       "publishedAt": "2026-09-11T07:33:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
-      "publishedAt": "2026-09-11T06:55:57.000Z"
     },
     {
       "source": "AP News",
@@ -67,10 +60,17 @@
     },
     {
       "source": "New York Times",
-      "title": "O grande encerramento da convenção de meio de mandato de Trump: “Estou um pouco cansado da política”",
+      "title": "O grande final da convenção de Trump para as eleições de meio de mandato: “Estou um pouco cansado da política”",
       "titleOriginal": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
       "publishedAt": "2026-09-11T05:40:06.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O verdadeiro teste para os “Quatro Pequenos Tigres das GPUs” da China ainda está por vir",
+      "titleOriginal": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?oc=5",
+      "publishedAt": "2026-09-11T05:34:00.000Z"
     }
   ]
 }
