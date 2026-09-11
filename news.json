@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T02:28:00.394Z",
+  "updatedAt": "2026-09-11T02:51:50.198Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
+      "titleOriginal": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/now-were-cutting-your-prices-by-50-60-70-80-and-a-couple-of-cases-90-percent",
+      "publishedAt": "2026-09-11T02:47:23.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Democratas do Novo México pedem à Apple e ao Google que mantenham o nome do estado no mapa",
@@ -11,17 +18,38 @@
     },
     {
       "source": "New York Times",
-      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do último governo, em que a maior parte do crescimento do emprego foi destinada a estrangeiros em situação irregular, 100% do crescimento do emprego nos Estados Unidos da América está indo para os cidadãos americanos, que é exatamente onde deve estar.”",
+      "title": "O temor de uma onda democrata coloca o Texas no centro das atenções na Convenção do Partido Republicano",
+      "titleOriginal": "Fears of a Democratic Wave Push Texas to Center Stage at G.O.P. Convention",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/dallas-texas-republican-convention.html",
+      "publishedAt": "2026-09-11T02:13:24.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do governo anterior, em que a maior parte do crescimento do emprego foi destinada a imigrantes ilegais, 100% do crescimento do emprego nos Estados Unidos da América está indo para os cidadãos americanos, que é exatamente onde deve estar.”",
       "titleOriginal": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
       "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth",
       "publishedAt": "2026-09-11T02:09:57.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Rebeldes houthis, apoiados pelo Irã, tomam cidade portuária estratégica no Iêmen, aumentando a ameaça à navegação no Mar Vermelho",
+      "titleOriginal": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?oc=5",
+      "publishedAt": "2026-09-11T02:08:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "“Quando os programas do Medicaid destinados a pessoas em situação de rua ou gestantes em estados como Minnesota e Wisconsin começaram a desmoronar, porque o dinheiro que vocês haviam pago para apoiar essas gestantes estava indo parar nas mãos de fraudadores. Eis o que os democratas fizeram: recusaram-se a processar criminalmente os responsáveis.”",
+      "title": "“Quando os programas do Medicaid destinados a pessoas em situação de rua ou gestantes em estados como Minnesota e Wisconsin começaram a desmoronar, porque o dinheiro que vocês haviam pago para apoiar essas gestantes estava indo para os fraudadores. Eis o que os democratas fizeram: recusaram-se a processar criminalmente os responsáveis.”",
       "titleOriginal": "“When Medicaid programs for homeless or expecting mothers in states like Minnesota and Wisconsin, they began to fall apart because the money that you had paid to support those expectant mothers was going to fraudsters. Here’s what the Democrats did: They refused to prosecute the crime.”",
       "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because",
       "publishedAt": "2026-09-11T02:05:07.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Líderes republicanos insistem que os que não compareceram em Dallas não estão se afastando de Trump",
+      "titleOriginal": "Republican leaders insist Dallas no-shows aren't running from Trump",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlJuZVVpcjA1Q1hac3VmVE9kT3BRWGthbWxZNkVaNllocmt2UGUtTEhRc1ZkblZ5d01SNENCY0Nkd0Jsd2lkbUkxYmZnOVNsQ3FFdzJ0blgyajd3NWxsUUxJUHRMOEZ0aFJMQmRRTTFmYlB6ZVBRcHRrTFF0S3NfTjdBV0xoZVJsemNrdkRhcWFndw?oc=5",
+      "publishedAt": "2026-09-11T01:40:48.000Z"
     },
     {
       "source": "New York Times",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que um tribunal rejeitou o mapa apoiado por Trump",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
       "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
       "publishedAt": "2026-09-11T00:54:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
-      "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
-      "publishedAt": "2026-09-11T00:25:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que “provavelmente” conseguiria chegar a acordos com os democratas",
-      "titleOriginal": "Trump says he would ‘probably’ be able to make deals with Democrats",
-      "link": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/",
-      "publishedAt": "2026-09-11T00:12:03.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A Fox News não registrou aumento na audiência durante o discurso de Trump na Convenção Republicana",
-      "titleOriginal": "Fox News Didn’t See a Ratings Bump During Trump’s Republican Convention Speech",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-ratings.html",
-      "publishedAt": "2026-09-11T00:11:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstáculo”",
-      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
-      "publishedAt": "2026-09-10T23:43:13.000Z"
     }
   ]
 }
