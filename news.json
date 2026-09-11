@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T19:43:23.885Z",
+  "updatedAt": "2026-09-11T20:02:05.661Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra com o Irã",
+      "titleOriginal": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+      "publishedAt": "2026-09-11T19:52:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Por trás da homenagem de Trump ao 11 de setembro, uma defesa de sua guerra contra o Irã",
@@ -22,13 +29,6 @@
       "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
       "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
       "publishedAt": "2026-09-11T19:13:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra contra o Irã",
-      "titleOriginal": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "publishedAt": "2026-09-11T19:01:00.000Z"
     },
     {
       "source": "The Hill",
