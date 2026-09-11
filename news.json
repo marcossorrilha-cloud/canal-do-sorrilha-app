@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-11T14:28:30.537Z",
+  "updatedAt": "2026-09-11T14:52:55.106Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Por dentro da Convenção Republicana para as Eleições Intermediárias, onde rolou o “Trump-a-Palooza”",
+      "titleOriginal": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
+      "publishedAt": "2026-09-11T14:39:39.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump comemora o 25º aniversário dos ataques de 11 de setembro no Pentágono",
+      "titleOriginal": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
+      "publishedAt": "2026-09-11T14:39:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Carney: As últimas medidas comerciais de Trump são “relativamente modestas”",
+      "titleOriginal": "Carney: Latest Trump trade moves 'relatively modest'",
+      "link": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
+      "publishedAt": "2026-09-11T14:27:58.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
       "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
       "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
       "publishedAt": "2026-09-11T14:24:36.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os preços do diesel nos EUA ultrapassam os US$ 6 por galão, agravando as dificuldades no transporte de bens de uso diário",
+      "titleOriginal": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
+      "publishedAt": "2026-09-11T14:18:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os houthis do Iêmen, apoiados pelo Irã, tomam uma ilha em um estreito estratégico, abrindo uma nova frente na guerra contra o Irã",
+      "titleOriginal": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+      "publishedAt": "2026-09-11T14:15:00.000Z"
     },
     {
       "source": "The Hill",
@@ -32,45 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "A inflação nos EUA acelerou no mês passado, com a alta repentina dos preços da gasolina, prejudicando as finanças dos americanos",
+      "title": "A inflação nos EUA acelerou no mês passado, com a alta acentuada dos preços da gasolina, prejudicando as finanças dos americanos",
       "titleOriginal": "US inflation accelerated last month as gas prices spiked, squeezing Americans’ finances",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
       "publishedAt": "2026-09-11T13:58:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
-      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "publishedAt": "2026-09-11T13:34:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas lideram os republicanos por 11 pontos na disputa pelo controle da Câmara: pesquisa",
-      "titleOriginal": "Democrats top Republicans by 11 points for House control: Survey",
-      "link": "https://thehill.com/homenews/campaign/6083950-democrats-republicans-house-control-midterms-survey/",
-      "publishedAt": "2026-09-11T13:23:32.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump comemora o 25º aniversário dos ataques de 11 de setembro no Pentágono",
-      "titleOriginal": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
-      "publishedAt": "2026-09-11T13:22:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Anthropic afirma que o Irã utilizou seu modelo de IA americano para atacar navios de guerra da Marinha dos EUA",
-      "titleOriginal": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-      "publishedAt": "2026-09-11T13:12:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Archy levanta US$ 50 milhões para automatizar os processos administrativos de clínicas odontológicas",
-      "titleOriginal": "Archy raises $50M to automate dental back offices",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzZzc00wQlZ3TU1wX0JiaTFWMVFuMFdrdVYwMnBudDBoR2ZLX256ekFYczVfZVRJNzdtZVRiSi1MWlMxcldqbkx0N3AxbkNYaTBVYUQyMzFNVWg4WWRDWDFuN0JJX1JtOTBuNnZwNmxSU0w3RnpHVERoRHNPUFBSOFVvWWtPU2h1R1g4NWZ3?oc=5",
-      "publishedAt": "2026-09-11T13:05:04.000Z"
     }
   ]
 }
