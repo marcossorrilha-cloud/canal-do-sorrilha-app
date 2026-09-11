@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-11T01:51:17.063Z",
+  "updatedAt": "2026-09-11T02:28:00.394Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Democratas do Novo México pedem à Apple e ao Google que mantenham o nome do estado no mapa",
+      "titleOriginal": "New Mexico Democrats call on Apple, Google to keep state's name on map",
+      "link": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/",
+      "publishedAt": "2026-09-11T02:19:20.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Sob a liderança de Donald Trump, criamos um milhão de novos empregos. E, ao contrário do último governo, em que a maior parte do crescimento do emprego foi destinada a estrangeiros em situação irregular, 100% do crescimento do emprego nos Estados Unidos da América está indo para os cidadãos americanos, que é exatamente onde deve estar.”",
+      "titleOriginal": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth",
+      "publishedAt": "2026-09-11T02:09:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Quando os programas do Medicaid destinados a pessoas em situação de rua ou gestantes em estados como Minnesota e Wisconsin começaram a desmoronar, porque o dinheiro que vocês haviam pago para apoiar essas gestantes estava indo parar nas mãos de fraudadores. Eis o que os democratas fizeram: recusaram-se a processar criminalmente os responsáveis.”",
+      "titleOriginal": "“When Medicaid programs for homeless or expecting mothers in states like Minnesota and Wisconsin, they began to fall apart because the money that you had paid to support those expectant mothers was going to fraudsters. Here’s what the Democrats did: They refused to prosecute the crime.”",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because",
+      "publishedAt": "2026-09-11T02:05:07.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Nos bastidores, Vance reuniu opiniões sem rodeios sobre a Guerra do Irã",
@@ -11,21 +32,21 @@
     },
     {
       "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, após o tribunal rejeitar o mapa apoiado por Trump",
+      "title": "O silêncio do governo Trump faz com que 200 mil imigrantes salvadorenhos tenham esperança de que estejam protegidos",
+      "titleOriginal": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
+      "publishedAt": "2026-09-11T00:57:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que um tribunal rejeitou o mapa apoiado por Trump",
       "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
       "publishedAt": "2026-09-11T00:54:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-11T00:39:44.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O promotor designado para liderar a investigação sobre os adversários de Trump informou à AP que renunciou ao cargo",
+      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
       "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
       "publishedAt": "2026-09-11T00:25:00.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
       "publishedAt": "2026-09-10T23:43:13.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Dezenas de manifestantes se reúnem em frente à Convenção Republicana para as eleições de meio de mandato, em Dallas",
-      "titleOriginal": "Dozens of Protesters Gather Outside the Republican Midterm Convention in Dallas",
-      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/dallas-republican-convention-protests-arrests",
-      "publishedAt": "2026-09-10T23:34:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Convenção republicana para as eleições de meio de mandato dá a Vance um momento de destaque, enquanto o partido enfrenta riscos nas eleições de meio de mandato",
-      "titleOriginal": "Republican midterm convention provides Vance center stage moment as party faces midterm risks",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
-      "publishedAt": "2026-09-10T23:22:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O indicado de Trump para o cargo de diretor-geral de Saúde divulga investimentos no setor de tabaco e farmacêutico",
-      "titleOriginal": "Trump surgeon general nominee discloses tobacco, pharma investments",
-      "link": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
-      "publishedAt": "2026-09-10T23:15:19.000Z"
     }
   ]
 }
