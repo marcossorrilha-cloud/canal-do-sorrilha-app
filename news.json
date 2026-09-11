@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-09-11T09:52:31.670Z",
+  "updatedAt": "2026-09-11T10:28:14.286Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Enquete: Preveja a temporada de 2026 dos Bengals",
+      "titleOriginal": "Poll: Predict the Bengals' 2026 season",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDhRa21sWWNiU0hCdUtzRnRGN0NlR2t1cjdBeEh4QXMyb1E5djdOMzR6UFY4dWJrQVB0RGtvc0hacEw1VU43RHozRTNkSU9xNTBGNzdyQlpZNHBFbHY3Q1FnaUU3bGFCckhSc19YWmktWjFLYVVGVW5BTEJxUWhKTGhVeDBkamZHUEtuNzZ4RTM1R2hRaV91ekl5YWpWY1F1?oc=5",
+      "publishedAt": "2026-09-11T10:25:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os democratas ganham terreno entre os eleitores hispânicos descontentes com Trump",
+      "titleOriginal": "Democrats gain ground among Hispanic voters disenchanted with Trump",
+      "link": "https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration/",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "25 anos após o 11 de setembro, a segurança nos aeroportos volta a ser analisada por Trump",
+      "titleOriginal": "25 years after 9/11, airport security gets second look from Trump",
+      "link": "https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security/",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A participação de Fetterman na convenção do Partido Republicano levanta dúvidas sobre seu futuro político",
+      "titleOriginal": "Fetterman’s GOP convention appearance raises questions about his political future",
+      "link": "https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-pennsylvania/",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
+      "title": "Por que encarar a China como uma potência emergente comum é uma visão equivocada",
       "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
       "publishedAt": "2026-09-11T09:26:25.000Z"
@@ -25,14 +53,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ouro deve registrar perda semanal, com as expectativas de alta nas taxas de juros pressionando os preços",
+      "title": "Ouro deve registrar perda semanal, com as expectativas de aumento das taxas de juros pressionando os preços",
       "titleOriginal": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJSQ3JVMXdCWkR4d2RjbDkxRTVFR0dBcUN2Nk5ZU3ktR0wwem1JcXRSaFhTUlAzczkzWTY4NVJzMjRXVDlXSVdCelV0TTRLQS1CSW5peUV3SDdTdzNmTndSay05ODVUTVFlVWhja2RUNHV0YWJSVjNrc3hWWEtWV0ZycFE5X3FfbW5kWDEwZUFyMGM?oc=5",
-      "publishedAt": "2026-09-11T08:48:25.000Z"
+      "publishedAt": "2026-09-11T08:36:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
+      "title": "7 pontos importantes da Convenção Republicana para as eleições de meio de mandato",
       "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
       "publishedAt": "2026-09-11T08:22:25.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
       "publishedAt": "2026-09-11T07:33:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA avançaram na reabertura do Estreito de Ormuz, mas a guerra com o Irã está longe de ter chegado ao fim",
-      "titleOriginal": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
-      "publishedAt": "2026-09-11T06:55:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ônibus de turismo holandês capota na Suíça, deixando várias pessoas mortas, segundo a polícia",
-      "titleOriginal": "Dutch tour bus overturns in Switzerland, leaving several people dead, police say",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekZMUTh0Q1RldW0weVhXeXJGM2R4OG95UU1hOVh4MHlkNGVoR21WSE81VkR6el9wcWVfOXpyMkNvX0tLUFlvNTBJZ2EyLVpsVmJPQmloV245cm5lS0tiRFFPXzdVNDJVdTVKUHN2V28yLVg2dG5kaUI3OTlWUkhLSnNvV3JUdlVRby1fTXMxekdhSXQwcXowSHRYN2w?oc=5",
-      "publishedAt": "2026-09-11T06:05:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O grande final da convenção de Trump para as eleições de meio de mandato: “Estou um pouco cansado da política”",
-      "titleOriginal": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
-      "publishedAt": "2026-09-11T05:40:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O verdadeiro teste para os “Quatro Pequenos Tigres das GPUs” da China ainda está por vir",
-      "titleOriginal": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEpQUG1Wck52OWxFTDZUaTBRUEFGSjNPdkRzU0ZRUzNxN0FKaDhEcDFoRDJaSWI0NlBmcVVJZjFMbDJkbGNBN25jVEs1bHRBemJPTjEwSXlheFNxZmZmM3puTUFoV1lQMW9BeFpTVDBiZDd0MHV0eThtTElDTVdiYklfcUhmOVhmU0U2eHFFUHhWZWhWeXhvRg?oc=5",
-      "publishedAt": "2026-09-11T05:34:00.000Z"
     }
   ]
 }
