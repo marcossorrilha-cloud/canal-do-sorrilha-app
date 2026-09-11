@@ -1,17 +1,24 @@
 {
-  "updatedAt": "2026-09-11T06:54:38.101Z",
+  "updatedAt": "2026-09-11T07:28:04.843Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Exclusivo: MBS instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Scoop: MBS urged Trump to strike Houthis amid Red Sea threat",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
+      "publishedAt": "2026-09-11T06:55:57.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "7 pontos a serem destacados da Convenção Republicana para as Eleições Intermediárias",
+      "title": "7 pontos a serem destacados da Convenção Republicana para as eleições de meio de mandato",
       "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
       "publishedAt": "2026-09-11T06:08:23.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O grande encerramento da convenção de meio de mandato de Trump: “Estou um pouco cansado da política”",
+      "title": "O grande final da convenção de meio de mandato de Trump: “Estou um pouco cansado da política”",
       "titleOriginal": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
       "publishedAt": "2026-09-11T05:40:05.000Z"
@@ -24,25 +31,11 @@
       "publishedAt": "2026-09-11T03:59:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: MBS instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Scoop: MBS urged Trump to strike Houthis amid Red Sea threat",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
-      "publishedAt": "2026-09-11T03:53:10.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Vance? Rubio? DeSantis? Cruz? Republicanos na convenção de Dallas avaliam opções para a liderança pós-Trump",
       "titleOriginal": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDFOOW5haFcyQ1ZsR0VqVHhFR3kwZ0ZGb1FxN1hyY1dsM0xGSHVjcW85OEVFODVhQ1BTeFpNNzVWdnRqUl9fMzFuVHBtR1E4TWo5MzhkQVQyTU93X3AtVXNtUy1GOWxQYU9yc2VNNGx2c3hQREV1NGVvQVVsZkIwVm9zekpLaUhPdTM3OGZsdFU5WEVaWUtTUG1vY0M?oc=5",
       "publishedAt": "2026-09-11T03:46:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é um equívoco",
-      "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
-      "publishedAt": "2026-09-11T03:39:44.000Z"
     },
     {
       "source": "The Hill",
@@ -71,6 +64,13 @@
       "titleOriginal": "Vance takes aim at Talarico in Texas convention speech",
       "link": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
       "publishedAt": "2026-09-11T03:03:51.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
+      "titleOriginal": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
+      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/now-were-cutting-your-prices-by-50-60-70-80-and-a-couple-of-cases-90-percent",
+      "publishedAt": "2026-09-11T02:47:23.000Z"
     }
   ]
 }
