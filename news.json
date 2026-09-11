@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T00:34:12.015Z",
+  "updatedAt": "2026-09-11T00:52:24.959Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "O promotor designado para liderar a investigação contra os adversários de Trump informou à AP que renunciou ao cargo",
+      "titleOriginal": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
+      "publishedAt": "2026-09-11T00:25:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump afirma que “provavelmente” conseguiria chegar a acordos com os democratas",
@@ -18,7 +25,7 @@
     },
     {
       "source": "AP News",
-      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso depois que o tribunal rejeitou o mapa apoiado por Trump",
+      "title": "O Missouri está prestes a voltar aos antigos distritos eleitorais para o Congresso, depois que o tribunal rejeitou o mapa apoiado por Trump",
       "titleOriginal": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
       "publishedAt": "2026-09-10T23:51:00.000Z"
@@ -32,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "Convenção republicana para as eleições de meio de mandato dá a Vance um momento de destaque, enquanto o partido enfrenta riscos nas eleições de meio de mandato",
+      "title": "Convenção republicana para as eleições de meio de mandato dá a Vance um momento de destaque, enquanto o partido enfrenta riscos nas eleições",
       "titleOriginal": "Republican midterm convention provides Vance center stage moment as party faces midterm risks",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
       "publishedAt": "2026-09-10T23:22:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "California’s Governor Signs New Laws to Protect Children Online",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSl8yOHEtMmlnYXZJRzV3RGw2WDBaaUxsT2YwSTFUUWlILTFHMzlVV2pFZDkyU2hYeTF6S2c1cm1PRFF0QmdGY01MTmp2WUNOcVl5Sm9nWFdGak03WVFHQ0NLSE00SjdIMWNmZHAxY3BvQXJiQ0ZzVDJnZkVoUk9pdW1ycThmbHFFOGR4YWg3NEdvdkYxdFZCT2RBeVNjRGhHTjNxOE9DS3E1NHM?oc=5",
       "publishedAt": "2026-09-10T22:47:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Secretário interino da Marinha afirma que o Irã “destruiu completamente” a base dos EUA no Bahrein",
-      "titleOriginal": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
-      "link": "https://thehill.com/newsletters/defense-national-security/6083326-acting-navy-secretary-says-iran-blew-the-hell-out-of-us-base-in-bahrain/",
-      "publishedAt": "2026-09-10T22:43:21.000Z"
     }
   ]
 }
