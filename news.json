@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-09-11T12:33:26.689Z",
+  "updatedAt": "2026-09-11T12:54:18.768Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "A inflação continua alta em agosto, com a guerra no Irã elevando os custos da energia",
+      "titleOriginal": "Inflation stays hot in August as Iran war drives energy costs higher",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RV1BfZnF3NFZrdFpsYVFFY21TNXhHbG9zN0cySjVaZnpKSWZoRE1pLUh6SXBuOWdjR2JEbGRhMHVXVjdqejhJV25iazQ5cGZMQjZqaTRrd3JpR2VpSEQ2aXlWaDcxN2dEZXk0?oc=5",
+      "publishedAt": "2026-09-11T12:48:12.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Preço do diesel ultrapassa US$ 6, estabelecendo novo recorde",
+      "title": "25 anos após o 11 de setembro: como os ataques transformaram a política americana",
+      "titleOriginal": "25 years after 9/11: How the attacks transformed American politics",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6083907-25-years-sept-11-attacks-american-politics-live-discussion/",
+      "publishedAt": "2026-09-11T12:39:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Vance e ex-presidentes participam da cerimônia do 11 de setembro no Ground Zero",
+      "titleOriginal": "Watch live: Vance, former presidents attend 9/11 ceremony at Ground Zero",
+      "link": "https://thehill.com/video-clips/6083822-watch-live-vance-bush-clinton-obama-biden-ground-zero-nyc-911-memorial-25th-anniversary/",
+      "publishedAt": "2026-09-11T12:34:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Preço do diesel ultrapassa os US$ 6, estabelecendo novo recorde",
       "titleOriginal": "Diesel prices top $6, setting new record",
       "link": "https://thehill.com/policy/energy-environment/6083842-diesel-prices-record-high-iran-war-russia-ukraine-attacks-trump-midterms/",
       "publishedAt": "2026-09-11T12:28:38.000Z"
@@ -15,13 +36,6 @@
       "titleOriginal": "How Trump Is Using the Postal Service to Intervene in Elections",
       "link": "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html",
       "publishedAt": "2026-09-11T12:28:04.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump, Vance e ex-presidentes fazem uma pausa para relembrar o 11 de setembro",
-      "titleOriginal": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
-      "link": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
-      "publishedAt": "2026-09-11T12:14:15.000Z"
     },
     {
       "source": "The Hill",
@@ -39,38 +53,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Política sem meias medidas: uma pseudopolítica em uma pseudoconvenção",
+      "title": "Política sem meias medidas: uma pseudo-política em uma pseudo-convenção",
       "titleOriginal": "Whole Hog Politics: A pseudo-policy at a pseudo-convention",
       "link": "https://thehill.com/newsletters/whole-hog-politics/6082989-trump-dividend-stimulus-plans/",
       "publishedAt": "2026-09-11T12:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "Futuros dos EUA em alta, preços do petróleo em queda antes da divulgação de um dos indicadores mais importantes sobre a inflação dos últimos anos",
+      "title": "Futuros dos EUA em alta, preços do petróleo em queda antes da divulgação de um dos indicadores de inflação mais importantes dos últimos anos",
       "titleOriginal": "US futures up, oil prices down ahead of one of the more crucial reads on inflation in years",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
       "publishedAt": "2026-09-11T11:49:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstrucionista”",
-      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
-      "publishedAt": "2026-09-11T11:19:14.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições intermediárias",
-      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "publishedAt": "2026-09-11T10:31:18.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Enquete: Preveja como será a temporada de 2026 dos Bengals",
-      "titleOriginal": "Poll: Predict the Bengals' 2026 season",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDhRa21sWWNiU0hCdUtzRnRGN0NlR2t1cjdBeEh4QXMyb1E5djdOMzR6UFY4dWJrQVB0RGtvc0hacEw1VU43RHozRTNkSU9xNTBGNzdyQlpZNHBFbHY3Q1FnaUU3bGFCckhSc19YWmktWjFLYVVGVW5BTEJxUWhKTGhVeDBkamZHUEtuNzZ4RTM1R2hRaV91ekl5YWpWY1F1?oc=5",
-      "publishedAt": "2026-09-11T10:25:55.000Z"
+      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
+      "publishedAt": "2026-09-11T11:45:05.000Z"
     }
   ]
 }
