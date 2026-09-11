@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T04:51:51.733Z",
+  "updatedAt": "2026-09-11T05:26:31.959Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Vance, de olho em 2028, aproveita os holofotes na convenção de Trump",
+      "titleOriginal": "Vance, Eying 2028, Relishes the Spotlight at Trump’s Convention",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html",
+      "publishedAt": "2026-09-11T05:11:25.000Z"
+    },
     {
       "source": "Politico",
       "title": "Ted Cruz sobre sua trajetória rumo a 2028, JD Vance e o futuro do Partido Republicano",
@@ -10,16 +17,9 @@
       "publishedAt": "2026-09-11T03:59:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A China está roubando a IA americana? Por que a “destilação” deixou Washington em pé de guerra",
-      "titleOriginal": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
-      "publishedAt": "2026-09-11T03:58:02.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
+      "title": "Exclusivo: MBS instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Scoop: MBS urged Trump to strike Houthis amid Red Sea threat",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
       "publishedAt": "2026-09-11T03:53:10.000Z"
     },
@@ -39,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump lidera a convenção com uma promessa: “Você vai para o inferno” se não votar",
+      "title": "Trump lidera a convenção com uma promessa: “Vocês vão para o inferno” se não votarem",
       "titleOriginal": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
       "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
       "publishedAt": "2026-09-11T03:17:49.000Z"
