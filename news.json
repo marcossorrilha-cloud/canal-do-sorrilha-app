@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-11T11:26:45.327Z",
+  "updatedAt": "2026-09-11T11:50:32.210Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
+      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "publishedAt": "2026-09-11T10:31:18.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Relatório sobre a inflação é divulgado em um momento de alta nos preços do petróleo, aumento das taxas de juros e indecisão do Fed",
+      "titleOriginal": "Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
+      "publishedAt": "2026-09-11T10:31:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Enquete: Preveja como será a temporada de 2026 dos Bengals",
@@ -18,16 +32,9 @@
     },
     {
       "source": "The Hill",
-      "title": "Os democratas ganham terreno entre os eleitores hispânicos insatisfeitos com Trump",
+      "title": "Os democratas ganham terreno entre os eleitores hispânicos descontentes com Trump",
       "titleOriginal": "Democrats gain ground among Hispanic voters disenchanted with Trump",
       "link": "https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration/",
-      "publishedAt": "2026-09-11T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "25 anos após o 11 de setembro, a segurança nos aeroportos volta a ser analisada por Trump",
-      "titleOriginal": "25 years after 9/11, airport security gets second look from Trump",
-      "link": "https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security/",
       "publishedAt": "2026-09-11T10:00:00.000Z"
     },
     {
@@ -38,6 +45,13 @@
       "publishedAt": "2026-09-11T10:00:00.000Z"
     },
     {
+      "source": "The Hill",
+      "title": "25 anos após o 11 de setembro, a segurança nos aeroportos volta a ser analisada por Trump",
+      "titleOriginal": "25 years after 9/11, airport security gets second look from Trump",
+      "link": "https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security/",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
       "source": "AP News",
       "title": "O que é preciso saber sobre a eleição deste domingo na Suécia, o mais novo membro da OTAN",
       "titleOriginal": "What to know about Sunday’s election in Sweden, NATO’s newest member",
@@ -45,32 +59,18 @@
       "publishedAt": "2026-09-11T09:33:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Por dentro da batalha jurídica do RNC em torno da “integridade eleitoral”",
+      "titleOriginal": "Inside the RNC's legal fight over \"election integrity\"",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiaUhyRkF1SloxMDdQNVF2R1VjaHRPZXdEVy12X1V0cXVlZFhhdUp0VlJxUVZsQlRZX2taX2M1VGxnM0pMNUQ5T2NFbHFINFl6dm05ME9oMW42ZlpuczRZWG42SXhPcEZaQjl4TU1meG9zTldFVUtv?oc=5",
+      "publishedAt": "2026-09-11T09:23:13.000Z"
+    },
+    {
       "source": "Wall Street Journal",
       "title": "Por que considerar a China como uma potência emergente comum é uma visão equivocada",
       "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
       "publishedAt": "2026-09-11T09:08:11.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como Trump está usando o Serviço Postal para interferir nas eleições",
-      "titleOriginal": "How Trump Is Using the Postal Service to Intervene in Elections",
-      "link": "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html",
-      "publishedAt": "2026-09-11T09:02:55.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os cartunistas do país comentam a semana na política",
-      "titleOriginal": "The nation’s cartoonists on the week in politics",
-      "link": "https://www.politico.com/gallery/2026/09/11/the-nations-cartoonists-on-the-week-in-politics-01071749",
-      "publishedAt": "2026-09-11T09:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ouro deve registrar perda semanal, com as expectativas de aumento das taxas de juros pressionando os preços",
-      "titleOriginal": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJSQ3JVMXdCWkR4d2RjbDkxRTVFR0dBcUN2Nk5ZU3ktR0wwem1JcXRSaFhTUlAzczkzWTY4NVJzMjRXVDlXSVdCelV0TTRLQS1CSW5peUV3SDdTdzNmTndSay05ODVUTVFlVWhja2RUNHV0YWJSVjNrc3hWWEtWV0ZycFE5X3FfbW5kWDEwZUFyMGM?oc=5",
-      "publishedAt": "2026-09-11T08:48:25.000Z"
     }
   ]
 }
