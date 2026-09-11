@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-11T05:26:31.959Z",
+  "updatedAt": "2026-09-11T05:51:27.170Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Vance, de olho em 2028, aproveita os holofotes na convenção de Trump",
-      "titleOriginal": "Vance, Eying 2028, Relishes the Spotlight at Trump’s Convention",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html",
-      "publishedAt": "2026-09-11T05:11:25.000Z"
+      "title": "O grande final da convenção de Trump para as eleições de meio de mandato: “Estou um pouco cansado da política”",
+      "titleOriginal": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
+      "publishedAt": "2026-09-11T05:40:05.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "7 pontos a serem destacados da Convenção Republicana para as eleições de meio de mandato",
+      "titleOriginal": "7 Takeaways From the Republican Midterm Convention",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
+      "publishedAt": "2026-09-11T04:19:40.000Z"
     },
     {
       "source": "Politico",
@@ -18,14 +25,21 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: MBS instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
-      "titleOriginal": "Scoop: MBS urged Trump to strike Houthis amid Red Sea threat",
+      "title": "O príncipe herdeiro da Arábia Saudita instou Trump a atacar os houthis em meio à ameaça no Mar Vermelho",
+      "titleOriginal": "Saudi crown prince urged Trump to strike Houthis amid Red Sea threat",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4c1pTQTlsM2RTNkhPSl9hTktNX1hJeDZFZUpoVE9mUUNubTFxTGtLNFd3MmxFWWZEcWNGMmxycmd6dkZDOTYxNXZua3lUc0tHQ3BmRWdfNWNnc1N5RmVTM3dSQktOOV96bDlRQUg1cW8yX1AwOHk4a0N3?oc=5",
       "publishedAt": "2026-09-11T03:53:10.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Vance? Rubio? DeSantis? Cruz? Republicanos na convenção de Dallas avaliam opções para a liderança pós-Trump",
+      "titleOriginal": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDFOOW5haFcyQ1ZsR0VqVHhFR3kwZ0ZGb1FxN1hyY1dsM0xGSHVjcW85OEVFODVhQ1BTeFpNNzVWdnRqUl9fMzFuVHBtR1E4TWo5MzhkQVQyTU93X3AtVXNtUy1GOWxQYU9yc2VNNGx2c3hQREV1NGVvQVVsZkIwVm9zekpLaUhPdTM3OGZsdFU5WEVaWUtTUG1vY0M?oc=5",
+      "publishedAt": "2026-09-11T03:46:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Por que considerar a China como uma potência emergente comum é uma visão equivocada",
+      "title": "Por que considerar a China uma potência emergente comum é uma visão equivocada",
       "titleOriginal": "Why Seeing China as a Normal Rising Power Misses the Point",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWV4M0YzNnZ0QlBEd1hlLVQ0SHFIcmdvR0o4SzNtbE1XNDNzaHNFeGJxVWx5eVlza0lBM0F3bDBnbS1QYnNfZWxqUEdrYW94akdQZXQ5aEZKV3QyZVZSTlJUWEZPQklYLXQ1NlJBc01uQ1N4NHpOVnNxNURXTHdWWm1vN0pGQmJKSFJTQ0ljWVc0QUpQOWdXNG9oNHVIZlBZ?oc=5",
       "publishedAt": "2026-09-11T03:39:44.000Z"
@@ -38,8 +52,15 @@
       "publishedAt": "2026-09-11T03:24:03.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Principais pontos do segundo dia da Convenção Republicana para as eleições de meio de mandato",
+      "titleOriginal": "Key Takeaways From Day Two of the Republican Midterm Convention",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnBIMC1aN0kwbGtLQ2ZjZ1c3Y3l6dUZvc2xEckdQVHdlS3FxX0V4T0xReXZsU1hmRXNsbUc4SGpJckpYdWtFYVl0UFNWNGpFS2ktOTZZTmZTdW54TXo5RUpscDI4WFgxQm1EbXlTd2JJc3dJUHFHczRZWFZWQUdNSDBrckV3OGMzTWprei1rN3E1ZktPZF9aU0dSQkVrRVN0WUFoajJHYm5KdG5nN1FWcw?oc=5",
+      "publishedAt": "2026-09-11T03:23:51.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Trump lidera a convenção com uma promessa: “Vocês vão para o inferno” se não votarem",
+      "title": "Trump lidera a convenção com uma promessa: “Você vai para o inferno” se não votar",
       "titleOriginal": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
       "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
       "publishedAt": "2026-09-11T03:17:49.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Vance takes aim at Talarico in Texas convention speech",
       "link": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
       "publishedAt": "2026-09-11T03:03:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O plano de Trump caso os democratas conquistem o Congresso: “Vou ser um obstáculo”",
-      "titleOriginal": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVlLMzFKbVVsWHJQZ2ppMTVHYy1KZF9Xb0MxU2lJWW5UN3dPQ1dfa2dGcThFVHo4RTctRDFlLUxYVC1xQUNJOG1Nd2FpcU5QemRSNkFaNk95TXdqcnQyRmpGdHBmQ1E4dnRpbG9vNmV0TXNId29mVll5Mlg5QlZGX2JvR1FyRmlpT25udQ?oc=5",
-      "publishedAt": "2026-09-11T02:56:45.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Agora estamos reduzindo seus preços em 50, 60, 70, 80 e, em alguns casos, 90 por cento.”",
-      "titleOriginal": "“Now we’re cutting your prices by 50, 60, 70, 80 and, a couple of cases, 90 percent.”",
-      "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/now-were-cutting-your-prices-by-50-60-70-80-and-a-couple-of-cases-90-percent",
-      "publishedAt": "2026-09-11T02:47:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas do Novo México pedem à Apple e ao Google que mantenham o nome do estado no mapa",
-      "titleOriginal": "New Mexico Democrats call on Apple, Google to keep state's name on map",
-      "link": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/",
-      "publishedAt": "2026-09-11T02:19:20.000Z"
     }
   ]
 }
