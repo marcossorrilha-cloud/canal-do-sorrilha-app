@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-12T19:22:57.112Z",
+  "updatedAt": "2026-09-12T19:38:06.872Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Maher chama os políticos democratas de “covardes”, fazendo referência à sua opinião sobre o ataque de 11 de setembro que levou ao cancelamento de seu antigo programa",
+      "titleOriginal": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
+      "link": "https://thehill.com/blogs/in-the-know/6086287-maher-calls-democrats-cowards/",
+      "publishedAt": "2026-09-12T19:28:55.000Z"
+    },
     {
       "source": "AP News",
       "title": "A Arábia Saudita tem poucas opções diante das crescentes ameaças do Irã e de seus aliados",
@@ -24,18 +31,18 @@
       "publishedAt": "2026-09-12T18:50:02.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
+      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
+      "publishedAt": "2026-09-12T18:40:53.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Assessor de campanha republicano é demitido por causa de foto nazista",
       "titleOriginal": "Republican Campaign Aide Is Fired Over Nazi Photo",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
       "publishedAt": "2026-09-12T18:21:01.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
-      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
-      "publishedAt": "2026-09-12T18:12:25.000Z"
     },
     {
       "source": "Politico",
@@ -64,13 +71,6 @@
       "titleOriginal": "Loss of legal immigrant caregivers puts America's seniors at risk",
       "link": "https://thehill.com/opinion/healthcare/6081964-immigration-pathways-nursing-staffing/",
       "publishedAt": "2026-09-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Mãe de aluguel que fugiu para o Texas para evitar o aborto recorre de decisão sobre a guarda ao Supremo Tribunal Federal",
-      "titleOriginal": "Surrogate who fled to Texas to avoid abortion appeals custody case to Supreme Court",
-      "link": "https://thehill.com/regulation/court-battles/6086160-texas-surrogacy-case-supreme-court-appeal/",
-      "publishedAt": "2026-09-12T16:53:39.000Z"
     }
   ]
 }
