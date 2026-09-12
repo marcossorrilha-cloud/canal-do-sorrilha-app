@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-12T17:11:20.972Z",
+  "updatedAt": "2026-09-12T17:26:31.284Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Republicano de Ohio em disputa acirrada pelo Senado demite assessor de campanha, citando foto de nazistas nas redes sociais",
+      "titleOriginal": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+      "publishedAt": "2026-09-12T17:23:41.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que a unificação da Irlanda seria “fantástica”, rompendo com o precedente",
+      "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "publishedAt": "2026-09-12T17:21:51.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A perda de cuidadores imigrantes em situação regular coloca os idosos dos Estados Unidos em risco",
@@ -31,13 +45,6 @@
       "publishedAt": "2026-09-12T16:26:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma que a unificação da Irlanda seria “fantástica”, rompendo com o precedente",
-      "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "publishedAt": "2026-09-12T16:25:25.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Trump causa polêmica durante sua visita à Irlanda ao afirmar que a reunificação seria “fantástica”",
       "titleOriginal": "Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’",
@@ -60,17 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Cruz foi vaiado no programa “College Gameday” da ESPN durante sua participação em defesa do projeto de lei do Senado sobre esportes universitários",
+      "title": "Cruz foi vaiado no programa “College Gameday”, da ESPN, durante sua participação em defesa do projeto de lei do Senado sobre esportes universitários",
       "titleOriginal": "Cruz met with jeers on ESPN's College Gameday during appearance advocating for Senate college sports bill",
       "link": "https://thehill.com/policy/sports-gaming/6086052-cruz-espn-college-gameday-act-boos/",
       "publishedAt": "2026-09-12T15:14:42.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Grupos republicanos correm em auxílio de Paxton no Texas após terem ficado à margem",
-      "titleOriginal": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html",
-      "publishedAt": "2026-09-12T14:59:24.000Z"
     }
   ]
 }
