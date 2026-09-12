@@ -1,24 +1,59 @@
 {
-  "updatedAt": "2026-09-12T19:38:06.872Z",
+  "updatedAt": "2026-09-12T21:39:11.942Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Pessoas que fogem do avanço dos rebeldes apoiados pelo Irã no Iêmen descrevem um “pânico histérico”",
+      "titleOriginal": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
+      "publishedAt": "2026-09-12T21:27:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como Trump está usando seu poder para reprimir a liberdade de expressão",
+      "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+      "publishedAt": "2026-09-12T21:02:01.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Maher chama os políticos democratas de “covardes”, fazendo referência à sua opinião sobre o ataque de 11 de setembro que levou ao cancelamento de seu antigo programa",
-      "titleOriginal": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
-      "link": "https://thehill.com/blogs/in-the-know/6086287-maher-calls-democrats-cowards/",
-      "publishedAt": "2026-09-12T19:28:55.000Z"
+      "title": "A casa onde Trump passou a infância é vendida por quase US$ 2 milhões",
+      "titleOriginal": "Trump's childhood home sells for nearly $2 million",
+      "link": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
+      "publishedAt": "2026-09-12T20:41:41.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Talarico critica as “apelidos cafonas” que Trump dá aos adversários em entrevista ao Kimmel",
+      "titleOriginal": "Talarico rips Trump's 'corny nicknames' for opponents in Kimmel interview",
+      "link": "https://thehill.com/homenews/media/6086319-talarico-brushed-off-trump-nickname/",
+      "publishedAt": "2026-09-12T20:27:54.000Z"
     },
     {
       "source": "AP News",
       "title": "A Arábia Saudita tem poucas opções diante das crescentes ameaças do Irã e de seus aliados",
       "titleOriginal": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
-      "publishedAt": "2026-09-12T19:14:00.000Z"
+      "publishedAt": "2026-09-12T19:46:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A J&J está em negociações para vender sua divisão de próteses de quadril e joelho à Apollo por US$ 20 bilhões",
+      "titleOriginal": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
+      "publishedAt": "2026-09-12T19:40:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A guerra do Irã não acabou. Ela mudou de forma.",
+      "title": "Maher chama os políticos democratas de “covardes”, fazendo referência à sua opinião sobre o ataque de 11 de setembro, que levou ao cancelamento de seu antigo programa",
+      "titleOriginal": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
+      "link": "https://thehill.com/blogs/in-the-know/6086287-maher-calls-democrats-cowards/",
+      "publishedAt": "2026-09-12T19:28:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A guerra do Irã não acabou. Ela mudou de formato.",
       "titleOriginal": "Iran's war didn't end. It changed units.",
       "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
       "publishedAt": "2026-09-12T19:00:00.000Z"
@@ -31,46 +66,11 @@
       "publishedAt": "2026-09-12T18:50:02.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
-      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
-      "publishedAt": "2026-09-12T18:40:53.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Assessor de campanha republicano é demitido por causa de foto nazista",
       "titleOriginal": "Republican Campaign Aide Is Fired Over Nazi Photo",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
       "publishedAt": "2026-09-12T18:21:01.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os republicanos temem ter um problema na Carolina do Norte",
-      "titleOriginal": "Republicans fear they have a North Carolina problem",
-      "link": "https://www.politico.com/news/2026/09/12/gop-anxiety-grows-north-carolina-senate-race-01073311",
-      "publishedAt": "2026-09-12T18:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Modi, da Índia, e Xi, da China, buscam restabelecer as relações à margem da reunião do BRICS",
-      "titleOriginal": "India’s Modi and China’s Xi seek to reset ties on BRICS sidelines",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHJRZ08yZnluclFkNUNTNHNWUjc2TkNBdTAwaXFlemFuSDFvbk4xbmxaQ2JtVGhUMWsyZUxFMG10UTdRTUhfQXMyM3hDdk80UUhsdjQtS09QZ3g0Nm9raXE1NTdVTWxRaHRFcjF0am9KQVdEUGdRdFZEdkNNbXVUY1cxSQ?oc=5",
-      "publishedAt": "2026-09-12T17:18:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Larry Ellison desiste do plano de vender ações da Oracle no valor de até US$ 7,5 bilhões",
-      "titleOriginal": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUV0Vkg1bkhnTUFNR1RsRWdzMTFsWWtUMWFvNXVBeE1Ub253STdvNnZtVnhTTmFVT3E4ZlhfUGdqd0dEQUU2SHJZSzVyU1hMVGZzZF9CT0Y0SktvZHd2SVV2cFo3VXpPUDZhc3ozeEVHSlZjV1RzVk1CcEFCNnhGMkE0SVRWajR0djNnUWNaU2hndDJKaXdPUTRkYzJwUi1Gc2VFWm9HTVV5d1B0NkN2bQ?oc=5",
-      "publishedAt": "2026-09-12T17:10:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A perda de cuidadores imigrantes em situação regular coloca os idosos dos Estados Unidos em risco",
-      "titleOriginal": "Loss of legal immigrant caregivers puts America's seniors at risk",
-      "link": "https://thehill.com/opinion/healthcare/6081964-immigration-pathways-nursing-staffing/",
-      "publishedAt": "2026-09-12T17:00:00.000Z"
     }
   ]
 }
