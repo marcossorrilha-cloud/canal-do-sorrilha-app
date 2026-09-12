@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:48:13.633Z",
+  "updatedAt": "2026-09-12T06:30:41.535Z",
   "count": 10,
   "items": [
     {
@@ -10,11 +10,25 @@
       "publishedAt": "2026-09-12T03:21:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Exclusivo: Mike Johnson é instado a cancelar o recesso da Câmara dos Deputados devido a alertas sobre IA",
+      "titleOriginal": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzNfelNQaFhjd1MyazVGeVk4WEFPbGpLNmRDWWhfVkp0RUc0ampoWHpZQ2wxcldET2RfeWlnVXlVTDUxNjJCcFQ1T1dCaFZHbGNOOWViYmJvNDNYLVhXMzJLMFJ1OUFhRzRHczA3SHVYWkg5RGxFUnhpZEM0N3Z1YQ?oc=5",
+      "publishedAt": "2026-09-12T02:18:28.000Z"
+    },
+    {
       "source": "Wall Street Journal",
       "title": "Exclusivo | EUA associam imagens de satélite chinesas ao ataque iraniano que matou três soldados",
       "titleOriginal": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?oc=5",
       "publishedAt": "2026-09-12T01:57:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Mulher afegã é deportada no primeiro caso judicial envolvendo um “estrangeiro terrorista”, afirma o Departamento de Justiça",
+      "titleOriginal": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wek5oOHB2RXZkOWJoNXNTLUJON0htak1jZk50V3lTR3NwWDZ3aUhtQ1lKQU55aW5pNWk0ZDlrbzBHSmdITndtWnZhUzhrN0RjRjNDNUkxY0tscmtKWUoyb2dESkFHT2Fma2lHTk9nTldIbnc4WUFfLXhtbWQ?oc=5",
+      "publishedAt": "2026-09-12T01:46:15.000Z"
     },
     {
       "source": "The Hill",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-09-12T00:50:58.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os republicanos fizeram de El-Sayed um dos principais alvos nas eleições de meio de mandato. O democrata quer falar sobre os eleitores de Michigan",
-      "titleOriginal": "Republicans made El-Sayed a top midterm target. The Democrat wants to talk about Michigan voters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhnMzk0R0g4VkRWMXJ0S2JCQi02WU5naEFaYzg0eVU1QkJBTWJzdTBSUGNPTjRqRlRWZ19SbHZwRllGd0dGdV9fdUtCb29WaTdRcVo0MVNSZ0FocjBzdXFhNG03MW4zdzFXNDNibmFtUFRpV3pkeU11U0E5c2Yya2NaZENweDFhNC1mTWhRWXlsaUdIMHVnRUhtODBVbm9IdUhkSENn?oc=5",
-      "publishedAt": "2026-09-11T22:44:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Será que os alertas alarmistas sobre a IA influenciarão as eleições de meio de mandato?",
-      "titleOriginal": "Will Stark Warnings About AI Shape the Midterm Elections?",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
-      "publishedAt": "2026-09-11T22:21:17.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Criminoso sexual condenado fez a oração de abertura em comício pelo candidato republicano ao Senado na Carolina do Norte",
-      "titleOriginal": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1wSS1EUGRjS0RCdExUQlJVX1V0VkZhVHltNDNCclNoYkNxV2dMcC1Nc3RycndkX2NjOTc5d3JnNFZEUmtkbjdqVUVpMnNDZ0Q5cHlZWVhXUWo3RnhBcFduT2VSOGZLdXhNMTdCSklXZEZ6Z203dHdPcTd3NW1vbHJVWFFuLXNkNUNjd0lJb2J2SWhXSWs4MlJvakdoUFZ2dEE?oc=5",
-      "publishedAt": "2026-09-11T21:47:00.000Z"
+      "source": "Axios",
+      "title": "Como a promessa de Trump de um cheque de US$ 5.000 deve funcionar",
+      "titleOriginal": "How Trump's $5,000 check promise is supposed to work",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcHNOSHkyUWxtTkZKaGZkd3FBa1MtRU5ZRFB6SXVCMmhnd0xUN19oc2JKMWdubW1saHNzLXBkNkxfMmRhcTNqX0JLcURZWUEwSmh3VGQ5azlPYjQtWjZRV1RabDBRMlZ4a1NUOVlGQldENjlULVlTSU5B?oc=5",
+      "publishedAt": "2026-09-12T00:12:23.000Z"
     }
   ]
 }
