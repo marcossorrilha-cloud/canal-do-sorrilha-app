@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-12T01:33:29.531Z",
+  "updatedAt": "2026-09-12T05:48:13.633Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Trump viaja para a Irlanda para disputar o Irish Open em seu campo de golfe",
-      "titleOriginal": "Trump Heads to Ireland for the Irish Open at His Golf Course",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
-      "publishedAt": "2026-09-12T01:25:33.000Z"
+      "source": "AP News",
+      "title": "A Arábia Saudita interrompe o funcionamento de um oleoduto enquanto os houthis tomam uma ilha, abrindo uma nova frente na guerra contra o Irã",
+      "titleOriginal": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+      "publishedAt": "2026-09-12T03:21:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | EUA associam imagens de satélite chinesas ao ataque iraniano que matou três soldados",
+      "titleOriginal": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?oc=5",
+      "publishedAt": "2026-09-12T01:57:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "DeSantis: “A Flórida concederá asilo” ao jurado que se recusou a votar no caso de Lindsay Clancy",
+      "titleOriginal": "DeSantis: 'Florida will provide asylum' to holdout juror in Lindsay Clancy case",
+      "link": "https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror/",
+      "publishedAt": "2026-09-12T01:43:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia do Mississippi prende um homem suspeito de estar envolvido na morte de Tasia Fortune",
+      "titleOriginal": "Mississippi police arrest a man in the death of Tasia Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
+      "publishedAt": "2026-09-12T01:43:00.000Z"
     },
     {
       "source": "New York Times",
@@ -17,60 +38,39 @@
       "publishedAt": "2026-09-12T01:16:09.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | EUA associam imagens de satélite chinesas ao ataque iraniano que matou três soldados",
-      "titleOriginal": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?oc=5",
-      "publishedAt": "2026-09-12T01:00:00.000Z"
+      "source": "AP News",
+      "title": "Tribunal federal rejeita ordem de Trump que mantinha usina a carvão de Michigan em funcionamento",
+      "titleOriginal": "Federal court rejects Trump order keeping Michigan coal plant open",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1V6ZTB5Y2FWZnU1VTVKYnRwQnBGUE12VjlRYVNmMGxoNm1Od0R3TDVSSk4zT1pnei1udGhwSnp0VkFBdDEyTEI4YW93cFVMS094OUNvTjZBcWZiX2ZENEp0alBuU2JIcGFqaFRpTlo5QVlsSTdTaTFUSG92bjg1R1l4QlJoX3BXa3VaZWNqWVBwS0FPUFdnaVh2TEstaE9UM2c?oc=5",
+      "publishedAt": "2026-09-12T00:57:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Bacon afirma que está ponderando uma candidatura à Casa Branca em 2028",
+      "title": "Bacon afirma que está considerando concorrer à Casa Branca em 2028",
       "titleOriginal": "Bacon says he's mulling 2028 White House bid",
       "link": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
       "publishedAt": "2026-09-12T00:50:58.000Z"
     },
     {
       "source": "AP News",
-      "title": "A polícia do Mississippi prende um homem suspeito de estar envolvido na morte de Tasia Fortune",
-      "titleOriginal": "Mississippi police arrest a man in the death of Tasia Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
-      "publishedAt": "2026-09-11T23:21:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Arábia Saudita interrompe o funcionamento de um oleoduto enquanto os houthis tomam uma ilha, abrindo uma nova frente na guerra contra o Irã",
-      "titleOriginal": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "publishedAt": "2026-09-11T22:52:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump revela por que os cheques de US$ 5.000 podem esperar até depois das eleições de meio de mandato",
-      "titleOriginal": "Trump reveals why $5,000 checks can wait until after the midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "publishedAt": "2026-09-11T22:33:10.000Z"
+      "title": "Os republicanos fizeram de El-Sayed um dos principais alvos nas eleições de meio de mandato. O democrata quer falar sobre os eleitores de Michigan",
+      "titleOriginal": "Republicans made El-Sayed a top midterm target. The Democrat wants to talk about Michigan voters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhnMzk0R0g4VkRWMXJ0S2JCQi02WU5naEFaYzg0eVU1QkJBTWJzdTBSUGNPTjRqRlRWZ19SbHZwRllGd0dGdV9fdUtCb29WaTdRcVo0MVNSZ0FocjBzdXFhNG03MW4zdzFXNDNibmFtUFRpV3pkeU11U0E5c2Yya2NaZENweDFhNC1mTWhRWXlsaUdIMHVnRUhtODBVbm9IdUhkSENn?oc=5",
+      "publishedAt": "2026-09-11T22:44:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Será que os alertas contundentes sobre a IA influenciarão as eleições de meio de mandato?",
+      "title": "Será que os alertas alarmistas sobre a IA influenciarão as eleições de meio de mandato?",
       "titleOriginal": "Will Stark Warnings About AI Shape the Midterm Elections?",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
       "publishedAt": "2026-09-11T22:21:17.000Z"
     },
     {
       "source": "AP News",
-      "title": "Criminoso sexual condenado fez a oração de abertura em comício em apoio ao candidato republicano ao Senado na Carolina do Norte",
+      "title": "Criminoso sexual condenado fez a oração de abertura em comício pelo candidato republicano ao Senado na Carolina do Norte",
       "titleOriginal": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1wSS1EUGRjS0RCdExUQlJVX1V0VkZhVHltNDNCclNoYkNxV2dMcC1Nc3RycndkX2NjOTc5d3JnNFZEUmtkbjdqVUVpMnNDZ0Q5cHlZWVhXUWo3RnhBcFduT2VSOGZLdXhNMTdCSklXZEZ6Z203dHdPcTd3NW1vbHJVWFFuLXNkNUNjd0lJb2J2SWhXSWs4MlJvakdoUFZ2dEE?oc=5",
       "publishedAt": "2026-09-11T21:47:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Verificando os fatos por trás dos ataques de Trump aos candidatos democratas ao Senado",
-      "titleOriginal": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
-      "publishedAt": "2026-09-11T21:28:15.000Z"
     }
   ]
 }
