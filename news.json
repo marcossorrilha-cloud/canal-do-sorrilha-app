@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-12T22:18:57.182Z",
+  "updatedAt": "2026-09-12T23:22:57.765Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que a unificação da Irlanda seria “fantástica”, rompendo com o precedente",
+      "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "publishedAt": "2026-09-12T22:46:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Marshall volta atrás em relação ao apoio ao dividendo de US$ 5.000 proposto por Trump no debate pelo Senado do Kansas",
+      "titleOriginal": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
+      "link": "https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends/",
+      "publishedAt": "2026-09-12T22:44:10.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Plano de Trump de reduzir pela metade o quadro de funcionários da FEMA é ilegal, decide juiz",
@@ -17,18 +31,18 @@
       "publishedAt": "2026-09-12T21:27:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
-      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
-      "publishedAt": "2026-09-12T21:12:25.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Como Trump está usando o poder para reprimir a liberdade de expressão",
       "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
       "publishedAt": "2026-09-12T21:02:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A casa onde Trump passou a infância é vendida por quase US$ 2 milhões",
+      "titleOriginal": "Trump's childhood home sells for nearly $2 million",
+      "link": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
+      "publishedAt": "2026-09-12T20:41:41.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
       "link": "https://thehill.com/blogs/in-the-know/6086287-maher-calls-democrats-cowards/",
       "publishedAt": "2026-09-12T19:28:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A casa onde o presidente Donald Trump passou a infância foi vendida por US$ 2 milhões",
-      "titleOriginal": "President Donald Trump’s childhood home sells for $2 million",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlV6OW5kWlJLcUI0WjVtbDRBQV9VUzEtVkVZMFBhbmhXd0E0Yzc2RFhGQkp5RzJ3SVdsYVZmUG41RE51ZVRvSzlNTEVZQnFNNlVCT25hT3Q3Q0xRd3cycG1lX2lfUGsyQjhxdUt4LVdueHpUamd2eDhNNXJpd0pFaDk2ZnQ4dGwzVmd6Rldqa1p2ckpMVEFR?oc=5",
-      "publishedAt": "2026-09-12T19:08:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A guerra do Irã não acabou. Ela mudou de forma.",
-      "titleOriginal": "Iran's war didn't end. It changed units.",
-      "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
-      "publishedAt": "2026-09-12T19:00:00.000Z"
     }
   ]
 }
