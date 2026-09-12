@@ -1,20 +1,62 @@
 {
-  "updatedAt": "2026-09-12T17:26:31.284Z",
+  "updatedAt": "2026-09-12T19:22:57.112Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Republicano de Ohio em disputa acirrada pelo Senado demite assessor de campanha, citando foto de nazistas nas redes sociais",
-      "titleOriginal": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-      "publishedAt": "2026-09-12T17:23:41.000Z"
+      "source": "AP News",
+      "title": "A Arábia Saudita tem poucas opções diante das crescentes ameaças do Irã e de seus aliados",
+      "titleOriginal": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
+      "publishedAt": "2026-09-12T19:14:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A guerra do Irã não acabou. Ela mudou de forma.",
+      "titleOriginal": "Iran's war didn't end. It changed units.",
+      "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
+      "publishedAt": "2026-09-12T19:00:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Trump afirma que a unificação da Irlanda seria “fantástica”, rompendo com o precedente",
       "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
       "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "publishedAt": "2026-09-12T17:21:51.000Z"
+      "publishedAt": "2026-09-12T18:50:02.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Assessor de campanha republicano é demitido por causa de foto nazista",
+      "titleOriginal": "Republican Campaign Aide Is Fired Over Nazi Photo",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+      "publishedAt": "2026-09-12T18:21:01.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
+      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
+      "publishedAt": "2026-09-12T18:12:25.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Os republicanos temem ter um problema na Carolina do Norte",
+      "titleOriginal": "Republicans fear they have a North Carolina problem",
+      "link": "https://www.politico.com/news/2026/09/12/gop-anxiety-grows-north-carolina-senate-race-01073311",
+      "publishedAt": "2026-09-12T18:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Modi, da Índia, e Xi, da China, buscam restabelecer as relações à margem da reunião do BRICS",
+      "titleOriginal": "India’s Modi and China’s Xi seek to reset ties on BRICS sidelines",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHJRZ08yZnluclFkNUNTNHNWUjc2TkNBdTAwaXFlemFuSDFvbk4xbmxaQ2JtVGhUMWsyZUxFMG10UTdRTUhfQXMyM3hDdk80UUhsdjQtS09QZ3g0Nm9raXE1NTdVTWxRaHRFcjF0am9KQVdEUGdRdFZEdkNNbXVUY1cxSQ?oc=5",
+      "publishedAt": "2026-09-12T17:18:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Larry Ellison desiste do plano de vender ações da Oracle no valor de até US$ 7,5 bilhões",
+      "titleOriginal": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUV0Vkg1bkhnTUFNR1RsRWdzMTFsWWtUMWFvNXVBeE1Ub253STdvNnZtVnhTTmFVT3E4ZlhfUGdqd0dEQUU2SHJZSzVyU1hMVGZzZF9CT0Y0SktvZHd2SVV2cFo3VXpPUDZhc3ozeEVHSlZjV1RzVk1CcEFCNnhGMkE0SVRWajR0djNnUWNaU2hndDJKaXdPUTRkYzJwUi1Gc2VFWm9HTVV5d1B0NkN2bQ?oc=5",
+      "publishedAt": "2026-09-12T17:10:00.000Z"
     },
     {
       "source": "The Hill",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-09-12T17:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Principais pontos do segundo dia da Convenção Republicana para as eleições de meio de mandato",
-      "titleOriginal": "Key Takeaways From Day Two of the Republican Midterm Convention",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnBIMC1aN0kwbGtLQ2ZjZ1c3Y3l6dUZvc2xEckdQVHdlS3FxX0V4T0xReXZsU1hmRXNsbUc4SGpJckpYdWtFYVl0UFNWNGpFS2ktOTZZTmZTdW54TXo5RUpscDI4WFgxQm1EbXlTd2JJc3dJUHFHczRZWFZWQUdNSDBrckV3OGMzTWprei1rN3E1ZktPZF9aU0dSQkVrRVN0WUFoajJHYm5KdG5nN1FWcw?oc=5",
-      "publishedAt": "2026-09-12T16:53:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump quer que a Instituição Smithsonian instale estátuas de George Washington e organize uma exposição",
-      "titleOriginal": "Trump wants the Smithsonian Institution to install George Washington statues and exhibit",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c?oc=5",
-      "publishedAt": "2026-09-12T16:46:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O ataque que fechou um importante oleoduto saudita é atribuído a milícias apoiadas pelo Irã no Iraque",
-      "titleOriginal": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
-      "publishedAt": "2026-09-12T16:26:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump causa polêmica durante sua visita à Irlanda ao afirmar que a reunificação seria “fantástica”",
-      "titleOriginal": "Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
-      "publishedAt": "2026-09-12T16:06:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "As fotos mostram a visita de dois dias do presidente Trump à Irlanda, que combina trabalho e lazer",
-      "titleOriginal": "Photos show President Trump’s two-day visit to Ireland that combines work and pleasure",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
-      "publishedAt": "2026-09-12T16:05:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como Trump está usando o poder para reprimir a liberdade de expressão",
-      "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-      "publishedAt": "2026-09-12T15:29:44.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Cruz foi vaiado no programa “College Gameday”, da ESPN, durante sua participação em defesa do projeto de lei do Senado sobre esportes universitários",
-      "titleOriginal": "Cruz met with jeers on ESPN's College Gameday during appearance advocating for Senate college sports bill",
-      "link": "https://thehill.com/policy/sports-gaming/6086052-cruz-espn-college-gameday-act-boos/",
-      "publishedAt": "2026-09-12T15:14:42.000Z"
+      "title": "Mãe de aluguel que fugiu para o Texas para evitar o aborto recorre de decisão sobre a guarda ao Supremo Tribunal Federal",
+      "titleOriginal": "Surrogate who fled to Texas to avoid abortion appeals custody case to Supreme Court",
+      "link": "https://thehill.com/regulation/court-battles/6086160-texas-surrogacy-case-supreme-court-appeal/",
+      "publishedAt": "2026-09-12T16:53:39.000Z"
     }
   ]
 }
