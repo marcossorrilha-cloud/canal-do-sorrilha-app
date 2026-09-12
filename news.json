@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-12T14:08:57.187Z",
+  "updatedAt": "2026-09-12T14:22:46.126Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Chapéus de cowboy, assentos vazios, muito Trump: por dentro da convenção do Partido Republicano para as eleições de meio de mandato",
+      "titleOriginal": "Cowboy Hats, Empty Seats, Lots of Trump: Inside the GOP Midterm Convention",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjJieVN5RFdiajV5WXAwelNqOUJ3VjZtTGdPS3J5RmlvSWE3TGpMMXkwbnNDQkl2UDllNDZrcklKUFQtU0x6VVNFUUNFQVJWOWZ3Q0l5SndUeUpUZzVTLVMySU9MMVNtRVJQZ0FYWmljZmxmbUpvSjB4Q2lUaVFnMDduZlMtWGN1?oc=5",
+      "publishedAt": "2026-09-12T14:16:44.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A evolução perigosa de Gavin Newsom",
@@ -32,7 +39,7 @@
     },
     {
       "source": "AP News",
-      "title": "Líderes do BRICS manifestam preocupação com o Oriente Médio e condenam sanções unilaterais na cúpula da Índia",
+      "title": "Líderes do BRICS manifestam preocupação com o Oriente Médio e condenam sanções unilaterais na cúpula na Índia",
       "titleOriginal": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
       "publishedAt": "2026-09-12T12:45:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "For many Democrats this cycle, the tipping point between victory and defeat is Israel",
       "link": "https://thehill.com/opinion/campaign/6084758-democrats-israel-ideological-war/",
       "publishedAt": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que gostaria de ver uma Irlanda unificada durante sua visita para jogar golfe em seu campo de Doonbeg",
-      "titleOriginal": "Trump says he’d like to see a unified Ireland as he visits for golf at his Doonbeg course",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
-      "publishedAt": "2026-09-12T11:53:00.000Z"
     }
   ]
 }
