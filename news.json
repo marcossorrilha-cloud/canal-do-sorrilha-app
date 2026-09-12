@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-12T21:39:11.942Z",
+  "updatedAt": "2026-09-12T22:18:57.182Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Plano de Trump de reduzir pela metade o quadro de funcionários da FEMA é ilegal, decide juiz",
+      "titleOriginal": "Trump's plan to halve FEMA workforce illegal, judge rules",
+      "link": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/",
+      "publishedAt": "2026-09-12T21:56:57.000Z"
+    },
     {
       "source": "AP News",
       "title": "Pessoas que fogem do avanço dos rebeldes apoiados pelo Irã no Iêmen descrevem um “pânico histérico”",
@@ -10,22 +17,22 @@
       "publishedAt": "2026-09-12T21:27:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Uma casa de campo moderna em uma ilha do Oregon",
+      "titleOriginal": "House of the Week: A Modern Farmhouse on an Oregon Island",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzBZeEhicUhzTDhneGFjM2ZHRGRVWUExRHNjZVRXRjMwM3BMQ2NSd3R6Tm5abGEyNnlpWWU5VUkwdHR3MU1lWGI0LWRGSTdGbzJ6cjRJY3daN3VpbXV2NTZtNDhjTnBxOW1zcnpiWlRLU0hUeFBCRUl0R05ZNGtqbG5FeEE1dw?oc=5",
+      "publishedAt": "2026-09-12T21:12:25.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Como Trump está usando seu poder para reprimir a liberdade de expressão",
+      "title": "Como Trump está usando o poder para reprimir a liberdade de expressão",
       "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
       "publishedAt": "2026-09-12T21:02:01.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A casa onde Trump passou a infância é vendida por quase US$ 2 milhões",
-      "titleOriginal": "Trump's childhood home sells for nearly $2 million",
-      "link": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
-      "publishedAt": "2026-09-12T20:41:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Talarico critica as “apelidos cafonas” que Trump dá aos adversários em entrevista ao Kimmel",
+      "title": "Talarico critica os “apelidos cafonas” que Trump dá aos adversários em entrevista ao Kimmel",
       "titleOriginal": "Talarico rips Trump's 'corny nicknames' for opponents in Kimmel interview",
       "link": "https://thehill.com/homenews/media/6086319-talarico-brushed-off-trump-nickname/",
       "publishedAt": "2026-09-12T20:27:54.000Z"
@@ -52,25 +59,18 @@
       "publishedAt": "2026-09-12T19:28:55.000Z"
     },
     {
+      "source": "AP News",
+      "title": "A casa onde o presidente Donald Trump passou a infância foi vendida por US$ 2 milhões",
+      "titleOriginal": "President Donald Trump’s childhood home sells for $2 million",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlV6OW5kWlJLcUI0WjVtbDRBQV9VUzEtVkVZMFBhbmhXd0E0Yzc2RFhGQkp5RzJ3SVdsYVZmUG41RE51ZVRvSzlNTEVZQnFNNlVCT25hT3Q3Q0xRd3cycG1lX2lfUGsyQjhxdUt4LVdueHpUamd2eDhNNXJpd0pFaDk2ZnQ4dGwzVmd6Rldqa1p2ckpMVEFR?oc=5",
+      "publishedAt": "2026-09-12T19:08:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "A guerra do Irã não acabou. Ela mudou de formato.",
+      "title": "A guerra do Irã não acabou. Ela mudou de forma.",
       "titleOriginal": "Iran's war didn't end. It changed units.",
       "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
       "publishedAt": "2026-09-12T19:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que a unificação da Irlanda seria “fantástica”, rompendo com o precedente",
-      "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "publishedAt": "2026-09-12T18:50:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Assessor de campanha republicano é demitido por causa de foto nazista",
-      "titleOriginal": "Republican Campaign Aide Is Fired Over Nazi Photo",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-      "publishedAt": "2026-09-12T18:21:01.000Z"
     }
   ]
 }
