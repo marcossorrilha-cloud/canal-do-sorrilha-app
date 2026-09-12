@@ -1,31 +1,38 @@
 {
-  "updatedAt": "2026-09-12T01:07:47.982Z",
+  "updatedAt": "2026-09-12T01:33:29.531Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump viaja para a Irlanda para disputar o Irish Open em seu campo de golfe",
+      "titleOriginal": "Trump Heads to Ireland for the Irish Open at His Golf Course",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
+      "publishedAt": "2026-09-12T01:25:33.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Juiz federal deve indeferir ação judicial que contesta a biblioteca de Trump",
       "titleOriginal": "Federal Judge Poised to Dismiss Lawsuit Challenging Trump’s Library",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html",
-      "publishedAt": "2026-09-12T01:05:08.000Z"
+      "publishedAt": "2026-09-12T01:16:09.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | EUA associam imagens de satélite chinesas ao ataque iraniano que matou três soldados",
+      "titleOriginal": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?oc=5",
+      "publishedAt": "2026-09-12T01:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Bacon afirma que está considerando concorrer à Casa Branca em 2028",
+      "title": "Bacon afirma que está ponderando uma candidatura à Casa Branca em 2028",
       "titleOriginal": "Bacon says he's mulling 2028 White House bid",
       "link": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
       "publishedAt": "2026-09-12T00:50:58.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump viaja para a Irlanda para o Irish Open, em seu campo de golfe",
-      "titleOriginal": "Trump Heads to Ireland for the Irish Open at His Golf Course",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
-      "publishedAt": "2026-09-12T00:46:33.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "A polícia do Mississippi prende um homem pelo assassinato de Tasia Fortune",
+      "title": "A polícia do Mississippi prende um homem suspeito de estar envolvido na morte de Tasia Fortune",
       "titleOriginal": "Mississippi police arrest a man in the death of Tasia Fortune",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
       "publishedAt": "2026-09-11T23:21:00.000Z"
@@ -46,14 +53,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Será que os alertas alarmistas sobre a IA influenciarão as eleições de meio de mandato?",
+      "title": "Será que os alertas contundentes sobre a IA influenciarão as eleições de meio de mandato?",
       "titleOriginal": "Will Stark Warnings About AI Shape the Midterm Elections?",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
       "publishedAt": "2026-09-11T22:21:17.000Z"
     },
     {
       "source": "AP News",
-      "title": "Criminoso sexual condenado fez a oração de abertura em comício para o candidato republicano ao Senado na Carolina do Norte",
+      "title": "Criminoso sexual condenado fez a oração de abertura em comício em apoio ao candidato republicano ao Senado na Carolina do Norte",
       "titleOriginal": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1wSS1EUGRjS0RCdExUQlJVX1V0VkZhVHltNDNCclNoYkNxV2dMcC1Nc3RycndkX2NjOTc5d3JnNFZEUmtkbjdqVUVpMnNDZ0Q5cHlZWVhXUWo3RnhBcFduT2VSOGZLdXhNMTdCSklXZEZ6Z203dHdPcTd3NW1vbHJVWFFuLXNkNUNjd0lJb2J2SWhXSWs4MlJvakdoUFZ2dEE?oc=5",
       "publishedAt": "2026-09-11T21:47:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
       "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
       "publishedAt": "2026-09-11T21:28:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Husted demite seu diretor político por causa de publicações com imagens nazistas",
-      "titleOriginal": "Husted ousts his political director over posts with Nazi imagery",
-      "link": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
-      "publishedAt": "2026-09-11T21:19:55.000Z"
     }
   ]
 }
