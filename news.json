@@ -1,17 +1,24 @@
 {
-  "updatedAt": "2026-09-12T10:48:11.584Z",
+  "updatedAt": "2026-09-12T11:15:24.950Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "O Iraque corre contra o tempo para conter as repercussões após milícias locais apoiadas pelo Irã terem sido acusadas de atacar um oleoduto saudita",
+      "titleOriginal": "Iraq races to contain fallout after local Iran-backed militias accused of attacking Saudi pipeline",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
+      "publishedAt": "2026-09-12T10:24:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Exclusivo: Prêmio Nobel libertado por Trump defende linha dura nas novas negociações com a Bielorrússia",
+      "title": "Exclusivo: ganhador do Prêmio Nobel libertado por Trump defende linha dura nas novas negociações com a Bielorrússia",
       "titleOriginal": "Exclusive: Nobel laureate freed by Trump urges hard line in new Belarus talks",
       "link": "https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions/",
       "publishedAt": "2026-09-12T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O retorno de McConnell coloca os legisladores mais velhos em destaque",
+      "title": "O retorno de McConnell coloca em destaque os legisladores mais velhos",
       "titleOriginal": "McConnell's return shines spotlight on older lawmakers",
       "link": "https://thehill.com/homenews/senate/6085627-mitch-mcconnell-aging-lawmakers-term-limits-health-challenges/",
       "publishedAt": "2026-09-12T10:00:00.000Z"
@@ -25,21 +32,14 @@
     },
     {
       "source": "New York Times",
-      "title": "Como Trump está usando seu poder para reprimir a liberdade de expressão",
+      "title": "Como Trump está usando o poder para reprimir a liberdade de expressão",
       "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
       "publishedAt": "2026-09-12T09:02:17.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Coreia do Sul está prestes a fechar acordo envolvendo bilhões em investimentos dos EUA, uma vitória para Trump",
-      "titleOriginal": "Exclusive | South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy10cDBublphQmRWMzBUdzZrejdIVm5qUkl6Y1dFN0N3NWhqX3lxLVFOVnBIOGFDaE5xWFBkZjZScXJNeWs0blBrN21uREJpNmFpVmJWeFpIZFN3U0o4dzlBa2YyWDc4ZExYQzhCTWJ6bks4b0hMc25aT0JtVVBqMEFEcGplU2tzNXlFNzZMUVJlc04ycHotV0ZkVU96aDUtelFPek5ISThfTFlCSzRQNXlUZHA?oc=5",
-      "publishedAt": "2026-09-12T08:12:03.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Preços recordes do diesel alimentam a inflação dos alimentos e os custos de transporte",
+      "title": "Preços recordes do diesel impulsionam a inflação dos alimentos e os custos de transporte",
       "titleOriginal": "Record diesel prices stoke food inflation, transportation costs",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT0NzOEtnTjVtWWVyTFdreW5DOURYVkc3MkxWNzA4RmF3YV8weHVSNnpfMGNhRUtrajFhZXhuNzFRRm1PdkRFWi1VeGhkbkJWLWtvTG9vODQxRGxCdHFKTXd2bDNacWJwcEFKdGhiSjI4QnE5U3d5akdqWQ?oc=5",
       "publishedAt": "2026-09-12T05:21:39.000Z"
@@ -53,7 +53,14 @@
     },
     {
       "source": "Axios",
-      "title": "Como a promessa de Trump de um cheque de US$ 5.000 deve funcionar",
+      "title": "Empresa contratada refuta as alegações de Trump sobre vandalismo no Reflecting Pool",
+      "titleOriginal": "Contractor undercuts Trump's Reflecting Pool vandal claims",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yQmdYR25ULUZhM1BiaVR2Uld1Uk5HdDQwRkJQb1ZXT0d4TkJuY3JOTjlnUE8tdy1Lb0hIcGxnQWpPb3B5cnRTbFV1QTVjNllDVUZORElGUVMzN0ExLUxuNFh2UzdGOE9KODJqaGxGSFREX2ZLMVhUenBMZFJFdw?oc=5",
+      "publishedAt": "2026-09-12T04:41:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Como a promessa de Trump de um cheque de US$ 5.000 deveria funcionar",
       "titleOriginal": "How Trump's $5,000 check promise is supposed to work",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcHNOSHkyUWxtTkZKaGZkd3FBa1MtRU5ZRFB6SXVCMmhnd0xUN19oc2JKMWdubW1saHNzLXBkNkxfMmRhcTNqX0JLcURZWUEwSmh3VGQ5azlPYjQtWjZRV1RabDBRMlZ4a1NUOVlGQldENjlULVlTSU5B?oc=5",
       "publishedAt": "2026-09-12T04:37:48.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Venice Film Festival ends with Golden Lion at stake after ‘NAZA’ draws record ovation",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0Y0NTRUVGpySE9LZ2NEVGZXM1lGWDdsZ1NocGNsaFpzaWk3NU9FTVlubDYyWnd0U3BValJkSlpiSkM0S045SEdzYkhjNW9vUVI5R0ZwcGVtNmlKbGF4SVRVRl9vNUNleHcydmU4Y1E0aFExT1pYUGV0U1M0VUFOQzNJNUlJb09xT3IzS3A0aTE?oc=5",
       "publishedAt": "2026-09-12T04:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Arábia Saudita interrompe o funcionamento de um oleoduto enquanto os houthis tomam uma ilha, abrindo uma nova frente na guerra contra o Irã",
-      "titleOriginal": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "publishedAt": "2026-09-12T03:21:00.000Z"
     }
   ]
 }
