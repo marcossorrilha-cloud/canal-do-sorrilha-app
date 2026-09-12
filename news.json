@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-12T06:30:41.535Z",
+  "updatedAt": "2026-09-12T10:48:11.584Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "A Arábia Saudita interrompe o funcionamento de um oleoduto enquanto os houthis tomam uma ilha, abrindo uma nova frente na guerra contra o Irã",
-      "titleOriginal": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "publishedAt": "2026-09-12T03:21:00.000Z"
+      "source": "The Hill",
+      "title": "Exclusivo: Prêmio Nobel libertado por Trump defende linha dura nas novas negociações com a Bielorrússia",
+      "titleOriginal": "Exclusive: Nobel laureate freed by Trump urges hard line in new Belarus talks",
+      "link": "https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions/",
+      "publishedAt": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O retorno de McConnell coloca os legisladores mais velhos em destaque",
+      "titleOriginal": "McConnell's return shines spotlight on older lawmakers",
+      "link": "https://thehill.com/homenews/senate/6085627-mitch-mcconnell-aging-lawmakers-term-limits-health-challenges/",
+      "publishedAt": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A inflação complica a campanha de Trump para as eleições de meio de mandato",
+      "titleOriginal": "Inflation Complicates Trump’s Midterms Pitch to Voters",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+      "publishedAt": "2026-09-12T09:04:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como Trump está usando seu poder para reprimir a liberdade de expressão",
+      "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
+      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+      "publishedAt": "2026-09-12T09:02:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Coreia do Sul está prestes a fechar acordo envolvendo bilhões em investimentos dos EUA, uma vitória para Trump",
+      "titleOriginal": "Exclusive | South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy10cDBublphQmRWMzBUdzZrejdIVm5qUkl6Y1dFN0N3NWhqX3lxLVFOVnBIOGFDaE5xWFBkZjZScXJNeWs0blBrN21uREJpNmFpVmJWeFpIZFN3U0o4dzlBa2YyWDc4ZExYQzhCTWJ6bks4b0hMc25aT0JtVVBqMEFEcGplU2tzNXlFNzZMUVJlc04ycHotV0ZkVU96aDUtelFPek5ISThfTFlCSzRQNXlUZHA?oc=5",
+      "publishedAt": "2026-09-12T08:12:03.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Preços recordes do diesel alimentam a inflação dos alimentos e os custos de transporte",
+      "titleOriginal": "Record diesel prices stoke food inflation, transportation costs",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT0NzOEtnTjVtWWVyTFdreW5DOURYVkc3MkxWNzA4RmF3YV8weHVSNnpfMGNhRUtrajFhZXhuNzFRRm1PdkRFWi1VeGhkbkJWLWtvTG9vODQxRGxCdHFKTXd2bDNacWJwcEFKdGhiSjI4QnE5U3d5akdqWQ?oc=5",
+      "publishedAt": "2026-09-12T05:21:39.000Z"
     },
     {
       "source": "Axios",
       "title": "Exclusivo: Mike Johnson é instado a cancelar o recesso da Câmara dos Deputados devido a alertas sobre IA",
       "titleOriginal": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzNfelNQaFhjd1MyazVGeVk4WEFPbGpLNmRDWWhfVkp0RUc0ampoWHpZQ2wxcldET2RfeWlnVXlVTDUxNjJCcFQ1T1dCaFZHbGNOOWViYmJvNDNYLVhXMzJLMFJ1OUFhRzRHczA3SHVYWkg5RGxFUnhpZEM0N3Z1YQ?oc=5",
-      "publishedAt": "2026-09-12T02:18:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | EUA associam imagens de satélite chinesas ao ataque iraniano que matou três soldados",
-      "titleOriginal": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05ZUHdkZVNUdzFKZzRrZW0wRkgzbWZNbE55Wk00TWgxNkFjVXRUdENGS0NJcm5LWHhkWVJWMVNTNU5YSGRvWGZIWnhkSzNRNzFYNHlYUmNTNHc4WVBsdlpFbFh1LXktYmozTTZOYkhPVlRlZzY4RllGamstNkJvSENmMUZobV8zQldNdlIxVjY3QnVGTk9Ba21SVmgyWF9uX3I0Ri1zR2JmV1JXQVFoanRsMA?oc=5",
-      "publishedAt": "2026-09-12T01:57:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Mulher afegã é deportada no primeiro caso judicial envolvendo um “estrangeiro terrorista”, afirma o Departamento de Justiça",
-      "titleOriginal": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wek5oOHB2RXZkOWJoNXNTLUJON0htak1jZk50V3lTR3NwWDZ3aUhtQ1lKQU55aW5pNWk0ZDlrbzBHSmdITndtWnZhUzhrN0RjRjNDNUkxY0tscmtKWUoyb2dESkFHT2Fma2lHTk9nTldIbnc4WUFfLXhtbWQ?oc=5",
-      "publishedAt": "2026-09-12T01:46:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "DeSantis: “A Flórida concederá asilo” ao jurado que se recusou a votar no caso de Lindsay Clancy",
-      "titleOriginal": "DeSantis: 'Florida will provide asylum' to holdout juror in Lindsay Clancy case",
-      "link": "https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror/",
-      "publishedAt": "2026-09-12T01:43:37.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia do Mississippi prende um homem suspeito de estar envolvido na morte de Tasia Fortune",
-      "titleOriginal": "Mississippi police arrest a man in the death of Tasia Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
-      "publishedAt": "2026-09-12T01:43:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz federal deve indeferir ação judicial que contesta a biblioteca de Trump",
-      "titleOriginal": "Federal Judge Poised to Dismiss Lawsuit Challenging Trump’s Library",
-      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html",
-      "publishedAt": "2026-09-12T01:16:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tribunal federal rejeita ordem de Trump que mantinha usina a carvão de Michigan em funcionamento",
-      "titleOriginal": "Federal court rejects Trump order keeping Michigan coal plant open",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1V6ZTB5Y2FWZnU1VTVKYnRwQnBGUE12VjlRYVNmMGxoNm1Od0R3TDVSSk4zT1pnei1udGhwSnp0VkFBdDEyTEI4YW93cFVMS094OUNvTjZBcWZiX2ZENEp0alBuU2JIcGFqaFRpTlo5QVlsSTdTaTFUSG92bjg1R1l4QlJoX3BXa3VaZWNqWVBwS0FPUFdnaVh2TEstaE9UM2c?oc=5",
-      "publishedAt": "2026-09-12T00:57:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bacon afirma que está considerando concorrer à Casa Branca em 2028",
-      "titleOriginal": "Bacon says he's mulling 2028 White House bid",
-      "link": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
-      "publishedAt": "2026-09-12T00:50:58.000Z"
+      "publishedAt": "2026-09-12T05:19:13.000Z"
     },
     {
       "source": "Axios",
       "title": "Como a promessa de Trump de um cheque de US$ 5.000 deve funcionar",
       "titleOriginal": "How Trump's $5,000 check promise is supposed to work",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcHNOSHkyUWxtTkZKaGZkd3FBa1MtRU5ZRFB6SXVCMmhnd0xUN19oc2JKMWdubW1saHNzLXBkNkxfMmRhcTNqX0JLcURZWUEwSmh3VGQ5azlPYjQtWjZRV1RabDBRMlZ4a1NUOVlGQldENjlULVlTSU5B?oc=5",
-      "publishedAt": "2026-09-12T00:12:23.000Z"
+      "publishedAt": "2026-09-12T04:37:48.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Festival de Cinema de Veneza chega ao fim com o Leão de Ouro em jogo, depois que “NAZA” recebeu uma ovação recorde",
+      "titleOriginal": "Venice Film Festival ends with Golden Lion at stake after ‘NAZA’ draws record ovation",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0Y0NTRUVGpySE9LZ2NEVGZXM1lGWDdsZ1NocGNsaFpzaWk3NU9FTVlubDYyWnd0U3BValJkSlpiSkM0S045SEdzYkhjNW9vUVI5R0ZwcGVtNmlKbGF4SVRVRl9vNUNleHcydmU4Y1E0aFExT1pYUGV0U1M0VUFOQzNJNUlJb09xT3IzS3A0aTE?oc=5",
+      "publishedAt": "2026-09-12T04:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Arábia Saudita interrompe o funcionamento de um oleoduto enquanto os houthis tomam uma ilha, abrindo uma nova frente na guerra contra o Irã",
+      "titleOriginal": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+      "publishedAt": "2026-09-12T03:21:00.000Z"
     }
   ]
 }
