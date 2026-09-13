@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:24:59.542Z",
+  "updatedAt": "2026-09-13T22:36:48.881Z",
   "count": 10,
   "items": [
     {
@@ -38,8 +38,15 @@
       "publishedAt": "2026-09-13T21:43:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Conheça as facções que impulsionam os Socialistas Democráticos da América",
+      "titleOriginal": "Meet the Factions Driving the Democratic Socialists of America",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpNaVJ1aUNyckVLUzlWS3NFM2t2R0FnT0ppLTkyem15bEpDLXFOakFZOG1NVU4yUDZwLVdPRC1IZFozNmhRUTJoRVFyV0RKZkFzZVBldFQzcDI2S0FNekNOOTZBeDM0Mld2X3ZJZG9mcU9ENFhSbnMwaXNkU2o0ZlVTU3ZSUkpFbFJucE1LbExleWh6RlFRWVV6TzFNbzBZM01vV1VSQ2FHZ1FGRjVF?oc=5",
+      "publishedAt": "2026-09-13T21:35:54.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Trump afirma que vai suspender a tarifa de 10% sobre o uísque irlandês porque “todo mundo tem me incomodado” com isso",
+      "title": "Trump diz que vai suspender a tarifa de 10% sobre o uísque irlandês porque “todo mundo tem me incomodado” com isso",
       "titleOriginal": "Trump says he's lifting a 10% tariff on Irish whiskey because 'everybody's been bugging me' about it",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
       "publishedAt": "2026-09-13T21:24:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
       "publishedAt": "2026-09-13T20:36:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump minimiza a necessidade de controlar o desenvolvimento da IA e afirma que não quer perder vantagem para a China",
-      "titleOriginal": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
-      "publishedAt": "2026-09-13T20:26:00.000Z"
     }
   ]
 }
