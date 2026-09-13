@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-09-13T01:24:59.294Z",
+  "updatedAt": "2026-09-13T06:11:25.638Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A Lineage processa operadora de painéis solares por incêndio em armazém em Los Angeles",
+      "titleOriginal": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmUyMzB2MGUtQkdtenpXNFFYSEFUeGtheXc2QkpIYnp6SU52S0tRZmpHWW5aWUduVEdkSW9OM2JpYzZpb0ZlcHdteHFmcTFfWDlnVWNLWTN5TjE3LW5XNXNDd2lLT0ZjSjB6N0dTS0ZnYXVibFNpSkU2dnIyb0ZaLXZscWpKQXBkSEVMNHdta2VZZFBUdnRxd3hUZzk4QjFtTTNWTjNn?oc=5",
+      "publishedAt": "2026-09-13T05:17:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Um acadêmico norte-americano foi convidado a ir à China. Em seguida, ele desapareceu.",
+      "titleOriginal": "Exclusive | A U.S. Scholar Was Invited to China. Then He Vanished.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VTMWI3WFBmNGVmQUR0Y1EwU2Y3YkZCdjFZSWZmQzk0SUpNTnZ5WmpkMkQwSTlVc2JqaEZjeFYzbmRjanRmTU5uTVZNTTR1M2Q4c2dNR3IxSlNNZmxoQUZhUU9FZ24wUVZybmFodWRmTEJPdDk0SFNtVC1ManFNX1htQXJQNEk4WkZTQjZlbmo4WWRTR3FR?oc=5",
+      "publishedAt": "2026-09-13T05:06:54.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Obama exorta os democratas a colocarem a supervisão da IA no centro de sua agenda",
+      "titleOriginal": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
+      "link": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+      "publishedAt": "2026-09-13T04:03:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Conheça as facções que impulsionam os Socialistas Democráticos da América",
+      "titleOriginal": "Meet the Factions Driving the Democratic Socialists of America",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpNaVJ1aUNyckVLUzlWS3NFM2t2R0FnT0ppLTkyem15bEpDLXFOakFZOG1NVU4yUDZwLVdPRC1IZFozNmhRUTJoRVFyV0RKZkFzZVBldFQzcDI2S0FNekNOOTZBeDM0Mld2X3ZJZG9mcU9ENFhSbnMwaXNkU2o0ZlVTU3ZSUkpFbFJucE1LbExleWh6RlFRWVV6TzFNbzBZM01vV1VSQ2FHZ1FGRjVF?oc=5",
+      "publishedAt": "2026-09-13T03:26:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Driscoll destaca a inovação militar da Ucrânia em sua primeira aparição pública desde que renunciou ao cargo de secretário do Exército",
+      "titleOriginal": "Driscoll touts Ukraine's military innovation in first public appearance since resigning as Army Secretary",
+      "link": "https://thehill.com/policy/defense/6086519-driscoll-touts-ukraines-military-innovation-in-first-public-appearance-since-resigning-as-army-secretary/",
+      "publishedAt": "2026-09-13T03:06:16.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "O Alasca retira as acusações de irregularidade eleitoral contra os samoanos americanos que marcaram erroneamente a opção “cidadão dos EUA”",
-      "titleOriginal": "Alaska drops voter misconduct cases against American Samoans who wrongly checked 'US citizen' box",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0RmYTdpc1I0aXVDZEI5aVMzZnpxR0lWcElSYzJybV9WcU9yZWQ0QVd3ZGNsNEYwLTJ4V3drekRFbi0wZjRyczR0OE90eGlWdDMtOWVRODEtN2NrWTB2ZUlFbGprMnJFTjJHNHNYX216N0RMY0lqYVI2a0ZvclZpaEFFYUFtUnpoT0EteTI1dzJJak91b2VES1RZSFZmTHFLM25tSno0NmU?oc=5",
-      "publishedAt": "2026-09-13T00:48:00.000Z"
+      "title": "Juiz federal decide que o plano do Departamento de Segurança Interna (DHS) de Trump para cortar 50% do quadro de funcionários da FEMA era ilegal",
+      "titleOriginal": "Federal judge rules Trump DHS plan for 50% FEMA staffing cuts was unlawful",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEpmeFFBZjlqV3JtNjRWRTBjcTY0V2xJTXAwNjBLWnRuUzNUZUFOSkR5aGNYdEVNOHk3ODM4eEEwWXBEZzROcVFoZXNXdE02aHRlMGhJVU1YZ1A1RDR5S1ptM2F1WHhsZmdkNHRHZlZQempmWURFTVh3Wkp1ajR1bXhsS3dkVjN2bTdRTWlqTUN3MWJjdkNXc3A2SERpVHJZWVJ5M2ZHWVJzclJP?oc=5",
+      "publishedAt": "2026-09-13T02:09:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Policiais atendem a uma ocorrência envolvendo um invasor na residência da ex-vice-presidente Kamala Harris, em Malibu",
+      "titleOriginal": "Deputies respond to trespasser reported at ex-Vice President Kamala Harris’ Malibu home",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTZfMERHdS1wRG9sMDlOVUhMbjExa1pCdWRwZWl3QkVLS1REaG5YbHZjQTB3N0RnMDdFWk8zSDNwZURXdXdKbk1MSWVvQm9EY0ZoN3pCdHFfRlZuajRMQkg1bG55My1KakhuZllnNVhGOXY5WVY4ZFZIZHlTb3RWMFg0T0oxNHhlSmtydA?oc=5",
+      "publishedAt": "2026-09-13T01:48:00.000Z"
     },
     {
       "source": "AP News",
@@ -15,20 +57,6 @@
       "titleOriginal": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
       "publishedAt": "2026-09-13T00:46:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Conheça as facções que impulsionam os Socialistas Democráticos da América",
-      "titleOriginal": "Meet the Factions Driving the Democratic Socialists of America",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpNaVJ1aUNyckVLUzlWS3NFM2t2R0FnT0ppLTkyem15bEpDLXFOakFZOG1NVU4yUDZwLVdPRC1IZFozNmhRUTJoRVFyV0RKZkFzZVBldFQzcDI2S0FNekNOOTZBeDM0Mld2X3ZJZG9mcU9ENFhSbnMwaXNkU2o0ZlVTU3ZSUkpFbFJucE1LbExleWh6RlFRWVV6TzFNbzBZM01vV1VSQ2FHZ1FGRjVF?oc=5",
-      "publishedAt": "2026-09-13T00:28:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A residência de Kamala Harris foi alvo de um invasor",
-      "titleOriginal": "Kamala Harris' home targeted by trespasser",
-      "link": "https://thehill.com/blogs/in-the-know/6086440-kamala-harris-property-trespasser-stopped/",
-      "publishedAt": "2026-09-12T23:53:25.000Z"
     },
     {
       "source": "AP News",
@@ -43,34 +71,6 @@
       "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
       "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "publishedAt": "2026-09-12T22:46:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Marshall volta atrás em relação ao apoio ao dividendo de US$ 5.000 proposto por Trump no debate pelo Senado do Kansas",
-      "titleOriginal": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
-      "link": "https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends/",
-      "publishedAt": "2026-09-12T22:44:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Plano de Trump de reduzir pela metade o quadro de funcionários da FEMA é ilegal, decide juiz",
-      "titleOriginal": "Trump's plan to halve FEMA workforce illegal, judge rules",
-      "link": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/",
-      "publishedAt": "2026-09-12T21:56:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Pessoas que fogem do avanço dos rebeldes apoiados pelo Irã no Iêmen descrevem um “pânico histérico”",
-      "titleOriginal": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
-      "publishedAt": "2026-09-12T21:27:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como Trump está usando o poder para reprimir a liberdade de expressão",
-      "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
-      "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-      "publishedAt": "2026-09-12T21:02:01.000Z"
     }
   ]
 }
