@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-13T01:01:46.614Z",
+  "updatedAt": "2026-09-13T01:24:59.294Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "O Alasca retira as acusações de irregularidade eleitoral contra os samoanos americanos que marcaram erroneamente a opção “cidadão dos EUA”",
+      "titleOriginal": "Alaska drops voter misconduct cases against American Samoans who wrongly checked 'US citizen' box",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0RmYTdpc1I0aXVDZEI5aVMzZnpxR0lWcElSYzJybV9WcU9yZWQ0QVd3ZGNsNEYwLTJ4V3drekRFbi0wZjRyczR0OE90eGlWdDMtOWVRODEtN2NrWTB2ZUlFbGprMnJFTjJHNHNYX216N0RMY0lqYVI2a0ZvclZpaEFFYUFtUnpoT0EteTI1dzJJak91b2VES1RZSFZmTHFLM25tSno0NmU?oc=5",
+      "publishedAt": "2026-09-13T00:48:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Líderes do BRICS manifestam preocupação com o Oriente Médio e condenam sanções unilaterais na cúpula da Índia",
@@ -11,17 +18,24 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Conheça as facções que lideram os Socialistas Democráticos da América",
+      "title": "Conheça as facções que impulsionam os Socialistas Democráticos da América",
       "titleOriginal": "Meet the Factions Driving the Democratic Socialists of America",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpNaVJ1aUNyckVLUzlWS3NFM2t2R0FnT0ppLTkyem15bEpDLXFOakFZOG1NVU4yUDZwLVdPRC1IZFozNmhRUTJoRVFyV0RKZkFzZVBldFQzcDI2S0FNekNOOTZBeDM0Mld2X3ZJZG9mcU9ENFhSbnMwaXNkU2o0ZlVTU3ZSUkpFbFJucE1LbExleWh6RlFRWVV6TzFNbzBZM01vV1VSQ2FHZ1FGRjVF?oc=5",
       "publishedAt": "2026-09-13T00:28:49.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A casa de Kamala Harris foi alvo de um invasor",
+      "title": "A residência de Kamala Harris foi alvo de um invasor",
       "titleOriginal": "Kamala Harris' home targeted by trespasser",
       "link": "https://thehill.com/blogs/in-the-know/6086440-kamala-harris-property-trespasser-stopped/",
       "publishedAt": "2026-09-12T23:53:25.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As fotos mostram a visita do presidente Trump à Irlanda, que combina trabalho e lazer",
+      "titleOriginal": "Photos show President Trump’s visit to Ireland that combines work and pleasure",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
+      "publishedAt": "2026-09-12T23:17:00.000Z"
     },
     {
       "source": "New York Times",
@@ -32,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Marshall volta atrás no apoio ao dividendo de US$ 5.000 proposto por Trump em debate no Senado do Kansas",
+      "title": "Marshall volta atrás em relação ao apoio ao dividendo de US$ 5.000 proposto por Trump no debate pelo Senado do Kansas",
       "titleOriginal": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
       "link": "https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends/",
       "publishedAt": "2026-09-12T22:44:10.000Z"
@@ -43,13 +57,6 @@
       "titleOriginal": "Trump's plan to halve FEMA workforce illegal, judge rules",
       "link": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/",
       "publishedAt": "2026-09-12T21:56:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Alasca retira as acusações de irregularidade eleitoral contra os samoanos americanos que marcaram erroneamente a opção “cidadão dos EUA”",
-      "titleOriginal": "Alaska drops voter misconduct cases against American Samoans who wrongly checked 'US citizen' box",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0RmYTdpc1I0aXVDZEI5aVMzZnpxR0lWcElSYzJybV9WcU9yZWQ0QVd3ZGNsNEYwLTJ4V3drekRFbi0wZjRyczR0OE90eGlWdDMtOWVRODEtN2NrWTB2ZUlFbGprMnJFTjJHNHNYX216N0RMY0lqYVI2a0ZvclZpaEFFYUFtUnpoT0EteTI1dzJJak91b2VES1RZSFZmTHFLM25tSno0NmU?oc=5",
-      "publishedAt": "2026-09-12T21:39:00.000Z"
     },
     {
       "source": "AP News",
@@ -64,13 +71,6 @@
       "titleOriginal": "How Trump Is Wielding Power to Stifle Speech",
       "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
       "publishedAt": "2026-09-12T21:02:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A casa onde Trump passou a infância foi vendida por quase US$ 2 milhões",
-      "titleOriginal": "Trump's childhood home sells for nearly $2 million",
-      "link": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
-      "publishedAt": "2026-09-12T20:41:41.000Z"
     }
   ]
 }
