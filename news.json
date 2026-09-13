@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-13T12:51:06.227Z",
+  "updatedAt": "2026-09-13T16:18:09.790Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Por dentro do julgamento de impeachment que ameaçou encerrar a carreira política de Ken Paxton",
-      "titleOriginal": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html",
-      "publishedAt": "2026-09-13T12:39:12.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os houthis do Iêmen, apoiados pelo Irã, reivindicam novos ataques contra a Arábia Saudita",
-      "titleOriginal": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-      "publishedAt": "2026-09-13T12:38:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O mais novo local para uma Trump Tower: uma ex-república soviética que está se aproximando da Rússia",
-      "titleOriginal": "The Latest Spot for a Trump Tower: An Ex-Soviet Republic Moving Closer to Russia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHl2Y3VTTnZTMmNhNmJuUHpleDZJMFFIUXVQY09uMjdhLUNpUk9KMmRuN1hzLUZnRnNPREtWWGJUdlNIaUJPdks0dkI1OTN4bFhYc090SDh1MGVNY2lDUEpJUTladDA3OVdXMndlUThuQ1Z5STlfMTBHQTVaS2h6d1otb01qRHF1RTlnTU5CWmRBMVNOX1I5UDVsNjduOVFRdG1PX21qdXVDUEJOb0JYNVlVc2RJTFpyUHNzS3JXRFhTZw?oc=5",
-      "publishedAt": "2026-09-13T12:14:17.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Um acadêmico norte-americano foi convidado a ir à China. Em seguida, ele desapareceu.",
-      "titleOriginal": "Exclusive | A U.S. Scholar Was Invited to China. Then He Vanished.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VTMWI3WFBmNGVmQUR0Y1EwU2Y3YkZCdjFZSWZmQzk0SUpNTnZ5WmpkMkQwSTlVc2JqaEZjeFYzbmRjanRmTU5uTVZNTTR1M2Q4c2dNR3IxSlNNZmxoQUZhUU9FZ24wUVZybmFodWRmTEJPdDk0SFNtVC1ManFNX1htQXJQNEk4WkZTQjZlbmo4WWRTR3FR?oc=5",
-      "publishedAt": "2026-09-13T12:13:11.000Z"
+      "source": "The Hill",
+      "title": "Obama pressiona Jeffries para que coloque a supervisão da IA no centro da agenda: Reportagem",
+      "titleOriginal": "Obama pushes Jeffries to move AI oversight to center of agenda: Report",
+      "link": "https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/",
+      "publishedAt": "2026-09-13T15:59:39.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Um preço de tabela de US$ 100.000 diz muito pouco sobre o custo real — e o valor — da faculdade",
-      "titleOriginal": "A $100,000 sticker price says very little about the real cost — and value — of college",
-      "link": "https://thehill.com/opinion/education/6084870-higher-education-sticker-price-myth/",
-      "publishedAt": "2026-09-13T12:00:00.000Z"
+      "title": "Trump minimiza os alertas sobre a IA, citando a concorrência com a China",
+      "titleOriginal": "Trump downplays AI warnings, citing competition with China",
+      "link": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
+      "publishedAt": "2026-09-13T15:57:05.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Obama pede que os democratas se concentrem na IA",
+      "titleOriginal": "Obama calls for Dems to focus on AI",
+      "link": "https://www.politico.com/news/2026/09/13/obama-ai-democrats-fundraiser-01073778",
+      "publishedAt": "2026-09-13T15:55:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Principais legisladores concordam que os riscos da IA estão aumentando, mas afirmam não ter uma solução imediata",
+      "titleOriginal": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+      "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
+      "publishedAt": "2026-09-13T15:39:02.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Angie Nixon, candidata ao Senado, conquista a Flórida com tudo",
+      "titleOriginal": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
+      "link": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
+      "publishedAt": "2026-09-13T15:27:53.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump pede à Ucrânia que suspenda os ataques ao diesel russo, afirmando que os ataques estão causando escassez",
+      "titleOriginal": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+      "publishedAt": "2026-09-13T15:26:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jeffries afirma que o Congresso deve “agir com urgência” em relação às medidas de proteção relacionadas à IA",
+      "titleOriginal": "Jeffries says Congress should 'act urgently' on AI safeguards",
+      "link": "https://thehill.com/homenews/house/6086761-jeffries-urges-ai-regulation/",
+      "publishedAt": "2026-09-13T15:13:25.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como os candidatos abordaram a questão da acessibilidade nas campanhas para as eleições de meio de mandato",
+      "titleOriginal": "How Candidates Have Addressed Affordability in the Midterm Campaigns",
+      "link": "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html",
+      "publishedAt": "2026-09-13T14:49:28.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Johnson defende soluções de IA, mas afirma que o Congresso não assumirá a liderança",
+      "titleOriginal": "Johnson calls for AI solutions but says Congress won't take the lead",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
+      "publishedAt": "2026-09-13T14:03:59.000Z"
     },
     {
       "source": "New York Times",
       "title": "Tom Tiffany, deputado de Wisconsin, sofre ferimentos leves após avião pousar em um lago",
       "titleOriginal": "Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake",
       "link": "https://www.nytimes.com/2026/09/13/us/politics/tom-tiffany-wisconsin-lake-wausau-plane-crash.html",
-      "publishedAt": "2026-09-13T11:30:35.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Na reunião do BRICS, Modi, da Índia, alerta que as tensões geopolíticas e os choques nas cadeias de abastecimento ameaçam a estabilidade global",
-      "titleOriginal": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZExrNlZaeERENWNmaHFtMERIUTVLVl9GWXJJbnBIZ3B3c2dhNTZUQTRnTjlHSVhjWElrdmNuaEJWcEJJNjU4RkszVXNLQWdJNmtPaDN6bjBDX1JrTTB2NmFJNGdXNGpxQmtscTJFeWlOZU1tVWVSaDdKeGJpb3QyMnFEbWFtdEdQZmpoZlpKVkdoTjhRS3FGZVl4WUludzBH?oc=5",
-      "publishedAt": "2026-09-13T10:50:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um navio comercial iraniano foi atingido perto do Estreito de Ormuz, deixando um morto, segundo a mídia iraniana",
-      "titleOriginal": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-      "publishedAt": "2026-09-13T10:34:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os eleitores suecos vão às urnas para eleger um novo parlamento, enquanto a extrema direita busca um papel no governo",
-      "titleOriginal": "Swedish voters go to polls to choose a new parliament as hard right bids for role in government",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
-      "publishedAt": "2026-09-13T09:17:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Angie Nixon, candidata ao Senado, arrasa na Flórida",
-      "titleOriginal": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
-      "publishedAt": "2026-09-13T09:03:08.000Z"
+      "publishedAt": "2026-09-13T13:53:05.000Z"
     }
   ]
 }
