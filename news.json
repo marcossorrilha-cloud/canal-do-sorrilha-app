@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-13T16:18:09.790Z",
+  "updatedAt": "2026-09-13T17:03:31.104Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "A tentativa de Trump de assumir o controle das regiões costeiras deve alarmar todos os americanos",
+      "titleOriginal": "Trump's coastal power grab should alarm all Americans",
+      "link": "https://thehill.com/opinion/energy-environment/6085213-trump-california-coastal-takeover/",
+      "publishedAt": "2026-09-13T17:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Principais legisladores concordam que os riscos da IA estão aumentando, mas afirmam não ter uma solução imediata",
+      "titleOriginal": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+      "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
+      "publishedAt": "2026-09-13T16:23:59.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Obama pressiona Jeffries para que coloque a supervisão da IA no centro da agenda: Reportagem",
@@ -11,7 +25,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump minimiza os alertas sobre a IA, citando a concorrência com a China",
+      "title": "Trump minimiza os alertas sobre IA, citando a concorrência com a China",
       "titleOriginal": "Trump downplays AI warnings, citing competition with China",
       "link": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
       "publishedAt": "2026-09-13T15:57:05.000Z"
@@ -25,35 +39,28 @@
     },
     {
       "source": "New York Times",
-      "title": "Principais legisladores concordam que os riscos da IA estão aumentando, mas afirmam não ter uma solução imediata",
-      "titleOriginal": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
-      "publishedAt": "2026-09-13T15:39:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Angie Nixon, candidata ao Senado, conquista a Flórida com tudo",
+      "title": "Angie Nixon, candidata ao Senado, conquista a Flórida com grande sucesso",
       "titleOriginal": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
       "link": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
       "publishedAt": "2026-09-13T15:27:53.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump pede à Ucrânia que suspenda os ataques ao diesel russo, afirmando que os ataques estão causando escassez",
+      "title": "Trump pede à Ucrânia que suspenda os ataques ao diesel russo, alegando que os ataques estão causando escassez",
       "titleOriginal": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
       "publishedAt": "2026-09-13T15:26:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Jeffries afirma que o Congresso deve “agir com urgência” em relação às medidas de proteção relacionadas à IA",
+      "title": "Jeffries afirma que o Congresso deve “agir com urgência” em relação às medidas de segurança relacionadas à IA",
       "titleOriginal": "Jeffries says Congress should 'act urgently' on AI safeguards",
       "link": "https://thehill.com/homenews/house/6086761-jeffries-urges-ai-regulation/",
       "publishedAt": "2026-09-13T15:13:25.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como os candidatos abordaram a questão da acessibilidade nas campanhas para as eleições de meio de mandato",
+      "title": "Como os candidatos abordaram a questão da acessibilidade financeira nas campanhas para as eleições de meio de mandato",
       "titleOriginal": "How Candidates Have Addressed Affordability in the Midterm Campaigns",
       "link": "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html",
       "publishedAt": "2026-09-13T14:49:28.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Johnson calls for AI solutions but says Congress won't take the lead",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
       "publishedAt": "2026-09-13T14:03:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tom Tiffany, deputado de Wisconsin, sofre ferimentos leves após avião pousar em um lago",
-      "titleOriginal": "Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/tom-tiffany-wisconsin-lake-wausau-plane-crash.html",
-      "publishedAt": "2026-09-13T13:53:05.000Z"
     }
   ]
 }
