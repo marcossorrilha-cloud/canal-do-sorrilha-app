@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-13T06:11:25.638Z",
+  "updatedAt": "2026-09-13T06:46:06.621Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Um acadêmico norte-americano foi convidado a ir à China. Em seguida, ele desapareceu.",
+      "titleOriginal": "Exclusive | A U.S. Scholar Was Invited to China. Then He Vanished.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VTMWI3WFBmNGVmQUR0Y1EwU2Y3YkZCdjFZSWZmQzk0SUpNTnZ5WmpkMkQwSTlVc2JqaEZjeFYzbmRjanRmTU5uTVZNTTR1M2Q4c2dNR3IxSlNNZmxoQUZhUU9FZ24wUVZybmFodWRmTEJPdDk0SFNtVC1ManFNX1htQXJQNEk4WkZTQjZlbmo4WWRTR3FR?oc=5",
+      "publishedAt": "2026-09-13T06:13:11.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A Lineage processa operadora de painéis solares por incêndio em armazém em Los Angeles",
@@ -10,25 +17,11 @@
       "publishedAt": "2026-09-13T05:17:58.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Um acadêmico norte-americano foi convidado a ir à China. Em seguida, ele desapareceu.",
-      "titleOriginal": "Exclusive | A U.S. Scholar Was Invited to China. Then He Vanished.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VTMWI3WFBmNGVmQUR0Y1EwU2Y3YkZCdjFZSWZmQzk0SUpNTnZ5WmpkMkQwSTlVc2JqaEZjeFYzbmRjanRmTU5uTVZNTTR1M2Q4c2dNR3IxSlNNZmxoQUZhUU9FZ24wUVZybmFodWRmTEJPdDk0SFNtVC1ManFNX1htQXJQNEk4WkZTQjZlbmo4WWRTR3FR?oc=5",
-      "publishedAt": "2026-09-13T05:06:54.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Obama exorta os democratas a colocarem a supervisão da IA no centro de sua agenda",
       "titleOriginal": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
       "link": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
       "publishedAt": "2026-09-13T04:03:58.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Conheça as facções que impulsionam os Socialistas Democráticos da América",
-      "titleOriginal": "Meet the Factions Driving the Democratic Socialists of America",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpNaVJ1aUNyckVLUzlWS3NFM2t2R0FnT0ppLTkyem15bEpDLXFOakFZOG1NVU4yUDZwLVdPRC1IZFozNmhRUTJoRVFyV0RKZkFzZVBldFQzcDI2S0FNekNOOTZBeDM0Mld2X3ZJZG9mcU9ENFhSbnMwaXNkU2o0ZlVTU3ZSUkpFbFJucE1LbExleWh6RlFRWVV6TzFNbzBZM01vV1VSQ2FHZ1FGRjVF?oc=5",
-      "publishedAt": "2026-09-13T03:26:25.000Z"
     },
     {
       "source": "The Hill",
@@ -71,6 +64,13 @@
       "titleOriginal": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
       "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "publishedAt": "2026-09-12T22:46:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Marshall volta atrás em relação ao apoio ao dividendo de US$ 5.000 proposto por Trump durante debate no Senado do Kansas",
+      "titleOriginal": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
+      "link": "https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends/",
+      "publishedAt": "2026-09-12T22:44:10.000Z"
     }
   ]
 }
