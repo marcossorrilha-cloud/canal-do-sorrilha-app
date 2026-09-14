@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-13T22:36:48.881Z",
+  "updatedAt": "2026-09-14T00:26:35.107Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo registram forte alta semanal em meio a riscos relacionados à oferta",
+      "titleOriginal": "Oil Prices Post Big Weekly Gain Amid Supply Risks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWRUWm1JNlJuUXpZZWtjRlROdlFScHZuVEJnaFhZdllnYUc1YmJGVzlrbk4wUnRwX2dWX2RUSExGT1ltQ1lGS2hVVFhZUnNhWDZWcEgxTUlSOW9ncXVIaWVhbjNncktKbTBacHpSNnhvT1NmbnJfMlFVaGZ4TFhybG5uVGVPTnJjb0ZqVko1WlNBOWI0ZndPYm93MWN5cjd2?oc=5",
+      "publishedAt": "2026-09-14T00:24:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Três números que mostram o quão grande é o boom das exportações da China",
+      "titleOriginal": "Three Numbers That Show Just How Big China’s Export Boom Is",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSkFjZUgwUXJPT004R2Qzd1A0T3B1YTVhclJfNnhrdGdSUXcwZHJQVEVqQnMzTGcwUGVrX1Jaa2R1clJpN1h5Zk5RczU3bkJmWnZ3RmlxN01EcExmZ05CMlRWWk42NVhadTItYklVcDc2cE9YMEVMSERqZU9FTV80RXFvSHN6NW5BQ2hSZ25PMzlSMHB4NDYyaXlVU3ZiNmh4dHJ3?oc=5",
+      "publishedAt": "2026-09-14T00:18:08.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Fenway Health sofreu um “incidente de TI”, o que afetou o serviço",
+      "titleOriginal": "Fenway Health hit with \"IT incident,\" affecting service",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0Q1hxYzV2bE5JX0xIQmdPQVBiNG5KclBjOU5zbmV1bEo3bVpFcVhCM3p5WU1FZkFuUE1fRVFNUjNZX0o2N3lVUGpMU01lamdFTTRlamdsLWFfbUFtdEF2Nk04UWI3UU1rZnV5cVNOUHRSMFdzUS1IU1o1WQ?oc=5",
+      "publishedAt": "2026-09-14T00:03:25.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump minimiza a necessidade de controlar o desenvolvimento da IA e afirma que não quer perder vantagem para a China",
+      "titleOriginal": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
+      "publishedAt": "2026-09-13T22:55:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pesquisa: Eleitores democratas são motivados mais pela oposição a Trump do que pela plataforma do partido",
+      "titleOriginal": "Poll: Democratic voters driven by Trump opposition more than party platform",
+      "link": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
+      "publishedAt": "2026-09-13T22:41:58.000Z"
+    },
     {
       "source": "Politico",
       "title": "Republicanos do Texas condenam candidato estadual do Partido Republicano por postagem xenófoba",
@@ -10,32 +45,18 @@
       "publishedAt": "2026-09-13T22:00:48.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Trump dá lição à Ucrânia, não à Rússia",
+      "titleOriginal": "Opinion | Trump Lectures Ukraine, not Russia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zVVNUUVF0UmFrOVBKUE0xMWpGc1VubHM5T000ZWpGRUhCOHlCRGRCeWpZNmd4ZjJSSVNXN21KaHpfaDZYR0Z5RG1sV0s4R2JyY2lSYmhSb3hLWXVwNUdrYmtTRFZXR1pHcGdTU3pGbUw4MjdESUZqdEpn?oc=5",
+      "publishedAt": "2026-09-13T21:48:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Plano para as primárias dos democratas dá mais poder aos indígenas americanos",
       "titleOriginal": "Dems' primary plan gives Native Americans more power",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HZm1YZVNyOE81cmNqcXlzRDZlWWpTakt5cndCWU1McUprUGtwYUJKcmFleVJWcDNiMjdGV0VxMV9pZWc3dDZRZTNsdUF5WTJvN25oT0tMZW5HVnpvSDhjNDNfX3BpQk5DMmxlT0F1NVNwQ1JmM3N6VktkcE8?oc=5",
-      "publishedAt": "2026-09-13T21:49:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Lineage processa operadora de painéis solares por incêndio em armazém em Los Angeles",
-      "titleOriginal": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmUyMzB2MGUtQkdtenpXNFFYSEFUeGtheXc2QkpIYnp6SU52S0tRZmpHWW5aWUduVEdkSW9OM2JpYzZpb0ZlcHdteHFmcTFfWDlnVWNLWTN5TjE3LW5XNXNDd2lLT0ZjSjB6N0dTS0ZnYXVibFNpSkU2dnIyb0ZaLXZscWpKQXBkSEVMNHdta2VZZFBUdnRxd3hUZzk4QjFtTTNWTjNn?oc=5",
-      "publishedAt": "2026-09-13T21:48:01.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dispositivos anti-asfixia estão chegando às escolas dos Estados Unidos. Será que funcionam?",
-      "titleOriginal": "Anti-Choking Devices Are Entering America’s Schools. Do They Work?",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREM5VzRzamdycGRGSDVFSVEtekprVmlrR3VwcFlQVUxmNEdERWJNZFFfSlJGX3lreFJ0RUJQMGhWcTJnb3hWbVVMUl81aldlVDFNZUQtSlpCT2tMQVZqN2ZkUFJlNElHRmZWNnFUbUlkcl9ET1lxVG1Lem13SlA5SW9meUJKVGJuSUNUeDAxNm4yUUtyOXc2WmRmWDBKVmlR?oc=5",
-      "publishedAt": "2026-09-13T21:47:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Trump dá lições à Ucrânia, não à Rússia",
-      "titleOriginal": "Opinion | Trump Lectures Ukraine, not Russia",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zVVNUUVF0UmFrOVBKUE0xMWpGc1VubHM5T000ZWpGRUhCOHlCRGRCeWpZNmd4ZjJSSVNXN21KaHpfaDZYR0Z5RG1sV0s4R2JyY2lSYmhSb3hLWXVwNUdrYmtTRFZXR1pHcGdTU3pGbUw4MjdESUZqdEpn?oc=5",
-      "publishedAt": "2026-09-13T21:43:00.000Z"
+      "publishedAt": "2026-09-13T21:45:19.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-13T21:35:54.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Trump diz que vai suspender a tarifa de 10% sobre o uísque irlandês porque “todo mundo tem me incomodado” com isso",
-      "titleOriginal": "Trump says he's lifting a 10% tariff on Irish whiskey because 'everybody's been bugging me' about it",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
-      "publishedAt": "2026-09-13T21:24:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Principais legisladores concordam que os riscos da IA estão aumentando, mas afirmam não ter uma solução imediata",
-      "titleOriginal": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
-      "publishedAt": "2026-09-13T20:49:16.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O prefeito de Chicago, Brandon Johnson, lança oficialmente sua candidatura à reeleição",
-      "titleOriginal": "Chicago Mayor Brandon Johnson officially launches reelection bid",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbW9mMUFWWHFMMnBibGh0bWhHSWprRzBGXzdSY3B2Z0dVdFZzQ1FHcDhHUTZkTkEwc3VOa0Rjblp0M01mZWlFMUM5ckg3YUllMGRmemx1NHBBaTNQMk9ublQ2WTNWX2Nma282TTFhVWduOHFxUlZEVkJ5STg2cmwycHd1Sk95eTNnNTNPcmdYRW1WZmpHWFd2TnN0MDRubmFuZFpfYnhpekItZWlhTnUwRUNuMTBjZw?oc=5",
-      "publishedAt": "2026-09-13T20:46:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Navio de carga iraniano é atingido, e as negociações entre Teerã e seus vizinhos são adiadas",
-      "titleOriginal": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-      "publishedAt": "2026-09-13T20:36:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Candidato a governador de Wisconsin nada até um local seguro após avião cair em lago",
+      "titleOriginal": "Wisconsin Governor Candidate Swims to Safety After Plane Ditches in Lake",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHZBS2xqeTdGX2YyaHdyYUZpaEdBc181THRsdGpUWGROeHF2UUlCLVA2dkg4cDNLNjloTW5ORkwwa1VpblZ2ME42c1RpNGdqb2g3M09qbGd6UW5SbmhTU040dTZ4eW1oVW4ycUtJa19jb0JtZ2JfcGRpZDEwbTJqdHNYM0hNRHRVWHF4R3dHbGlueFVtTVJqRTZiZlhyWU1RejRHREhnMzdEaGs0VGpueFNWNVVuNVZt?oc=5",
+      "publishedAt": "2026-09-13T21:30:00.000Z"
     }
   ]
 }
