@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-14T19:22:41.049Z",
+  "updatedAt": "2026-09-14T21:03:17.888Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Denunciante: Agentes federais podem ter violado leis estaduais na investigação de fraudes eleitorais",
-      "titleOriginal": "Whistle-Blower: Federal Agents May Have Broken State Laws in Search For Voter Fraud",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/homeland-security-voter-fraud-investigation.html",
-      "publishedAt": "2026-09-14T19:18:57.000Z"
+      "title": "Trump rejeita discussões sobre a regulamentação da IA e critica o CEO da Anthropic",
+      "titleOriginal": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO",
+      "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
+      "publishedAt": "2026-09-14T20:53:24.000Z"
     },
     {
       "source": "Axios",
-      "title": "Comentários racistas e vulgares de candidatos do Texas geram reações mistas no Partido Republicano",
-      "titleOriginal": "Texas nominees' racist, vulgar remarks receive mixed GOP reaction",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00S2NwdExXX3JpcGpCNGU5WW9uMnNWQXJoTEVXVVdmb25jX1FHdEYyczl3eFh4SjlncTB5cWtOUTJJU2tocVJwYV8yS2JjZFRWN0I2WHk5ZmtqTk1fd0xlelRyZ3I1RE96VXg1anFQN0NxalB5UmdtR183enBucjg?oc=5",
-      "publishedAt": "2026-09-14T19:14:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump classifica os riscos da IA como uma “farsa” e afirma que existe uma “conspiração doentia” contra a IA e os data centers",
-      "titleOriginal": "Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
-      "publishedAt": "2026-09-14T19:12:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que o D.H.S. está se envolvendo nas eleições?",
-      "titleOriginal": "Why Is D.H.S. Getting Involved in Elections?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html",
-      "publishedAt": "2026-09-14T19:10:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que está fazendo os preços do diesel subirem? O caos energético causado por duas guerras.",
-      "titleOriginal": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.",
-      "link": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html",
-      "publishedAt": "2026-09-14T19:09:22.000Z"
+      "title": "\"Procurem outras maneiras de chamar a atenção\": democratas da Câmara enfrentam nova polêmica em torno do impeachment de Trump",
+      "titleOriginal": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFBlRWs4Xy1aVmNQblBfQ3dOdEZ1YWFUMkN3cno4UzQwQ0pvLV84UjI2akdIZjB0MERCLWFMQ0gzNDE4SVRCY19IRmNWeF9VUTdMa2ZtUUFWRUJ6WkxTcWxmVVpBV1VlSDVITlE0NUNpaE9vZjdCRTBXMy10cnhaNHBOUXBQbjA?oc=5",
+      "publishedAt": "2026-09-14T20:49:34.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump se pronuncia sobre o debate sobre os Flock: “Gosto deles”",
-      "titleOriginal": "Trump weighs in on Flock debate: 'I like them'",
-      "link": "https://thehill.com/policy/technology/6088725-trump-backs-ai-surveillance/",
-      "publishedAt": "2026-09-14T19:07:22.000Z"
+      "title": "Jeffries pede que o Congresso permaneça em Washington para tratar das questões relacionadas à IA",
+      "titleOriginal": "Jeffries calls on Congress to stay in Washington to address AI concerns",
+      "link": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/",
+      "publishedAt": "2026-09-14T20:45:53.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações do setor de IA caem, mas o restante de Wall Street se mantém mais estável depois que os preços do petróleo revertem a alta registrada no início do dia",
+      "titleOriginal": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+      "publishedAt": "2026-09-14T20:41:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Advogados de imigrantes afirmam que os EUA estão censurando documentos que comprovam a situação legal",
-      "titleOriginal": "Immigrants’ Lawyers Say U.S. Is Redacting Documents Proving Legal Status",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html",
-      "publishedAt": "2026-09-14T18:58:17.000Z"
+      "title": "De Bernie Sanders a Steve Bannon, figuras políticas alertam sobre a inteligência artificial",
+      "titleOriginal": "From Bernie Sanders to Steve Bannon, Political Figures Sound Alarms on A.I.",
+      "link": "https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html",
+      "publishedAt": "2026-09-14T20:32:24.000Z"
     },
     {
-      "source": "Politico",
-      "title": "Líderes latinos pressionam Beshear para ampliar o mapa eleitoral da DGA para as eleições de meio de mandato",
-      "titleOriginal": "Latino leaders press Beshear to expand DGA’s midterm map",
-      "link": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
-      "publishedAt": "2026-09-14T18:55:08.000Z"
+      "source": "The Hill",
+      "title": "Preços do petróleo sobem após novos ataques à infraestrutura saudita",
+      "titleOriginal": "Oil prices up after new strikes on Saudi infrastructure",
+      "link": "https://thehill.com/policy/energy-environment/6088763-oil-prices-jump-houthi-attacks/",
+      "publishedAt": "2026-09-14T20:23:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A J&J está em negociações para vender sua divisão de próteses de quadril e joelho à Apollo por US$ 20 bilhões",
+      "titleOriginal": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
+      "publishedAt": "2026-09-14T20:22:13.000Z"
     },
     {
       "source": "AP News",
       "title": "O oleoduto saudita atingido por drones ficará fora de serviço por semanas, restringindo ainda mais o fluxo de petróleo",
       "titleOriginal": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "publishedAt": "2026-09-14T18:39:00.000Z"
+      "publishedAt": "2026-09-14T20:15:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Um acadêmico norte-americano foi convidado a ir à China. Em seguida, ele desapareceu.",
-      "titleOriginal": "Exclusive | A U.S. Scholar Was Invited to China. Then He Vanished.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VTMWI3WFBmNGVmQUR0Y1EwU2Y3YkZCdjFZSWZmQzk0SUpNTnZ5WmpkMkQwSTlVc2JqaEZjeFYzbmRjanRmTU5uTVZNTTR1M2Q4c2dNR3IxSlNNZmxoQUZhUU9FZ24wUVZybmFodWRmTEJPdDk0SFNtVC1ManFNX1htQXJQNEk4WkZTQjZlbmo4WWRTR3FR?oc=5",
-      "publishedAt": "2026-09-14T18:31:12.000Z"
+      "source": "Politico",
+      "title": "Candidato republicano do Texas mantém comentários xenófobos após reação negativa",
+      "titleOriginal": "Texas GOP candidate stands by xenophobic comments following backlash",
+      "link": "https://www.politico.com/news/2026/09/14/bo-french-ut-football-students-01075214",
+      "publishedAt": "2026-09-14T20:12:44.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Vance faz campanha no Kansas enquanto os democratas miram um reduto republicano",
+      "titleOriginal": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
+      "link": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html",
+      "publishedAt": "2026-09-14T20:09:10.000Z"
     }
   ]
 }
