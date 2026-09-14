@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-14T21:03:17.888Z",
+  "updatedAt": "2026-09-14T23:08:22.211Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Trump rejeita discussões sobre a regulamentação da IA e critica o CEO da Anthropic",
-      "titleOriginal": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
-      "publishedAt": "2026-09-14T20:53:24.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"Procurem outras maneiras de chamar a atenção\": democratas da Câmara enfrentam nova polêmica em torno do impeachment de Trump",
-      "titleOriginal": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFBlRWs4Xy1aVmNQblBfQ3dOdEZ1YWFUMkN3cno4UzQwQ0pvLV84UjI2akdIZjB0MERCLWFMQ0gzNDE4SVRCY19IRmNWeF9VUTdMa2ZtUUFWRUJ6WkxTcWxmVVpBV1VlSDVITlE0NUNpaE9vZjdCRTBXMy10cnhaNHBOUXBQbjA?oc=5",
-      "publishedAt": "2026-09-14T20:49:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jeffries pede que o Congresso permaneça em Washington para tratar das questões relacionadas à IA",
-      "titleOriginal": "Jeffries calls on Congress to stay in Washington to address AI concerns",
-      "link": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/",
-      "publishedAt": "2026-09-14T20:45:53.000Z"
+      "title": "Por que JD Vance está fazendo campanha no Kansas, um estado republicano?",
+      "titleOriginal": "Why is JD Vance Campaigning in Kansas, a Red State?",
+      "link": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-campaign-midterms.html",
+      "publishedAt": "2026-09-14T22:49:21.000Z"
     },
     {
       "source": "AP News",
-      "title": "Ações do setor de IA caem, mas o restante de Wall Street se mantém mais estável depois que os preços do petróleo revertem a alta registrada no início do dia",
-      "titleOriginal": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-      "publishedAt": "2026-09-14T20:41:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "De Bernie Sanders a Steve Bannon, figuras políticas alertam sobre a inteligência artificial",
-      "titleOriginal": "From Bernie Sanders to Steve Bannon, Political Figures Sound Alarms on A.I.",
-      "link": "https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html",
-      "publishedAt": "2026-09-14T20:32:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Preços do petróleo sobem após novos ataques à infraestrutura saudita",
-      "titleOriginal": "Oil prices up after new strikes on Saudi infrastructure",
-      "link": "https://thehill.com/policy/energy-environment/6088763-oil-prices-jump-houthi-attacks/",
-      "publishedAt": "2026-09-14T20:23:16.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A J&J está em negociações para vender sua divisão de próteses de quadril e joelho à Apollo por US$ 20 bilhões",
-      "titleOriginal": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
-      "publishedAt": "2026-09-14T20:22:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O oleoduto saudita atingido por drones ficará fora de serviço por semanas, restringindo ainda mais o fluxo de petróleo",
-      "titleOriginal": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "publishedAt": "2026-09-14T20:15:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Candidato republicano do Texas mantém comentários xenófobos após reação negativa",
-      "titleOriginal": "Texas GOP candidate stands by xenophobic comments following backlash",
-      "link": "https://www.politico.com/news/2026/09/14/bo-french-ut-football-students-01075214",
-      "publishedAt": "2026-09-14T20:12:44.000Z"
+      "title": "Trump classifica os riscos da IA como uma “farsa” e afirma que existe uma “conspiração doentia” contra a IA e os centros de dados",
+      "titleOriginal": "Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
+      "publishedAt": "2026-09-14T22:42:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Vance faz campanha no Kansas enquanto os democratas miram um reduto republicano",
       "titleOriginal": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
       "link": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html",
-      "publishedAt": "2026-09-14T20:09:10.000Z"
+      "publishedAt": "2026-09-14T22:15:57.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump pede a instalação de uma estátua de George Washington e a realização de uma exposição no Smithsonian",
+      "titleOriginal": "Trump Calls for George Washington Statue, Exhibit at Smithsonian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUdwdndoUnYzc1M3YkMwSmRNVS0wa3cxZWhSbE5aS0tlNlZJVDB6VkRTLVRFRGZ1eG5pX3BUNmZNYmc5TDYyckJTbURXQkd1TUlUQTI2eml5aG1LaWtOUzlGWFNPYmRjRVZmb0ljUjlfWkhNN3hjX1ZITURLMzEyNng0Vkg0RWxMTjFkTWYxQ2JQUnZXanJRQ1NUeFdSbnFIdVE?oc=5",
+      "publishedAt": "2026-09-14T22:03:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cruz: Trump deveria assinar o projeto de lei sobre esportes universitários ao vivo no programa “College GameDay” da ESPN, assim que for aprovado",
+      "titleOriginal": "Cruz: Trump should sign college sports bill live on ESPN's 'College GameDay' once passed",
+      "link": "https://thehill.com/policy/sports-gaming/6089095-ted-cruz-protect-college-sports-act-trump-espn-gameday/",
+      "publishedAt": "2026-09-14T22:01:27.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "McConnell retorna ao Capitólio após três meses de ausência",
+      "titleOriginal": "McConnell to return to Capitol after 3-month absence",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVpfOHF5NTFZU291WnVSUmZDWlZ2OU41eExqc1FyUXBDZXNwaG9JMk95T1FtTk9Wak5uVXp2dnNpNS01MVVfVV9aN282UE8wNE1GVUd1Q3drN1c4bDl5UEZsWHctUGNOYjM0dktwRlpSMmd4ZlFwUE1GcUw4YTQzQy1acUxITHlKRkpqYUJ5ZEhCeXA3UFRKWF93?oc=5",
+      "publishedAt": "2026-09-14T21:59:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Gigante petrolífera de Abu Dhabi firma parcerias com grupos alemães dos setores de energia e indústria como parte do investimento de US$ 46,5 bilhões dos Emirados Árabes Unidos",
+      "titleOriginal": "Abu Dhabi’s Oil Giant Inks Partnerships With German Energy, Industry Groups as Part of UAE’s $46.5 Billion Investment",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb1B2emhKcHFrVGtVQWVhcnBqM3RiOTRiSVVpV1R4dEZIY01WaUJxOG0zTGFQYkEzTkJROEpCSkhJQTFKbjlyaFpaZjdnMWRNcEVkMmRYeFhieDNrZnp3Zm1oTjByLUpnNFpCRlNHbk9QNHNrZ3Nob1NwMHpNbFN0YVF6Y01HaE95aFpkcjVoVkw1OWYwRnlWb1kyVS1MNVpIR2F5YWttc2R4ZTAya0FyOEhkTjNPVFVIMjdfcllVMEhMWlM2by0tZDY2N0lTZ1Nna0hGMVEtMjVNbkxzT21MbWhhVElrQkdvVEwyZWZCVGkzRHph?oc=5",
+      "publishedAt": "2026-09-14T21:48:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A J&J está em negociações para vender sua divisão de próteses de quadril e joelho à Apollo por US$ 20 bilhões",
+      "titleOriginal": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
+      "publishedAt": "2026-09-14T21:48:27.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "À medida que aumentam os temores em relação à IA, Trump rejeita os apelos por regulamentação",
+      "titleOriginal": "As AI fears spike, Trump bats down calls for regulation",
+      "link": "https://thehill.com/homenews/administration/6089123-trump-resists-ai-regulation-warnings/",
+      "publishedAt": "2026-09-14T21:45:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA impõem sanções a banco russo no mais recente alvo da campanha contra o Irã",
+      "titleOriginal": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2VlWFpWc09aZzZyc3M3YWJOSUZXai00aHRDTDZZajFjUWh3QTFQQTVHa0p1RS1EUzlyYVpZMndKMnB5UE5xVmp3UGNVQ29iYlhncm5nQ0Y2b0s4STctdG9nVXM2VjRCXzIzODdfRVRldDRITHBrVGh6MjlCQUZDeDBjLWxmTTdqcHU1amV2MTdZN0d6RFRmS0N1Q0VOVWRwR1UzOGdSdXNqSWZyUkZRZFZxT3FhUDlz?oc=5",
+      "publishedAt": "2026-09-14T21:44:00.000Z"
     }
   ]
 }
