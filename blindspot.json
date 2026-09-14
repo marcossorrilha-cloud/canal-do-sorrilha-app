@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-14T05:27:12.374Z",
-  "slot": "2026-09-14-AM",
+  "updatedAt": "2026-09-14T17:03:11.039Z",
+  "slot": "2026-09-14-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Ataques russos na Ucrânia atingem uma área próxima a David Petraeus, ex-chefe da CIA",
-      "titleOriginal": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEdwM095OUd0Q1Z5dmJlelpnOFBHX3JzSkhnOEhfTW1rOXdBeVJ4dDdwelB3S3Z3Uk41aFpXUGZwd2d2M19heE1WVVV5d3l6STVPN1pmRFFHOE5neHlfVHZWU0I5OGdXTzZPZFotY2pWTmJ2RXh4RkpFdjdOTFZJVDNzUmVLVXRQZjJWWA?oc=5",
-      "source": "New York Times",
+      "title": "Pequim rebate o apelo do CEO da Anthropic para conter o desenvolvimento da IA na China",
+      "titleOriginal": "Beijing Hits Back At Anthropic CEO's Call To Curb China's AI Development",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3Z3MUtVam5veFMwUWpUM21zcklnNTkyWG9NdnJtZTV6Zzgya3N2WHd0ajJyRWRHQVpNV1Q4a1ROSDZFWHl0c1c3b3dfWHYwQlE5TVZuVkpFWk5kbFIzMjlONURaemw2cFUyLURBSXAxWnRkamUxNHN6VDQ3dW8yU0JNTkNGZ2VjMFRDQV9fRk9ld9IBlwFBVV95cUxQX0N6Vm05ZkNpakkzaWhhV3ZHcXlhM0kyUGFqdERGNmJjNU9hUTd5QVlVUlFjNXJkcktfVHlEODZnLVdxMXpyaVFNTWlaa2FhYjlrLXNhajVHcm9sR2FmSGlscmtyZFZuOE0tNDZldXBISkJLYmFJZGxnbnJSaHF4VmtNbWItSDJMcDQ1dFZLa0wzRXB5dWhV?oc=5",
+      "source": "HuffPost",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump afirma que a China “espiona” os EUA após reportagem associar imagens chinesas ao ataque ao Irã",
-      "titleOriginal": "Trump says China 'spies' on US after report ties Chinese imagery to Iran strike",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRV94QS0wRFFWV3ZwMFkxTjBwOUFYUFdsOXdJX2h1cTlhTlZBODhHQURfbWltYXRkR20zcmNMS01iVldFNzl3OWk5cmZTS25mQ2lZZUhoSzFzNlFMU2R1ZmR5UHdnUkR2Wjljdzk1dkhEblRjclhDRHZ2X0QwQ0lqVEtVaVlvVjEzdm9IYkw0LVpMM1pkd0wtZDJaekhsYzDSAaQBQVVfeXFMTlBmdnR6YWZsS05aZFYwTVQxRFl6d2tGSTNsNmtSd3ZrNDN5anUyNzVEc2lXSVZZck5VbDZuU2dNdVp3SXlkb21LU1hHaXFzcy1VN2ZvdVVxUk9pbmVBX1c2V0JoeXdFMUV6SDVxZkRsNnJwcEtSRXBqQ2g1eVJLMHJLTS02X2ViazU3SDlFR3lCU2tFcEVtcmdtWUJsS3Z6dGpFTko?oc=5",
-      "source": "Fox News",
-      "coverage": 2
+      "title": "Trump responde ao pedido de perdão feito pelo advogado de Lindsay Clancy",
+      "titleOriginal": "Trump responds to pardon plea from Lindsay Clancy’s lawyer",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnB0aWlNY21WcThRTjFDbi04S2hiTTFJM3FYY3RBUExCUGlMWU1QaGZ2dlpLb203ZGdKbkFmYkxTbE1FdW5vSGpUSUswSV9FQXBKWmU2ejE5eENaa25PTzZ5ME5Ub2JqbGRrNlhnZTdKdFk2YUlEUV85MEhJREpPOHVyTmo0U3NmMGZ0M0xDc0E1Zkh5Wl9CSlRCa1U?oc=5",
+      "source": "New York Post",
+      "coverage": 3
     }
   ]
 }
