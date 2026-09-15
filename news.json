@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-15T07:45:56.974Z",
+  "updatedAt": "2026-09-15T10:27:40.213Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Os EUA implantaram armas no espaço, afirma o secretário da Força Aérea",
-      "titleOriginal": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-      "publishedAt": "2026-09-15T07:29:13.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Os cheques de US$ 5.000 de Trump são recebidos com frieza pelos republicanos do Senado",
-      "titleOriginal": "Trump's $5,000 checks get chilly Senate GOP reception",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd19nN2dkYUVNWG9rV00xY1NrVjBRWDZ0NVZ5M2hVSHZ0Y2tzMENRMlhhcHBUM3ZCMmhWQlN1RHMwYTlHeU5GR3p6d21USUYtZTNUSHNkUVB4S1RBRm50N3BZTDlYODFQNnNuVmg2bGZhbzBYX0p5XzVhaUlWMXQwUDBSVkt6UWZGOTNrZQ?oc=5",
-      "publishedAt": "2026-09-15T06:26:17.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Zelenskyy afirma que a Ucrânia suspenderá os ataques à Rússia se o Kremlin poupar a infraestrutura essencial",
-      "titleOriginal": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
-      "publishedAt": "2026-09-15T06:02:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Carney viaja para a Europa para um discurso de grande importância e para estreitar os laços com a UE, enquanto o Canadá entra em conflito com Trump",
-      "titleOriginal": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
-      "publishedAt": "2026-09-15T04:23:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Denunciante do Departamento de Segurança Interna (DHS) de Trump alega que funcionários mentiram para ter acesso aos dados eleitorais estaduais",
-      "titleOriginal": "Trump DHS whistleblower alleges workers lied to access state voter data",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13N0p1NnVjYUpsYnRLLUREQzhLQ2xWNHdhNlZSaGV2eGE1X0RnMnVSZURWS3U2Z3RWWDY0bGhUMGhuU0NFVTRzY2pqcWdiYTh0Yk84cnViQjRFWVN6VVRsUVB4aXdjbTBDUW9nS01fTzUzQzVkUEhnb2F3?oc=5",
-      "publishedAt": "2026-09-15T03:49:22.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "McConnell retorna ao Senado pela primeira vez desde que foi hospitalizado em junho",
-      "titleOriginal": "McConnell returns to the Senate for the first time since his June hospitalization",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1E1RkR0MDJhRUZZeHRxeFNYTXlTRjhUbEVDZWNOelk2bVdZZHMyQTRuVExEM1NRLTB5NUZmRDJxZ1BHY2Vza3lqX3YwYTVaeUEzOFdNY2c4OU8teGhYeFF2VUV2MUJJS0d2WlJ2RFRHZWduSEVqNGllSEw2NWFFTGRJUDZBaVRzUW85TzV0TUE5Zjg?oc=5",
-      "publishedAt": "2026-09-15T03:21:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump e Huang se unem contra os pessimistas da IA em uma chamada surpresa no palco",
-      "titleOriginal": "Trump and Huang unite against AI doomers in surprise on-stage call",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHY2dEtJQWxpM3RnUURFbmV6WW9EdS1Qekc1UzVZblNHUTJ0Rm94eWRsdW1RcjBsaWxSZ1hqMXRHbU5iYk0zLUZleXB5dHVCN2FGSkNUUnpFZXJXSHh0ekJwX0hrUnhRUVctdUlQQ2RETWtNdHZsZkhZZS1mOEJjRQ?oc=5",
-      "publishedAt": "2026-09-15T03:15:15.000Z"
+      "title": "O Kennedy Center pode fechar hoje. Esse aliado de Trump tem grandes ideias.",
+      "titleOriginal": "Kennedy Center could close today. This Trump ally has big ideas.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFd1c2lXcHdvNEx3dm14aHpOTmx6ZWg5dU83MEJkc2FNY0JZcDhGdXphRXM2aTNOZ1h4RDI3bTZFbjR6NGtONGljb01oZUpoVmlJZE9ZbDRtaUU4SmczendrRGJ0cEdCNEZyVUNmZGhDVU1VZm5xWFVYMXhZM3VmMVlPOFBtNVNqamZiS1c2cnBDZ1lodzJBT3pXYVJPZXBicTZEVDZMOFFBazVPcTVxNWhfZGl0dw?oc=5",
+      "publishedAt": "2026-09-15T10:03:40.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Projeto de lei sobre sanções à Rússia é aprovado pela Comissão de Regimento da Câmara",
-      "titleOriginal": "Russia sanctions bill passes House Rules Committee",
-      "link": "https://thehill.com/homenews/house/6089480-house-approves-russia-sanctions-bill/",
-      "publishedAt": "2026-09-15T02:31:30.000Z"
+      "title": "Alyssa Erdel: Vice-chefe de gabinete da Conferência Republicana da Câmara dos Deputados",
+      "titleOriginal": "Alyssa Erdel: Deputy chief of staff, House Republican Conference",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6071962-alyssa-erdel-deputy-chief-of-staff-house-republican-conference/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Marcus Towns: diretor de atendimento aos membros do Comitê de Apropriações da Câmara dos Deputados (republicanos)",
+      "titleOriginal": "Marcus Towns: Member services director, House Appropriations Committee Republicans",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6073858-marcus-towns-member-services-director-house-appropriations-committee-republicans/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Raymond O’Mara: Diretor de políticas do líder democrata no Senado, Chuck Schumer (NY)",
+      "titleOriginal": "Raymond O’Mara: Policy director, Senate Democratic Leader Chuck Schumer (NY)",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6079695-raymond-omara-policy-director-senate-democratic-leader-chuck-schumer/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zach Barnes: Diretor executivo do House Freedom Caucus",
+      "titleOriginal": "Zach Barnes: Executive director, House Freedom Caucus",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6072404-zach-barnes-executive-director-house-freedom-caucus/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "David Popp: assessor sênior do ex-líder republicano no Senado, Mitch McConnell (Kentucky)",
+      "titleOriginal": "David Popp: Senior adviser, former Senate Republican Leader Mitch McConnell (Ky.)",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6077915-david-popp-senior-adviser-former-senate-republican-leader-mitch-mcconnell/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Wyndee Parker: assessora de segurança nacional do líder da minoria na Câmara, Hakeem Jeffries (D-NY)",
+      "titleOriginal": "Wyndee Parker: National security adviser, House Minority Leader Hakeem Jeffries (D-NY)",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6083154-wyndee-parker-national-security-adviser-house-minority-leader-hakeem-jeffries/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Chris Land: Diretor de equipe da Subcomissão de Ativos Digitais da Comissão de Bancos do Senado",
+      "titleOriginal": "Chris Land: Staff director, Senate Banking subcommittee on digital assets",
+      "link": "https://thehill.com/the-hill-notable-staffers-2026/6078048-chris-land-staff-director-senate-banking-subcommittee-digital-assets/",
+      "publishedAt": "2026-09-15T10:01:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Juiz suspende medida de Trump voltada para estudantes internacionais e jornalistas",
       "titleOriginal": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
       "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
-      "publishedAt": "2026-09-15T01:31:24.000Z"
+      "publishedAt": "2026-09-15T09:44:15.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O oleoduto saudita atingido por drones ficará fora de serviço por semanas, restringindo ainda mais o fluxo de petróleo",
-      "titleOriginal": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "publishedAt": "2026-09-15T01:30:00.000Z"
+      "source": "New York Times",
+      "title": "Os EUA implantaram armas no espaço, afirma o secretário da Força Aérea",
+      "titleOriginal": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+      "publishedAt": "2026-09-15T09:30:50.000Z"
     }
   ]
 }
