@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-09-15T21:22:41.486Z",
+  "updatedAt": "2026-09-15T22:26:24.192Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump aprova venda de armas no valor de US$ 2,8 bilhões para Israel, incluindo 40 mil bombas de uma tonelada",
+      "titleOriginal": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "publishedAt": "2026-09-15T22:23:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Wicker e Shaheen vão propor uma resolução instando os EUA a cooperarem com o movimento pró-democracia russo",
+      "titleOriginal": "Wicker, Shaheen to propose resolution urging U.S. cooperation with Russian pro-democracy movement",
+      "link": "https://thehill.com/homenews/senate/6091727-wicker-shaheen-russia-democracy-resolution/",
+      "publishedAt": "2026-09-15T22:12:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Memo: Blanche rompe com os padrões como “secretária de imprensa” do Rose Garden",
+      "titleOriginal": "The Memo: Blanche blasts through norms as Rose Garden ‘press secretary’",
+      "link": "https://thehill.com/homenews/analysis/6091704-attorney-general-blanche-press-briefing/",
+      "publishedAt": "2026-09-15T21:55:11.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Comissão de Fiscalização da Câmara dos Deputados aprova moção de desacato contra Leon Black por causa do depoimento sobre Epstein",
+      "titleOriginal": "House Oversight votes to hold Leon Black in contempt over Epstein deposition",
+      "link": "https://thehill.com/homenews/house/6091659-leon-black-congress-contempt/",
+      "publishedAt": "2026-09-15T21:50:26.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O chefe do FBI, Kash Patel, defende mudanças na política de contratação relacionadas à prostituição e à zoofilia em audiência acalorada",
+      "titleOriginal": "FBI chief Kash Patel defends hiring policy changes on prostitution, bestiality at fiery hearing",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1diM0piQ1BnZkF1dW9mM0w3ZnQ5eDBoV3BKLXFvLXA4Si1wT0pYLU91RDF1X2lEZ0JvcnZ1SzJLYXc4eVhhVUVSdE1jYjBvZktkQkRwd0FYUWxFRXFkMWtDaGthRjRQLUJzNnVFdTJGMlpHY2NjRzBiUDdTSGlUeE1EMnVjY2NTbkE3SG1MdnBPX3o5VG40?oc=5",
+      "publishedAt": "2026-09-15T21:29:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O que a revogação das regras sobre gases de efeito estufa da EPA significa para o Texas",
+      "titleOriginal": "What EPA's greenhouse gas rollback means for Texas",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVNBTmZHRGg3Nk53cl9xS0IxSTN5am8ySTVXcW5Vcmt0dmZJdjduZDN6SVpLTllOSXNsMXhXc081UTZaUWx5a0g2dDJfUkl2WTQxbEFndEJvNVhnejZFTmNmbXdVMUVTa0UxMm0xcTZyM25mQlRBWjhpQ0M0SjJiQ1pxZ3NfTmRReXE1b293SmgtazVVcUlSQkhXUQ?oc=5",
+      "publishedAt": "2026-09-15T21:24:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A AWS afirma que não consegue restaurar alguns dados das instalações no Oriente Médio atingidas pelo Irã",
+      "titleOriginal": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWNRTXk3NkNPa2RaTGhZNnM5QWlXOHJ1UnVWTThSQ2tfc2I5TXpLNFJ6dkdwbmhWcUlkeXN1ZFgtOVYxeV9IbERQZE1fVG9oTGhPM1g0bnNCSU1IQ0cyWjNSc2dzdXJSOW53endScnZ1VGF6TzdLdURrLTRzMzM5WF9wV0ZNaHNwQUxwcEhhYjIwOFkzSDBtb0dKRmNNYlJsWVl3aHlWeGpNeDdtMjQ2dThBMHJvdGhVTU90OA?oc=5",
+      "publishedAt": "2026-09-15T21:23:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Funcionários federais receberam US$ 9,5 bilhões para não trabalhar em 2025, no âmbito da iniciativa DOGE",
+      "titleOriginal": "Federal Employees Were Paid $9.5 Billion Not to Work in 2025 Under DOGE Effort",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html",
+      "publishedAt": "2026-09-15T21:21:40.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Bessent é questionado sobre IA e mercado de títulos em audiência tensa na Câmara: 3 pontos a destacar",
@@ -11,66 +67,10 @@
     },
     {
       "source": "Axios",
-      "title": "Escritório de advocacia envolvido em investigação ética pode receber mais verbas da prefeitura",
-      "titleOriginal": "Law firm connected to ethics probe could get more city money",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9KQmRCMGZFdHRWN1VHTjlPY3VGX1hYbWJ6NkJRaGI0Ny1lM0x2R29QS2tWSkFDZEtTWkRuOElDMmdfU2tYdXZGV0NhN0J5X2pTQkJlbkxyVFBtOFhadDdHQnJlTUZhb3ViRzkwOTE3RkNqT1lqMjRkUTRoSzVocXcweC1RTDMzdHB0aUI0ak13dDk4?oc=5",
-      "publishedAt": "2026-09-15T21:09:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Resultados ao vivo: Coons busca se defender do adversário nas primárias para o Senado em Delaware",
-      "titleOriginal": "Live results: Coons looks to fend off challenger in Delaware Senate primary",
-      "link": "https://thehill.com/homenews/campaign/6090125-live-results-delaware-senate-primary/",
-      "publishedAt": "2026-09-15T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | EUA pressionam o México a bloquear as exportações de hardware de IA da China",
-      "titleOriginal": "Exclusive | U.S. Pressures Mexico to Box Out China’s AI Hardware Exports",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0pqM1hOWmNYN0NfZDl2SFBtdHI4TG44akZhN2pOZ2FidndwV2d3YUFSWFVpODhsTVMyVi1BdFV0NFZ4cUllRVJDRnV3V0tKVFNxbld5dmU2LVpQYVpaVzlRZG9IWS11bHN0Umc1NDRKdEN1elh4YUpJNmpDcE5aV2N3RlVLQk9TQlR0TGljLXhYcjFPMkFET2cwRlk3bV8xbUkw?oc=5",
-      "publishedAt": "2026-09-15T20:47:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O chefe do FBI, Kash Patel, defende mudanças na política de contratação relacionadas à prostituição e à zoofilia em audiência acalorada",
-      "titleOriginal": "FBI chief Kash Patel defends hiring policy changes on prostitution, bestiality at fiery hearing",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1diM0piQ1BnZkF1dW9mM0w3ZnQ5eDBoV3BKLXFvLXA4Si1wT0pYLU91RDF1X2lEZ0JvcnZ1SzJLYXc4eVhhVUVSdE1jYjBvZktkQkRwd0FYUWxFRXFkMWtDaGthRjRQLUJzNnVFdTJGMlpHY2NjRzBiUDdTSGlUeE1EMnVjY2NTbkE3SG1MdnBPX3o5VG40?oc=5",
-      "publishedAt": "2026-09-15T20:43:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas são preferidos aos republicanos em questões de saúde, imigração e economia: pesquisa",
-      "titleOriginal": "Democrats favored over Republicans on health care, immigration, economy: Survey",
-      "link": "https://thehill.com/homenews/campaign/6091429-poll-democrats-lead-key-issues/",
-      "publishedAt": "2026-09-15T20:41:53.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A J&J está em negociações para vender sua divisão de próteses de quadril e joelho para a Apollo por US$ 20 bilhões",
-      "titleOriginal": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
-      "publishedAt": "2026-09-15T20:41:15.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"Souls To The Voter Rolls\": Organizações locais realizam evento de cadastro eleitoral",
-      "titleOriginal": "\"Souls To The Voter Rolls\": Local orgs host registration event",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjBTNkFCNXUwRzRrVzBMeWo1QUhNN0xaaTI4UXJnaUpEcjNaeHJjMGZ5RHI5OUw1dVAxREM0NVhSc1JDUFQ3a1BycWptMWlicE5NcG9OX3JyUUJOZFpDeFVtLUtmcjNMX3JBUkR3a0NiYkhlVFJabnlMNFYyRk9aendIbHp5TEc0Ync3bnJjYm5oS2QzX1Rxc2RfT2tqck1ETWNqSzhWdkMzLTRvZFVvN2ZPeWlRSlB1b0NFWnpLd1l1aFU?oc=5",
-      "publishedAt": "2026-09-15T20:39:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas do Senado pressionam Patel sobre as eleições e intimações a jornalistas: 5 pontos a destacar",
-      "titleOriginal": "Senate Democrats press Patel on elections, journalist subpoenas: 5 takeaways",
-      "link": "https://thehill.com/homenews/senate/6091335-fbi-kash-patel-senate-judiciary-takeaways/",
-      "publishedAt": "2026-09-15T20:10:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Guerra no Irã deve elevar a inflação no próximo ano, afirma o CBO",
-      "titleOriginal": "Iran war likely to drive up inflation next year, CBO says",
-      "link": "https://thehill.com/policy/defense/6091340-cbo-iran-war-inflation-costs/",
-      "publishedAt": "2026-09-15T20:08:06.000Z"
+      "title": "Câmara dos Deputados derruba mais uma tentativa de impeachment contra Trump com o apoio dos democratas",
+      "titleOriginal": "House quashes another Trump impeachment push with Dem help",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1N4NDB3NkQ5bDZHZVp2U25WRExJWkFfQWgzRVB6dk5UczZNajRBYW5PTVpFcElfZlpXSElmd051Z3lJeXJRUS1GV0h4aDZ2OTJEMkF6TFFsbzZKQi1TMGRkYTF6bWFqd2UxRHRDeWdWMmloaU8yRHl1Q0lqZ2lxbFp1NUxHVkE?oc=5",
+      "publishedAt": "2026-09-15T21:14:56.000Z"
     }
   ]
 }
