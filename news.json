@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-15T05:22:03.227Z",
+  "updatedAt": "2026-09-15T07:45:56.974Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Os EUA implantaram armas no espaço, afirma o secretário da Força Aérea",
+      "titleOriginal": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+      "publishedAt": "2026-09-15T07:29:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os cheques de US$ 5.000 de Trump são recebidos com frieza pelos republicanos do Senado",
+      "titleOriginal": "Trump's $5,000 checks get chilly Senate GOP reception",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd19nN2dkYUVNWG9rV00xY1NrVjBRWDZ0NVZ5M2hVSHZ0Y2tzMENRMlhhcHBUM3ZCMmhWQlN1RHMwYTlHeU5GR3p6d21USUYtZTNUSHNkUVB4S1RBRm50N3BZTDlYODFQNnNuVmg2bGZhbzBYX0p5XzVhaUlWMXQwUDBSVkt6UWZGOTNrZQ?oc=5",
+      "publishedAt": "2026-09-15T06:26:17.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Zelenskyy afirma que a Ucrânia suspenderá os ataques à Rússia se o Kremlin poupar a infraestrutura essencial",
+      "titleOriginal": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
+      "publishedAt": "2026-09-15T06:02:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Carney viaja para a Europa para um discurso de grande importância e para estreitar os laços com a UE, enquanto o Canadá entra em conflito com Trump",
+      "titleOriginal": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
+      "publishedAt": "2026-09-15T04:23:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Denunciante do Departamento de Segurança Interna (DHS) de Trump alega que funcionários mentiram para ter acesso aos dados eleitorais estaduais",
+      "titleOriginal": "Trump DHS whistleblower alleges workers lied to access state voter data",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13N0p1NnVjYUpsYnRLLUREQzhLQ2xWNHdhNlZSaGV2eGE1X0RnMnVSZURWS3U2Z3RWWDY0bGhUMGhuU0NFVTRzY2pqcWdiYTh0Yk84cnViQjRFWVN6VVRsUVB4aXdjbTBDUW9nS01fTzUzQzVkUEhnb2F3?oc=5",
+      "publishedAt": "2026-09-15T03:49:22.000Z"
+    },
     {
       "source": "AP News",
       "title": "McConnell retorna ao Senado pela primeira vez desde que foi hospitalizado em junho",
@@ -10,25 +45,18 @@
       "publishedAt": "2026-09-15T03:21:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Por que o sócio mais bem pago da Weil Gotshal mudou-se para a Cravath, causando espanto no mundo dos grandes escritórios de advocacia",
-      "titleOriginal": "Why Weil Gotshal’s Highest-Paid Partner Jumped to Cravath, Shocking Big Law",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2c2M05hd0RLdFNMMWF6OG01ZVdQVGozb05MNmd4c0l0T2ttenJqa0JwOVhpbllMbERoRzY2aHVtUV9CWl9DVjV6Vm1FRURCTVppNFk5SHNOZUdIbTlkUW9QeHFlY1AtdVFlUkY4Vk1qTGk0LUVXNmhTcHdvYWd6bE5Kci1fQzlhY19pMkl6c0pfZ3k3YXFPdjNaZ2lkanlhQVBIRS1LRHJMWV9yUE15bg?oc=5",
-      "publishedAt": "2026-09-15T02:41:23.000Z"
+      "source": "Axios",
+      "title": "Trump e Huang se unem contra os pessimistas da IA em uma chamada surpresa no palco",
+      "titleOriginal": "Trump and Huang unite against AI doomers in surprise on-stage call",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHY2dEtJQWxpM3RnUURFbmV6WW9EdS1Qekc1UzVZblNHUTJ0Rm94eWRsdW1RcjBsaWxSZ1hqMXRHbU5iYk0zLUZleXB5dHVCN2FGSkNUUnpFZXJXSHh0ekJwX0hrUnhRUVctdUlQQ2RETWtNdHZsZkhZZS1mOEJjRQ?oc=5",
+      "publishedAt": "2026-09-15T03:15:15.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Projeto de lei sobre sanções à Rússia é aprovado pela Comissão de Regimento da Câmara dos Deputados",
+      "title": "Projeto de lei sobre sanções à Rússia é aprovado pela Comissão de Regimento da Câmara",
       "titleOriginal": "Russia sanctions bill passes House Rules Committee",
       "link": "https://thehill.com/homenews/house/6089480-house-approves-russia-sanctions-bill/",
       "publishedAt": "2026-09-15T02:31:30.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "McConnell retorna ao Capitólio após três meses de ausência",
-      "titleOriginal": "McConnell returns to Capitol after 3-month absence",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVpfOHF5NTFZU291WnVSUmZDWlZ2OU41eExqc1FyUXBDZXNwaG9JMk95T1FtTk9Wak5uVXp2dnNpNS01MVVfVV9aN282UE8wNE1GVUd1Q3drN1c4bDl5UEZsWHctUGNOYjM0dktwRlpSMmd4ZlFwUE1GcUw4YTQzQy1acUxITHlKRkpqYUJ5ZEhCeXA3UFRKWF93?oc=5",
-      "publishedAt": "2026-09-15T02:16:01.000Z"
     },
     {
       "source": "New York Times",
@@ -43,34 +71,6 @@
       "titleOriginal": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
       "publishedAt": "2026-09-15T01:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os cheques de US$ 5.000 de Trump são recebidos com frieza pelos republicanos do Senado",
-      "titleOriginal": "Trump's $5,000 checks get chilly Senate GOP reception",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd19nN2dkYUVNWG9rV00xY1NrVjBRWDZ0NVZ5M2hVSHZ0Y2tzMENRMlhhcHBUM3ZCMmhWQlN1RHMwYTlHeU5GR3p6d21USUYtZTNUSHNkUVB4S1RBRm50N3BZTDlYODFQNnNuVmg2bGZhbzBYX0p5XzVhaUlWMXQwUDBSVkt6UWZGOTNrZQ?oc=5",
-      "publishedAt": "2026-09-15T00:35:12.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações do setor de IA caem, mas o restante de Wall Street se mantém mais estável após os preços do petróleo recuarem em relação à alta registrada no início do dia",
-      "titleOriginal": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-      "publishedAt": "2026-09-15T00:25:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Thune acredita que o Congresso tem um papel a desempenhar na IA — Trump, não",
-      "titleOriginal": "Thune sees role for Congress on AI — Trump does not",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVc4WUhyV2xZV0puOVJvWlU0VTlXblVHX0U4M2lXd0l6Vm1Wd2Y1WjNkMkVHYXJzLVFzNUJndXZkZzgybFlEN2g1ZzQydG9qWjdHekxWenlSelJDcDdrSGRlNVZvb2hHbEVYRFVwU3k0QjlvZlQtNGpXb2NRX3VLZWR3Y2JJNEE?oc=5",
-      "publishedAt": "2026-09-14T23:53:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Paxton recebe um reforço de US$ 54 milhões do PAC do Texas do Fundo de Liderança do Senado",
-      "titleOriginal": "Paxton gets $54M boost from Senate Leadership Fund's Texas PAC",
-      "link": "https://thehill.com/homenews/state-watch/6089304-paxton-receives-54-million-slf/",
-      "publishedAt": "2026-09-14T23:47:10.000Z"
     }
   ]
 }
