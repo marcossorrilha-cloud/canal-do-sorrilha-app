@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-16T16:56:48.465Z",
+  "updatedAt": "2026-09-16T17:44:23.641Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Harold Hamm, aliado de Trump, fecha acordo sobre o petróleo da Venezuela",
+      "titleOriginal": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+      "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
+      "publishedAt": "2026-09-16T17:34:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-governador republicano do Kansas apoia candidato democrata em detrimento de Marshall na disputa pelo Senado",
+      "titleOriginal": "Kansas's former GOP governor backs Democrat over Marshall for Senate",
+      "link": "https://thehill.com/homenews/state-watch/6093288-graves-endorses-hamilton-senate/",
+      "publishedAt": "2026-09-16T17:23:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicano da Câmara exige que a NHL investigue Ovechkin por causa de anúncio pró-Putin",
+      "titleOriginal": "House GOPer demands NHL investigate Ovechkin over pro-Putin ad",
+      "link": "https://thehill.com/policy/sports-gaming/6093250-nhl-ovechkin-putin-ad-washington-capitals/",
+      "publishedAt": "2026-09-16T17:20:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance aos líderes da IA: “Se vocês estão criando um Frankenstein, parem”",
+      "titleOriginal": "Vance to AI leaders: 'If you're building Frankenstein, stop'",
+      "link": "https://thehill.com/policy/technology/6093222-vance-ai-leaders-criticism-safety/",
+      "publishedAt": "2026-09-16T17:07:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hawley descarta candidatura à Casa Branca em 2028",
+      "titleOriginal": "Hawley rules out 2028 White House bid",
+      "link": "https://thehill.com/homenews/campaign/6093133-josh-hawley-potential-2028-presidential-bid/",
+      "publishedAt": "2026-09-16T16:58:38.000Z"
+    },
     {
       "source": "The Hill",
       "title": "House volta para casa mais cedo",
@@ -11,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Os republicanos voltaram a Washington e tornaram o voto mais difícil",
+      "title": "Os republicanos voltaram a Washington e tornaram o processo de votação mais difícil",
       "titleOriginal": "Republicans came back to Washington and made voting harder",
       "link": "https://thehill.com/opinion/white-house/6091908-republican-congress-approval-drops/",
       "publishedAt": "2026-09-16T16:30:00.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Service members must meet weight, grooming standards for Hegseth event: Report",
       "link": "https://thehill.com/policy/defense/6093072-hegseth-grooming-requirements-troops/",
       "publishedAt": "2026-09-16T16:04:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump deveria seguir o exemplo de Jefferson e desistir das ações judiciais contra a mídia",
-      "titleOriginal": "Trump should follow Jefferson’s lead and step back from media lawsuits",
-      "link": "https://thehill.com/opinion/white-house/6091134-trump-news-industry-feud/",
-      "publishedAt": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Análise mostra que o governo Trump cortou ou congelou US$ 177 bilhões em verbas em todos os estados",
-      "titleOriginal": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmNNbXJYYWRjUWZURkVwLUhrZ2FRVUZpaXJhc2syZjQ3N1Q3RVZBWXJLOGlqaHVmSFZ3OC1jV0kwQ004WVVVRy1Ha3FoOEZhcHJXVTdfeDgzNWJPQy1qUm0tRlRaU0tmVmZ1TlJVdWVXWDU0NUhzSTdiVTR5QmdyeE1CXzBfZjNpaEJ1OWpQeEtoc0NteTBlY0FSZkxCM2t2MXc?oc=5",
-      "publishedAt": "2026-09-16T15:40:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O problema com os arquivos de Epstein, do Partido Republicano na Câmara, está de volta",
-      "titleOriginal": "House GOP's Epstein files headache is back",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDRKUUxOODcyajR2ekRDMzZBTkZuZUg4LU5hOU56WWF0SW9DTUJjRENCNUwtV0VmSmNWMHBEX0thSms4MVZXcUF5NERZdkJxVVAtOU9IQk92SzdULVBfemNyMFFia045LVRFTWNGc0Exa0VuLWdEY3RKTUFWNy1hMGFFZko?oc=5",
-      "publishedAt": "2026-09-16T15:35:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Câmara encurta a semana e deixará Washington na quarta-feira",
-      "titleOriginal": "House cuts week short, will leave DC on Wednesday",
-      "link": "https://thehill.com/homenews/house/6093014-house-gop-leave-midterms/",
-      "publishedAt": "2026-09-16T15:34:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Driscoll’s forneceu mirtilos à China — e então a China roubou o segredo para cultivá-los",
-      "titleOriginal": "Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU45NlEwMUpSUG01M0xpZHdpam42X2lWY2s4V2EyVUZJMW51ZXpyY3h3eWxTVTF6akl6WjBNUVVuckxtVk93SkQteDJhekN1eGJfbDlRUmM1dzJTcUk3eU5PS0Y2MUZtSWg1cFd2akJzZ1BBR04zQ1k3QWZmQXhaVlNLTQ?oc=5",
-      "publishedAt": "2026-09-16T15:34:32.000Z"
     }
   ]
 }
