@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-16T06:45:49.025Z",
+  "updatedAt": "2026-09-16T11:35:49.210Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "A Rússia está produzindo novas armas inteligentes e baratas mais rapidamente do que a Ucrânia ou os EUA.",
-      "titleOriginal": "Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjVuQ2VWNEU4TU9fY3pfYjVvSHZ3amJvd2UtUDFPS0lsbzdTYnJpRjZ1aDAxTDZBMnVfV3hhRHRsVHJxdzl6eXlwVjhUZWlFUUhrVVg3ZDYyWHVwZjBIQjVCS09TWll5eXZ5LWlMbkhUYVF3MXhPOWh6cU8yNEVMckk3VzlsVklwRFA3Yi01UWZMY2VrY3V5YnNxdktmNkdnNFNib09GUVlWeXZKMG9HSHZR?oc=5",
-      "publishedAt": "2026-09-16T04:50:16.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O pânico em torno da IA gera um raro momento de consenso bipartidário no Capitólio",
-      "titleOriginal": "AI panic sparks rare bipartisan moment on Capitol Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXNaOVZWeVg5T1ZPTWNQZ1J6UHduZ05ETGRyZjVaV2U2amtZWUJYck02Ulp6eV93SlpBc1VxVVVsZ1Frd0txSkJxTDBTX093RkJpSFV4bEVPOTVnR3BMZmQ5Nko1NU5yWURlZWZNM3dNZmRUTnJ0dGpXYkRfWkcwMkhUUQ?oc=5",
-      "publishedAt": "2026-09-16T04:43:47.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O deputado Chuck Edwards apresenta queixa contra a Comissão de Ética da Câmara",
-      "titleOriginal": "Rep. Chuck Edwards files complaint against House Ethics",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2ZsZnprVFJmY3MzSFJlUlJKQjJsT2htWVpReHR5algxQXJOVWJaaUtaVzctci1wbEFQdkJPNzE4N0lVMWdGQ01CNHluQ0pfcEtfUXB5V1ZXRi1oamFtMjZocVE2cVZULTk5NlpONVdjTnZ1ak4tTnl6bVhKZTFRckxnaWlTNGRL?oc=5",
-      "publishedAt": "2026-09-16T04:23:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Warsh provavelmente se alinhará aos mercados financeiros em detrimento de Trump, já que se espera um aumento da taxa de juros pelo Fed",
-      "titleOriginal": "Warsh likely to side with financial markets over Trump as Fed rate hike expected",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
-      "publishedAt": "2026-09-16T04:01:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O problema com os arquivos de Epstein, do Partido Republicano na Câmara, está de volta",
-      "titleOriginal": "House GOP's Epstein files headache is back",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDRKUUxOODcyajR2ekRDMzZBTkZuZUg4LU5hOU56WWF0SW9DTUJjRENCNUwtV0VmSmNWMHBEX0thSms4MVZXcUF5NERZdkJxVVAtOU9IQk92SzdULVBfemNyMFFia045LVRFTWNGc0Exa0VuLWdEY3RKTUFWNy1hMGFFZko?oc=5",
-      "publishedAt": "2026-09-16T03:55:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Donald Trump",
-      "titleOriginal": "Donald Trump",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "publishedAt": "2026-09-16T03:16:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Uma crise está abalando o Supremo Tribunal Federal do Brasil. Veja o que é preciso saber",
-      "titleOriginal": "A crisis is shaking Brazil’s Supreme Court. Here’s what to know",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnhiNkVYX09MQWl5SmM2ZjBITllaOUUtdEFLRDlYZlkxREFDVk80RmI2eC0xSTFES2tMdkdadHdxNXRnSzBRR2daemNpbVY5REEzemU3TnoxYU5jel9QS1lBeUUyR1hnN0JLZ3lwQ0JZVXFBVzZUXzRXTDNHX2xVTkVFTlFKUlppcklEbHdwaDhkS3MzYlZTOUFxNA?oc=5",
-      "publishedAt": "2026-09-16T03:05:53.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI frustrou um plano russo para assassinar um dissidente de destaque em Washington, segundo as autoridades",
-      "titleOriginal": "The FBI thwarted a Russian plot to kill a prominent dissident in Washington, authorities say",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFR3YjdSbjkzLVRmU0N0U2N5dE4tT0lNQ3JhemsxVjdINy1NbjBjd0hPMVJDNzZNcWhDSVVpVDVLUWlEVkxQUGFGckk4ZTdubi1EdzYtS1d5SkVuVllqMEZaQ2RGYm5MNnR6MC1xNTByMFhaMG1NXzZ6QnZCNVdkYk80NFkwYXY5U2k3ZGFtTFhydw?oc=5",
-      "publishedAt": "2026-09-16T02:47:00.000Z"
+      "source": "New York Times",
+      "title": "Trump proíbe a entrada de alguns sul-africanos devido a alegações de discriminação contra brancos",
+      "titleOriginal": "Trump Bars Some South Africans Over Claims of Anti-White Discrimination",
+      "link": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html",
+      "publishedAt": "2026-09-16T11:30:37.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Câmara aprova resolução sobre poderes de guerra contra o Irã",
-      "titleOriginal": "House passes Iran war powers resolution",
-      "link": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
-      "publishedAt": "2026-09-16T02:37:09.000Z"
+      "title": "No Capitólio, os democratas estão criando uma arma que pode acabar se voltando contra eles",
+      "titleOriginal": "On the Hill, Democrats are creating a weapon that might backfire on them",
+      "link": "https://thehill.com/opinion/judiciary/6090911-democrats-plan-subpoena-lawsuits/",
+      "publishedAt": "2026-09-16T11:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Inspetor-geral do Pentágono detalha as perdas e os desafios dos EUA na guerra no Irã",
-      "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
-      "publishedAt": "2026-09-16T02:27:56.000Z"
+      "source": "The Hill",
+      "title": "Cinco pontos a serem destacados com o fim das primárias e o início da reta final de Trump",
+      "titleOriginal": "Five takeaways as primaries end, Trump's final sprint begins",
+      "link": "https://thehill.com/newsletters/morning-report/6092185-takeaways-primary-season-finale-donald-trump-midterm-stretch/",
+      "publishedAt": "2026-09-16T11:14:20.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O ex-presidente das Filipinas, Rodrigo Duterte, comparece ao tribunal em Haia",
+      "titleOriginal": "Former Philippine President Rodrigo Duterte appears in court in The Hague",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW5OVGkyaUJyQ3ZpODNKNU9ISGtEazRWS29fak1XdkdSbzJzQlVaU25uZThCQjVJV2xIS3BaOXFtZVQ0TFdFLWN6WHkzQ0RrMkRZa1gtUGZHRXA5cHZpb0JZM2xpeDVlalRzdGFHZHBwbGVJT2ZQemRmZXJIMkN6X29QTG9aREtzOVRrdElfb05jNUItbnJHc2kyNA?oc=5",
+      "publishedAt": "2026-09-16T11:03:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Grupo pró-direito ao aborto amplia suas ações nas regiões decisivas para as eleições de meio de mandato",
+      "titleOriginal": "Abortion rights group expands midterm battleground efforts",
+      "link": "https://thehill.com/homenews/campaign/6092193-reproductive-freedom-for-all-midterm-investment-arizona-michigan-nevada/",
+      "publishedAt": "2026-09-16T11:01:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O auxílio de US$ 5.000 de Trump é um insulto ao conservadorismo",
+      "titleOriginal": "Trump's $5,000 handout is an insult to conservatism",
+      "link": "https://thehill.com/opinion/white-house/6090386-trump-promises-five-thousand-dollar-dividend/",
+      "publishedAt": "2026-09-16T11:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Universidades do Texas eliminam disciplinas básicas à medida que a pressão política começa a surtir efeito",
+      "titleOriginal": "Texas universities purge core courses as political pressure takes its toll",
+      "link": "https://thehill.com/homenews/state-watch/6090827-texas-universities-courses-abbott/",
+      "publishedAt": "2026-09-16T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As 7 maiores surpresas do ciclo das primárias de 2026",
+      "titleOriginal": "7 biggest surprises from the 2026 primary cycle",
+      "link": "https://thehill.com/homenews/campaign/6090590-key-surprises-2026-primary-elections/",
+      "publishedAt": "2026-09-16T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Legisladores correm para se atualizar sobre IA",
+      "titleOriginal": "Lawmakers scramble to catch-up on AI",
+      "link": "https://thehill.com/policy/technology/6091629-senate-scrambles-over-ai-safety/",
+      "publishedAt": "2026-09-16T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aliados de Trump planejam grandes cortes nos gastos como parte da agenda pós-eleitoral",
+      "titleOriginal": "Trump’s allies eye big spending cuts as part of postelection agenda",
+      "link": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
+      "publishedAt": "2026-09-16T10:00:00.000Z"
     }
   ]
 }
