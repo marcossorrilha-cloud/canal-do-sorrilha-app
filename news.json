@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-16T00:21:45.204Z",
+  "updatedAt": "2026-09-16T00:48:45.898Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Trump aprova venda de armas no valor de US$ 2,8 bilhões para Israel, incluindo 40.000 bombas de uma tonelada",
+      "title": "Inspetor-geral do Pentágono detalha as perdas e os desafios dos EUA na guerra contra o Irã",
+      "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
+      "publishedAt": "2026-09-16T00:33:33.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump aprova venda de armas no valor de US$ 2,8 bilhões para Israel, incluindo 40 mil bombas de uma tonelada",
       "titleOriginal": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
       "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
       "publishedAt": "2026-09-16T00:12:56.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump planeja uma ofensiva de US$ 138 milhões — e o valor continua aumentando — para salvar os republicanos nas eleições de meio de mandato",
+      "title": "Trump planeja uma campanha intensiva de US$ 138 milhões — e o valor continua aumentando — para salvar os republicanos nas eleições de meio de mandato",
       "titleOriginal": "Trump Plans Blitz of $138 Million and Counting to Save Midterm Republicans",
       "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html",
       "publishedAt": "2026-09-16T00:10:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Inspetor-geral do Pentágono detalha as perdas e os desafios dos EUA na guerra no Irã",
-      "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
-      "publishedAt": "2026-09-16T00:03:51.000Z"
     },
     {
       "source": "New York Times",
@@ -46,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Democratas questionam duramente importante aliado de Kennedy indicado para o cargo de vice-ministro do Departamento de Saúde e Serviços Humanos (HHS)",
+      "title": "Democratas questionam duramente o principal aliado de Kennedy indicado para o cargo de vice-secretário do Departamento de Saúde e Serviços Humanos (HHS)",
       "titleOriginal": "Democrats grill top Kennedy ally nominated to be HHS no. 2",
       "link": "https://thehill.com/newsletters/healthcare/6091870-democrats-grill-hhs-nominee/",
       "publishedAt": "2026-09-15T23:27:53.000Z"
