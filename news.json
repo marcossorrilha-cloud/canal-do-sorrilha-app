@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-16T11:35:49.210Z",
+  "updatedAt": "2026-09-16T12:50:18.216Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Trump intensifica a guerra contra os dados federais",
+      "titleOriginal": "Trump escalates war on federal data",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NTktYLS16YVhJT1lBODRWdDcxUnE4NmJwNWpLTTFBRks0d0NHTjlXQXBGc0pKLTdhOHV4X0dnRVJIWGRjeUVERUgtcGFseTE3WmZhankydWhPLUZqYTlWQm1iei1idVN5eHREVzZvdkZsYXBsQ3ZYdEVDWEI?oc=5",
+      "publishedAt": "2026-09-16T12:33:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump deveria se encontrar com Kim Jong Un e chegar a um acordo para pôr fim à Guerra da Coreia",
+      "titleOriginal": "Trump should meet Kim Jong Un and make a deal to end the Korean War",
+      "link": "https://thehill.com/opinion/international/6090701-trump-north-korea-diplomacy/",
+      "publishedAt": "2026-09-16T12:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Thomas Crooks treinou com um rifle longo até o dia anterior ao tiroteio contra Trump: documentos",
+      "titleOriginal": "Thomas Crooks trained with long rifle up to the day before he shot at Trump: docs",
+      "link": "https://thehill.com/homenews/state-watch/6091475-thomas-matthew-crooks-donald-trump-assassination-attempt-fire-arm-training-fbi-docs/",
+      "publishedAt": "2026-09-16T12:28:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juízes federais estão sendo alvo de “doxxing” envolvendo pizza; ninguém foi responsabilizado",
+      "titleOriginal": "Federal judges are being targeted with pizza doxxing; no one has been held to account",
+      "link": "https://thehill.com/opinion/judiciary/6090450-pizza-threats-federal-judges/",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Atenção voltada para a decisão do Fed após o Bitcoin ser negociado próximo da mínima de quatro semanas devido ao fracasso da votação sobre a clareza",
+      "titleOriginal": "Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmVpUXdQdmtOUnNRRVJ1TXRVQy1acy14c0hvbFVjWkFuOUtHcHpNWXZYeGNNeGcyNXhoY3JtWldpdW5RRGFYUjNoN081R1VfWVlTX1QyZ1hrSE9OTml0anYwelhyTU1NZGdYd2hJT1dqNzZiU18tSW1TM1J1WWpQek9ncF9haXJpUVVqYWRuWnpyRXZQYjAtM0lOelVpWjVSbkRpS3h2YUVuNWpxUUlIZ0F3dFlMd1FTazFPMW5JWVpCZmFaV3cw?oc=5",
+      "publishedAt": "2026-09-16T11:58:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Massie afirma que escondeu a resolução de impeachment contra Hegseth dos líderes do Partido Republicano",
+      "titleOriginal": "Massie says he hid Hegseth impeachment resolution from GOP leaders",
+      "link": "https://thehill.com/homenews/house/6092238-thomas-massie-pete-hegseth-impeachment-resolution-gop-leadership/",
+      "publishedAt": "2026-09-16T11:55:29.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump proíbe a entrada de alguns sul-africanos devido a alegações de discriminação contra brancos",
@@ -17,60 +59,18 @@
       "publishedAt": "2026-09-16T11:30:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Tribunal de Haia condena o ex-presidente do Kosovo, Thaci, por crimes de guerra e o sentença a 25 anos de prisão",
+      "titleOriginal": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
+      "publishedAt": "2026-09-16T11:22:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Cinco pontos a serem destacados com o fim das primárias e o início da reta final de Trump",
       "titleOriginal": "Five takeaways as primaries end, Trump's final sprint begins",
       "link": "https://thehill.com/newsletters/morning-report/6092185-takeaways-primary-season-finale-donald-trump-midterm-stretch/",
       "publishedAt": "2026-09-16T11:14:20.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O ex-presidente das Filipinas, Rodrigo Duterte, comparece ao tribunal em Haia",
-      "titleOriginal": "Former Philippine President Rodrigo Duterte appears in court in The Hague",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW5OVGkyaUJyQ3ZpODNKNU9ISGtEazRWS29fak1XdkdSbzJzQlVaU25uZThCQjVJV2xIS3BaOXFtZVQ0TFdFLWN6WHkzQ0RrMkRZa1gtUGZHRXA5cHZpb0JZM2xpeDVlalRzdGFHZHBwbGVJT2ZQemRmZXJIMkN6X29QTG9aREtzOVRrdElfb05jNUItbnJHc2kyNA?oc=5",
-      "publishedAt": "2026-09-16T11:03:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Grupo pró-direito ao aborto amplia suas ações nas regiões decisivas para as eleições de meio de mandato",
-      "titleOriginal": "Abortion rights group expands midterm battleground efforts",
-      "link": "https://thehill.com/homenews/campaign/6092193-reproductive-freedom-for-all-midterm-investment-arizona-michigan-nevada/",
-      "publishedAt": "2026-09-16T11:01:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O auxílio de US$ 5.000 de Trump é um insulto ao conservadorismo",
-      "titleOriginal": "Trump's $5,000 handout is an insult to conservatism",
-      "link": "https://thehill.com/opinion/white-house/6090386-trump-promises-five-thousand-dollar-dividend/",
-      "publishedAt": "2026-09-16T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Universidades do Texas eliminam disciplinas básicas à medida que a pressão política começa a surtir efeito",
-      "titleOriginal": "Texas universities purge core courses as political pressure takes its toll",
-      "link": "https://thehill.com/homenews/state-watch/6090827-texas-universities-courses-abbott/",
-      "publishedAt": "2026-09-16T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As 7 maiores surpresas do ciclo das primárias de 2026",
-      "titleOriginal": "7 biggest surprises from the 2026 primary cycle",
-      "link": "https://thehill.com/homenews/campaign/6090590-key-surprises-2026-primary-elections/",
-      "publishedAt": "2026-09-16T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores correm para se atualizar sobre IA",
-      "titleOriginal": "Lawmakers scramble to catch-up on AI",
-      "link": "https://thehill.com/policy/technology/6091629-senate-scrambles-over-ai-safety/",
-      "publishedAt": "2026-09-16T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Aliados de Trump planejam grandes cortes nos gastos como parte da agenda pós-eleitoral",
-      "titleOriginal": "Trump’s allies eye big spending cuts as part of postelection agenda",
-      "link": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
-      "publishedAt": "2026-09-16T10:00:00.000Z"
     }
   ]
 }
