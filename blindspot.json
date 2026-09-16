@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-16T06:03:06.487Z",
-  "slot": "2026-09-16-AM",
+  "updatedAt": "2026-09-16T16:56:55.521Z",
+  "slot": "2026-09-16-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Universidade do Texas se pronuncia após postagens racistas de candidato estadual do Partido Republicano",
-      "titleOriginal": "University of Texas responds after GOP statewide candidate’s racist posts",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWo1MEprMV8xWjNPaWhua19ROFlaWFNDUGVtb0RaTXhfdEVXZWxCeFB3LWR5WkZsSHpnNVhTZjBOckl6WHdlaXdORW9fd2F3Q0ZHQ2tNaTNBOFlGdktGekxLX0tVRHdNN2lRNGFqQVRfa3hkY3JINWNGcXNnSDBQeEQzajBDdmpmRGEtT2lBWTdhaWJ6Rlo0R0lVTXU0dUpEQmJQemlGUncxYWFoMDhPalFDRFR0MTdIaWlJaGdR?oc=5",
+      "title": "Análise do Post mostra que os candidatos republicanos estão, em grande parte, ignorando os conselhos de Trump para as eleições de meio de mandato",
+      "titleOriginal": "GOP candidates are largely ignoring Trump’s midterm advice, Post analysis shows",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm9xM29Ham5PY3dDNHExbWFlMVFtTFBoV0NlRGhJSXRzSGVoVlY5SEI0SEpUQ1huUlFScmZUTXExTG5DTXFkTkZ1RzhDMlYycmhQLVRpQW1GWDlZRm52UklPbDZfMjd6YVNUMGI0R2VvVXR1bnplRGkyYmdfYkpBVl9SWnJBY252MGlHTzVXQ21PcktJWEJRX3NfR3loelRLSDZHc210aHZqdG1ZNnZaR0Nnb2YzbDNfY1E?oc=5",
       "source": "Washington Post",
-      "coverage": 3
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "EUA impõem sanções a banco russo por ajudar o Irã a contornar sanções",
-      "titleOriginal": "U.S. Sanctions Russian Bank For Helping Iran Evade Sanctions",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSm9mVngteXpTSmNfZFdTelQ3SWI3U0NfeWtxbFloMFNVeVRmUTh5emk1UTFEMU0xR3hmek5XQ1JPT3pTODBwQUZDU05sTzM1a0ZuWTBWd2c5RDRiMmg2UEN0cldCTWRIWTA2MEdlSWdsSklGaDlfUFZVbXBYcHE4ajVmR0I5QlJNSmhEUDgtYm9zRjByNWFSdC03bnAwcEJGb1VZai03akJmcWJYMWs1QQ?oc=5",
-      "source": "Daily Wire",
-      "coverage": 3
+      "title": "“Pior do que o Watergate”: novos arquivos do FBI revelam a insistência de um agente em participar da investigação sobre Trump e investigar Elon Musk",
+      "titleOriginal": "‘Worse than Watergate’ New FBI files detail agent’s push to join Trump probe, investigate Elon Musk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1RTNVZnWXdSVklPWUpWS1hqMTIzdUxxbFNGZFprZG5ZSGRuSk5PVWhGaE1xc2xRMWRERUxoSEdCSjFzZ1hJcU5QTWl1engzQ2d1Ym9ETGRtdjhBaXNsb1FYVGM3QWJXeXk2aHVGRGRWcDRDX19EUmFOdUZRUkpJaGRoSnQzeEpIaUxkeGJHTndzdTdZZENER3R0cTBadlR2OXNCRzdnSUN4cVBFenBMOWtTY3RVSEFWTWttajJ2azhVQdIBxwFBVV95cUxOZHFSdDVFWjZtQkhENDBjOFRWbG0zV1ZzN0hvdS16VGdydG8tMHVlZnJjcXJpTkdpWmhPdTZMQ29iUTd6Wjd5SVRNeVJIWU1EZXdOOWNRdWNCM2pXNDlwczlhcDFsQk5ya1hya01wdnJKOGJ1SUFkNWthQS0tSHVyZlVId2JoRHo5U2dZUjBieXRxNW1sb3d5UHZ1aXE1bTJnai1nY0NRclFzUDdmVVo1dDU0dHJuT1BuUEV0NmpVa1AxQWlQT3pv?oc=5",
+      "source": "Fox News",
+      "coverage": 4
     }
   ]
 }
