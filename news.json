@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-09-16T06:02:59.818Z",
+  "updatedAt": "2026-09-16T06:45:49.025Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A Rússia está produzindo novas armas inteligentes e baratas mais rapidamente do que a Ucrânia ou os EUA.",
+      "titleOriginal": "Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjVuQ2VWNEU4TU9fY3pfYjVvSHZ3amJvd2UtUDFPS0lsbzdTYnJpRjZ1aDAxTDZBMnVfV3hhRHRsVHJxdzl6eXlwVjhUZWlFUUhrVVg3ZDYyWHVwZjBIQjVCS09TWll5eXZ5LWlMbkhUYVF3MXhPOWh6cU8yNEVMckk3VzlsVklwRFA3Yi01UWZMY2VrY3V5YnNxdktmNkdnNFNib09GUVlWeXZKMG9HSHZR?oc=5",
+      "publishedAt": "2026-09-16T04:50:16.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "O pânico em torno da IA gera um raro momento de união bipartidária no Capitólio",
+      "title": "O pânico em torno da IA gera um raro momento de consenso bipartidário no Capitólio",
       "titleOriginal": "AI panic sparks rare bipartisan moment on Capitol Hill",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXNaOVZWeVg5T1ZPTWNQZ1J6UHduZ05ETGRyZjVaV2U2amtZWUJYck02Ulp6eV93SlpBc1VxVVVsZ1Frd0txSkJxTDBTX093RkJpSFV4bEVPOTVnR3BMZmQ5Nko1NU5yWURlZWZNM3dNZmRUTnJ0dGpXYkRfWkcwMkhUUQ?oc=5",
       "publishedAt": "2026-09-16T04:43:47.000Z"
@@ -32,6 +39,13 @@
     },
     {
       "source": "AP News",
+      "title": "Donald Trump",
+      "titleOriginal": "Donald Trump",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "publishedAt": "2026-09-16T03:16:31.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Uma crise está abalando o Supremo Tribunal Federal do Brasil. Veja o que é preciso saber",
       "titleOriginal": "A crisis is shaking Brazil’s Supreme Court. Here’s what to know",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnhiNkVYX09MQWl5SmM2ZjBITllaOUUtdEFLRDlYZlkxREFDVk80RmI2eC0xSTFES2tMdkdadHdxNXRnSzBRR2daemNpbVY5REEzemU3TnoxYU5jel9QS1lBeUUyR1hnN0JLZ3lwQ0JZVXFBVzZUXzRXTDNHX2xVTkVFTlFKUlppcklEbHdwaDhkS3MzYlZTOUFxNA?oc=5",
@@ -39,21 +53,14 @@
     },
     {
       "source": "AP News",
-      "title": "Donald Trump",
-      "titleOriginal": "Donald Trump",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "publishedAt": "2026-09-16T02:49:12.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI frustrou um plano russo para assassinar um proeminente dissidente em Washington, segundo as autoridades",
+      "title": "O FBI frustrou um plano russo para assassinar um dissidente de destaque em Washington, segundo as autoridades",
       "titleOriginal": "The FBI thwarted a Russian plot to kill a prominent dissident in Washington, authorities say",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFR3YjdSbjkzLVRmU0N0U2N5dE4tT0lNQ3JhemsxVjdINy1NbjBjd0hPMVJDNzZNcWhDSVVpVDVLUWlEVkxQUGFGckk4ZTdubi1EdzYtS1d5SkVuVllqMEZaQ2RGYm5MNnR6MC1xNTByMFhaMG1NXzZ6QnZCNVdkYk80NFkwYXY5U2k3ZGFtTFhydw?oc=5",
       "publishedAt": "2026-09-16T02:47:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Câmara dos Deputados aprova resolução sobre poderes de guerra contra o Irã",
+      "title": "Câmara aprova resolução sobre poderes de guerra contra o Irã",
       "titleOriginal": "House passes Iran war powers resolution",
       "link": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
       "publishedAt": "2026-09-16T02:37:09.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
       "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
       "publishedAt": "2026-09-16T02:27:56.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Suprema Corte dos EUA",
-      "titleOriginal": "U.S. Supreme Court",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84czdFZGpPd2ptRDVXUlp1YXFnbXVyalFpZHc2cVoxeUtaM0tLNndBMmxQQ21PUndCQ1RrZ0VoUmtHX1NQcGpMVkpyR1hsTjhl?oc=5",
-      "publishedAt": "2026-09-16T02:15:31.000Z"
     }
   ]
 }
