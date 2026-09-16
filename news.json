@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-16T00:48:45.898Z",
+  "updatedAt": "2026-09-16T06:02:59.818Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Inspetor-geral do Pentágono detalha as perdas e os desafios dos EUA na guerra contra o Irã",
-      "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
-      "publishedAt": "2026-09-16T00:33:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump aprova venda de armas no valor de US$ 2,8 bilhões para Israel, incluindo 40 mil bombas de uma tonelada",
-      "titleOriginal": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
-      "publishedAt": "2026-09-16T00:12:56.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump planeja uma campanha intensiva de US$ 138 milhões — e o valor continua aumentando — para salvar os republicanos nas eleições de meio de mandato",
-      "titleOriginal": "Trump Plans Blitz of $138 Million and Counting to Save Midterm Republicans",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html",
-      "publishedAt": "2026-09-16T00:10:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Funcionários federais receberam US$ 9,5 bilhões para não trabalhar em 2025, no âmbito da iniciativa DOGE",
-      "titleOriginal": "Federal Employees Were Paid $9.5 Billion Not to Work in 2025 Under DOGE Effort",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html",
-      "publishedAt": "2026-09-15T23:47:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Melania Trump incentiva as crianças a criarem “o próximo grande robô” com inteligência artificial",
-      "titleOriginal": "Melania Trump Encourages Children to Build ‘the Next Great Robot’ With A.I.",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/melania-trump-encourages-children-to-build-the-next-great-robot-with-ai.html",
-      "publishedAt": "2026-09-15T23:43:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Secretário da Força Aérea confirma que os EUA implantaram armas no espaço",
-      "titleOriginal": "Air Force Secretary confirms US deployed weapons in space",
-      "link": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter/",
-      "publishedAt": "2026-09-15T23:28:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas questionam duramente o principal aliado de Kennedy indicado para o cargo de vice-secretário do Departamento de Saúde e Serviços Humanos (HHS)",
-      "titleOriginal": "Democrats grill top Kennedy ally nominated to be HHS no. 2",
-      "link": "https://thehill.com/newsletters/healthcare/6091870-democrats-grill-hhs-nominee/",
-      "publishedAt": "2026-09-15T23:27:53.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "O pânico em torno da IA gera um raro momento de consenso bipartidário no Capitólio",
+      "title": "O pânico em torno da IA gera um raro momento de união bipartidária no Capitólio",
       "titleOriginal": "AI panic sparks rare bipartisan moment on Capitol Hill",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXNaOVZWeVg5T1ZPTWNQZ1J6UHduZ05ETGRyZjVaV2U2amtZWUJYck02Ulp6eV93SlpBc1VxVVVsZ1Frd0txSkJxTDBTX093RkJpSFV4bEVPOTVnR3BMZmQ5Nko1NU5yWURlZWZNM3dNZmRUTnJ0dGpXYkRfWkcwMkhUUQ?oc=5",
-      "publishedAt": "2026-09-15T23:09:27.000Z"
+      "publishedAt": "2026-09-16T04:43:47.000Z"
     },
     {
       "source": "Axios",
       "title": "O deputado Chuck Edwards apresenta queixa contra a Comissão de Ética da Câmara",
       "titleOriginal": "Rep. Chuck Edwards files complaint against House Ethics",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2ZsZnprVFJmY3MzSFJlUlJKQjJsT2htWVpReHR5algxQXJOVWJaaUtaVzctci1wbEFQdkJPNzE4N0lVMWdGQ01CNHluQ0pfcEtfUXB5V1ZXRi1oamFtMjZocVE2cVZULTk5NlpONVdjTnZ1ak4tTnl6bVhKZTFRckxnaWlTNGRL?oc=5",
-      "publishedAt": "2026-09-15T23:04:27.000Z"
+      "publishedAt": "2026-09-16T04:23:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Warsh provavelmente se alinhará aos mercados financeiros em detrimento de Trump, já que se espera um aumento da taxa de juros pelo Fed",
+      "titleOriginal": "Warsh likely to side with financial markets over Trump as Fed rate hike expected",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
+      "publishedAt": "2026-09-16T04:01:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O problema com os arquivos de Epstein, do Partido Republicano na Câmara, está de volta",
+      "titleOriginal": "House GOP's Epstein files headache is back",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDRKUUxOODcyajR2ekRDMzZBTkZuZUg4LU5hOU56WWF0SW9DTUJjRENCNUwtV0VmSmNWMHBEX0thSms4MVZXcUF5NERZdkJxVVAtOU9IQk92SzdULVBfemNyMFFia045LVRFTWNGc0Exa0VuLWdEY3RKTUFWNy1hMGFFZko?oc=5",
+      "publishedAt": "2026-09-16T03:55:25.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Uma crise está abalando o Supremo Tribunal Federal do Brasil. Veja o que é preciso saber",
+      "titleOriginal": "A crisis is shaking Brazil’s Supreme Court. Here’s what to know",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnhiNkVYX09MQWl5SmM2ZjBITllaOUUtdEFLRDlYZlkxREFDVk80RmI2eC0xSTFES2tMdkdadHdxNXRnSzBRR2daemNpbVY5REEzemU3TnoxYU5jel9QS1lBeUUyR1hnN0JLZ3lwQ0JZVXFBVzZUXzRXTDNHX2xVTkVFTlFKUlppcklEbHdwaDhkS3MzYlZTOUFxNA?oc=5",
+      "publishedAt": "2026-09-16T03:05:53.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Donald Trump",
+      "titleOriginal": "Donald Trump",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "publishedAt": "2026-09-16T02:49:12.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O FBI frustrou um plano russo para assassinar um proeminente dissidente em Washington, segundo as autoridades",
+      "titleOriginal": "The FBI thwarted a Russian plot to kill a prominent dissident in Washington, authorities say",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFR3YjdSbjkzLVRmU0N0U2N5dE4tT0lNQ3JhemsxVjdINy1NbjBjd0hPMVJDNzZNcWhDSVVpVDVLUWlEVkxQUGFGckk4ZTdubi1EdzYtS1d5SkVuVllqMEZaQ2RGYm5MNnR6MC1xNTByMFhaMG1NXzZ6QnZCNVdkYk80NFkwYXY5U2k3ZGFtTFhydw?oc=5",
+      "publishedAt": "2026-09-16T02:47:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Rogers deve faltar ao debate para o Senado de Michigan devido ao “favoritismo” da emissora em relação a El-Sayed",
-      "titleOriginal": "Rogers set to skip Michigan Senate debate over outlet's 'favoritism' toward El-Sayed",
-      "link": "https://thehill.com/homenews/campaign/6091812-rogers-michigan-senate-debate-skip-favoritism/",
-      "publishedAt": "2026-09-15T22:59:36.000Z"
+      "title": "Câmara dos Deputados aprova resolução sobre poderes de guerra contra o Irã",
+      "titleOriginal": "House passes Iran war powers resolution",
+      "link": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+      "publishedAt": "2026-09-16T02:37:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Inspetor-geral do Pentágono detalha as perdas e os desafios dos EUA na guerra no Irã",
+      "titleOriginal": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
+      "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
+      "publishedAt": "2026-09-16T02:27:56.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Suprema Corte dos EUA",
+      "titleOriginal": "U.S. Supreme Court",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84czdFZGpPd2ptRDVXUlp1YXFnbXVyalFpZHc2cVoxeUtaM0tLNndBMmxQQ21PUndCQ1RrZ0VoUmtHX1NQcGpMVkpyR1hsTjhl?oc=5",
+      "publishedAt": "2026-09-16T02:15:31.000Z"
     }
   ]
 }
