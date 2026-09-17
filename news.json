@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-17T07:40:57.285Z",
+  "updatedAt": "2026-09-17T10:25:46.455Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Exclusivo: Trump realizará negociações sobre o Irã com líderes do Golfo na próxima semana",
-      "titleOriginal": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wZW1TV1RKZGZoT0dmLURXZXJxRENaLWJYWHVET2JJMUZ2SV9EWTE2eEtnUjRZemhGbHNtaU5aOGlpZUs0T3lmc1RhQnIwMXJROUNhRGlnTXNyRmtpMTNrY2ZvdkQxX2FOWWZNTGozaHlQQWc?oc=5",
-      "publishedAt": "2026-09-17T05:32:24.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Estado prorroga proibição de visto contra Abbas e outras autoridades palestinas",
-      "titleOriginal": "State Department Extends Visa Ban on Abbas, Other Palestinian Officials",
-      "link": "https://www.nytimes.com/2026/09/16/us/politics/visa-ban-abbas.html",
-      "publishedAt": "2026-09-17T03:10:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "As tentativas do Irã de contornar o bloqueio do Estreito de Ormuz estão esbarrando em um obstáculo",
-      "titleOriginal": "Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVFpaVFWblczeEhpQXpHSHQ0VFotUDB3UFJQQTV4RXpBX2dSVllZejV2aGdvZ2QyN1BPSkNQWkFQd1JTenY2anhwR2lZdTE5dnNLUl9KSHVFZ25qYmR6TlB1QUZSSWxBSktTaFFBWGQzTlBlWS1hTHh6cTgwUHBLbExuYjNtOE9ra3RJdmdOT19HLUp4blNFdDlEX0VEa2lvTl9LcEROdkRxRXk5cnNvaFlmMVg?oc=5",
-      "publishedAt": "2026-09-17T02:52:00.000Z"
+      "source": "The Hill",
+      "title": "El-Sayed lidera por uma pequena margem sobre Rogers na disputa pelo Senado em Michigan: pesquisa",
+      "titleOriginal": "El-Sayed narrowly leads Rogers in Michigan Senate race: Poll",
+      "link": "https://thehill.com/homenews/campaign/6093219-el-sayed-rogers-michigan-senate-poll/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump dá crédito a Whatley pelas vitórias eleitorais “recorde” do Partido Republicano no passado, em comício na Carolina do Norte",
-      "titleOriginal": "Trump credits Whatley for GOP's past 'record setting' election wins in NC rally",
-      "link": "https://thehill.com/homenews/6094443-trump-whatley-rally-gop-battleground-credit/",
-      "publishedAt": "2026-09-17T02:05:22.000Z"
+      "title": "Ocasio-Cortez vê crescer a confiança em suas chances de chegar à Casa Branca",
+      "titleOriginal": "Ocasio-Cortez sees confidence in her White House chances grow",
+      "link": "https://thehill.com/homenews/state-watch/6093571-aoc-potential-2028-presidential-run/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump queria que o Canadá se tornasse o 51º estado. Acabou por empurrá-lo para a União Europeia.",
-      "titleOriginal": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
-      "link": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
-      "publishedAt": "2026-09-17T01:58:24.000Z"
+      "source": "The Hill",
+      "title": "Como dissidentes russos estão pressionando por medidas contra Putin em Washington, D.C.",
+      "titleOriginal": "How Russian dissidents are pressing for action on Putin in DC",
+      "link": "https://thehill.com/policy/international/6091872-muratov-washington-speech/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Prédio danificado por ataques desaba em Gaza, matando 21 pessoas, enquanto as condições precárias de vida persistem",
-      "titleOriginal": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
-      "publishedAt": "2026-09-17T01:50:00.000Z"
+      "source": "The Hill",
+      "title": "A guerra no Irã coloca em dúvida a futura presença militar dos EUA no Oriente Médio",
+      "titleOriginal": "Iran war puts future US military presence in Middle East in question",
+      "link": "https://thehill.com/homenews/6094213-us-military-middle-east-withdrawal/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Tribunal de Haia condena o ex-presidente do Kosovo, Thaci, por crimes de guerra e o condena a 25 anos de prisão",
-      "titleOriginal": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
-      "publishedAt": "2026-09-17T00:54:00.000Z"
+      "source": "The Hill",
+      "title": "O resumo: A defesa da IA por parte de Trump cai no vazio, até mesmo entre alguns membros do Partido Republicano",
+      "titleOriginal": "The Memo: Trump’s AI advocacy lands with a thud, even among some in GOP",
+      "link": "https://thehill.com/homenews/analysis/6094080-trump-republicans-artificial-intelligence-data-centers-regulation/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Talarico está empatado com Paxton em nova pesquisa para o Senado do Texas",
+      "titleOriginal": "Talarico neck and neck with Paxton in new Texas Senate poll",
+      "link": "https://thehill.com/homenews/state-watch/6093606-talarico-paxton-deadlock-texas-senate-poll/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Alexander Ovechkin enfrenta reações negativas por causa de anúncio de campanha de Putin",
+      "titleOriginal": "Alexander Ovechkin faces backlash over Putin campaign ad",
+      "link": "https://thehill.com/policy/sports-gaming/6093716-ovechkin-puckers-up-putin/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Legisladores do Partido Republicano insatisfeitos com a falta de avanços na guerra contra o Irã",
+      "titleOriginal": "GOP lawmakers unhappy with lack of progress on Iran war",
+      "link": "https://thehill.com/homenews/senate/6093985-senate-republicans-criticize-iran-war/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "JD Vance enfrenta um desafio em reunião na Casa Branca com apresentador de rádio que apoia Israel",
+      "titleOriginal": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "link": "https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577",
+      "publishedAt": "2026-09-17T09:50:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Por dentro da disputa na Casa Branca para convencer Trump sobre a IA",
-      "titleOriginal": "Inside the White House Tussle to Sway Trump on AI",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkZ0bWNoSVBoWXo2TUNaRlI4MERvVXlWbHRzelJLOTdGQ3B4SFJWQkdhLW4xTjFFWFN5ZDVKOEVKZ3NHZWd2SW9kaFNSSnZ6NEJrTENCM05DY0hPRUFoeGg5aENsWmhNWFktMzhIZVpKQ2M5WXZLVkFHLTJibnE3M210MmluVnhibC1xQlZSSQ?oc=5",
-      "publishedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: O super PAC de Schumer intensifica sua campanha em Michigan",
-      "titleOriginal": "Scoop: Schumer's super PAC doubles down in Michigan",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlVnQWNfV2FreF92UFhJLXlBcWowU3pPTHQ0LVhTS3JjY2RDNFJnUmpCOUIzRm9pZ1ZGUHJlUE1EdUd3c0RtVkhFTk1hZmdPOVl5RHRzLWpDa3B6Z3hTUGdhRnVrT0xQM0JmWm9ibU1MaW5jOHdWVVhNOVhleHJ0ZWc5WEEwcUNh?oc=5",
-      "publishedAt": "2026-09-16T23:58:16.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Federal Reserve aumenta a taxa básica de juros pela primeira vez em três anos, contrariando as exigências de Trump por um corte",
-      "titleOriginal": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
-      "publishedAt": "2026-09-16T23:42:00.000Z"
+      "title": "Projeto de lei histórico sobre criptomoedas é rejeitado em votação decisiva, colocando em dúvida as novas regras e afetando as ações",
+      "titleOriginal": "Landmark Crypto Bill Fails in Key Vote, Casting Doubt on New Rules and Hitting Stocks",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRydi0tYWR6SnllLW9ob05faVB2bk5vMXhNT3lYMU9STTZOeV9RMEt2TzNkVXlRbk1MN3l5SVdsdHJSQld6cmhaTHBiNGJoUjhOVGZ1bWdUTHNwWXVTWEx5T3hmVFR2dkxuVlRoMnpOd3c3c196QklRSkc2XzdhT1VpZzBYajgzNUNzckpkNGFpT0IwUWFtU0Q1T3BVMjZ2MC1PSm54TEFHUHMtc0pyajkyMVlwcnA1YWZ4bmsxaVRBY0xwNllv?oc=5",
+      "publishedAt": "2026-09-17T09:24:50.000Z"
     }
   ]
 }
