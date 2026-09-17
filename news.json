@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-16T23:53:00.749Z",
+  "updatedAt": "2026-09-17T01:26:13.837Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Tribunal de Haia condena o ex-presidente do Kosovo, Thaci, por crimes de guerra e o sentença a 25 anos de prisão",
+      "titleOriginal": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
+      "publishedAt": "2026-09-17T00:54:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Trump manterá conversações sobre o Irã com líderes do Golfo na próxima semana",
+      "titleOriginal": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wZW1TV1RKZGZoT0dmLURXZXJxRENaLWJYWHVET2JJMUZ2SV9EWTE2eEtnUjRZemhGbHNtaU5aOGlpZUs0T3lmc1RhQnIwMXJROUNhRGlnTXNyRmtpMTNrY2ZvdkQxX2FOWWZNTGozaHlQQWc?oc=5",
+      "publishedAt": "2026-09-16T23:44:50.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Por que Israel quer mais bombas de uma tonelada dos EUA",
@@ -24,11 +38,25 @@
       "publishedAt": "2026-09-16T23:14:29.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Uma estrela do futebol americano universitário tinha uma falha secreta. Um quarterback em declínio percebeu isso do sofá de casa.",
+      "titleOriginal": "A College Star Had a Secret Flaw. A Washed-Up Quarterback Clocked It From His Couch.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUG0xblMzVzVZVFVYN2hCWEdJRnVoQmh1RnIwYjZKTHNFNVRhQnM0aHVqSk00blBmemhLd0V6TU5TZDRodW0xY1B3dFdLcnJibU9rZ0tGSmZpQWtnbUtVMUFNbWNnaGpuem9xU3Zla0pzYThsaGY4TERNNmpiQjhNcw?oc=5",
+      "publishedAt": "2026-09-16T23:13:23.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Serviço de Parques Nacionais ignora a revisão do Arco de Trump",
+      "title": "Serviço de Parques Nacionais ignora completamente a revisão do Arco de Trump",
       "titleOriginal": "Park Service Steamrolls Through Review of Trump’s Arch",
       "link": "https://www.nytimes.com/2026/09/16/upshot/trump-arch-washington.html",
       "publishedAt": "2026-09-16T23:09:59.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Câmara dos Deputados aprova medida para reduzir custos de centros de dados de IA",
+      "titleOriginal": "House votes to curb AI data center costs",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41NjN0Qi0ta3A3U3JRYWM2MENyVjFET19Zc2xpXy1OWWJZOHVsU0d6aDR3VllCY0lqcXhPUXBieml4bVRCd2RnSS1MYklLVFNQTlliTlZmSUlaSkNjUGFFWFNWZ29GVDIxVWoyMTB1ZlEtZmM?oc=5",
+      "publishedAt": "2026-09-16T23:07:56.000Z"
     },
     {
       "source": "The Hill",
@@ -39,38 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Oito disputas pela Câmara dos Deputados passam a favorecer os democratas: “Sabato’s Crystal Ball”",
+      "title": "Oito disputas pela Câmara passam a favorecer os democratas: “Crystal Ball” de Sabato",
       "titleOriginal": "8 House races shift in Democrats' favor: Sabato's Crystal Ball",
       "link": "https://thehill.com/homenews/campaign/6094202-sabatos-crystal-ball-shifts-house/",
       "publishedAt": "2026-09-16T23:06:29.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma estrela do futebol americano universitário tinha uma falha secreta. Um quarterback em declínio marcou o tempo do sofá de casa.",
-      "titleOriginal": "A College Star Had a Secret Flaw. A Washed-Up Quarterback Clocked It From His Couch.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUG0xblMzVzVZVFVYN2hCWEdJRnVoQmh1RnIwYjZKTHNFNVRhQnM0aHVqSk00blBmemhLd0V6TU5TZDRodW0xY1B3dFdLcnJibU9rZ0tGSmZpQWtnbUtVMUFNbWNnaGpuem9xU3Zla0pzYThsaGY4TERNNmpiQjhNcw?oc=5",
-      "publishedAt": "2026-09-16T23:06:21.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Aqui está um guia para o sprint intermediário",
-      "titleOriginal": "Here’s a Guide to the Midterm Sprint",
-      "link": "https://www.nytimes.com/2026/09/16/us/politics/trump-midterms-senate-map.html",
-      "publishedAt": "2026-09-16T23:00:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Câmara aprova projeto de lei que visa transferir os custos de energia dos centros de dados para as empresas de tecnologia",
-      "titleOriginal": "House approves bill aimed at putting data center electricity costs on tech companies",
-      "link": "https://thehill.com/homenews/state-watch/6090232-house-passes-data-center-electricity-bill/",
-      "publishedAt": "2026-09-16T22:56:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "“Aviso de advertência” do DHS a crítico do ICE “provavelmente” violou a Primeira Emenda: juiz federal",
-      "titleOriginal": "DHS's 'warning notice' to ICE critic 'likely' violated First Amendment: Federal judge",
-      "link": "https://thehill.com/regulation/court-battles/6094062-dhs-warning-notice-ice-critic-block/",
-      "publishedAt": "2026-09-16T22:51:56.000Z"
     }
   ]
 }
