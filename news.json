@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-17T21:26:55.589Z",
+  "updatedAt": "2026-09-17T22:25:43.906Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "A proibição em Montana afetaria os gastos políticos e a Suprema Corte",
+      "titleOriginal": "Montana Ban Would Strike at Political Spending, and the Supreme Court",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+      "publishedAt": "2026-09-17T22:09:05.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Trump deve se reunir com o novo líder da Venezuela",
+      "titleOriginal": "Scoop: Trump expected to meet with Venezuela's new leader",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5GOUVhYjREbTJJUTFTNTdkMnlEUU1IVVUyeXlQblBid2VnZ2FMUkJCZkZiVm1tbXlHM1NvLXZrajhUX2Q1QjdBNUxrdUEyejkwVHdvX1lqaUVxd3Zndl9tWlY4OUlTLWtMMkp6YjZiVHJ5LUtaVFhWekFKS1dWZUNDZmNQNGp2TXNqMA?oc=5",
+      "publishedAt": "2026-09-17T21:45:37.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por dentro da briga acirrada nos bastidores entre os democratas da Câmara",
+      "titleOriginal": "Inside House Democrats' behind-the-scenes food fight",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0JpZHVFaHpmSGlmbENZRm9DUnVCYnhReGk1bEl3RTc0Y0VDU0h2ZjZTR1FuMU1wUkx0YVR4b2lSVnJhOHhUVnZrQTVoRC1TN1VJTmdSRDNzdU9XTHg4enk5NVFCaXllNGFNb3hpUnB4QmZSaTdfQjhDOHJiV004amM4S0JjS0QwZWc?oc=5",
+      "publishedAt": "2026-09-17T21:41:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump recebe luz verde para dar andamento à reforma do programa de combate à falta de moradia",
+      "titleOriginal": "Trump administration gets green light to proceed with homelessness program overhaul",
+      "link": "https://thehill.com/homenews/administration/6096671-appeals-court-approves-hud-changes/",
+      "publishedAt": "2026-09-17T21:29:21.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Os EUA permitirão que uma delegação “principal” do Irã participe da cúpula das Nações Unidas em Nova York",
@@ -18,21 +46,21 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "A AWS afirma que não consegue restaurar alguns dados das instalações no Oriente Médio atingidas pelo Irã",
-      "titleOriginal": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWNRTXk3NkNPa2RaTGhZNnM5QWlXOHJ1UnVWTThSQ2tfc2I5TXpLNFJ6dkdwbmhWcUlkeXN1ZFgtOVYxeV9IbERQZE1fVG9oTGhPM1g0bnNCSU1IQ0cyWjNSc2dzdXJSOW53endScnZ1VGF6TzdLdURrLTRzMzM5WF9wV0ZNaHNwQUxwcEhhYjIwOFkzSDBtb0dKRmNNYlJsWVl3aHlWeGpNeDdtMjQ2dThBMHJvdGhVTU90OA?oc=5",
-      "publishedAt": "2026-09-17T20:58:44.000Z"
+      "title": "Casa Branca retira indicação para o cargo de chefe do ICE",
+      "titleOriginal": "White House Withdraws Nominee to Lead ICE",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmVZc1hrRXctcjhiRVZfNXFicG1yMGFNNEo5SFNTVGdHQUk3MDFZVFN6Zy1lSEhCTi16Y3dHc1g3c3Z2ekRhMEhMZlFOMFAyaUEzU0prZ1EyMGZERXZiR1ItajlEc3ZFSGtGUmtDckNwVHBKdllGRjAxdXRndzFEUDEtXzdtSnhrZ1JxTHF5Yw?oc=5",
+      "publishedAt": "2026-09-17T21:14:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A frota secreta da Rússia navega no ponto cego da OTAN: águas irlandesas",
-      "titleOriginal": "Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjdTVkpuRHZUTThFcmtmUktKM3BMWVVicHFlMmVZdHNOV2xGUXUtRndIemlsSEFzMGYxM1o4S1NrcEdlVWRBVzRaTThmeDdraENqTXRFMFM5aG9SZ080QTNKVEw5ck92NmNjbG9uNzNxU3J0YWtRaktyUGRlM09WcXpJckZWLU9aMDhtOVBWUEN6RWpPYjNrMk5MOFdQVVNNeUozUmJBVkFKZw?oc=5",
-      "publishedAt": "2026-09-17T20:58:33.000Z"
+      "source": "AP News",
+      "title": "Ações dos EUA registram o melhor dia em seis semanas após recuo nos preços do petróleo e nos rendimentos dos títulos",
+      "titleOriginal": "US stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
+      "publishedAt": "2026-09-17T20:59:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump está “confiante” de que os republicanos aprovarão a próxima votação da lei agrícola",
+      "title": "Trump se diz “confiante” de que os republicanos aprovarão a próxima votação da lei agrícola",
       "titleOriginal": "Trump 'confident' Republicans will pass next farm bill vote",
       "link": "https://thehill.com/homenews/administration/6096659-trump-optimistic-republican-farm-bill-passage/",
       "publishedAt": "2026-09-17T20:50:40.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "UNC defensive coordinator Steve Belichick resigns, probe into conduct in football program concludes",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA?oc=5",
       "publishedAt": "2026-09-17T20:49:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Nós já tínhamos avisado”: importante legislador de Nova York pede mais regulamentações sobre IA",
-      "titleOriginal": "‘We told you so’: Key New York lawmaker calls for more AI rules",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/17/we-told-you-so-key-new-york-lawmaker-calls-for-more-ai-rules-01082868",
-      "publishedAt": "2026-09-17T20:33:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Resíduos tóxicos da fraturação hidráulica estão se tornando uma questão política em Ohio",
-      "titleOriginal": "Toxic Fracking Waste Becoming a Political Issue in Ohio",
-      "link": "https://www.nytimes.com/2026/09/17/climate/ohio-fracking-wastewater-acton-moratorium.html",
-      "publishedAt": "2026-09-17T20:28:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rogers pede a suspensão dos impostos federais e estaduais sobre a gasolina no Michigan",
-      "titleOriginal": "Rogers calls for suspension of federal, Michigan gas taxes",
-      "link": "https://thehill.com/homenews/campaign/6096459-mike-rogers-gas-tax-suspension/",
-      "publishedAt": "2026-09-17T20:03:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cornyn não votará em Bo French na disputa eleitoral no Texas",
-      "titleOriginal": "Cornyn won’t vote for Bo French in Texas race",
-      "link": "https://thehill.com/homenews/campaign/6096554-john-cornyn-bo-french-texas-railroad-commissioner/",
-      "publishedAt": "2026-09-17T20:02:40.000Z"
     }
   ]
 }
