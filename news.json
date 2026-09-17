@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-17T19:16:12.439Z",
+  "updatedAt": "2026-09-17T21:26:55.589Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Trump afirma que os EUA estão fazendo “grandes avanços” na abertura de uma base do Exército na Polônia",
-      "titleOriginal": "Trump says US making ‘major progress’ in opening Army base in Poland",
-      "link": "https://thehill.com/policy/defense/6096315-trump-army-base-poland-progress/",
-      "publishedAt": "2026-09-17T19:12:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zara Larsson critica a Casa Branca por causa do vídeo do ICE sobre “Midnight Sun”: “Vocês são uns perdedores de merda”",
-      "titleOriginal": "Zara Larsson bashes White House over ‘Midnight Sun’ ICE video: ‘You guys are such f---ing losers’",
-      "link": "https://thehill.com/blogs/in-the-know/6096395-zara-larsson-slams-white-house/",
-      "publishedAt": "2026-09-17T19:12:34.000Z"
+      "title": "Os EUA permitirão que uma delegação “principal” do Irã participe da cúpula das Nações Unidas em Nova York",
+      "titleOriginal": "US will allow 'core' Iranian delegation join United Nations summit in New York",
+      "link": "https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation/",
+      "publishedAt": "2026-09-17T21:26:24.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Deputado republicano rompe com Trump em anúncio: hispânicos “se sentem traídos”",
-      "titleOriginal": "G.O.P. Representative Breaks With Trump in Ad: Hispanics ‘Feel Betrayed’",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html",
-      "publishedAt": "2026-09-17T19:07:55.000Z"
+      "title": "RFK Jr. garante aos céticos em relação à vacina que eles têm um “amigo na Casa Branca”",
+      "titleOriginal": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
+      "link": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
+      "publishedAt": "2026-09-17T21:19:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A AWS afirma que não consegue restaurar alguns dados das instalações no Oriente Médio atingidas pelo Irã",
+      "titleOriginal": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWNRTXk3NkNPa2RaTGhZNnM5QWlXOHJ1UnVWTThSQ2tfc2I5TXpLNFJ6dkdwbmhWcUlkeXN1ZFgtOVYxeV9IbERQZE1fVG9oTGhPM1g0bnNCSU1IQ0cyWjNSc2dzdXJSOW53endScnZ1VGF6TzdLdURrLTRzMzM5WF9wV0ZNaHNwQUxwcEhhYjIwOFkzSDBtb0dKRmNNYlJsWVl3aHlWeGpNeDdtMjQ2dThBMHJvdGhVTU90OA?oc=5",
+      "publishedAt": "2026-09-17T20:58:44.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A frota secreta da Rússia navega no ponto cego da OTAN: águas irlandesas",
+      "titleOriginal": "Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjdTVkpuRHZUTThFcmtmUktKM3BMWVVicHFlMmVZdHNOV2xGUXUtRndIemlsSEFzMGYxM1o4S1NrcEdlVWRBVzRaTThmeDdraENqTXRFMFM5aG9SZ080QTNKVEw5ck92NmNjbG9uNzNxU3J0YWtRaktyUGRlM09WcXpJckZWLU9aMDhtOVBWUEN6RWpPYjNrMk5MOFdQVVNNeUozUmJBVkFKZw?oc=5",
+      "publishedAt": "2026-09-17T20:58:33.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Mike Pence afirma que “não tem planos” de concorrer à presidência ou a outros cargos em 2028",
-      "titleOriginal": "Mike Pence says he has 'no plans' to run for president, other offices in 2028",
-      "link": "https://thehill.com/homenews/campaign/6096281-mike-pence-says-he-has-no-plans-to-run-for-president-other-offices-in-2028/",
-      "publishedAt": "2026-09-17T18:45:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Após meses de vagas, Kennedy renova o painel de serviços preventivos com novos membros",
-      "titleOriginal": "After months of vacancies, Kennedy revamps preventive services panel with new members",
-      "link": "https://thehill.com/policy/healthcare/6096170-kennedy-overhauls-preventive-care-panel/",
-      "publishedAt": "2026-09-17T18:40:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz determina que o governo deve dar um prazo de 30 dias antes de demolir o Kennedy Center",
-      "titleOriginal": "Judge says government must give 30 days' notice before demolishing Kennedy Center",
-      "link": "https://thehill.com/regulation/court-battles/6096246-kennedy-center-emergency-hearing-demolition-trump-beatty/",
-      "publishedAt": "2026-09-17T18:29:08.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Missão da ONU encontra motivos razoáveis para acreditar que os EUA cometeram crimes de guerra no Irã",
-      "titleOriginal": "UN mission finds reasonable grounds to believe U.S. committed war crimes in Iran",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wOFVNNUxrNXhjVmFqZnZXQmM0Y3l4d3pYU3BwWUxER2hRblM5NlhVTTh5cEtUazJ2eW1GMU9KQ0Z4d1VQbWV4ZGRpRFFPUEc3T1JnRkFPVGNla2s2UlJhblpxN0p0bV9hWk5lQVZ2NTBIdTg?oc=5",
-      "publishedAt": "2026-09-17T18:18:56.000Z"
+      "title": "Trump está “confiante” de que os republicanos aprovarão a próxima votação da lei agrícola",
+      "titleOriginal": "Trump 'confident' Republicans will pass next farm bill vote",
+      "link": "https://thehill.com/homenews/administration/6096659-trump-optimistic-republican-farm-bill-passage/",
+      "publishedAt": "2026-09-17T20:50:40.000Z"
     },
     {
       "source": "AP News",
-      "title": "Ações dos EUA sobem após queda nos preços do petróleo e diminuição da pressão do mercado de títulos",
-      "titleOriginal": "US stocks rise after oil prices fall and pressure from the bond market eases",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
-      "publishedAt": "2026-09-17T18:18:00.000Z"
+      "title": "O coordenador defensivo da UNC, Steve Belichick, renuncia; investigação sobre a conduta no programa de futebol americano é encerrada",
+      "titleOriginal": "UNC defensive coordinator Steve Belichick resigns, probe into conduct in football program concludes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA?oc=5",
+      "publishedAt": "2026-09-17T20:49:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Nós já tínhamos avisado”: importante legislador de Nova York pede mais regulamentações sobre IA",
+      "titleOriginal": "‘We told you so’: Key New York lawmaker calls for more AI rules",
+      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/17/we-told-you-so-key-new-york-lawmaker-calls-for-more-ai-rules-01082868",
+      "publishedAt": "2026-09-17T20:33:54.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Rússia e China vetam proposta dos EUA de renovar o monitoramento da ONU sobre o programa nuclear do Irã",
-      "titleOriginal": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
-      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
-      "publishedAt": "2026-09-17T18:13:12.000Z"
+      "title": "Resíduos tóxicos da fraturação hidráulica estão se tornando uma questão política em Ohio",
+      "titleOriginal": "Toxic Fracking Waste Becoming a Political Issue in Ohio",
+      "link": "https://www.nytimes.com/2026/09/17/climate/ohio-fracking-wastewater-acton-moratorium.html",
+      "publishedAt": "2026-09-17T20:28:34.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump afirma que tem uma “grande decisão pela frente” em relação ao Irã",
-      "titleOriginal": "Trump says he has a ‘big decision coming up’ on Iran",
-      "link": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
-      "publishedAt": "2026-09-17T18:11:31.000Z"
+      "title": "Rogers pede a suspensão dos impostos federais e estaduais sobre a gasolina no Michigan",
+      "titleOriginal": "Rogers calls for suspension of federal, Michigan gas taxes",
+      "link": "https://thehill.com/homenews/campaign/6096459-mike-rogers-gas-tax-suspension/",
+      "publishedAt": "2026-09-17T20:03:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cornyn não votará em Bo French na disputa eleitoral no Texas",
+      "titleOriginal": "Cornyn won’t vote for Bo French in Texas race",
+      "link": "https://thehill.com/homenews/campaign/6096554-john-cornyn-bo-french-texas-railroad-commissioner/",
+      "publishedAt": "2026-09-17T20:02:40.000Z"
     }
   ]
 }
