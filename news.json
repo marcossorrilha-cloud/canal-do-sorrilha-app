@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-17T10:25:46.455Z",
+  "updatedAt": "2026-09-17T13:28:42.167Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "El-Sayed lidera por uma pequena margem sobre Rogers na disputa pelo Senado em Michigan: pesquisa",
-      "titleOriginal": "El-Sayed narrowly leads Rogers in Michigan Senate race: Poll",
-      "link": "https://thehill.com/homenews/campaign/6093219-el-sayed-rogers-michigan-senate-poll/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
+      "title": "Rove afirma que votará contra Bo French na disputa eleitoral no Texas",
+      "titleOriginal": "Rove says he'll vote against Bo French in Texas race",
+      "link": "https://thehill.com/homenews/campaign/6094853-karl-rove-backs-texas-democrat/",
+      "publishedAt": "2026-09-17T13:10:04.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Ocasio-Cortez vê crescer a confiança em suas chances de chegar à Casa Branca",
-      "titleOriginal": "Ocasio-Cortez sees confidence in her White House chances grow",
-      "link": "https://thehill.com/homenews/state-watch/6093571-aoc-potential-2028-presidential-run/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
+      "title": "Greene: “O preço da gasolina a US$ 6,20 é culpa do Trump”",
+      "titleOriginal": "Greene: $6.20 gas 'is Trump's fault'",
+      "link": "https://thehill.com/policy/energy-environment/6094781-greene-blames-trump-gas-prices/",
+      "publishedAt": "2026-09-17T13:01:05.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Como dissidentes russos estão pressionando por medidas contra Putin em Washington, D.C.",
-      "titleOriginal": "How Russian dissidents are pressing for action on Putin in DC",
-      "link": "https://thehill.com/policy/international/6091872-muratov-washington-speech/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A guerra no Irã coloca em dúvida a futura presença militar dos EUA no Oriente Médio",
-      "titleOriginal": "Iran war puts future US military presence in Middle East in question",
-      "link": "https://thehill.com/homenews/6094213-us-military-middle-east-withdrawal/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O resumo: A defesa da IA por parte de Trump cai no vazio, até mesmo entre alguns membros do Partido Republicano",
-      "titleOriginal": "The Memo: Trump’s AI advocacy lands with a thud, even among some in GOP",
-      "link": "https://thehill.com/homenews/analysis/6094080-trump-republicans-artificial-intelligence-data-centers-regulation/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Talarico está empatado com Paxton em nova pesquisa para o Senado do Texas",
-      "titleOriginal": "Talarico neck and neck with Paxton in new Texas Senate poll",
-      "link": "https://thehill.com/homenews/state-watch/6093606-talarico-paxton-deadlock-texas-senate-poll/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Alexander Ovechkin enfrenta reações negativas por causa de anúncio de campanha de Putin",
-      "titleOriginal": "Alexander Ovechkin faces backlash over Putin campaign ad",
-      "link": "https://thehill.com/policy/sports-gaming/6093716-ovechkin-puckers-up-putin/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores do Partido Republicano insatisfeitos com a falta de avanços na guerra contra o Irã",
-      "titleOriginal": "GOP lawmakers unhappy with lack of progress on Iran war",
-      "link": "https://thehill.com/homenews/senate/6093985-senate-republicans-criticize-iran-war/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "JD Vance enfrenta um desafio em reunião na Casa Branca com apresentador de rádio que apoia Israel",
-      "titleOriginal": "JD Vance faces test in White House meeting with Israel-backing radio host",
-      "link": "https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577",
-      "publishedAt": "2026-09-17T09:50:00.000Z"
+      "title": "O Congresso precisa parar de ignorar o problema e, de uma vez por todas, resolver a questão do orçamento",
+      "titleOriginal": "Congress must get its head out of the sand and finally fix the budget",
+      "link": "https://thehill.com/opinion/finance/6093161-us-national-debt-crisis/",
+      "publishedAt": "2026-09-17T13:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Projeto de lei histórico sobre criptomoedas é rejeitado em votação decisiva, colocando em dúvida as novas regras e afetando as ações",
-      "titleOriginal": "Landmark Crypto Bill Fails in Key Vote, Casting Doubt on New Rules and Hitting Stocks",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRydi0tYWR6SnllLW9ob05faVB2bk5vMXhNT3lYMU9STTZOeV9RMEt2TzNkVXlRbk1MN3l5SVdsdHJSQld6cmhaTHBiNGJoUjhOVGZ1bWdUTHNwWXVTWEx5T3hmVFR2dkxuVlRoMnpOd3c3c196QklRSkc2XzdhT1VpZzBYajgzNUNzckpkNGFpT0IwUWFtU0Q1T3BVMjZ2MC1PSm54TEFHUHMtc0pyajkyMVlwcnA1YWZ4bmsxaVRBY0xwNllv?oc=5",
-      "publishedAt": "2026-09-17T09:24:50.000Z"
+      "title": "A China pode evitar uma crise financeira. Mas não pode evitar os custos.",
+      "titleOriginal": "China Can Avoid a Financial Crisis. It Can’t Avoid the Cost.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1FhVl95SHVVOVZsVWJmVEZiN0hoQlUtc3JLdVg4MEdDb0FHaEwzNjJCUnh6N2tna3lMUHJKR0dOaXFUd1ljM1Q5NzZFVjRfYTNOdTBLQUdCWWxkV3dNMEFEQmNGR25hMkM5LXk5ZmZzVGFzb090a0RFRUFjNkkxMG8zTUhXOXhZRlBqZzlFNTM2bzJ1SlltQ0MtMA?oc=5",
+      "publishedAt": "2026-09-17T12:26:51.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Quem vai vencer as eleições de meio de mandato? Os republicanos estão em crise.",
+      "titleOriginal": "Who Will Win the Midterms? Republicans Are Reeling.",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html",
+      "publishedAt": "2026-09-17T12:23:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Especialistas apoiados pela ONU apontam possíveis crimes de guerra dos EUA nos ataques ao Irã",
+      "titleOriginal": "UN-backed experts cite possible US war crimes in Iran strikes",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
+      "publishedAt": "2026-09-17T12:12:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na disputa eleitoral: Paxton e Talarico se enfrentam pelo “DNA político” do Texas — o cristianismo",
+      "titleOriginal": "On the Ballot: Paxton, Talarico duel over Texas's 'political DNA' — Christianity",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6093304-on-the-ballot-paxton-talarico-texas-senate-christianity/",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Carney apoia a proposta de adesão como membro associado da UE, enquanto Trump aproxima o Canadá da Europa",
+      "titleOriginal": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
+      "publishedAt": "2026-09-17T11:55:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A emissora nacional da Irlanda boicotará o Festival Eurovisão da Canção de 2027 devido à participação de Israel",
+      "titleOriginal": "Ireland’s national broadcaster will boycott 2027 Eurovision Song Contest over Israel’s participation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNENlZm9XNkczVVluUTZSQWNsYnpYUmNlOVFySW12eGtJNWszM0doNzIxZENWMHFoN3M5TVViclZPRnpnWmJGdVBuUlFkYVl0aVQwUTZ4RU45ZEVpZGdlbldOYVB4VlpQNUxuaFU5WHN2eFJHenNqR0FvdmhDeDhMbFB2N2ZFM0ROc0FGdjhLNGx6MEZ3UEtfWnoyWDAxVzlVb1BV?oc=5",
+      "publishedAt": "2026-09-17T11:42:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Irã enfrenta dificuldades para transferir o comércio do mar para o terra",
+      "titleOriginal": "Iran Struggles to Shift Trade to Land From Sea",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0Ftb3gzRVpjMW9CQk5IaEZBcHlzaU5ybG1LbTRvNjFxcWlKNDFlZ1RBa2xwRkMxejlhUllMTnNqN19NWVZQdllSa0dUX0t6WGtoWkVOSlZ1SjdsSW9Ma2xGSjhhRnFYZEdHdkE0M2lIejFIWGpSc3VuMWdNelFxcXE3VjdEd2Ftc1ctVDRFTW9mYU9qbTR3?oc=5",
+      "publishedAt": "2026-09-17T11:06:00.000Z"
     }
   ]
 }
