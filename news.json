@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-18T15:01:30.733Z",
+  "updatedAt": "2026-09-18T16:43:28.064Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Trump considera os temores em relação à IA uma farsa. Dentro da Casa Branca, o debate é mais complexo.",
+      "titleOriginal": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "publishedAt": "2026-09-18T16:36:47.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Senador republicano sobre a campanha em disputas “acirradas” em estados republicanos: “Isso deveria ser moleza”",
-      "titleOriginal": "Senate Republican on campaigning in 'close' red state races: 'These oughta be fat guy layups'",
-      "link": "https://thehill.com/homenews/campaign/6097894-sen-kennedy-campaigns-red-states/",
-      "publishedAt": "2026-09-18T14:49:52.000Z"
+      "title": "Onde a ordem de Trump sobre caça e pesca terá maior impacto",
+      "titleOriginal": "Where Trump's hunting, fishing order will have the most impact",
+      "link": "https://thehill.com/homenews/administration/6098165-trump-burgum-hunting-fishing/",
+      "publishedAt": "2026-09-18T16:34:32.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A Regra da Carga Pública: Como a política de Trump em relação ao Green Card pode afetar as famílias de imigrantes",
-      "titleOriginal": "The Public Charge Rule: How Trump’s Green Card Policy Could Affect Immigrant Families",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-green-card-benefits-immigrants.html",
-      "publishedAt": "2026-09-18T14:45:27.000Z"
+      "title": "Como Trump se tornou um defensor da IA",
+      "titleOriginal": "How Trump Became an A.I. Evangelist",
+      "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
+      "publishedAt": "2026-09-18T16:34:21.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Ex-membros do conselho do Instituto da Paz pedem ao tribunal que impeça a inclusão do nome de Trump na sede",
-      "titleOriginal": "Former Institute of Peace board members ask court to stop addition of Trump name to headquarters",
-      "link": "https://thehill.com/regulation/court-battles/6097846-former-usip-board-trump-name/",
-      "publishedAt": "2026-09-18T14:35:12.000Z"
+      "title": "Decisão da Suprema Corte sobre a campanha eleitoral coloca os membros do círculo interno e os líderes partidários acima das pessoas comuns",
+      "titleOriginal": "Supreme Court campaign ruling puts insiders and party bosses over everyday people",
+      "link": "https://thehill.com/opinion/campaign/6096981-nc-election-big-money-influence/",
+      "publishedAt": "2026-09-18T16:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Ocasio-Cortez faz doações aos democratas de Nova York e fará uma turnê pelo estado antes das eleições de meio de mandato",
+      "titleOriginal": "Ocasio-Cortez Donates to N.Y. Democrats, Will Barnstorm State Ahead of Midterms",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/alexandria-ocasio-cortez-donation-midterms.html",
+      "publishedAt": "2026-09-18T16:14:24.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Juiz anula política de subsídios contrária à DEI no Ministério da Educação",
-      "titleOriginal": "Judge strikes down anti-DEI grant policy at Education Department",
-      "link": "https://thehill.com/homenews/education/6097709-judge-anti-dei-education-teacher-grants/",
-      "publishedAt": "2026-09-18T14:08:30.000Z"
+      "title": "25 anos depois, o presidente Trump desconsiderou as lições do 11 de setembro",
+      "titleOriginal": "25 years later, President Trump has discarded the lessons of 9/11",
+      "link": "https://thehill.com/opinion/national-security/6097273-trump-weakening-homeland-security/",
+      "publishedAt": "2026-09-18T16:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump faz referência a um homem negro que apareceu em um anúncio de campanha de 1988 com conteúdo racista durante comício na Carolina do Norte",
+      "titleOriginal": "Trump refers to Black man from racially offensive 1988 campaign ad while stumping in North Carolina",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkJDZFVyT2pQamsydTlRb3RlcU5jZllJNDhadzVidjNpNmNxWktyU0ZmNFdjc0NiS2U2OVp2Q092ajFXalpuS1hUZjMwOFBpVk1vVU9Eckx0SUtZaXVySHItczRlWkh4SVR0S2RZZEJIRzg4cVNzaVhSSnJhYmd2ZnBGeFdORmlaaUxIOEJXQmlYZk90X0ExUXJVSUlxaGNpY3ZZ?oc=5",
+      "publishedAt": "2026-09-18T15:57:00.000Z"
     },
     {
       "source": "AP News",
       "title": "Começa a votação antecipada nas eleições intermediárias dos EUA, que podem mudar o controle do Congresso",
       "titleOriginal": "Early voting begins in US midterm elections that could flip control of Congress",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
-      "publishedAt": "2026-09-18T14:02:00.000Z"
+      "publishedAt": "2026-09-18T15:41:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump pode ter dado um novo fôlego à Organização Mundial do Comércio",
-      "titleOriginal": "Trump may have breathed new life into the World Trade Organization",
-      "link": "https://thehill.com/opinion/international/6096081-aggregating-bilateral-trade-agreements/",
-      "publishedAt": "2026-09-18T13:30:00.000Z"
+      "title": "Mais de 100 membros do Partido Democrata pedem aos líderes do partido que rejeitem o financiamento da IA",
+      "titleOriginal": "More than 100 Democratic operatives urge party leaders to reject AI cash",
+      "link": "https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-pac-letter/",
+      "publishedAt": "2026-09-18T15:40:46.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Por que vou votar em um democrata do Texas",
-      "titleOriginal": "Opinion | Why I’m Voting for a Texas Democrat",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SMzljQ0MybGFEcFdVc2xqV0RRSWE2V2ZUbXkyTzh1dkJzX2l0M3JXcTdwOWdwQ2xFZGViRXlxUERsWnpFd21EM0VkMjFIOXZqSUZ4OFZ3Ty1tZmZPM3I0dndaZ1pSNmE5dFhOOXVZQnltS05fVElqTFlVOA?oc=5",
-      "publishedAt": "2026-09-18T13:27:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cruz, sobre Trump ter o chamado de “Ted, o Mentiroso”: “O homem tem um gênio instintivo”",
-      "titleOriginal": "Cruz on Trump labeling him 'Lyin' Ted': 'The man has an instinctual genius'",
-      "link": "https://thehill.com/homenews/senate/6097564-ted-cruz-praises-trump-nickname/",
-      "publishedAt": "2026-09-18T13:25:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uber é condenada a pagar US$ 40 milhões em ação judicial por homicídio culposo",
-      "titleOriginal": "Uber Ordered to Pay $40 Million in Wrongful Death Lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm9zY05qRlhGd0hoSmY0SEtYODVUX1NvdU43X0RRUUkzbkMxcnVMcUNUQ0VSaDRaeXVmVndiYU14bFE0QlppRnlJeS1QZndtcTZUMngzcUd6WHdBeDVGQkNnOWt1dzZuakZoX29odktqc2NMeE05aTI4OTRidUhWWkl6a3FWQkNxbnVqZ2xtYUJTaVdoUWpuZ1F3?oc=5",
-      "publishedAt": "2026-09-18T13:06:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ingraham: Alguns republicanos ficariam “aliviados” se perdessem a maioria no Congresso",
-      "titleOriginal": "Ingraham: Some Republicans would be 'relieved' to lose congressional majority",
-      "link": "https://thehill.com/homenews/campaign/6097489-laura-ingraham-trump-republicans-majority-midterms/",
-      "publishedAt": "2026-09-18T13:05:45.000Z"
+      "source": "AP News",
+      "title": "Ataque a bomba em mesquita próxima a delegacias no Paquistão mata pelo menos 21 pessoas",
+      "titleOriginal": "Bombing at mosque near police offices in Pakistan kills at least 21",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOME0xV1p0MnlVdnRCTk9SMVNJV3ZuMnFPeW15UFR5Z2NfZVZFMGxTX1paMGdwZDJXZUJ0REFYcnJBS1ROZXZkRnQzek9jdnJZN1lCdjhwUmxRU1NtNEt2amxYbG9fakNPODB3dVY3UjBfYzV6MVhJZkdXOWVza3JsNUUtR2NFZWdXNWJ5ZmFDUG1qNFI4WEFqRnhjN0FUUXg3bEIzbQ?oc=5",
+      "publishedAt": "2026-09-18T15:29:00.000Z"
     }
   ]
 }
