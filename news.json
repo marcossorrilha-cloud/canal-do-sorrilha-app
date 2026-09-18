@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-17T22:25:43.906Z",
+  "updatedAt": "2026-09-18T00:20:35.835Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "A Letônia proíbe a entrada no país de Ovechkin, da NHL, e do benfeitor do casamento de Trump Jr.",
+      "titleOriginal": "Latvia bars NHL's Ovechkin, Trump Jr. wedding benefactor from entering country",
+      "link": "https://thehill.com/policy/international/6097023-latvia-bans-alex-ovechkin-putin-ad/",
+      "publishedAt": "2026-09-18T00:01:35.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "A proibição em Montana afetaria os gastos políticos e a Suprema Corte",
-      "titleOriginal": "Montana Ban Would Strike at Political Spending, and the Supreme Court",
+      "title": "A atividade política de Blanche viola uma norma ética que remonta ao caso Watergate",
+      "titleOriginal": "Blanche’s Political Activity Breaks an Ethical Norm Going Back to Watergate",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+      "publishedAt": "2026-09-17T23:51:18.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Procurador-Geral da Virgínia: O Departamento de Segurança Interna (DHS) provavelmente infringiu a lei estadual na investigação sobre fraude eleitoral",
+      "titleOriginal": "Virginia Attorney General: D.H.S. Likely Broke State Law in Voter Fraud Investigation",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/virginia-attorney-general-voter-fraud.html",
+      "publishedAt": "2026-09-17T23:50:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A disputa pelo governo do Alasca passa a ser considerada um empate técnico: Cook Political Report",
+      "titleOriginal": "Alaska governor's race shifts to toss-up: Cook Political Report",
+      "link": "https://thehill.com/homenews/campaign/6096933-alaska-gov-race-cook-tossup/",
+      "publishedAt": "2026-09-17T23:27:31.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Dezenas de milhares de pessoas fogem enquanto rebeldes apoiados pelo Irã arrastam o Iêmen para uma guerra mais ampla",
+      "titleOriginal": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEJrazQ1WlJrelROX1NZTzZ5dTRvX0g5QXpRWEdZbWxwR1NLRnFQajctT2tDa3FibzhVTmE0LXJWRHVGZVhSM1Zna2VoR1FNdElZN2lyN0JVb09LcWJFSFpGNXE1ajg0QmtYaVF3MlNYQktseW5rX3FCN3VqdmdsbGplOE1XbXE3V3RocVJ5dW56T0VZY0xKUEQtSQ?oc=5",
+      "publishedAt": "2026-09-17T23:21:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "RFK Jr. afirma que grupo antivacina tem um “amigo na Casa Branca”",
+      "titleOriginal": "RFK Jr. says anti-vaccine group has a 'friend at the White House'",
+      "link": "https://thehill.com/policy/healthcare/6096884-kennedy-trump-administration-anti-vaccination/",
+      "publishedAt": "2026-09-17T22:26:48.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Proposta de lei em Montana visaria combater o “dinheiro oculto” na política",
+      "titleOriginal": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
       "link": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
       "publishedAt": "2026-09-17T22:09:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas do Senado, com exceção de Fetterman, instam Hegseth a apresentar comprovante dos custos da guerra contra o Irã",
+      "titleOriginal": "Senate Democrats, minus Fetterman, urge Hegseth to provide receipt for Iran war costs",
+      "link": "https://thehill.com/homenews/senate/6096879-senate-democrats-demand-iran-war-costs/",
+      "publishedAt": "2026-09-17T22:03:59.000Z"
     },
     {
       "source": "Axios",
       "title": "Exclusivo: Trump deve se reunir com o novo líder da Venezuela",
       "titleOriginal": "Scoop: Trump expected to meet with Venezuela's new leader",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5GOUVhYjREbTJJUTFTNTdkMnlEUU1IVVUyeXlQblBid2VnZ2FMUkJCZkZiVm1tbXlHM1NvLXZrajhUX2Q1QjdBNUxrdUEyejkwVHdvX1lqaUVxd3Zndl9tWlY4OUlTLWtMMkp6YjZiVHJ5LUtaVFhWekFKS1dWZUNDZmNQNGp2TXNqMA?oc=5",
-      "publishedAt": "2026-09-17T21:45:37.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por dentro da briga acirrada nos bastidores entre os democratas da Câmara",
-      "titleOriginal": "Inside House Democrats' behind-the-scenes food fight",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0JpZHVFaHpmSGlmbENZRm9DUnVCYnhReGk1bEl3RTc0Y0VDU0h2ZjZTR1FuMU1wUkx0YVR4b2lSVnJhOHhUVnZrQTVoRC1TN1VJTmdSRDNzdU9XTHg4enk5NVFCaXllNGFNb3hpUnB4QmZSaTdfQjhDOHJiV004amM4S0JjS0QwZWc?oc=5",
-      "publishedAt": "2026-09-17T21:41:48.000Z"
+      "publishedAt": "2026-09-17T21:56:15.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O governo Trump recebe luz verde para dar andamento à reforma do programa de combate à falta de moradia",
+      "title": "O governo Trump recebe luz verde para dar continuidade à reforma do programa de combate à falta de moradia",
       "titleOriginal": "Trump administration gets green light to proceed with homelessness program overhaul",
       "link": "https://thehill.com/homenews/administration/6096671-appeals-court-approves-hud-changes/",
       "publishedAt": "2026-09-17T21:29:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os EUA permitirão que uma delegação “principal” do Irã participe da cúpula das Nações Unidas em Nova York",
-      "titleOriginal": "US will allow 'core' Iranian delegation join United Nations summit in New York",
-      "link": "https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation/",
-      "publishedAt": "2026-09-17T21:26:24.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "RFK Jr. garante aos céticos em relação à vacina que eles têm um “amigo na Casa Branca”",
-      "titleOriginal": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
-      "link": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
-      "publishedAt": "2026-09-17T21:19:58.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Casa Branca retira indicação para o cargo de chefe do ICE",
-      "titleOriginal": "White House Withdraws Nominee to Lead ICE",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmVZc1hrRXctcjhiRVZfNXFicG1yMGFNNEo5SFNTVGdHQUk3MDFZVFN6Zy1lSEhCTi16Y3dHc1g3c3Z2ekRhMEhMZlFOMFAyaUEzU0prZ1EyMGZERXZiR1ItajlEc3ZFSGtGUmtDckNwVHBKdllGRjAxdXRndzFEUDEtXzdtSnhrZ1JxTHF5Yw?oc=5",
-      "publishedAt": "2026-09-17T21:14:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ações dos EUA registram o melhor dia em seis semanas após recuo nos preços do petróleo e nos rendimentos dos títulos",
-      "titleOriginal": "US stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
-      "publishedAt": "2026-09-17T20:59:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump se diz “confiante” de que os republicanos aprovarão a próxima votação da lei agrícola",
-      "titleOriginal": "Trump 'confident' Republicans will pass next farm bill vote",
-      "link": "https://thehill.com/homenews/administration/6096659-trump-optimistic-republican-farm-bill-passage/",
-      "publishedAt": "2026-09-17T20:50:40.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O coordenador defensivo da UNC, Steve Belichick, renuncia; investigação sobre a conduta no programa de futebol americano é encerrada",
-      "titleOriginal": "UNC defensive coordinator Steve Belichick resigns, probe into conduct in football program concludes",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA?oc=5",
-      "publishedAt": "2026-09-17T20:49:00.000Z"
     }
   ]
 }
