@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-18T16:43:28.064Z",
+  "updatedAt": "2026-09-18T18:29:53.018Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Vance encerra a manifestação em Iowa com uma repreensão de sete minutos a Rob Sand",
+      "titleOriginal": "Vance ends Iowa rally with seven-minute censure of Rob Sand",
+      "link": "https://thehill.com/homenews/campaign/6098499-vance-calls-sand-partisan-democrat/",
+      "publishedAt": "2026-09-18T18:27:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Um hotel da África Central se tornou uma prisão de pesadelo para pessoas deportadas dos EUA",
+      "titleOriginal": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "publishedAt": "2026-09-18T18:24:10.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Rússia dá início a três dias de votação nas eleições parlamentares, que devem consolidar o poder do Kremlin",
+      "titleOriginal": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5",
+      "publishedAt": "2026-09-18T18:13:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump considera os temores em relação à IA uma farsa. Dentro da Casa Branca, o debate é mais complexo.",
       "titleOriginal": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
       "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
-      "publishedAt": "2026-09-18T16:36:47.000Z"
+      "publishedAt": "2026-09-18T18:09:23.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Onde a ordem de Trump sobre caça e pesca terá maior impacto",
-      "titleOriginal": "Where Trump's hunting, fishing order will have the most impact",
-      "link": "https://thehill.com/homenews/administration/6098165-trump-burgum-hunting-fishing/",
-      "publishedAt": "2026-09-18T16:34:32.000Z"
+      "title": "Assista ao vivo: Trump anunciará plano para a fixação de preços de medicamentos no Medicaid",
+      "titleOriginal": "Watch live: Trump to announce Medicaid drug pricing plan",
+      "link": "https://thehill.com/video-clips/6098409-watch-live-donald-trump-white-house-announcement-medicaid-drug-pricing-most-favored-nation/",
+      "publishedAt": "2026-09-18T18:05:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A abertura de capital da SpaceX deu a esse casal a liberdade para perseguir seus sonhos",
+      "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
+      "publishedAt": "2026-09-18T17:57:49.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como Trump se tornou um defensor da IA",
-      "titleOriginal": "How Trump Became an A.I. Evangelist",
-      "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
-      "publishedAt": "2026-09-18T16:34:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Decisão da Suprema Corte sobre a campanha eleitoral coloca os membros do círculo interno e os líderes partidários acima das pessoas comuns",
-      "titleOriginal": "Supreme Court campaign ruling puts insiders and party bosses over everyday people",
-      "link": "https://thehill.com/opinion/campaign/6096981-nc-election-big-money-influence/",
-      "publishedAt": "2026-09-18T16:30:00.000Z"
+      "title": "A campanha política de Blanche viola uma norma ética que remonta ao caso Watergate",
+      "titleOriginal": "Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate",
+      "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+      "publishedAt": "2026-09-18T17:57:30.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Ocasio-Cortez faz doações aos democratas de Nova York e fará uma turnê pelo estado antes das eleições de meio de mandato",
-      "titleOriginal": "Ocasio-Cortez Donates to N.Y. Democrats, Will Barnstorm State Ahead of Midterms",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/alexandria-ocasio-cortez-donation-midterms.html",
-      "publishedAt": "2026-09-18T16:14:24.000Z"
+      "title": "James Talarico, que busca votos da comunidade negra na disputa pelo Senado do Texas, conquista apoio decisivo",
+      "titleOriginal": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+      "publishedAt": "2026-09-18T17:18:59.000Z"
     },
     {
       "source": "The Hill",
-      "title": "25 anos depois, o presidente Trump desconsiderou as lições do 11 de setembro",
-      "titleOriginal": "25 years later, President Trump has discarded the lessons of 9/11",
-      "link": "https://thehill.com/opinion/national-security/6097273-trump-weakening-homeland-security/",
-      "publishedAt": "2026-09-18T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump faz referência a um homem negro que apareceu em um anúncio de campanha de 1988 com conteúdo racista durante comício na Carolina do Norte",
-      "titleOriginal": "Trump refers to Black man from racially offensive 1988 campaign ad while stumping in North Carolina",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkJDZFVyT2pQamsydTlRb3RlcU5jZllJNDhadzVidjNpNmNxWktyU0ZmNFdjc0NiS2U2OVp2Q092ajFXalpuS1hUZjMwOFBpVk1vVU9Eckx0SUtZaXVySHItczRlWkh4SVR0S2RZZEJIRzg4cVNzaVhSSnJhYmd2ZnBGeFdORmlaaUxIOEJXQmlYZk90X0ExUXJVSUlxaGNpY3ZZ?oc=5",
-      "publishedAt": "2026-09-18T15:57:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Começa a votação antecipada nas eleições intermediárias dos EUA, que podem mudar o controle do Congresso",
-      "titleOriginal": "Early voting begins in US midterm elections that could flip control of Congress",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
-      "publishedAt": "2026-09-18T15:41:00.000Z"
+      "title": "O Congresso pode se unir para homenagear a família Adams",
+      "titleOriginal": "Congress can come together to honor the Adams family",
+      "link": "https://thehill.com/opinion/congress-blog/6097288-adams-family-memorial-dc/",
+      "publishedAt": "2026-09-18T17:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Mais de 100 membros do Partido Democrata pedem aos líderes do partido que rejeitem o financiamento da IA",
-      "titleOriginal": "More than 100 Democratic operatives urge party leaders to reject AI cash",
-      "link": "https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-pac-letter/",
-      "publishedAt": "2026-09-18T15:40:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ataque a bomba em mesquita próxima a delegacias no Paquistão mata pelo menos 21 pessoas",
-      "titleOriginal": "Bombing at mosque near police offices in Pakistan kills at least 21",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOME0xV1p0MnlVdnRCTk9SMVNJV3ZuMnFPeW15UFR5Z2NfZVZFMGxTX1paMGdwZDJXZUJ0REFYcnJBS1ROZXZkRnQzek9jdnJZN1lCdjhwUmxRU1NtNEt2amxYbG9fakNPODB3dVY3UjBfYzV6MVhJZkdXOWVza3JsNUUtR2NFZWdXNWJ5ZmFDUG1qNFI4WEFqRnhjN0FUUXg3bEIzbQ?oc=5",
-      "publishedAt": "2026-09-18T15:29:00.000Z"
+      "title": "Vance enfrenta dificuldades em Iowa",
+      "titleOriginal": "Vance contends with headwinds in Iowa",
+      "link": "https://thehill.com/newsletters/1230-report/6098205-jd-vance-iowa-gop-midterms-trump-affordability-iran-war/",
+      "publishedAt": "2026-09-18T16:47:00.000Z"
     }
   ]
 }
