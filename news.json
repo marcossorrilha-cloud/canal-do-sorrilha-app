@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-09-18T05:56:09.568Z",
+  "updatedAt": "2026-09-18T06:39:41.161Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "A frota secreta da Rússia navega no ponto cego da OTAN: águas irlandesas",
-      "titleOriginal": "Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjdTVkpuRHZUTThFcmtmUktKM3BMWVVicHFlMmVZdHNOV2xGUXUtRndIemlsSEFzMGYxM1o4S1NrcEdlVWRBVzRaTThmeDdraENqTXRFMFM5aG9SZ080QTNKVEw5ck92NmNjbG9uNzNxU3J0YWtRaktyUGRlM09WcXpJckZWLU9aMDhtOVBWUEN6RWpPYjNrMk5MOFdQVVNNeUozUmJBVkFKZw?oc=5",
-      "publishedAt": "2026-09-18T04:28:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A China pode evitar uma crise financeira. Mas não pode evitar o custo.",
-      "titleOriginal": "China Can Avoid a Financial Crisis. It Can’t Avoid the Cost.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1FhVl95SHVVOVZsVWJmVEZiN0hoQlUtc3JLdVg4MEdDb0FHaEwzNjJCUnh6N2tna3lMUHJKR0dOaXFUd1ljM1Q5NzZFVjRfYTNOdTBLQUdCWWxkV3dNMEFEQmNGR25hMkM5LXk5ZmZzVGFzb090a0RFRUFjNkkxMG8zTUhXOXhZRlBqZzlFNTM2bzJ1SlltQ0MtMA?oc=5",
-      "publishedAt": "2026-09-18T04:28:07.000Z"
-    },
     {
       "source": "Politico",
       "title": "Bill Cassidy fala sobre vacinas, RFK Jr. e a luta pela confiança do público",
@@ -32,7 +18,14 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Scalise estima que o máximo que o Partido Republicano poderá alcançar seja 225 cadeiras na Câmara",
+      "title": "Por dentro da briga acirrada nos bastidores entre os democratas da Câmara dos Deputados",
+      "titleOriginal": "Inside House Democrats' behind-the-scenes food fight",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0JpZHVFaHpmSGlmbENZRm9DUnVCYnhReGk1bEl3RTc0Y0VDU0h2ZjZTR1FuMU1wUkx0YVR4b2lSVnJhOHhUVnZrQTVoRC1TN1VJTmdSRDNzdU9XTHg4enk5NVFCaXllNGFNb3hpUnB4QmZSaTdfQjhDOHJiV004amM4S0JjS0QwZWc?oc=5",
+      "publishedAt": "2026-09-18T03:16:51.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Scalise estima que o limite máximo do Partido Republicano seja de 225 cadeiras na Câmara",
       "titleOriginal": "Exclusive: Scalise puts GOP high-water mark at 225 House seats",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekxtRHpvbTNMTjV3SjVOeGs4MXRNY3hjXzFGV1hpcUhLbEVCbDE4UlJ5aVpZZG1aWFhCVjVwMFBlbS10Unl4RVZGMG9YdUd0U1hBVzA3Z2U4YlFCRnJRSVlqQ2RQWV9hUUJzU2dVbGpQYVZaVVh0X1dZRmZvdXhMWG9NUmxnSW8xVnc?oc=5",
       "publishedAt": "2026-09-18T03:09:49.000Z"
@@ -67,10 +60,17 @@
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono divulga novas orientações para exames de testosterona após revogar as anteriores",
+      "title": "O Pentágono divulga novas orientações para a realização de exames de testosterona após revogar as anteriores",
       "titleOriginal": "Pentagon issues new guidance for testosterone testing after rescinding previous one",
       "link": "https://thehill.com/policy/defense/6097148-pentagon-new-male-testosterone-screening/",
       "publishedAt": "2026-09-18T01:40:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A AWS afirma que não consegue restaurar alguns dados das instalações no Oriente Médio atingidas pelo Irã",
+      "titleOriginal": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWNRTXk3NkNPa2RaTGhZNnM5QWlXOHJ1UnVWTThSQ2tfc2I5TXpLNFJ6dkdwbmhWcUlkeXN1ZFgtOVYxeV9IbERQZE1fVG9oTGhPM1g0bnNCSU1IQ0cyWjNSc2dzdXJSOW53endScnZ1VGF6TzdLdURrLTRzMzM5WF9wV0ZNaHNwQUxwcEhhYjIwOFkzSDBtb0dKRmNNYlJsWVl3aHlWeGpNeDdtMjQ2dThBMHJvdGhVTU90OA?oc=5",
+      "publishedAt": "2026-09-18T01:28:44.000Z"
     }
   ]
 }
