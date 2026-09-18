@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-18T18:29:53.018Z",
+  "updatedAt": "2026-09-18T19:57:49.456Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Custo da guerra no Irã é estimado em US$ 43,6 bilhões",
+      "titleOriginal": "Cost of Iran War Estimated at $43.6 Billion",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/iran-war-cost-pentagon.html",
+      "publishedAt": "2026-09-18T19:43:39.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Solicitação de segurança da FAA para o topo do arco de Trump: Fogo Eterno",
+      "titleOriginal": "F.A.A. Safety Request for the Top of Trump’s Arch: Eternal Fire",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/arch-trump-faa-flame.html",
+      "publishedAt": "2026-09-18T19:41:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Rússia dá início a três dias de votação nas eleições parlamentares que devem consolidar o poder do Kremlin",
+      "titleOriginal": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5",
+      "publishedAt": "2026-09-18T19:23:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump afirma que vai proibir a CNN, a MS NOW e o Politico de entrar na Casa Branca",
+      "titleOriginal": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlp4NGtqZU9NdXl3OE5kdjFxQk55bGRhcUR2aVJ4UTUyVGE1ZG5hWXhoVmw5SnAtQms3NGYxQ1VtM0RLeE5oZloxMkFXV3BGUWNYOVNXX3Z3YmJ2RXNEVlp4TGZRTU5PQ3hRSXNSVXlsNU5CWHZ1Q3hPNU95R3VaTFRaSUJNMEZhSVhEaFI2NGN3Z3FuU2trc1NzZ0FMbkIyWUJ6WHEzOGl4aU9Zd2JMT0h3a0w?oc=5",
+      "publishedAt": "2026-09-18T19:17:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Câmara encerrou os trabalhos, mas o processo de impeachment de Hegseth, o caso Epstein e uma disputa por verbas ainda estão por vir",
+      "titleOriginal": "The House left town, but Hegseth impeachment, Epstein and a funding fight are waiting",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rSW05UUlOck1GdENTQXkyUGladFA4UEtSR2h1MmtIU0J4Y3d2UHIzNXNGRndaUmh0NUk1c3Iwck0tWkk5d3AwU09hYXpLTHRQU2Z4SnduYWVDZUVfNTFDQ3NLT29LVTZYdmY3NE1weVk4MjJjY1ozOTJrOUIySTQ?oc=5",
+      "publishedAt": "2026-09-18T19:11:56.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Vance encerra a manifestação em Iowa com uma repreensão de sete minutos a Rob Sand",
-      "titleOriginal": "Vance ends Iowa rally with seven-minute censure of Rob Sand",
+      "title": "Órgão do Texas suspende aprovações de câmeras da Flock",
+      "titleOriginal": "Texas agency suspends Flock camera approvals",
+      "link": "https://thehill.com/homenews/state-watch/6098574-texas-agency-suspends-flock-camera-approvals/",
+      "publishedAt": "2026-09-18T19:11:18.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Juiz que anulou o fundo de indenização de Trump questiona: será que Trump simplesmente pagará aos seus aliados de outra forma?",
+      "titleOriginal": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way?",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-compensation-fund-judge-alternate-payments.html",
+      "publishedAt": "2026-09-18T18:56:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "43% afirmam que Trump é responsável pela situação atual da economia: pesquisa",
+      "titleOriginal": "43 percent say Trump responsible for current state of economy: Survey",
+      "link": "https://thehill.com/homenews/administration/6098451-donald-trump-us-economy-affordability-voters-survey/",
+      "publishedAt": "2026-09-18T18:44:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance encerra a manifestação em Iowa com uma repreensão de 7 minutos a Rob Sand",
+      "titleOriginal": "Vance ends Iowa rally with 7-minute censure of Rob Sand",
       "link": "https://thehill.com/homenews/campaign/6098499-vance-calls-sand-partisan-democrat/",
       "publishedAt": "2026-09-18T18:27:17.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Um hotel da África Central se tornou uma prisão de pesadelo para pessoas deportadas dos EUA",
-      "titleOriginal": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
-      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-      "publishedAt": "2026-09-18T18:24:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia dá início a três dias de votação nas eleições parlamentares, que devem consolidar o poder do Kremlin",
-      "titleOriginal": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5",
-      "publishedAt": "2026-09-18T18:13:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump considera os temores em relação à IA uma farsa. Dentro da Casa Branca, o debate é mais complexo.",
-      "titleOriginal": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
-      "publishedAt": "2026-09-18T18:09:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Trump anunciará plano para a fixação de preços de medicamentos no Medicaid",
-      "titleOriginal": "Watch live: Trump to announce Medicaid drug pricing plan",
-      "link": "https://thehill.com/video-clips/6098409-watch-live-donald-trump-white-house-announcement-medicaid-drug-pricing-most-favored-nation/",
-      "publishedAt": "2026-09-18T18:05:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A abertura de capital da SpaceX deu a esse casal a liberdade para perseguir seus sonhos",
-      "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
-      "publishedAt": "2026-09-18T17:57:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A campanha política de Blanche viola uma norma ética que remonta ao caso Watergate",
-      "titleOriginal": "Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
-      "publishedAt": "2026-09-18T17:57:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "James Talarico, que busca votos da comunidade negra na disputa pelo Senado do Texas, conquista apoio decisivo",
-      "titleOriginal": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
-      "publishedAt": "2026-09-18T17:18:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso pode se unir para homenagear a família Adams",
-      "titleOriginal": "Congress can come together to honor the Adams family",
-      "link": "https://thehill.com/opinion/congress-blog/6097288-adams-family-memorial-dc/",
-      "publishedAt": "2026-09-18T17:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance enfrenta dificuldades em Iowa",
-      "titleOriginal": "Vance contends with headwinds in Iowa",
-      "link": "https://thehill.com/newsletters/1230-report/6098205-jd-vance-iowa-gop-midterms-trump-affordability-iran-war/",
-      "publishedAt": "2026-09-18T16:47:00.000Z"
+      "title": "Trump tenta conquistar o líder da Coreia do Norte, mas pode precisar da China para reacender a chama",
+      "titleOriginal": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+      "publishedAt": "2026-09-18T18:25:01.000Z"
     }
   ]
 }
