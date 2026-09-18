@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-18T21:42:07.126Z",
+  "updatedAt": "2026-09-18T22:49:18.397Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
+      "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
+      "publishedAt": "2026-09-18T22:41:50.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Ativistas pró-direito ao aborto em Idaho encontram seu argumento: trazer os médicos de volta",
+      "titleOriginal": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html",
+      "publishedAt": "2026-09-18T22:41:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Tribunal de Apelações restringe medidas de deportação do governo Trump",
+      "titleOriginal": "Appeals Court Restricts Trump Administration Deportation Effort",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
+      "publishedAt": "2026-09-18T22:38:43.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "El-Sayed desafia Vance para uma competição de levantamento de peso: “Você só fala bonito”",
+      "title": "Republicano destaca homem libertado da custódia do ICE em anúncio de campanha",
+      "titleOriginal": "Republican highlights man freed from ICE custody in campaign ad",
+      "link": "https://thehill.com/homenews/house/6099073-texas-republican-ice-release-ad/",
+      "publishedAt": "2026-09-18T22:27:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump destaca a redução nos gastos com medicamentos do Medicaid",
+      "titleOriginal": "Trump touts Medicaid drug savings",
+      "link": "https://thehill.com/homenews/administration/6099129-trump-medicaid-drug-prices/",
+      "publishedAt": "2026-09-18T22:21:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump afirma que vai proibir a CNN, a MS NOW e o Politico de entrar na Casa Branca",
+      "titleOriginal": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlp4NGtqZU9NdXl3OE5kdjFxQk55bGRhcUR2aVJ4UTUyVGE1ZG5hWXhoVmw5SnAtQms3NGYxQ1VtM0RLeE5oZloxMkFXV3BGUWNYOVNXX3Z3YmJ2RXNEVlp4TGZRTU5PQ3hRSXNSVXlsNU5CWHZ1Q3hPNU95R3VaTFRaSUJNMEZhSVhEaFI2NGN3Z3FuU2trc1NzZ0FMbkIyWUJ6WHEzOGl4aU9Zd2JMT0h3a0w?oc=5",
+      "publishedAt": "2026-09-18T22:17:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os republicanos são agora o partido “elitista”, afirmam os eleitores",
+      "titleOriginal": "Republicans Are Now the ‘Elitist’ Party, Voters Say",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/republicans-elitist-party-voters-poll.html",
+      "publishedAt": "2026-09-18T22:16:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump já tentou proibir a presença de repórteres em instalações do governo anteriormente",
+      "titleOriginal": "Trump Has Tried to Ban Reporters From Government Spaces Before",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
+      "publishedAt": "2026-09-18T21:57:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump: EUA firmam acordo de segurança com a Groenlândia e a Dinamarca",
+      "titleOriginal": "Trump: US strikes security deal with Greenland, Denmark",
+      "link": "https://thehill.com/homenews/administration/6099074-greenland-denmark-us-security-agreement-trump/",
+      "publishedAt": "2026-09-18T21:44:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "El-Sayed desafia Vance para uma competição de levantamento de peso: “Você só sabe falar bonito”",
       "titleOriginal": "El-Sayed challenges Vance to weightlifting competition: 'You talk a good game'",
       "link": "https://thehill.com/homenews/campaign/6098893-el-sayed-vance-weightlifting-challenge/",
       "publishedAt": "2026-09-18T21:25:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quem acompanhar no Congresso em relação à política de IA",
-      "titleOriginal": "Who to watch in Congress on AI policy",
-      "link": "https://thehill.com/newsletters/technology/6098979-congress-ai-policy-debate/",
-      "publishedAt": "2026-09-18T21:20:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que ainda apoia Salazar após vídeo em que o critica sobre imigração",
-      "titleOriginal": "Trump says he still backs Salazar after video criticizing him on immigration",
-      "link": "https://thehill.com/homenews/administration/6098947-trump-salazar-immigration-dispute/",
-      "publishedAt": "2026-09-18T21:07:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que seu filho devolveu o valor do presente de casamento recebido de um oligarca russo",
-      "titleOriginal": "Trump says son paid back Russian oligarch for wedding gift",
-      "link": "https://thehill.com/homenews/administration/6098914-donald-trump-jr-umar-kremlev-wedding-gift-paid-back/",
-      "publishedAt": "2026-09-18T21:05:39.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma ter proibido a CNN, a MS NOW e o Politico de entrar na Casa Branca",
-      "titleOriginal": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-      "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-      "publishedAt": "2026-09-18T21:03:27.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Rússia pretende semear o caos nas eleições, segundo conclusões dos serviços de inteligência dos EUA",
-      "titleOriginal": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
-      "publishedAt": "2026-09-18T21:03:01.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Em 2028, democratas como Newsom e Pritzker dão ênfase à segurança da IA enquanto Washington fica paralisada",
-      "titleOriginal": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUm1CU3M1c3JYQXFxVmlTVEtyWGp6akpkczVYdEgwRFNWX2EzN0NoWkoxLUNjYWxLcXgwTFc0LWstS3E2ZGxfLU5fS3lFYVZzUVRQWlNyR2F0OUdjemN3RlZSZw?oc=5",
-      "publishedAt": "2026-09-18T21:01:28.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Começa a votação antecipada nas eleições intermediárias dos EUA, que podem mudar o controle do Congresso",
-      "titleOriginal": "Early voting begins in US midterm elections that could flip control of Congress",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
-      "publishedAt": "2026-09-18T20:57:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal restabelece o programa “Solar for All”, no valor de US$ 7 bilhões, que havia sido cancelado por Trump",
-      "titleOriginal": "Court reinstates $7B 'Solar for All' program axed by Trump",
-      "link": "https://thehill.com/policy/energy-environment/6098886-epa-solar-for-all-program/",
-      "publishedAt": "2026-09-18T20:48:32.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Vamos superar a Califórnia em IA”, afirma importante figura do Partido Democrata",
-      "titleOriginal": "Let’s beat California on AI, key Democrat says",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/18/lets-beat-california-on-ai-key-democrat-says-01084447",
-      "publishedAt": "2026-09-18T20:33:17.000Z"
     }
   ]
 }
