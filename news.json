@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-09-18T22:49:18.397Z",
+  "updatedAt": "2026-09-19T00:21:50.255Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "EUA e Dinamarca chegam a um acordo de segurança sobre a Groenlândia, afirma Trump",
+      "titleOriginal": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+      "publishedAt": "2026-09-18T23:58:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A contagem do Pentágono não inclui algumas mortes no Oriente Médio durante a guerra contra o Irã",
+      "titleOriginal": "Pentagon’s count leaves out some deaths in Middle East during Iran war",
+      "link": "https://thehill.com/policy/defense/6099284-pentagon-omitted-service-member-deaths/",
+      "publishedAt": "2026-09-18T23:31:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Compradores do Lakers apresentam planos para atingir uma avaliação de US$ 30 bilhões em apresentação aos investidores",
+      "titleOriginal": "Exclusive | Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE9ZeWZPeEtnY1doTVJWRndBRVJVZ1dEd3J6SjQwaVlxRGNQUEtBTmpGQk1pTWRxTEx4dkpKb0JmbEtfcVFpaDV2VFlPZ3NxeXdqbFg4MkRzcFNremRmUVRMcXFyX1JIUzdzOHZIMVRUYkh2M0h5UWV6MTF2eXRzTkRJNlNvdFNOVmNjT3hYR09RclNtdGFIR0VDMjkzMk1sQ3hhVG5MTm1HZW9UQVR0Wk5zN2twX3c?oc=5",
+      "publishedAt": "2026-09-18T23:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma ter proibido a CNN, a MS NOW e o Politico de entrar na Casa Branca",
+      "titleOriginal": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+      "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
+      "publishedAt": "2026-09-18T23:04:21.000Z"
+    },
     {
       "source": "Axios",
       "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
       "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "publishedAt": "2026-09-18T22:41:50.000Z"
+      "publishedAt": "2026-09-18T22:51:32.000Z"
     },
     {
       "source": "New York Times",
@@ -24,53 +52,25 @@
       "publishedAt": "2026-09-18T22:38:43.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Trump afirma que os EUA chegaram a um acordo de segurança com a Groenlândia",
+      "titleOriginal": "Trump Says U.S. Has Reached Greenland Security Agreement",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDdJa01FS3RIcFdHS0FSV2pWUU85TWJwWTlZem4tNVpQcThnSUhHYWRmdHE3bTlqcUhhb2d0SzRMRDNoWnJZU3F0cWpzbzNZMEU0a1p5RC1Db0FpeUpWOU04XzZKdi1YT2d4cmt1RERFSG5yZU1FUk0tSE5SRFdMSmRRVklSMG9GdGhfbUNzeENNckVXcGNSSzBQVXE4c3hsdFlON3RDM1ZLREJNRklUVGplUDFUZUtZajV2ZzFrMm0tdw?oc=5",
+      "publishedAt": "2026-09-18T22:37:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump afirma que o fato de a festa de casamento de seu filho ser financiada por um oligarca russo é “totalmente permitido”",
+      "titleOriginal": "Trump says his son’s wedding party being bankrolled by a Russian oligarch is ‘totally allowed’",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDRJS19CQVB3QVhucmVfWHgxY3BxSGFRYVRMUmtFbTYzRXhwcDVMc3RtV2dvTmpvVVZKb0xkUnRfSUkxLWdSWnhtcTZyTHA4LWZMZG1VMGZUQ3hfY2xoWkt2VHRJcE15aWNtZEM3RVVVdllieTNxNXdUdjlXVV9ZUWFlY1IwOU9TaVBDOEVR?oc=5",
+      "publishedAt": "2026-09-18T22:28:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Republicano destaca homem libertado da custódia do ICE em anúncio de campanha",
       "titleOriginal": "Republican highlights man freed from ICE custody in campaign ad",
       "link": "https://thehill.com/homenews/house/6099073-texas-republican-ice-release-ad/",
       "publishedAt": "2026-09-18T22:27:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump destaca a redução nos gastos com medicamentos do Medicaid",
-      "titleOriginal": "Trump touts Medicaid drug savings",
-      "link": "https://thehill.com/homenews/administration/6099129-trump-medicaid-drug-prices/",
-      "publishedAt": "2026-09-18T22:21:47.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump afirma que vai proibir a CNN, a MS NOW e o Politico de entrar na Casa Branca",
-      "titleOriginal": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlp4NGtqZU9NdXl3OE5kdjFxQk55bGRhcUR2aVJ4UTUyVGE1ZG5hWXhoVmw5SnAtQms3NGYxQ1VtM0RLeE5oZloxMkFXV3BGUWNYOVNXX3Z3YmJ2RXNEVlp4TGZRTU5PQ3hRSXNSVXlsNU5CWHZ1Q3hPNU95R3VaTFRaSUJNMEZhSVhEaFI2NGN3Z3FuU2trc1NzZ0FMbkIyWUJ6WHEzOGl4aU9Zd2JMT0h3a0w?oc=5",
-      "publishedAt": "2026-09-18T22:17:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os republicanos são agora o partido “elitista”, afirmam os eleitores",
-      "titleOriginal": "Republicans Are Now the ‘Elitist’ Party, Voters Say",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/republicans-elitist-party-voters-poll.html",
-      "publishedAt": "2026-09-18T22:16:17.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump já tentou proibir a presença de repórteres em instalações do governo anteriormente",
-      "titleOriginal": "Trump Has Tried to Ban Reporters From Government Spaces Before",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
-      "publishedAt": "2026-09-18T21:57:48.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: EUA firmam acordo de segurança com a Groenlândia e a Dinamarca",
-      "titleOriginal": "Trump: US strikes security deal with Greenland, Denmark",
-      "link": "https://thehill.com/homenews/administration/6099074-greenland-denmark-us-security-agreement-trump/",
-      "publishedAt": "2026-09-18T21:44:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed desafia Vance para uma competição de levantamento de peso: “Você só sabe falar bonito”",
-      "titleOriginal": "El-Sayed challenges Vance to weightlifting competition: 'You talk a good game'",
-      "link": "https://thehill.com/homenews/campaign/6098893-el-sayed-vance-weightlifting-challenge/",
-      "publishedAt": "2026-09-18T21:25:14.000Z"
     }
   ]
 }
