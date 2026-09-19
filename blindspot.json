@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-18T15:01:38.241Z",
-  "slot": "2026-09-18-PM",
+  "updatedAt": "2026-09-19T05:54:11.886Z",
+  "slot": "2026-09-19-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Por que a nova regra de Trump para os candidatos ao green card está gerando polêmica",
-      "titleOriginal": "Why Trump’s new rule for green card applicants is sparking controversy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZkV6SS1nNld0eGZSdDVOUndUWEdYLTlVWGNUVVV4aVBQeWI5Ni1mWmZ4ZGRCV3ZZN25tekFsbGhlU2UzWUxhcTlwOXVxTW1jdGFaQ1N6cTQzUVR5QWY4ME9RbTVkZUJueG5XTFB1Yjk3RlAteFhZNUtfb0JWXzQ?oc=5",
-      "source": "CNN",
-      "coverage": 2
+      "title": "O custo da guerra no Irã chega agora a pelo menos US$ 43,6 bilhões, afirma o Comando Central dos EUA",
+      "titleOriginal": "Iran war cost is now at least $43.6 billion, U.S. Central Command says",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUG16UHBsYk50eWRFT2N1UFlyU3dqT1p4eGVEYUFuMUVBUlB3cm15UlY2d3pJVC1Pd0F4aDlOTWFHZ1oyQ1A5Q0pGRk9zWWo2XzRDTXZKb1ZxcVNQQkVOZnhGdzlVUG5PNy15TGJGNHplVXpaWTgxVHA3Ny1qZzIycXpqWHhPcFI4NWVGSS05bm9obzU3VjlJb21LXzVmRDNsTWFkZ19SRFdiQmladlZUNWdNdzBrSnYxVWdIb2VrSWc?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Como Warsh aumentou as taxas sem despertar a ira de Trump",
-      "titleOriginal": "How Warsh Raised Rates Without Drawing Trump’s Ire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGJvTVhIT0xoVUNRS1h2VXpTQWpQUEIyaFcybThvS0pFT2tqTm5GdTVlX0ZTR2ZLOW5YVXhuVXR3TWEtSFc3SnlublQ2bDJYRVZMQno3dnU4X3JLT0sxcFk2QUZtYjVGeFRrUmw5M2IyOGxZbXA2OVFDR1NmdE1YMHZ4VkstbXQxRmtJOWZTZzFwTmhoTGt4bVNR?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 4
+      "title": "Piker afirma que o Oriente Médio estaria mais seguro se o Irã tivesse uma arma nuclear",
+      "titleOriginal": "Piker says Middle East would be more secure if Iran had a nuclear weapon",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalY0NmNyQ0RZbTRGMHNXMzJTVEZRLW53czFkUHNLWEMtSGtNT2dnN0VMMFZjakQ5SGdtVE9xc2JOa09kbGxTbnctZk9tMmpqUl9GNXNLUlBWb0Q4RE5SaFEtUWJPMm0zdi1vRlNvTWY1V05Va3d0SE43a2JUWkRZNWJvV3JqMUsxUU54XzhFaUFvVWQ0Q2M2UmwzbkpybnB3aGxtekhPX1lEM3p4V0JKSGJaZWZKb2h5RUFranJHaDNVcHhDYVdzVmV1YUNIQTRx?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 3
     }
   ]
 }
