@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-19T14:26:15.727Z",
+  "updatedAt": "2026-09-19T14:48:33.674Z",
   "count": 10,
   "items": [
     {
       "source": "Politico",
-      "title": "“Os estados devem ter voz ativa”: Candidatos à eleição para governador disputam a regulamentação da IA",
+      "title": "A Experiência de Elegerabilidade da Pesquisa do POLITICO",
+      "titleOriginal": "The POLITICO Poll Electability Experiment",
+      "link": "https://www.politico.com/f/?id=000001a0-ba1e-d805-aff0-fe7f837b0000",
+      "publishedAt": "2026-09-19T14:43:36.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a guerra comercial de Trump poderia prejudicar os esforços dos republicanos para manter o controle do Senado",
+      "titleOriginal": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
+      "publishedAt": "2026-09-19T14:35:49.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "“Os estados devem ter voz”: Candidatos ao cargo de governador disputam a regulamentação da IA",
       "titleOriginal": "‘States should have a say’: Candidates for governor race to take on AI regulation",
       "link": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
       "publishedAt": "2026-09-19T14:00:00.000Z"
@@ -25,17 +39,10 @@
     },
     {
       "source": "Axios",
-      "title": "A guerra no Irã causa sofrimento global nos postos de gasolina",
+      "title": "A guerra no Irã causa sofrimento global no posto de gasolina",
       "titleOriginal": "Iran war causes global pain at the pump",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5",
       "publishedAt": "2026-09-19T13:20:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Relações com o Canadá continuam tensas antes da Assembleia Geral da ONU; empresas de IA enfrentam novo processo judicial",
-      "titleOriginal": "Live updates: Relationship with Canada still rocky ahead of UN General Assembly; AI companies hit with new lawsuit",
-      "link": "https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david/",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "Football drives GOP's TV ad blitz for the midterms",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mSU90Q0Ixa21aeUFSNng3ZGwxSTZJTkRnNWhIMEw5OHcxUjllTXdJaDhtZFctM2haYmFRODE2NnJzNG5xWUlobHR6RTlkZTZ3VXd0c05NMDV4Uk9uaGtOTXhKa3F4azZZR0sxRGR3eHJNb1pIMXc?oc=5",
       "publishedAt": "2026-09-19T12:01:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A alimentação saudável é a peça que faltava nas contas de poupança para saúde e nas contas de gastos flexíveis",
-      "titleOriginal": "Healthy food is the missing piece in health savings and flexible spending accounts",
-      "link": "https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-produce/",
-      "publishedAt": "2026-09-19T12:00:00.000Z"
     }
   ]
 }
