@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-19T11:00:23.484Z",
+  "updatedAt": "2026-09-19T11:32:39.244Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Coreia do Norte envia mulheres para fábricas russas na linha de fogo ucraniana",
+      "titleOriginal": "North Korea Sends Women to Russian Factories in Line of Ukrainian Fire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdFE5bFFuMnZzdXIyLWhqSEN5R0NITy1fSC0zLVRFUWNHUXpoUzM0N2ZBX1I3TGRsejVTVjEwcVBDUDd3VkdNM19VQmMyeURaaDdIdWk2VnNVenVZNS1pTmxaSUJEdTR0Unh0U1N6SFVicVJIUTE2VmItel84RU14a1NzMjNVTTFaXy1tU2M0V2Zad3oyUXRJQ0w2WWpWYXo5YlVpYmRoNV8xdWtzUWRN?oc=5",
+      "publishedAt": "2026-09-19T11:01:23.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A Sandoz obtém aprovação no Canadá para a versão genérica do Ozempic",
@@ -11,7 +18,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Iowa tornou-se um terreno complicado para o Partido Republicano na reta final das eleições de meio de mandato",
+      "title": "Iowa tornou-se um território complicado para o Partido Republicano na reta final das eleições de meio de mandato",
       "titleOriginal": "Iowa has become tricky territory for GOP in midterm election homestretch",
       "link": "https://thehill.com/homenews/campaign/6099069-iowa-gop-trump-midterm-strategy/",
       "publishedAt": "2026-09-19T10:00:00.000Z"
@@ -25,17 +32,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Por que os moradores do Nordeste pagarão contas de aquecimento mais altas neste inverno",
+      "title": "Por que as pessoas do Nordeste pagarão contas de aquecimento mais altas neste inverno",
       "titleOriginal": "Why people in the Northeast will be paying higher heating bills this winter",
       "link": "https://thehill.com/policy/energy-environment/6099110-northeast-heating-oil-costs-diesel/",
       "publishedAt": "2026-09-19T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Coreia do Norte envia mulheres para fábricas russas na linha de fogo ucraniana",
-      "titleOriginal": "North Korea Sends Women to Russian Factories in Line of Ukrainian Fire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdFE5bFFuMnZzdXIyLWhqSEN5R0NITy1fSC0zLVRFUWNHUXpoUzM0N2ZBX1I3TGRsejVTVjEwcVBDUDd3VkdNM19VQmMyeURaaDdIdWk2VnNVenVZNS1pTmxaSUJEdTR0Unh0U1N6SFVicVJIUTE2VmItel84RU14a1NzMjNVTTFaXy1tU2M0V2Zad3oyUXRJQ0w2WWpWYXo5YlVpYmRoNV8xdWtzUWRN?oc=5",
-      "publishedAt": "2026-09-19T09:31:23.000Z"
     },
     {
       "source": "New York Times",
@@ -59,18 +59,18 @@
       "publishedAt": "2026-09-19T09:01:47.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A rejeição da Lei de Clareza faz com que o foco do setor de criptomoedas se volte para os órgãos reguladores federais",
-      "titleOriginal": "Failure of Clarity Act Turns Crypto Industry Focus to Federal Regulators",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVZLWWJpREJNcElnSDZ3VzBHa0FFalFyMnhodzNDRFRTRUlzeGlxemVOUVR4SU1HdHliR3U1RTFCdjZjaE9qQ25QQVRfMm11ZE5SVkJ3Qm1TbWZrLW1fd05sa3VFMEFwd25fZENaSmtlb0RLMnpPZjhOVmxGTjNIQXVLcGtOT29rbUNaLXltNVU3WER4bi1hWVdPYkZXam1MSFYxenM2TGN3aVRla3NyMHpyR2c5YWkx?oc=5",
-      "publishedAt": "2026-09-19T07:37:16.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "O USPS reduziu a velocidade do serviço postal para cortar custos. As cédulas das eleições intermediárias colocarão o sistema à prova.",
+      "title": "O USPS reduziu a velocidade do serviço postal para cortar custos. As cédulas para as eleições de meio de mandato colocarão o sistema à prova.",
       "titleOriginal": "USPS made mail slower to cut costs. Midterm ballots will test the system.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUGNSU0FZVjRxQjFOQjFSMV85NzQ3X3NkM1EyeGJPZzJhNjNPOG5sWFBMdzB0RmdodmFHYWF1V0Z3WnJTYldqNWhJOVlsOGxpdnAzY0g4UExvN1NXWmRiLUxBMkkwUUJscHRFZnhPU2dVenVTbEU0Ug?oc=5",
       "publishedAt": "2026-09-19T06:51:43.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump anuncia medicamentos mais baratos para os programas estaduais do Medicaid",
+      "titleOriginal": "Trump announces cheaper drugs for state Medicaid programs",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kdXpWdF84eUxSQ2t5NmRwam91N2hJWGxJUHJqNUM3MDV2elMzLThTTk5tUTlibDlvVVlMdHAwTktQODZjSEpKZjg3Q2tuaF9fT3F4YnhVdnRRaEYwTlBlenB2U3N0cGJkeFN3WmZ2YUt0cVhk?oc=5",
+      "publishedAt": "2026-09-19T06:29:57.000Z"
     }
   ]
 }
