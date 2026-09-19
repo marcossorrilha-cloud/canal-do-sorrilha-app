@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:02:04.648Z",
+  "updatedAt": "2026-09-19T18:12:50.821Z",
   "count": 10,
   "items": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Milhões de novos “ciber-imigrantes” estão invadindo os Estados Unidos e vêm atrás do seu emprego",
+      "title": "Milhões de novos “imigrantes cibernéticos” estão invadindo os Estados Unidos e vêm atrás do seu emprego",
       "titleOriginal": "Millions of new cyber-immigrants are invading America and coming for your job",
       "link": "https://thehill.com/opinion/technology/6098344-ai-threatens-middle-class-jobs/",
       "publishedAt": "2026-09-19T17:00:00.000Z"
@@ -38,13 +38,6 @@
       "publishedAt": "2026-09-19T15:55:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
-      "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "publishedAt": "2026-09-19T15:41:50.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "A FAA afirma que o arco proposto por Trump exigirá uma “chama eterna” no topo para alertar os pilotos",
       "titleOriginal": "FAA says proposed Trump arch will require 'eternal flame' on top to alert pilots",
@@ -53,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Trump já tentou proibir a presença de repórteres em espaços governamentais anteriormente",
+      "title": "Trump já tentou antes proibir a presença de repórteres em espaços governamentais",
       "titleOriginal": "Trump Has Tried to Ban Reporters From Government Spaces Before",
       "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
       "publishedAt": "2026-09-19T15:00:15.000Z"
@@ -71,6 +64,13 @@
       "titleOriginal": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate",
       "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
       "publishedAt": "2026-09-19T14:35:49.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Na ausência de medidas federais, os candidatos ao cargo de governador enxergam uma oportunidade na IA",
+      "titleOriginal": "Without federal action, candidates for governor see an opening on AI",
+      "link": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
+      "publishedAt": "2026-09-19T14:00:00.000Z"
     }
   ]
 }
