@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:54:04.983Z",
+  "updatedAt": "2026-09-19T06:37:42.088Z",
   "count": 10,
   "items": [
     {
@@ -11,14 +11,14 @@
     },
     {
       "source": "Axios",
-      "title": "O Departamento de Justiça não aplicará a proibição de porte de armas de fogo para jovens de 18 a 20 anos",
+      "title": "O Departamento de Justiça não aplicará a proibição do porte de armas de fogo para jovens de 18 a 20 anos",
       "titleOriginal": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOTlXdWdiRjZfUjZkN2hiWjJGSTJrQUh0QmJaT3c2NE0ycXlxb3E5QUlfeklfNWRWaHFGamFzc3Z5SEpJQ3l1U3F4aU1Za1dqajg4WmRva1dJeFRvNEJLdExsNTJuOGxMbEk4Mnk4Sk03TTJhRWZZYw?oc=5",
       "publishedAt": "2026-09-19T04:08:53.000Z"
     },
     {
       "source": "Axios",
-      "title": "Trump afirma ter fechado acordo de segurança e militar com a Dinamarca sobre a Groenlândia",
+      "title": "Trump afirma ter fechado um acordo de segurança e militar com a Dinamarca em relação à Groenlândia",
       "titleOriginal": "Trump claims security, military deal with Denmark over Greenland",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yTzNFMERzSHJxZ3ZYaW41MHR5VUZabnRMTWNlSTRLYWpBQzlQX2NrNmMyTjVlbnBQOFB5eERYWV94V1d0clpiTDJnUW40OE1jZ2VIS3V3X04yUDBfN1F4MUtLTllZdzhXX2ZhTTV3?oc=5",
       "publishedAt": "2026-09-19T03:49:40.000Z"
@@ -31,15 +31,8 @@
       "publishedAt": "2026-09-19T03:46:42.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
-      "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "publishedAt": "2026-09-19T03:41:50.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "A NAACP entra com ação judicial para impedir que o governo Trump envie agentes armados às seções eleitorais",
+      "title": "A NAACP entra com uma ação judicial para impedir que o governo Trump envie agentes armados às seções eleitorais",
       "titleOriginal": "NAACP sues to block Trump administration from sending armed agents to polls",
       "link": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
       "publishedAt": "2026-09-19T03:39:45.000Z"
@@ -53,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Apoiadores do Kennedy Center se mobilizam em meio a temores de que Trump o demolirá",
+      "title": "Apoiadores do Kennedy Center se mobilizam em meio a temores de que Trump o demolir",
       "titleOriginal": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
       "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
       "publishedAt": "2026-09-19T02:22:10.000Z"
@@ -71,6 +64,13 @@
       "titleOriginal": "GOP's Latino gains fade as deeper gender and generational divides emerge",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUlNnNldMSTlvb0lPWWNpNWNTcjdaSUpQUGtBWVNqS194cnpOTnJWQmNkNzhJMUNBQ3FEdFNGTkVfVE1qbS1Wb2R6RVhZT2NGZGtmcldqekFNV2hMaGkxUjJhR3pOSnpub0pNVXlfMV9jd3YxbVdaakg0WVRnWmwtYl9B?oc=5",
       "publishedAt": "2026-09-19T01:43:45.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Partido Republicano na Câmara atinge vantagem financeira recorde sobre os democratas",
+      "titleOriginal": "Exclusive: House GOP hits record cash advantage over Democrats",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBERTlfMWQtZ3dBSzF4aFpSbERKZ2hjeTBDVmY3N1J1VHRCQjFZYnd4MXpDcHZjMzQ5WTRPQS1HRlhQUmx0ZGxOc05nRzI2bGFuMnVZekNLeGdLbF9Idzk0SGtWaGFYZWZBNHpha0hLZHNsYVNIQV82ek5jZWI?oc=5",
+      "publishedAt": "2026-09-19T01:34:48.000Z"
     }
   ]
 }
