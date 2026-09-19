@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-19T21:00:56.275Z",
+  "updatedAt": "2026-09-19T23:06:53.894Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Califórnia toma medidas contra anúncios políticos não declarados de influenciadores",
+      "titleOriginal": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+      "link": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+      "publishedAt": "2026-09-19T22:59:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump sofreu derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
+      "titleOriginal": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
+      "publishedAt": "2026-09-19T22:39:44.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Newsom sanciona leis destinadas a impedir a interferência eleitoral",
+      "titleOriginal": "Newsom signs laws aimed at preventing election interference",
+      "link": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
+      "publishedAt": "2026-09-19T22:29:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Patel afirma que o FBI tem usado IA para impedir tiroteios em escolas",
+      "titleOriginal": "Patel says FBI has used AI to stop school shootings",
+      "link": "https://thehill.com/homenews/administration/6100038-patel-fbi-ai-school-shootings/",
+      "publishedAt": "2026-09-19T22:09:01.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para restringir o avanço da IA",
+      "titleOriginal": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "publishedAt": "2026-09-19T22:05:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "O Departamento de Justiça não aplicará a proibição do porte de armas de fogo para jovens de 18 a 20 anos",
       "titleOriginal": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOTlXdWdiRjZfUjZkN2hiWjJGSTJrQUh0QmJaT3c2NE0ycXlxb3E5QUlfeklfNWRWaHFGamFzc3Z5SEpJQ3l1U3F4aU1Za1dqajg4WmRva1dJeFRvNEJLdExsNTJuOGxMbEk4Mnk4Sk03TTJhRWZZYw?oc=5",
-      "publishedAt": "2026-09-19T19:13:07.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump quer um novo responsável pela IA e uma “Força de IA” inspirada na Força Espacial",
-      "titleOriginal": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5",
-      "publishedAt": "2026-09-19T18:59:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Disparidade mínima nas disputas para governador e Senado de Ohio: pesquisa",
-      "titleOriginal": "Ohio governor, Senate races nearly tied: Poll",
-      "link": "https://thehill.com/homenews/campaign/6099939-ohio-polls-democrats-lead/",
-      "publishedAt": "2026-09-19T18:57:39.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para desacelerar o desenvolvimento da IA",
-      "titleOriginal": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-      "publishedAt": "2026-09-19T18:41:00.000Z"
+      "publishedAt": "2026-09-19T21:51:15.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Tribunal de Apelações restringe medidas de deportação do governo Trump",
-      "titleOriginal": "Appeals Court Restricts Trump Administration Deportation Effort",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
-      "publishedAt": "2026-09-19T18:39:42.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump já tentou impedir a entrada de repórteres em instalações do governo anteriormente",
-      "titleOriginal": "Trump Has Tried to Bar Reporters From Government Spaces Before",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
-      "publishedAt": "2026-09-19T18:28:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump publica enquete para renomear a “IA” e afirma que o nome atual é “impreciso e muito pouco eloquente”",
-      "titleOriginal": "Trump posts poll to rename 'AI,' says current name is 'inaccurate, and very ineloquent'",
-      "link": "https://thehill.com/homenews/administration/6099834-trump-proposes-new-a-i-names/",
-      "publishedAt": "2026-09-19T17:35:03.000Z"
+      "title": "Veículos de comunicação manifestam solidariedade após Trump barrar alguns repórteres",
+      "titleOriginal": "News Outlets Express Solidarity After Trump Bars Some Reporters",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
+      "publishedAt": "2026-09-19T21:48:10.000Z"
     },
     {
       "source": "Axios",
       "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
       "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "publishedAt": "2026-09-19T17:11:05.000Z"
+      "publishedAt": "2026-09-19T21:41:50.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Milhões de novos “imigrantes cibernéticos” estão invadindo os Estados Unidos e vindo atrás do seu emprego",
-      "titleOriginal": "Millions of new cyber-immigrants are invading America and coming for your job",
-      "link": "https://thehill.com/opinion/technology/6098344-ai-threatens-middle-class-jobs/",
-      "publishedAt": "2026-09-19T17:00:00.000Z"
+      "title": "Legisladores consideram um desperdício os custos “absurdos” de US$ 7 bilhões da aquisição da DOGE",
+      "titleOriginal": "Lawmakers see waste in DOGE’s ‘stupid’ $7B buyout costs",
+      "link": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
+      "publishedAt": "2026-09-19T21:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: o pedido de registro de direitos autorais do Departamento de Justiça pegou as principais agências de surpresa",
-      "titleOriginal": "Scoop: DOJ's copyright filing took key agencies by surprise",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QSFhZQjJGZ3lYTnBSUkZoT2wySlpaLVdQb3h1X3BIRWMxcHYyYm84QXY4VHhWaUtDUElWcXhtMVFVYWdXajZ1djBMNHZIekhRMlBrU1hnYWVCYmpUNm9PMU1MUHBjeVBYWTFfTTh5LXFzcUI0OUJEMTRHNEM1dw?oc=5",
-      "publishedAt": "2026-09-19T16:37:57.000Z"
+      "source": "AP News",
+      "title": "A Oktoberfest de Munique ganha vida quando o prefeito abre o primeiro barril",
+      "titleOriginal": "Munich’s Oktoberfest roars to life as the mayor taps the first keg",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGtOQUNHaW11aHp6NG9aSGdoNjIzVGJaY2tjakxOMzZHMEVjR2JhbDVOeDJfdDdqc1JZWk9nWmFadGFSSzBhamtPM0JRdGp3algtT05lVFZPcDlHUzNqb1R6clR5NTFlS0VOSk1CcUJCZDlmR20yWS1uRTI0R0NCM3hrY3FhUDluaXFuYU1TLTR4cTdIX3c?oc=5",
+      "publishedAt": "2026-09-19T20:44:00.000Z"
     }
   ]
 }
