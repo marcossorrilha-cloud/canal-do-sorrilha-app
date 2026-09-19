@@ -1,10 +1,66 @@
 {
-  "updatedAt": "2026-09-19T14:48:33.674Z",
+  "updatedAt": "2026-09-19T18:02:04.648Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Trump publica enquete para renomear a “IA” e afirma que o nome atual é “impreciso e muito pouco eloquente”",
+      "titleOriginal": "Trump posts poll to rename 'AI,' says current name is 'inaccurate, and very ineloquent'",
+      "link": "https://thehill.com/homenews/administration/6099834-trump-proposes-new-a-i-names/",
+      "publishedAt": "2026-09-19T17:35:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Milhões de novos “ciber-imigrantes” estão invadindo os Estados Unidos e vêm atrás do seu emprego",
+      "titleOriginal": "Millions of new cyber-immigrants are invading America and coming for your job",
+      "link": "https://thehill.com/opinion/technology/6098344-ai-threatens-middle-class-jobs/",
+      "publishedAt": "2026-09-19T17:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Departamento de Justiça não aplicará a proibição do porte de armas de fogo para jovens de 18 a 20 anos",
+      "titleOriginal": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOTlXdWdiRjZfUjZkN2hiWjJGSTJrQUh0QmJaT3c2NE0ycXlxb3E5QUlfeklfNWRWaHFGamFzc3Z5SEpJQ3l1U3F4aU1Za1dqajg4WmRva1dJeFRvNEJLdExsNTJuOGxMbEk4Mnk4Sk03TTJhRWZZYw?oc=5",
+      "publishedAt": "2026-09-19T16:11:46.000Z"
+    },
+    {
       "source": "Politico",
-      "title": "A Experiência de Elegerabilidade da Pesquisa do POLITICO",
+      "title": "Os republicanos dos estados agrícolas estão em polvorosa com as importações de carne bovina promovidas por Trump, à medida que o dia das eleições se aproxima",
+      "titleOriginal": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+      "link": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+      "publishedAt": "2026-09-19T16:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Nas margens do “Lago América” de Trump, ainda é o Lago Ontário",
+      "titleOriginal": "On the Shores of Trump’s Lake America, It’s Still Lake Ontario",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamVzeWhKdXdKVzNrRFhVOHBRWmRPVkpOMTlUbnp0ZjlkbnBEakdPdzVtdzlrZ2x1cmJpT1hhREt5MDUzNmhuWnZYekFXcjlpdGladkQtTFdEOW9iS1hjVUdoX196S2Y5c1RCVkFvbHdnY0Jlbm9oSDZQVF9QakZVNGx2WDdTVWhuQVRfbThWVWpXbndfWTlCdDFwQ0U?oc=5",
+      "publishedAt": "2026-09-19T15:55:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
+      "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
+      "publishedAt": "2026-09-19T15:41:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A FAA afirma que o arco proposto por Trump exigirá uma “chama eterna” no topo para alertar os pilotos",
+      "titleOriginal": "FAA says proposed Trump arch will require 'eternal flame' on top to alert pilots",
+      "link": "https://thehill.com/homenews/administration/6099725-faa-trump-triumphal-arch-eternal-flame/",
+      "publishedAt": "2026-09-19T15:12:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump já tentou proibir a presença de repórteres em espaços governamentais anteriormente",
+      "titleOriginal": "Trump Has Tried to Ban Reporters From Government Spaces Before",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
+      "publishedAt": "2026-09-19T15:00:15.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "A Experiência de Elegibilidade da Pesquisa do POLITICO",
       "titleOriginal": "The POLITICO Poll Electability Experiment",
       "link": "https://www.politico.com/f/?id=000001a0-ba1e-d805-aff0-fe7f837b0000",
       "publishedAt": "2026-09-19T14:43:36.000Z"
@@ -15,62 +71,6 @@
       "titleOriginal": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate",
       "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
       "publishedAt": "2026-09-19T14:35:49.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Os estados devem ter voz”: Candidatos ao cargo de governador disputam a regulamentação da IA",
-      "titleOriginal": "‘States should have a say’: Candidates for governor race to take on AI regulation",
-      "link": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cuidado com os políticos que afirmam nos proteger da imprensa",
-      "titleOriginal": "Beware of politicians claiming to protect us from the press",
-      "link": "https://thehill.com/opinion/white-house/6099102-beware-of-politicians-claiming-to-protect-us-from-the-press/",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Sandoz obtém aprovação no Canadá para a versão genérica do Ozempic",
-      "titleOriginal": "Sandoz Gets Canada Approval for Generic Version of Ozempic",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmRXUEFBeTRKZldVVS1ERjBDTjFjRmZLamFCbXY4a0g0N3hDaEJBdGlYMHlxZXoxcXhtdHV3R0QwbkhjRE9CeTdBeDkzbDBQYXh2OGVVWFJwZWJPTjg2NExlQ1ZTbE1saE5faGZ1R1ZYS2ZBcWM1RDNYRGgyeEFDOTdiWDNidVhnZ2ttME56WmZCVER3ekhPVTlVYU5qZ0l2MllV?oc=5",
-      "publishedAt": "2026-09-19T13:24:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A guerra no Irã causa sofrimento global no posto de gasolina",
-      "titleOriginal": "Iran war causes global pain at the pump",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5",
-      "publishedAt": "2026-09-19T13:20:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Por que o governo Trump está perseguindo jornalistas estrangeiros?",
-      "titleOriginal": "Why is the Trump administration targeting foreign journalists?",
-      "link": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
-      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
-      "publishedAt": "2026-09-19T12:58:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ação judicial acusa a Anthropic, a OpenAI, a SpaceXAI e o Google de “conluio” no ritmo de desenvolvimento da IA",
-      "titleOriginal": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing 'collusion'",
-      "link": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
-      "publishedAt": "2026-09-19T12:16:40.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O futebol americano impulsiona a campanha publicitária na TV do Partido Republicano para as eleições de meio de mandato",
-      "titleOriginal": "Football drives GOP's TV ad blitz for the midterms",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mSU90Q0Ixa21aeUFSNng3ZGwxSTZJTkRnNWhIMEw5OHcxUjllTXdJaDhtZFctM2haYmFRODE2NnJzNG5xWUlobHR6RTlkZTZ3VXd0c05NMDV4Uk9uaGtOTXhKa3F4azZZR0sxRGR3eHJNb1pIMXc?oc=5",
-      "publishedAt": "2026-09-19T12:01:40.000Z"
     }
   ]
 }
