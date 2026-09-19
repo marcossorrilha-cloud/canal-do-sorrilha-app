@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-09-19T00:21:50.255Z",
+  "updatedAt": "2026-09-19T01:36:43.067Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A abertura de capital da SpaceX deu a esse casal a liberdade para perseguir seus sonhos",
+      "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
+      "publishedAt": "2026-09-19T01:27:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hegseth apoia Trump na proibição de veículos de comunicação",
+      "titleOriginal": "Hegseth backs Trump on banning media outlets",
+      "link": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
+      "publishedAt": "2026-09-19T00:37:32.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "EUA e Dinamarca chegam a um acordo de segurança sobre a Groenlândia, afirma Trump",
-      "titleOriginal": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
-      "publishedAt": "2026-09-18T23:58:06.000Z"
+      "title": "Trump afirma ter proibido a CNN, a MS NOW e o Politico de entrar na Casa Branca",
+      "titleOriginal": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+      "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
+      "publishedAt": "2026-09-19T00:31:59.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Apoiadores do Kennedy Center se mobilizam em meio a temores de que Trump o demolir",
+      "titleOriginal": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
+      "publishedAt": "2026-09-19T00:16:49.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã afirma ter atacado um petroleiro no Estreito de Ormuz, além de outros acontecimentos no Oriente Médio",
+      "titleOriginal": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
+      "publishedAt": "2026-09-18T23:39:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump afirma ter fechado acordo de segurança e militar com a Dinamarca sobre a Groenlândia",
+      "titleOriginal": "Trump claims security, military deal with Denmark over Greenland",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yTzNFMERzSHJxZ3ZYaW41MHR5VUZabnRMTWNlSTRLYWpBQzlQX2NrNmMyTjVlbnBQOFB5eERYWV94V1d0clpiTDJnUW40OE1jZ2VIS3V3X04yUDBfN1F4MUtLTllZdzhXX2ZhTTV3?oc=5",
+      "publishedAt": "2026-09-18T23:33:30.000Z"
     },
     {
       "source": "The Hill",
@@ -24,11 +59,11 @@
       "publishedAt": "2026-09-18T23:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma ter proibido a CNN, a MS NOW e o Politico de entrar na Casa Branca",
-      "titleOriginal": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-      "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-      "publishedAt": "2026-09-18T23:04:21.000Z"
+      "source": "Axios",
+      "title": "O Departamento de Justiça não aplicará a proibição do porte de armas de fogo para jovens de 18 a 20 anos",
+      "titleOriginal": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOTlXdWdiRjZfUjZkN2hiWjJGSTJrQUh0QmJaT3c2NE0ycXlxb3E5QUlfeklfNWRWaHFGamFzc3Z5SEpJQ3l1U3F4aU1Za1dqajg4WmRva1dJeFRvNEJLdExsNTJuOGxMbEk4Mnk4Sk03TTJhRWZZYw?oc=5",
+      "publishedAt": "2026-09-18T23:19:20.000Z"
     },
     {
       "source": "Axios",
@@ -36,41 +71,6 @@
       "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
       "publishedAt": "2026-09-18T22:51:32.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ativistas pró-direito ao aborto em Idaho encontram seu argumento: trazer os médicos de volta",
-      "titleOriginal": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html",
-      "publishedAt": "2026-09-18T22:41:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tribunal de Apelações restringe medidas de deportação do governo Trump",
-      "titleOriginal": "Appeals Court Restricts Trump Administration Deportation Effort",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
-      "publishedAt": "2026-09-18T22:38:43.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump afirma que os EUA chegaram a um acordo de segurança com a Groenlândia",
-      "titleOriginal": "Trump Says U.S. Has Reached Greenland Security Agreement",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDdJa01FS3RIcFdHS0FSV2pWUU85TWJwWTlZem4tNVpQcThnSUhHYWRmdHE3bTlqcUhhb2d0SzRMRDNoWnJZU3F0cWpzbzNZMEU0a1p5RC1Db0FpeUpWOU04XzZKdi1YT2d4cmt1RERFSG5yZU1FUk0tSE5SRFdMSmRRVklSMG9GdGhfbUNzeENNckVXcGNSSzBQVXE4c3hsdFlON3RDM1ZLREJNRklUVGplUDFUZUtZajV2ZzFrMm0tdw?oc=5",
-      "publishedAt": "2026-09-18T22:37:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que o fato de a festa de casamento de seu filho ser financiada por um oligarca russo é “totalmente permitido”",
-      "titleOriginal": "Trump says his son’s wedding party being bankrolled by a Russian oligarch is ‘totally allowed’",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDRJS19CQVB3QVhucmVfWHgxY3BxSGFRYVRMUmtFbTYzRXhwcDVMc3RtV2dvTmpvVVZKb0xkUnRfSUkxLWdSWnhtcTZyTHA4LWZMZG1VMGZUQ3hfY2xoWkt2VHRJcE15aWNtZEM3RVVVdllieTNxNXdUdjlXVV9ZUWFlY1IwOU9TaVBDOEVR?oc=5",
-      "publishedAt": "2026-09-18T22:28:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicano destaca homem libertado da custódia do ICE em anúncio de campanha",
-      "titleOriginal": "Republican highlights man freed from ICE custody in campaign ad",
-      "link": "https://thehill.com/homenews/house/6099073-texas-republican-ice-release-ad/",
-      "publishedAt": "2026-09-18T22:27:37.000Z"
     }
   ]
 }
