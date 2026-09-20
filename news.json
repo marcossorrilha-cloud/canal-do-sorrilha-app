@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-20T19:03:12.385Z",
+  "updatedAt": "2026-09-20T19:27:33.773Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Hassett sobre a guerra com o Irã: “O presidente precisava agir”",
+      "titleOriginal": "Hassett on Iran war: 'The president had to act'",
+      "link": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/",
+      "publishedAt": "2026-09-20T19:20:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Abdul El-Sayed, um democrata, tem um defensor improvável: Tucker Carlson",
+      "titleOriginal": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+      "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
+      "publishedAt": "2026-09-20T19:17:26.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Rússia encerra a primeira eleição parlamentar em tempo de guerra, com o domínio do Kremlin praticamente garantido",
+      "titleOriginal": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+      "publishedAt": "2026-09-20T19:06:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma cadeira no Senado pelo Maine",
@@ -10,11 +31,11 @@
       "publishedAt": "2026-09-20T18:52:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | O presente tarifário para Abdul El-Sayed",
-      "titleOriginal": "Opinion | The Tariff Gift to Abdul El-Sayed",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFcweS1teW9VUC1ib0N0OWpRUXZxWFFyeUl3MTBtZjVjRjZYR3FPTTBxalR5cWl6dlJvQ0k2N0xBUUxMOGhqV3pwczFoTEE2X1BpYkNNOFpoVks2c0Z5eWtfaHBOUkJMbUIyMElncURSWncydEFDbnNSQksxQjhxZHVaa1IteVVjRkNsa25fV3ZZZw?oc=5",
-      "publishedAt": "2026-09-20T18:46:32.000Z"
+      "source": "AP News",
+      "title": "18 suspeitos acusados do assassinato do presidente do Haiti, ocorrido em julho de 2021, estão sendo extraditados do Haiti para os EUA",
+      "titleOriginal": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
+      "publishedAt": "2026-09-20T18:48:00.000Z"
     },
     {
       "source": "AP News",
@@ -38,13 +59,6 @@
       "publishedAt": "2026-09-20T17:49:05.000Z"
     },
     {
-      "source": "AP News",
-      "title": "18 suspeitos acusados do assassinato do presidente do Haiti, ocorrido em julho de 2021, estão sendo extraditados do Haiti para os EUA",
-      "titleOriginal": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
-      "publishedAt": "2026-09-20T17:46:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Canadá está pronto para exigir a devolução do dinheiro concedido à Stellantis, a menos que a produção seja retomada na fábrica na região de Toronto",
       "titleOriginal": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-09-20T17:32:57.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Abdul-El Sayed, um democrata, tem um defensor improvável: Tucker Carlson",
-      "titleOriginal": "Abdul-El Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
-      "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
-      "publishedAt": "2026-09-20T17:32:52.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "A abertura de capital da SpaceX deu a esse casal a liberdade para perseguir seus sonhos",
       "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
       "publishedAt": "2026-09-20T17:32:43.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia encerra a primeira eleição parlamentar em tempo de guerra, com o domínio do Kremlin praticamente garantido",
-      "titleOriginal": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
-      "publishedAt": "2026-09-20T17:19:00.000Z"
     }
   ]
 }
