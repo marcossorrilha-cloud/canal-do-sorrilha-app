@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-09-20T12:23:00.754Z",
+  "updatedAt": "2026-09-20T12:37:33.728Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Três figuras influentes do Partido Republicano entram em um bar em Washington, D.C., e...",
+      "titleOriginal": "Three Republican power players walk into a D.C. bar, and ...",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CcFR6Z1MyWnZ2X0pCUk14MzVYa3g0TFZYRXc1X1JGd2ttcDF2TndGM0FYUDFnNVVQMGtUdzZxVS1aN1dXdEdkQlpxVENSOXdjQ2hoNVVDMDRaNHN1SXZPSDgyWWlZNjBxVWx1ZDBLX1A0dE1w?oc=5",
+      "publishedAt": "2026-09-20T12:27:18.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O arco proposto por Trump para Washington se tornará uma instalação para atiradores de elite e drones",
+      "titleOriginal": "Trump's proposed Washington arch to become sniper, drone facility",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZGRkbUVUWnlBQWpUN0NERktPOGxjd0xLNm1CMEx6eFdYYVlBSGhOMHI0UkVSMGtnbVYzbF9IM2xuZ3ZhX3JvWlFiN0tzUm93QkJZdUNFM3M4cXd1VGlyaUVOTGRXZFE5NU5neXNVd2lsWk10MXN5bw?oc=5",
+      "publishedAt": "2026-09-20T12:11:15.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma cadeira no Senado pelo Maine",
+      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma vaga no Senado pelo Maine",
       "titleOriginal": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
       "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
       "publishedAt": "2026-09-20T12:11:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Será que o novo plano de “dividir para conquistar” de Trump vai surtir efeito contra as universidades?",
+      "titleOriginal": "Will Trump's new divide-and-conquer plan work against universities?",
+      "link": "https://thehill.com/opinion/education/6097990-trump-education-call-to-action/",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -18,17 +39,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Obama critica Trump por causa da política de IA em meio a alertas de “fim do mundo”",
+      "title": "Obama critica Trump por causa da política de IA em meio a alertas sobre o “fim do mundo”",
       "titleOriginal": "Obama rips Trump over AI policy amid 'doomsday' warnings",
       "link": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
       "publishedAt": "2026-09-20T11:52:36.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O arco proposto por Trump para Washington se tornará uma instalação para atiradores de elite e drones",
-      "titleOriginal": "Trump's proposed Washington arch to become sniper, drone facility",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZGRkbUVUWnlBQWpUN0NERktPOGxjd0xLNm1CMEx6eFdYYVlBSGhOMHI0UkVSMGtnbVYzbF9IM2xuZ3ZhX3JvWlFiN0tzUm93QkJZdUNFM3M4cXd1VGlyaUVOTGRXZFE5NU5neXNVd2lsWk10MXN5bw?oc=5",
-      "publishedAt": "2026-09-20T11:52:18.000Z"
     },
     {
       "source": "AP News",
@@ -39,7 +53,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Canadá está pronto para exigir a devolução do dinheiro concedido à Stellantis, a menos que a produção seja retomada na fábrica na região de Toronto",
+      "title": "Esgotados e desempregados, jovens na China estão lançando startups de IA",
+      "titleOriginal": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+      "publishedAt": "2026-09-20T11:35:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Canadá está pronto para exigir a devolução do dinheiro concedido à Stellantis, a menos que a produção seja retomada na fábrica da região de Toronto",
       "titleOriginal": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjhjazJMdklNbWtNOEV6d0QwZ0tQMER2YnRNTUtFVVZZUmxVWGl3ZG5lcEUyUVIwd2JPMEwwY0lTSUxMY2xRUU1fVXpJdXg3TEhVeUdGOG0tNEx3aGU2TTFaY21wT0thbU5zUi1hWjlWRGx3a19HWFlmcFdWOTRkMVpZSlp1UllzMkNndVA1N1ZZd1dUcV8yZ0huc2o5TExZd3Flb2V2ZEE1X1dZa05pOER4d3R3QXNnYlNjRG1uajR5aTIwN0g4WURkRVdpTjA?oc=5",
       "publishedAt": "2026-09-20T11:32:56.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
       "publishedAt": "2026-09-20T11:32:43.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Redes hospitalares urbanas encerram formalmente a prestação de cuidados diferenciados por gênero em acordos com o Departamento de Justiça",
-      "titleOriginal": "Urban Hospital Systems Formally End Gender Care in Deals With Justice Department",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmFZY01qQ2VCRFNXYnlpSWxDSlF0cGNNZnNacmVmbEpqY1VObHhZWFkyODR0ejNDcVhOd0M1dmQ3SVlwekthd0lBcmkzS3drVEc0b2dlZmZ3RG1wdWFIbFZuOUZhS1JuOXpCTVJTOUU2bmJCOXhMSFg2cnhRaW94bm15X3pSbXRWSzBtck1tRWIxMXNEeGR0VXUxNU5zZTNmM3lwNExrbGFYamttVWNQbmJndzc0b1VsbEhPWmNQY2ZtX1I5YkE?oc=5",
-      "publishedAt": "2026-09-20T11:26:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Estado do Texas: A disputa pelo Senado e pelo governo do Texas ganha força",
-      "titleOriginal": "State of Texas: Race for Texas senate, governor heating up",
-      "link": "https://thehill.com/homenews/state-watch/6100074-state-of-texas-race-for-texas-senate-governor-heating-up/",
-      "publishedAt": "2026-09-20T11:07:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Ucrânia lança mais de 1.000 drones contra a Rússia, incluindo centenas direcionados a Moscou",
-      "titleOriginal": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-      "publishedAt": "2026-09-20T10:40:00.000Z"
     }
   ]
 }
