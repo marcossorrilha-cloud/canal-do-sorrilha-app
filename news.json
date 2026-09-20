@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-20T16:29:14.326Z",
+  "updatedAt": "2026-09-20T16:48:24.212Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Compradores do Lakers apresentam planos para atingir avaliação de US$ 30 bilhões em apresentação aos investidores",
+      "titleOriginal": "Exclusive | Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE9ZeWZPeEtnY1doTVJWRndBRVJVZ1dEd3J6SjQwaVlxRGNQUEtBTmpGQk1pTWRxTEx4dkpKb0JmbEtfcVFpaDV2VFlPZ3NxeXdqbFg4MkRzcFNremRmUVRMcXFyX1JIUzdzOHZIMVRUYkh2M0h5UWV6MTF2eXRzTkRJNlNvdFNOVmNjT3hYR09RclNtdGFIR0VDMjkzMk1sQ3hhVG5MTm1HZW9UQVR0Wk5zN2twX3c?oc=5",
+      "publishedAt": "2026-09-20T16:44:46.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Merz promete seguir em frente com as reformas após derrota histórica nas eleições estaduais",
+      "titleOriginal": "Merz vows to press ahead with reforms after historic state election defeat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
+      "publishedAt": "2026-09-20T16:41:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma cadeira no Senado pelo Maine",
+      "titleOriginal": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
+      "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
+      "publishedAt": "2026-09-20T16:29:29.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Esgotados e desempregados, jovens na China estão criando startups de IA",
+      "titleOriginal": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+      "publishedAt": "2026-09-20T16:07:14.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A alta nos preços do diesel representa o mais recente problema econômico para o Partido Republicano",
@@ -15,13 +43,6 @@
       "titleOriginal": "Urban Hospital Systems Formally End Gender Care in Deals With Justice Department",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmFZY01qQ2VCRFNXYnlpSWxDSlF0cGNNZnNacmVmbEpqY1VObHhZWFkyODR0ejNDcVhOd0M1dmQ3SVlwekthd0lBcmkzS3drVEc0b2dlZmZ3RG1wdWFIbFZuOUZhS1JuOXpCTVJTOUU2bmJCOXhMSFg2cnhRaW94bm15X3pSbXRWSzBtck1tRWIxMXNEeGR0VXUxNU5zZTNmM3lwNExrbGFYamttVWNQbmJndzc0b1VsbEhPWmNQY2ZtX1I5YkE?oc=5",
       "publishedAt": "2026-09-20T15:56:21.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma cadeira no Senado pelo Maine",
-      "titleOriginal": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
-      "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
-      "publishedAt": "2026-09-20T15:51:46.000Z"
     },
     {
       "source": "Axios",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-20T15:01:53.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A China pode evitar uma crise financeira. Mas não pode evitar os custos.",
-      "titleOriginal": "China Can Avoid a Financial Crisis. It Can’t Avoid the Cost.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1FhVl95SHVVOVZsVWJmVEZiN0hoQlUtc3JLdVg4MEdDb0FHaEwzNjJCUnh6N2tna3lMUHJKR0dOaXFUd1ljM1Q5NzZFVjRfYTNOdTBLQUdCWWxkV3dNMEFEQmNGR25hMkM5LXk5ZmZzVGFzb090a0RFRUFjNkkxMG8zTUhXOXhZRlBqZzlFNTM2bzJ1SlltQ0MtMA?oc=5",
-      "publishedAt": "2026-09-20T14:58:24.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Waltz afirma que Trump está “totalmente no seu direito” de barrar repórteres que “não agem” de boa-fé",
+      "title": "Waltz afirma que Trump está “totalmente no seu direito” de impedir a entrada de repórteres que “não estejam agindo” de boa-fé",
       "titleOriginal": "Waltz says Trump 'absolutely within his rights' to bar reporters 'not behaving' in good faith",
       "link": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/",
       "publishedAt": "2026-09-20T14:36:08.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Israelense é morto a tiros na Cisjordânia ocupada e outros acontecimentos no Oriente Médio",
-      "titleOriginal": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU81dDZnbW5CVWJaQTlBWXpfcGxXd2xJSlAyT3FwX182SDQxenhzdVI2cEpKMC1CbEVtUVJkN3UweGpCbHFTMHM2a0QyejJ3S1o3YVdOVVBMZm85SFpfZXBaOVVDMG9ZdlRhQ21KMXlsSlZOdXlnNUdCXzh2S0NBdm1WVWtITWxJTEhwM3E0TWU1SUhrSkVTRmNkNXRWelE?oc=5",
-      "publishedAt": "2026-09-20T14:04:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As postagens questionáveis de Trump nas redes sociais sobre o espaço merecem ser contextualizadas",
-      "titleOriginal": "Trump's questionable social media posts on space deserve context",
-      "link": "https://thehill.com/opinion/technology/6098557-trump-space-force-uniforms/",
-      "publishedAt": "2026-09-20T14:00:00.000Z"
     }
   ]
 }
