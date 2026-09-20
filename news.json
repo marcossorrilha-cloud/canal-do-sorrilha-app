@@ -1,24 +1,17 @@
 {
-  "updatedAt": "2026-09-20T06:18:16.610Z",
+  "updatedAt": "2026-09-20T07:02:14.764Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
-      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
-      "publishedAt": "2026-09-20T06:04:08.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ed Sheeran afirma que a situação em Gaza é “catastrófica e injustificável” ao iniciar o show",
-      "titleOriginal": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
-      "publishedAt": "2026-09-20T03:50:00.000Z"
+      "source": "The Hill",
+      "title": "Trump retorna à Casa Branca enquanto o Departamento de Estado emite alertas de segurança para o Oriente Médio",
+      "titleOriginal": "Trump returns to White House as State Department issues security alerts for Middle East",
+      "link": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
+      "publishedAt": "2026-09-20T01:28:05.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump sofreu derrota após derrota. Em seguida, voltou-se para um alvo já conhecido: a imprensa.",
+      "title": "Trump sofreu derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
       "titleOriginal": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
       "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
       "publishedAt": "2026-09-20T00:37:08.000Z"
@@ -38,13 +31,6 @@
       "publishedAt": "2026-09-19T23:53:16.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump quer um novo czar da IA e uma “Força de IA” inspirada na Força Espacial",
-      "titleOriginal": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5",
-      "publishedAt": "2026-09-19T23:15:03.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Califórnia toma medidas contra anúncios políticos não declarados de influenciadores",
       "titleOriginal": "California Cracks Down on Influencers’ Undisclosed Political Ads",
@@ -59,18 +45,32 @@
       "publishedAt": "2026-09-19T22:29:57.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Brendan Farrington, repórter de longa data da AP especializado em política da Flórida, morre aos 60 anos",
-      "titleOriginal": "Longtime AP Florida politics reporter Brendan Farrington dies at 60",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlBDQTNLSHRNbmNCMHZIX1ItTGI0UW11a0dXUE9tZDU5dUNrWUdyUWc3UGY3bEw5U2RuZ0lnY3pQRFYtWDF6dTVIT0Ywc0QzMmh0UjFManJOWThzWGFBaEJQcjBSc0o1OEtGckhmRENNb0NaNWh6NkNiaUJlUFVsWEN4dlFfQkM4VjViZmoxeC1JZFlOWEh2ZVdpVXl5MmtrLUdsQThoUHpOUTdtSkIzbXR6XzFRV2FraHk4?oc=5",
-      "publishedAt": "2026-09-19T22:29:00.000Z"
+      "source": "The Hill",
+      "title": "Patel afirma que o FBI tem usado IA para impedir tiroteios em escolas",
+      "titleOriginal": "Patel says FBI has used AI to stop school shootings",
+      "link": "https://thehill.com/homenews/administration/6100038-patel-fbi-ai-school-shootings/",
+      "publishedAt": "2026-09-19T22:09:01.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O Congo inicia a vacinação contra o ebola para profissionais de saúde no epicentro do surto",
-      "titleOriginal": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjVHQUFXN1Zmc2RXN2hsOURHY1R3MVIwcUp1RUlHSjBXQ3FyYnRYMlpQYkVuOUE1d2M3VVpKSTlVQmZlTFZfbUZ6NXFjVERFVVlRWWltVjE0dGlqWjVESndJV0hnS1ZIbWZoWlg3R2FYUWZQSHhTakxkYjFJejBGS1FDZjZSNkFyQmg4RjFvaWRRejFqaHlOSHgySkVSZw?oc=5",
-      "publishedAt": "2026-09-19T22:19:00.000Z"
+      "source": "New York Times",
+      "title": "Veículos de comunicação expressam solidariedade após Trump proibir a entrada de alguns repórteres",
+      "titleOriginal": "News Outlets Express Solidarity After Trump Bars Some Reporters",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
+      "publishedAt": "2026-09-19T21:48:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump dá início à construção do muro na fronteira de Big Bend, no Texas",
+      "titleOriginal": "Trump administration begins construction on Texas's Big Bend border wall",
+      "link": "https://thehill.com/homenews/administration/6100003-trump-border-wall-big-bend-construction/",
+      "publishedAt": "2026-09-19T21:22:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Legisladores consideram um desperdício os custos “absurdos” de US$ 7 bilhões da aquisição da DOGE",
+      "titleOriginal": "Lawmakers see waste in DOGE’s ‘stupid’ $7B buyout costs",
+      "link": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
+      "publishedAt": "2026-09-19T21:00:00.000Z"
     }
   ]
 }
