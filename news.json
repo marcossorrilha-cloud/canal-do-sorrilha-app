@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-20T12:37:33.728Z",
+  "updatedAt": "2026-09-20T16:29:14.326Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Três figuras influentes do Partido Republicano entram em um bar em Washington, D.C., e...",
-      "titleOriginal": "Three Republican power players walk into a D.C. bar, and ...",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CcFR6Z1MyWnZ2X0pCUk14MzVYa3g0TFZYRXc1X1JGd2ttcDF2TndGM0FYUDFnNVVQMGtUdzZxVS1aN1dXdEdkQlpxVENSOXdjQ2hoNVVDMDRaNHN1SXZPSDgyWWlZNjBxVWx1ZDBLX1A0dE1w?oc=5",
-      "publishedAt": "2026-09-20T12:27:18.000Z"
+      "source": "The Hill",
+      "title": "A alta nos preços do diesel representa o mais recente problema econômico para o Partido Republicano",
+      "titleOriginal": "Soaring diesel prices pose latest economic headache for GOP",
+      "link": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/",
+      "publishedAt": "2026-09-20T16:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O arco proposto por Trump para Washington se tornará uma instalação para atiradores de elite e drones",
-      "titleOriginal": "Trump's proposed Washington arch to become sniper, drone facility",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZGRkbUVUWnlBQWpUN0NERktPOGxjd0xLNm1CMEx6eFdYYVlBSGhOMHI0UkVSMGtnbVYzbF9IM2xuZ3ZhX3JvWlFiN0tzUm93QkJZdUNFM3M4cXd1VGlyaUVOTGRXZFE5NU5neXNVd2lsWk10MXN5bw?oc=5",
-      "publishedAt": "2026-09-20T12:11:15.000Z"
+      "source": "Wall Street Journal",
+      "title": "Redes de hospitais urbanos encerram formalmente a prestação de cuidados diferenciados por gênero em acordos com o Departamento de Justiça",
+      "titleOriginal": "Urban Hospital Systems Formally End Gender Care in Deals With Justice Department",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmFZY01qQ2VCRFNXYnlpSWxDSlF0cGNNZnNacmVmbEpqY1VObHhZWFkyODR0ejNDcVhOd0M1dmQ3SVlwekthd0lBcmkzS3drVEc0b2dlZmZ3RG1wdWFIbFZuOUZhS1JuOXpCTVJTOUU2bmJCOXhMSFg2cnhRaW94bm15X3pSbXRWSzBtck1tRWIxMXNEeGR0VXUxNU5zZTNmM3lwNExrbGFYamttVWNQbmJndzc0b1VsbEhPWmNQY2ZtX1I5YkE?oc=5",
+      "publishedAt": "2026-09-20T15:56:21.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma vaga no Senado pelo Maine",
+      "title": "Troy Jackson, um candidato progressista e combativo, tenta conquistar uma cadeira no Senado pelo Maine",
       "titleOriginal": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
       "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
-      "publishedAt": "2026-09-20T12:11:05.000Z"
+      "publishedAt": "2026-09-20T15:51:46.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Mais democratas pretendem votar presencialmente nas eleições intermediárias, revela pesquisa da NBC",
+      "titleOriginal": "More Democrats plan to vote in person in midterms, NBC poll finds",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVMyRVotSmlPNlJWeUZfUUhmSXVtMmlOMjJhZm5aMkk3Zmwybmh0OXRxZF9aQkpEUllzcGJQaUE1eFZ6RjhRNC04SGhfMEtibGd2TlViTnJCZDEzczhZUEFkS1l5UV9SMTVXSE5hWFZ2b2RWdlBfN0FqSjA0SEtObzRrcnd1Zw?oc=5",
+      "publishedAt": "2026-09-20T15:07:57.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Será que o novo plano de “dividir para conquistar” de Trump vai surtir efeito contra as universidades?",
-      "titleOriginal": "Will Trump's new divide-and-conquer plan work against universities?",
-      "link": "https://thehill.com/opinion/education/6097990-trump-education-call-to-action/",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
+      "title": "Trump sobre o Irã: “Minha pergunta é: se e quando vou explodir o país inteiro?”",
+      "titleOriginal": "Trump on Iran: 'My question is, if and when do I blow the entire nation up?'",
+      "link": "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/",
+      "publishedAt": "2026-09-20T15:07:56.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Empresa de stablecoins voltada para grandes empresas obtém licença bancária condicional",
+      "titleOriginal": "Exclusive | Stablecoin Company for Big Business Gets a Conditional Banking License",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakFkbDU3cVdxT3JLMmpmOHlQcm1leGoxaXJkTVZRTTBnRENQQnoyWWJVNXNWaFVPbERUdWZ3cVVjX0UwOV9XdG9feGlBMEdncjhacGt2OHNoSlVwVDZiSEhOc2tPUEV2Q2VvbTdYSVVfQlBfNUl1eTZDZC1zTTh1VGp1Sk1MOXFoSmNQUUJSa3VqbHJDOTl5WU1qZzZiYWItcGhfNGppQ1JQQ19ZUHo3WEtUVDVSVDNnYXc?oc=5",
+      "publishedAt": "2026-09-20T15:01:53.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "A China pode evitar uma crise financeira. Mas não pode evitar os custos.",
       "titleOriginal": "China Can Avoid a Financial Crisis. It Can’t Avoid the Cost.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1FhVl95SHVVOVZsVWJmVEZiN0hoQlUtc3JLdVg4MEdDb0FHaEwzNjJCUnh6N2tna3lMUHJKR0dOaXFUd1ljM1Q5NzZFVjRfYTNOdTBLQUdCWWxkV3dNMEFEQmNGR25hMkM5LXk5ZmZzVGFzb090a0RFRUFjNkkxMG8zTUhXOXhZRlBqZzlFNTM2bzJ1SlltQ0MtMA?oc=5",
-      "publishedAt": "2026-09-20T11:58:24.000Z"
+      "publishedAt": "2026-09-20T14:58:24.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Obama critica Trump por causa da política de IA em meio a alertas sobre o “fim do mundo”",
-      "titleOriginal": "Obama rips Trump over AI policy amid 'doomsday' warnings",
-      "link": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
-      "publishedAt": "2026-09-20T11:52:36.000Z"
+      "title": "Waltz afirma que Trump está “totalmente no seu direito” de barrar repórteres que “não agem” de boa-fé",
+      "titleOriginal": "Waltz says Trump 'absolutely within his rights' to bar reporters 'not behaving' in good faith",
+      "link": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/",
+      "publishedAt": "2026-09-20T14:36:08.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump costumava criticar a China. Veja por que agora ele está estendendo o tapete vermelho para Xi",
-      "titleOriginal": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmY1N25RRnlzbndnTndEbFN0aU1iWXFGaXFhaXZ2R3lJZWFvcW9rTWViMWVFU1ZHLTk1UHI1eHNzeUFsTmFxckxVeklqOXNZWW5jMFZVeTdkdnEza0FPUzVIR0NKNWlZSVZrLXhhRENCRFRBRE1CVFI3TExiV0NDQUlwcldZTkN5dnpMMUJGUHlTRjVTWWVWUFdHQndRSUJHZjI3QVdn?oc=5",
-      "publishedAt": "2026-09-20T11:35:00.000Z"
+      "title": "Israelense é morto a tiros na Cisjordânia ocupada e outros acontecimentos no Oriente Médio",
+      "titleOriginal": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU81dDZnbW5CVWJaQTlBWXpfcGxXd2xJSlAyT3FwX182SDQxenhzdVI2cEpKMC1CbEVtUVJkN3UweGpCbHFTMHM2a0QyejJ3S1o3YVdOVVBMZm85SFpfZXBaOVVDMG9ZdlRhQ21KMXlsSlZOdXlnNUdCXzh2S0NBdm1WVWtITWxJTEhwM3E0TWU1SUhrSkVTRmNkNXRWelE?oc=5",
+      "publishedAt": "2026-09-20T14:04:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Esgotados e desempregados, jovens na China estão lançando startups de IA",
-      "titleOriginal": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
-      "publishedAt": "2026-09-20T11:35:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá está pronto para exigir a devolução do dinheiro concedido à Stellantis, a menos que a produção seja retomada na fábrica da região de Toronto",
-      "titleOriginal": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjhjazJMdklNbWtNOEV6d0QwZ0tQMER2YnRNTUtFVVZZUmxVWGl3ZG5lcEUyUVIwd2JPMEwwY0lTSUxMY2xRUU1fVXpJdXg3TEhVeUdGOG0tNEx3aGU2TTFaY21wT0thbU5zUi1hWjlWRGx3a19HWFlmcFdWOTRkMVpZSlp1UllzMkNndVA1N1ZZd1dUcV8yZ0huc2o5TExZd3Flb2V2ZEE1X1dZa05pOER4d3R3QXNnYlNjRG1uajR5aTIwN0g4WURkRVdpTjA?oc=5",
-      "publishedAt": "2026-09-20T11:32:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A abertura de capital da SpaceX deu a esse casal a liberdade de perseguir seus sonhos",
-      "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
-      "publishedAt": "2026-09-20T11:32:43.000Z"
+      "source": "The Hill",
+      "title": "As postagens questionáveis de Trump nas redes sociais sobre o espaço merecem ser contextualizadas",
+      "titleOriginal": "Trump's questionable social media posts on space deserve context",
+      "link": "https://thehill.com/opinion/technology/6098557-trump-space-force-uniforms/",
+      "publishedAt": "2026-09-20T14:00:00.000Z"
     }
   ]
 }
