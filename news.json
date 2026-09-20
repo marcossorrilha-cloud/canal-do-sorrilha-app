@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-20T01:10:37.074Z",
+  "updatedAt": "2026-09-20T01:39:08.921Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
-      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
-      "publishedAt": "2026-09-20T00:53:07.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Trump enfrentou derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
+      "title": "Trump sofreu derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
       "titleOriginal": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
       "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
       "publishedAt": "2026-09-20T00:37:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Fãs obstinados de Ed Sheeran comparecem pela música — e não pela polêmica —, enquanto a turnê é retomada sem artistas de abertura anunciados",
+      "titleOriginal": "Defiant Ed Sheeran Fans Show Up for the Music—Not Controversy—as Tour Resumes With No Billed Openers",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGNvVXVXMC1qdXB2R1M3OV94LU9Pci1NOUh6WFJoMWRxOU52OTdVdGlfcFhfUDk2UmxNMFlIaDZ6QXFWLWhFY3U0VDdKSVVnWHJGSEtsVk9QOHg4MVQ5SUo3SDlnY3d4d24yS2QwdlZ0UTNrdGI5bWRiTTVtdVAtMGNQYU1kOTY4YUx4enJ4LXFFVWtzOWl3c1VQcEtGVUZDT3cyN0dWLTNuUmR5aXBoS25aeU5xRDhyNms4bHN5eHZvZTlSYWtiSXc4UGUtTXprSmNGd3FodkljTkIxbkZN?oc=5",
+      "publishedAt": "2026-09-20T00:32:00.000Z"
     },
     {
       "source": "New York Times",
@@ -25,14 +25,14 @@
     },
     {
       "source": "The Hill",
-      "title": "A MAGA Inc., de Trump, injeta mais US$ 5 milhões na disputa pelo Senado no Texas",
+      "title": "A MAGA Inc., de Trump, injeta mais US$ 5 milhões na disputa pelo Senado do Texas",
       "titleOriginal": "Trump's MAGA Inc. funnels another $5 million into Texas Senate race",
       "link": "https://thehill.com/homenews/campaign/6100079-trumps-maga-inc-funnels-another-5-million-into-texas-senate-race/",
       "publishedAt": "2026-09-19T23:53:16.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Califórnia toma medidas contra anúncios políticos não declarados de influenciadores",
+      "title": "Califórnia toma medidas contra anúncios políticos não divulgados por influenciadores",
       "titleOriginal": "California Cracks Down on Influencers’ Undisclosed Political Ads",
       "link": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
       "publishedAt": "2026-09-19T22:59:57.000Z"
@@ -67,7 +67,7 @@
     },
     {
       "source": "AP News",
-      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para restringir o avanço da IA",
+      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para desacelerar o desenvolvimento da IA",
       "titleOriginal": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
       "publishedAt": "2026-09-19T22:05:00.000Z"
