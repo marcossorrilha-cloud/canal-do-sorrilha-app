@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-19T23:32:59.701Z",
+  "updatedAt": "2026-09-20T01:10:37.074Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
+      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
+      "publishedAt": "2026-09-20T00:53:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump enfrentou derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
+      "titleOriginal": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
+      "publishedAt": "2026-09-20T00:37:08.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "IA fora de controle? Trump propõe, não novas regras, mas uma “Força de IA”.",
+      "titleOriginal": "A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’",
+      "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html",
+      "publishedAt": "2026-09-20T00:19:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A MAGA Inc., de Trump, injeta mais US$ 5 milhões na disputa pelo Senado no Texas",
+      "titleOriginal": "Trump's MAGA Inc. funnels another $5 million into Texas Senate race",
+      "link": "https://thehill.com/homenews/campaign/6100079-trumps-maga-inc-funnels-another-5-million-into-texas-senate-race/",
+      "publishedAt": "2026-09-19T23:53:16.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Califórnia toma medidas contra anúncios políticos não declarados de influenciadores",
@@ -10,18 +38,18 @@
       "publishedAt": "2026-09-19T22:59:57.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump sofreu derrota após derrota. Então, voltou-se para um alvo já conhecido: a imprensa.",
-      "titleOriginal": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
-      "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
-      "publishedAt": "2026-09-19T22:39:45.000Z"
-    },
-    {
       "source": "The Hill",
-      "title": "Newsom sanciona leis destinadas a impedir interferências eleitorais",
+      "title": "Newsom sanciona leis destinadas a impedir a interferência eleitoral",
       "titleOriginal": "Newsom signs laws aimed at preventing election interference",
       "link": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
       "publishedAt": "2026-09-19T22:29:57.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Brendan Farrington, repórter de longa data da AP especializado em política da Flórida, morre aos 60 anos",
+      "titleOriginal": "Longtime AP Florida politics reporter Brendan Farrington dies at 60",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlBDQTNLSHRNbmNCMHZIX1ItTGI0UW11a0dXUE9tZDU5dUNrWUdyUWc3UGY3bEw5U2RuZ0lnY3pQRFYtWDF6dTVIT0Ywc0QzMmh0UjFManJOWThzWGFBaEJQcjBSc0o1OEtGckhmRENNb0NaNWh6NkNiaUJlUFVsWEN4dlFfQkM4VjViZmoxeC1JZFlOWEh2ZVdpVXl5MmtrLUdsQThoUHpOUTdtSkIzbXR6XzFRV2FraHk4?oc=5",
+      "publishedAt": "2026-09-19T22:29:00.000Z"
     },
     {
       "source": "AP News",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para desacelerar o desenvolvimento da IA",
+      "title": "Ação judicial alega que a Anthropic, a OpenAI, a SpaceXAI e o Google firmaram um acordo ilegal para restringir o avanço da IA",
       "titleOriginal": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
       "publishedAt": "2026-09-19T22:05:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Veículos de comunicação manifestam solidariedade após Trump proibir a entrada de alguns repórteres",
-      "titleOriginal": "News Outlets Express Solidarity After Trump Bars Some Reporters",
-      "link": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
-      "publishedAt": "2026-09-19T21:48:10.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Relatório indica que a Anthropic ultrapassa a marca de US$ 100 bilhões em receita",
-      "titleOriginal": "Anthropic tops $100 billion revenue pace, report says",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "publishedAt": "2026-09-19T21:41:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores consideram um desperdício os custos “absurdos” de US$ 7 bilhões da aquisição da DOGE",
-      "titleOriginal": "Lawmakers see waste in DOGE’s ‘stupid’ $7B buyout costs",
-      "link": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
-      "publishedAt": "2026-09-19T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
-      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
-      "publishedAt": "2026-09-19T20:47:59.000Z"
     }
   ]
 }
