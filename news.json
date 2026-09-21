@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-21T11:06:09.954Z",
+  "updatedAt": "2026-09-21T14:10:16.563Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Mesmo no Kansas, um estado tradicionalmente republicano, o entusiasmo dos republicanos está diminuindo",
+      "titleOriginal": "Even in Reliably Red Kansas, Republican Enthusiasm Is Fading",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1ZkeFd5WEU5WlJMS0M1M2dmNFE2Vi15YV80VTBRTFAtRXYwaU50eE1Tdk42ZlNjeE5OOXpCa3JQeFpfdzl2SzdIWmNIa0t2eDZzV3BOeVVSYndTM2hMODJDVk16S2VVMW9ST1FWMTNGWUdmbU4tYTMwRlBCbVVxaldoUndMNzZ6cG1pUEJ1dTZPR0lVMlBVX2VVbHl3NWswTmRFTUFqQ1BXaUk?oc=5",
+      "publishedAt": "2026-09-21T14:00:52.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O apoio à liberdade de imprensa depende agora inteiramente de quem está no poder",
-      "titleOriginal": "Support for press freedom now depends entirely on who is in office",
-      "link": "https://thehill.com/opinion/campaign/6097222-pew-data-partisan-media-views/",
-      "publishedAt": "2026-09-21T11:00:00.000Z"
+      "title": "Senador republicano sobre o presente de casamento recebido por Trump Jr. de um oligarca russo: “Muito ruim”",
+      "titleOriginal": "Senate Republican on Trump Jr. wedding gift from Russian oligarch: 'Really bad'",
+      "link": "https://thehill.com/homenews/senate/6101458-cassidy-criticizes-trump-jr-gifts/",
+      "publishedAt": "2026-09-21T13:56:24.000Z"
     },
     {
       "source": "Axios",
-      "title": "Trump faz um gesto de desprezo ao eleitor americano",
-      "titleOriginal": "Trump thumbs his nose at the American voter",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ybmlrb2JUNFZ3SkpWal9pc21aczNNUkxOY3l3cmJ2RS00Tm5CbmZqbWxmSmxNTGxiZDZMbGkwUjFUam8wV29JT3Z0X0FfXy1rQjZOcEtSUlRXQmtTUVBJbEFlMWlIaDliQ3o5Znh2QUJVcjJLV3pUMA?oc=5",
-      "publishedAt": "2026-09-21T10:36:25.000Z"
+      "title": "A viagem do presidente à ONU não contará com a presença de câmeras de TV",
+      "titleOriginal": "President's UN trip will not have a TV camera",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FcW4xa1dueGFqU3Z3ZGNYUTE1OTl3U1NiQnphckRqOWhtYW5RLVJqMmw2V3VlLThCLXBMdmZCcWF4N0FSRF84bEhjbXgwZVh0bndQMGpISDZjRElWTXhLVzh4MA?oc=5",
+      "publishedAt": "2026-09-21T13:52:30.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump considerou a possibilidade de ataques contra os houthis no Iêmen, mas acabou decidindo não avançar com a ação",
+      "titleOriginal": "Trump weighed strikes against Houthis in Yemen before holding off",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRnV4OEdXbGVSdF9oSWtndHpELV9kR0NVTlFtckZON0ZSOERLTk13dTZ2dTJJWTRvTWdZeHdIQ2ZrX1VubFVRRThJUHJ2UVJQOHAxOHlzR3A0MjZ5U205Mndfbk81S2Y2ZWtHV2ZSZV9BTWRGRjBhcQ?oc=5",
+      "publishedAt": "2026-09-21T13:48:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Emissoras suspendem a cobertura coletiva sobre Trump após a Casa Branca proibir a CNN",
+      "titleOriginal": "Networks Suspend Pool Coverage of Trump After White House Bans CNN",
+      "link": "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html",
+      "publishedAt": "2026-09-21T13:47:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Senador republicano sobre a guerra no Irã: “Acho que vamos sair de lá em cerca de seis meses”",
+      "titleOriginal": "Senate Republican on Iran war: 'I think we'll be out of there in about 6 months'",
+      "link": "https://thehill.com/homenews/senate/6101336-senate-gop-john-kennedy-donald-trump-iran-war-endgame/",
+      "publishedAt": "2026-09-21T13:39:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A inflação e as tarifas abalam os estados do Meio-Oeste com tendência republicana",
+      "titleOriginal": "Inflation and tariffs shake Republican-leaning states in the Midwest",
+      "link": "https://thehill.com/opinion/campaign/6100166-roger-marshall-medical-debt-controversy/",
+      "publishedAt": "2026-09-21T13:30:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "General alemão assume cargo de destaque na OTAN — e ganha uma plataforma para alertar sobre a Rússia",
-      "titleOriginal": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNem40bjhubzVzSWp6OTlFOHEweG5qekQxU21fOU9aRDY2OFNXS2tGaUxtUDdQSnZsVGZfckp4b3BCSl8yZHAtZE9HcTdxR3ZYRDBrMmZzdkVYTTVvbXNjWU9YazM3ZFpVTXd0UXliWmRWSG5Eb0JXQVJrZWFpVDBqdXFvMXBtdXY1aXlMZThGY1ZSazBtYUo4clhFS29ONnc3LUNHaE9uNU9xOUdTbDVF?oc=5",
-      "publishedAt": "2026-09-21T10:33:00.000Z"
+      "title": "Preços do petróleo caem pelo quarto dia consecutivo, à medida que as preocupações com a oferta diminuem",
+      "titleOriginal": "Oil Prices Fall for Fourth Day as Supply Concerns Ease",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+      "publishedAt": "2026-09-21T13:18:45.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Compradores do Lakers apresentam planos para atingir avaliação de US$ 30 bilhões em apresentação para investidores",
-      "titleOriginal": "Exclusive | Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE9ZeWZPeEtnY1doTVJWRndBRVJVZ1dEd3J6SjQwaVlxRGNQUEtBTmpGQk1pTWRxTEx4dkpKb0JmbEtfcVFpaDV2VFlPZ3NxeXdqbFg4MkRzcFNremRmUVRMcXFyX1JIUzdzOHZIMVRUYkh2M0h5UWV6MTF2eXRzTkRJNlNvdFNOVmNjT3hYR09RclNtdGFIR0VDMjkzMk1sQ3hhVG5MTm1HZW9UQVR0Wk5zN2twX3c?oc=5",
-      "publishedAt": "2026-09-21T10:32:30.000Z"
+      "source": "The Hill",
+      "title": "O DHS agora lidera a investigação sobre o tiroteio envolvendo um agente do ICE em Austin",
+      "titleOriginal": "DHS now leading investigation into shooting involving ICE officer in Austin",
+      "link": "https://thehill.com/homenews/state-watch/6101210-dhs-investigating-ice-shooting-austin/",
+      "publishedAt": "2026-09-21T13:17:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "CNN, MS NOW e Politico vão processar a Casa Branca por terem bloqueado o acesso",
-      "titleOriginal": "CNN, MS NOW, Politico to sue White House over blocked access",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yOWtGR25JbW1JMURXTWQ2TnVaR3hZbEwwdUpJZERjbGdrbGJpcjJGb0lZVWx0d3FTajh2OG1CazBlM0NrNkt6V2UwOEtTeUpOZmlGMS0wN05DNXZ1dGJURHd4TVZWMXYzQ3BiY1BsOA?oc=5",
-      "publishedAt": "2026-09-21T10:30:45.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por dentro do tribunal comunitário não convencional de Fort Lauderdale",
-      "titleOriginal": "Inside Fort Lauderdale's unconventional community court",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkgwTVExOG90dEJISlVtZGI0WGVPd3pNa1p4cU1iWkxzYVRYSUNSU2tUaWU0OEMyNTdKT3R0eU40Yk1WeXVRODRWVjQ5OFJUUTRxT1A1eERLZlpZb0ZMQUVXY1I1bUJCejNuQWNxR01UdzhQVnpPUXRlczdCSFQtMThOQ1RQcmxzTWNST1BySjNfZklPWnRzOENKc2hCU3ZEQWV2OHZieUwwa3UtMjZ1bXl2WGsyWmlGb3FZ?oc=5",
-      "publishedAt": "2026-09-21T10:25:59.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O melhor momento para comprar uma casa está se aproximando rapidamente",
-      "titleOriginal": "The best time to buy a house is coming up fast",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZCS0ZkLWNtb25vMExwb3NWUWprYWV3a0ZxTl9nWnlwYnd6WkVxMEtEQjhKc1p5ZnZVRHk5UXhkTDV2T1VwMWd0OU5BdmpOXzJibDB0bFRtOVRLblVva0F0T3UxLUNjdWlKUUFSVVZSMTdjQWNDaFFBaUdOSTBVNzBvQUJKYTg?oc=5",
-      "publishedAt": "2026-09-21T10:25:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Condado de Wayne planeja a compra de um prédio comercial no valor de US$ 25 milhões",
-      "titleOriginal": "Wayne County plans $25M office building purchase",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1ZZOUpXNjJoaDFNX1J3V3dzYlhIX1BURzZadlNmMlZNc3B2eklwWDJhQ2VuMHBlM0NYSlhkc1hPTENaY0RrejRmSkU0czRwVUdubklOWThUOW5md25JRDZiRTZhYVJjdl9PLUFVZ2gyRVIySnJheDZWN3ZQY2xhTGRGXzlrbF9KT0xzYVYzWEM3Zw?oc=5",
-      "publishedAt": "2026-09-21T10:25:58.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo sobem ainda mais",
-      "titleOriginal": "Oil Prices Climb Higher",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwUjdqUndUb3JxR2dyWm5jcm1lMEU0TEh1b3ZlcmViT0lCTHdONFI1UlJZdURjZVpQUU9Xa0VLQ1BZY2RNNXV1aW9WZnF4c3NzcG5rZEkzeFpHaWJPSlNZRUpMYk5NY0VBQU0wQWo0RmlpR0o5UzRFWlhB?oc=5",
-      "publishedAt": "2026-09-21T10:25:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Décadas de financiamento federal para pesquisa contribuíram para um avanço revolucionário na área da audição",
-      "titleOriginal": "Decades of federal research funding helped produce a hearing breakthrough",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVzS2UzTWZ2ekRxb0JJczFVZTRzOTA3RHVuVzdyNWxIOGJEZEpuS2hKQXVPbjZNa09ESzlzQXZncVdZYjZibjNzdzZ4a1N4MzBlSGo4aVB4OXlYdmVibGpxeVZKaGI4a1J5THBFcUx0eGRGT1UwUFJiNDVGM1Fjc05jRklrU2tld1d3S002U2x0TURLYVh1UWhreXZZZDFLdVhfUw?oc=5",
-      "publishedAt": "2026-09-21T10:24:51.000Z"
+      "source": "AP News",
+      "title": "Rússia tem como alvo Zaporizhzhia após a Ucrânia lançar uma enxurrada de 1.000 drones no fim de semana",
+      "titleOriginal": "Russia targets Zaporizhzhia after Ukraine launches 1,000-drone weekend barrage",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2E0aW9GSXJtb3RpeW9sWTNOVUxsQVpsZ2V1d1lFZkFubTFSMzhNMENTTnVXVlFaU3k2ZnFDbm1WRTVERkNycmwwLV9LU1cxLVkwRnBGbkc1cTRkamE1ZVVaYVpzLXA3Qlhjckh6YTQxR3RHNzJkNmRkaTBMOE1mb0ZZMWlNV1VydXlDQUJld1lkT2dyU3E0bW1fbTczMlJ4UlE?oc=5",
+      "publishedAt": "2026-09-21T13:09:00.000Z"
     }
   ]
 }
