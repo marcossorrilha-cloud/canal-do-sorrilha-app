@@ -1,10 +1,52 @@
 {
-  "updatedAt": "2026-09-20T22:26:59.199Z",
+  "updatedAt": "2026-09-21T00:29:47.144Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Os primeiros resultados indicam que o principal partido do Kremlin na Rússia está dominando a votação parlamentar, que é rigidamente controlada",
+      "titleOriginal": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+      "publishedAt": "2026-09-21T00:13:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Senadores pedem à FTC que investigue o Walmart e a Amazon por causa dos dados sobre “Fabricado nos EUA” gerados por bots",
+      "titleOriginal": "Exclusive | Senators Ask FTC to Probe Walmart and Amazon Over Bots’ ‘Made in America’ Data",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEpVOWZranlNWUZ3dkdLRFp6WHpFOHdPdkszVGpmY3ExLVozUzh0TmdMcVlfVDNlenpjWjRqbDBobVNPZ2VaOUpndWhIWHlmMTQ2YkhHZU9OQVk0OGRwTXRhdV9YODZpNDNtZjJMbDgzdUJic3h5Vi10eDdXZ0ZfLVFwZzU4aXd4NVdmc3R4MDN5VVdlTFlLUzZqZkVwcHcycFhfUVJOOWI4ZlFCWF9iRF9tRVo?oc=5",
+      "publishedAt": "2026-09-21T00:06:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Bill Belichick está de volta à UNC — e quer esclarecer as coisas sobre sua namorada, Jordon Hudson",
+      "titleOriginal": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend Jordon Hudson",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUExOUozYmRPcUhJYld4M25jTXhnVmZRUUIzaVYwWDcxQ2ZRWDFlWS1hb24wLUJrLUVCU2p5NWVjdnBTbnRxdkVMVkhkbDFuRDV2UW9yaGhkY2hvYU5SN3pNdG5ZY0RkemYyNkhRT3ZiaFZvdGc3bTQ1YmpObGVDb241S3M1SmJ0WHhB?oc=5",
+      "publishedAt": "2026-09-20T23:29:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Aumento da taxa do Fed alerta os tomadores de empréstimos, enquanto Warsh adota uma postura firme em relação à inflação | Os 10 pontos de 17 de setembro",
+      "titleOriginal": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation | The 10-Point for September 17",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdabTRkeEl3Z0g1ZEc0YW56Z1pwWGhGR0lXYTdvd05vRDNvaTFYR2VwcWdUellUbXEtUThZc1pRcy00TFBrQWU2RkNPb21CUUZYNlg4bUtSR0YydEhXOTdtRC1ZdE9RWmNCZnQ5MU1NTlZldkhwU29qeVg5Q1p3TFIwSXJrNGhmcDh2TmZZX2RnMWhDclltNkkwelVMTFVjd09JcjJJVXgxd3NLWkt5dzBDNTYtVUhKd3c?oc=5",
+      "publishedAt": "2026-09-20T23:21:43.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "18 suspeitos acusados do assassinato do presidente do Haiti, ocorrido em julho de 2021, estão sendo extraditados do Haiti para os EUA",
+      "titleOriginal": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
+      "publishedAt": "2026-09-20T23:15:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Israelense é morto a tiros na Cisjordânia ocupada e outros acontecimentos no Oriente Médio",
+      "titleOriginal": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU81dDZnbW5CVWJaQTlBWXpfcGxXd2xJSlAyT3FwX182SDQxenhzdVI2cEpKMC1CbEVtUVJkN3UweGpCbHFTMHM2a0QyejJ3S1o3YVdOVVBMZm85SFpfZXBaOVVDMG9ZdlRhQ21KMXlsSlZOdXlnNUdCXzh2S0NBdm1WVWtITWxJTEhwM3E0TWU1SUhrSkVTRmNkNXRWelE?oc=5",
+      "publishedAt": "2026-09-20T22:32:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Abdul El-Sayed, um democrata, tem um defensor inusitado: Tucker Carlson",
+      "title": "Abdul El-Sayed, um democrata, tem um defensor inesperado: Tucker Carlson",
       "titleOriginal": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
       "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
       "publishedAt": "2026-09-20T21:47:00.000Z"
@@ -24,53 +66,11 @@
       "publishedAt": "2026-09-20T21:32:08.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Agente do ICE atira e fere um homem em Austin, no Texas, segundo autoridades",
-      "titleOriginal": "ICE agent shoots and wounds man in Austin, Texas, officials say",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
-      "publishedAt": "2026-09-20T21:23:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Esta semana no Capitólio: Senado prevê aprovação definitiva do projeto de lei sobre esportes universitários",
-      "titleOriginal": "This week on the Hill: Senate eyes final passage on college sports bill",
-      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda/",
-      "publishedAt": "2026-09-20T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As preocupações com a IA surgiram na agenda de Trump e Xi, mas os desafios são muitos",
-      "titleOriginal": "AI fears burst onto Trump-Xi agenda, but challenges abound",
-      "link": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
-      "publishedAt": "2026-09-20T21:00:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "A China pode evitar uma crise financeira. Mas não pode evitar o custo.",
-      "titleOriginal": "China Can Avoid a Financial Crisis. It Can’t Avoid the Cost.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1FhVl95SHVVOVZsVWJmVEZiN0hoQlUtc3JLdVg4MEdDb0FHaEwzNjJCUnh6N2tna3lMUHJKR0dOaXFUd1ljM1Q5NzZFVjRfYTNOdTBLQUdCWWxkV3dNMEFEQmNGR25hMkM5LXk5ZmZzVGFzb090a0RFRUFjNkkxMG8zTUhXOXhZRlBqZzlFNTM2bzJ1SlltQ0MtMA?oc=5",
-      "publishedAt": "2026-09-20T20:58:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Veja como a potência dos jatos está dando à Rússia uma vantagem na guerra dos drones",
-      "titleOriginal": "See How Jet Power Is Giving Russia the Edge in the Drone War",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1dRbnlhUmlURDNCcFJYMFZkZGdDcjZVS1VWSVhTd0dJbUxQd0c5VUhtVTE1cG9jaHpIMlBWR0hwMmxLWnlqdll3bGQwOE1HWUk3VzVRZDVkN195bFl1bVo3bWxxeF85UWo5QmFWcGUyZnZoaFVLMlE1V084b1JINS1IbFJyZGNiTkNIV0xmNnh5YUw3RWtPV21rRQ?oc=5",
-      "publishedAt": "2026-09-20T20:58:16.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "18 suspeitos acusados do assassinato do presidente do Haiti, ocorrido em julho de 2021, estão sendo extraditados do Haiti para os EUA",
-      "titleOriginal": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
-      "publishedAt": "2026-09-20T20:55:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Uma resposta automática de “fora do escritório” gerada por IA custou a essa empresa US$ 10.000 por dia",
-      "titleOriginal": "An AI Out-of-Office Reply Cost This Company $10,000 a Day",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXlqNTRXaGQxUE9zQnJSVVltV1BBOFVVa3czRjdWeEl4RHloOWRJbHpQQ0FtSW1LX29uYkdTRFY1Y0pCQ3dqdEY1UU1uSDJFeHM0UGppcEFrTGNpTDE4aW5jSnBRTkRLQ253MVFQdnhNX0M4WjhVQU9iWjdLdjRrdFdkZmhYU0trT0d6bkIzY2dEOWYzeGM0N3Y3V3VGUQ?oc=5",
-      "publishedAt": "2026-09-20T20:35:48.000Z"
+      "title": "Esgotados e desempregados, jovens na China estão lançando startups de IA",
+      "titleOriginal": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+      "publishedAt": "2026-09-20T21:23:39.000Z"
     }
   ]
 }
