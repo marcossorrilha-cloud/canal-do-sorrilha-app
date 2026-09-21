@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-21T05:29:24.544Z",
+  "updatedAt": "2026-09-21T06:22:26.696Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A abertura de capital da SpaceX deu a esse casal a liberdade para perseguir seus sonhos",
+      "titleOriginal": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk?oc=5",
+      "publishedAt": "2026-09-21T05:32:43.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ações sobem após Bessent afirmar que as negociações com a China foram bem-sucedidas antes do encontro entre Trump e Xi",
+      "titleOriginal": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
+      "publishedAt": "2026-09-21T05:19:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Presley Gerber, filho de Cindy Crawford, morre aos 27 anos, segundo representante da família",
@@ -17,11 +31,25 @@
       "publishedAt": "2026-09-21T04:32:30.000Z"
     },
     {
+      "source": "AP News",
+      "title": "A China e os EUA estão competindo pelo domínio da IA, mas compartilham preocupações em relação à segurança",
+      "titleOriginal": "China and the US are competing for AI dominance but have shared concerns over safety",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWNPS1J5MWVTNGkyTjdFaVZReGZES1E1VFk3MHI0dEhZQkFPSnh0NWlnQkU4Y1I4QXZ5X0hGOW04czgwbFNtdGZqcHhCc29IcS0yQWdYQWxnczNUVXpETVJ4S1BPUXVxZWxPaTdFalNUWWZvTmFMcW5wRGVydUtBSmxkY1lSSHVwLWc2bjJxVm5Tdw?oc=5",
+      "publishedAt": "2026-09-21T04:32:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Agente do ICE atira em imigrante em Austin, segundo autoridades locais",
       "titleOriginal": "ICE agent shoots immigrant in Austin, per local officials",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMThWQllMRVRuMWRnVVk1czExMGwwSXYwMzRENVRaSFlNc3lUcTh6bTBBTFd0b3AxMDRGMmo5Ym0tTnAteW9ybWV3UHZtdkZGLS0wNjdadGdjaWFua05fczVSRjNkQ09FcGdNMjlaMGRVbEt4djZMaURaU09Mc211U3NkTkdCU1Voa2NYS0xYTm93T0x3QmZWREtGYUpCdw?oc=5",
       "publishedAt": "2026-09-21T04:22:15.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Homem fica gravemente ferido e policial é ferido em tiroteio perto de sinagoga em Ontário no Yom Kippur",
+      "titleOriginal": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNjZpWmhITm02RnVadTR3UDhqUElpQV90dUo1b0JQUTZfUDFja1hMeUFsZWxyQVhJVGNuc09kOE9Cbmxhdld1ZXFJVVJSbzJBbXVRRWtvM0tOYU1ZVlR5Qkl1RDA2S3AyWnNkM1VOM3RXSGZwemVlamRBeGwwZEEtMTcyaTh2Yi1hYjFwbHNNb3hGOXR1c0dlOUJ0Vkg0SXhqVGZQVURjOW41VTNP?oc=5",
+      "publishedAt": "2026-09-21T04:21:00.000Z"
     },
     {
       "source": "AP News",
@@ -32,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Tafoya culpa Kristi Noem e a liderança de Minnesota pela implementação do ICE",
+      "title": "Tafoya culpa Kristi Noem e a liderança de Minnesota pela implantação do ICE",
       "titleOriginal": "Tafoya blames Kristi Noem, Minnesota leadership for ICE rollout",
       "link": "https://thehill.com/homenews/campaign/6101001-taforya-criticizes-noem-immigration-rollout/",
       "publishedAt": "2026-09-21T03:20:08.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "RBA Governor Bullock Says Inflation Fears Materializing",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGNDLWFmUHpQcmswVjlZVWg3ZFJzNVJHb3k1ZV9PSXhTY0IzLTZsYnVjN1hlQzNKdkhoVF81Q1I4bHZGSFdKbmlka3VUcHlIaE1lbm5EaWF0cFBINy1lRjdsQ05QTU9yR181TGNpWXVQRUNxaGNGcEM1T1FEOEJIYVQwdVFyQ1BpZWUzaEYtY1dMRU1BNE54b0xFRlRhZ1pKZmRiNmwtR2p5cFI0?oc=5",
       "publishedAt": "2026-09-21T03:03:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Brookfield concorda com a aquisição da australiana Reliance por US$ 2,9 bilhões",
-      "titleOriginal": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEZaU1pxLVhJbjBlbjFjRFJQbWZtb2pmbVItNDVBTzBiaU1sc0RXd3FndVF0R3B2YXFJS2dpclExU2ZnazRfeEhQVVZYVTRsQi1xTHVYc1FjZ3VpMnBjUXZwZ3lTVEg5dXN2Vlp3eVBXOEcyWXpsNzN1NC12WW4xYUtDbHk5X1NKNVU5bFA0WU1GeXQyZ2ZyalFocnhSRVVhTThIdVJiSWRnMnRJMFNYMw?oc=5",
-      "publishedAt": "2026-09-21T02:58:40.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dólar de Cingapura se estabiliza; pode ser impulsionado pela queda nos preços do petróleo",
-      "titleOriginal": "Singapore Dollar Consolidates; May Be Supported By Declining Oil Prices",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBGNThKaUNwbHF6RmVDbjR5bm5hNm54dGZnclFrWElFSGpoMUpvdm0yRk5EYTd3T0w3Z3hSSXRPU0F3TW5nN0d0a2c2bW9ZXzdhNnFEMlViaWw3T0s4TFZWbUY0dzFNaTFSVUU4R3kteEZBLWV4UHJLYzJya0dQOG9zaEtGQ2hyVmZLWVRlalpUU2xoMURRZjBOcE1NQ09wWXpvV0t3cTFfclZXVFFLYg?oc=5",
-      "publishedAt": "2026-09-21T02:57:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Como Trump pode resolver seu problema no Iêmen",
-      "titleOriginal": "Opinion | How Trump Can Solve His Yemen Problem",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFNXT0U0aVZZUFhMM3RNWWNnY1dsanU5bjB5VlNMbUctWk1mZGVYQlF1LUR6bTBRakZVaUV6MHlIbk43UXdsZU4tam5ReGNBQ3B1TURhZWIyVEFfRzI4R2xfaUI5bHFVOHpBc182cF9Bdjh3bndWOHVRWWFYRTlOb2VyaGhCNnQtcTZmaWFicUtYMF9U?oc=5",
-      "publishedAt": "2026-09-21T02:49:07.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump se vê diante de um dilema diante do pedido de ajuda militar da Arábia Saudita",
-      "titleOriginal": "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help",
-      "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html",
-      "publishedAt": "2026-09-21T02:36:46.000Z"
     }
   ]
 }
