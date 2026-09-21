@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-21T05:29:31.790Z",
-  "slot": "2026-09-21-AM",
+  "updatedAt": "2026-09-21T17:11:46.891Z",
+  "slot": "2026-09-21-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Trump teria a intenção de criar um conselho de financiamento da saúde que poderia vetar iniciativas “politicamente corretas”",
-      "titleOriginal": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTV9CMDhqQjJOU2kxZGRrNTBGX3hyVUVwZTlrZEszb1YtMGxuM0RrZFRvZkpJVXdhU1RqUW5Hc2N0bkhkQWM4QkJncXVaNUtuQkVWaUpwRTgxeTRmbm40aFU1Q05kS09LaTF6LUlpLWFHOWt4d3J1MDJDLUNzelBBTmNXZk9xS1NSNmNpWHFOa2ZPWjV3dzYzWA?oc=5",
-      "source": "The Guardian",
-      "coverage": 2
+      "title": "O embaixador de Trump na ONU afirma que não há um prazo definido para o fim da guerra no Irã",
+      "titleOriginal": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhqQjhERE9xcXFQQ20zNEtlbw?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Lindsay Clancy, jurada que se recusa a comparecer, faz nova promessa enquanto seu advogado alerta para ataques públicos",
-      "titleOriginal": "Lindsay Clancy holdout juror makes new promise as lawyer warns of public attacks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQal9IWm9DWFdtS0U4aTVuTDZvNzhqUFlsejNKcTNBeWFGcWJ3cmN4M1k4clB0dklxMkRDQzBmOGU1VWRTZC1FdEJkeGh5d1U1UUVLQzBpNVFEMFBNMGlCMUl3dmdFci1mQ2ttQkhvS3ZOTE5GYWRHd1hRdExYc2dQcjJYOGttQ0VPRWFSd0N6RldpYmtiS21fcVoxbEZIanEzQ1FmTdIBqgFBVV95cUxQcFVYaUtSNU55MVNZZjJEZWtaUXpfeFN4Q0NIRnBrVVV1dHdYV2syTzhpVVd2SW50RU4zLVAwMUVjQlFiZWJiNXB0WlNLYzlFUWw5R05FamFyLWQxcTRqbTZpN2VST1dFTzUwVFU0eUJFWmV6eWhyQXhJZzZrNmFJc2hYNEU2ZHNQdHRFYmhXcVZ4dTlRZmR4azVEbkE5bE9Qd2JhRVJjWnpvZw?oc=5",
-      "source": "Fox News",
+      "title": "Acordo de Trump sobre a Groenlândia abre caminho para os negócios dos EUA na ilha do Ártico",
+      "titleOriginal": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmpxSlM3X08wbDVybXV4TlBWQXZsdEVLdm93a0h4czFvX0t5c055TlZaTlNkRkJSUjFQUlVCS1k0eGRZZ0s0VGJZUmRob0FBNWdtYnJ5TFpoLTl1T29YQVQ2Y21SSUU0YzRwUlNQY0t3X1JINmZ5ZWo1SkF6bllDZVhuR2NTR0l3Q1BoU3VMLXFXV1MzTFc1bUdzX1hoUG5Denc?oc=5",
+      "source": "Wall Street Journal",
       "coverage": 4
     }
   ]
