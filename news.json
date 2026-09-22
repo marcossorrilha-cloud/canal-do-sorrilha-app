@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-22T00:17:06.918Z",
+  "updatedAt": "2026-09-22T04:57:50.578Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Bush e Cornyn deixam Paxton de fora ao arrecadarem fundos para candidatos ao Senado",
-      "titleOriginal": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
-      "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
-      "publishedAt": "2026-09-22T00:12:04.000Z"
+      "title": "O discurso de Trump na ONU ocorre em um momento de turbulência",
+      "titleOriginal": "Trump’s U.N. Speech Comes at a Time of Tumult",
+      "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+      "publishedAt": "2026-09-22T04:26:03.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Candidatos do Partido Republicano pedem o fim da guerra contra o Irã durante a campanha eleitoral",
-      "titleOriginal": "GOP nominees call for end to Iran war while on campaign trail",
-      "link": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/",
-      "publishedAt": "2026-09-21T23:14:43.000Z"
+      "source": "Wall Street Journal",
+      "title": "Canadá está pronto para exigir a devolução do dinheiro concedido à Stellantis, a menos que a produção seja retomada na fábrica na região de Toronto",
+      "titleOriginal": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjhjazJMdklNbWtNOEV6d0QwZ0tQMER2YnRNTUtFVVZZUmxVWGl3ZG5lcEUyUVIwd2JPMEwwY0lTSUxMY2xRUU1fVXpJdXg3TEhVeUdGOG0tNEx3aGU2TTFaY21wT0thbU5zUi1hWjlWRGx3a19HWFlmcFdWOTRkMVpZSlp1UllzMkNndVA1N1ZZd1dUcV8yZ0huc2o5TExZd3Flb2V2ZEE1X1dZa05pOER4d3R3QXNnYlNjRG1uajR5aTIwN0g4WURkRVdpTjA?oc=5",
+      "publishedAt": "2026-09-22T04:08:04.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O governo Trump estaria considerando assumir o controle da aprovação de subsídios do NIH",
-      "titleOriginal": "Trump admin reportedly considers NIH grant approval takeover",
-      "link": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/",
-      "publishedAt": "2026-09-21T22:58:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O resumo: A mais recente ofensiva de Trump contra a mídia gerou uma ação judicial e um boicote à TV",
-      "titleOriginal": "The Memo: Trump’s latest war on the media met with lawsuit, TV boycott",
-      "link": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
-      "publishedAt": "2026-09-21T22:45:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-presidente da WHCA sobre a proibição de acesso à imprensa imposta por Trump: “Um ataque a um veículo de comunicação é um ataque a todos”",
-      "titleOriginal": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
-      "link": "https://thehill.com/media/6102786-trump-whca-media-ban/",
-      "publishedAt": "2026-09-21T22:40:07.000Z"
+      "source": "Wall Street Journal",
+      "title": "Como a Harley-Davidson, um ícone americano, se tornou um alvo das tarifas",
+      "titleOriginal": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV?oc=5",
+      "publishedAt": "2026-09-22T04:07:03.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A situação da economia antes das eleições intermediárias: inflação em alta e apreensão em relação à IA",
-      "titleOriginal": "The State of the Economy Before the Midterms: Rising Inflation and A.I. Unease",
-      "link": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html",
-      "publishedAt": "2026-09-21T22:28:35.000Z"
+      "title": "Por que as emissoras de TV aberta pararam de filmar o presidente",
+      "titleOriginal": "Why Network TV Stopped Filming the President",
+      "link": "https://www.nytimes.com/video/us/politics/100000011164965/why-network-tv-stopped-filming-the-president.html",
+      "publishedAt": "2026-09-22T03:55:52.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Hegseth presidirá o novo painel de defesa interna do Pentágono",
-      "titleOriginal": "Hegseth to chair Pentagon’s new homeland defense panel",
-      "link": "https://thehill.com/policy/defense/6102879-hegseth-establishes-pentagon-homeland-defense-board/",
-      "publishedAt": "2026-09-21T22:25:57.000Z"
+      "source": "Wall Street Journal",
+      "title": "Dólar de Cingapura se mantém estável; geopolítica em destaque em meio à reunião da ONU",
+      "titleOriginal": "Singapore Dollar Steady; Geopolitics in Focus Amid UN Meeting",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFpVnJZbTFMck40bmM0bW0wNFh6NUpCeVVaNHNpTjl4LVJ0eWZjV0VBZTV1Q1F4RjdxaEt4czh5UF96Q2Uxa25qcG5abzQ2VU5lQzVIdGhlUVhLTmlSNm9GVkdkbkJ5TlcxNFI2cmxTUTRJbWNGUUtvOVVGRTdjYU0xbWQwMUszcWVxQjFmbVFlNzkyVGJOeE9uR1VFYTd0V3dCXzdWczc?oc=5",
+      "publishedAt": "2026-09-22T03:27:51.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Tribunal de apelação restabelece o mapa eleitoral do Partido Republicano para a Câmara dos Deputados no Missouri para as eleições de novembro",
-      "titleOriginal": "Appeals court reinstates GOP House map in Missouri for November election",
-      "link": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/",
-      "publishedAt": "2026-09-21T22:05:39.000Z"
+      "source": "AP News",
+      "title": "O cumprimento dos acordos anteriores entre os EUA e a China é um processo em andamento, enquanto Trump e Xi se reúnem novamente",
+      "titleOriginal": "Fulfilling earlier US-China agreements is a work in progress as Trump and Xi meet again",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkxIM1VEZmE2TFRMd2tHaUZNWE1VXzJDZVlLbnJkc05objJSSENHcXZsQ3NKMS1FS2RsQmU0YmpnNlpZaEhqZ2dKNzNFdDlCR0Q2bGFDRm1vN0l4bWtJN2xEN1RVajZwcDdKai1XaDk1WnJ1dWxSN2xpcGxYSnlrZ0lTcEF1aVFBNkw3bHJIS3JrSzAwTUxldVV3?oc=5",
+      "publishedAt": "2026-09-22T02:59:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump afirma que Mamdani tem “grande potencial” após visita à Gracie Mansion",
-      "titleOriginal": "Trump says Mamdani has ‘great potential’ after Gracie Mansion visit",
-      "link": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/",
-      "publishedAt": "2026-09-21T22:02:49.000Z"
+      "source": "Axios",
+      "title": "A improvável sintonia entre Trump e Mamdani perdura em Nova York",
+      "titleOriginal": "Trump and Mamdani's unlikely rapport endures in New York",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EbWZzZ2FjZ2FJVFdfM3B3WDNETnpxRjBNdkFNTWhpZlpQR1hIZDhhS0RubnBJY2J5UTF3eWxNcmIwbUlXaDNTbEo4VTZncUJzZXJwbWZOTXpybXhabGNSclRwbEZyMGNuLWIxblY5VDUwSG9hbnZB?oc=5",
+      "publishedAt": "2026-09-22T02:47:22.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Diretor da CIA se reúne com Zelensky no aeroporto da Irlanda",
-      "titleOriginal": "CIA director meets with Zelensky at airport in Ireland",
-      "link": "https://thehill.com/policy/international/6102785-ratcliffe-zelensky-airport-meeting/",
-      "publishedAt": "2026-09-21T21:54:49.000Z"
+      "source": "AP News",
+      "title": "Bill Gates defende o “uso inteligente” da IA, enquanto sua fundação desenvolve dados linguísticos mais representativos",
+      "titleOriginal": "Bill Gates pushes for 'smart use' of AI as his foundation builds more representative language data",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzBIeW1fMDhvOXFsYXprcWpMZzI1aGVkb2Jlb3dzVlNELTh1dUQ5LWlzcEtyQjRBWVpiR05Hem5INUZISVE1cTY4X0daeVJtdVFvRF9WaFdkSkx0STJFTG9BRFVOZmM3UWJGazRiUUNHV251VjNZbmtMRHhhZTl2VjRkalRIWG8wR1czMTI5TkZaN0NfeFdMY2l3Nm9reHZ0RjVxNEdBazJWZw?oc=5",
+      "publishedAt": "2026-09-22T02:47:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A ONU busca manter sua relevância na área de IA enquanto os EUA e a China avançam a passos largos",
+      "titleOriginal": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
+      "link": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
+      "publishedAt": "2026-09-22T02:37:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ativistas do Arizona criam mapa para mostrar a presença de agentes federais nas seções eleitorais",
+      "titleOriginal": "Ariz. activists build map to show federal agents at polls",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdXBQejA4bnJJN3h0d2FBSjF1dHV1QThiY016OHRLYkVmTmR4cDNoOThUVXNMQWxhTlB3TENIdjZ5czRHc2pDcGFhVjZfOFI1Q3I5dmRyMzJWTXN3ZEhBRG91bTVaT2FuYjYtemI1SWFocmp0c01Z?oc=5",
+      "publishedAt": "2026-09-22T02:27:15.000Z"
     }
   ]
 }

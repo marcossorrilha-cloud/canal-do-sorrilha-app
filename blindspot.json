@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-21T17:11:46.891Z",
-  "slot": "2026-09-21-PM",
+  "updatedAt": "2026-09-22T04:57:57.803Z",
+  "slot": "2026-09-22-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O embaixador de Trump na ONU afirma que não há um prazo definido para o fim da guerra no Irã",
-      "titleOriginal": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhqQjhERE9xcXFQQ20zNEtlbw?oc=5",
-      "source": "Washington Post",
+      "title": "Procuradores-gerais estaduais concordam em chegar a um acordo na ação judicial sobre a fusão da Paramount, segundo fontes",
+      "titleOriginal": "State attorneys general agree to settle Paramount merger lawsuit, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHRIaDJEcEVVT0JQZlpfc3pac0pXQXpsbDRYSWEyTFVqSl9aQlp6QlJtSXk2UUs0R21PMHFnMy0tc1ZpYWVYU1hhUVYwWVNMaHRLMUVlR01Jai1ZSWpRbXJ4RXJzcWNCSGJmX0JaR2xJdl9Wa01qOEgwV0pGS1FtbC1mNEUxX0NrSkE?oc=5",
+      "source": "CNN",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Acordo de Trump sobre a Groenlândia abre caminho para os negócios dos EUA na ilha do Ártico",
+      "title": "Acordo de Trump sobre a Groenlândia abre caminho para negócios dos EUA na ilha do Ártico",
       "titleOriginal": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmpxSlM3X08wbDVybXV4TlBWQXZsdEVLdm93a0h4czFvX0t5c055TlZaTlNkRkJSUjFQUlVCS1k0eGRZZ0s0VGJZUmRob0FBNWdtYnJ5TFpoLTl1T29YQVQ2Y21SSUU0YzRwUlNQY0t3X1JINmZ5ZWo1SkF6bllDZVhuR2NTR0l3Q1BoU3VMLXFXV1MzTFc1bUdzX1hoUG5Denc?oc=5",
       "source": "Wall Street Journal",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
