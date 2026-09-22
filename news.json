@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-22T09:58:49.540Z",
+  "updatedAt": "2026-09-22T10:20:09.186Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Newsom de olho em 2028, enquanto os democratas avaliam seu futuro político",
+      "titleOriginal": "Newsom eyes 2028 as Democrats weigh their political future",
+      "link": "https://thehill.com/homenews/campaign/fight-for-2028/6102239-gavin-newsom-2028-democratic-party-future-live-discussion/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump domina o cenário com a proibição da imprensa, o arco do triunfo e o Kennedy Center",
+      "titleOriginal": "Trump floods the zone with press ban, triumphal arch, Kennedy Center",
+      "link": "https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Um pânico “a diesel” para o Partido Republicano em Iowa",
+      "titleOriginal": "A diesel-powered panic for GOP in Iowa",
+      "link": "https://thehill.com/homenews/analysis/6102812-ashley-hinson-iran-war/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os republicanos caminham na corda bamba de Trump à medida que se aproximam as eleições de meio de mandato",
+      "titleOriginal": "Republicans walk a Trump tightrope heading into midterms",
+      "link": "https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A candidatura de Hung Cao ao cargo de secretário da Marinha enfrenta dificuldades após o incidente com o USS Abraham Lincoln",
+      "titleOriginal": "Hung Cao's bid for Navy secretary faces choppy waters post-USS Abraham Lincoln",
+      "link": "https://thehill.com/policy/defense/6102669-trump-hung-cao-waiver-jeopardy/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Proposta de proibição da exportação de diesel coloca senadores republicanos uns contra os outros",
+      "titleOriginal": "Proposed diesel export ban pits GOP senators against each other",
+      "link": "https://thehill.com/homenews/senate/6102916-senate-gop-diesel-export-ban/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Embaixador de Israel na ONU mantém sua posição diante do crescente desprezo dos EUA",
+      "titleOriginal": "Israel’s ambassador to the UN digs in against growing US scorn",
+      "link": "https://thehill.com/policy/international/6102649-israel-ambassador-un-pushes-back-us-criticism/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A tentativa de Trump de adquirir a Groenlândia deixa marcas, mesmo que o acordo traga alívio",
+      "titleOriginal": "Trump’s Greenland quest leaves scars, even as deal brings relief",
+      "link": "https://thehill.com/policy/international/6102741-trump-greenland-military-deal-nato-impact/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Voltei para casa, em Detroit, para descobrir o que os eleitores esperam das eleições de meio de mandato",
+      "title": "Voltei para casa, em Detroit, para descobrir o que os eleitores esperam das eleições intermediárias",
       "titleOriginal": "I Went Home to Detroit to See What Voters Want From the Midterms",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRW9hbEdGa2tqcC04MGFzRmtBVlV3X2VjdGpGYXJOQnU3a1UxN1VCUG41eWpCSEY4RERrVmRteWtsS0Eycjl3LVhaLXpDeEU0RHlkSFNzSjNzMXEwVlcwYVgxV0U0VGZ4SUJKQWIwcF9ybFd0WXBhWUdOMklfREFzNUQzczlha0FRMHp1elAxT2VnbVJmb2R3ckdDa3dlVnJ4SmJuS21mUGpILU40OFE?oc=5",
       "publishedAt": "2026-09-22T09:36:27.000Z"
     },
     {
       "source": "Axios",
-      "title": "O novo populismo nas eleições intermediárias: enfrentando o setor da saúde",
+      "title": "O novo populismo das eleições intermediárias: enfrentando as indústrias da saúde",
       "titleOriginal": "Midterms' new populism: Taking on health industries",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5OW9MWDM4c1BVSFJJSldwS1FUMmNRWDhJaWJqSlpmZ1BZU3pUcGhZRVFEQ3lzSG5ManptTjZIaktMdnlJb3ZhaEgyMDgyQW84aWh4NFM5aVBjb1E2RmRiNXJGVTFRdUVBcHRha0l1STA1RVdzRnN0MVNncTk?oc=5",
       "publishedAt": "2026-09-22T09:31:01.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dólar sobe brevemente para a maior cotação em sete semanas, enquanto os preços do petróleo oscilam",
-      "titleOriginal": "Dollar Briefly Rises to 7-Week High as Oil Prices Swing",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFpVnJZbTFMck40bmM0bW0wNFh6NUpCeVVaNHNpTjl4LVJ0eWZjV0VBZTV1Q1F4RjdxaEt4czh5UF96Q2Uxa25qcG5abzQ2VU5lQzVIdGhlUVhLTmlSNm9GVkdkbkJ5TlcxNFI2cmxTUTRJbWNGUUtvOVVGRTdjYU0xbWQwMUszcWVxQjFmbVFlNzkyVGJOeE9uR1VFYTd0V3dCXzdWczc?oc=5",
-      "publishedAt": "2026-09-22T09:26:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Alexandria Ocasio-Cortez vai concorrer à presidência em 2028? Veja o que ela disse.",
-      "titleOriginal": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
-      "publishedAt": "2026-09-22T09:03:21.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "General alemão assume cargo de destaque na OTAN — e ganha uma plataforma para alertar sobre a Rússia",
-      "titleOriginal": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNem40bjhubzVzSWp6OTlFOHEweG5qekQxU21fOU9aRDY2OFNXS2tGaUxtUDdQSnZsVGZfckp4b3BCSl8yZHAtZE9HcTdxR3ZYRDBrMmZzdkVYTTVvbXNjWU9YazM3ZFpVTXd0UXliWmRWSG5Eb0JXQVJrZWFpVDBqdXFvMXBtdXY1aXlMZThGY1ZSazBtYUo4clhFS29ONnc3LUNHaE9uNU9xOUdTbDVF?oc=5",
-      "publishedAt": "2026-09-22T09:03:07.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Muitos democratas estão evitando Kamala Harris. Abdul El-Sayed, por sua vez, está lhe dando as boas-vindas.",
-      "titleOriginal": "Many Democrats Are Avoiding Kamala Harris. Abdul El-Sayed Is Welcoming Her.",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html",
-      "publishedAt": "2026-09-22T09:02:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como Trump tem reprimido a dissidência desde o assassinato de Charlie Kirk",
-      "titleOriginal": "How Trump Has Cracked Down on Dissent Since the Killing of Charlie Kirk",
-      "link": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html",
-      "publishedAt": "2026-09-22T09:01:48.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "“Me venderam gato por lebre”: os americanos e a eleição marcada pela desconfiança",
-      "titleOriginal": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html",
-      "publishedAt": "2026-09-22T09:01:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O “telefone vermelho” entre os EUA e a China poderia estabelecer um limite semelhante ao da Guerra Fria para a IA",
-      "titleOriginal": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSkpWeGkzYkE3QjJjZ29NTnpici1JbllTS1FBRmNXbnlYSlZXblFsNngwM0FSR01GWWN3UF9yTjhQem42c0RPZXRYOVo3TE93dl85TmJKRkRFQVdWYzJGUFJac3JtRVY0enJkVWhqbTJid28?oc=5",
-      "publishedAt": "2026-09-22T09:01:13.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "“Precisamos conter o contágio”: o Partido Republicano intensifica a defesa nas eleições intermediárias nos estados de Trump",
-      "titleOriginal": "‘We need to stop the contagion’: GOP ramps up midterms defense in Trump states",
-      "link": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
-      "publishedAt": "2026-09-22T09:00:00.000Z"
     }
   ]
 }
