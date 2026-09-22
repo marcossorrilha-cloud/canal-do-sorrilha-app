@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-22T14:55:06.805Z",
+  "updatedAt": "2026-09-22T15:10:32.385Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump sugere uma “grande decisão” na ONU sobre se vai “aniquilar” o Irã ou chegar a um acordo",
+      "titleOriginal": "Trump floats 'big decision' at UN on whether he'll 'annihilate' Iran or make deal",
+      "link": "https://thehill.com/homenews/administration/6103989-trump-un-iran-decision/",
+      "publishedAt": "2026-09-22T15:09:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump constata votação generalizada por não cidadãos no… Texas de Ken Paxton",
+      "titleOriginal": "Trump finds rampant noncitizen voting in … Ken Paxton’s Texas",
+      "link": "https://thehill.com/opinion/white-house/6103023-trump-voter-data-accuracy/",
+      "publishedAt": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Reunião de líderes da ONU tem início com o secretário-geral defendendo um “mundo baseado na interdependência”",
+      "titleOriginal": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence'",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+      "publishedAt": "2026-09-22T14:57:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O “telefone vermelho” entre os EUA e a China poderia estabelecer um limite semelhante ao da Guerra Fria para a IA",
+      "titleOriginal": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSkpWeGkzYkE3QjJjZ29NTnpici1JbllTS1FBRmNXbnlYSlZXblFsNngwM0FSR01GWWN3UF9yTjhQem42c0RPZXRYOVo3TE93dl85TmJKRkRFQVdWYzJGUFJac3JtRVY0enJkVWhqbTJid28?oc=5",
+      "publishedAt": "2026-09-22T14:55:47.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump diz a Collins, da CNN, “você não deveria estar aqui” ao entrar na ONU",
@@ -11,8 +39,8 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump discursa na Assembleia Geral da ONU e defende a guerra contra o Irã",
-      "titleOriginal": "Live updates: Trump speaks at UN General Assembly, defends Iran war",
+      "title": "Atualizações em tempo real: Trump defende a guerra contra o Irã na Assembleia Geral da ONU",
+      "titleOriginal": "Live updates: Trump defends Iran war at UN General Assembly",
       "link": "https://thehill.com/homenews/administration/6103063-live-updates-trump-un-general-assembly-iran-russia-ukraine-conflicts-media-ban/",
       "publishedAt": "2026-09-22T14:50:49.000Z"
     },
@@ -43,34 +71,6 @@
       "titleOriginal": "O'Reilly: 'Republicans can't survive the anger that people are feeling' on spending",
       "link": "https://thehill.com/homenews/campaign/6103707-bill-oreilly-warns-gop-midterms/",
       "publishedAt": "2026-09-22T14:17:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jon Stewart critica duramente a proibição imposta por Trump à mídia: “Você já tentou ser um presidente melhor?”",
-      "titleOriginal": "Jon Stewart rips Trump's media ban: 'Have you tried presidenting better?'",
-      "link": "https://thehill.com/blogs/in-the-know/6103689-jon-stewart-trump-media-ban-daily-show/",
-      "publishedAt": "2026-09-22T14:07:48.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O novo populismo das eleições intermediárias: enfrentando o setor da saúde",
-      "titleOriginal": "Midterms' new populism: Taking on health industries",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5OW9MWDM4c1BVSFJJSldwS1FUMmNRWDhJaWJqSlpmZ1BZU3pUcGhZRVFEQ3lzSG5ManptTjZIaktMdnlJb3ZhaEgyMDgyQW84aWh4NFM5aVBjb1E2RmRiNXJGVTFRdUVBcHRha0l1STA1RVdzRnN0MVNncTk?oc=5",
-      "publishedAt": "2026-09-22T14:02:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump precisa ser ousado e direto com Xi em relação à disputa sobre Taiwan",
-      "titleOriginal": "Trump needs to be bold, direct with Xi over Taiwan dispute",
-      "link": "https://thehill.com/opinion/international/6102603-trump-xi-summit-taiwan-strategy/",
-      "publishedAt": "2026-09-22T14:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jennings: É “improvável que Trump vença na Justiça” na questão da proibição à imprensa; ele tem “menos influência”",
-      "titleOriginal": "Jennings: Trump 'unlikely to prevail in court' on press ban, has 'less reach'",
-      "link": "https://thehill.com/media/6103615-jennings-predicts-trump-media-lawsuit/",
-      "publishedAt": "2026-09-22T13:59:14.000Z"
     }
   ]
 }

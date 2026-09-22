@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-22T04:57:57.803Z",
-  "slot": "2026-09-22-AM",
+  "updatedAt": "2026-09-22T15:10:39.567Z",
+  "slot": "2026-09-22-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Procuradores-gerais estaduais concordam em chegar a um acordo na ação judicial sobre a fusão da Paramount, segundo fontes",
-      "titleOriginal": "State attorneys general agree to settle Paramount merger lawsuit, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHRIaDJEcEVVT0JQZlpfc3pac0pXQXpsbDRYSWEyTFVqSl9aQlp6QlJtSXk2UUs0R21PMHFnMy0tc1ZpYWVYU1hhUVYwWVNMaHRLMUVlR01Jai1ZSWpRbXJ4RXJzcWNCSGJmX0JaR2xJdl9Wa01qOEgwV0pGS1FtbC1mNEUxX0NrSkE?oc=5",
-      "source": "CNN",
+      "title": "A Paramount chega a um acordo na ação movida pelos estados, abrindo caminho para a fusão com a Warner Bros.",
+      "titleOriginal": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXQ5VHVldm1qTTU5SC1MUXV3Wm5XTnNBMDlicmV1dWxPcXZ1cmtHR1luSV9pdXdLN21IRlM4OHBVbndFXzZHcTllZFlUcWhBelY0bllKTllNZVZrSUswNWROdUZDSzJjN3ZMWERVWExmRndtMGNFcEEtUFRWWG1FMG01UWE?oc=5",
+      "source": "New York Times",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Acordo de Trump sobre a Groenlândia abre caminho para negócios dos EUA na ilha do Ártico",
-      "titleOriginal": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmpxSlM3X08wbDVybXV4TlBWQXZsdEVLdm93a0h4czFvX0t5c055TlZaTlNkRkJSUjFQUlVCS1k0eGRZZ0s0VGJZUmRob0FBNWdtYnJ5TFpoLTl1T29YQVQ2Y21SSUU0YzRwUlNQY0t3X1JINmZ5ZWo1SkF6bllDZVhuR2NTR0l3Q1BoU3VMLXFXV1MzTFc1bUdzX1hoUG5Denc?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 3
+      "title": "Reunião entre Trump e Mamdani toma um rumo que a mídia liberal não esperava",
+      "titleOriginal": "Trump-Mamdani Meeting Takes A Turn Liberal Media Didn’t Expect",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlJnNTNFMW1jOEVCd3pXdUpWNXlKX0VITnBVLXM3aVFpVGRRNnR0LUhQR1NBVXVzT01NTDVVd3d6UDVsRFlUYS0wQUFpcUVSMkpKMzJnMlo2TnBsdVh4QTNlQzJNZU5ZeFNwMjNEdDRCaXUxRGlxRlBfYW9OQVNmT3diUHlEWlpPRDBYLUFnUmdXZ0FxS3Jn?oc=5",
+      "source": "Daily Wire",
+      "coverage": 2
     }
   ]
 }
