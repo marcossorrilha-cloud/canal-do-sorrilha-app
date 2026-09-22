@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:18:00.334Z",
+  "updatedAt": "2026-09-22T00:17:06.918Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,14 @@
       "title": "Bush e Cornyn deixam Paxton de fora ao arrecadarem fundos para candidatos ao Senado",
       "titleOriginal": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
       "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
-      "publishedAt": "2026-09-21T23:08:34.000Z"
+      "publishedAt": "2026-09-22T00:12:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Candidatos do Partido Republicano pedem o fim da guerra contra o Irã durante a campanha eleitoral",
+      "titleOriginal": "GOP nominees call for end to Iran war while on campaign trail",
+      "link": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/",
+      "publishedAt": "2026-09-21T23:14:43.000Z"
     },
     {
       "source": "The Hill",
@@ -32,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "A situação da economia antes das eleições de meio de mandato: inflação em alta e apreensão em relação à IA",
+      "title": "A situação da economia antes das eleições intermediárias: inflação em alta e apreensão em relação à IA",
       "titleOriginal": "The State of the Economy Before the Midterms: Rising Inflation and A.I. Unease",
       "link": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html",
       "publishedAt": "2026-09-21T22:28:35.000Z"
@@ -45,32 +52,25 @@
       "publishedAt": "2026-09-21T22:25:57.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A improvável sintonia entre Trump e Mamdani perdura em Nova York",
-      "titleOriginal": "Trump and Mamdani's unlikely rapport endures in New York",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EbWZzZ2FjZ2FJVFdfM3B3WDNETnpxRjBNdkFNTWhpZlpQR1hIZDhhS0RubnBJY2J5UTF3eWxNcmIwbUlXaDNTbEo4VTZncUJzZXJwbWZOTXpybXhabGNSclRwbEZyMGNuLWIxblY5VDUwSG9hbnZB?oc=5",
-      "publishedAt": "2026-09-21T22:20:33.000Z"
+      "source": "The Hill",
+      "title": "Tribunal de apelação restabelece o mapa eleitoral do Partido Republicano para a Câmara dos Deputados no Missouri para as eleições de novembro",
+      "titleOriginal": "Appeals court reinstates GOP House map in Missouri for November election",
+      "link": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/",
+      "publishedAt": "2026-09-21T22:05:39.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Redes de televisão suspendem parte da cobertura sobre Trump após restrições",
-      "titleOriginal": "Television Networks Suspend Some Coverage of Trump After Bans",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnB5U0F3VzFsV1V1MEo5bkZ6Ym5tTXdzNVZYR1JKQVZNWmprdldKbTdrV3hPSGQ5UTBPbGtuZVUwakwzYW8xZnNiNVFTcXZjR1EtQWd4T1hDX3c5VFlJNXhaWEl0aXo3ZUVKTVBHc3FXdkVqQWNJWU5WVU9UcjhIYmdrU2FoZm5JU0hhRHlVdU1Rcjc0Z1JTNUMzeTlGcXZ1RXR3?oc=5",
-      "publishedAt": "2026-09-21T22:14:00.000Z"
+      "source": "The Hill",
+      "title": "Trump afirma que Mamdani tem “grande potencial” após visita à Gracie Mansion",
+      "titleOriginal": "Trump says Mamdani has ‘great potential’ after Gracie Mansion visit",
+      "link": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/",
+      "publishedAt": "2026-09-21T22:02:49.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Tribunal de apelação aprova o mapa eleitoral do Missouri apoiado por Trump, mas a Suprema Corte terá a palavra final",
-      "titleOriginal": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0w4RmpmZFdPVndBNzh0M19ZT1gwZW5ZeTY3cmdLcjU2Y09fTktGM1l3QWc0c01jek9NRlRxN2hEMmxfWDFFdWxTVGVNZVA3UFBmYzJBeWNUUXZVYzF1WmtXTll5MVQ4Z0d0dmNvTVFwWm1ZNmZkbktpRW91dG94V3E3NlVjV1cySEk4VTc3VEQ4ZWphLTRacVRZX1c4NmQ4a3FtSG9adVozVmdPRDI0c0Z3?oc=5",
-      "publishedAt": "2026-09-21T22:11:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Guarda Revolucionária do Irã adverte os EUA sobre uma escalada e outros acontecimentos no Oriente Médio",
-      "titleOriginal": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-      "publishedAt": "2026-09-21T22:08:00.000Z"
+      "source": "The Hill",
+      "title": "Diretor da CIA se reúne com Zelensky no aeroporto da Irlanda",
+      "titleOriginal": "CIA director meets with Zelensky at airport in Ireland",
+      "link": "https://thehill.com/policy/international/6102785-ratcliffe-zelensky-airport-meeting/",
+      "publishedAt": "2026-09-21T21:54:49.000Z"
     }
   ]
 }
