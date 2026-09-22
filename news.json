@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-22T04:57:50.578Z",
+  "updatedAt": "2026-09-22T05:22:51.825Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "A Guarda Revolucionária do Irã adverte os EUA contra uma escalada, e outros acontecimentos no Oriente Médio",
+      "titleOriginal": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+      "publishedAt": "2026-09-22T04:28:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O discurso de Trump na ONU ocorre em um momento de turbulência",
@@ -17,25 +24,11 @@
       "publishedAt": "2026-09-22T04:08:04.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Como a Harley-Davidson, um ícone americano, se tornou um alvo das tarifas",
-      "titleOriginal": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV?oc=5",
-      "publishedAt": "2026-09-22T04:07:03.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Por que as emissoras de TV aberta pararam de filmar o presidente",
       "titleOriginal": "Why Network TV Stopped Filming the President",
       "link": "https://www.nytimes.com/video/us/politics/100000011164965/why-network-tv-stopped-filming-the-president.html",
       "publishedAt": "2026-09-22T03:55:52.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dólar de Cingapura se mantém estável; geopolítica em destaque em meio à reunião da ONU",
-      "titleOriginal": "Singapore Dollar Steady; Geopolitics in Focus Amid UN Meeting",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFpVnJZbTFMck40bmM0bW0wNFh6NUpCeVVaNHNpTjl4LVJ0eWZjV0VBZTV1Q1F4RjdxaEt4czh5UF96Q2Uxa25qcG5abzQ2VU5lQzVIdGhlUVhLTmlSNm9GVkdkbkJ5TlcxNFI2cmxTUTRJbWNGUUtvOVVGRTdjYU0xbWQwMUszcWVxQjFmbVFlNzkyVGJOeE9uR1VFYTd0V3dCXzdWczc?oc=5",
-      "publishedAt": "2026-09-22T03:27:51.000Z"
     },
     {
       "source": "AP News",
@@ -59,6 +52,13 @@
       "publishedAt": "2026-09-22T02:47:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Dólar de Cingapura se mantém estável; geopolítica em destaque em meio à reunião da ONU",
+      "titleOriginal": "Singapore Dollar Steady; Geopolitics in Focus Amid UN Meeting",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFpVnJZbTFMck40bmM0bW0wNFh6NUpCeVVaNHNpTjl4LVJ0eWZjV0VBZTV1Q1F4RjdxaEt4czh5UF96Q2Uxa25qcG5abzQ2VU5lQzVIdGhlUVhLTmlSNm9GVkdkbkJ5TlcxNFI2cmxTUTRJbWNGUUtvOVVGRTdjYU0xbWQwMUszcWVxQjFmbVFlNzkyVGJOeE9uR1VFYTd0V3dCXzdWczc?oc=5",
+      "publishedAt": "2026-09-22T02:42:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "A ONU busca manter sua relevância na área de IA enquanto os EUA e a China avançam a passos largos",
       "titleOriginal": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
@@ -67,7 +67,7 @@
     },
     {
       "source": "Axios",
-      "title": "Ativistas do Arizona criam mapa para mostrar a presença de agentes federais nas seções eleitorais",
+      "title": "Ativistas do Arizona criam mapa para indicar a presença de agentes federais nas seções eleitorais",
       "titleOriginal": "Ariz. activists build map to show federal agents at polls",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdXBQejA4bnJJN3h0d2FBSjF1dHV1QThiY016OHRLYkVmTmR4cDNoOThUVXNMQWxhTlB3TENIdjZ5czRHc2pDcGFhVjZfOFI1Q3I5dmRyMzJWTXN3ZEhBRG91bTVaT2FuYjYtemI1SWFocmp0c01Z?oc=5",
       "publishedAt": "2026-09-22T02:27:15.000Z"
