@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-22T18:55:36.441Z",
+  "updatedAt": "2026-09-22T19:10:29.491Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "A “Bola de Cristal” de Sabato aponta que três disputas pelo Senado e quatro disputas para governador estão a favor dos democratas",
+      "titleOriginal": "Sabato's Crystal Ball moves 3 Senate, 4 gubernatorial races in Democrats' favor",
+      "link": "https://thehill.com/homenews/campaign/6104713-sabato-crystal-ball-shifts-left/",
+      "publishedAt": "2026-09-22T19:06:49.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Um exército de criadores de conteúdo remunerados está inundando a internet com conteúdo político",
+      "title": "Os eleitores hispânicos, ao abandonarem Trump, estão transformando o panorama das eleições de meio de mandato",
+      "titleOriginal": "Hispanic Voters, Abandoning Trump, Are Transforming the Midterm Map",
+      "link": "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html",
+      "publishedAt": "2026-09-22T18:59:12.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Um exército de criadores remunerados está inundando a internet com conteúdo político",
       "titleOriginal": "An Army of Paid Creators Is Carpeting the Web With Political Content",
       "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
       "publishedAt": "2026-09-22T18:47:52.000Z"
@@ -17,18 +31,11 @@
       "publishedAt": "2026-09-22T18:38:37.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Os eleitores hispânicos, ao abandonarem Trump, estão transformando o cenário das eleições de meio de mandato",
-      "titleOriginal": "Hispanic Voters, Abandoning Trump, Are Transforming the Midterm Map",
-      "link": "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html",
-      "publishedAt": "2026-09-22T18:28:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump afirma que está considerando a proibição da exportação de diesel; Irã e EUA se reúnem à margem da Assembleia Geral da ONU",
-      "titleOriginal": "Live updates: Trump says he's mulling diesel export ban; Iran-US meet on UNGA sidelines",
-      "link": "https://thehill.com/homenews/administration/6103063-live-updates-trump-un-general-assembly-iran-russia-ukraine-conflicts-media-ban/",
-      "publishedAt": "2026-09-22T18:21:58.000Z"
+      "source": "Axios",
+      "title": "Trump apoia a proibição das exportações de diesel",
+      "titleOriginal": "Trump backs ban on diesel exports",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PQmItdEphTEZOWll6ci1RdHRKUWhrYzJOMFl1SjBaRkNTOUhlZUhCc0RpMENaQkwycnpSZWJTRVZOcUp0S2kzSUtTOWxVUHR6cW9FS0Q0T0pKMTU5b3NFUm5qWHZXQ2ZU?oc=5",
+      "publishedAt": "2026-09-22T18:26:35.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -60,17 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Vance e Oz riem da proibição da CNN e do Politico durante evento sobre fraude",
+      "title": "Vance e Oz riem da proibição da CNN e do Politico durante evento sobre fraudes",
       "titleOriginal": "Vance, Oz chuckle about CNN, Politico ban during fraud event",
       "link": "https://thehill.com/homenews/administration/6104608-vance-mocks-white-house-ban/",
       "publishedAt": "2026-09-22T18:09:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Christie pondera concorrer à Casa Branca em 2028 em meio a perspectivas sombrias para as eleições de meio de mandato",
-      "titleOriginal": "Christie mulls 2028 White House run amid bleak midterm outlook",
-      "link": "https://thehill.com/homenews/campaign/6104354-chris-christie-2028-white-house-run/",
-      "publishedAt": "2026-09-22T18:01:17.000Z"
     }
   ]
 }
