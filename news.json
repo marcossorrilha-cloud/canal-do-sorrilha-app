@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-23T20:22:46.779Z",
+  "updatedAt": "2026-09-23T20:40:55.846Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Juiz mostra ceticismo em relação à posição de Trump sobre a proibição da mídia; Trump receberá Xi Jinping na cerimônia de boas-vindas no aeroporto",
+      "titleOriginal": "Live updates: Judge skeptical of Trump position on media ban; Trump to greet Xi Jinping in airport welcome",
+      "link": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/",
+      "publishedAt": "2026-09-23T20:34:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Em Trump, Xi vê uma “oportunidade rara” para convencer Taiwan de que a resistência é inútil",
+      "titleOriginal": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhcks2RFdOQ1RFR2RIek56ZmlMRGZNVVJMYnBZczczcTJoVGt0OFN0MXJQTzRKNnhfVjMyc0xtTlQ4QXN5cmNIT1hOeFh3ZWdSSW9SWmdYZG9mY3F1UHoxMjIwd2RETTA?oc=5",
+      "publishedAt": "2026-09-23T20:31:25.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Secretário de Energia de Trump desmente notícias sobre proibição da exportação de diesel e critica a energia solar",
+      "titleOriginal": "Trump’s Energy Secretary Dismisses Reports of Diesel Export Ban, Criticizes Solar Power",
+      "link": "https://www.nytimes.com/2026/09/23/climate/chris-wright-trump-energy-secretary-fracking.html",
+      "publishedAt": "2026-09-23T20:30:25.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Paul LePage, aliado de Trump, afirma que um membro da família está sendo deportado",
@@ -11,14 +32,14 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump deve comparecer ao jogo de futebol americano entre Tennessee e Texas, em Knoxville",
+      "title": "Trump deve assistir à partida de futebol americano entre Tennessee e Texas em Knoxville",
       "titleOriginal": "Trump set to attend Tennessee-Texas football game in Knoxville",
       "link": "https://thehill.com/policy/sports-gaming/6107241-trump-texas-tennessee-game-knoxville/",
       "publishedAt": "2026-09-23T20:13:19.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump volta atrás em relação ao plano de novos controles sobre os subsídios do NIH",
+      "title": "Trump recua em relação ao plano de novos controles sobre os subsídios do NIH",
       "titleOriginal": "Trump Backtracks on Plan for New Controls on N.I.H. Grants",
       "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html",
       "publishedAt": "2026-09-23T20:11:01.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
       "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
       "publishedAt": "2026-09-23T19:45:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O DDHQ classifica a disputa pelo governo da Flórida como “empate técnico”",
-      "titleOriginal": "DDHQ shifts Florida governor race to toss-up",
-      "link": "https://thehill.com/homenews/campaign/6107124-ddhq-shifts-florida-governor-race-tossup/",
-      "publishedAt": "2026-09-23T19:33:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Em Trump, Xi vê uma “oportunidade rara” para convencer Taiwan de que a resistência é inútil",
-      "titleOriginal": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhcks2RFdOQ1RFR2RIek56ZmlMRGZNVVJMYnBZczczcTJoVGt0OFN0MXJQTzRKNnhfVjMyc0xtTlQ4QXN5cmNIT1hOeFh3ZWdSSW9SWmdYZG9mY3F1UHoxMjIwd2RETTA?oc=5",
-      "publishedAt": "2026-09-23T19:27:47.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Secretário de Energia de Trump desmente notícias sobre proibição da exportação de diesel e critica a energia solar",
-      "titleOriginal": "Trump’s Energy Secretary Dismisses Reports of Diesel Export Ban, Criticizes Solar Power",
-      "link": "https://www.nytimes.com/2026/09/23/climate/chris-wright-trump-energy-secretary-fracking.html",
-      "publishedAt": "2026-09-23T19:27:24.000Z"
     }
   ]
 }
