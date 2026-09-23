@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-23T05:59:19.345Z",
+  "updatedAt": "2026-09-23T06:39:28.807Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "O FBI está investigando alegações de que um importante grupo de cibercrime teria roubado dados confidenciais de funcionários",
+      "titleOriginal": "FBI investigating claims that a major cybercrime group stole sensitive personnel data",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqamxLV3NFbHBxWWkycnFpNkl3OHIzaVJaLWpmM184RktSUFVjZGVyTFEzSUZId0JCVl9rOEN6RjZmUHM1MWhQUUFadW5FY202aVVNZU1rVEtHR3ZHUUFRU2E2VFVIUWFScWlCLUpNd2lmYkx1UkUzcQ?oc=5",
+      "publishedAt": "2026-09-23T06:15:27.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Partido Republicano rompe com Trump, que é impopular",
+      "titleOriginal": "GOP breaking with an unpopular Trump",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZeFRpclg2UWRqaXpyNjVnN1FjZkJwdzJBaEdsNVRCRER5anFSYmt4R2tmZnhRbi14dmNSbVVYa0dGc0dsV1YydlJaYUpVX0VoMFBsVzBiQzlJdGs3dEhrQnd2d3BtNGEzYU9LRml6dmVFZDJQLXZ4amdULWM?oc=5",
+      "publishedAt": "2026-09-23T06:15:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Nos países bálticos, as forças da OTAN estão tentando aprender a nova forma de guerra",
+      "titleOriginal": "In the Baltics, NATO Forces Are Trying to Learn the New Way of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTR2SmtDSkFvTDFxY0c3TlJPOHRXR0xSckVPRGY2bXdvaWgyRENtNnlwMWx5c2ZDZjJVNWlPb2dDV0xxSXVpbjRHcE9qNURKcFN0azJ6VXBURXNyX1Z5NnZMRUJlRHR3empzNjd2WW9LYVFDZTRGd1JrclNaTkdrZm9TWjZuVlZlY2oya3RSSnVEUExCT1NibmJMTDlvUFVralZrc0lOanRrZkk?oc=5",
+      "publishedAt": "2026-09-23T05:43:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Onda de reveses deixa Trump frustrado e em busca de reconhecimento",
+      "titleOriginal": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVBNVlVEMW44cEtZNmZRY1dhRHk2OFZYQmZqOXZtb0Y1NEFuSDhKMFVPc0xYYkpZYUlYSUNLLThUOUMtVXE5NVk0dUFsSXhNUXdyQXpwYmNsMFZpM3doS3NkWkZQOWxpeWNveExmN2xyVnpwMklXYktPS1RhamZ2WWtmRjRram5oR1paLXQ0LUhMa0Z0SlFZTW1BNjZlWDRJeXVSdlYzMU5xaVZ0ZkE4WA?oc=5",
+      "publishedAt": "2026-09-23T05:24:51.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump assina acordo entre os EUA, a Dinamarca e a Groenlândia para reforçar a segurança no Ártico após tensões prolongadas",
@@ -11,10 +39,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Voltei para casa, em Detroit, para descobrir o que os eleitores esperam das eleições de meio de mandato",
-      "titleOriginal": "I Went Home to Detroit to See What Voters Want From the Midterms",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRW9hbEdGa2tqcC04MGFzRmtBVlV3X2VjdGpGYXJOQnU3a1UxN1VCUG41eWpCSEY4RERrVmRteWtsS0Eycjl3LVhaLXpDeEU0RHlkSFNzSjNzMXEwVlcwYVgxV0U0VGZ4SUJKQWIwcF9ybFd0WXBhWUdOMklfREFzNUQzczlha0FRMHp1elAxT2VnbVJmb2R3ckdDa3dlVnJ4SmJuS21mUGpILU40OFE?oc=5",
-      "publishedAt": "2026-09-23T04:31:50.000Z"
+      "title": "As primárias acabaram. As eleições de meio de mandato estão marcadas. É assim que as coisas estão.",
+      "titleOriginal": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGUyNWRydHA3QnktVmV5c29LdFN5Yi1SYnRHRE42c0ZRNGVWSmFvcGRvT0NmeGdPa0dmTExrQkh0Y0NOOXJSTEpHZGxZWVBQcHp0ZE11UHdlZDdzRFJkbTRub0IxMzJfcEE5Mm9COUJKanFOWVo4cWJ5WWQxV19QeHBpSjk2M193cTJlaTFTSUJBRThEN0oxNnVNNVN5S2RSWDR0RHRTRQ?oc=5",
+      "publishedAt": "2026-09-23T04:56:43.000Z"
     },
     {
       "source": "AP News",
@@ -31,13 +59,6 @@
       "publishedAt": "2026-09-23T03:55:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Onda de contratempos deixa Trump frustrado e em busca de reconhecimento",
-      "titleOriginal": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVBNVlVEMW44cEtZNmZRY1dhRHk2OFZYQmZqOXZtb0Y1NEFuSDhKMFVPc0xYYkpZYUlYSUNLLThUOUMtVXE5NVk0dUFsSXhNUXdyQXpwYmNsMFZpM3doS3NkWkZQOWxpeWNveExmN2xyVnpwMklXYktPS1RhamZ2WWtmRjRram5oR1paLXQ0LUhMa0Z0SlFZTW1BNjZlWDRJeXVSdlYzMU5xaVZ0ZkE4WA?oc=5",
-      "publishedAt": "2026-09-23T03:47:02.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Um exército de criadores remunerados está inundando a internet com conteúdo político",
       "titleOriginal": "An Army of Paid Creators Is Carpeting the Web With Political Content",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-23T03:16:08.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O Partido Republicano rompe com Trump, que não goza de popularidade",
-      "titleOriginal": "GOP breaking with an unpopular Trump",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZeFRpclg2UWRqaXpyNjVnN1FjZkJwdzJBaEdsNVRCRER5anFSYmt4R2tmZnhRbi14dmNSbVVYa0dGc0dsV1YydlJaYUpVX0VoMFBsVzBiQzlJdGs3dEhrQnd2d3BtNGEzYU9LRml6dmVFZDJQLXZ4amdULWM?oc=5",
-      "publishedAt": "2026-09-23T03:12:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Autoridades dos EUA e do Irã se reúnem em Nova York para discutir o fim da guerra",
-      "titleOriginal": "U.S. and Iran officials meet in New York to discuss ending the war",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSDdtMjE4M3BicXVNZ1R3UUNETkI5S0xUTWtBVzdfdi1ieFBIbUxGbHNwcTdBMUxtdDgtZmp6SVRmanlCWnZzZmpDQmp4V0RFYUM3eXU2Ulg3b202Sk5Qa0p1b1d4Zw?oc=5",
-      "publishedAt": "2026-09-23T03:08:49.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Wicker critica Xi antes da cúpula com Trump em Washington, D.C.",
       "titleOriginal": "Wicker blasts Xi ahead of summit with Trump in DC",
       "link": "https://thehill.com/homenews/senate/6105609-wicker-slams-trump-xi-summit/",
       "publishedAt": "2026-09-23T03:00:14.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Senador republicano pede que Trump Jr. seja intimado após casamento financiado por oligarca russo",
-      "titleOriginal": "A GOP senator wants Trump Jr. subpoenaed after Russian oligarch-funded wedding",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRG1tRWF4b2dNZFJGdnRDblhkYzF3TXhrWWF2cUd0bFd0a2NTVUVpMEdDR2VxREg5a3ZSLUdqOEZzWUl4cXNrQWZiM0ZGcEN6bTZCN29FV25Uc2xvZ0ZRa21NWUpTeFBYUHp0WmtLX1NOeTUzWjBDNkpOWlNsY0dSSUxn?oc=5",
-      "publishedAt": "2026-09-23T02:43:52.000Z"
     }
   ]
 }
