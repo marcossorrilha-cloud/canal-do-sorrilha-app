@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-23T12:12:38.213Z",
+  "updatedAt": "2026-09-23T17:00:20.179Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Trump já prometeu “adquirir” a Groenlândia. Acabou se contentando com algo muito menor.",
-      "titleOriginal": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
-      "publishedAt": "2026-09-23T11:46:37.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Em Trump, Xi vê uma “oportunidade rara” para convencer Taiwan de que a resistência é inútil",
-      "titleOriginal": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhcks2RFdOQ1RFR2RIek56ZmlMRGZNVVJMYnBZczczcTJoVGt0OFN0MXJQTzRKNnhfVjMyc0xtTlQ4QXN5cmNIT1hOeFh3ZWdSSW9SWmdYZG9mY3F1UHoxMjIwd2RETTA?oc=5",
-      "publishedAt": "2026-09-23T11:31:25.000Z"
+      "source": "The Hill",
+      "title": "Prefeito de Chicago quer impedir a expansão do centro de dados: “Não estamos à venda”",
+      "titleOriginal": "Chicago mayor seeks to block data center expansion: ‘We are not for sale’",
+      "link": "https://thehill.com/homenews/state-watch/6106716-chicago-mayor-seeks-to-block-data-center-expansion-we-are-not-for-sale/",
+      "publishedAt": "2026-09-23T16:52:11.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A Primeira Emenda não vem acompanhada de um índice de aprovação",
-      "titleOriginal": "The First Amendment doesn't come with an approval rating",
-      "link": "https://thehill.com/opinion/white-house/6103602-media-outlets-sue-trump-administration/",
-      "publishedAt": "2026-09-23T11:30:00.000Z"
+      "title": "Bass fica atrás de Raman na disputa pela prefeitura de Los Angeles: pesquisa",
+      "titleOriginal": "Bass trails Raman in Los Angeles mayor's race: Poll",
+      "link": "https://thehill.com/homenews/campaign/6106533-raman-leads-bass-poll/",
+      "publishedAt": "2026-09-23T16:44:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Presidente do Irã apresenta réplica a Trump",
+      "titleOriginal": "Iran’s president delivers Trump rebuttal",
+      "link": "https://thehill.com/newsletters/1230-report/6106703-irans-president-delivers-trump-rebuttal/",
+      "publishedAt": "2026-09-23T16:37:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Presidente do Irã tem uma rara oportunidade de apresentar seus argumentos ao mundo",
+      "titleOriginal": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5rbGNnLUcySzFuclhGRUtyMm1tN2dfRU5SNEFtcWxxYTlZUzFBWEIyVWxCdEN1ZmF4NHFHclJOcm5jeTIya2xESkJ3aW1QX1R0WVQ5ZElXUTN4emFJeGlSNHhBWTZiVGxmbVU0UHhoaU9naXlsMlZZRVE0QUo2STh2R2ZvY3h2SFQxLVhuckp2Q0Ruc3F0STNBMVlZcmRSbVc5SldRUzE2UG5sNjJsYkdUYzI?oc=5",
+      "publishedAt": "2026-09-23T16:22:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hinson pede que a Câmara retorne “imediatamente” para tratar da questão dos preços do diesel",
+      "titleOriginal": "Hinson calls on House to return 'immediately' to tackle diesel prices",
+      "link": "https://thehill.com/homenews/house/6106637-hinson-calls-house-diesel-relief/",
+      "publishedAt": "2026-09-23T16:17:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Se os bilionários têm condições de doar milhões para instituições de caridade, também têm condições de pagar impostos",
+      "titleOriginal": "If billionaires can afford to donate millions to charity, they can afford to pay taxes, too",
+      "link": "https://thehill.com/opinion/finance/6104927-billionaire-philanthropy-vs-taxation/",
+      "publishedAt": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Presidente do Irã: Temos sido “vítimas do terrorismo”",
+      "titleOriginal": "Iran president: We have been \"victims of terrorism\"",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YYVZXX0pYY19tdk5YRFk4V09wRld6bnFCWXRsWXVPYjR0VTBDTnpzUnNKbmtnZ25UY3hoaGh2bGp4bzV3cGs1VnBFYkFDRUZEV2hqQXVWaXV4Mk5wWFRBcGFDZ2Ytbnk1bUtXelBVU1loeXpIU0pCMi02TUJpUQ?oc=5",
+      "publishedAt": "2026-09-23T15:50:49.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Canadá vai consagrar análises aceleradas de projetos por meio de legislação",
       "titleOriginal": "Canada to Enshrine Expedited Project Reviews With Legislation",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEN4eEFjbGoyZnpyMTFMOVV3YXRwcDdDVVozcnZxTXU2RUV3Q2NPOFlpUXRwbTgycVpIZGh2QUhPZm10MVNRTWxxeThld08tdURzanNtU0diRGNIWHRTRWNheWdQc29PYXlLb21RWW1PNzB5MUlNNUFPSGdVN0x3b0U1ZTdfUVNLb1BNN0tITk1sY0xLeVR6LWVDUWZpQ1ZFWTFLWnZ5NjQ?oc=5",
-      "publishedAt": "2026-09-23T11:20:45.000Z"
+      "publishedAt": "2026-09-23T15:50:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A disputa sobre a proibição de cobertura da mídia imposta por Trump vai para a Justiça",
-      "titleOriginal": "Fight over Trump’s media ban heads to court",
-      "link": "https://thehill.com/newsletters/morning-report/6105756-donald-trump-white-house-media-ban-court-battle/",
-      "publishedAt": "2026-09-23T11:10:00.000Z"
+      "title": "El-Sayed repreende repórter por perguntar sobre a “mudança de posição” em relação a Harris",
+      "titleOriginal": "El-Sayed grills reporter for asking about 'flip-flopping' on Harris",
+      "link": "https://thehill.com/homenews/campaign/6106566-el-sayed-uncommitted-vote-debate-harris/",
+      "publishedAt": "2026-09-23T15:50:35.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A fintech africana Airtel Money busca avaliação de US$ 9 bilhões com listagem na bolsa de Londres",
-      "titleOriginal": "African Fintech Airtel Money Targets $9 Billion Valuation With London Listing",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUZQNXp1S19Bd3doaFplMGhuX0l1NUxpbnlVTWdsdmpkdXZUbWdhZjNtdWhycFN2LVF0MS1KMktFaWN0UDNzNWxxTkEtSXRDTS0tcmNPWHYwNlk4VEpqNzZGbmpsMDJQT2s4QU1wcklqZm9rVUo1elVlbEh0dWhBRE9Kaw?oc=5",
-      "publishedAt": "2026-09-23T11:02:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Aliados de Trump no setor petrolífero veem o cenário apocalíptico da proibição da exportação de diesel se tornando realidade",
-      "titleOriginal": "Trump’s Oil Allies See Nightmare Scenario of Diesel-Export Ban Becoming Reality",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEJHRU9JX25kVnBSV2Zmblczd1lPNHN2LU1adDRGX1VlcEx2dEZtMXVlYU9yVUt1ZWJiUl9PWElIZnBHS1JFdnN0R1NyclFtaG1tYjNLbHRYa1FQcUhZQWRGTE42TzlXNkNMVElkVkduQjl5ZVVKR3hwTEZDSkE0anAyUjZxaUtpU3k3MjVhc0JyNTQ0Ylhpb05VTzJTa3QybXdZOTVldkZrdGFyNXN2bmtVMlJMTHlfYXR1ZVE0U1FnMVRkdUE?oc=5",
-      "publishedAt": "2026-09-23T11:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Dólar atinge a maior cotação em oito semanas, com as apostas no aumento das taxas pelo Fed superando a queda nos preços do petróleo",
-      "titleOriginal": "Dollar Jumps to 8-Week High as Fed Rate-Hike Bets Outweigh Lower Oil Prices",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWd1TXlQMWFteE5laG9vTTFUNkFieFpXVlo2SG5TWS1mNUxZbW5kUkhGUkpBa0tkNW1hc1Q2ZEhXMVQ4TW84Q2ZYdld5OHZzV3dXbi1FYTc4WjZpVko1QVo4NU4zdEdJakpOM1UyeFI2RktZeDA3UklxSUhNaFQyVUs2UjhsSDRuMVNxaExiSmptWDdJcmdfb01MdFowS2tSM2RCWDZJcGszQzR1anJYcDB0MlVrY0tleEFsSnMyTmJaUTktSmJr?oc=5",
-      "publishedAt": "2026-09-23T10:18:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pete Hegseth coloca a Câmara diante de um dilema sobre o impeachment de um presidente em fim de mandato",
-      "titleOriginal": "Pete Hegseth confronts House with a lame-duck impeachment dilemma",
-      "link": "https://thehill.com/homenews/house/6105122-trump-administration-iran-war-controversy/",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A disputa sobre a pesca de arrasto causa alvoroço na corrida pelo Senado do Alasca",
-      "titleOriginal": "Trawling fight makes waves in Alaska Senate contest",
-      "link": "https://thehill.com/homenews/6105130-peltola-sullivan-trawling-clash-alaska-senate/",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
+      "source": "New York Times",
+      "title": "A “Grande e Maravilhosa Lei” de Trump está começando a causar problemas antes das eleições de meio de mandato",
+      "titleOriginal": "Trump’s One Big Beautiful Bill Is Starting to Bite Before the Midterm Elections",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
+      "publishedAt": "2026-09-23T15:45:58.000Z"
     }
   ]
 }
