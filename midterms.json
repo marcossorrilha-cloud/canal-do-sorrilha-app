@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:59:26.000Z",
+  "updatedAt": "2026-09-23T23:10:37.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
   "asOf": "23/09/2026",
@@ -9,8 +9,8 @@
     "rep": 15.3
   },
   "senate": {
-    "dem": 56.5,
-    "rep": 43.5
+    "dem": 60.8,
+    "rep": 39.2
   },
   "states": [
     {
