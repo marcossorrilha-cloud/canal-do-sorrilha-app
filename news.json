@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-23T17:27:57.571Z",
+  "updatedAt": "2026-09-23T20:22:46.779Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "A Fox News entra em desacordo com Trump sobre a proibição da imprensa",
-      "titleOriginal": "Fox News Finds Itself at Odds With Trump on Press Ban",
-      "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
-      "publishedAt": "2026-09-23T17:10:33.000Z"
+      "title": "Paul LePage, aliado de Trump, afirma que um membro da família está sendo deportado",
+      "titleOriginal": "Paul LePage, a Trump Ally, Says a Family Member Is Being Deported",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html",
+      "publishedAt": "2026-09-23T20:16:33.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Ted Cruz critica Joel Webbon por afirmar que o movimento MAGA deveria “abraçar o socialismo”",
-      "titleOriginal": "Ted Cruz blasts Joel Webbon for saying MAGA should 'embrace socialism'",
-      "link": "https://thehill.com/opinion/robbys-radar/6106781-gop-rejects-webbons-socialism/",
-      "publishedAt": "2026-09-23T17:03:03.000Z"
+      "title": "Trump deve comparecer ao jogo de futebol americano entre Tennessee e Texas, em Knoxville",
+      "titleOriginal": "Trump set to attend Tennessee-Texas football game in Knoxville",
+      "link": "https://thehill.com/policy/sports-gaming/6107241-trump-texas-tennessee-game-knoxville/",
+      "publishedAt": "2026-09-23T20:13:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump volta atrás em relação ao plano de novos controles sobre os subsídios do NIH",
+      "titleOriginal": "Trump Backtracks on Plan for New Controls on N.I.H. Grants",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html",
+      "publishedAt": "2026-09-23T20:11:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Em que aspectos os EUA estão à frente da China em IA e em que aspectos estão ficando para trás?",
+      "titleOriginal": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "publishedAt": "2026-09-23T20:05:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto Trump recebe Xi, mais americanos têm uma visão positiva da China",
+      "titleOriginal": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
+      "publishedAt": "2026-09-23T20:00:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky afirma que a IA em breve “decidirá o que acontece no campo de batalha”",
+      "titleOriginal": "Zelensky says AI will soon 'decide what happens on the battlefield'",
+      "link": "https://thehill.com/policy/technology/6107156-trump-renames-ai-super-intelligence/",
+      "publishedAt": "2026-09-23T19:58:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto Xi visita Washington, Trump minimiza as ações da China contra os interesses dos EUA",
+      "titleOriginal": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
+      "publishedAt": "2026-09-23T19:45:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O DDHQ classifica a disputa pelo governo da Flórida como “empate técnico”",
+      "titleOriginal": "DDHQ shifts Florida governor race to toss-up",
+      "link": "https://thehill.com/homenews/campaign/6107124-ddhq-shifts-florida-governor-race-tossup/",
+      "publishedAt": "2026-09-23T19:33:56.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Aliados de Trump no setor petrolífero temem perder a batalha na tentativa de impedir as restrições à exportação de diesel",
-      "titleOriginal": "Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Limits",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEJHRU9JX25kVnBSV2Zmblczd1lPNHN2LU1adDRGX1VlcEx2dEZtMXVlYU9yVUt1ZWJiUl9PWElIZnBHS1JFdnN0R1NyclFtaG1tYjNLbHRYa1FQcUhZQWRGTE42TzlXNkNMVElkVkduQjl5ZVVKR3hwTEZDSkE0anAyUjZxaUtpU3k3MjVhc0JyNTQ0Ylhpb05VTzJTa3QybXdZOTVldkZrdGFyNXN2bmtVMlJMTHlfYXR1ZVE0U1FnMVRkdUE?oc=5",
-      "publishedAt": "2026-09-23T16:59:00.000Z"
+      "title": "Em Trump, Xi vê uma “oportunidade rara” para convencer Taiwan de que a resistência é inútil",
+      "titleOriginal": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhcks2RFdOQ1RFR2RIek56ZmlMRGZNVVJMYnBZczczcTJoVGt0OFN0MXJQTzRKNnhfVjMyc0xtTlQ4QXN5cmNIT1hOeFh3ZWdSSW9SWmdYZG9mY3F1UHoxMjIwd2RETTA?oc=5",
+      "publishedAt": "2026-09-23T19:27:47.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Prefeito de Chicago tenta impedir a expansão de um centro de dados: “Não estamos à venda”",
-      "titleOriginal": "Chicago mayor seeks to block data center expansion: ‘We are not for sale’",
-      "link": "https://thehill.com/homenews/state-watch/6106716-chicago-mayor-seeks-to-block-data-center-expansion-we-are-not-for-sale/",
-      "publishedAt": "2026-09-23T16:52:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bass fica atrás de Raman na disputa pela prefeitura de Los Angeles: pesquisa",
-      "titleOriginal": "Bass trails Raman in Los Angeles mayor's race: Poll",
-      "link": "https://thehill.com/homenews/campaign/6106533-raman-leads-bass-poll/",
-      "publishedAt": "2026-09-23T16:44:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente do Irã apresenta réplica a Trump",
-      "titleOriginal": "Iran’s president delivers Trump rebuttal",
-      "link": "https://thehill.com/newsletters/1230-report/6106703-irans-president-delivers-trump-rebuttal/",
-      "publishedAt": "2026-09-23T16:37:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Secretário de Energia sugere um limite voluntário às exportações de diesel, em vez de uma proibição",
-      "titleOriginal": "Energy Secretary Hints at Voluntary Cap on Diesel Exports, Rather Than Ban",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1UwdlE1LU1VQ1hrSWl1Z0d1QWJZZnFEblBmbGRkZ0pWZEJXeTVfWWlpdXJnZDhJQVduMnpDcXFtZHMxQlpSUDVWelBxOTdYRGo2cWlTOTFTLWdpNW5USWRRRGp6bDBucURDM011RGUwX1NUU0VQeU93TklMcnNCakR5MTh2VWZrZkRlM0lBdS0zVjdvZHp2VlJoUGhMblBud3dWTkFYQWkwNlBONTNPUG5VUW02MlFxeEE?oc=5",
-      "publishedAt": "2026-09-23T16:24:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Presidente do Irã tem uma rara oportunidade de apresentar seus argumentos ao mundo",
-      "titleOriginal": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5rbGNnLUcySzFuclhGRUtyMm1tN2dfRU5SNEFtcWxxYTlZUzFBWEIyVWxCdEN1ZmF4NHFHclJOcm5jeTIya2xESkJ3aW1QX1R0WVQ5ZElXUTN4emFJeGlSNHhBWTZiVGxmbVU0UHhoaU9naXlsMlZZRVE0QUo2STh2R2ZvY3h2SFQxLVhuckp2Q0Ruc3F0STNBMVlZcmRSbVc5SldRUzE2UG5sNjJsYkdUYzI?oc=5",
-      "publishedAt": "2026-09-23T16:22:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hinson pede que a Câmara dos Deputados retorne “imediatamente” para tratar da questão dos preços do diesel",
-      "titleOriginal": "Hinson calls on House to return 'immediately' to tackle diesel prices",
-      "link": "https://thehill.com/homenews/house/6106637-hinson-calls-house-diesel-relief/",
-      "publishedAt": "2026-09-23T16:17:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Se os bilionários têm condições de doar milhões para instituições de caridade, também têm condições de pagar impostos",
-      "titleOriginal": "If billionaires can afford to donate millions to charity, they can afford to pay taxes, too",
-      "link": "https://thehill.com/opinion/finance/6104927-billionaire-philanthropy-vs-taxation/",
-      "publishedAt": "2026-09-23T16:00:00.000Z"
+      "source": "New York Times",
+      "title": "Secretário de Energia de Trump desmente notícias sobre proibição da exportação de diesel e critica a energia solar",
+      "titleOriginal": "Trump’s Energy Secretary Dismisses Reports of Diesel Export Ban, Criticizes Solar Power",
+      "link": "https://www.nytimes.com/2026/09/23/climate/chris-wright-trump-energy-secretary-fracking.html",
+      "publishedAt": "2026-09-23T19:27:24.000Z"
     }
   ]
 }
