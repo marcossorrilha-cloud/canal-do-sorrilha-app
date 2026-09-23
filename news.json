@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-23T11:38:28.763Z",
+  "updatedAt": "2026-09-23T12:12:38.213Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Trump já prometeu “adquirir” a Groenlândia. Acabou se contentando com algo muito menor.",
+      "titleOriginal": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
+      "publishedAt": "2026-09-23T11:46:37.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Onda de contratempos deixa Trump frustrado e em busca de reconhecimento",
-      "titleOriginal": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVBNVlVEMW44cEtZNmZRY1dhRHk2OFZYQmZqOXZtb0Y1NEFuSDhKMFVPc0xYYkpZYUlYSUNLLThUOUMtVXE5NVk0dUFsSXhNUXdyQXpwYmNsMFZpM3doS3NkWkZQOWxpeWNveExmN2xyVnpwMklXYktPS1RhamZ2WWtmRjRram5oR1paLXQ0LUhMa0Z0SlFZTW1BNjZlWDRJeXVSdlYzMU5xaVZ0ZkE4WA?oc=5",
-      "publishedAt": "2026-09-23T11:30:05.000Z"
+      "title": "Em Trump, Xi vê uma “oportunidade rara” para convencer Taiwan de que a resistência é inútil",
+      "titleOriginal": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhcks2RFdOQ1RFR2RIek56ZmlMRGZNVVJMYnBZczczcTJoVGt0OFN0MXJQTzRKNnhfVjMyc0xtTlQ4QXN5cmNIT1hOeFh3ZWdSSW9SWmdYZG9mY3F1UHoxMjIwd2RETTA?oc=5",
+      "publishedAt": "2026-09-23T11:31:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Primeira Emenda não vem acompanhada de um índice de aprovação",
+      "titleOriginal": "The First Amendment doesn't come with an approval rating",
+      "link": "https://thehill.com/opinion/white-house/6103602-media-outlets-sue-trump-administration/",
+      "publishedAt": "2026-09-23T11:30:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -38,8 +52,15 @@
       "publishedAt": "2026-09-23T11:00:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Dólar atinge a maior cotação em oito semanas, com as apostas no aumento das taxas pelo Fed superando a queda nos preços do petróleo",
+      "titleOriginal": "Dollar Jumps to 8-Week High as Fed Rate-Hike Bets Outweigh Lower Oil Prices",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWd1TXlQMWFteE5laG9vTTFUNkFieFpXVlo2SG5TWS1mNUxZbW5kUkhGUkpBa0tkNW1hc1Q2ZEhXMVQ4TW84Q2ZYdld5OHZzV3dXbi1FYTc4WjZpVko1QVo4NU4zdEdJakpOM1UyeFI2RktZeDA3UklxSUhNaFQyVUs2UjhsSDRuMVNxaExiSmptWDdJcmdfb01MdFowS2tSM2RCWDZJcGszQzR1anJYcDB0MlVrY0tleEFsSnMyTmJaUTktSmJr?oc=5",
+      "publishedAt": "2026-09-23T10:18:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Pete Hegseth coloca a Câmara diante de um dilema sobre o impeachment durante o período de transição",
+      "title": "Pete Hegseth coloca a Câmara diante de um dilema sobre o impeachment de um presidente em fim de mandato",
       "titleOriginal": "Pete Hegseth confronts House with a lame-duck impeachment dilemma",
       "link": "https://thehill.com/homenews/house/6105122-trump-administration-iran-war-controversy/",
       "publishedAt": "2026-09-23T10:00:00.000Z"
@@ -49,27 +70,6 @@
       "title": "A disputa sobre a pesca de arrasto causa alvoroço na corrida pelo Senado do Alasca",
       "titleOriginal": "Trawling fight makes waves in Alaska Senate contest",
       "link": "https://thehill.com/homenews/6105130-peltola-sullivan-trawling-clash-alaska-senate/",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os eleitores estão recorrendo à IA para questões políticas. Será que ela está à altura da tarefa?",
-      "titleOriginal": "Voters are turning to AI on politics. Is it up to the task?",
-      "link": "https://thehill.com/policy/technology/6104694-ai-reshaping-voter-information/",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas em disputas acirradas se defendem contra as acusações de comunismo feitas pelo Partido Republicano",
-      "titleOriginal": "Democrats in competitive races fight back against GOP's communist labels",
-      "link": "https://thehill.com/homenews/campaign/6104373-democrats-fight-gop-communist-branding/",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A Enveda, empresa de biotecnologia especializada em IA, dobra seu valor para US$ 2 bilhões",
-      "titleOriginal": "Exclusive | AI Biotech Enveda Doubles in Value to $2 Billion",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0w5eEU4dkFLVTZDZHl2NDNmU2ZzTERHekJEN01NTi1lVXFtOTZiaFQ2a2U2cXpYR1d0RWNBTloxZmVqNm40MXBsMFhFT3lOb29HZ21zMHVPZWx5Q05oZE9zVnZwUzZiX2k1Q01PX2ZoTF83NGdnTnNpWVNhcVFBcDJHeVk1ajlFejRWWm9FVkttNHc?oc=5",
       "publishedAt": "2026-09-23T10:00:00.000Z"
     }
   ]
