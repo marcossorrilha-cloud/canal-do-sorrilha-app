@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-09-23T17:00:20.179Z",
+  "updatedAt": "2026-09-23T17:27:57.571Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "A Fox News entra em desacordo com Trump sobre a proibição da imprensa",
+      "titleOriginal": "Fox News Finds Itself at Odds With Trump on Press Ban",
+      "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
+      "publishedAt": "2026-09-23T17:10:33.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Prefeito de Chicago quer impedir a expansão do centro de dados: “Não estamos à venda”",
+      "title": "Ted Cruz critica Joel Webbon por afirmar que o movimento MAGA deveria “abraçar o socialismo”",
+      "titleOriginal": "Ted Cruz blasts Joel Webbon for saying MAGA should 'embrace socialism'",
+      "link": "https://thehill.com/opinion/robbys-radar/6106781-gop-rejects-webbons-socialism/",
+      "publishedAt": "2026-09-23T17:03:03.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Aliados de Trump no setor petrolífero temem perder a batalha na tentativa de impedir as restrições à exportação de diesel",
+      "titleOriginal": "Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Limits",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEJHRU9JX25kVnBSV2Zmblczd1lPNHN2LU1adDRGX1VlcEx2dEZtMXVlYU9yVUt1ZWJiUl9PWElIZnBHS1JFdnN0R1NyclFtaG1tYjNLbHRYa1FQcUhZQWRGTE42TzlXNkNMVElkVkduQjl5ZVVKR3hwTEZDSkE0anAyUjZxaUtpU3k3MjVhc0JyNTQ0Ylhpb05VTzJTa3QybXdZOTVldkZrdGFyNXN2bmtVMlJMTHlfYXR1ZVE0U1FnMVRkdUE?oc=5",
+      "publishedAt": "2026-09-23T16:59:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Prefeito de Chicago tenta impedir a expansão de um centro de dados: “Não estamos à venda”",
       "titleOriginal": "Chicago mayor seeks to block data center expansion: ‘We are not for sale’",
       "link": "https://thehill.com/homenews/state-watch/6106716-chicago-mayor-seeks-to-block-data-center-expansion-we-are-not-for-sale/",
       "publishedAt": "2026-09-23T16:52:11.000Z"
@@ -25,6 +46,13 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "Secretário de Energia sugere um limite voluntário às exportações de diesel, em vez de uma proibição",
+      "titleOriginal": "Energy Secretary Hints at Voluntary Cap on Diesel Exports, Rather Than Ban",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1UwdlE1LU1VQ1hrSWl1Z0d1QWJZZnFEblBmbGRkZ0pWZEJXeTVfWWlpdXJnZDhJQVduMnpDcXFtZHMxQlpSUDVWelBxOTdYRGo2cWlTOTFTLWdpNW5USWRRRGp6bDBucURDM011RGUwX1NUU0VQeU93TklMcnNCakR5MTh2VWZrZkRlM0lBdS0zVjdvZHp2VlJoUGhMblBud3dWTkFYQWkwNlBONTNPUG5VUW02MlFxeEE?oc=5",
+      "publishedAt": "2026-09-23T16:24:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "Presidente do Irã tem uma rara oportunidade de apresentar seus argumentos ao mundo",
       "titleOriginal": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5rbGNnLUcySzFuclhGRUtyMm1tN2dfRU5SNEFtcWxxYTlZUzFBWEIyVWxCdEN1ZmF4NHFHclJOcm5jeTIya2xESkJ3aW1QX1R0WVQ5ZElXUTN4emFJeGlSNHhBWTZiVGxmbVU0UHhoaU9naXlsMlZZRVE0QUo2STh2R2ZvY3h2SFQxLVhuckp2Q0Ruc3F0STNBMVlZcmRSbVc5SldRUzE2UG5sNjJsYkdUYzI?oc=5",
@@ -32,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Hinson pede que a Câmara retorne “imediatamente” para tratar da questão dos preços do diesel",
+      "title": "Hinson pede que a Câmara dos Deputados retorne “imediatamente” para tratar da questão dos preços do diesel",
       "titleOriginal": "Hinson calls on House to return 'immediately' to tackle diesel prices",
       "link": "https://thehill.com/homenews/house/6106637-hinson-calls-house-diesel-relief/",
       "publishedAt": "2026-09-23T16:17:12.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "If billionaires can afford to donate millions to charity, they can afford to pay taxes, too",
       "link": "https://thehill.com/opinion/finance/6104927-billionaire-philanthropy-vs-taxation/",
       "publishedAt": "2026-09-23T16:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Presidente do Irã: Temos sido “vítimas do terrorismo”",
-      "titleOriginal": "Iran president: We have been \"victims of terrorism\"",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YYVZXX0pYY19tdk5YRFk4V09wRld6bnFCWXRsWXVPYjR0VTBDTnpzUnNKbmtnZ25UY3hoaGh2bGp4bzV3cGs1VnBFYkFDRUZEV2hqQXVWaXV4Mk5wWFRBcGFDZ2Ytbnk1bUtXelBVU1loeXpIU0pCMi02TUJpUQ?oc=5",
-      "publishedAt": "2026-09-23T15:50:49.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá vai consagrar análises aceleradas de projetos por meio de legislação",
-      "titleOriginal": "Canada to Enshrine Expedited Project Reviews With Legislation",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEN4eEFjbGoyZnpyMTFMOVV3YXRwcDdDVVozcnZxTXU2RUV3Q2NPOFlpUXRwbTgycVpIZGh2QUhPZm10MVNRTWxxeThld08tdURzanNtU0diRGNIWHRTRWNheWdQc29PYXlLb21RWW1PNzB5MUlNNUFPSGdVN0x3b0U1ZTdfUVNLb1BNN0tITk1sY0xLeVR6LWVDUWZpQ1ZFWTFLWnZ5NjQ?oc=5",
-      "publishedAt": "2026-09-23T15:50:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed repreende repórter por perguntar sobre a “mudança de posição” em relação a Harris",
-      "titleOriginal": "El-Sayed grills reporter for asking about 'flip-flopping' on Harris",
-      "link": "https://thehill.com/homenews/campaign/6106566-el-sayed-uncommitted-vote-debate-harris/",
-      "publishedAt": "2026-09-23T15:50:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A “Grande e Maravilhosa Lei” de Trump está começando a causar problemas antes das eleições de meio de mandato",
-      "titleOriginal": "Trump’s One Big Beautiful Bill Is Starting to Bite Before the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
-      "publishedAt": "2026-09-23T15:45:58.000Z"
     }
   ]
 }
