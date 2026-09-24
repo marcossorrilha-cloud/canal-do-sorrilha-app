@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-23T17:00:27.313Z",
-  "slot": "2026-09-23-PM",
+  "updatedAt": "2026-09-24T04:52:42.722Z",
+  "slot": "2026-09-24-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Os democratas já estão se preparando para concorrer à presidência. Veja quem está fazendo o quê.",
-      "titleOriginal": "Democrats are already making moves to run for president. Here’s who’s doing what.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW1NbnBjdXoxakxqXzhjOFFZZ3FSQzh1QWRjOFF5eGF2d1lCYzhyazRJMjhXQS1NQjAzeHFEYTVGQjJyREdReUQ2Vy1DekwxSUQxMjJXOXZuSWcydnJCaExPZ2RlZFVlX3F6cVZkYkpPV1lGeDMzZ3VaZ193aWhlQkppZ1hSWnBtMUhYR3hNX2QwZzJHQnE1OVBrWGx0NXNOMU5VX2oyUXdHYnoteGJzR0NjOXZGcE5YM1E?oc=5",
+      "title": "A disputa sobre o mapa eleitoral do Missouri volta à Suprema Corte pela terceira vez",
+      "titleOriginal": "Missouri congressional map fight returns to Supreme Court for third time",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2gxT3NjZlozNGFjTy1QQlFGUjV1R2xJeWVGMHdNaVpnYV96XzhTbGxFSy1zM1ZpakhtOVRCS2dYNjJlYjVtWUU3Sl9INktheklqUnZRUWtlMW1SbVdOYVJJU0NkZ19pMW56X3l1YUZEcXhqaVNwalIyQ0taY1RfNVpiT0lPWUZWc3c2elBTQ2J2THV5R2hIZ0o5aFU2Ykc5c3NiTFJjRkhXY0MyRHg5MGM1UFFyS19k?oc=5",
       "source": "Washington Post",
-      "coverage": 4
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Leitor labial revela a surpreendente oferta de Trump a Mamdani após o encontro dos dois em Nova York",
-      "titleOriginal": "Lip reader reveals Trump’s surprising offer to Mamdani after their NYC meeting",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXZjMXJjbmZNOXRFcHRaLUlGX3V3ejRfcXNkd192cTB6NklvZk9vdm04b3U0c3JLeHBzaHVuRVZFNERzMmxKOG91UklXOFZZamNELVY4bXhpOEttdThob0U4MUVjaTVKTTJvdGp6YWdpX3RmaDV4a1RCem1HLWZudGptZU1CR2phZEgxU1VnX1pGaTFtdUVnOEYxYnU3b1dfbThnU0xyaGQ?oc=5",
-      "source": "New York Post",
-      "coverage": 3
+      "title": "De vice-presidente de um “ditador” a aliado de Trump, o líder da Venezuela ganha destaque no cenário mundial",
+      "titleOriginal": "From ‘Dictator’ Deputy to Trump Ally, Venezuela’s Leader Takes World Stage",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2d6RHZlU3ZNajJ5aGhMT0NmSzkzbTU2NzMzenNXX2FmT1FmTmhQSXF2dTl1V1lCM0lWRS1ScndpX0U0TzR2N1RKODlJQUpGUnRab3ZQS0lNMEg2WEhSa25uQnBrUHpOZ3JTMVpjS3ZmTnUtd0RocTZkSi1nOTVqUjJPYWlOUzdCMElMTFdKZTRCa2VyWGU5bXdoeVM2VVdoUW5VWkZoWGs3TFUwYkoyRjJ5ZFFrVVNkU2Yw?oc=5",
+      "source": "Wall Street Journal",
+      "coverage": 4
     }
   ]
 }
