@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T04:52:37.000Z",
+  "updatedAt": "2026-09-24T15:07:29.000Z",
   "source": "Silver Bulletin",
   "sourceUrl": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-  "approval": 37.6,
-  "disapproval": 59.9,
-  "net": -22.3,
-  "trend": "Aprovação líquida de -22,3 (Silver Bulletin, 24/09/2026).",
+  "approval": 37.4,
+  "disapproval": 60.4,
+  "net": -23,
+  "trend": "Aprovação líquida de -23,0 (Silver Bulletin, 24/09/2026).",
   "stale": false
 }

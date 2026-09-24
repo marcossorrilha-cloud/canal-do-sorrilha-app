@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-24T12:54:09.472Z",
+  "updatedAt": "2026-09-24T15:07:28.556Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Os ataques e ameaças contra juízes federais aumentaram drasticamente, o que representa uma ameaça à nossa democracia",
+      "titleOriginal": "Attacks and threats against federal judges have spiked, and it threatens our democracy",
+      "link": "https://thehill.com/opinion/judiciary/6106573-unprecedented-threats-federal-judges/",
+      "publishedAt": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A liberdade de Min Zin deve ser o primeiro item da agenda da cúpula entre Trump e Xi",
+      "titleOriginal": "Min Zin’s freedom must be first on the Trump-Xi summit agenda",
+      "link": "https://thehill.com/opinion/international/6108004-free-american-expert-min-zin/",
+      "publishedAt": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump elogia a “amizade verdadeiramente grandiosa” com Xi Jinping, no momento em que o líder chinês inicia sua visita de Estado",
+      "titleOriginal": "Trump hails ‘truly great friendship’ with Xi Jinping as the Chinese leader begins his state visit",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
+      "publishedAt": "2026-09-24T14:51:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "“Hora do ‘modo de sobrevivência’”: republicanos aceleram seu distanciamento de Trump",
-      "titleOriginal": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
-      "publishedAt": "2026-09-24T12:46:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Collins lidera a disputa pelo Senado no Maine com 3 pontos de vantagem: pesquisa",
-      "titleOriginal": "Collins leads Maine Senate race by 3 points: Survey",
-      "link": "https://thehill.com/homenews/campaign/6108169-susan-collins-troy-jackson-maine-senate-race-nyt-siena-poll/",
-      "publishedAt": "2026-09-24T12:40:04.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os estados deveriam adotar a norma federal que impede a entrada de ciência sem fundamento nos tribunais criminais",
-      "titleOriginal": "States should adopt the federal rule that keeps junk science out of criminal courts",
-      "link": "https://thehill.com/opinion/criminal-justice/6105900-rule-702-evidentiary-standards/",
-      "publishedAt": "2026-09-24T12:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump e Xi se reúnem para negociações de alto risco; Tribunal revoga proibição de acesso da mídia imposta pela Casa Branca",
-      "titleOriginal": "Live updates: Trump, Xi sit down for high-stakes talks; Court upends White House media ban",
-      "link": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/",
-      "publishedAt": "2026-09-24T12:30:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Economia da Ucrânia prejudicada pelo Mar Negro e por interrupções no abastecimento de energia, afirma o BERD",
-      "titleOriginal": "Ukraine’s Economy Hampered by Black Sea, Energy Disruptions, Says EBRD",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNblZZVHJiMUlkNVBOa3JSbEFwTFA4Q2o2ZU5xTi1xSFN4UWpNTDhEMUNNaTFLVlotazltUmp3Z3hENFVpc2hJYnI5TlV4TkxpMEtWRVpvVGtkSUpPdi1RUzI5b1hBT24wNnI5WFZIRTdfN2ExQ3BqMjBLd2FVZnlLWEUyb1RPSVNicGE3MGh3OVlHUTNfczdSb0p3UmJ1NHl0RG1XNTR2RUZ1d1FGQWc?oc=5",
-      "publishedAt": "2026-09-24T12:05:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Em disputa: as 10 cadeiras republicanas na Câmara com maior probabilidade de mudar de mãos em novembro",
-      "titleOriginal": "On the Ballot: 10 GOP House seats most likely to flip in November",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6106802-on-the-ballot-gop-house-seats-most-likely-flip/",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Manobras sujas: por que o Congresso está votando para acabar com as medidas de proteção à qualidade do ar da Califórnia?",
-      "titleOriginal": "Dirty tricks: Why is Congress voting to scrap California's clean air protections?",
-      "link": "https://thehill.com/opinion/energy-environment/6107050-house-revokes-california-pollution-waiver/",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Veja o que está no cardápio do jantar de Estado da Casa Branca para Xi Jinping",
-      "titleOriginal": "Here's what's on the White House's state dinner menu for Xi Jinping",
-      "link": "https://thehill.com/blogs/in-the-know/6107882-trump-xi-state-dinner-menu/",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
+      "title": "Paul LePage, aliado de Trump, afirma que um membro da família está sendo deportado",
+      "titleOriginal": "Paul LePage, a Trump Ally, Says a Family Member Is Being Deported",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html",
+      "publishedAt": "2026-09-24T14:41:14.000Z"
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Grupo anti-AIPAC tem como alvo nove democratas da Câmara dos Deputados para 2028",
-      "titleOriginal": "Exclusive: Anti-AIPAC group targets 9 House Dems for 2028",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXBhOVFXVGR6VWt2QlBTczQyYmQ3eFNiQWtsa25zbHc5bGJ1bU1icWRLT0p6dGZsVHlIMTFiN0NRVFhHczlkM3g5WFJQWU10Nkx2ZzRGOTYzbE9qbElWVzNYUlp5X2tKYjVwbE1fakpjVktBVGNIcXlOQVZCNWl3em9iTTl1aTZ3em11enZ2Ni0?oc=5",
-      "publishedAt": "2026-09-24T11:47:48.000Z"
+      "title": "A Casa Branca desafia a ordem judicial e não restabelece o acesso aos repórteres impedidos de entrar",
+      "titleOriginal": "White House defies court order, doesn't reinstate access for banned reporters",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45NFlIT09DdzFLS1pGdGZBejhuQlF4T05iZzFCMkpGOXViczdkTU9ZZFdQVFlkWmllQ2Y5ZkpYOVNFaU5qLVVhMGlPcV9qTjByUWNFdE1ydjVnbExsdjlRT2ZpYjRfMUttb3h2ak1ldW5HVFVZ?oc=5",
+      "publishedAt": "2026-09-24T14:27:55.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: Thune planeja nova candidatura à liderança enquanto o Partido Republicano no Senado luta para sobreviver",
-      "titleOriginal": "Exclusive: Thune plans another leader bid as Senate GOP fights to survive",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWDF1SHpuaDFuS1p1SUlHWUFkMzBvai04eUMxS3duTkFJR1pmYWgxSG1wekduUlJlcEhnVFBCT1VWSzFIQm16T2JhSmpCQkNxSTdVWUNfWENGSHBCY2lFOFI2c25Zczg1bkROR3NfQXdma3k5anlaYzVheWN4Tzg?oc=5",
-      "publishedAt": "2026-09-24T11:45:58.000Z"
+      "source": "The Hill",
+      "title": "Warren: Trump adora o poder que Xi representa",
+      "titleOriginal": "Warren: Trump loves power Xi represents",
+      "link": "https://thehill.com/homenews/senate/6108643-elizabeth-warren-donald-trump-xi-jinping-us-china-summit-artificial-intelligence/",
+      "publishedAt": "2026-09-24T14:14:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sobre as conversas com Xi sobre IA: “Quero deixar tudo exatamente como está”",
+      "titleOriginal": "Trump on AI talks with Xi: 'I want to leave it exactly where it is'",
+      "link": "https://thehill.com/policy/technology/6108574-trump-xi-ai-talks/",
+      "publishedAt": "2026-09-24T14:01:41.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Obama: “O governo está ‘muito menos corrupto hoje do que provavelmente já esteve em qualquer outro momento’”",
+      "titleOriginal": "Obama: Government is 'so much less corrupt today than probably it's ever been'",
+      "link": "https://thehill.com/blogs/in-the-know/6106649-obama-great-book-podcast-government-corruption/",
+      "publishedAt": "2026-09-24T14:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Senador republicano: os líderes iranianos “fazem parte de uma colônia de répteis” que também inclui a China, a Rússia e a Coreia do Norte",
+      "titleOriginal": "Senate Republican: Iranian leaders 'part of a colony of reptiles' that also includes China, Russia, North Korea",
+      "link": "https://thehill.com/homenews/senate/6108312-kennedy-trump-xi-visit-iran-china-north-korea-russia/",
+      "publishedAt": "2026-09-24T13:59:02.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: o indicado por Trump para chefiar a FDA enfrenta audiência de confirmação no Senado",
+      "titleOriginal": "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing",
+      "link": "https://thehill.com/video-clips/6108354-watch-live-heidi-overton-fda-nominee-senate-help-confirmation-hearing/",
+      "publishedAt": "2026-09-24T13:57:42.000Z"
     }
   ]
 }
