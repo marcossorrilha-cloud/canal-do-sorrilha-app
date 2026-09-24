@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-09-24T04:52:36.118Z",
+  "updatedAt": "2026-09-24T06:45:43.061Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Thune planeja nova candidatura à liderança enquanto o Partido Republicano no Senado luta para sobreviver",
+      "titleOriginal": "Exclusive: Thune plans another leader bid as Senate GOP fights to survive",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWDF1SHpuaDFuS1p1SUlHWUFkMzBvai04eUMxS3duTkFJR1pmYWgxSG1wekduUlJlcEhnVFBCT1VWSzFIQm16T2JhSmpCQkNxSTdVWUNfWENGSHBCY2lFOFI2c25Zczg1bkROR3NfQXdma3k5anlaYzVheWN4Tzg?oc=5",
+      "publishedAt": "2026-09-24T05:41:10.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Grupo anti-AIPAC tem como alvo nove democratas da Câmara dos Deputados para 2028",
+      "titleOriginal": "Exclusive: Anti-AIPAC group targets 9 House Dems for 2028",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXBhOVFXVGR6VWt2QlBTczQyYmQ3eFNiQWtsa25zbHc5bGJ1bU1icWRLT0p6dGZsVHlIMTFiN0NRVFhHczlkM3g5WFJQWU10Nkx2ZzRGOTYzbE9qbElWVzNYUlp5X2tKYjVwbE1fakpjVktBVGNIcXlOQVZCNWl3em9iTTl1aTZ3em11enZ2Ni0?oc=5",
+      "publishedAt": "2026-09-24T05:07:37.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Juiz rejeita ação movida por Trump contra o Des Moines Register",
+      "titleOriginal": "Judge tosses Trump's lawsuit against Des Moines Register",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2wxcGhfODBYUVRxeVpHbTY3TGJhS2MwcGxVaGFmZXY5bDd4V2lyTEY2LVlTcWdtZ0t5N2o4ckdmRFV6czhUZnVoT210U1Uxdkl6bTBpT21fOHlsLUl6SlhUQXBUbWlFdTNaX1Q4VEhDUjhGbjM1SDk1OVVhSVJ5ZC1n?oc=5",
+      "publishedAt": "2026-09-24T04:54:57.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Zelenskyy, na ONU, exorta os líderes a continuarem a restringir as receitas da Rússia e a impedir seus esforços de guerra",
+      "titleOriginal": "Zelenskyy, at UN, urges leaders to keep choking Russia's revenues and impede its war efforts",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFp6UGxFQ2ZuSExJX0xzaWdjNWRsWDh5MjZ3dlNfT1hFbUxSRE9LaVhlckN6UXZlTGtXU21WdEUxZFpXem1NSXYxVV9raG11X0ZxMmg4eDFwN0dOTWR5VHBERDZtOEJVM0xQeWZ5M09SamJYeE5VUE5ud3I4elRidjdvd1NlXzRQd1Axb05abkk4UndESDE1MlVBZDZ4UQ?oc=5",
+      "publishedAt": "2026-09-24T04:35:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Zelensky: EUA promovem um cessar-fogo no setor energético e negociações trilaterais com a Rússia",
@@ -24,25 +52,11 @@
       "publishedAt": "2026-09-24T03:17:09.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: Grupo anti-AIPAC tem como alvo nove democratas da Câmara dos Deputados para 2028",
-      "titleOriginal": "Exclusive: Anti-AIPAC group targets 9 House Dems for 2028",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXBhOVFXVGR6VWt2QlBTczQyYmQ3eFNiQWtsa25zbHc5bGJ1bU1icWRLT0p6dGZsVHlIMTFiN0NRVFhHczlkM3g5WFJQWU10Nkx2ZzRGOTYzbE9qbElWVzNYUlp5X2tKYjVwbE1fakpjVktBVGNIcXlOQVZCNWl3em9iTTl1aTZ3em11enZ2Ni0?oc=5",
-      "publishedAt": "2026-09-24T02:45:21.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Presidente do Irã faz discurso desafiador na ONU e outros acontecimentos no Oriente Médio",
+      "title": "Presidente do Irã faz discurso desafiador na ONU e outras notícias sobre o Oriente Médio",
       "titleOriginal": "Iran’s president delivers defiant UN speech, and other Mideast developments",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSllKd01lQ2pnMElyUmpoMnBDTjFjVEpjb0RESGV3Q3VYdEQtNHp4WVZMN3ZISVB5OHhoaEJBbC1CYVZ1NzBkeGxSU0hMbUxEWTdjeEgxSHpkR1RSdjY2SVR3cFNWdGJGd2RQUDJhSlFraU5tdVZtVjhVdzNtQV9xWGN6SEVOYmFuUWxsTHEzTFJqYUZqR3lGdXA5a1FrOUpsOEdValRuMnBPTUJkMUhUX1RsYmp2MUU?oc=5",
       "publishedAt": "2026-09-24T02:10:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Juiz rejeita ação movida por Trump contra o Des Moines Register",
-      "titleOriginal": "Judge tosses Trump's lawsuit against Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2wxcGhfODBYUVRxeVpHbTY3TGJhS2MwcGxVaGFmZXY5bDd4V2lyTEY2LVlTcWdtZ0t5N2o4ckdmRFV6czhUZnVoT210U1Uxdkl6bTBpT21fOHlsLUl6SlhUQXBUbWlFdTNaX1Q4VEhDUjhGbjM1SDk1OVVhSVJ5ZC1n?oc=5",
-      "publishedAt": "2026-09-24T01:54:55.000Z"
     },
     {
       "source": "New York Times",
@@ -57,20 +71,6 @@
       "titleOriginal": "Melania Trump’s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders",
       "link": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
       "publishedAt": "2026-09-24T01:23:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente do RNC prevê que o Partido Republicano mantenha o controle da Câmara e 53 cadeiras no Senado",
-      "titleOriginal": "RNC chair predicts GOP keeps House, 53 Senate seats",
-      "link": "https://thehill.com/homenews/campaign/6107823-gruters-gop-house-senate-majorities-prediction/",
-      "publishedAt": "2026-09-24T01:15:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Mark Zuckerberg prevê que o Muse se tornará uma “superinteligência pessoal” para bilhões de pessoas.",
-      "titleOriginal": "Mark Zuckerberg predicts Muse will become a \"personal superintelligence\" for billions.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mOGRoa2Q0RVp3MEZHQVlQd0FwT0tCaU80eW9LYk1JWmdKcjlQUjZ3dmsyb3Y1allwZTFJWV92WDVvZXNsamhVZXBoUkRSSHpLN09yczNjdUlER09meXlVaC1iSmwycEJkd2NrZWhBNVZXMXZBREMwR3lGcw?oc=5",
-      "publishedAt": "2026-09-24T00:55:47.000Z"
     }
   ]
 }
