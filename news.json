@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-24T21:49:00.191Z",
+  "updatedAt": "2026-09-24T22:25:16.920Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Trump prepara uma recepção fastuosa para Xi, mas pouco fala sobre as tensões significativas nas relações entre os EUA e a China",
+      "titleOriginal": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
+      "publishedAt": "2026-09-24T21:59:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Grupo de repórteres da Casa Branca fica em limbo em meio à visita de Xi, que envolve grandes riscos",
+      "titleOriginal": "White House TV pool in limbo amid high stakes Xi visit",
+      "link": "https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo/",
+      "publishedAt": "2026-09-24T21:56:55.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump reclama que a CNN e a MS NOW não cobriram a visita de Xi, que foi “feita para a televisão”",
@@ -24,8 +38,15 @@
       "publishedAt": "2026-09-24T21:01:30.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Funcionários do FBI envolvidos no caso de Trump em Mar-a-Lago buscam esclarecimentos sobre intimações na investigação da “grande conspiração” na Flórida",
+      "titleOriginal": "FBI employees in Trump Mar-a-Lago case seek clarity on subpoenas in Florida 'grand conspiracy' probe",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1RON1NQVTBpX3N5Nmx4Undvd2dXZnc2ZXlhdGVQX1JSajRJcmhORDVubHpmWHhvYjZPRmkwQ0Zsa01UMFVPb1d1WlZVdnJjZEZxTzRueDlJV3JBVHYwSy1ZblBsNVlNY25QNjBnVWxnOHh6ZjExUzhxQ1pHamZtNHRvNFdXMElIWXRKUWtub2ZUR08zS3U0MQ?oc=5",
+      "publishedAt": "2026-09-24T20:59:00.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "No Alasca, os congressistas turbulentos são uma tradição",
+      "title": "No Alasca, congressistas turbulentos são uma tradição",
       "titleOriginal": "In Alaska, Rowdy Members of Congress Are a Tradition",
       "link": "https://www.nytimes.com/2026/09/24/us/politics/mary-peltola-alaska-congress.html",
       "publishedAt": "2026-09-24T20:55:30.000Z"
@@ -46,31 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Whitmer: Michigan vai investigar a perseguição de veículo pelo ICE que resultou em acidente fatal",
-      "titleOriginal": "Whitmer: Michigan to review ICE vehicle pursuit that resulted in fatal crash",
-      "link": "https://thehill.com/homenews/state-watch/6110094-whitmer-orders-ice-pursuit-investigation/",
-      "publishedAt": "2026-09-24T20:25:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Casa Branca restabelece o acesso a repórteres que haviam sido barrados",
-      "titleOriginal": "White House reinstates access for banned reporters",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45NFlIT09DdzFLS1pGdGZBejhuQlF4T05iZzFCMkpGOXViczdkTU9ZZFdQVFlkWmllQ2Y5ZkpYOVNFaU5qLVVhMGlPcV9qTjByUWNFdE1ydjVnbExsdjlRT2ZpYjRfMUttb3h2ak1ldW5HVFVZ?oc=5",
-      "publishedAt": "2026-09-24T20:14:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Morre homem que foi baleado e ficou ferido na tentativa de assassinato de Trump em Butler",
-      "titleOriginal": "Man shot, injured in Butler Trump assassination attempt dies",
-      "link": "https://thehill.com/homenews/state-watch/6110269-trump-rally-shooting-victim-dies/",
-      "publishedAt": "2026-09-24T20:13:44.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A poucas semanas das eleições, os laços de Susan Collins com um angariador de fundos estão sob escrutínio",
-      "titleOriginal": "Weeks Before the Election, Susan Collins’s Ties to a Fund-Raiser Are Under Scrutiny",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/weeks-before-the-election-collinss-ties-to-a-fund-raiser-are-under-scrutiny.html",
-      "publishedAt": "2026-09-24T20:09:23.000Z"
+      "title": "O DHS tentou deportar um peruano para a África após decisão do tribunal de apelação que impedia as remoções para países terceiros",
+      "titleOriginal": "DHS tried to deport Peruvian man to Africa after appeals court ruling blocking third country removals",
+      "link": "https://thehill.com/homenews/administration/6110337-first-circuit-blocks-third-country-deportation/",
+      "publishedAt": "2026-09-24T20:39:40.000Z"
     }
   ]
 }
