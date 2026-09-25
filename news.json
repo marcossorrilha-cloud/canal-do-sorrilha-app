@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-25T20:45:16.070Z",
+  "updatedAt": "2026-09-25T22:21:39.009Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Últimas pesquisas para as eleições de meio de mandato revelam sinais positivos para os republicanos",
+      "titleOriginal": "Latest Midterm Polls Reveal Bright Spots for Republicans",
+      "link": "https://www.nytimes.com/2026/09/25/us/politics/republicans-midterms-senate-polls.html",
+      "publishedAt": "2026-09-25T22:12:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte bloqueia uso do mapa defendido pelo Partido Republicano no Missouri — mais uma vez",
+      "titleOriginal": "Supreme Court blocks use of GOP-favored map in Missouri — again",
+      "link": "https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle/",
+      "publishedAt": "2026-09-25T22:03:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Senadores democratas acusam Kennedy de não cumprir o acordo ético no processo judicial sobre vacinas",
+      "titleOriginal": "Democratic senators accuse Kennedy of not adhering to ethics agreement in vaccine lawsuit",
+      "link": "https://thehill.com/policy/healthcare/6112311-kennedy-hhs-vaccine-lawsuit-democrats-doubt/",
+      "publishedAt": "2026-09-25T21:58:41.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelação dá razão ao governo Trump no caso da inclusão da Anthropic na lista negra",
+      "titleOriginal": "Appeals court sides with Trump admin in Anthropic blacklisting",
+      "link": "https://thehill.com/newsletters/technology/6112510-appeals-court-sides-with-trump-admin-in-anthropic-blacklisting/",
+      "publishedAt": "2026-09-25T21:52:09.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ministro das Relações Exteriores do Irã detalha nova proposta para reabrir o estreito e outros acontecimentos no Oriente Médio",
+      "titleOriginal": "Iran’s foreign minister details new offer to reopen strait, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3pzZkZqVUUyd3JHN0pYYktoX0VWTjNnTEJ0OVlvMzlMVGVMdlVmYWFZR1ZPTVBfN2w1cmIyTFVGZHVZX2QzTWRab0JtbFZVeUxYaGdvTldWNUdxeXZhd3hDQmF4b0hFNUZvMk5hamxYSG91NXBWMXRWLVdXUS05aU1PUXZqZFdWdFJxR3BacVQ2d2NkRVF5aUw0WWE3VWRXVWNDOGhKcVBhWVlCOXZZcTBRRE4?oc=5",
+      "publishedAt": "2026-09-25T21:26:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
+      "titleOriginal": "Financial Services Roundup: Market Talk",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdFQxTy15M3VHLWY3VThfcUhpV2JKVzYzUDQtZjlfblZSMWRfeldTaktibHBWd3VsOThibVF5MGo0M2NJMzJMV0xDcDlwTG96bUM0alRjX01tWUJvUTY4TVpXWWJqdUFYQWVGcWd1YlFodnlMZl9HYXJvcWR3d203cEpn?oc=5",
+      "publishedAt": "2026-09-25T21:14:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ações sobem e encerram semana marcada por rendimentos crescentes e volatilidade nos preços do petróleo",
+      "titleOriginal": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEVnSDJQSW85S2ZsX3J4VjI4cFBQMjU1QkpfRnR6ckRRT1FnZGFRRzRoZFdiYlFTR00xRHpMWGpOYVNBdUg2dXNnUlZmSTcxbmFDNXVfNGd6ZVFieU1keVhqOG5QRlptMDA4Y1ZkZllsRThFVXRKd1dLYzRzSXRpYTJKWWFleldEUmhHcTVkZGhFSl81Y1pzc2dLaXc5X3lUdG5WWjliMVVHVkY3?oc=5",
+      "publishedAt": "2026-09-25T21:06:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Trump visitará vários estados fortemente conservadores durante a campanha intensiva de outubro",
+      "titleOriginal": "Trump will hit several deep-red states in October campaign blitz",
+      "link": "https://www.politico.com/news/2026/09/25/trump-midterms-travel-iowa-florida-red-states-01093710",
+      "publishedAt": "2026-09-25T20:48:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Preparando-se para derrotas nas eleições de meio de mandato, os republicanos no Congresso tentam uma mudança de rumo antes das eleições",
+      "titleOriginal": "Bracing for Midterm Losses, Republicans in Congress Try a Pre-election Pivot",
+      "link": "https://www.nytimes.com/2026/09/25/us/politics/republicans-midterms.html",
+      "publishedAt": "2026-09-25T20:45:15.000Z"
+    },
     {
       "source": "The Hill",
       "title": "5 pontos a serem destacados da cúpula “feita para a TV” entre Trump e Xi",
       "titleOriginal": "5 takeaways from Trump and Xi’s ‘Made for TV’ summit",
       "link": "https://thehill.com/homenews/administration/6112342-trump-xi-summit-takeaways/",
       "publishedAt": "2026-09-25T20:41:11.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça arquiva dezenas de processos de integração racial nas escolas",
-      "titleOriginal": "Justice Department Scraps Dozens of School Desegregation Cases",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/justice-department-desegregation-cases.html",
-      "publishedAt": "2026-09-25T20:35:06.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Xi, da China, ignora uma ONU em crise para se reunir com Trump, ofuscando a importante semana da organização",
-      "titleOriginal": "China’s Xi Snubs a Troubled U.N. for Trump, Drowning Out Its Big Week",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html",
-      "publishedAt": "2026-09-25T20:30:27.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Thierry Henry, lenda do futebol francês, coloca à venda sua cobertura em Nova York por US$ 25 milhões",
-      "titleOriginal": "Exclusive | French Soccer Legend Thierry Henry Lists New York Penthouse for $25 Million",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBOMkdibFJKUWtkZWF5YXhTMzBzeVVQWk1MVUE5aGhuMGt1ZldPbnpIcXJmbFhCYVdXSjRQWElDckxaUHlTa0FOMlBDTldYZmhSUmhwbTgxVmM1SzRZX0UwUlR1ZC1TUTRFUEZHVENFMUg4ejF1dHV6Y21YejJRNXlCdFhxT0RFSjA2VmpUMA?oc=5",
-      "publishedAt": "2026-09-25T20:29:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vice-governador de Nova Jersey renuncia após ser criticado por Sherrill por causa de um relatório sobre ética",
-      "titleOriginal": "New Jersey lieutenant governor resigns after being called out by Sherrill over ethics report",
-      "link": "https://thehill.com/homenews/state-watch/6112266-nj-lt-gov-dale-caldwell-resigns/",
-      "publishedAt": "2026-09-25T20:01:05.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo caem enquanto as negociações diplomáticas entre os EUA e o Irã e as tensões regionais continuam em destaque",
-      "titleOriginal": "Oil Prices Fall as U.S.-Iran Diplomacy, Regional Tensions Remain in Focus",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkwxOXhTT2ExSk55Yy1KWDl0NVlKOERpbW04c2Q2NVE1aXRmT2ZpSFNoRkpGYmJKSUZpajZ6NURoanZiTlU0Tkx5anJaWUhLY3dhQ0N5RUN6SGJ0M1haR25NZDBwdWRZb2REbURyU2gxbk4zN2VZRU1aLUg2ZHdDd3duUU1Wa1pSb20yal96N0VXeFRvMEY3ZDgwWS1WUmVYOV9CdUlVY3c2QWRMWVVMQzhpbw?oc=5",
-      "publishedAt": "2026-09-25T19:58:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "McConnell e Cornyn assinam carta questionando o convite feito por Trump a Putin",
-      "titleOriginal": "McConnell, Cornyn join letter questioning Trump invite to Putin",
-      "link": "https://thehill.com/homenews/senate/6112200-republicans-oppose-putin-g20-invitation/",
-      "publishedAt": "2026-09-25T19:38:50.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Setor de tecnologia pede que o governo Trump revogue a nova taxa do visto H-1B",
-      "titleOriginal": "Exclusive | Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGh2blFlSDBXbkIyTFh6Z0tIRFJDc181dzFfX2VSVTBzaTMwV0ltMmhwTHNWUUhPWndhejI0R2w0eUFIQ3phOW5EZzktYU5vM0VQMXZUT1lJMEpMR3VGS2NUalRIMjMzcThrNi14bGlvVEIzUFhlLVNDMWZVX2tNN2h1RGJKNlpscHNabUtzb25HZlJOSFVSdF96b3pCdmh1Yzk1TlctWUdzNGlTT1pIVnRqc1R0aVRFckE?oc=5",
-      "publishedAt": "2026-09-25T19:31:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Xi afirma que se encontrará com Trump novamente em breve, ao encerrar sua visita aos EUA com uma visita ao Capitólio",
-      "titleOriginal": "Xi says he’ll see Trump again soon as he wraps up US visit with a look at the Constitution",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmo4eGdneEJnQUFIc09MRV9CZHduSnhNRV9tbk12YXR3RUZUZHcySmxfRWxwRVJBQV9hOXQwLUtiSWRBZGREdEtqX1lJb0xYWGMyRzk2SXdTenNIUTlfblNpdVJRenZ6d2tRXzJtWGFzZEpwQ0tVQnlVd1hUdjk3UV9id05STTd6T3hSZ3ZaekdTNi1ybVlB?oc=5",
-      "publishedAt": "2026-09-25T19:31:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que a proibição da exportação de diesel dos EUA pode não reduzir os preços",
-      "titleOriginal": "Why a U.S. Diesel Export Ban May Not Lower Prices",
-      "link": "https://www.nytimes.com/2026/09/25/business/energy-environment/trump-diesel-export-ban.html",
-      "publishedAt": "2026-09-25T19:22:03.000Z"
     }
   ]
 }
