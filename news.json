@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-09-25T06:36:23.582Z",
+  "updatedAt": "2026-09-25T07:49:58.888Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "O Irã tem uma arma secreta em sua guerra contra os Estados Unidos: a ajuda da China",
+      "titleOriginal": "Iran Has a Secret Weapon in Its War With America: Help From China",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yY3dWUm5TbW5ueVBKeTdlTHE0eGJtZmxISXdHdEtuTWYyTkhYQXdLTXdCakNnZkxpcndnY0dsYmx4NXJ1Q2tueXBPUHgyeVhGRjA1emNQTW8wcFFOUWdGX2pRNmNBMktfUWlGWWhUYzd0SUM1cWtV?oc=5",
+      "publishedAt": "2026-09-25T07:22:44.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Pandas, águias e inteligência artificial, meu Deus! Trump oferece um jantar de Estado para Xi",
-      "titleOriginal": "Pandas and Eagles and A.I., Oh My! Trump Throws a State Dinner for Xi",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
-      "publishedAt": "2026-09-25T06:26:36.000Z"
+      "title": "Enquanto Trump oferece um jantar de Estado em homenagem a Xi, confira o cardápio",
+      "titleOriginal": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+      "publishedAt": "2026-09-25T06:41:26.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Setor de tecnologia pede que o governo Trump retire a nova taxa do visto H-1B",
-      "titleOriginal": "Exclusive | Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGh2blFlSDBXbkIyTFh6Z0tIRFJDc181dzFfX2VSVTBzaTMwV0ltMmhwTHNWUUhPWndhejI0R2w0eUFIQ3phOW5EZzktYU5vM0VQMXZUT1lJMEpMR3VGS2NUalRIMjMzcThrNi14bGlvVEIzUFhlLVNDMWZVX2tNN2h1RGJKNlpscHNabUtzb25HZlJOSFVSdF96b3pCdmh1Yzk1TlctWUdzNGlTT1pIVnRqc1R0aVRFckE?oc=5",
-      "publishedAt": "2026-09-25T06:01:34.000Z"
+      "title": "Contrabandistas de cocaína dão um baile nas autoridades europeias com lanchas e tecnologia",
+      "titleOriginal": "Cocaine Smugglers Blow Past Europe’s Law Enforcement With Speedboats and Tech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUhyaEIyQjF2VVBySHBUaWF1STVWdkhuRFFBX0NaUU9FQ0c0Yk0yUmU5aHltRUJENVVzaWdQMXQzMWdVejVJX3pGb1dqTTl4a09zMWJzengtQ1lmemZmSkJJUjZ6bGlkcmduaUFpOEgyUmwzVlVKRktRSXlUTm1WOXJjVmMwdw?oc=5",
+      "publishedAt": "2026-09-25T06:26:41.000Z"
     },
     {
       "source": "Axios",
@@ -25,6 +32,13 @@
     },
     {
       "source": "AP News",
+      "title": "Donald Trump",
+      "titleOriginal": "Donald Trump",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "publishedAt": "2026-09-25T05:44:36.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Netanyahu, de Israel, na ONU, classifica as acusações de genocídio em Gaza como “a maior mentira do século”",
       "titleOriginal": "Israel's Netanyahu, at UN, calls accusations of genocide in Gaza 'the biggest lie of the century'",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnM2WE9GdERPVTluSmVqM0pXLURSOHMxdHRHZmtCRGtoN2JTdUstTDhkVmp5b1JObVNuTVp0b3FVa0VXWkNNWW8zYTJRcGdBRDVqckItTjFCV3U3QU9nQ2VsMFUtN2p0WDhIUjc5Sy15ZzZwMS1hY1lNMHF4d1dPNlhHamNCYWNkTjhyS2hSb2d4cmxFdEgwbUFBdw?oc=5",
@@ -32,7 +46,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "O WTI recua para US$ 93 com o retorno das esperanças de negociações entre os EUA e o Irã",
+      "title": "Trump expressou preocupações com a desvalorização do iene, afirma o ministro das Finanças do Japão",
+      "titleOriginal": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3VnY0xlZ0NXQzJnSXFtQ0VQTnpnNk13cDA3aDBXWWQ2ckFvdjlqWi1fVGZDbDAwLUo2SFBEbldPRkJjNEhOM3BVZ3FpRkJ5dHBscFdEQUVpUndoR3NuWF9nUmc1OFR5S243Vm8xVmZaQ1luN2dlMkZjeHJYS3d4N3NIakE5NFlXb05KeGIyemoxYVQydlUwTHZpRjRYWHhxczIxRENxYzBvaHhDdU0tQXF2blZxcDkyZVZv?oc=5",
+      "publishedAt": "2026-09-25T04:23:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O WTI recua para US$ 93 com o retorno das esperanças de negociações entre EUA e Irã",
       "titleOriginal": "WTI Eases Toward $93 as Hopes for U.S.-Iran Talks Return",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1LWkRTbVl4THlLbHZVZzFaRE5QcFdzbmFSWmJhTUlIQjJWU1pjcEtiMVY5Y29FSTFXY08yeGdqZzdsRWVCbDZ2ZW5HeURrMWJXQU9iYzB4a0g1b3FFcHRrZHluckxrYkRpT3p3S1NnMUNfaGZpUVpEcHVBZi1RZ28tZ1R4UkVSTlJvbkFYbVhyU1J3cUJUNUIyMEItVm5yNk50SmlRQ29NNnZUUzFpVEh1aw?oc=5",
       "publishedAt": "2026-09-25T04:15:00.000Z"
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-25T03:59:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Donald Trump",
-      "titleOriginal": "Donald Trump",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "publishedAt": "2026-09-25T03:28:12.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Governo dos EUA exibe anúncio pró-Trump e anticomunista",
+      "title": "Governo dos EUA veicula anúncio pró-Trump e anticomunista",
       "titleOriginal": "U.S. Government Airs Pro-Trump, Anti-Communism Ad",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFo5aGFSSUk3ZTJKNUhqd012eXA1TC02MUVkWkd0TlVrM1Z3MXpCTHdGWENZQ05sY21mVkJWVUNmUVJNenp6cDBZX1JqMkE3VXl0NHoyTnpPZklXSGJzRWtXTTFnVlZ6VllmYk91ZmNQa1g3UVJuMm1xc0o0Wnh4UnBFNE96TVlfSXR3eWhR?oc=5",
-      "publishedAt": "2026-09-25T03:28:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça arquiva dezenas de processos de integração racial nas escolas",
-      "titleOriginal": "Justice Department Scraps Dozens of School Desegregation Cases",
-      "link": "https://www.nytimes.com/2026/09/24/us/politics/justice-department-desegregation-cases.html",
-      "publishedAt": "2026-09-25T03:04:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O presidente do Irã diz ao âncora da Fox que a guerra foi “imposta a nós”",
-      "titleOriginal": "Iran's president tells Fox anchor the war was 'imposed on us'",
-      "link": "https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran/",
-      "publishedAt": "2026-09-25T02:46:47.000Z"
+      "publishedAt": "2026-09-25T03:30:16.000Z"
     }
   ]
 }
