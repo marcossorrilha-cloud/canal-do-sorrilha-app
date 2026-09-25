@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-25T12:14:17.750Z",
+  "updatedAt": "2026-09-25T13:48:43.235Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Política sem meias palavras: Trump recorre aos sucessos de sempre, mas o Partido Republicano, em dificuldades, busca novas estratégias",
-      "titleOriginal": "Whole Hog Politics: Trump plays the hits, but struggling GOP seeks new material",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/6110561-gop-midterm-election-struggles/",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono deveria lembrar-se do valor da discordância profissional",
-      "titleOriginal": "The Pentagon should remember the value of professional dissent",
-      "link": "https://thehill.com/opinion/national-security/6108301-dod-fear-inhibits-criticism/",
-      "publishedAt": "2026-09-25T11:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O mapa do Senado se estende em ambas as direções",
-      "titleOriginal": "Senate map stretches in both directions",
-      "link": "https://thehill.com/newsletters/morning-report/6111034-senate-map-expanding-2026-midterms-democrats-republicans/",
-      "publishedAt": "2026-09-25T11:16:30.000Z"
+      "source": "New York Times",
+      "title": "Enquanto Trump oferece um jantar de Estado em homenagem a Xi, confira o cardápio",
+      "titleOriginal": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+      "publishedAt": "2026-09-25T13:30:28.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Xi Jinping não trouxe uma comitiva de CEOs. O que isso revela sobre as relações entre a China e os EUA.",
-      "titleOriginal": "Xi Jinping Didn’t Bring a CEO Entourage. What That Says About China-US Relations.",
-      "link": "https://www.nytimes.com/2026/09/25/business/trump-xi-jinping-chinese-executives.html",
-      "publishedAt": "2026-09-25T10:49:38.000Z"
+      "title": "CNN e CBS retomarão a cobertura da Casa Branca após impasse",
+      "titleOriginal": "CNN and CBS Will Resume White House Coverage After Standoff",
+      "link": "https://www.nytimes.com/2026/09/25/business/media/trump-white-house-tv-pool-ban.html",
+      "publishedAt": "2026-09-25T13:23:31.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Gráficos internos do Departamento de Justiça mostram que a agência está perdendo funcionários à medida que o número de processos aumenta",
-      "titleOriginal": "Internal DOJ charts show agency bleeding staff as caseloads surge",
-      "link": "https://thehill.com/homenews/administration/6110198-doj-staffing-crisis-trump/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
+      "title": "Republicano do Senado sugere que Trump leve Xi ao Panda Express",
+      "titleOriginal": "Senate Republican suggests Trump should take Xi to Panda Express",
+      "link": "https://thehill.com/homenews/senate/6111138-mike-lee-suggests-panda-express/",
+      "publishedAt": "2026-09-25T13:17:12.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Schneider Electric vai apresentar oferta pelo Shelly Group em negócio de US$ 1,4 bilhão",
+      "titleOriginal": "Schneider Electric to Launch Bid for Shelly Group in $1.4 Billion Deal",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWZLbGRsSDJaSVV3aDg1RnJ2WWZ4Wlo1eGl2bm5Td3VzSjBHNDJRRjhhSk15U2plWFhuTTZLTDdzNjN1cGhVdmc3U3YteEQwaEZLTGZ3aUVIVGwtWWtURElfQmQtTTdoQVFCOTcwQmZkazBNQ2NwaGVxZS1RdElTYk1yZGRmYTRvMmhzcGJ3WXhQcmI3S3pwd1hrS25lY2hhNzNRbHlrQTlrZVV4ZW80NVg4TQ?oc=5",
+      "publishedAt": "2026-09-25T13:05:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "No Alasca, os congressistas turbulentos são uma tradição",
+      "titleOriginal": "In Alaska, Rowdy Members of Congress Are a Tradition",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/mary-peltola-alaska-congress.html",
+      "publishedAt": "2026-09-25T13:03:55.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Por que a Geração Z está menos propensa a ver a China como uma ameaça",
-      "titleOriginal": "Why Generation Z is less likely to view China as a threat",
-      "link": "https://thehill.com/blogs/in-the-know/6110534-gen-z-china-press-freedom-healthcare-employment/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
+      "title": "A repressão contra os uigures na China não chegou ao fim — ela passou a ocorrer na clandestinidade",
+      "titleOriginal": "China’s Uyghur crackdown has not ended — it has gone underground",
+      "link": "https://thehill.com/opinion/international/6109530-evolution-china-uygur-repression/",
+      "publishedAt": "2026-09-25T13:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Bill Gates alerta que a IA é poderosa o suficiente para causar “um bilhão de mortes”",
+      "titleOriginal": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQUNEWW9VV3NaZHpkRGZXWFFxUEZWOTNiMzlNMEcxNWhrOFF3eE1aR0pmTzhXNDZuN2ZJTnNEU19nZEoycWFobDJQZ1hEblJ0TkQySGNINFRZVm5pSWpTYmpyck9BQVpQUmc?oc=5",
+      "publishedAt": "2026-09-25T12:54:32.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Pentágono acelera os planos para um orçamento de defesa de US$ 1,5 trilhão",
-      "titleOriginal": "Pentagon turns on the jets in $1.5 trillion defense budget push",
-      "link": "https://thehill.com/policy/defense/6110595-pentagon-trump-budget-briefings-senate/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
+      "title": "Republicanos testam independência em relação a Trump antes das eleições de meio de mandato",
+      "titleOriginal": "Republicans test independence from Trump ahead of midterms",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6111089-gop-candidates-distance-trump-midterms-live-discussion/",
+      "publishedAt": "2026-09-25T12:41:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Com os preços das bolsas de grife fora do alcance, os consumidores passam a optar pelos sapatos",
+      "titleOriginal": "Priced Out of Designer Bags, Shoppers Turn to Shoes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1RDdXlqZ0FHNlZib3U2MVJVT2ZFbXdSTEVmdk5uek1KZElkbFNyUXRfU3BHbHZqLTU3Qllib0tjRS1HaU5kWU1xM2R6TFBJOTRaTGNGWENzUXZSYzdMaWI2OUlpTUZuZHk2SzRWVERRdlYxZnZTRnp2NEV0WkxCUThRTEVncmV3X3c1S0NPYlF1S3VJRlVr?oc=5",
+      "publishedAt": "2026-09-25T12:32:05.000Z"
     },
     {
       "source": "The Hill",
-      "title": "“Loucura gonzo”: plano de Trump para militarizar o Arco do Triunfo gera reações contrárias",
-      "titleOriginal": "‘Gonzo bonkers’: Trump's plan to militarize triumphal arch sparks pushback",
-      "link": "https://thehill.com/policy/defense/6110787-trump-arch-military-complex-pushback/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Resumo: Aumento dos rendimentos dos títulos e das taxas de hipotecas agrava o pessimismo para o Partido Republicano de Trump",
-      "titleOriginal": "The Memo: Rising bond yields, mortgage rates deepening gloom for Trump's GOP",
-      "link": "https://thehill.com/homenews/analysis/6110670-rising-bond-yields-midterm-trouble/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senadores republicanos ficam consternados com o apoio de Trump a Xi, depois que a China ajudou o Irã a atacar tropas americanas",
-      "titleOriginal": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-      "link": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
-      "publishedAt": "2026-09-25T10:00:00.000Z"
+      "title": "Uma proibição da exportação de diesel garantiria preços mais altos",
+      "titleOriginal": "A diesel export ban would guarantee higher prices",
+      "link": "https://thehill.com/opinion/energy-environment/6110537-diesel-export-ban-risks-scarcity/",
+      "publishedAt": "2026-09-25T12:30:00.000Z"
     }
   ]
 }
