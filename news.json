@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-25T00:50:02.295Z",
+  "updatedAt": "2026-09-25T01:31:31.221Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Lista completa dos convidados para o jantar de Estado de Trump com Xi",
+      "title": "Lista completa de convidados para o jantar de Estado de Trump com Xi",
       "titleOriginal": "Full Guest List for Trump’s State Dinner With Xi",
       "link": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html",
-      "publishedAt": "2026-09-25T00:39:32.000Z"
+      "publishedAt": "2026-09-25T01:25:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jackson alerta que as decisões de emergência da Suprema Corte impõem “custos institucionais”",
+      "titleOriginal": "Jackson warns Supreme Court’s emergency rulings imposing ‘institutional costs’",
+      "link": "https://thehill.com/regulation/court-battles/6110805-justice-jackson-critiques-scotus-emergency-docket/",
+      "publishedAt": "2026-09-25T00:52:46.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump prepara uma recepção pomposa para Xi, mas pouco fala sobre as tensões significativas nas relações entre os EUA e a China",
+      "titleOriginal": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
+      "publishedAt": "2026-09-25T00:46:00.000Z"
     },
     {
       "source": "New York Times",
@@ -32,10 +46,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Homan: O ICE “não vai a lugar nenhum” em meio ao escrutínio sobre as ações de fiscalização da imigração",
+      "title": "Homan: O ICE não vai “a lugar nenhum” em meio ao escrutínio sobre as medidas de fiscalização da imigração",
       "titleOriginal": "Homan: ICE isn’t ‘going anywhere’ amid immigration enforcement scrutiny",
       "link": "https://thehill.com/policy/national-security/6110700-homan-defends-ice-operations-doj-event/",
       "publishedAt": "2026-09-24T23:44:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Costco divulga aumento no lucro e na receita do quarto trimestre, impulsionados pela resiliência dos gastos dos consumidores",
+      "titleOriginal": "Costco Reports Higher Fourth-Quarter Profit, Revenue on Resilient Consumer Spending",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9PTDUtSVlCWUUyY2hNRkFkRzhZSkNFN21NOUNBemdrSjBRdjJ3ZEt2akVCQmtvamc2OTBnU00wOTRja2ZYRjB0RDN4T3NGRjVBdm50dmtEUEYyLTJ1NzFIanZqcUJHYzhRXzg5aERTaWdacEc1aGtIR3ZFY3dUYzU4eGlsZVEzSmoyZVRNcE5Tc0FheEo4OXBpWmNrb01KX2VReEZ6X1dmSUJLS1A4dHpOTUhCM3l5M2pLdw?oc=5",
+      "publishedAt": "2026-09-24T23:30:47.000Z"
     },
     {
       "source": "AP News",
@@ -46,31 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Xi e Trump se reúnem em jantar para conversas de alto risco; delegados da ONU abandonam a sala durante o discurso de Netanyahu",
+      "title": "Atualizações em tempo real: Xi e Trump se reúnem em jantar para negociações de alto risco; delegados da ONU abandonam a sala durante o discurso de Netanyahu",
       "titleOriginal": "Live updates: Xi, Trump meet at dinner for high-stakes talks; UN delegates walk out of Netanyahu's remarks",
       "link": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/",
       "publishedAt": "2026-09-24T23:21:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump prepara uma recepção pomposa para Xi, mas pouco fala sobre as tensões significativas nas relações entre os EUA e a China",
-      "titleOriginal": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
-      "publishedAt": "2026-09-24T23:21:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O presidente do Irã afirma que o Líder Supremo Khamenei está bem de saúde e apto a governar",
-      "titleOriginal": "Iran's president claims Supreme Leader Khamenei healthy, able to govern",
-      "link": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/",
-      "publishedAt": "2026-09-24T23:16:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores do Partido Republicano estão preocupados após equipamentos do F-35 terem ido parar na China",
-      "titleOriginal": "GOP lawmakers concerned after F-35 equipment ended up in China",
-      "link": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/",
-      "publishedAt": "2026-09-24T23:03:48.000Z"
     }
   ]
 }
