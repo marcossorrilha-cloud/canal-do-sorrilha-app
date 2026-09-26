@@ -1,17 +1,59 @@
 {
-  "updatedAt": "2026-09-26T13:06:47.014Z",
+  "updatedAt": "2026-09-26T14:43:57.063Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump assiste a partida de futebol americano entre Texas e Tennessee em Knoxville; EUA e China vão reduzir tarifas sobre produtos no valor de US$ 30 bilhões",
-      "titleOriginal": "Live updates: Trump attends Texas-Tennessee football game in Knoxville; US, China to cut tariffs on $30 billion worth of goods",
-      "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/",
-      "publishedAt": "2026-09-26T13:00:00.000Z"
+      "source": "Axios",
+      "title": "Trump afirma que rejeitou a última proposta iraniana",
+      "titleOriginal": "Trump says he rejected the latest Iranian proposal",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQkJKWUtEM3FKZXVXUzA0dnVnT1NmSXpkMXZreTlMNy1peWRuUkRodVlfWjFjUEpxM252T21wX3FXN1hzaEd4R3hnTFRCalUzNl8xanB3YXlIekVmTkZlcXM3LXlVQQ?oc=5",
+      "publishedAt": "2026-09-26T14:28:23.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Para tornar a energia acessível novamente, acabe com as exigências ambientais antes das eleições intermediárias",
+      "title": "Custo de ter um bebê: as contas hospitalares são assustadoramente altas em estados onde você menos esperaria",
+      "titleOriginal": "Cost of having a baby: Hospital bills are shockingly high in states you wouldn't expect",
+      "link": "https://thehill.com/policy/healthcare/6106923-cost-of-having-a-baby-hospital-bills-are-shockingly-high-in-states-you-wouldnt-expect/",
+      "publishedAt": "2026-09-26T14:05:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O período de outubro marca o início de mais um “grande ano” para a Suprema Corte",
+      "titleOriginal": "The October term heralds another 'big year' for the Supreme Court",
+      "link": "https://thehill.com/opinion/judiciary/6111668-climate-gun-rights-parochial-schools/",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como o plano eleitoral do governo Trump está se concretizando",
+      "titleOriginal": "How the Trump Administration’s Election Plan Is Falling Into Place",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0VsVXF4SnV4dDdKOWhfMVRuYmRBYTdXVWtxcEkyaGVmbFQ1YjVjMElHS0lQbkVVWk1PUG4wMDlvSTAtcTk0X29uV3E5Zk9KRGZiVnZnbV80b1dZN0hzQ1lTZHBEc1ZDY09iYU9qSkNLSWhMTGxwOVJWT3RXNFJ2VjRfbHd0NnJ5RjkzWWRIYXpGM3hBY0hNNUtybnU5Mm5xMTlBWVNLMHFuU2FZVDBj?oc=5",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Anthropic pagará à Akamai Technologies US$ 11,6 bilhões ao longo de sete anos por serviços em nuvem",
+      "titleOriginal": "Anthropic to Pay Akamai Technologies $11.6 Billion Over Seven Years for Cloud Services",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW0zbElYMzI3cUlNNWR0Rnp5Wk5FQTBJa3l4WFZ5RU01SjBJMWFCNWtWY01zcWl6TGlpalpDdjFmTGwtcUdQYVMzc1ZHOENwQ01LbmRPUS15T3lsY1JZSjgwTUxQLUNXZmhtT19KbUFLYnhZclF5SHNTNmVOUm1LTGlSNGhUTmVqdGNxQ3cyeXBoQ19NeHVsU09mY3VGbHZmVUtyVDAtdG1NancxTmdKUjIzcjh5aTViRGVn?oc=5",
+      "publishedAt": "2026-09-26T13:43:15.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A VoteVets gasta milhões para eleger democratas, influenciando as eleições intermediárias",
+      "titleOriginal": "VoteVets Spends Millions to Elect Democrats, Shaping Midterms",
+      "link": "https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html",
+      "publishedAt": "2026-09-26T13:22:43.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Polônia suspendeu os pedidos de asilo na fronteira com a Bielorrússia e agora quer que a Europa siga seu exemplo",
+      "titleOriginal": "Poland halted asylum claims at the Belarus border and now wants Europe to follow its example",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEp1SVc0N1R2eWVWMHN4MWhNblBrVHpnWEVhNFY0ZFM3SEFiWDkyVVBOS1V0MVoteDdQR205YzhBMjhEM2EwV1JXUGxyRmpSbjVfYl90czc5Skl5ZExyeFdlY0dmVU90VTBKSHJXeEoteGNUQ2tfX0M5STJYbTVHdkZKeWdQc0VqNGhnbXlYYWdUekRiYU1fVzMtUklfUzNrU2habG94NUVicExSWS1WYXA4REhmeXdXVmc?oc=5",
+      "publishedAt": "2026-09-26T13:14:03.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Para tornar a energia acessível novamente, é preciso acabar com as exigências ambientais antes das eleições de meio de mandato",
       "titleOriginal": "To make energy affordable again, end green mandates before the midterms",
       "link": "https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs/",
       "publishedAt": "2026-09-26T13:00:00.000Z"
@@ -24,53 +66,11 @@
       "publishedAt": "2026-09-26T12:56:55.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump enfrenta crescente dissidência no Partido Republicano no interior do país à medida que suas políticas começam a surtir efeito",
-      "titleOriginal": "Trump faces growing GOP dissent in heartland as policies bite",
-      "link": "https://thehill.com/homenews/administration/6111406-republicans-break-trump-iran-war/",
-      "publishedAt": "2026-09-26T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As pesquisas de Trump caem ainda mais, o que é um sinal de alerta para o Partido Republicano",
-      "titleOriginal": "Trump's polls sink further in warning sign for GOP",
-      "link": "https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections/",
-      "publishedAt": "2026-09-26T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso adia a discussão sobre IA enquanto os legisladores exigem medidas",
-      "titleOriginal": "Congress kicks AI fight down the road as lawmakers demand action",
-      "link": "https://thehill.com/homenews/house/6112131-lawmakers-missed-ai-deadline/",
-      "publishedAt": "2026-09-26T10:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Um impasse de 7 dias que revelou muito sobre Trump e a mídia",
-      "titleOriginal": "A 7-Day Standoff That Said So Much About Trump and the Media",
-      "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
-      "publishedAt": "2026-09-26T09:03:11.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A VoteVets gasta milhões para eleger democratas, influenciando as eleições de meio de mandato",
-      "titleOriginal": "VoteVets Spends Millions to Elect Democrats, Shaping Midterms",
-      "link": "https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html",
-      "publishedAt": "2026-09-26T09:01:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juízes federais decidem que a inclusão da Anthropic na lista negra do Pentágono foi legal",
-      "titleOriginal": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
-      "link": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
-      "publishedAt": "2026-09-26T02:48:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump cancela quase US$ 1 bilhão em verbas federais, contornando a aprovação do Congresso",
-      "titleOriginal": "Trump rescinds nearly $1B in federal funding, bypassing congressional approval",
-      "link": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/",
-      "publishedAt": "2026-09-26T01:50:22.000Z"
+      "source": "Axios",
+      "title": "Os senadores que mais gastam com passagens aéreas",
+      "titleOriginal": "The senators spending the most on flights",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUC1HVk1OU3k2OTMxWExvZWFsMENSc0dVVVR2TGtqcEpIWk9iRG13QWktUnNMYkF5Wml2OXNWLXkwZ2hPV3dHbXpUZl8xQ0VPc0owNElSOENLSlpaZU5qUTlmblRmT012UVBwY0V5R3ZiRFBaY096WnZsOE1qb1VGTmk4dzJJVW9RUUgtV1BJQQ?oc=5",
+      "publishedAt": "2026-09-26T12:22:30.000Z"
     }
   ]
 }
