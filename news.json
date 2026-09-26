@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-26T18:43:18.871Z",
+  "updatedAt": "2026-09-26T19:52:44.126Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "O governo de Mamdani tem cinco dias para entregar as comunicações sobre o congelamento dos aluguéis",
+      "titleOriginal": "Mamdani Administration Has Five Days to Turn Over Communications on Rent Freeze",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVVfNElQTG9nR3BHQnhVcW5iYXZRcHR2NDVkZXNoVkxzQmFmZTdxUF9UMVlidE9fZm50Wkk0Z2RkRXo1clAxRThfaVp2VkR1Um1XZlgtZXRZYjU4eklTa3c4YmN5NUluZmoyX2pYWXpCa3VzbTRnY2xQbTI0bEo2QkpRTmY0Mng4VzVMcEVRNVA2TUhUSzFoWmp3Yy01U1Jid2F1eGZqUmVwYnJ2aUFaSEg2V3R1dU0?oc=5",
+      "publishedAt": "2026-09-26T19:40:39.000Z"
+    },
     {
       "source": "Politico",
       "title": "Pesquisa: Os partidários do movimento MAGA de Trump não acham que ele tenha um problema de acessibilidade financeira",
@@ -11,7 +18,7 @@
     },
     {
       "source": "AP News",
-      "title": "A China e os EUA concordam em estabelecer um canal de segurança para IA e dar continuidade às negociações comerciais e militares",
+      "title": "A China e os EUA concordam em estabelecer um canal de segurança em IA e dar continuidade às negociações comerciais e militares",
       "titleOriginal": "China and US agree to establish AI safety channel and continue trade and military talks",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
       "publishedAt": "2026-09-26T17:21:00.000Z"
@@ -45,32 +52,25 @@
       "publishedAt": "2026-09-26T16:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Jogadores da Irlanda votam a favor de seguir adiante com os jogos contra Israel, enquanto cresce a pressão para um boicote; um jogador se retira da equipe",
-      "titleOriginal": "Ireland players vote to go ahead with Israel games as pressure to boycott grows, 1 player leaves",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5",
-      "publishedAt": "2026-09-26T15:45:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Como um advogado especializado em litígios empresariais se tornou o principal representante do Departamento de Justiça contra os cuidados de saúde para pessoas transgênero",
       "titleOriginal": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUI3Zm85eWI1cU8zSjlWeFJMd2VEVkdVT3k1cWU4MWdIWUhwMkdYSFpQcmhSWUI5TXpTS1FZSEl5eExaSTFQcm54VFlHYWV1ck9xYlJjUXlCaWc1MDNFd1NKaVFsY3FoRGdEVGdwUnJMSEl6Q2NPX2V2VjNpUWVnZ1kxaWVteUg2bG1qdG1rekhNcmEzQm5wdy1wWENuUTZRUkdCOFBaazlDdktBUUlzQko0aE5nQnc?oc=5",
-      "publishedAt": "2026-09-26T15:45:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Agente da OpenAI fez tentativas não autorizadas de acessar sites de órgãos federais",
-      "titleOriginal": "OpenAI agent made unauthorized attempts to access federal agencies' websites",
-      "link": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/",
-      "publishedAt": "2026-09-26T14:52:14.000Z"
+      "publishedAt": "2026-09-26T15:46:50.000Z"
     },
     {
       "source": "Axios",
-      "title": "Trump afirma que rejeitou a última proposta iraniana",
-      "titleOriginal": "Trump says he rejected the latest Iranian proposal",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQkJKWUtEM3FKZXVXUzA0dnVnT1NmSXpkMXZreTlMNy1peWRuUkRodVlfWjFjUEpxM252T21wX3FXN1hzaEd4R3hnTFRCalUzNl8xanB3YXlIekVmTkZlcXM3LXlVQQ?oc=5",
-      "publishedAt": "2026-09-26T14:44:56.000Z"
+      "title": "Juiz nomeado por Trump volta a declarar o governo em desacato por causa da deportação",
+      "titleOriginal": "Trump-appointed judge again holds admin in contempt over deportation",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9neVVKbGF6RXZOVUFuZGxMd3BnTzBNMVE5Q3pWdUJhS3NJa2xGbC1OS0l0UHdVMFdEVHBWYTJMUm4ya2F1cmZmWlZadXdITUZTTXlDcE85Yk1wZ0xkblJJTEFqNDlrYVZtNlhmY1g4eXQyUE1LZ0dRcy1VMkx3azJDUQ?oc=5",
+      "publishedAt": "2026-09-26T15:45:28.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Jogadores da Irlanda votam a favor de seguir em frente com os jogos contra Israel, enquanto cresce a pressão para um boicote; um jogador se retira da equipe",
+      "titleOriginal": "Ireland players vote to go ahead with Israel games as pressure to boycott grows, 1 player leaves",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5",
+      "publishedAt": "2026-09-26T15:45:00.000Z"
     }
   ]
 }
