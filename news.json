@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-27T13:17:40.407Z",
+  "updatedAt": "2026-09-27T13:59:37.083Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "A polícia do Reino Unido prendeu cinco homens nas proximidades de uma base aérea utilizada pelos EUA, sob suspeita de estarem preparando um ato terrorista",
+      "titleOriginal": "UK police arrest 5 men near an air base used by US on suspicion of preparing a terrorist act",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
+      "publishedAt": "2026-09-27T13:55:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Os Estados Unidos precisam de um compromisso inabalável e bipartidário com a liberdade de imprensa",
@@ -18,7 +25,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Atualizações ao vivo: Trump assiste à final da Presidents Cup; altas autoridades iranianas devem conceder entrevistas nos EUA",
+      "title": "Atualizações em tempo real: Trump assiste à final da Presidents Cup; altas autoridades iranianas devem conceder entrevistas nos EUA",
       "titleOriginal": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
       "link": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
       "publishedAt": "2026-09-27T12:30:00.000Z"
@@ -39,7 +46,7 @@
     },
     {
       "source": "AP News",
-      "title": "O número de mortos palestinos na guerra de Gaza ultrapassa 74 mil desde o início do conflito e outras notícias do Oriente Médio",
+      "title": "O número de mortos palestinos na guerra de Gaza ultrapassa 74.000 desde o início do conflito e outras notícias do Oriente Médio",
       "titleOriginal": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
       "publishedAt": "2026-09-27T11:40:00.000Z"
@@ -53,13 +60,6 @@
     },
     {
       "source": "AP News",
-      "title": "A polícia do Reino Unido evacua residências próximas a uma base aérea utilizada pelos EUA e detém homens suspeitos de planejar ataques com explosivos",
-      "titleOriginal": "UK police evacuate homes near air base used by US and detain men on suspected explosives offensives",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
-      "publishedAt": "2026-09-27T10:27:00.000Z"
-    },
-    {
-      "source": "AP News",
       "title": "Ataques russos matam duas pessoas na Ucrânia após Moscou rejeitar os apelos da Alemanha para que se reduza a tensão",
       "titleOriginal": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGV5NnVPbWRfbHRTM1pCU0Z6amtaVWFOTkpNZGI2eE9RS3cyZzBfMjNUZkZwR2tBLUhWMGZnUXNWcFpkVDRPR1VmR29PdVNjLUpjUFVPbkV5WWhMSDJ4ZUNaZ1ZVZFc4ZUlYcnNaenJrS0FVam1SblpMbG9VNHFJWmRObFNfU1hjSUsxMkZyM1QtODN1LUtxaGZIY0l2MS1Jangw?oc=5",
@@ -67,7 +67,7 @@
     },
     {
       "source": "AP News",
-      "title": "Moradores do Rio encontram suas próprias maneiras de combater as gangues, enquanto a criminalidade domina as eleições no Brasil",
+      "title": "Moradores do Rio encontram suas próprias maneiras de combater as gangues enquanto a criminalidade domina as eleições no Brasil",
       "titleOriginal": "Rio residents find their own way to tackle gangs as crime dominates Brazil’s election",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0xDZlRYRGJZY2dDanUwd3ZpRDhBblJLN2pZb1IxM2NLazI2NGM0RzBzZ0VKT2dBUUdTVWRIc0FFQTFuUUpONG9WbEQ4b1F4a2RTNTBZU3Z0THFyc3U1SkV3YXBhTkhFemlpR0JZLUtIcTJlbzZxTDk0dVdCT2c5Wm9KY1BtVlFFR2JnSVdZTlhMWEpJNkE?oc=5",
       "publishedAt": "2026-09-27T10:06:00.000Z"
