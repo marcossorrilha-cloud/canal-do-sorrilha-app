@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-27T08:11:38.775Z",
+  "updatedAt": "2026-09-27T13:17:40.407Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "As primárias acabaram. As eleições de meio de mandato estão marcadas. É assim que as coisas estão.",
-      "titleOriginal": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGUyNWRydHA3QnktVmV5c29LdFN5Yi1SYnRHRE42c0ZRNGVWSmFvcGRvT0NmeGdPa0dmTExrQkh0Y0NOOXJSTEpHZGxZWVBQcHp0ZE11UHdlZDdzRFJkbTRub0IxMzJfcEE5Mm9COUJKanFOWVo4cWJ5WWQxV19QeHBpSjk2M193cTJlaTFTSUJBRThEN0oxNnVNNVN5S2RSWDR0RHRTRQ?oc=5",
-      "publishedAt": "2026-09-27T06:27:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Thierry Henry, lenda do futebol francês, coloca à venda cobertura em Nova York por US$ 25 milhões",
-      "titleOriginal": "Exclusive | French Soccer Legend Thierry Henry Lists New York Penthouse for $25 Million",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDBOMkdibFJKUWtkZWF5YXhTMzBzeVVQWk1MVUE5aGhuMGt1ZldPbnpIcXJmbFhCYVdXSjRQWElDckxaUHlTa0FOMlBDTldYZmhSUmhwbTgxVmM1SzRZX0UwUlR1ZC1TUTRFUEZHVENFMUg4ejF1dHV6Y21YejJRNXlCdFhxT0RFSjA2VmpUMA?oc=5",
-      "publishedAt": "2026-09-27T06:17:05.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Anthropic pagará à Akamai Technologies US$ 11,6 bilhões ao longo de sete anos por serviços em nuvem",
-      "titleOriginal": "Anthropic to Pay Akamai Technologies $11.6 Billion Over Seven Years for Cloud Services",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW0zbElYMzI3cUlNNWR0Rnp5Wk5FQTBJa3l4WFZ5RU01SjBJMWFCNWtWY01zcWl6TGlpalpDdjFmTGwtcUdQYVMzc1ZHOENwQ01LbmRPUS15T3lsY1JZSjgwTUxQLUNXZmhtT19KbUFLYnhZclF5SHNTNmVOUm1LTGlSNGhUTmVqdGNxQ3cyeXBoQ19NeHVsU09mY3VGbHZmVUtyVDAtdG1NancxTmdKUjIzcjh5aTViRGVn?oc=5",
-      "publishedAt": "2026-09-27T06:13:22.000Z"
+      "source": "The Hill",
+      "title": "Os Estados Unidos precisam de um compromisso inabalável e bipartidário com a liberdade de imprensa",
+      "titleOriginal": "America needs an ironclad, bipartisan commitment to press freedom",
+      "link": "https://thehill.com/opinion/white-house/6112000-trump-white-house-press-ban/",
+      "publishedAt": "2026-09-27T13:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Fetterman defende sua identidade política e avalia um possível papel como 51º senador",
-      "titleOriginal": "Fetterman defends political identity, weighs potential role as 51st senator",
-      "link": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/",
-      "publishedAt": "2026-09-27T03:33:25.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump promove críticas a republicano que rompeu com ele na questão da imigração",
-      "titleOriginal": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
-      "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-salazar-immigration-criticism.html",
-      "publishedAt": "2026-09-27T03:12:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Emissoras de TV retomam a cobertura sobre Trump, mesmo com a Casa Branca excluindo a CNN",
-      "titleOriginal": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-      "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
-      "publishedAt": "2026-09-27T02:40:41.000Z"
+      "title": "Talarico lidera Paxton por 5 pontos em pesquisa sobre a disputa pelo Senado do Texas",
+      "titleOriginal": "Talarico leads Paxton by 5 points in Texas Senate race poll",
+      "link": "https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate/",
+      "publishedAt": "2026-09-27T12:34:50.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Graham e Andrews estão empatados na disputa pelo Senado na Carolina do Sul: pesquisa",
-      "titleOriginal": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
-      "link": "https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close/",
-      "publishedAt": "2026-09-27T02:17:18.000Z"
+      "title": "Atualizações ao vivo: Trump assiste à final da Presidents Cup; altas autoridades iranianas devem conceder entrevistas nos EUA",
+      "titleOriginal": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
+      "link": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
+      "publishedAt": "2026-09-27T12:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump chegou a chamar a dívida pública de “bomba-relógio” — ele estava certo",
+      "titleOriginal": "Trump once called the national debt a 'time bomb' — he was right",
+      "link": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/",
+      "publishedAt": "2026-09-27T12:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump se gaba da economia e critica as “notícias falsas” em meio à batalha contra a mídia",
+      "titleOriginal": "Trump boasts about economy, slams 'fake news' amid media battle",
+      "link": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/",
+      "publishedAt": "2026-09-27T11:51:26.000Z"
     },
     {
       "source": "AP News",
-      "title": "O chefe da diplomacia russa rejeita os apelos da Alemanha para que o país modere sua “perigosa” escalada contra a Alemanha",
-      "titleOriginal": "Russia's top diplomat rejects German calls to ease off its `dangerous' escalation toward the country",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU14aTYxS3I5YTNMLVhSTEljNmc1cExlcmhSZ3hVa2NmQ0JlVkRCbEo2NFJ4QTlBXzhqU181WjBrUEFyYzc4dnpOamZDOTRNRGdDbnBCZV9xaWE0YUJBUkJQRHVxMHlHbk9aRmd1bG9LRTlxSWtRZlBOSkhtUDdOR29EVGQ3bXBPbWFjZ3pXYzhXaEl5cDkwejlOX3dpSzAyd3pPV01OMUNuQVM4RGc?oc=5",
-      "publishedAt": "2026-09-27T02:14:00.000Z"
+      "title": "O número de mortos palestinos na guerra de Gaza ultrapassa 74 mil desde o início do conflito e outras notícias do Oriente Médio",
+      "titleOriginal": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
+      "publishedAt": "2026-09-27T11:40:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Vance conquista conservadores céticos com sua própria visão sobre a mensagem de Trump",
-      "titleOriginal": "Vance Woos Skeptical Conservatives With His Own Take on Trump’s Messaging",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmI5Q2tpTG9Da2NBWHNvNDBydlhtbUNDaDN0TkxjOTIwUzVZX1ZBTm5XWFNPX1VxcThuNUYtRXJaVU9fQnE0QV9NMVdrSTRjaXBLeGRkY1EtSDFjTVR6YWpJU0cwajR4V1kyRGQxbjl1eWxGQXAwMHIyN2N1blpCTVFlWldHTk9fMk1SeGZIMWZjd3h5VWNXV2NYSEhlVkRwcXo1anNHdk1wZURnbEJ3bnNiaXlmOXgz?oc=5",
-      "publishedAt": "2026-09-27T01:00:00.000Z"
+      "source": "Axios",
+      "title": "As questões mais urgentes para os eleitores rurais nas eleições de meio de mandato",
+      "titleOriginal": "The most pressing midterm issues for rural voters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GTlE3X0pfUWowTl81NmdYU3JEWkM0cGdGX0dITmREZkpLeVp2enFRS21KcUVWRmx4d3pORHppcF96RUFTNmdQVVFlQUR2a3BpRkhoX3FKS2xjQVN3T2U0Z0FwZ1FRNUI1Wm0zMmJWdnp5N2g5RHdhQg?oc=5",
+      "publishedAt": "2026-09-27T10:57:04.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump critica a cobertura da mídia sobre a remoção de seus apoios do site do candidato republicano",
-      "titleOriginal": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
-      "link": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/",
-      "publishedAt": "2026-09-27T00:07:59.000Z"
+      "source": "AP News",
+      "title": "A polícia do Reino Unido evacua residências próximas a uma base aérea utilizada pelos EUA e detém homens suspeitos de planejar ataques com explosivos",
+      "titleOriginal": "UK police evacuate homes near air base used by US and detain men on suspected explosives offensives",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
+      "publishedAt": "2026-09-27T10:27:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Ataques russos matam duas pessoas na Ucrânia após Moscou rejeitar os apelos da Alemanha para que se reduza a tensão",
+      "titleOriginal": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGV5NnVPbWRfbHRTM1pCU0Z6amtaVWFOTkpNZGI2eE9RS3cyZzBfMjNUZkZwR2tBLUhWMGZnUXNWcFpkVDRPR1VmR29PdVNjLUpjUFVPbkV5WWhMSDJ4ZUNaZ1ZVZFc4ZUlYcnNaenJrS0FVam1SblpMbG9VNHFJWmRObFNfU1hjSUsxMkZyM1QtODN1LUtxaGZIY0l2MS1Jangw?oc=5",
+      "publishedAt": "2026-09-27T10:23:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Moradores do Rio encontram suas próprias maneiras de combater as gangues, enquanto a criminalidade domina as eleições no Brasil",
+      "titleOriginal": "Rio residents find their own way to tackle gangs as crime dominates Brazil’s election",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0xDZlRYRGJZY2dDanUwd3ZpRDhBblJLN2pZb1IxM2NLazI2NGM0RzBzZ0VKT2dBUUdTVWRIc0FFQTFuUUpONG9WbEQ4b1F4a2RTNTBZU3Z0THFyc3U1SkV3YXBhTkhFemlpR0JZLUtIcTJlbzZxTDk0dVdCT2c5Wm9KY1BtVlFFR2JnSVdZTlhMWEpJNkE?oc=5",
+      "publishedAt": "2026-09-27T10:06:00.000Z"
     }
   ]
 }
