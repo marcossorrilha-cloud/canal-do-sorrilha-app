@@ -1,20 +1,62 @@
 {
-  "updatedAt": "2026-09-26T22:52:18.601Z",
+  "updatedAt": "2026-09-27T00:52:31.828Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Emissoras de TV retomam a cobertura sobre Trump, mesmo com a Casa Branca excluindo a CNN",
+      "titleOriginal": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+      "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+      "publishedAt": "2026-09-27T00:30:52.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump critica a cobertura da mídia sobre a remoção de seus apoios do site do candidato republicano",
+      "titleOriginal": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
+      "link": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/",
+      "publishedAt": "2026-09-27T00:07:59.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Furo: Previsão “delirante” do Senado abala o retiro em Sea Island",
+      "titleOriginal": "Scoop: \"Delusional\" Senate forecast rattles Sea Island retreat",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXlSSXRhNWdTdWZqeHoxNS04Tm44aXBWd0FEMFFFRUtCTE1EekFmdmJJRlFMbzlqMFlmbzVKbjB3eUhaMjUzejIwQlF2OXVfekNjN2FSZnE1NUNua093T1hlQ0ViR2Q2aW1MV3NPYlB6Uy1BQ3V5RmlOOEF1QWhPRjVn?oc=5",
+      "publishedAt": "2026-09-27T00:00:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Uma rixa que remonta à Segunda Guerra Mundial está ameaçando uma aliança fundamental para a Ucrânia",
+      "titleOriginal": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnlUcl9RcFhzRHVKTHdsMkNjUGxybUU4dTQ0YldldnFkQ0FpSnNpT3RCTnZhb0RRa0pZZW1Zc2JNeXRTdm5VZTUyMElFT3o1ZzFVSzlCbUI1RVkxbkpadmc0VDFVR1JhZzhCVDl0bndqODk5SWl2S0QteHFWQkR4YTgzQ2lEazFEYTJpNFNSaDlGdGQyZE9YU2c1eTQzaHg4RVU0NHh2UHhOOUh3dUZ0eg?oc=5",
+      "publishedAt": "2026-09-26T23:36:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Texas, nº 1, vence o Tennessee, nº 14, por 20 a 17 em Knoxville, com Simmons conseguindo 5 sacks sob o olhar de Trump",
+      "titleOriginal": "No. 1 Texas outlasts No. 14 Tennessee 20-17 in Knoxville as Simmons gets 5 sacks with Trump watching",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHFGM3JHV3huV2ZNeVM5TV9NZGkxRHZKelh5WW9nbXlWWms5NGNOQnJIY1QxNVBsZ293V1VJcE1VMEM1ZnN2TnI2NFJaUjFYODUwd0hBaFB0dC1fazFVZXJyUWRCdE1ZcG9KaFhKdV9Ed2haYWtCalhENHg5MHlpMWFiT3BHbnhI?oc=5",
+      "publishedAt": "2026-09-26T23:33:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ele tem pavor da IA — e está prestes a ganhar bilhões com ela",
+      "titleOriginal": "He’s Completely Terrified of AI—and He’s About to Make Billions Off It",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5",
+      "publishedAt": "2026-09-26T23:31:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma ter revogado a norma de Biden sobre veículos elétricos e atualizado os padrões de economia de combustível",
+      "titleOriginal": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
+      "link": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+      "publishedAt": "2026-09-26T22:52:15.000Z"
+    },
     {
       "source": "AP News",
       "title": "O Pentágono investiga após a China ter obtido peças do caça stealth F-35",
       "titleOriginal": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy0xSEtmUlhxZkZNaEJpV0dEaGlSM29MMUhqQnlGYlRMTVZuTVVsTWo2a0pIQS16bTZJZ2RnTGdEbm9JZ1Zwa01wQzYxaWVvd2c1dlh0cUlzaW1KYlhHRXhIVXptUldBUnkyNEZtdXBMV2F0YkNSTU1kbjFSNi1vYVBObHNuck0yYXphc2FobXAwdTE1Q3FETlk0Yw?oc=5",
       "publishedAt": "2026-09-26T22:13:08.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Texas, nº 1, vence o Tennessee, nº 14, por 20 a 17 em Knoxville, com Simmons marcando 5 sacks sob o olhar de Trump",
-      "titleOriginal": "No. 1 Texas outlasts No. 14 Tennessee 20-17 in Knoxville as Simmons gets 5 sacks with Trump watching",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHFGM3JHV3huV2ZNeVM5TV9NZGkxRHZKelh5WW9nbXlWWms5NGNOQnJIY1QxNVBsZ293V1VJcE1VMEM1ZnN2TnI2NFJaUjFYODUwd0hBaFB0dC1fazFVZXJyUWRCdE1ZcG9KaFhKdV9Ed2haYWtCalhENHg5MHlpMWFiT3BHbnhI?oc=5",
-      "publishedAt": "2026-09-26T21:37:00.000Z"
     },
     {
       "source": "New York Times",
@@ -29,48 +71,6 @@
       "titleOriginal": "Election forecasters don't see polling 'sugar-high' Democrats fear — for now",
       "link": "https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now/",
       "publishedAt": "2026-09-26T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Costco divulga aumento no lucro e na receita do quarto trimestre, impulsionados pela resiliência dos gastos dos consumidores",
-      "titleOriginal": "Costco Reports Higher Fourth-Quarter Profit, Revenue on Resilient Consumer Spending",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9PTDUtSVlCWUUyY2hNRkFkRzhZSkNFN21NOUNBemdrSjBRdjJ3ZEt2akVCQmtvamc2OTBnU00wOTRja2ZYRjB0RDN4T3NGRjVBdm50dmtEUEYyLTJ1NzFIanZqcUJHYzhRXzg5aERTaWdacEc1aGtIR3ZFY3dUYzU4eGlsZVEzSmoyZVRNcE5Tc0FheEo4OXBpWmNrb01KX2VReEZ6X1dmSUJLS1A4dHpOTUhCM3l5M2pLdw?oc=5",
-      "publishedAt": "2026-09-26T20:43:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Jogadores da Irlanda votam a favor de disputar partidas polêmicas contra Israel e pretendem usar braçadeiras pretas",
-      "titleOriginal": "Ireland players vote to play contentious games against Israel, intend to wear black armbands",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5",
-      "publishedAt": "2026-09-26T19:48:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Donald Trump assiste a um grande jogo de futebol americano universitário com um plano em vigor para proteger as comunicações",
-      "titleOriginal": "Donald Trump attends a big college football game with plan in place to protect communications",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1AzOWE4UHVlQ0JDbzhvU1JJVlBISXRYNTNhdUI1aWl3aHcyMkQzbV9hYVVtY29mazlUMzU3YWkxQjMtdGpST290RV9nTWh0RXNmYmhLRUxsa1BnRHk2cHQ1bFpRZ2lRbmREX21MS3g0d29rZ3FwMENCVTR5LVBzOGc2czR5ZUYtSUNvWF9iUDlWWWZUQU5wNmpR?oc=5",
-      "publishedAt": "2026-09-26T19:05:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Juiz nomeado por Trump volta a condenar o governo por desacato em caso de deportação",
-      "titleOriginal": "Trump-appointed judge again holds admin in contempt over deportation",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9neVVKbGF6RXZOVUFuZGxMd3BnTzBNMVE5Q3pWdUJhS3NJa2xGbC1OS0l0UHdVMFdEVHBWYTJMUm4ya2F1cmZmWlZadXdITUZTTXlDcE85Yk1wZ0xkblJJTEFqNDlrYVZtNlhmY1g4eXQyUE1LZ0dRcy1VMkx3azJDUQ?oc=5",
-      "publishedAt": "2026-09-26T18:47:22.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Pesquisa: Os partidários do movimento MAGA de Trump não acreditam que ele tenha um problema de acessibilidade financeira",
-      "titleOriginal": "Poll: Trump’s MAGA loyalists don’t think he has an affordability problem",
-      "link": "https://www.politico.com/news/2026/09/26/poll-affordability-trump-maga-splits-01086222",
-      "publishedAt": "2026-09-26T18:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A China e os EUA concordam em estabelecer um canal de segurança em IA e dar continuidade às negociações comerciais e militares",
-      "titleOriginal": "China and US agree to establish AI safety channel and continue trade and military talks",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-      "publishedAt": "2026-09-26T17:42:00.000Z"
     }
   ]
 }
