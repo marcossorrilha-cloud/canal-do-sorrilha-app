@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-27T07:05:21.355Z",
-  "slot": "2026-09-27-AM",
+  "updatedAt": "2026-09-27T17:56:19.300Z",
+  "slot": "2026-09-27-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Gavin Bazunu, da República da Irlanda, desiste da partida contra Israel – “Seria errado participar”",
-      "titleOriginal": "Republic of Ireland’s Gavin Bazunu withdraws from Israel game – ‘It would be wrong to participate’",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTFI2bjR5Zm9VVjZzaDBfQ2hIR01jODVNTmF5VzlGU3c4elNreWJCb1plUjlpVEZlUXdvbG1ORlh0NHNqNWtqVHlFa09Sd3hWNFV2RF9XR0M2QWtaLV8tUlVOYlAzVWo0Ry1PSHJSMWdkZEJTdGxtWVVLb0tYNFY1RzVZTm52ZThEX002VDJzRTRjS0lGdTlVM1d2eU11LVFsczJteDdxTUR0ajZVZURNVHYzeERUQQ?oc=5",
-      "source": "New York Times",
-      "coverage": 2
+      "title": "O SNL tira sarro da relação entre Mamdani e Trump na estreia da temporada",
+      "titleOriginal": "SNL pokes fun at Mamdani-Trump relationship in season premiere",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzJEQWY4aUtlN0RZU0Z3VUNmQVh0UUtkeC0yWXVObGNKTWlYcTV2RjZjOGZyTklIQ0tKWGJYZFJPT05nT2h1V20tcGxFblhCWG5VdjdLc3FoQzBPTXUzR2NBdHFRRTBrSUwzRGw3ZE5Sd3g0Vm03LUpCQjhYUDczWkZlTzEwSlRnTmNEeTZQUzRTQzBGbGx4a05Uc1o1ZWdyZ0F2ODVzLVM1QXptbWFYVkZBejZsdw?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "EUA e China fecham acordo para reduzir tarifas sobre bens no valor de US$ 30 bilhões",
-      "titleOriginal": "US and China make deal cutting tariffs on $30 billion worth of goods",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWtDS3laWWZvcm92YTV4c1R6YlZTLUVfaWN0VEl3djJSSzZWR2t6NkJFRDRwS2UwU0VGcFY2UlBJWElUSEJGaXlWTldVTmlaZFRqRHhjOGhqcnNSQy1VVDVWU1FSR3pFeUhsUEU4cU1fUmlvY19rM2hXU2FyVktXRFlZeU1jVEM2bEZDNzF3Z3g2OFFJVE03d0U2NA?oc=5",
-      "source": "Washington Examiner",
+      "title": "Injeção de recursos dos republicanos para as eleições de meio de mandato, Trump no cenário internacional e o fim do embargo da mídia",
+      "titleOriginal": "Republicans' Midterm Cash Infusion, Trump on the World Stage, and Media Ban Lifts",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6NnpyN01ZVWowT0ZIZEk4UDdjampZdTZDODY5eGNteFByQ3dlR1RLTF9XMFpsYm5qQnBUaGhKeXJaaDFZVEtNRHd1V3lCWk5yMEpSRzMxYVdIamV3SXM5TVFn?oc=5",
+      "source": "Daily Wire",
       "coverage": 3
     }
   ]
