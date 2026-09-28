@@ -1,24 +1,31 @@
 {
-  "updatedAt": "2026-09-27T23:58:24.307Z",
+  "updatedAt": "2026-09-28T00:48:13.166Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "A guerra no Irã está aumentando o custo da sua próxima troca de óleo",
-      "titleOriginal": "Iran War Is Driving Up the Cost of Your Next Oil Change",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc?oc=5",
-      "publishedAt": "2026-09-27T23:55:18.000Z"
+      "source": "Axios",
+      "title": "Astros avançam para os playoffs da MLB",
+      "titleOriginal": "Astros advance to the MLB playoffs",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTlxdnI0UWlpUGxDTWY4MWpYODRFSXlkS05YbFp0ejNxSjBJSHdHTDFrMFJmNzRNckZlMy1raUhQaDhvT3FjUHNHSkdyVDFieUJqaVVMbGVPTFl6REozTi1mUkZfYmw2eXJPVU1yVG1KQ180Q2l0V2dQWno5N1RLQVBZMEQzRkY4UW0tZl9USUs?oc=5",
+      "publishedAt": "2026-09-28T00:28:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "MLB e governo Trump avaliam a possibilidade de realizar jogo de beisebol em parque nacional: reportagem",
+      "titleOriginal": "MLB, Trump administration mulling baseball game in National Park: Report",
+      "link": "https://thehill.com/policy/sports-gaming/6114278-mlb-grand-teton-national-park/",
+      "publishedAt": "2026-09-28T00:21:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os democratas da Câmara planejam uma ampla fiscalização do governo Trump. O impeachment é uma opção",
+      "titleOriginal": "House Democrats plan vast oversight of Trump administration. Impeachment is an option",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
+      "publishedAt": "2026-09-28T00:17:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Onda de reveses deixa Trump frustrado e em busca de reconhecimento",
-      "titleOriginal": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVBNVlVEMW44cEtZNmZRY1dhRHk2OFZYQmZqOXZtb0Y1NEFuSDhKMFVPc0xYYkpZYUlYSUNLLThUOUMtVXE5NVk0dUFsSXhNUXdyQXpwYmNsMFZpM3doS3NkWkZQOWxpeWNveExmN2xyVnpwMklXYktPS1RhamZ2WWtmRjRram5oR1paLXQ0LUhMa0Z0SlFZTW1BNjZlWDRJeXVSdlYzMU5xaVZ0ZkE4WA?oc=5",
-      "publishedAt": "2026-09-27T23:39:09.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O segundo mandato de Trump foi feito para a TV, mas as câmeras já pararam de filmar",
+      "title": "O segundo mandato de Trump foi feito para a TV, mas as câmeras já se apagaram",
       "titleOriginal": "Trump’s Second Term Is Made-for-TV, but the Cameras Have Clicked Off",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZklwdHpyZmRUQkFYM3JkMVlqVTVQaktJOU9YNTFNbDJIUFgyaDJ0MzVtVjhsY1JFMmt0MGxyOGlTY0xhSXZSRW5Md3lBd24xYVBvUGczM2MzOEtGeTJHR1JBc3p6M2VZRV9XZzF4RjBkZlBadXBBeU5lQTctb1BNMUROUDhNQXlXM01ybFV0SlZYRTlEVFlDX1Z6NmdPODFNLUZIVG81bw?oc=5",
       "publishedAt": "2026-09-27T23:35:37.000Z"
@@ -32,17 +39,17 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "De vice-presidente de um “ditador” a aliado de Trump, o líder da Venezuela ganha destaque no cenário mundial",
+      "titleOriginal": "From ‘Dictator’ Deputy to Trump Ally, Venezuela’s Leader Takes World Stage",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2d6RHZlU3ZNajJ5aGhMT0NmSzkzbTU2NzMzenNXX2FmT1FmTmhQSXF2dTl1V1lCM0lWRS1ScndpX0U0TzR2N1RKODlJQUpGUnRab3ZQS0lNMEg2WEhSa25uQnBrUHpOZ3JTMVpjS3ZmTnUtd0RocTZkSi1nOTVqUjJPYWlOUzdCMElMTFdKZTRCa2VyWGU5bXdoeVM2VVdoUW5VWkZoWGs3TFUwYkoyRjJ5ZFFrVVNkU2Yw?oc=5",
+      "publishedAt": "2026-09-27T23:32:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "O governo de Mamdani tem cinco dias para entregar as comunicações relativas ao congelamento dos aluguéis",
       "titleOriginal": "Mamdani Administration Has Five Days to Turn Over Communications on Rent Freeze",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVVfNElQTG9nR3BHQnhVcW5iYXZRcHR2NDVkZXNoVkxzQmFmZTdxUF9UMVlidE9fZm50Wkk0Z2RkRXo1clAxRThfaVp2VkR1Um1XZlgtZXRZYjU4eklTa3c4YmN5NUluZmoyX2pYWXpCa3VzbTRnY2xQbTI0bEo2QkpRTmY0Mng4VzVMcEVRNVA2TUhUSzFoWmp3Yy01U1Jid2F1eGZqUmVwYnJ2aUFaSEg2V3R1dU0?oc=5",
       "publishedAt": "2026-09-27T23:32:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Furo: Previsão “delirante” do Senado abala o retiro em Sea Island",
-      "titleOriginal": "Scoop: \"Delusional\" Senate forecast rattles Sea Island retreat",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXlSSXRhNWdTdWZqeHoxNS04Tm44aXBWd0FEMFFFRUtCTE1EekFmdmJJRlFMbzlqMFlmbzVKbjB3eUhaMjUzejIwQlF2OXVfekNjN2FSZnE1NUNua093T1hlQ0ViR2Q2aW1MV3NPYlB6Uy1BQ3V5RmlOOEF1QWhPRjVn?oc=5",
-      "publishedAt": "2026-09-27T23:20:09.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -52,25 +59,18 @@
       "publishedAt": "2026-09-27T23:19:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O que é o Grupo de Imprensa da Casa Branca?",
-      "titleOriginal": "What Is the White House Press Pool?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1pfSlpvRmd5d19TUF9vUW94Y285N3dDQWR6ZDViUTN0MlgxM24tUFBXUFV4cVZvbVAzWXFHN2JHRWlzWlFzV1VZcHFwMDRxOTNSSWd0c0hLOFc0NXZrenl5eHhzQnF0WFh0MmIwMVY3VXRpWnhja0lhYm80dHBhdERLLTg?oc=5",
-      "publishedAt": "2026-09-27T22:52:45.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Um anúncio da campanha de Trump para 2024 volta ao ar, agora apresentado pelo governo",
-      "titleOriginal": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
-      "publishedAt": "2026-09-27T22:12:22.000Z"
+      "source": "AP News",
+      "title": "Venezuelanos se mobilizam para exigir o retorno seguro do líder da oposição e a realização de eleições presidenciais",
+      "titleOriginal": "Venezuelans rally to demand opposition leader’s safe return and presidential elections",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVhaQWJoOU9sWENtLU90VERYZUlOYTRiaTRyUjJSTzhDZjZEMV8yRWlTNDZSN0lkR2EwdFE4SkFnOWFqYU5WYllTQWdDZjVGTUJDRFR1ZG1NY0JQNmRhd2VEUm5lck5oTjZNZUp2M2NxdHdBMGNmRHd2dzhjbjY3a2NaTlZEZndWU0RUQV9vYndBNEFSSnFxYmt5LVBuYTd2Z1FDNU5rU1dUYTQ?oc=5",
+      "publishedAt": "2026-09-27T22:51:00.000Z"
     },
     {
       "source": "AP News",
       "title": "Os americanos se recuperam nas partidas individuais e conquistam a Presidents Cup pela 11ª vez consecutiva",
       "titleOriginal": "Americans rally in singles to win the Presidents Cup for the 11th straight time",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGhyWXlabThOV1R0czJOb0s0a1Y5UlNzQ1RCVHhfQVhOTnBpNDhIbFliMVJ2aUpock5zTkk0X1FhT3g0Skh4YWcxVVQwcGtQaU9obFVlUjROWmJQQmZaazVzd2VBYjB1RnhMY1ZoUldtWVRmWmJnN21TRFVRUHRDSGdfc0FSMEhXdnY2ZXA2UjVlWlFockQtQmY4RF85VVFSaTFV?oc=5",
-      "publishedAt": "2026-09-27T21:59:00.000Z"
+      "publishedAt": "2026-09-27T22:43:00.000Z"
     }
   ]
 }
