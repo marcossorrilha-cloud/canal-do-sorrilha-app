@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-28T05:52:48.907Z",
+  "updatedAt": "2026-09-28T06:55:33.830Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A Northern Star rejeita proposta de aquisição de US$ 27 bilhões da Gold Fields",
+      "titleOriginal": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5yR0hrZEhzMm5DaUlQSG5UZURBcUhYRGxVOGF0b2ZFdGkzVnhPZHNCM0RDMTJtTlpidEVHNFVMZFlpZ3A4aFBONVZmdWg0ekJNWV9FVHFlTlZ5RS1iTVpkb3lOR05jMFRFc1ZaRHV4T0k0OUZHRWE1bkxoNEdYb2VrcDBjaFR4WmtyRXhpWmRVT3V2cHZud3pvOG13bUdvZ0daNUxHZlQwaDNqUWVoSnR2R0owTGc?oc=5",
+      "publishedAt": "2026-09-28T05:41:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Rendimentos dos títulos do Tesouro dos EUA sobem com o impasse nas negociações entre os EUA e o Irã",
       "titleOriginal": "U.S. Treasury Yields Rise as U.S.-Iran Talks Stall",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkg4dVZaRUxKcGtHVXhtbTZXQW9kekkzaUZkRDBSYVc3UjNOY2FwMDBYb3g2clY5WHY5aXhEdDcxUWoySlhZeV9hVWZIcmRZQXN1SjhESndPWkhScG1kemoxNDNyZ19ldU42Uzl3Nl9tcEk4QmdSckk4NmhtWnRCek1mNFM3cVl3UldDZkp2UkRfZVZNOG9DM1pwRl8?oc=5",
       "publishedAt": "2026-09-28T05:33:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O presidente populista da Sérvia, Vucic, renuncia para concorrer ao cargo de primeiro-ministro nas eleições antecipadas",
+      "titleOriginal": "Serbia’s populist President Vucic resigns to run for prime minister at early vote",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0VYLUk5aFBhcl81NjZxZFlRVzNoMXNacDlZOGhkTVVwRkY0TDE4ekpnSVFKMnNTT09SM3pqUWctTDF1cEhycm93V0MxWUdhTmcwbGxoZUg5RU9rVnBVX01rNm4zQkUtZlc3d0xkV1FZM3loUzZLcjNZVmhZZmV4XzRUVkxoMm9INmlfYWNyYkVKU1RXUHVKMEV5a3d1Qmc?oc=5",
+      "publishedAt": "2026-09-28T04:35:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -17,18 +31,18 @@
       "publishedAt": "2026-09-28T04:21:06.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Warburg Pincus apresenta oferta melhorada de US$ 1,5 bilhão pela australiana Ingenia",
-      "titleOriginal": "Warburg Pincus Makes Improved $1.5 Billion Offer for Australia’s Ingenia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2llQVR3bDBzMGluZFVUc0IzcnVjRzZvMEZwa1c4Mzg3NmxOWEVIb2pxeVpFMHNVbWJ4QjZPb1VtXzRuS2V3cVFlM1hYRWdNMW0xek4teTFqMnY5Y1NFWkVRdlQwUXFrU0ZuSFhtSFlhNGRzZ2Y5SW55TTgxRXdBNFVubkhpYVp6MXBUUmw2U1RjbVF4dmJYOWd5WWpCOGFfNXF1bEhYWC05LWc0U0ZCNnpSeFc?oc=5",
-      "publishedAt": "2026-09-28T03:07:00.000Z"
+      "source": "AP News",
+      "title": "O governo Trump deve adotar padrões mais flexíveis de economia de combustível para carros e caminhonetes",
+      "titleOriginal": "Trump administration set to roll out lower fuel economy standards for cars, light trucks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVTU01hNzViNXJveldRd3hrQkoycFhOTTdrWGJ3MjcxRkU2UkdsU01zZEhySjFMbmRLWDkzTlBqQmxpQ1ZKTVNBYXNhV0pwaHJCVk5raEVLdk5LZlpRSlpKNjg3VkJrQWdxQlBvcjRMWDJwUzQ0M0tVaUZ0cm5SX2Qwd1F0b2IwV0E3RmgtM3EwZHBiX1ZSdnhFSDNuUVVBN1JMcnp3S0E?oc=5",
+      "publishedAt": "2026-09-28T04:01:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Northern Star rejeita proposta de aquisição de US$ 27 bilhões da Gold Fields",
-      "titleOriginal": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5yR0hrZEhzMm5DaUlQSG5UZURBcUhYRGxVOGF0b2ZFdGkzVnhPZHNCM0RDMTJtTlpidEVHNFVMZFlpZ3A4aFBONVZmdWg0ekJNWV9FVHFlTlZ5RS1iTVpkb3lOR05jMFRFc1ZaRHV4T0k0OUZHRWE1bkxoNEdYb2VrcDBjaFR4WmtyRXhpWmRVT3V2cHZud3pvOG13bUdvZ0daNUxHZlQwaDNqUWVoSnR2R0owTGc?oc=5",
-      "publishedAt": "2026-09-28T03:04:00.000Z"
+      "title": "Warburg Pincus apresenta uma oferta melhorada de US$ 1,5 bilhão pela australiana Ingenia",
+      "titleOriginal": "Warburg Pincus Makes Improved $1.5 Billion Offer for Australia’s Ingenia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2llQVR3bDBzMGluZFVUc0IzcnVjRzZvMEZwa1c4Mzg3NmxOWEVIb2pxeVpFMHNVbWJ4QjZPb1VtXzRuS2V3cVFlM1hYRWdNMW0xek4teTFqMnY5Y1NFWkVRdlQwUXFrU0ZuSFhtSFlhNGRzZ2Y5SW55TTgxRXdBNFVubkhpYVp6MXBUUmw2U1RjbVF4dmJYOWd5WWpCOGFfNXF1bEhYWC05LWc0U0ZCNnpSeFc?oc=5",
+      "publishedAt": "2026-09-28T03:07:00.000Z"
     },
     {
       "source": "The Hill",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-09-28T02:04:03.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "EUA afirmam que não há planos de vender armas à China após comentários de Perdue",
-      "titleOriginal": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0NmRGtuU0E1aG12cTcxUUpZNklGZFJ0WjRqLW9lNll3RHdIYkRvWldzaVlGRGRuS3Y0Y25aZTZTeEN1bklSOUtHRjFocS1NMDZQVmVadDhOOHFPbmZUUWcwRXV6T0FaMm9RSkZsTHNJa2RDS0l1Wl9haG0xWXNhTmlqQ2RPdmEwMUZhbDdxSUpsOVUtSk1WeG5OYzdCTV9wRlg3WHlFODg?oc=5",
-      "publishedAt": "2026-09-28T01:54:00.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O republicano de Nova Jersey, Tom Kean Jr., e a democrata Rebecca Bennett entram em confronto sobre a guerra no Irã e as tarifas",
-      "titleOriginal": "New Jersey Republican Tom Kean Jr. and Democrat Rebecca Bennett clash over war in Iran, tariffs",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1hZbXQwQ081U1dwTWEwZG5zLXlZcFVMbzdvaXRVd2loUVlxVjJpN0Z2NENZamJiRmd2VFV1N3BCU0RrVnJzVE5QWTdjdFBSNmN6a2pGM3FUSjEwLUdhcFh3QmI0R1lNdkFJdHhZa1FkSzFkVjhRdUIwY0dGMllqQ2hCVUlEblctZDU4ODQ4VF9OeWVoOUhlc3FKQVhaeDFZdHc2cGl1U21WTFg5NWszNg?oc=5",
-      "publishedAt": "2026-09-28T01:42:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Casa Branca veicula anúncio financiado pelos contribuintes que fala sobre “a batalha final”",
-      "titleOriginal": "White House airs taxpayer-funded ad talking about 'the final battle'",
-      "link": "https://thehill.com/homenews/administration/6114342-trump-nfl-ad-airing/",
-      "publishedAt": "2026-09-28T01:27:04.000Z"
+      "title": "A turnê de golfe de Trump o leva de volta à Presidents Cup",
+      "titleOriginal": "Trump’s golf tour takes him back to the Presidents Cup",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3F5dUFmc0o1bk9CTE5OaUNTdmx3LXNmeDhkSnlQWm5nRjBka3FhMTBhZW00YnM2UFVldjVpSWJNcHRvVEp5UThHbjVadmN1eEIwbEpNRWZUUkl4ZnVjcVN2dXZmWkdIeVRKcmZTbmcxQWlDSzBtYnNEWTl2NWUtWUVuLVlWVWV1S1g1VzF5cE9kMENxUHlIeDNuQkdZM1FJa3MtSQ?oc=5",
+      "publishedAt": "2026-09-28T01:56:00.000Z"
     }
   ]
 }
