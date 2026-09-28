@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-28T14:28:48.327Z",
+  "updatedAt": "2026-09-28T15:29:18.361Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "O governo Trump solicita à Suprema Corte que aprove a política relativa a detentos transgêneros",
+      "titleOriginal": "Trump administration asks Supreme Court to OK transgender inmate policy",
+      "link": "https://thehill.com/regulation/court-battles/6115332-supreme-court-transgender-inmates-bureau-prisons-appeal/",
+      "publishedAt": "2026-09-28T15:26:02.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O governo Trump reduz os padrões de economia de combustível, afirmam os críticos, com um custo ambiental significativo",
+      "titleOriginal": "Trump administration lowers fuel economy standards, critics say at a significant environmental cost",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVTU01hNzViNXJveldRd3hrQkoycFhOTTdrWGJ3MjcxRkU2UkdsU01zZEhySjFMbmRLWDkzTlBqQmxpQ1ZKTVNBYXNhV0pwaHJCVk5raEVLdk5LZlpRSlpKNjg3VkJrQWdxQlBvcjRMWDJwUzQ0M0tVaUZ0cm5SX2Qwd1F0b2IwV0E3RmgtM3EwZHBiX1ZSdnhFSDNuUVVBN1JMcnp3S0E?oc=5",
+      "publishedAt": "2026-09-28T15:17:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "EUA consideram restrições à exportação de diesel, mas não uma proibição, afirma o secretário de Energia",
+      "title": "O Egito alertou Netanyahu sobre um ataque iminente a Israel antes de 7 de outubro",
+      "titleOriginal": "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTZVb3hzWXBQeHRhaVVONlNmN1hHZXpwWVl2c085NnlhWlVwaFNvd2pFclRpZDhvTWd1aDhpU0N3cFd3LWxCb01SQnY0MHUzMnpPZHRTd2xvRUFkOUQyUnBlZ0lSemNjQXhQM0dVYnZFX3NfTnA0ZjEyTmZhNUZUNXI4Rk1rVFFvQjlrMVBJSEo5TTgyVHYtQWFfOWNwY2RSekdpZ0prUHRXOTZUc2lCUkhn?oc=5",
+      "publishedAt": "2026-09-28T15:17:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-deputado do Partido Republicano: “Trump fez tudo o que pôde para ajudar os republicanos a perderem”",
+      "titleOriginal": "Former GOP rep: 'Trump did everything he could to help Republicans lose'",
+      "link": "https://thehill.com/homenews/campaign/6115256-trump-midterms-barbara-comstock/",
+      "publishedAt": "2026-09-28T14:57:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo sobem enquanto negociações entre EUA e Irã enfrentam novos obstáculos",
+      "titleOriginal": "Oil Prices Rise as U.S.-Iran Talks Face Fresh Hurdles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
+      "publishedAt": "2026-09-28T14:51:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA e China concordam em reduzir tarifas e iniciar diálogo sobre IA",
+      "titleOriginal": "U.S., China Agree to Trim Tariffs, Start AI Dialogue",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGhfcEduZHZpNWZlWnZwMld5d1BseFpWcXFfXzktTUJWVldFUlJWYnloUUhldXRSQ3d5MDA5aVZjQjZKQ3VNdGFLN0xUNTVrQnRaa2ViT2ZkOEtOaTRZTXZRYWd0bHdFdkFvdnQtZU9QcU5MYVgtNFdtbGhFTlBwZERzRzRXN0tBSnFMQS1Fc2ZVS3pZSWxiZU9kWHI1Zw?oc=5",
+      "publishedAt": "2026-09-28T14:44:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump já considerou, em várias ocasiões, a possibilidade de retirar todo o corpo de imprensa da Casa Branca",
+      "titleOriginal": "Trump Has Repeatedly Weighed Moving Entire Press Corps Out of White House",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWG82S3ExTFhmX3hmVVpxM0hzdWNNWnJidGhBSUtXQXp0dVhiNlJoSTFtZ1RLVGJNNWxaOFNDZGtrLWpLank4cTZfTWNmajlaTDhDRnltaVQ3RlVIVU1WeDRHTWNncnBGbmFPWEg5TXpRSGJBdDBQOXBUV0pIcXIyZTlsVkFIMmJsVXNJZTZNYlZKODltMjFyR0I0akVtR0dDaFgzdmtaT0NZUQ?oc=5",
+      "publishedAt": "2026-09-28T14:38:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Como conquistar o voto da geração do vaporizador",
+      "titleOriginal": "How to win the vote of generation vape",
+      "link": "https://thehill.com/opinion/campaign/6112370-vaping-democrats-policy/",
+      "publishedAt": "2026-09-28T14:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "EUA consideram restrições à exportação de diesel, mas não uma proibição, afirma secretário de Energia",
       "titleOriginal": "U.S. Considers Diesel-Export Restrictions, Not a Ban, Energy Secretary Says",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc09LVEJ6M0RnVGRxMUluTEdJQ01ZX255OWVyTXFOSXYzeG1QMEthaGY2Qm43Wk5NakM3SFNjeFAzWEJPejRkb0FZUTZLNUplOE1UMEFSSXZMRHBkeXp6N3l2c0xrdng3T0RsdmZOaTVWQVVITGhuVlY4RWozb0pqemxVLVFMNkRVVGtEMXNIX2tNTmNNU2JEUkNLaURQRFlsaVVPYkwtWW1Ma09aM0RoX2F4TlVsMGV0U2c?oc=5",
       "publishedAt": "2026-09-28T14:25:09.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A Flórida pede ao tribunal que imponha limites ao ChatGPT",
-      "titleOriginal": "Florida asks court to impose guardrails on ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzhBVnMzUG5hbUVsZHZ3LXZoMEVmRlc4SHhTQWk3OEZqT3JRU1ZUbXF4cENwTXVEZ1QzbmRSRkYzWHhVbGh0RE5jM0xpcmIxZVluQ1VCX0kycmRNR1hRN1Ata3A0OE9EVnBnNVRnN3JyS2pYdVFlLW9TZmdHTGkwUw?oc=5",
-      "publishedAt": "2026-09-28T14:16:23.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Especialistas em biotecnologia querem que as políticas dos EUA acompanhem o ritmo da inovação",
-      "titleOriginal": "Biotech experts want U.S. policy to keep pace with innovation",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBsQkdhblJaU042VVZOeUZUSzNlZHRZeFdiYm1pVHBnanR3QzA5bkppWTZzN19Mb3FWZ2tWNmtHRV80ZE40blNmVTlHZkd2WTFqWDZaUEEzc0dUWUZLQVZjX2FTOG1LX2kwbktUTDJKa3A0WXlVUUxlU1I2NUF4dklqc2ZoYXEtbjlKYnNyeWJ5WVpoVE1N?oc=5",
-      "publishedAt": "2026-09-28T14:06:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-advogado de ética da Casa Branca: anúncios financiados com dinheiro dos contribuintes poderiam ser uma “ofensa passível de impeachment”",
-      "titleOriginal": "Former White House ethics attorney: Taxpayer-funded ads could be 'impeachable offense'",
-      "link": "https://thehill.com/homenews/administration/6114658-richard-painter-donald-trump-taxpayer-funded-tv-ads/",
-      "publishedAt": "2026-09-28T13:46:54.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Seattle combate a “exploração de preços com auxílio de IA” em supermercados",
-      "titleOriginal": "Seattle targets \"AI-assisted price gouging\" at grocery stores",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0w4aHFXYVoyODJDNUU1S2FPWDB6OWFJRi0yQWlzQjhoNEgzeFZTdnBFa0dJbWUyOHZwcHNHOUlWWHlkNE1vVm9BcTNmcHpBYnl4TkZ6WWx6NENjWk5hWHNzUkRSdkhqYVFDS3ZMQ0dueTVQdWo5QzZ5X1RYcW9fS0g4cDBrN2VubnRmYnNpRU9IRl9LS3pFRnV1M3FPNmtnQ1E?oc=5",
-      "publishedAt": "2026-09-28T13:40:45.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Reino Unido investiga possível ligação do Irã a suposto plano terrorista em base que abriga forças americanas",
-      "titleOriginal": "U.K. Probes Possible Iran Link to Suspected Terror Plot at Base Hosting U.S. Forces",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmdWRXZBTWhBR2puTlBtS1hiWEF3NnVZWlZ6WWF3SzB0Nm5hb0ZFdzh3RGtYNVBVcVA5ZjNscnpKbG5GeXUxaVBFODROaXR6QmtCUTZKaUJyS0g3ZVNMYjF5czh3ZE9LTWU1TnFKanVlcmN3ZjlOQjhoNllubGhEMk5JS0ZYNVRydmtha3Azd3JKRzNtZnRXRG1DOERmY3NnSTFIS3RuY0xvTnFsNWNvZFhwTlVzMzg?oc=5",
-      "publishedAt": "2026-09-28T13:34:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vance conquista conservadores céticos com sua própria visão sobre a mensagem de Trump",
-      "titleOriginal": "Vance Woos Skeptical Conservatives With His Own Take on Trump’s Messaging",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmI5Q2tpTG9Da2NBWHNvNDBydlhtbUNDaDN0TkxjOTIwUzVZX1ZBTm5XWFNPX1VxcThuNUYtRXJaVU9fQnE0QV9NMVdrSTRjaXBLeGRkY1EtSDFjTVR6YWpJU0cwajR4V1kyRGQxbjl1eWxGQXAwMHIyN2N1blpCTVFlWldHTk9fMk1SeGZIMWZjd3h5VWNXV2NYSEhlVkRwcXo1anNHdk1wZURnbEJ3bnNiaXlmOXgz?oc=5",
-      "publishedAt": "2026-09-28T13:32:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O legado de Clarence Thomas será a perda de confiança na Suprema Corte",
-      "titleOriginal": "The legacy of Clarence Thomas will be declining trust in the Supreme Court",
-      "link": "https://thehill.com/opinion/judiciary/supreme-court/6114201-thomas-supreme-court-legacy/",
-      "publishedAt": "2026-09-28T13:30:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "As medidas que saíram pela culatra para Trump e levaram as taxas de juros e a inflação a subir",
-      "titleOriginal": "The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GeVBIaXBxUF9Gcm9KVkxGMElRYUNUZW9kSTdKTl9JTlBvOTdodTd2ZDAwTERMUk51SWdEY0tTUDNVcHEtM1ZlMDhURDFoQzh2anlLQ2wtSlEwcjVKVTd1eUxmWm9Jai1UaWZQUGpFTWozRjA?oc=5",
-      "publishedAt": "2026-09-28T13:24:07.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Nvidia destina valor recorde de US$ 150 bilhões à recompra de ações",
-      "titleOriginal": "Nvidia Adds Record $150 Billion to Stock Buyback",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0FYLWRBSUpvTnE1UVdUekNzQTdsck9qYmhILVI2WGpxaGJaQl9iQjRYZzViSFc5c1FNXzJJaFgxTm9FTXZ2S2kxeEFQcGFqeFY4WkhuVXNoZW0tbUUzMG5KTkc5SWtPVGlHYmgxMHB3d1BGX1RpVFh4QUcyaFhxX1ZJN1hPZ2ktQ0NTVA?oc=5",
-      "publishedAt": "2026-09-28T13:12:00.000Z"
+      "title": "Trump irrita legisladores com cortes de US$ 810 milhões",
+      "titleOriginal": "Trump Angers Lawmakers With $810 Million in Cuts",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGVGc00yUngyNEt4YVJueVhjQ0hNRWQ2RE9UdGNXYWZzYUQ4X3pfTTg5Yi05ZjZOUVY2dEhHeWU5OUhaQUpiMUNqRi1ReTBuQU14WkNKUnY2VGR1OFRLTmd1Zk1wUkRzcjR3bjd5QkFScTBCMjlDRkNpRlJKTjcyY0E0ZVRVTXAzTlIwLUlTMWRJUG1maVJR?oc=5",
+      "publishedAt": "2026-09-28T14:21:31.000Z"
     }
   ]
 }
