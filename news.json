@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-29T01:16:18.678Z",
+  "updatedAt": "2026-09-29T01:58:19.701Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exportações de petróleo do Oriente Médio se recuperam com o fim do bloqueio do Irã no Estreito de Ormuz",
+      "titleOriginal": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
+      "publishedAt": "2026-09-29T01:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O juiz Alito se recusa a julgar o caso dias antes de uma importante ação judicial sobre mudanças climáticas",
       "titleOriginal": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
       "link": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html",
       "publishedAt": "2026-09-29T00:54:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Cada família desta cidade rural receberá US$ 10.000 caso seja construído um centro de dados",
+      "titleOriginal": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHE0emNadEc5eGE3ZVZ4VFl0eV8zOHNmbFdOWDh0aUpXdHl6TjZ3ZzMxUFhQREJ3MnJQaEJLRS1xRU5XdFV2c2NwVmJLTFFCQjBGWGl0RFdnQUJYSVZ1SnBZcGVtZkNfWXI5RVZ2TEwtVHVuUlpycURZSXBXUE5xWVBWWWdLMFFOOHlsMTlvUk5KYzRKcHBTUG5WX3pRTzA4cnFRSUZxUUl5Y1NOemJZSm5vZlYyVjJtblNF?oc=5",
+      "publishedAt": "2026-09-29T00:42:57.000Z"
     },
     {
       "source": "New York Times",
@@ -25,7 +39,7 @@
     },
     {
       "source": "Axios",
-      "title": "A reportagem do “New York Times” sobre Peltola agora virou um anúncio de ataque do Partido Republicano",
+      "title": "A reportagem de Peltola no *New York Times* agora virou um anúncio de ataque do Partido Republicano",
       "titleOriginal": "Peltola's NYT exposé is now a GOP attack ad",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1J3d0hRc1lfNWR4WE5yU2xRUGpnb1dCbFk1bkJQbXBpcWNNVnJxTjJZeklOUWwwZTRwejdEVjdfeERrN2dOQXBpOVdDY3J3b3A0aDJjdzItT29RQ1JQNkc5ODhGRnBCOU8tUG1JRHdVYUR4TWZGOVpSN2lvM0lDUGktVDZ6U0FJOGx5ZQ?oc=5",
       "publishedAt": "2026-09-28T23:52:51.000Z"
@@ -39,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Hegseth instrui o Pentágono a proteger as eleições de 2026 contra “atores estrangeiros”",
+      "title": "Hegseth orienta o Pentágono a proteger as eleições de 2026 contra “atores estrangeiros”",
       "titleOriginal": "Hegseth instructs Pentagon to defend 2026 elections from ‘foreign actors’",
       "link": "https://thehill.com/policy/defense/6116486-hegseth-prioritizes-cyber-election-security/",
       "publishedAt": "2026-09-28T23:26:23.000Z"
@@ -53,24 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Trump contesta a versão de seu embaixador de que ele teria perguntado ao presidente da China se ele queria comprar armas dos EUA",
+      "title": "Trump contesta a versão de seu embaixador de que ele teria perguntado ao presidente da China se ele gostaria de comprar armas dos EUA",
       "titleOriginal": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
       "publishedAt": "2026-09-28T23:07:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance, RFK Jr. e Mike Tyson farão palestras na Cúpula da MAHA em Washington, D.C.",
-      "titleOriginal": "Vance, RFK Jr., Mike Tyson to speak at MAHA Summit in DC",
-      "link": "https://thehill.com/homenews/administration/6116342-vance-kennedy-maha-summit/",
-      "publishedAt": "2026-09-28T23:06:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os contribuintes financiaram quase US$ 1,5 milhão em anúncios pró-Trump. As críticas estão aumentando, inclusive por parte do Partido Republicano",
-      "titleOriginal": "Taxpayers have funded nearly $1.5M in pro-Trump ads. Criticism is mounting, including from the GOP",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWhyQWluVllWR0NsZlpQeE9fVXFmLVJOdjJaZTZxa2RveXl3azBUSkdDTjJuMXJZTVZYTnBjY3d0V3pZbzJDbFRYVE1HMFhkbzZoVU5SMElDY3VkREUwQUhUbDZwS1RvZDV3LWVIRkRoUTlIV1pYZUtjd0d2ekJMZG9XcXBpVXJoUU1QVU5NeUp2V1lvNnRYZ3dZbkQ3cWpYbkxhT3drT1NJZjNVcWJmQQ?oc=5",
-      "publishedAt": "2026-09-28T22:57:00.000Z"
     }
   ]
 }
