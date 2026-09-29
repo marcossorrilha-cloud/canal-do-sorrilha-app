@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-28T22:01:55.224Z",
+  "updatedAt": "2026-09-29T01:16:18.678Z",
   "count": 10,
   "items": [
-    {
-      "source": "The Hill",
-      "title": "Veículos de comunicação pedem ao tribunal que dê “pouco peso” ao apoio do Departamento de Justiça à OpenAI na disputa sobre direitos autorais",
-      "titleOriginal": "News outlets ask court to give ‘little weight’ to DOJ support for OpenAI in copyright dispute",
-      "link": "https://thehill.com/policy/technology/6116254-news-outlets-doj-openai-copyright/",
-      "publishedAt": "2026-09-28T21:57:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump anuncia uma nova usina siderúrgica de US$ 15 bilhões em Iowa e afirma que será a maior do país",
-      "titleOriginal": "Trump announces a new $15B Iowa steel plant and claims it will be the nation’s biggest",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQakcyUV8tMFhsWEdNc041MmwtOS1PQjFDN0x1Wk9TeEYwZ3EzRHFYS1RNaEhKc0V4eTlTWU91VlZVeHRtQ05wbVM3aHpBU0Rpel9LWFJRRXpFRlYwcDUwU1J0Q3pLYlk0QVcxVjNOcFQyVkdKUzk4MHlmeVV2RE4xLVBrNDJkNmxtcGRQeWtuQ1ZzNzhi?oc=5",
-      "publishedAt": "2026-09-28T21:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os agricultores americanos estão repensando sua lealdade ao Partido Republicano",
-      "titleOriginal": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGpEandRQXRydlZ3UURrQ2c0RDdSRGtVTXFPeVhUMEFpVGh4X3RTZmZ5TTVJSXFDOG1sZk5pMS1TOTRULVFMQW9OZ01zc2kzdWQ0TzBBMDh5ZWJyRS1VVTAxUzIxLXdHQVg4QlVqd09lUHZvQmVDVUM5b3VlNHo0TTg0MTRiMzFGNjVpSmdvZWlyTzZ6dzk1R1VDRWhsblp0bVM4M0lzQQ?oc=5",
-      "publishedAt": "2026-09-28T21:41:53.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "AMD vai adquirir a World Labs por US$ 8,2 bilhões",
-      "titleOriginal": "AMD to Acquire World Labs for $8.2 Billion",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVpVcHpJVVFBektEcldpS0ttVXk1a2dkR0kzZEtUNmp3d1hQNzVEb3NOZVhEc1piQmtIYlI3WF9QUExkT2R3TW9tOW1ZZ0RpSGdELWxBbVRldmYtRmNUQjRxWjdZeS1RZnVvNFhvbU9pQzFfd2RyXzYxMnR4X3RpNFlBUzU?oc=5",
-      "publishedAt": "2026-09-28T21:34:00.000Z"
-    },
     {
       "source": "New York Times",
       "title": "O juiz Alito se recusa a julgar o caso dias antes de uma importante ação judicial sobre mudanças climáticas",
       "titleOriginal": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
       "link": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html",
-      "publishedAt": "2026-09-28T21:32:37.000Z"
+      "publishedAt": "2026-09-29T00:54:58.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Promotor reabre investigação sobre as acusações de estupro coletivo na Cornell após a denunciante entrar com ação judicial",
-      "titleOriginal": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3c4MklqOEFoVTNlT2JxLWZvOW51ODdodUt4cGtTSFpaalNPeG5jNWpYNXVPdGxKd3BNeno2UEJacHBkVElGX1lzQ01KOWJhTmt1MmNSY1BjZ2l5N1J3UTV4c3RVU2ZZTnZXcHRwUGs0RXA0ZXQ5Z0VocGZfN29RQVlXSll3RTRtMm1oXzRiVGdHTmtPNENmLWs5OTJKRDQ?oc=5",
-      "publishedAt": "2026-09-28T21:30:00.000Z"
+      "source": "New York Times",
+      "title": "Como uma usina siderúrgica planejada em Iowa revela a estratégia de Trump para as eleições de meio de mandato",
+      "titleOriginal": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
+      "publishedAt": "2026-09-29T00:19:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Segundo promotor abandona o caso da “grande conspiração” de Trump",
+      "titleOriginal": "Second Prosecutor Quits Trump’s ‘Grand Conspiracy’ Case",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-grand-conspiracy-prosecutor-resigns.html",
+      "publishedAt": "2026-09-28T23:59:55.000Z"
     },
     {
       "source": "Axios",
-      "title": "Papa rejeita alegações de “notícias falsas” geradas por IA depois que Trump classificou os temores como uma “farsa”",
-      "titleOriginal": "Pope rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzSkpHWmlMSFgyME5vOWg0TVlsU29oWlFyRFRYMG80VmNGcVA0c2lVemdLRE1kdkVoMVo5dVF3R0hLdU9LUlRZRm92U0xqVWNLV2hnYmd2MEl5V0xJZnhUYWlzRENaUDlTUlc2c294dzU3dElr?oc=5",
-      "publishedAt": "2026-09-28T21:22:30.000Z"
+      "title": "A reportagem do “New York Times” sobre Peltola agora virou um anúncio de ataque do Partido Republicano",
+      "titleOriginal": "Peltola's NYT exposé is now a GOP attack ad",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1J3d0hRc1lfNWR4WE5yU2xRUGpnb1dCbFk1bkJQbXBpcWNNVnJxTjJZeklOUWwwZTRwejdEVjdfeERrN2dOQXBpOVdDY3J3b3A0aDJjdzItT29RQ1JQNkc5ODhGRnBCOU8tUG1JRHdVYUR4TWZGOVpSN2lvM0lDUGktVDZ6U0FJOGx5ZQ?oc=5",
+      "publishedAt": "2026-09-28T23:52:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Samsung investe US$ 1,0 bilhão em empresa de infraestrutura de IA apoiada pela KKR e pela Nvidia",
+      "titleOriginal": "Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVgtREJ6azRuUmNkRkREbDZRdFRJZVhTSERCc2p2NTR5WVhCS1lWTzVTS3g2bm9pUE5CSTZmRTIzNHhVT2RpMm8xNVR4TnZLa0JLQzBOTVhFZTJqNnZKckR2aGtHYUhUa0kzRjB3aU8zcXV2Q04yaXBRRy1JZHRCS3lZWmZZLXN2RC1reWRWVHJ1SEFHU3RrWWhJQjFCTXUxakZPTkU5bGg2WHdXRUE?oc=5",
+      "publishedAt": "2026-09-28T23:37:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Comitê de Ação Política (PAC) democrata do Senado critica Collins pelos cortes no Medicaid contra os quais ela votou",
-      "titleOriginal": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against",
-      "link": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/",
-      "publishedAt": "2026-09-28T21:16:14.000Z"
+      "title": "Hegseth instrui o Pentágono a proteger as eleições de 2026 contra “atores estrangeiros”",
+      "titleOriginal": "Hegseth instructs Pentagon to defend 2026 elections from ‘foreign actors’",
+      "link": "https://thehill.com/policy/defense/6116486-hegseth-prioritizes-cyber-election-security/",
+      "publishedAt": "2026-09-28T23:26:23.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Empresa de turismo do Arizona entra com ação judicial contra a taxa cobrada a não residentes por Trump nos parques nacionais",
-      "titleOriginal": "Arizona tour company sues over Trump's nonresident fee at national parks",
-      "link": "https://thehill.com/policy/energy-environment/6116167-arizona-national-park-visitor-fees-nps/",
-      "publishedAt": "2026-09-28T21:01:52.000Z"
+      "title": "Shaheen pressiona o Senado para estabelecer um teto para os custos da insulina",
+      "titleOriginal": "Shaheen presses Senate to cap insulin costs",
+      "link": "https://thehill.com/newsletters/healthcare/6116460-shaheen-presses-senate-cap-insulin-costs/",
+      "publishedAt": "2026-09-28T23:18:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump contesta a versão de seu embaixador de que ele teria perguntado ao presidente da China se ele queria comprar armas dos EUA",
+      "titleOriginal": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
+      "publishedAt": "2026-09-28T23:07:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Grupo de Mulheres Democratas divulga suas prioridades políticas",
-      "titleOriginal": "Democratic Women's Caucus releases policy priorities",
-      "link": "https://thehill.com/newsletters/business-economy/6116170-democratic-womens-caucus-releases-policy-priorities/",
-      "publishedAt": "2026-09-28T21:00:23.000Z"
+      "title": "Vance, RFK Jr. e Mike Tyson farão palestras na Cúpula da MAHA em Washington, D.C.",
+      "titleOriginal": "Vance, RFK Jr., Mike Tyson to speak at MAHA Summit in DC",
+      "link": "https://thehill.com/homenews/administration/6116342-vance-kennedy-maha-summit/",
+      "publishedAt": "2026-09-28T23:06:10.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os contribuintes financiaram quase US$ 1,5 milhão em anúncios pró-Trump. As críticas estão aumentando, inclusive por parte do Partido Republicano",
+      "titleOriginal": "Taxpayers have funded nearly $1.5M in pro-Trump ads. Criticism is mounting, including from the GOP",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWhyQWluVllWR0NsZlpQeE9fVXFmLVJOdjJaZTZxa2RveXl3azBUSkdDTjJuMXJZTVZYTnBjY3d0V3pZbzJDbFRYVE1HMFhkbzZoVU5SMElDY3VkREUwQUhUbDZwS1RvZDV3LWVIRkRoUTlIV1pYZUtjd0d2ekJMZG9XcXBpVXJoUU1QVU5NeUp2V1lvNnRYZ3dZbkQ3cWpYbkxhT3drT1NJZjNVcWJmQQ?oc=5",
+      "publishedAt": "2026-09-28T22:57:00.000Z"
     }
   ]
 }
