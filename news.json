@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-29T14:21:10.941Z",
+  "updatedAt": "2026-09-29T15:52:52.390Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "O governo Trump se prepara para perguntar aos contribuintes se são cidadãos dos EUA",
-      "titleOriginal": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
-      "link": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
-      "publishedAt": "2026-09-29T14:15:46.000Z"
+      "source": "The Hill",
+      "title": "Engenheiro de jogos do “New York Times” foi morto a tiros pelos sogros na Califórnia, segundo a polícia",
+      "titleOriginal": "New York Times gaming engineer gunned down by in-laws in Califorinia, police say",
+      "link": "https://thehill.com/homenews/state-watch/6117228-new-york-times-gaming-engineer-california-shooting/",
+      "publishedAt": "2026-09-29T15:42:20.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Com a ajuda de Trump, a situação no Senado parece favorável aos democratas",
+      "titleOriginal": "With Trump’s help, the Senate looks good for Democrats",
+      "link": "https://thehill.com/opinion/6116710-democrats-set-to-flip-senate/",
+      "publishedAt": "2026-09-29T15:30:00.000Z"
     },
     {
       "source": "The Hill",
       "title": "Será que Ocasio-Cortez conseguirá vencer em 2028? Será que o país elegerá um presidente judeu?",
       "titleOriginal": "Can Ocasio-Cortez win in 2028? Will the country elect a Jewish president?",
       "link": "https://thehill.com/homenews/campaign/fight-for-2028/6117151-alexandria-ocasio-cortez-2028-jewish-democrats-shapiro-ossoff-live-discussion/",
-      "publishedAt": "2026-09-29T14:06:26.000Z"
+      "publishedAt": "2026-09-29T15:26:09.000Z"
     },
     {
-      "source": "Politico",
-      "title": "Os democratas estão lançando pastores como candidatos a cargos públicos. Os republicanos estão criticando suas declarações religiosas.",
-      "titleOriginal": "Democrats are running pastors for office. Republicans are attacking their religious comments.",
-      "link": "https://www.politico.com/news/2026/09/29/talarico-hamilton-christian-democrats-republican-attacks-01096657",
-      "publishedAt": "2026-09-29T14:01:14.000Z"
+      "source": "The Hill",
+      "title": "Schumer critica projeto de lei sobre centros de dados, chamando-o de “troféu de participação sem efeito”",
+      "titleOriginal": "Schumer slams data center bill as 'ineffectual participation trophy'",
+      "link": "https://thehill.com/policy/energy-environment/6117779-schumer-gop-ai-data-center-bill/",
+      "publishedAt": "2026-09-29T15:25:57.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A confiança do consumidor nos EUA caiu em setembro em meio aos altos preços do petróleo e às preocupações com a inflação, segundo o Conference Board",
+      "titleOriginal": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdk5UaXVRTjRnUlV1ejhlNTlrbnp5OERqckFYcVFUX09EU1Zobjh4VVItd1U1Q0hlZ1NaaTVGdFNTd2tscUUzQWZ4bFRoUWZzMlhZV1BTaElhYjVZYWZNSVpidWVLY0lhQXZmZDhsRVV2NkVSR0dSMVFjbTVfcVdtWGY3ekJXQjR4LUx3Sk0ybE5rM0FwVjRfSDlZQUJhSHA4R2lhcTAxaklkZHpHUjBUSjNaSTdPZXBuTnZvY2dHcG1zQQ?oc=5",
+      "publishedAt": "2026-09-29T15:21:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que o Canadá é “um dos piores países do mundo inteiro”",
+      "titleOriginal": "Trump says Canada is 'one of the worst countries in the entire world'",
+      "link": "https://thehill.com/homenews/administration/6117738-trump-calls-canada-worst-country/",
+      "publishedAt": "2026-09-29T15:19:30.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Cada família desta cidade rural receberá US$ 10.000 caso seja construído um centro de dados",
       "titleOriginal": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHE0emNadEc5eGE3ZVZ4VFl0eV8zOHNmbFdOWDh0aUpXdHl6TjZ3ZzMxUFhQREJ3MnJQaEJLRS1xRU5XdFV2c2NwVmJLTFFCQjBGWGl0RFdnQUJYSVZ1SnBZcGVtZkNfWXI5RVZ2TEwtVHVuUlpycURZSXBXUE5xWVBWWWdLMFFOOHlsMTlvUk5KYzRKcHBTUG5WX3pRTzA4cnFRSUZxUUl5Y1NOemJZSm5vZlYyVjJtblNF?oc=5",
-      "publishedAt": "2026-09-29T14:00:56.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Lindsay Clancy volta ao tribunal pela primeira vez desde que o julgamento por homicídio terminou com um impasse no júri",
-      "titleOriginal": "Lindsay Clancy returns to court for first time since murder trial ended with deadlocked jury",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZZS3lCYTJxdHdYZGdBblpfMzMwaU1DaThtOUo2Q2Z1RGZLMzJyRWlFVTRkcjNRb05GZDJRNDUyeDFBVm5wZFJSdnAxSEFEM2s1d2hGQl9mT0tlTVpocjZ2SkJxcGJ3WDd1ZUljMUVuejFpUUZiUVprWV8xRlB5T0trZzZzRXRHYUZJcm9ObTd0UTFKb2J4Z2Y4b21YLWpKY3dz?oc=5",
-      "publishedAt": "2026-09-29T14:00:00.000Z"
+      "publishedAt": "2026-09-29T15:18:58.000Z"
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Lista completa dos participantes do almoço sobre IA na Casa Branca",
-      "titleOriginal": "Exclusive: Full list of attendees at White House AI lunch",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SQ1ZEQ1BwZWFXQ2RFT1RlMmVaSkxwN1RtU3FmTFB0WjJEZFhNWlp4dHdjN1VocjFFMGc5T1BZMF9TcTlJazlzUmxMVmx4cGRHRUwxTnNpc1Y5ZlFoR2ZVTkJ4WHVlQ0tmTTFJV21VcEI1bWJBcVE?oc=5",
-      "publishedAt": "2026-09-29T13:41:50.000Z"
+      "title": "O Ministério das Finanças de Israel se opõe à venda da Zim para a Hapag-Lloyd",
+      "titleOriginal": "Israel Finance Ministry opposes Zim sale to Hapag-Lloyd",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50YWhzdzlqMkxyQS03LXZPaWxrSHNBT2NfQUF1NTNrVUlGSkVMQ3Z1dmdyTEpLTHpZQXBnd3JkYjRxa0xUYlFNaG4zVTA1SjhsYjEzMFVKOVRkWWpxQ0w2WHpSdjhNZzRBbWQ5MVFYeGxUUzRuVlpVZDVXaWs?oc=5",
+      "publishedAt": "2026-09-29T15:15:58.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Atualizações em tempo real: Jack Smith enfrenta investigação do Senado; Trump deve apresentar ferramenta federal de IA",
-      "titleOriginal": "Live updates: Jack Smith faces Senate scrutiny; Trump to unveil federal AI tool",
-      "link": "https://thehill.com/homenews/administration/6116612-live-updates-trump-ai-jack-smith-senate-healthcare-affordability/",
-      "publishedAt": "2026-09-29T13:35:06.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como uma usina siderúrgica planejada em Iowa revela a estratégia de Trump para as eleições de meio de mandato",
-      "titleOriginal": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
-      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
-      "publishedAt": "2026-09-29T13:22:33.000Z"
+      "title": "Trump lança o America.gov, um portal de serviços governamentais com tecnologia de IA",
+      "titleOriginal": "Trump launches America.gov, AI-powered government services hub",
+      "link": "https://thehill.com/homenews/administration/6117728-trump-launches-ai-government-website/",
+      "publishedAt": "2026-09-29T15:12:56.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Grupo bipartidário no Congresso busca ampliar a cobertura de seguro para o rastreamento do câncer de ovário",
-      "titleOriginal": "Bipartisan team in Congress looks to expand insurance coverage for ovarian cancer screening",
-      "link": "https://thehill.com/homenews/senate/6117022-lawmakers-launch-ovarian-cancer-impact-act/",
-      "publishedAt": "2026-09-29T13:19:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O'Reilly não espera que Trump retome a mensagem de “drenar o pântano”",
-      "titleOriginal": "O'Reilly not expecting Trump to return to 'drain the swamp' messaging",
-      "link": "https://thehill.com/homenews/administration/6116971-bill-oreilly-donald-trump-midterm-messaging-gop/",
-      "publishedAt": "2026-09-29T13:17:37.000Z"
+      "title": "Hegseth vai reduzir em 20% o número de almirantes e generais em uma grande reformulação do Pentágono",
+      "titleOriginal": "Hegseth to cut 20 percent of admirals, generals in major Pentagon overhaul",
+      "link": "https://thehill.com/policy/defense/6117672-hegseth-plans-pentagon-leadership-cuts/",
+      "publishedAt": "2026-09-29T15:02:59.000Z"
     }
   ]
 }
