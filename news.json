@@ -1,24 +1,38 @@
 {
-  "updatedAt": "2026-09-29T07:30:30.190Z",
+  "updatedAt": "2026-09-29T08:32:12.059Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Um supermercado abriu um bar para contornar as leis sobre bebidas alcoólicas. Agora, precisa de seguranças.",
+      "titleOriginal": "A Supermarket Opened a Pub to Get Around Liquor Laws. Now It Needs Bouncers.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzNfZElnWVUyM0tzeG1TdVF4MFVqY05OM3pIeTJZX2dxcHNCWGVjeU40RmFHLVA2UkppcWNFTnJvNjgxQlU4UlZVMmh4aFNIRE5WV2IxM1p1ZUVhaFJHZDY2UVJsVEJYWUpwSHhvbFhxM0RlaUFCV0JPRXh2NnhTTndWUW1rOG5xN1FXX25CWnV1a3BtUXVhTDliLW8xc0VlbmVQd2VwdDF2cFZHQ3c?oc=5",
+      "publishedAt": "2026-09-29T08:04:19.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Cada família desta cidade rural receberá US$ 10.000 caso seja construído um centro de dados",
       "titleOriginal": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHE0emNadEc5eGE3ZVZ4VFl0eV8zOHNmbFdOWDh0aUpXdHl6TjZ3ZzMxUFhQREJ3MnJQaEJLRS1xRU5XdFV2c2NwVmJLTFFCQjBGWGl0RFdnQUJYSVZ1SnBZcGVtZkNfWXI5RVZ2TEwtVHVuUlpycURZSXBXUE5xWVBWWWdLMFFOOHlsMTlvUk5KYzRKcHBTUG5WX3pRTzA4cnFRSUZxUUl5Y1NOemJZSm5vZlYyVjJtblNF?oc=5",
-      "publishedAt": "2026-09-29T06:18:51.000Z"
+      "publishedAt": "2026-09-29T07:48:51.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump oferece alívio econômico ao Irã em troca de concessões concretas na área nuclear",
-      "titleOriginal": "Trump offers Iran economic relief for concrete nuclear concessions",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzLTlNS2xVWTYwTmVybXRITlF0dW9lUXpfZkRpdjRXR29CQ2pKWTJORTlBUmZWaFBSLVIybG42Q3Z2TEp4aDlVMURMZmtoOGNfclJmSjMwS2hFZFZGUE1OenhhMzVSRUxCeDNnMkFlUlBoQWxuTFhMRkF3Zk9pdjA?oc=5",
-      "publishedAt": "2026-09-29T05:27:13.000Z"
+      "source": "Wall Street Journal",
+      "title": "Preço do petróleo sobe apesar do conserto do oleoduto saudita, enquanto as negociações entre EUA e Irã ficam estagnadas",
+      "titleOriginal": "Oil Rises Despite Saudi Pipeline Repair as U.S.-Iran Talks Stall",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXVfY2J4VE5CQTNyaWlYdlE1MTZaVGxmNEphMHBRanFoOVNKTFlMVmNQTllHMUpaMVFiemVMNW1BdGhGT2ZPUzhVczJTbW92bWlXcWVQMmxpTTZnYVNoRFFOUmpIbjgwc3hlZVRuUlJxODZFbGxqaWhhQjM5SW1TOU55c3R3Qy1ybzVyREdKaXZsWFJHUF9vOVN1XzMzb2lPMXVTWXVJMHNIei1z?oc=5",
+      "publishedAt": "2026-09-29T07:26:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Novo fecha acordo de licenciamento para produtos de emagrecimento com a Hengrui Pharma",
+      "titleOriginal": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFZ4cHU5M2MxVFp3NzhRaGRRSEZDQVAyZEVSRTVtWDBhUWNmdXM3SWhxTS1SS05Uc3ZPcHFMMHYtbXNVNVo1RUJtNnE4bGRiWVFJZ3NsdXJhcEM3Q0RIc183bmFrLTRnbTFXNG9xNmdzdVVoclZDd0pOLVZvbGY0QlFQdnJHSUswNEV4MHVxU3prcTFVUWdiZGFqU3BfRmgt?oc=5",
+      "publishedAt": "2026-09-29T05:33:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O juiz Alito se recusa a julgar o caso dias antes de um importante processo sobre mudanças climáticas",
+      "title": "O juiz Alito se recusa a julgar o caso dias antes de uma importante ação judicial sobre mudanças climáticas",
       "titleOriginal": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
       "link": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html",
       "publishedAt": "2026-09-29T04:41:57.000Z"
@@ -38,6 +52,13 @@
       "publishedAt": "2026-09-29T04:41:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Exclusivo: Hegseth orienta o Departamento de Defesa a combater estrangeiros que “se intrometem” nas eleições dos EUA",
+      "titleOriginal": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45UllpTWJWVUtWVXlVbm80azYwTXRRN052MHNiU2lHNlU5SUVIVlNORjlfMlhaa0sybm5xYXlvZFFzcE1pc3pxR2pwSmxqR3pmZEYta3IyNmN0ZU04NnN3LXlHaDEwZGEzX2x5R19YMmpHbGM?oc=5",
+      "publishedAt": "2026-09-29T04:05:18.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "A prisão russa que Evan Gershkovich levou para casa",
       "titleOriginal": "The Russian Prison That Evan Gershkovich Carried Home",
@@ -50,27 +71,6 @@
       "titleOriginal": "Mediators are working to broker a US-Iran deal, but major hurdles remain",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZybWpYdGZCWHd5WlBiVFg4cDR1LXFIeGFyakJFaVZXbEJ1S3U3ZjIwTkxqVE5mOGR0Q1dERkZmSlNwZ0RZNnd5anlvTktKc2h3aUVCOVhLLUpsNGp3eVZtakc3dHJhbkNCTGFwZ3NQZG02ZTV3TVEtYy1qcTlaMnNpRV9Cci1pTTByTTZFOGFIMXNEQS1udGlFZm54Z0lWNjd3bw?oc=5",
       "publishedAt": "2026-09-29T03:52:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia investiga caso em que criança pequena sacou uma arma carregada em uma creche em Michigan",
-      "titleOriginal": "Police investigate after toddler pulls out loaded gun at Michigan daycare",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc19tbklsVWZONm8taGdNYnRSem5tUEltTkxmRnVLNl94cWFNM0Z2U0ZTT3g3VUY5RUtqaXdoLXZtS290YThNckoxLUVOTmFmN2Zoc3lEZDRLMWZseVJIeDFlRUVxeGUxeWFBbkVJSkNJS2dUNlQwYXBMcnlXNGFrODRsbnZPNkRVNHVJLU5FRHR6UQ?oc=5",
-      "publishedAt": "2026-09-29T03:51:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Papa rejeita alegações de “notícias falsas” geradas por IA após Trump classificar os temores como uma “farsa”",
-      "titleOriginal": "Pope rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzSkpHWmlMSFgyME5vOWg0TVlsU29oWlFyRFRYMG80VmNGcVA0c2lVemdLRE1kdkVoMVo5dVF3R0hLdU9LUlRZRm92U0xqVWNLV2hnYmd2MEl5V0xJZnhUYWlzRENaUDlTUlc2c294dzU3dElr?oc=5",
-      "publishedAt": "2026-09-29T03:42:59.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Promotor reabre investigação sobre as acusações de estupro coletivo na Cornell após a denunciante entrar com ação judicial",
-      "titleOriginal": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3c4MklqOEFoVTNlT2JxLWZvOW51ODdodUt4cGtTSFpaalNPeG5jNWpYNXVPdGxKd3BNeno2UEJacHBkVElGX1lzQ01KOWJhTmt1MmNSY1BjZ2l5N1J3UTV4c3RVU2ZZTnZXcHRwUGs0RXA0ZXQ5Z0VocGZfN29RQVlXSll3RTRtMm1oXzRiVGdHTmtPNENmLWs5OTJKRDQ?oc=5",
-      "publishedAt": "2026-09-29T02:58:00.000Z"
     }
   ]
 }
