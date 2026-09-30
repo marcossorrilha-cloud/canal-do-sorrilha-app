@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-30T02:24:04.376Z",
+  "updatedAt": "2026-09-30T06:44:21.626Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Candidatos à prefeitura de Los Angeles disputam os votos dos eleitores indecisos",
+      "titleOriginal": "Los Angeles Mayoral Candidates Vie for Undecided Voters",
+      "link": "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html",
+      "publishedAt": "2026-09-30T04:42:38.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As negociações entre os EUA e o Irã rendem poucos resultados, aumentando as chances de um novo conflito",
+      "titleOriginal": "U.S.-Iran talks yield little, raising odds of renewed combat",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYlpPUlpFcXBlcEtVTzk2ektFd2FBTkpKbXp1c283Z1VBNEdqQll4R2dlODRsS0tJLUdpWXdTeFlLZnFjSV84THRURlktSU5aVEtyTFJEWU85OXk0ZkVMN0NMaGplamxvREdqYUtvcUo?oc=5",
+      "publishedAt": "2026-09-30T04:37:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A posição de Mark Carney contra Trump gera especulações sobre o Prêmio Nobel da Paz e o título de “Pessoa do Ano” da revista *Time*",
+      "titleOriginal": "Mark Carney's stand against Trump leads to Nobel Peace Prize and Time Person of the Year buzz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalUwSXZMdlo0X2U3WmExWHU3dS1UR2VrMUM1eS05SFUyMF8tMk9aY3c1SUVqZThxTV9mcWtyWXdlWkNCN0RQQ1A1bHVNZURoNWxHY20xNGZibm5RejZFajZTM2JKOVJZT0swVG9WNXhXRGl2SFpDdDJKM3NCN2t1ZG5SS3RGN1E3SDJVUGNZX3c0NkxFaWl3cU12OVpmcWZWZmRWUw?oc=5",
+      "publishedAt": "2026-09-30T04:01:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os PMIs da China indicam melhora econômica em todos os setores",
+      "titleOriginal": "China PMIs Signal Economic Improvement Across Sectors",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1kyekpkRWswQ2NWTnRZQU9Ta3IyUk5mb2o2dm83S1pMVUVuV0UwY2NHZkM2M0FFTFNyZ0JZMzl1Rm05Vl8tQ2Z2OU5nSzhCcldLZTdZMnIwemdHMTZUWnNjdVRQNGdqQ0FYODd2VkhYX2J0bXNSSTZGdjlJZUw4UU9kREh0WUpo?oc=5",
+      "publishedAt": "2026-09-30T03:45:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump e os principais líderes da área de IA concordam com normas voluntárias para a IA",
+      "titleOriginal": "Trump, top AI leaders agree to voluntary ​AI ​standards",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWk2eWxNTHpibjlzT0VJQktLZy03VDdvV25kQWliMHEtdm1zYjhrbkRHb2ZmRnhJcWZ2TExUS3hUZTc5OGFzTUVNWjJhSkdHT2d6Mzh4WWs4a1M1YWhiNmdqajFObnFxM0V2bTdxX0JDeHNHY0U2WEdDc0NQSWJaNEo2LV9uR2Q0?oc=5",
+      "publishedAt": "2026-09-30T03:17:44.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A confiança dos republicanos na mídia volta com força total",
+      "titleOriginal": "Republicans' trust in media makes sharp comeback",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlIUEp6alFmWjkySUxWc3piX3JHSExBM1h2dGFEbHphSkJLZUJOUENrVkdDVmlrT2RVc2RNYTlXUExEZFB2VUJ4aVBZdk5FTDU2dWx1aVVLamFac1NQYnQ3Q0JQYXR5WEYtZkdER3hIV1FmSUgxMTd6b1pUcEM1bg?oc=5",
+      "publishedAt": "2026-09-30T02:41:03.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Uma reforma bem ao estilo americano para o “Salão das Bandeiras” do Departamento de Estado",
@@ -10,67 +52,25 @@
       "publishedAt": "2026-09-30T02:12:49.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Cortes na Voz da América prejudicam os “interesses nacionais dos EUA”, afirma órgão de fiscalização interna",
-      "titleOriginal": "Voice of America Cuts Hurt ‘U.S. National Interests,’ Internal Watchdog Says",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/voice-of-america-report.html",
-      "publishedAt": "2026-09-30T01:40:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Major da Força Aérea é indicado para julgamento por corte marcial após protestar contra Trump",
-      "titleOriginal": "Air Force Major Recommended for General Court-Martial After Protesting Trump",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html",
-      "publishedAt": "2026-09-30T01:18:06.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "A CNN, o MS NOW e o Politico solicitam a um tribunal que impeça Trump de aplicar sua proibição à imprensa na Casa Branca",
-      "titleOriginal": "CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDUwMklnSXFrUWlISkJ1ck1YY1VOT2FBSDRCYWhicEhJTmYzRWhhdjI5MWZ2WE1VbWlKbWc2bzFuWTNqT2xjZVhUMzNTZ1NnRVEyM1RneXVfZ0Q2TDMyRkxqcVdic0U5NEJxb2N4OFVjaDBPZmszQ1A2S0lMMHFpX3hMdGt0ZUVoZDlaSG53?oc=5",
-      "publishedAt": "2026-09-30T01:18:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas no Congresso adotam uma postura mais punitiva em relação a Israel",
-      "titleOriginal": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
-      "publishedAt": "2026-09-30T00:46:16.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo apresentam variações, mas a recuperação da produção pode pesar",
-      "titleOriginal": "Oil Prices Mixed, But Production Recovery May Weigh",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2JwbTlGSXF1SDhJNUdVdUhDMkgzR2F1WVZ5N0RpVkVya0dSVGtZaWpWWDUzUUg5eDd6Q3plbjgwOVpnR2tiQWRGVFl0amFrekt2ZW8wQ3o2bGFEdk90SW5IV2NxMW9wdEJueldHYmExd3pjYzBjMklLa0VVdXRiU3U0NmwzOFgyTlpCNDlFM1FxNVhqMThFLU5OWGhwSW85TF9kM0dqUkQ2YlE?oc=5",
-      "publishedAt": "2026-09-30T00:38:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Senado bloqueia a tentativa dos democratas de exigir um relatório sobre a violência na Cisjordânia",
-      "titleOriginal": "Senate blocks Democratic effort to force report on West Bank violence",
-      "link": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/",
-      "publishedAt": "2026-09-30T00:37:21.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Quem participou do almoço sobre IA organizado por Trump e quem se sentou onde",
-      "titleOriginal": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
-      "publishedAt": "2026-09-30T00:32:59.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O ex-promotor de Trump, Smith, defende com veemência as investigações enquanto os republicanos criticam as táticas de sua equipe",
-      "titleOriginal": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3d0TU9DbGtMZXhOcGVuR0luSmpmLTQwaEMzSHRsbkFVVkVIU2VscG9LLVp1RGpxc1pXREpIbURyWUdVdTczR1FyQVFDTnpieGI4Q0VWVkJubDVXSlZKOWZJUEtSbkRPVVp5SWdJNWZxUjRjV1pma2lXLUUwZmhDT1RvUjJiT1g4TDVMLTNn?oc=5",
-      "publishedAt": "2026-09-30T00:20:00.000Z"
+      "title": "O Six Flags Magic Mountain retira de circulação a montanha-russa X2 em meio a processos judiciais relacionados a lesões cerebrais",
+      "titleOriginal": "Six Flags Magic Mountain retires X2 roller coaster amid brain injury lawsuits",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUhXc2s5TUpQMk1iN3ExVWt6LUlsbzdPNGlZNXE4YUxpR0s5cFBVcHNDakdGT0tHSlRLdHZsbWFPOXBjN2dpdUh1NkVlZE1iM05NUUh1Tk5BblJzc0FyYm4zMzRHQzZTR3dRZkRYSTJZSndfcUJFTjNCS0ZiRFVjeDM0WUh2a0hxMzdJOWJHTVFtX2FhdU1LZDJUVnJqbWFVTVlONzk4M28?oc=5",
+      "publishedAt": "2026-09-30T02:09:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "As negociações entre os EUA e o Irã rendem poucos resultados, aumentando as chances de um novo conflito",
-      "titleOriginal": "U.S.-Iran talks yield little, raising odds of renewed combat",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYlpPUlpFcXBlcEtVTzk2ektFd2FBTkpKbXp1c283Z1VBNEdqQll4R2dlODRsS0tJLUdpWXdTeFlLZnFjSV84THRURlktSU5aVEtyTFJEWU85OXk0ZkVMN0NMaGplamxvREdqYUtvcUo?oc=5",
-      "publishedAt": "2026-09-29T23:38:46.000Z"
+      "title": "Suprema Corte aprova as deportações para países terceiros promovidas por Trump",
+      "titleOriginal": "Supreme Court green-lights Trump's third-country deportations",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlRSYlBIMkJpMzdySnFUS0NBbGkwME5BZ1ozRXB6YkpFOWxyWmRRVVBEck9EWWxLMFlTTU1ZRjNKWGktUFZsNW1QVnVDTGJxRTduMGpPcVFCYjYxcEhSNnJFY2RMV092eWVNMnYwYVhzYVQ4Y3JCVWxlWktzcjl0TGthNlltQQ?oc=5",
+      "publishedAt": "2026-09-30T01:56:46.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia britânica não encontrou explosivos, mas ainda há dúvidas após as prisões perto de uma base militar administrada pelos EUA",
+      "titleOriginal": "British police find no explosives but questions remain after arrests near a US-run military base",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5fbUV1ZTc2OGx3WEM5Wnl4RV9lOFgwT0RSVVprUGFGY0taUHpWcURLVHVsSEtVRmlGQWRRMUxYbGt3ZjM2RHEyMnAxTDgzQTlrb21tVFZnOXlUT1JSRk00X2pXcDFlbnozam5uS21xTS1pUEp4S3NJYmswQ2FXVUVfdy1NRlBLd1FURVJxa0xrVk1qZ0xEZC12VlhGaWRfRllpWjNyYWxxMFU?oc=5",
+      "publishedAt": "2026-09-30T01:46:00.000Z"
     }
   ]
 }
