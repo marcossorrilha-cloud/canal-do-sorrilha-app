@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-30T06:44:28.981Z",
-  "slot": "2026-09-30-AM",
+  "updatedAt": "2026-09-30T16:10:09.229Z",
+  "slot": "2026-09-30-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Procurador-geral de Nova York analisará a resposta da Universidade de Cornell às acusações de estupro, enquanto o promotor público local reabre a investigação",
-      "titleOriginal": "New York attorney general to review Cornell’s response to rape allegations as local DA reopens investigation",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZE5Qd3BNQWFXSTZQdkw5RndyVmFpNlVYbWZHZ0lmb1M0VjM3cW5yNnE1TWRLZmtqR1V3RFNXalNIRUs1NVJGbHZYY2wyRFFZOHNKbldHZUNzQXVHWUFWWURqUkJRYzRkTDkyTktDWHE1TTMyaU5meUlpY2h1SVpEbU1DNDRCUVk?oc=5",
-      "source": "CNN",
-      "coverage": 3
+      "title": "Grupo de veteranos faz uma reformulação radical no anúncio de Donald Trump financiado com dinheiro dos contribuintes",
+      "titleOriginal": "Veterans Group Gives Donald Trump’s Taxpayer-Funded Ad A Brutal Makeover",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmNlQ0pZd0tBVUJXa1NiTHRhamZJQjBRYk81QWN2cEc0NHJaZWpPM1VjS0k3YTJpMUFNSHFXSElnVGw2d3JqUXZ5ZmlvOHptYkw5UEs5dlNidmJRdEZ3TDQwdEhaQkNGSmwwZHlGMUJiYkRWd0FfSW92bVVLMUkwR2Z2djZCOVZMRk930gGQAUFVX3lxTE9qT2V3cE9lTEx2Q2hLaVhjZjZfcGgwLXE3V1U5Mi1zVWtza0VyYkdoSmVIazJVNXJmNWxMMGpUX24wQm1hOFhtNndvYmFGRzVyUE9NRF96WV94UWNRV0N5STlVQlJCN0ZtTkRWYWpxUUlZRzZrWWdiQ1M3NEtTQ2hvcGhDNDBMR2hVVE93ZXJzcQ?oc=5",
+      "source": "HuffPost",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "A advogada de Lindsay Clancy sugere, de forma surpreendente, que não há provas de que a mãe tenha matado seus filhos, em uma reviravolta dramática após a anulação do julgamento",
-      "titleOriginal": "Lindsay Clancy lawyer stunningly suggests no evidence mom killed her kids in wild U-turn after mistrial",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDUxTmRzY0hndlpWTTdxem1nanNRbW9QZHVsZGRYN3pHczlNQ052T0ItaHAwSlJwWDVtd3Z0UEpCMXhiSW5weXZwYUMtclM0R0xZMktuSk4xZjAydEhMdUxnWnhvNjk5eGlOSkt2dlRSaGpIX2NJOU83SzBmTFduTUtqMmpadjJTRVFKZEN4SFVkQkE2NUhEZkloaUFXODNNeC1JRmN1eGFXd0hsWHB6MDZJMG1JdjJQRlZVanFwN0hlNDR2SlIxRk1mZ2QwSW9SX0haZHhFb21pZw?oc=5",
-      "source": "New York Post",
+      "title": "O advogado de Lindsay Clancy dá uma reviravolta surpreendente sobre quem matou as crianças",
+      "titleOriginal": "Lindsay Clancy’s Lawyer Makes Stunning U-Turn On Who Killed The Kids",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1lXV2VqNTR0bmlvbTNQYndhMmJLajR0TEJRbExseTE2SERRNzJZV1RtNFA0ZGxyVmZoQ0NCeUMwRl9BSGluRGJycDg5LTB4N2NwUzJhRE9rNVE1aU1sOU4zZ2IzUml4MENXYXdXMDhsTUhZWnBhNWVxa2dSUXc5akpGMHNIaEZ3TTZuY1FFdlFuXzhPMzhCdzFfTnREUGM?oc=5",
+      "source": "Daily Wire",
       "coverage": 3
     }
   ]

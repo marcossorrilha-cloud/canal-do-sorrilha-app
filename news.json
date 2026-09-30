@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-30T09:00:14.410Z",
+  "updatedAt": "2026-09-30T16:05:34.017Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Voltei para casa, em Miami, para saber o que os eleitores hispânicos pensam sobre Trump e a imigração",
-      "titleOriginal": "I Went Home to Miami to See How Hispanic Voters Feel About Trump and Immigration",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlVnX1dXUGs3eml3S1hGNzZVRmhQS2g5SjYtVWFrZ2JFXzhrSGRsWmk5a0tYdE12dFpJeUZERC1TUlp4V1pMUUdIREZxUW42NzJFdWRST1I1aWJCZ2F0bmJOWHBmQWVSNC1wckFUclg5MHBsdGlFcDUtWFJNOU9VVllraC0yc3VUZHE4OTJlZ0wyWC1LVGFjbWc4dldfM3ZXR2xteERkVi0xV3YyOHgyUEdVeFpKQndEQ2JURTBoWnZ4OFF2d1VJ?oc=5",
-      "publishedAt": "2026-09-30T08:18:23.000Z"
+      "source": "The Hill",
+      "title": "A Casa Branca começa a enviar cheques de “reembolso” de US$ 500 do Obamacare",
+      "titleOriginal": "White House begins mailing $500 ObamaCare 'refund' checks",
+      "link": "https://thehill.com/policy/healthcare/6120529-whitehouse-obamacare-refunds-mailing/",
+      "publishedAt": "2026-09-30T16:02:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Medicare deveria ajudar os médicos a prevenir doenças, e não apenas arcar com os custos delas",
+      "titleOriginal": "Medicare should help doctors prevent disease, not just pay for it",
+      "link": "https://thehill.com/opinion/healthcare/6118336-medicare-advantage-healthy-food/",
+      "publishedAt": "2026-09-30T16:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Irã afirma à opinião pública dos EUA que a guerra de Trump fracassou, além de outros acontecimentos no Oriente Médio",
-      "titleOriginal": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
-      "publishedAt": "2026-09-30T08:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um avião comercial que viajava de Dubai para Israel foi desviado para a Arábia Saudita após um pedido de socorro",
-      "titleOriginal": "A commercial plane traveling from Dubai to Israel is diverted to Saudi Arabia after a distress call",
+      "title": "Um piloto de um voo que transportava israelenses esfaqueou outro e, aparentemente, tentou causar um acidente, afirma Netanyahu",
+      "titleOriginal": "A pilot on a flight carrying Israelis stabbed another and apparently tried to crash, Netanyahu says",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
-      "publishedAt": "2026-09-30T07:33:00.000Z"
+      "publishedAt": "2026-09-30T15:50:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump publica carta com erro ortográfico em “Unites States” após reunião sobre IA com CEOs do setor de tecnologia",
+      "titleOriginal": "Trump posts letter with ‘Unites States’ typo after AI meeting with tech CEOs",
+      "link": "https://thehill.com/homenews/administration/6120484-trump-ai-pact-typo/",
+      "publishedAt": "2026-09-30T15:40:19.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Candidatos à prefeitura de Los Angeles disputam os votos dos eleitores indecisos",
-      "titleOriginal": "Los Angeles Mayoral Candidates Vie for Undecided Voters",
-      "link": "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html",
-      "publishedAt": "2026-09-30T04:42:38.000Z"
+      "title": "A E.E.O.C. entra com ação contra Harvard para obter dados sobre diversidade nas práticas de contratação",
+      "titleOriginal": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
+      "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
+      "publishedAt": "2026-09-30T15:38:33.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A posição de Mark Carney contra Trump gera rumores sobre o Prêmio Nobel da Paz e a escolha como “Pessoa do Ano” da revista *Time*",
-      "titleOriginal": "Mark Carney's stand against Trump leads to Nobel Peace Prize and Time Person of the Year buzz",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalUwSXZMdlo0X2U3WmExWHU3dS1UR2VrMUM1eS05SFUyMF8tMk9aY3c1SUVqZThxTV9mcWtyWXdlWkNCN0RQQ1A1bHVNZURoNWxHY20xNGZibm5RejZFajZTM2JKOVJZT0swVG9WNXhXRGl2SFpDdDJKM3NCN2t1ZG5SS3RGN1E3SDJVUGNZX3c0NkxFaWl3cU12OVpmcWZWZmRWUw?oc=5",
-      "publishedAt": "2026-09-30T04:01:00.000Z"
+      "source": "The Hill",
+      "title": "Desmascarando o alarmismo político em torno dos data centers",
+      "titleOriginal": "Debunking political fearmongering over data centers",
+      "link": "https://thehill.com/opinion/technology/6118393-balancing-tech-growth-rural-economy/",
+      "publishedAt": "2026-09-30T15:30:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump recorre à pauta paralela da Suprema Corte mais do que Biden, Obama e Bush juntos",
-      "titleOriginal": "Trump leans on SCOTUS shadow docket more than Biden, Obama and Bush combined",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY0FKVzJQZTRBb2Z5M1Q0YUFRTmdiUWNWVXZya0k4NzJrZUc0NUVsQWVsQnZ5N0dLOTNtODdpV0JlaTJaQTE5VmxqcFpHWUtDZ0xUMUlwQzJsNktqTXQtbUlWX3BvMGJGWnVobEpsMEVFdjF6LXJOMXlUUjgyOFBHdUtHVUpWTHhKYWc?oc=5",
-      "publishedAt": "2026-09-30T04:00:45.000Z"
+      "source": "New York Times",
+      "title": "A escultura de Calder, “Montanhas e Nuvens”, é restaurada no escritório do Senado",
+      "titleOriginal": "Calder Sculpture ‘Mountains and Clouds’ Is Restored in Senate Office",
+      "link": "https://www.nytimes.com/2026/09/30/arts/design/calder-mountains-clouds-restoration-senate-building.html",
+      "publishedAt": "2026-09-30T15:07:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent está errado: a China apoiou as ambições do Irã em relação às armas nucleares",
+      "titleOriginal": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
+      "link": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/",
+      "publishedAt": "2026-09-30T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal federal de apelação suspende a execução de Christa Pike poucas horas antes do prazo",
+      "titleOriginal": "Federal appeals court stays Christa Pike execution with hours to spare",
+      "link": "https://thehill.com/regulation/court-battles/6120336-christa-pike-execution-stayed/",
+      "publishedAt": "2026-09-30T14:59:54.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Os PMIs da China indicam melhora econômica em todos os setores",
-      "titleOriginal": "China PMIs Signal Economic Improvement Across Sectors",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1kyekpkRWswQ2NWTnRZQU9Ta3IyUk5mb2o2dm83S1pMVUVuV0UwY2NHZkM2M0FFTFNyZ0JZMzl1Rm05Vl8tQ2Z2OU5nSzhCcldLZTdZMnIwemdHMTZUWnNjdVRQNGdqQ0FYODd2VkhYX2J0bXNSSTZGdjlJZUw4UU9kREh0WUpo?oc=5",
-      "publishedAt": "2026-09-30T03:45:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump e principais líderes da área de IA concordam com normas voluntárias para a IA",
-      "titleOriginal": "Trump, top AI leaders agree to voluntary ​AI ​standards",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWk2eWxNTHpibjlzT0VJQktLZy03VDdvV25kQWliMHEtdm1zYjhrbkRHb2ZmRnhJcWZ2TExUS3hUZTc5OGFzTUVNWjJhSkdHT2d6Mzh4WWs4a1M1YWhiNmdqajFObnFxM0V2bTdxX0JDeHNHY0U2WEdDc0NQSWJaNEo2LV9uR2Q0?oc=5",
-      "publishedAt": "2026-09-30T03:17:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A confiança dos republicanos na mídia volta com força total",
-      "titleOriginal": "Republicans' trust in media makes sharp comeback",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlIUEp6alFmWjkySUxWc3piX3JHSExBM1h2dGFEbHphSkJLZUJOUENrVkdDVmlrT2RVc2RNYTlXUExEZFB2VUJ4aVBZdk5FTDU2dWx1aVVLamFac1NQYnQ3Q0JQYXR5WEYtZkdER3hIV1FmSUgxMTd6b1pUcEM1bg?oc=5",
-      "publishedAt": "2026-09-30T02:41:03.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A OpenAI é alvo de uma ação judicial histórica após o ataque cibernético à Hugging Face",
-      "titleOriginal": "OpenAI hit with landmark lawsuit following Hugging Face hack",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
-      "publishedAt": "2026-09-30T02:21:27.000Z"
+      "title": "Preços do petróleo se recuperam enquanto os riscos no Oriente Médio persistem",
+      "titleOriginal": "Oil Prices Rebound as Middle East Risks Persist",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHVZLXFFMjdhMG9hOXRob1I5d1BIMFk5dWFWWHRNaFhyMnhaYVJjczRuYXRJT1lpWjI0VVVFSFY3N0RZZGM5czhjTHRkd055RTBwdndIWXYzU2lYZVFvc2VWdTFkWF9FSjRnZk5LRUJSdXp6b3Q4azdHUUhBb0xCUWxIcGxOVkNIWDEwTHFCVGFrU1djLUxDX18zVHU?oc=5",
+      "publishedAt": "2026-09-30T14:43:00.000Z"
     }
   ]
 }
