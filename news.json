@@ -1,41 +1,62 @@
 {
-  "updatedAt": "2026-09-29T23:12:07.496Z",
+  "updatedAt": "2026-09-30T00:28:18.996Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Jack Smith defende as acusações contra Trump enquanto a alegação de perjúrio do senador perde força",
-      "titleOriginal": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
-      "publishedAt": "2026-09-29T23:06:15.000Z"
+      "title": "Democratas no Congresso adotam uma postura mais punitiva em relação a Israel",
+      "titleOriginal": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+      "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+      "publishedAt": "2026-09-30T00:20:03.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump lança chatbot do governo que contradiz algumas de suas afirmações",
-      "titleOriginal": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
+      "title": "Trump lança o America.gov, um chatbot com inteligência artificial que contradiz algumas de suas afirmações",
+      "titleOriginal": "Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims",
       "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html",
-      "publishedAt": "2026-09-29T23:06:04.000Z"
+      "publishedAt": "2026-09-29T23:39:49.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Cada família desta cidade rural receberá US$ 10.000 caso seja construído um centro de dados",
-      "titleOriginal": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHE0emNadEc5eGE3ZVZ4VFl0eV8zOHNmbFdOWDh0aUpXdHl6TjZ3ZzMxUFhQREJ3MnJQaEJLRS1xRU5XdFV2c2NwVmJLTFFCQjBGWGl0RFdnQUJYSVZ1SnBZcGVtZkNfWXI5RVZ2TEwtVHVuUlpycURZSXBXUE5xWVBWWWdLMFFOOHlsMTlvUk5KYzRKcHBTUG5WX3pRTzA4cnFRSUZxUUl5Y1NOemJZSm5vZlYyVjJtblNF?oc=5",
-      "publishedAt": "2026-09-29T22:49:07.000Z"
+      "source": "New York Times",
+      "title": "Jack Smith defende as acusações contra Trump enquanto a alegação de perjúrio do senador desmorona",
+      "titleOriginal": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+      "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+      "publishedAt": "2026-09-29T23:37:56.000Z"
     },
     {
       "source": "New York Times",
       "title": "Em evento sobre IA, Trump pede à Meta, à OpenAI e à Microsoft que tomem suas próprias decisões em matéria de segurança",
       "titleOriginal": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
       "link": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-      "publishedAt": "2026-09-29T22:32:16.000Z"
+      "publishedAt": "2026-09-29T23:20:43.000Z"
     },
     {
-      "source": "Axios",
-      "title": "As negociações entre os EUA e o Irã rendem poucos resultados, aumentando as chances de um novo conflito",
-      "titleOriginal": "U.S.-Iran talks yield little, raising odds of renewed combat",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYlpPUlpFcXBlcEtVTzk2ektFd2FBTkpKbXp1c283Z1VBNEdqQll4R2dlODRsS0tJLUdpWXdTeFlLZnFjSV84THRURlktSU5aVEtyTFJEWU85OXk0ZkVMN0NMaGplamxvREdqYUtvcUo?oc=5",
-      "publishedAt": "2026-09-29T22:30:00.000Z"
+      "source": "The Hill",
+      "title": "A EPA vai “reconsiderar” as normas de qualidade do ar enquanto o Texas enfrenta um “desastre” nos preços do diesel",
+      "titleOriginal": "EPA to ‘reconsider’ air quality rules as Texas faces diesel price 'disaster'",
+      "link": "https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations/",
+      "publishedAt": "2026-09-29T23:08:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Tesouro confirma o plano de inscrever automaticamente milhões de crianças em contas do programa “Trump”",
+      "titleOriginal": "Treasury confirms plan to auto-enroll millions of children in Trump accounts",
+      "link": "https://thehill.com/homenews/administration/6119209-treasury-auto-enrolls-trump-accounts/",
+      "publishedAt": "2026-09-29T22:52:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Suprema Corte autoriza as deportações para países terceiros do governo Trump, por enquanto",
+      "titleOriginal": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
+      "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+      "publishedAt": "2026-09-29T22:20:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Irã estaria por trás de um “plano terrorista” contra as forças americanas na Grã-Bretanha?",
+      "titleOriginal": "Was Iran behind a ‘terror plot’ targeting US forces in Britain?",
+      "link": "https://thehill.com/policy/international/6119157-iran-plot-raf-fairford/",
+      "publishedAt": "2026-09-29T22:09:19.000Z"
     },
     {
       "source": "The Hill",
@@ -46,31 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Empresas de IA concordam com uma autorregulação “moralmente vinculativa” na Casa Branca",
-      "titleOriginal": "AI firms agree to 'morally binding' self-policing at White House",
-      "link": "https://thehill.com/newsletters/technology/6119104-ai-firms-agree-to-morally-binding-self-policing-at-white-house/",
-      "publishedAt": "2026-09-29T22:00:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Schumer critica projeto de lei sobre centros de dados aprovado pela Câmara",
-      "titleOriginal": "Schumer slams House-passed data center bill",
-      "link": "https://thehill.com/newsletters/energy-environment/6119118-schumer-slams-house-passed-data-center-bill/",
-      "publishedAt": "2026-09-29T21:53:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A confiança dos republicanos na mídia volta com força total",
-      "titleOriginal": "Republicans' trust in media makes sharp comeback",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlIUEp6alFmWjkySUxWc3piX3JHSExBM1h2dGFEbHphSkJLZUJOUENrVkdDVmlrT2RVc2RNYTlXUExEZFB2VUJ4aVBZdk5FTDU2dWx1aVVLamFac1NQYnQ3Q0JQYXR5WEYtZkdER3hIV1FmSUgxMTd6b1pUcEM1bg?oc=5",
-      "publishedAt": "2026-09-29T21:47:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O secretário de Defesa, Pete Hegseth, planeja um corte de 20% no alto escalão militar",
-      "titleOriginal": "Defense Secretary Pete Hegseth Plans 20% Cut to Top Brass",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzRRRGF0NHZpX2NLZkNhNEw3UkxiTzlXYlJWSklVRWU1RkVWYUphVzU5Ykh6Vzh2WXUtNEd0eXZKMXpWcnpnNFNpUlBYRFdEVmZqejRfT19ybFBSbkV2LWJnVUQ0YUlLNUotZ0FJRGtUVndJNS1OSUFwYnVfQmxDRkFPU0NnbVFCbUp6OVpqdjB3eVdGRkNXamx4bTJRems1VzhpQTRXSVV1LW9uVFFnM2Fn?oc=5",
-      "publishedAt": "2026-09-29T21:47:00.000Z"
+      "title": "5 coisas que você precisa saber sobre o novo site de IA de Trump",
+      "titleOriginal": "5 things to know about Trump's new AI website",
+      "link": "https://thehill.com/homenews/administration/6119087-trump-launches-ai-america-gov/",
+      "publishedAt": "2026-09-29T22:02:47.000Z"
     }
   ]
 }
