@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-09-30T16:05:34.017Z",
+  "updatedAt": "2026-09-30T19:21:10.452Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "A Casa Branca começa a enviar cheques de “reembolso” de US$ 500 do Obamacare",
-      "titleOriginal": "White House begins mailing $500 ObamaCare 'refund' checks",
-      "link": "https://thehill.com/policy/healthcare/6120529-whitehouse-obamacare-refunds-mailing/",
-      "publishedAt": "2026-09-30T16:02:55.000Z"
+      "title": "Atualizações em tempo real: Hegseth classifica cortes no efetivo policial como “o mínimo indispensável” em discurso às tropas; democratas do Senado bloqueiam projetos de lei importantes",
+      "titleOriginal": "Live updates: Hegseth calls officer cuts 'bare minimum' in address to troops; Senate Democrats block key bills",
+      "link": "https://thehill.com/homenews/administration/6119378-live-updates-trump-ai-tariffs-hegseth-pentagon-cuts/",
+      "publishedAt": "2026-09-30T19:15:04.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Medicare deveria ajudar os médicos a prevenir doenças, e não apenas arcar com os custos delas",
-      "titleOriginal": "Medicare should help doctors prevent disease, not just pay for it",
-      "link": "https://thehill.com/opinion/healthcare/6118336-medicare-advantage-healthy-food/",
-      "publishedAt": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um piloto de um voo que transportava israelenses esfaqueou outro e, aparentemente, tentou causar um acidente, afirma Netanyahu",
-      "titleOriginal": "A pilot on a flight carrying Israelis stabbed another and apparently tried to crash, Netanyahu says",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
-      "publishedAt": "2026-09-30T15:50:00.000Z"
+      "title": "Trump afirma que os “MAGA e os verdadeiros patriotas” nunca vão gostar da Fox News por receber democratas",
+      "titleOriginal": "Trump says 'MAGA and REAL Patriots' will never like Fox News over hosting Democrats",
+      "link": "https://thehill.com/homenews/media/6121215-trump-attacks-fox-news-democrats/",
+      "publishedAt": "2026-09-30T19:09:19.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump publica carta com erro ortográfico em “Unites States” após reunião sobre IA com CEOs do setor de tecnologia",
-      "titleOriginal": "Trump posts letter with ‘Unites States’ typo after AI meeting with tech CEOs",
-      "link": "https://thehill.com/homenews/administration/6120484-trump-ai-pact-typo/",
-      "publishedAt": "2026-09-30T15:40:19.000Z"
+      "title": "Veja aqui os republicanos que estão apoiando candidatos democratas nas eleições de meio de mandato",
+      "titleOriginal": "Here are the Republicans backing Democratic candidates in the midterms",
+      "link": "https://thehill.com/homenews/campaign/6120527-republicans-endorse-democrats-midterms/",
+      "publishedAt": "2026-09-30T18:58:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump e Lutnick anunciarão grandes investimentos no setor de energia dos EUA",
+      "titleOriginal": "Watch live: Trump, Lutnick to announce major US energy investments",
+      "link": "https://thehill.com/homenews/administration/6121114-watch-live-donald-trump-howard-lutnick-us-energy-alaska-pipeline-south-korea-investment/",
+      "publishedAt": "2026-09-30T18:53:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Voltei para casa, em Miami, para saber o que os eleitores hispânicos pensam sobre Trump e a imigração",
+      "titleOriginal": "I Went Home to Miami to See How Hispanic Voters Feel About Trump and Immigration",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlVnX1dXUGs3eml3S1hGNzZVRmhQS2g5SjYtVWFrZ2JFXzhrSGRsWmk5a0tYdE12dFpJeUZERC1TUlp4V1pMUUdIREZxUW42NzJFdWRST1I1aWJCZ2F0bmJOWHBmQWVSNC1wckFUclg5MHBsdGlFcDUtWFJNOU9VVllraC0yc3VUZHE4OTJlZ0wyWC1LVGFjbWc4dldfM3ZXR2xteERkVi0xV3YyOHgyUEdVeFpKQndEQ2JURTBoWnZ4OFF2d1VJ?oc=5",
+      "publishedAt": "2026-09-30T18:48:27.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Jack Smith enfrenta novo processo judicial por causa de registros telefônicos do Congresso",
+      "titleOriginal": "Jack Smith faces new lawsuit over congressional phone records",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVFTUE8wTGhEVlFpZWxRTkEwM3JiVU8tOFdyaUk0NXNhcUc2TUJma1BxMUpIb0xwWmo1MDR2S1NfaXN6MjByT3RtemZvWEVvbk9DV2xsUW9fdmQ2Sjc4NGV1WTRxYUZVckh4LXB4dms4TnBtdC1jcUtoeUY5amdXdTZIZ3JudDFmdGpya0pWdHlZdw?oc=5",
+      "publishedAt": "2026-09-30T18:46:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Esfaqueamento entre pilotos obriga a aterrissagem de emergência de avião com destino a Israel",
+      "titleOriginal": "Pilot-on-Pilot Stabbing Forces Emergency Landing of Israel-Bound Plane",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUE03QmpOQjdEaVZkY1FucnlLVzhHckJBaHBEN3BTQ1RQeFBySnNjVjJoamoyb2dMdk1CeXpqWXozczMtZ1BlVWNVanFfZmppQk9fbXFsekgxVV95aEZBQS12X0lrMU5DYTlGWGg5VWExSzY2bmxYZHk3SDBGd3NWa1VyMUlqblZ1cHVQdXdaN2JQT01SSUJzeHpvc25zckh6eE9oSTNn?oc=5",
+      "publishedAt": "2026-09-30T18:44:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lara Trump afirma que uma guerra com o Irã poderia custar a Trump as eleições de meio de mandato",
+      "titleOriginal": "Lara Trump says Iran war could cost Trump the midterms",
+      "link": "https://thehill.com/homenews/campaign/6120920-lara-trump-iran-war-midterms/",
+      "publishedAt": "2026-09-30T18:34:18.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A E.E.O.C. entra com ação contra Harvard para obter dados sobre diversidade nas práticas de contratação",
-      "titleOriginal": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
-      "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
-      "publishedAt": "2026-09-30T15:38:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Desmascarando o alarmismo político em torno dos data centers",
-      "titleOriginal": "Debunking political fearmongering over data centers",
-      "link": "https://thehill.com/opinion/technology/6118393-balancing-tech-growth-rural-economy/",
-      "publishedAt": "2026-09-30T15:30:00.000Z"
+      "title": "Congresso deve deixar Washington para as eleições de meio de mandato sem avanços na área de IA",
+      "titleOriginal": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
+      "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html",
+      "publishedAt": "2026-09-30T18:31:26.000Z"
     },
     {
       "source": "New York Times",
       "title": "A escultura de Calder, “Montanhas e Nuvens”, é restaurada no escritório do Senado",
       "titleOriginal": "Calder Sculpture ‘Mountains and Clouds’ Is Restored in Senate Office",
       "link": "https://www.nytimes.com/2026/09/30/arts/design/calder-mountains-clouds-restoration-senate-building.html",
-      "publishedAt": "2026-09-30T15:07:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent está errado: a China apoiou as ambições do Irã em relação às armas nucleares",
-      "titleOriginal": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
-      "link": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/",
-      "publishedAt": "2026-09-30T15:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tribunal federal de apelação suspende a execução de Christa Pike poucas horas antes do prazo",
-      "titleOriginal": "Federal appeals court stays Christa Pike execution with hours to spare",
-      "link": "https://thehill.com/regulation/court-battles/6120336-christa-pike-execution-stayed/",
-      "publishedAt": "2026-09-30T14:59:54.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo se recuperam enquanto os riscos no Oriente Médio persistem",
-      "titleOriginal": "Oil Prices Rebound as Middle East Risks Persist",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHVZLXFFMjdhMG9hOXRob1I5d1BIMFk5dWFWWHRNaFhyMnhaYVJjczRuYXRJT1lpWjI0VVVFSFY3N0RZZGM5czhjTHRkd055RTBwdndIWXYzU2lYZVFvc2VWdTFkWF9FSjRnZk5LRUJSdXp6b3Q4azdHUUhBb0xCUWxIcGxOVkNIWDEwTHFCVGFrU1djLUxDX18zVHU?oc=5",
-      "publishedAt": "2026-09-30T14:43:00.000Z"
+      "publishedAt": "2026-09-30T18:29:13.000Z"
     }
   ]
 }
