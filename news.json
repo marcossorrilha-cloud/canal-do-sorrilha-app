@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-30T06:44:21.626Z",
+  "updatedAt": "2026-09-30T09:00:14.410Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Voltei para casa, em Miami, para saber o que os eleitores hispânicos pensam sobre Trump e a imigração",
+      "titleOriginal": "I Went Home to Miami to See How Hispanic Voters Feel About Trump and Immigration",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlVnX1dXUGs3eml3S1hGNzZVRmhQS2g5SjYtVWFrZ2JFXzhrSGRsWmk5a0tYdE12dFpJeUZERC1TUlp4V1pMUUdIREZxUW42NzJFdWRST1I1aWJCZ2F0bmJOWHBmQWVSNC1wckFUclg5MHBsdGlFcDUtWFJNOU9VVllraC0yc3VUZHE4OTJlZ0wyWC1LVGFjbWc4dldfM3ZXR2xteERkVi0xV3YyOHgyUEdVeFpKQndEQ2JURTBoWnZ4OFF2d1VJ?oc=5",
+      "publishedAt": "2026-09-30T08:18:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã afirma à opinião pública dos EUA que a guerra de Trump fracassou, além de outros acontecimentos no Oriente Médio",
+      "titleOriginal": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
+      "publishedAt": "2026-09-30T08:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um avião comercial que viajava de Dubai para Israel foi desviado para a Arábia Saudita após um pedido de socorro",
+      "titleOriginal": "A commercial plane traveling from Dubai to Israel is diverted to Saudi Arabia after a distress call",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+      "publishedAt": "2026-09-30T07:33:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Candidatos à prefeitura de Los Angeles disputam os votos dos eleitores indecisos",
@@ -10,18 +31,18 @@
       "publishedAt": "2026-09-30T04:42:38.000Z"
     },
     {
-      "source": "Axios",
-      "title": "As negociações entre os EUA e o Irã rendem poucos resultados, aumentando as chances de um novo conflito",
-      "titleOriginal": "U.S.-Iran talks yield little, raising odds of renewed combat",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYlpPUlpFcXBlcEtVTzk2ektFd2FBTkpKbXp1c283Z1VBNEdqQll4R2dlODRsS0tJLUdpWXdTeFlLZnFjSV84THRURlktSU5aVEtyTFJEWU85OXk0ZkVMN0NMaGplamxvREdqYUtvcUo?oc=5",
-      "publishedAt": "2026-09-30T04:37:23.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "A posição de Mark Carney contra Trump gera especulações sobre o Prêmio Nobel da Paz e o título de “Pessoa do Ano” da revista *Time*",
+      "title": "A posição de Mark Carney contra Trump gera rumores sobre o Prêmio Nobel da Paz e a escolha como “Pessoa do Ano” da revista *Time*",
       "titleOriginal": "Mark Carney's stand against Trump leads to Nobel Peace Prize and Time Person of the Year buzz",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalUwSXZMdlo0X2U3WmExWHU3dS1UR2VrMUM1eS05SFUyMF8tMk9aY3c1SUVqZThxTV9mcWtyWXdlWkNCN0RQQ1A1bHVNZURoNWxHY20xNGZibm5RejZFajZTM2JKOVJZT0swVG9WNXhXRGl2SFpDdDJKM3NCN2t1ZG5SS3RGN1E3SDJVUGNZX3c0NkxFaWl3cU12OVpmcWZWZmRWUw?oc=5",
       "publishedAt": "2026-09-30T04:01:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump recorre à pauta paralela da Suprema Corte mais do que Biden, Obama e Bush juntos",
+      "titleOriginal": "Trump leans on SCOTUS shadow docket more than Biden, Obama and Bush combined",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY0FKVzJQZTRBb2Z5M1Q0YUFRTmdiUWNWVXZya0k4NzJrZUc0NUVsQWVsQnZ5N0dLOTNtODdpV0JlaTJaQTE5VmxqcFpHWUtDZ0xUMUlwQzJsNktqTXQtbUlWX3BvMGJGWnVobEpsMEVFdjF6LXJOMXlUUjgyOFBHdUtHVUpWTHhKYWc?oc=5",
+      "publishedAt": "2026-09-30T04:00:45.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -32,7 +53,7 @@
     },
     {
       "source": "Axios",
-      "title": "Trump e os principais líderes da área de IA concordam com normas voluntárias para a IA",
+      "title": "Trump e principais líderes da área de IA concordam com normas voluntárias para a IA",
       "titleOriginal": "Trump, top AI leaders agree to voluntary ​AI ​standards",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWk2eWxNTHpibjlzT0VJQktLZy03VDdvV25kQWliMHEtdm1zYjhrbkRHb2ZmRnhJcWZ2TExUS3hUZTc5OGFzTUVNWjJhSkdHT2d6Mzh4WWs4a1M1YWhiNmdqajFObnFxM0V2bTdxX0JDeHNHY0U2WEdDc0NQSWJaNEo2LV9uR2Q0?oc=5",
       "publishedAt": "2026-09-30T03:17:44.000Z"
@@ -45,32 +66,11 @@
       "publishedAt": "2026-09-30T02:41:03.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Uma reforma bem ao estilo americano para o “Salão das Bandeiras” do Departamento de Estado",
-      "titleOriginal": "A Very American Makeover for the State Department’s ‘Hall of Flags’",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/state-department-flags.html",
-      "publishedAt": "2026-09-30T02:12:49.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Six Flags Magic Mountain retira de circulação a montanha-russa X2 em meio a processos judiciais relacionados a lesões cerebrais",
-      "titleOriginal": "Six Flags Magic Mountain retires X2 roller coaster amid brain injury lawsuits",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUhXc2s5TUpQMk1iN3ExVWt6LUlsbzdPNGlZNXE4YUxpR0s5cFBVcHNDakdGT0tHSlRLdHZsbWFPOXBjN2dpdUh1NkVlZE1iM05NUUh1Tk5BblJzc0FyYm4zMzRHQzZTR3dRZkRYSTJZSndfcUJFTjNCS0ZiRFVjeDM0WUh2a0hxMzdJOWJHTVFtX2FhdU1LZDJUVnJqbWFVTVlONzk4M28?oc=5",
-      "publishedAt": "2026-09-30T02:09:00.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "Suprema Corte aprova as deportações para países terceiros promovidas por Trump",
-      "titleOriginal": "Supreme Court green-lights Trump's third-country deportations",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlRSYlBIMkJpMzdySnFUS0NBbGkwME5BZ1ozRXB6YkpFOWxyWmRRVVBEck9EWWxLMFlTTU1ZRjNKWGktUFZsNW1QVnVDTGJxRTduMGpPcVFCYjYxcEhSNnJFY2RMV092eWVNMnYwYVhzYVQ4Y3JCVWxlWktzcjl0TGthNlltQQ?oc=5",
-      "publishedAt": "2026-09-30T01:56:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia britânica não encontrou explosivos, mas ainda há dúvidas após as prisões perto de uma base militar administrada pelos EUA",
-      "titleOriginal": "British police find no explosives but questions remain after arrests near a US-run military base",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5fbUV1ZTc2OGx3WEM5Wnl4RV9lOFgwT0RSVVprUGFGY0taUHpWcURLVHVsSEtVRmlGQWRRMUxYbGt3ZjM2RHEyMnAxTDgzQTlrb21tVFZnOXlUT1JSRk00X2pXcDFlbnozam5uS21xTS1pUEp4S3NJYmswQ2FXVUVfdy1NRlBLd1FURVJxa0xrVk1qZ0xEZC12VlhGaWRfRllpWjNyYWxxMFU?oc=5",
-      "publishedAt": "2026-09-30T01:46:00.000Z"
+      "title": "A OpenAI é alvo de uma ação judicial histórica após o ataque cibernético à Hugging Face",
+      "titleOriginal": "OpenAI hit with landmark lawsuit following Hugging Face hack",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+      "publishedAt": "2026-09-30T02:21:27.000Z"
     }
   ]
 }
