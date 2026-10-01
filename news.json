@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-01T20:31:49.391Z",
+  "updatedAt": "2026-10-01T23:13:15.763Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Senadores rejeitam o plano de Hegseth de reduzir o número de almirantes e generais",
-      "titleOriginal": "Senators give cold shoulder to Hegseth plan to cut admirals, generals",
-      "link": "https://thehill.com/policy/defense/6124198-senate-reacts-pentagon-purge/",
-      "publishedAt": "2026-10-01T20:30:00.000Z"
+      "source": "New York Times",
+      "title": "Relatório federal afirma que nunca foram emitidos alertas sobre ventos aos pilotos envolvidos no acidente em Miami",
+      "titleOriginal": "Wind Warnings Were Never Given to Pilots in Miami Crash, Federal Report Says",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/ntsb-miami-amazon-crash.html",
+      "publishedAt": "2026-10-01T23:02:33.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Moeda meme do Trump convida os principais compradores para uma festa de gala “exclusiva” com o presidente",
-      "titleOriginal": "Trump meme coin invites top buyers to 'exclusive' gala with the president",
-      "link": "https://thehill.com/homenews/administration/6124439-trump-meme-coin-investor-gala/",
-      "publishedAt": "2026-10-01T20:25:58.000Z"
+      "title": "Juiz rejeita os argumentos do governo Trump para não divulgar o memorando que justifica o ataque ao barco",
+      "titleOriginal": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+      "link": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
+      "publishedAt": "2026-10-01T22:59:18.000Z"
     },
     {
       "source": "New York Times",
-      "title": "“Pronto para perder a paciência”: como Biden quase cortou a ligação com Netanyahu por causa de Gaza",
-      "titleOriginal": "‘Ready to Blow His Stack’: How Biden Nearly Cut Off Netanyahu Over Gaza",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html",
-      "publishedAt": "2026-10-01T19:56:10.000Z"
+      "title": "Autoridade do setor imobiliário, que tinha como alvo os adversários de Trump, reduz o escritório de fiscalização",
+      "titleOriginal": "Housing Official, Who Targeted Trump Foes, Cuts Watchdog Office",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/bill-pulte-trump-inspector-general.html",
+      "publishedAt": "2026-10-01T22:34:41.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Major-general aposentado: Hegseth está “jogando roleta russa” com a segurança dos EUA",
-      "titleOriginal": "Retired major general: Hegseth 'playing Russian roulette' with US security",
-      "link": "https://thehill.com/homenews/administration/6124325-manner-slams-hegseth-cuts/",
-      "publishedAt": "2026-10-01T19:55:25.000Z"
+      "title": "O Pentágono aumenta a remuneração dos militares expostos a fogo inimigo pela primeira vez em mais de 20 anos",
+      "titleOriginal": "Pentagon increases pay for troops in hostile fire for first time in more than 20 years",
+      "link": "https://thehill.com/newsletters/defense-national-security/6124762-pentagon-increases-pay-for-troops-in-hostile-fire-for-first-time-in-over-20-years/",
+      "publishedAt": "2026-10-01T22:33:40.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Abdul El-Sayed, candidato ao Senado por Michigan, continua tentando unir a base democrata",
+      "titleOriginal": "Abdul El-Sayed, a Senate candidate in Michigan, Is Still Trying to Unite the Democratic Base",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html",
+      "publishedAt": "2026-10-01T22:05:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump leva a campanha para as eleições de meio de mandato a Oklahoma",
+      "titleOriginal": "Watch live: Trump takes midterm campaign push to Oklahoma",
+      "link": "https://thehill.com/homenews/campaign/6124121-watch-live-donald-trump-midterms-oklahoma-republicans/",
+      "publishedAt": "2026-10-01T22:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "As possíveis sanções contra o Manchester City podem variar de multas à expulsão da Premier League",
-      "titleOriginal": "Potential sanctions against Man City could range from fines to expulsion from the Premier League",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
-      "publishedAt": "2026-10-01T19:49:44.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Congresso encerra seus trabalhos discretamente, enquanto o Partido Republicano se prepara para as dificuldades nas eleições de meio de mandato",
-      "titleOriginal": "Congress Leaves With a Whimper, as the G.O.P. Braces for Midterm Pain",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html",
-      "publishedAt": "2026-10-01T19:48:38.000Z"
+      "title": "Novas orientações do ICE proíbem perseguições de carro em alta velocidade e estabelecem regras mais rígidas para abordagens de trânsito, segundo um memorando",
+      "titleOriginal": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, a memo shows",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnNqWXlqZ1JVMUhlUUR5SVZSejVPMFloS2QyMnkzTEtjRjNVWUpoWDlBMG9xS3k5VElPMWE3Sy1yd0J6VHZqbmRray1CRmROMFdabEJ5VjF6OHgyd0FpS2JwZldfR1YwQWJ3dVE5Y25XTUxDUUwwaGVhOHNZX1haVXNrdmV3ZlZkRnpiT28zV2R5elZRcFNXRzBueTB2a1d0eVlTdzlNcVlTUQ?oc=5",
+      "publishedAt": "2026-10-01T21:59:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Vice-presidente do Federal Reserve afirma que “pode levar mais tempo” até que haja um novo aumento nas taxas de juros",
-      "titleOriginal": "Federal Reserve vice chair says it ‘may take more time’ before hiking rates again",
-      "link": "https://thehill.com/business/6124140-federal-reserves-future-inflation-hikes-jefferson/",
-      "publishedAt": "2026-10-01T19:44:11.000Z"
+      "title": "O Pentágono está enviando mais de 4.000 fuzileiros navais e marinheiros para o Oriente Médio, à medida que o reforço de tropas ganha força",
+      "titleOriginal": "Pentagon sending more than 4,000 Marines, sailors to Middle East as buildup ramps up",
+      "link": "https://thehill.com/policy/defense/6124637-pentagon-deploys-marines-middle-east/",
+      "publishedAt": "2026-10-01T21:58:04.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Procurador-geral da Califórnia intima a OpenAI a prestar depoimento sobre incidentes cibernéticos",
-      "titleOriginal": "California attorney general subpoenas OpenAI over cyber incidents",
-      "link": "https://thehill.com/policy/technology/6124245-openai-subpoena-rob-bonta-california/",
-      "publishedAt": "2026-10-01T19:41:48.000Z"
+      "title": "O FBI prende funcionário do Departamento de Energia acusado de tentar apoiar os houthis",
+      "titleOriginal": "FBI arrests Energy Department employee accused of attempting to support Houthis",
+      "link": "https://thehill.com/homenews/state-watch/6124659-doe-employee-arrested-alleged-houthi-support/",
+      "publishedAt": "2026-10-01T21:54:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Senadores do Partido Republicano pedem que o Departamento de Justiça investigue o papel da China nos mercados de cânhamo e cannabis",
-      "titleOriginal": "GOP senators call for DOJ to investigate Chinese role in hemp, cannabis markets",
-      "link": "https://thehill.com/policy/healthcare/6124215-gop-senators-probe-chinese-cannabis-markets/",
-      "publishedAt": "2026-10-01T19:23:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hume: Os republicanos “não têm muitos pontos a seu favor” antes das eleições de meio de mandato",
-      "titleOriginal": "Hume: Republicans 'don't have much going for them' ahead of midterms",
-      "link": "https://thehill.com/homenews/media/6124189-brit-hume-gop-midterm-momentum/",
-      "publishedAt": "2026-10-01T19:13:51.000Z"
+      "title": "Deputado republicano: Nixon foi “destituído por um golpe” e “incriminado” durante o caso Watergate",
+      "titleOriginal": "GOP lawmaker: Nixon was 'couped out of office,' 'framed' during Watergate",
+      "link": "https://thehill.com/homenews/house/6124635-moore-nixon-couped-watergate/",
+      "publishedAt": "2026-10-01T21:50:27.000Z"
     }
   ]
 }
