@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-01T05:51:14.128Z",
+  "updatedAt": "2026-10-01T07:48:16.233Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Piloto esfaqueia colega durante voo para Israel antes que passageiros intervenham para impedir o ataque",
+      "titleOriginal": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+      "publishedAt": "2026-10-01T06:15:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Governador de Indiana prorroga suspensão do imposto sobre combustíveis",
@@ -25,14 +32,21 @@
     },
     {
       "source": "New York Times",
-      "title": "Hegseth adota um tom firme enquanto crescem as dúvidas dos republicanos sobre sua liderança",
+      "title": "Hegseth assume um tom firme enquanto crescem as dúvidas dos republicanos sobre sua liderança",
       "titleOriginal": "Hegseth Talks Tough as Republican Doubts About His Leadership Grow",
       "link": "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html",
       "publishedAt": "2026-10-01T03:53:25.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O Departamento de Justiça de Trump leva sua disputa com juízes federais para Minnesota",
+      "titleOriginal": "Trump's DOJ takes its fight with federal judges to Minnesota",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QakwySUVJY0JHaDgzRVJCdmgyNmJ3d25NN0ZVeHFiZFlaenAtY0RXcF81b01NUGhjREp5ejdnR0Z3UmVlZFloSTIwMnBuR2FtZXVWbVRuSHp6di0xYjJ3NU96UDFXWVlDVm9zNG5zQ3BySFVHSGY3T2NwM09lZDg?oc=5",
+      "publishedAt": "2026-10-01T03:36:37.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O Senado confirma Keith Sonderling, membro do círculo interno, para assumir a liderança do Departamento do Trabalho",
+      "title": "O Senado confirma Keith Sonderling, membro da equipe interna, para liderar o Departamento do Trabalho",
       "titleOriginal": "Senate confirms insider Keith Sonderling to lead Department of Labor",
       "link": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
       "publishedAt": "2026-10-01T03:28:57.000Z"
@@ -45,13 +59,6 @@
       "publishedAt": "2026-10-01T03:25:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Piloto esfaqueia colega durante voo para Israel antes que passageiros intervenham para impedir o ataque",
-      "titleOriginal": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
-      "publishedAt": "2026-10-01T03:22:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "“A China encontrará uma maneira de regulamentar as criptomoedas”, afirma o CEO da Solana Co.",
       "titleOriginal": "China Will Find a Way to Manage Crypto, Solana Co.’s CEO Says",
@@ -60,17 +67,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "O boom da IA impulsiona as exportações da Coreia do Sul em setembro, ultrapassando US$ 120 bilhões",
+      "title": "O boom da IA impulsiona as exportações da Coreia do Sul em setembro para mais de US$ 120 bilhões",
       "titleOriginal": "AI Boom Powers South Korea’s September Exports Past $120 Billion",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjNaNXoxeFRWLTliQWt3blJFZzF6eTBQb0haTGFabElQV3hnbGZfMEJQbjJvS1ljdk1ncVFHUmY4dm42cHU2YWh3LTJkUHphSzV2a0JSeXZoVGh2RC1jLW9GcFEtQjdRblBlVUFmeEdCazEyY3dIeTlEeHVLckZSbE9wTjAyNnMxX1d3b2dBLS1nbHpxdlZCeXkxT0FjRWwy?oc=5",
       "publishedAt": "2026-10-01T03:14:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Senadores republicanos passam por uma semana difícil, sem grandes resultados a apresentar",
-      "titleOriginal": "GOP senators endure painful week with little to show for it",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUh0OXBfT0pkd3ozM0RHajRLTTJJeHpuNnhCcWZzY3hTa2JEdTE3MTdBdUNXMEtaemJGOGZBZTFLVnJsYXBTckt3UVk3QVBtc3UxZmE2VGVfQktweHNqS0ZWOC1nSk1NdVV4Z2FJZURNanpXVC1haEhYU1cwM2ZUazdR?oc=5",
-      "publishedAt": "2026-10-01T02:45:55.000Z"
     }
   ]
 }
