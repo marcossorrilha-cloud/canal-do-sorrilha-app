@@ -1,10 +1,31 @@
 {
-  "updatedAt": "2026-10-01T23:13:15.763Z",
+  "updatedAt": "2026-10-02T00:13:48.130Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "O apelo nos bastidores dos democratas da Câmara dos Deputados em prol das contribuições partidárias: ajudem-nos a enfrentar a MAGA Inc.",
+      "titleOriginal": "House Democrats' behind-the-scenes pitch for dues: Help us take on MAGA Inc.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWZFUktvS2JOU1N5b1JrU1kxRHc5TFpUVS1hMDZsM2dUeHZGc1BHRVVRdDZ6YnoyX2VXai0wanhkT280c1lnanZ5Ulp5eE9UZHZ6SHc1UXhGQjA2YzlmV0NkR2htcjBvUkZNbktyR0JvU1puU25yOG9VLThoTlBEYnRhajhaODdQNWc?oc=5",
+      "publishedAt": "2026-10-01T23:43:48.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Relatório federal afirma que nunca foram emitidos alertas sobre ventos aos pilotos envolvidos no acidente em Miami",
+      "title": "Os EUA impõem sanções à A7, uma empresa russa que ajuda a contornar restrições econômicas",
+      "titleOriginal": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
+      "link": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
+      "publishedAt": "2026-10-01T23:35:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que está previsto no projeto de lei de reforma do sistema de licenciamento?",
+      "titleOriginal": "What's in the permitting reform bill?",
+      "link": "https://thehill.com/newsletters/energy-environment/6124844-whats-in-the-permitting-reform-bill/",
+      "publishedAt": "2026-10-01T23:35:09.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Relatório federal afirma que nunca foram emitidos alertas sobre ventos aos pilotos envolvidos no acidente de Miami",
       "titleOriginal": "Wind Warnings Were Never Given to Pilots in Miami Crash, Federal Report Says",
       "link": "https://www.nytimes.com/2026/10/01/us/politics/ntsb-miami-amazon-crash.html",
       "publishedAt": "2026-10-01T23:02:33.000Z"
@@ -25,10 +46,17 @@
     },
     {
       "source": "The Hill",
-      "title": "O Pentágono aumenta a remuneração dos militares expostos a fogo inimigo pela primeira vez em mais de 20 anos",
+      "title": "O Pentágono aumenta o salário dos militares expostos a fogo inimigo pela primeira vez em mais de 20 anos",
       "titleOriginal": "Pentagon increases pay for troops in hostile fire for first time in more than 20 years",
       "link": "https://thehill.com/newsletters/defense-national-security/6124762-pentagon-increases-pay-for-troops-in-hostile-fire-for-first-time-in-over-20-years/",
       "publishedAt": "2026-10-01T22:33:40.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "5 pontos a serem destacados da entrevista combativa de Trump à revista *Time*",
+      "titleOriginal": "5 takeaways from Trump's combative Time interview",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmtJMllfWGZtYXJsbjNReXcyQnBZUmNWZ3lLYjhiMFZjdnJyQkdKOElSa1o5Q0daNXZOSVFNV0U1NDRCRWs1ck1mNzNneGtmSVMtenp5RTJyT1E0VWFjUkVOSC1jYkZfcUNveGV0ZzlBd1Z5Q1N4S19EYXJYYWFmWEFUUWd0Q3pC?oc=5",
+      "publishedAt": "2026-10-01T22:15:08.000Z"
     },
     {
       "source": "New York Times",
@@ -43,34 +71,6 @@
       "titleOriginal": "Watch live: Trump takes midterm campaign push to Oklahoma",
       "link": "https://thehill.com/homenews/campaign/6124121-watch-live-donald-trump-midterms-oklahoma-republicans/",
       "publishedAt": "2026-10-01T22:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Novas orientações do ICE proíbem perseguições de carro em alta velocidade e estabelecem regras mais rígidas para abordagens de trânsito, segundo um memorando",
-      "titleOriginal": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, a memo shows",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnNqWXlqZ1JVMUhlUUR5SVZSejVPMFloS2QyMnkzTEtjRjNVWUpoWDlBMG9xS3k5VElPMWE3Sy1yd0J6VHZqbmRray1CRmROMFdabEJ5VjF6OHgyd0FpS2JwZldfR1YwQWJ3dVE5Y25XTUxDUUwwaGVhOHNZX1haVXNrdmV3ZlZkRnpiT28zV2R5elZRcFNXRzBueTB2a1d0eVlTdzlNcVlTUQ?oc=5",
-      "publishedAt": "2026-10-01T21:59:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono está enviando mais de 4.000 fuzileiros navais e marinheiros para o Oriente Médio, à medida que o reforço de tropas ganha força",
-      "titleOriginal": "Pentagon sending more than 4,000 Marines, sailors to Middle East as buildup ramps up",
-      "link": "https://thehill.com/policy/defense/6124637-pentagon-deploys-marines-middle-east/",
-      "publishedAt": "2026-10-01T21:58:04.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O FBI prende funcionário do Departamento de Energia acusado de tentar apoiar os houthis",
-      "titleOriginal": "FBI arrests Energy Department employee accused of attempting to support Houthis",
-      "link": "https://thehill.com/homenews/state-watch/6124659-doe-employee-arrested-alleged-houthi-support/",
-      "publishedAt": "2026-10-01T21:54:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Deputado republicano: Nixon foi “destituído por um golpe” e “incriminado” durante o caso Watergate",
-      "titleOriginal": "GOP lawmaker: Nixon was 'couped out of office,' 'framed' during Watergate",
-      "link": "https://thehill.com/homenews/house/6124635-moore-nixon-couped-watergate/",
-      "publishedAt": "2026-10-01T21:50:27.000Z"
     }
   ]
 }
