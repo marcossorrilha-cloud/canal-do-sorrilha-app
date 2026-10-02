@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-02T20:48:18.496Z",
+  "updatedAt": "2026-10-02T22:34:39.468Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Milhares de imigrantes legais perdem a cobertura do Medicaid com o início dos cortes do programa “Big, Beautiful”",
-      "titleOriginal": "Thousands of legal immigrants lose Medicaid coverage as ‘Big, Beautiful’ cuts begin",
-      "link": "https://thehill.com/policy/healthcare/6126910-refugees-legal-immigrants-lose-medicaid-coverage/",
-      "publishedAt": "2026-10-02T20:45:59.000Z"
+      "source": "New York Times",
+      "title": "A AIPAC está gastando milhões para eleger aliados. E também está criando inimigos.",
+      "titleOriginal": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
+      "publishedAt": "2026-10-02T21:59:45.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump afirma que os EUA não vão proibir as exportações de diesel",
-      "titleOriginal": "Trump says US won't ban diesel exports",
-      "link": "https://thehill.com/policy/energy-environment/6126914-g7-releases-massive-fuel-stock/",
-      "publishedAt": "2026-10-02T20:43:59.000Z"
+      "title": "Famílias entram com ação judicial para impedir a proibição imposta por Trump ao atendimento médico a jovens trans",
+      "titleOriginal": "Families sue to stop Trump's ban on medical care for trans youth",
+      "link": "https://thehill.com/newsletters/healthcare/6127134-families-sue-trump-trans-care-ban/",
+      "publishedAt": "2026-10-02T21:56:28.000Z"
     },
     {
-      "source": "Politico",
-      "title": "Hochul estuda mudanças na lei estadual sobre estupro em meio à crise na Cornell",
-      "titleOriginal": "Hochul eyes changes to state’s rape law amid Cornell crisis",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/02/hochul-eyes-changes-to-states-rape-law-amid-cornell-crisis-01105127",
-      "publishedAt": "2026-10-02T20:07:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Legisladores de Iowa votarão o aumento do teto dos incentivos fiscais para uma usina siderúrgica de US$ 15 bilhões",
-      "titleOriginal": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
-      "publishedAt": "2026-10-02T20:07:00.000Z"
+      "source": "Axios",
+      "title": "Os democratas da Câmara querem uma vitória esmagadora. Isso pode sair caro para eles.",
+      "titleOriginal": "House Democrats want to win big. It could cost them.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTMyNzNGa1RFZzNSSjhwR05XNDJlMWNMeFd0RzFEZWFhc0ZNWUpyY2c3VGZkNno0MXNmc3JFenJlY1BaRFhSLXZWdHdNWmo4SjJSa1RJM2tld0FyMTlqcEJsb0U5NFFwSXNYYXZhY1pUdXZaakM4N1hpV0tDRlA5WW9B?oc=5",
+      "publishedAt": "2026-10-02T21:56:15.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump dá um show nas eleições de meio de mandato para um público que já está convencido",
-      "titleOriginal": "Trump Puts on a Midterms Show for an Audience That’s Already Sold",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html",
-      "publishedAt": "2026-10-02T20:01:52.000Z"
+      "title": "Os eleitores hispânicos, cada vez mais descontentes com os republicanos, podem decidir as eleições de meio de mandato",
+      "titleOriginal": "Hispanic Voters, Souring on Republicans, Could Decide the Midterms",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/midterms-hispanic-voters-trump.html",
+      "publishedAt": "2026-10-02T21:38:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Esqueça o abdômen. As mulheres em forma agora querem exibir seus bíceps.",
+      "titleOriginal": "Forget Abs. Fit Women Now Want to Show Off Their Biceps.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXpGbXBoVDAzSGR1N085dHhwRXp2VHR1QjZkU2RtdS02TVdJbThVWGJUN2hBUG85WW9MSjEtdmdsMTV0UnZWSmdNSnRYajRnQ3kxYm5VcmluMHBpallUbl95MHozeG1QZEQxLXVLUDctUHNaWUw3MlhpNjBaTWU4VmNJSFVsV1k5?oc=5",
+      "publishedAt": "2026-10-02T21:31:38.000Z"
     },
     {
       "source": "New York Times",
       "title": "Trump determinou o uso de dinheiro dos contribuintes para anúncios elogiando sua presidência",
       "titleOriginal": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
       "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
-      "publishedAt": "2026-10-02T19:36:45.000Z"
+      "publishedAt": "2026-10-02T21:28:50.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O candidato democrata ao Senado pelo Kansas diz “por favor, não” à ideia de Harris fazer campanha por ele",
-      "titleOriginal": "Kansas Democratic Senate nominee says 'please, no' to Harris campaigning for him",
-      "link": "https://thehill.com/homenews/campaign/6126765-hamilton-rejects-harris-campaign/",
-      "publishedAt": "2026-10-02T19:31:35.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O Kansas entra na disputa à medida que o cenário do Senado se inclina ainda mais para o lado republicano",
-      "titleOriginal": "Kansas enters the chat as Senate map tilts further into red territory",
-      "link": "https://www.politico.com/news/2026/10/02/kansas-becomes-a-surprise-senate-battleground-01105125",
-      "publishedAt": "2026-10-02T19:28:29.000Z"
+      "title": "Juiz suspende obra polêmica na fronteira, dentro e nas proximidades do Parque Nacional Big Bend, no Texas",
+      "titleOriginal": "Judge halts contentious border construction in and near Texas’s Big Bend National Park",
+      "link": "https://thehill.com/policy/energy-environment/6127037-trump-administration-border-halted-texas/",
+      "publishedAt": "2026-10-02T21:09:48.000Z"
     },
     {
       "source": "The Hill",
-      "title": "LePage discorda de Trump sobre o Irã, as tarifas contra o Canadá e a imigração em debate na Câmara do Maine",
-      "titleOriginal": "LePage breaks with Trump on Iran, Canada tariffs, immigration in Maine House debate",
-      "link": "https://thehill.com/homenews/campaign/6126725-lepage-dunlap-debate-maine/",
-      "publishedAt": "2026-10-02T19:25:14.000Z"
+      "title": "Trump não dá importância à incerteza da Coreia do Sul sobre o investimento de US$ 54 bilhões no setor energético do Alasca",
+      "titleOriginal": "Trump shrugs off South Korea's uncertainty on $54B Alaska energy investment",
+      "link": "https://thehill.com/homenews/administration/6126997-trump-south-korea-alaska-lng/",
+      "publishedAt": "2026-10-02T21:05:47.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Grassley pede que o governo Trump proíba o kratom “AGORA”",
-      "titleOriginal": "Grassley calls on Trump administration to ban kratom 'NOW'",
-      "link": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/",
-      "publishedAt": "2026-10-02T18:43:42.000Z"
+      "title": "Trump diz que está “preocupado” com a situação de Whatley na Carolina do Norte",
+      "titleOriginal": "Trump says he's 'worried' about Whatley in North Carolina",
+      "link": "https://thehill.com/homenews/campaign/6126981-trump-worried-whatley-roy-cooper/",
+      "publishedAt": "2026-10-02T21:04:20.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Milhares de imigrantes em situação regular perdem a cobertura do Medicaid com o início dos “grandes e belos” cortes",
+      "titleOriginal": "Thousands of immigrants with legal status lose Medicaid coverage as 'big, beautiful' cuts begin",
+      "link": "https://thehill.com/homenews/6126910-refugees-legal-immigrants-lose-medicaid-coverage/",
+      "publishedAt": "2026-10-02T20:45:59.000Z"
     }
   ]
 }
