@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-02T02:17:26.676Z",
+  "updatedAt": "2026-10-02T06:12:46.013Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | O bilionário Peter Thiel está por trás da compra da Casa Encantada por US$ 130 milhões",
+      "titleOriginal": "Exclusive | Billionaire Peter Thiel Is Behind the $130 Million Purchase of Casa Encantada",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFg1QUpqYndXVVlCWkdONC0zTEdkV19kN2RxcTd2bWNwdkRCSXVybmFPVExFbjhmMXdzNjhfSFVsTGF5VmxsR2NlVjN6aG5FS29wQ3pZMDdyeElUM1MtMXd5LWd3QXo2UVRqSXFwU0tQcjUzeUs4NS1fSWJyc3Y1ZjJoWWNhdGFsMWdnUDZTY0V4QUVYVU13?oc=5",
+      "publishedAt": "2026-10-02T06:01:18.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Senadores democratas questionam autoridades do governo Trump sobre acordo do Pentágono envolvendo petróleo venezuelano",
+      "titleOriginal": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU9rSGh2RjZsanpNLVJQdDNMTk5yWVhTSjVqR05xT0Jwa0lUVG1LUXQ1cnVMaHg1YzZsbnVDelJteE9hQ0d3Y3ZSYWJfNGdGZW5tQjVyMzNXUUNIM0huVzFkV2pwVWJyYm9zVTlEMElwcVJXa29aOUt5d1RQcVZkc1Npa3RuZ0VsXzVjd3d1NHkza3JyRHo5TTR3MUtHaWp2elpmTVNFbnBzZ2k0eEhzTXF5VnJJLWtheHVkYXpXRlZldDUyU3F3NFpISUU3UQ?oc=5",
+      "publishedAt": "2026-10-02T04:12:45.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Adam Hamilton fala sobre fé, Trump e a disputa pelo Kansas",
+      "titleOriginal": "Adam Hamilton on faith, Trump and the fight for Kansas",
+      "link": "https://www.politico.com/video/2026/10/01/adam-hamilton-on-faith-trump-and-the-fight-for-kansas-2188689",
+      "publishedAt": "2026-10-02T03:59:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump dá um show nas eleições de meio de mandato para um público que já está convencido",
+      "titleOriginal": "Trump Puts on a Midterms Show for an Audience That’s Already Sold",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html",
+      "publishedAt": "2026-10-02T03:58:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump brinca que Paxton é “um pé no saco” e “um pouco polêmico”",
+      "titleOriginal": "Trump quips Paxton is ‘pain in the ass,’ ‘a little controversial’",
+      "link": "https://thehill.com/homenews/administration/6124986-trump-paxton-talarico-texas-senate-race/",
+      "publishedAt": "2026-10-02T03:17:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça afirma que a Faculdade de Direito da UCLA utilizou ilegalmente o critério racial em suas admissões",
+      "titleOriginal": "DOJ says UCLA law school illegally used race in their admissions",
+      "link": "https://thehill.com/regulation/court-battles/6124974-doj-accuses-ucla-law-discrimination/",
+      "publishedAt": "2026-10-02T02:54:50.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump elogia caminhões, tarifas e Paxton durante visita a Denton",
+      "titleOriginal": "Trump praises trucks, tariffs and Paxton during Denton visit",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU29FSzJVZVNLOVRQQV9XNXB2ZnVuR2N0djkzQ19XbWttR1ZFVGxDMjU0Y1JibDJ0RkQ2NFU0ZXhHekxZdWlOTmRWR3VqUlFaZTFTaWp2QTZ0MTh4d25fYnRxNWxtalNydjdCSnAwMTFOSnM3Q1dVQndLWTFrV3Fxdjh0ckZIVUFicXRxWGJkSEZHYkx5T1Y5bWp3?oc=5",
+      "publishedAt": "2026-10-02T02:17:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pelosi cancela evento na Universidade de Cornell em meio a investigação sobre estupro em república estudantil",
+      "titleOriginal": "Pelosi cancels Cornell University event amid frat house rape investigation",
+      "link": "https://thehill.com/homenews/house/6124898-pelosi-cancels-cornell-event/",
+      "publishedAt": "2026-10-02T01:16:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Homem de Massachusetts é acusado de cyberstalking contra a podcaster e ex-funcionária de Trump, Katie Miller",
+      "titleOriginal": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
+      "publishedAt": "2026-10-02T00:48:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "Apelo dos democratas da Câmara para a arrecadação de contribuições: ajudem-nos a enfrentar a MAGA Inc.",
       "titleOriginal": "House Dems' pitch for dues: Help us take on MAGA Inc.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWZFUktvS2JOU1N5b1JrU1kxRHc5TFpUVS1hMDZsM2dUeHZGc1BHRVVRdDZ6YnoyX2VXai0wanhkT280c1lnanZ5Ulp5eE9UZHZ6SHc1UXhGQjA2YzlmV0NkR2htcjBvUkZNbktyR0JvU1puU25yOG9VLThoTlBEYnRhajhaODdQNWc?oc=5",
-      "publishedAt": "2026-10-02T00:33:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Medicare enfraquece o novo modelo de precificação de medicamentos",
-      "titleOriginal": "Medicare de-fangs new drug pricing model",
-      "link": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/",
-      "publishedAt": "2026-10-01T23:51:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os EUA impõem sanções à A7, uma empresa russa que ajuda a contornar restrições econômicas",
-      "titleOriginal": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-      "link": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
-      "publishedAt": "2026-10-01T23:35:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O que está previsto no projeto de lei de reforma do sistema de licenciamento?",
-      "titleOriginal": "What's in the permitting reform bill?",
-      "link": "https://thehill.com/newsletters/energy-environment/6124844-whats-in-the-permitting-reform-bill/",
-      "publishedAt": "2026-10-01T23:35:09.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Relatório federal afirma que nunca foram emitidos alertas sobre o vento aos pilotos envolvidos no acidente em Miami",
-      "titleOriginal": "Wind Warnings Were Never Given to Pilots in Miami Crash, Federal Report Says",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/ntsb-miami-amazon-crash.html",
-      "publishedAt": "2026-10-01T23:02:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz rejeita os argumentos do governo Trump para não divulgar o memorando que justifica o ataque ao barco",
-      "titleOriginal": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
-      "link": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
-      "publishedAt": "2026-10-01T22:59:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Autoridade do setor imobiliário, que tinha como alvo os adversários de Trump, reduz o escritório de fiscalização",
-      "titleOriginal": "Housing Official, Who Targeted Trump Foes, Cuts Watchdog Office",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/bill-pulte-trump-inspector-general.html",
-      "publishedAt": "2026-10-01T22:34:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono aumenta o salário dos militares expostos a fogo inimigo pela primeira vez em mais de 20 anos",
-      "titleOriginal": "Pentagon increases pay for troops in hostile fire for first time in more than 20 years",
-      "link": "https://thehill.com/newsletters/defense-national-security/6124762-pentagon-increases-pay-for-troops-in-hostile-fire-for-first-time-in-over-20-years/",
-      "publishedAt": "2026-10-01T22:33:40.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Abdul El-Sayed, candidato ao Senado por Michigan, continua tentando unir a base democrata",
-      "titleOriginal": "Abdul El-Sayed, a Senate candidate in Michigan, Is Still Trying to Unite the Democratic Base",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html",
-      "publishedAt": "2026-10-01T22:05:50.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Homem de Massachusetts é acusado de cyberstalking contra a podcaster e ex-funcionária do governo Trump, Katie Miller",
-      "titleOriginal": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
-      "publishedAt": "2026-10-01T22:00:40.000Z"
+      "publishedAt": "2026-10-02T00:12:33.000Z"
     }
   ]
 }
