@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-02T16:16:40.589Z",
+  "updatedAt": "2026-10-02T18:41:19.583Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Trump deve nomear Jay Clayton para o cargo de “czar” da IA",
-      "titleOriginal": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
-      "publishedAt": "2026-10-02T16:10:44.000Z"
+      "title": "Questões incomuns no tribunal de Guantánamo chamam a atenção à medida que um caso finalmente chega a julgamento",
+      "titleOriginal": "Unusual Issues in Court at Guantánamo Stand Out as a Case Finally Heads to Trial",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/guantanamo-uss-cole-case.html",
+      "publishedAt": "2026-10-02T18:29:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça entra com ação contra Maryland por causa da proibição do uso de máscaras por agentes federais",
+      "titleOriginal": "Justice Department sues Maryland over federal agent mask ban",
+      "link": "https://thehill.com/homenews/administration/6126569-justice-department-sues-maryland-over-federal-agent-mask-ban/",
+      "publishedAt": "2026-10-02T18:14:15.000Z"
     },
     {
       "source": "New York Times",
-      "title": "A enxurrada de ações judiciais mostra que ambos os partidos estão se preparando para os desafios pós-eleitorais",
-      "titleOriginal": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
-      "publishedAt": "2026-10-02T16:04:35.000Z"
+      "title": "As vendas de picapes e SUVs de grande porte caem à medida que os preços dos combustíveis disparam",
+      "titleOriginal": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+      "link": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "publishedAt": "2026-10-02T18:07:44.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Acordo de US$ 2,5 bilhões com a Amazon: mais pagamentos estão sendo enviados, com possibilidade de uma nova rodada",
-      "titleOriginal": "$2.5 billion Amazon settlement: More payments being sent out, with another round possible",
-      "link": "https://thehill.com/homenews/6124122-2-5-billion-amazon-settlement-more-payments-being-sent-out-with-another-round-possible/",
-      "publishedAt": "2026-10-02T16:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Uma campanha desastrosa para as eleições intermediárias de 2026",
-      "titleOriginal": "Opinion | A Blundering 2026 Midterm Campaign",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TLTlYM055M2RoLVo2TUFGam1HSGF5UWdKRmg3ZndvWFk1Wk1ZZFN3ZTZlbGloX3pYVU9YQWUwVF9ZNkZobFFrRERpMFFiU0toMVBuYUp2MDJLTGpkZndWejY2SWZfaGpyQXRydzAyb29hRWR6dzZkSzZfMA?oc=5",
-      "publishedAt": "2026-10-02T15:55:34.000Z"
+      "title": "Mais um ex-governador do Partido Republicano apoia Hamilton em detrimento de Marshall na disputa pelo Senado do Kansas",
+      "titleOriginal": "Another former GOP governor backs Hamilton over Marshall for Kansas Senate",
+      "link": "https://thehill.com/homenews/campaign/6126457-hayden-endorses-hamilton-kansas-senate/",
+      "publishedAt": "2026-10-02T17:52:10.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Super PAC republicano transfere recursos da Carolina do Norte para o Kansas",
-      "titleOriginal": "Republican super PAC shifts money from North Carolina to Kansas",
-      "link": "https://thehill.com/homenews/6126189-senate-pac-shifts-ad-spend/",
-      "publishedAt": "2026-10-02T15:51:37.000Z"
+      "title": "Progressistas apresentam projeto de lei para coibir o uso das câmeras da Flock",
+      "titleOriginal": "Progressives unveil legislation cracking down on Flock cameras",
+      "link": "https://thehill.com/policy/technology/6126259-sanders-merkley-ocasio-cortez-surveillance-ban/",
+      "publishedAt": "2026-10-02T17:32:34.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Hegseth anuncia que todos os militares dos EUA terão um dia de folga para votar em outubro",
-      "titleOriginal": "Hegseth announces all US troops will get 1 day off to vote in October",
-      "link": "https://thehill.com/policy/defense/6126137-pete-hegseth-stand-down-order-troops-vote/",
-      "publishedAt": "2026-10-02T15:41:06.000Z"
+      "title": "Vance deve realizar comícios no Alasca à medida que a disputa acirrada pelo Senado se intensifica",
+      "titleOriginal": "Vance set to rally in Alaska as battleground Senate race tightens",
+      "link": "https://thehill.com/homenews/campaign/6126416-vance-rally-alaska-senate-race/",
+      "publishedAt": "2026-10-02T17:30:25.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Os ricos de quem os democratas não falam",
-      "titleOriginal": "The Rich People Democrats Aren’t Talking About",
-      "link": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-      "publishedAt": "2026-10-02T15:08:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O G7 vai liberar 100 milhões de barris de combustível em meio aos altos preços",
-      "titleOriginal": "G7 to release 100M barrels of fuel amid high prices",
-      "link": "https://thehill.com/policy/energy-environment/6126022-trump-europe-diesel-stockpile-g7/",
-      "publishedAt": "2026-10-02T15:03:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senador republicano afirma que as eleições intermediárias podem ser parecidas com as de 2006: “E 2006 foi realmente péssimo para os republicanos”",
-      "titleOriginal": "GOP senator says midterms could be like 2006: 'And 2006 was really bad for Republicans'",
-      "link": "https://thehill.com/homenews/senate/6126002-steve-daines-republicans-midterms-2006/",
-      "publishedAt": "2026-10-02T14:52:51.000Z"
+      "source": "Politico",
+      "title": "Principais grupos do Partido Republicano reduzem gastos na Carolina do Norte",
+      "titleOriginal": "Top GOP groups scale back North Carolina spending",
+      "link": "https://www.politico.com/news/2026/10/02/republicans-slf-scale-back-north-carolina-senate-spending-01104964",
+      "publishedAt": "2026-10-02T17:03:21.000Z"
     },
     {
       "source": "Axios",
-      "title": "Democratas destinam US$ 3,4 milhões para investigar as acusações contra Susan Collins",
-      "titleOriginal": "Democrats put $3.4M behind Susan Collins allegations",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUdhanhZeGdMSkE5NFR4RDdaUENJMkgxR0lra0FPRFlobVlkSDBQeHZiZVVxaHdFSVQwQjRBS3FNZGNEbTNNb1R3YTl3M09qS1YwaWFVUXUzeTNsY3V6QndEUF9EaS1tSk1uVHNXa29GT3otM2t4eG9VT0tWOXQ0MnVIUGVWUVE?oc=5",
-      "publishedAt": "2026-10-02T14:45:16.000Z"
+      "title": "O confronto entre Lula e Bolsonaro no Brasil se desenrola à sombra de Trump — com a Amazônia em jogo",
+      "titleOriginal": "Brazil's Lula-Bolsonaro showdown unfolds in Trump's shadow — with the Amazon at stake",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFPazNuWTRHcW5lMEYyZS1XUVNITUh6VjlQMzlZRmxFNjFUd1Y5RXF4VmxvNWVQd2JsaVpoakVXeml0VF9JejM0QWltSUg1YWxRb1JyQlpCS2Q0ZGdScGFuZTBJWGxxVTZCbXN1czNwRTYwaWNNeHFtT09rVVA2b245d3Fkck5ZVWVv?oc=5",
+      "publishedAt": "2026-10-02T17:00:54.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Autoridade do setor imobiliário, que tinha como alvo os adversários de Trump, reduz o escritório de fiscalização",
+      "titleOriginal": "Housing Official, Who Targeted Trump Foes, Cuts Watchdog Office",
+      "link": "https://www.nytimes.com/2026/10/01/us/politics/bill-pulte-trump-inspector-general.html",
+      "publishedAt": "2026-10-02T16:49:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O presidente Trump está com a câmera desligada durante a videoconferência dos líderes do G7 pelo Zoom",
+      "titleOriginal": "President Trump has his camera off for G7 leader zoom",
+      "link": "https://thehill.com/homenews/6126304-g7-oil-market-stabilization-plan/",
+      "publishedAt": "2026-10-02T16:47:20.000Z"
     }
   ]
 }
