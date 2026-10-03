@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-02T22:34:39.468Z",
+  "updatedAt": "2026-10-03T00:30:57.598Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Trump faz uma rara visita presidencial a terras indígenas para um comício",
+      "titleOriginal": "Trump makes rare presidential visit to tribal land for rally",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeld3MWFSQVU5ci1kTUNmbTdvc2QwZlhlUHB0WC03TnpvU1h1SENVM3JfeDd6bEQ0a0FTUERVRGNJVWdhUktrQThTa1VKck4wVzVzcFFHQUJUMlhRXzl6bUxQQkpKdk9pRjFwMDNjMjNBaXZuWG8yMExJRktFakZGdDVncC02UWo0dUVvTTk2dw?oc=5",
+      "publishedAt": "2026-10-03T00:04:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os irmãos que dominam o mercado de reparos automotivos de US$ 211 bilhões",
+      "titleOriginal": "The Brothers Dominating the $211 Billion Car Repair Market",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcnZRSllmN1U3czJjUE01S0lpS3BDTTRCZlVoQ2pvbVZLOHIzay03cVdrREZOWlJkd28xbUppekJsd2dMUUdnamFjMDZMbDNPLUU3M21QUnRjN1FUak9oazVZTnBuNFpxTy0wdDNKTllQR3pIc29VX1EwSlRncmc?oc=5",
+      "publishedAt": "2026-10-03T00:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A enxurrada de ações judiciais mostra que ambos os partidos estão se preparando para os desafios pós-eleitorais",
+      "titleOriginal": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
+      "publishedAt": "2026-10-02T23:15:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O bilionário de cabelo à mullet e fã de memes por trás do aplicativo de IA de sucesso da Meta",
+      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "publishedAt": "2026-10-02T23:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Como a classe política de Washington reagiu ao acordo de Trump sobre IA?",
+      "titleOriginal": "How did the beltway take Trump's AI accord?",
+      "link": "https://thehill.com/newsletters/technology/6127204-washington-skeptical-trump-ai-pact-newsletter/",
+      "publishedAt": "2026-10-02T22:45:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Alito: A revogação da decisão no caso Roe v. Wade exigiu “coragem” dos juízes da Suprema Corte",
+      "titleOriginal": "Alito: Overturning Roe v. Wade took 'courage' from Supreme Court justices",
+      "link": "https://thehill.com/regulation/court-battles/6127182-alito-roe-wade-overturn-abortion/",
+      "publishedAt": "2026-10-02T22:45:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Kushner refuta reportagem da CNN sobre investimentos israelenses ligados às forças armadas",
+      "titleOriginal": "Kushner pushes back on CNN report about Israeli investments tied to military",
+      "link": "https://thehill.com/homenews/administration/6127113-kushner-denies-cnn-israel-investment-report/",
+      "publishedAt": "2026-10-02T22:33:40.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O ex-deputado federal do Partido Republicano David Rivera foi condenado a 10 anos de prisão por fazer lobby secreto em favor da Venezuela",
+      "titleOriginal": "Former GOP Rep. David Rivera sentenced to 10 years for secret Venezuela lobbying",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDJHQVpfRUJjeFFnWm9ySHViTkYzWTNnWllhYWYyWnQwYzlQYjA0RF81T2RMSEFZNVJWQldFUHBlRnJWZlktc0dPMzFJZXFUNWdVSDVwNkdQdnIxbTJQa091SUNsVk12T1dFNWdjXzl0akRqTk1OVXhKM0FEUW9OUDBmN3hkU0RuUEhGRUlQaXlDTGNta1JsWnpGN1JmYWw3SzB6MHh5SQ?oc=5",
+      "publishedAt": "2026-10-02T22:01:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A AIPAC está gastando milhões para eleger aliados. E também está criando inimigos.",
@@ -15,62 +71,6 @@
       "titleOriginal": "Families sue to stop Trump's ban on medical care for trans youth",
       "link": "https://thehill.com/newsletters/healthcare/6127134-families-sue-trump-trans-care-ban/",
       "publishedAt": "2026-10-02T21:56:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os democratas da Câmara querem uma vitória esmagadora. Isso pode sair caro para eles.",
-      "titleOriginal": "House Democrats want to win big. It could cost them.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTMyNzNGa1RFZzNSSjhwR05XNDJlMWNMeFd0RzFEZWFhc0ZNWUpyY2c3VGZkNno0MXNmc3JFenJlY1BaRFhSLXZWdHdNWmo4SjJSa1RJM2tld0FyMTlqcEJsb0U5NFFwSXNYYXZhY1pUdXZaakM4N1hpV0tDRlA5WW9B?oc=5",
-      "publishedAt": "2026-10-02T21:56:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os eleitores hispânicos, cada vez mais descontentes com os republicanos, podem decidir as eleições de meio de mandato",
-      "titleOriginal": "Hispanic Voters, Souring on Republicans, Could Decide the Midterms",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/midterms-hispanic-voters-trump.html",
-      "publishedAt": "2026-10-02T21:38:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Esqueça o abdômen. As mulheres em forma agora querem exibir seus bíceps.",
-      "titleOriginal": "Forget Abs. Fit Women Now Want to Show Off Their Biceps.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXpGbXBoVDAzSGR1N085dHhwRXp2VHR1QjZkU2RtdS02TVdJbThVWGJUN2hBUG85WW9MSjEtdmdsMTV0UnZWSmdNSnRYajRnQ3kxYm5VcmluMHBpallUbl95MHozeG1QZEQxLXVLUDctUHNaWUw3MlhpNjBaTWU4VmNJSFVsV1k5?oc=5",
-      "publishedAt": "2026-10-02T21:31:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump determinou o uso de dinheiro dos contribuintes para anúncios elogiando sua presidência",
-      "titleOriginal": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
-      "publishedAt": "2026-10-02T21:28:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz suspende obra polêmica na fronteira, dentro e nas proximidades do Parque Nacional Big Bend, no Texas",
-      "titleOriginal": "Judge halts contentious border construction in and near Texas’s Big Bend National Park",
-      "link": "https://thehill.com/policy/energy-environment/6127037-trump-administration-border-halted-texas/",
-      "publishedAt": "2026-10-02T21:09:48.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump não dá importância à incerteza da Coreia do Sul sobre o investimento de US$ 54 bilhões no setor energético do Alasca",
-      "titleOriginal": "Trump shrugs off South Korea's uncertainty on $54B Alaska energy investment",
-      "link": "https://thehill.com/homenews/administration/6126997-trump-south-korea-alaska-lng/",
-      "publishedAt": "2026-10-02T21:05:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump diz que está “preocupado” com a situação de Whatley na Carolina do Norte",
-      "titleOriginal": "Trump says he's 'worried' about Whatley in North Carolina",
-      "link": "https://thehill.com/homenews/campaign/6126981-trump-worried-whatley-roy-cooper/",
-      "publishedAt": "2026-10-02T21:04:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Milhares de imigrantes em situação regular perdem a cobertura do Medicaid com o início dos “grandes e belos” cortes",
-      "titleOriginal": "Thousands of immigrants with legal status lose Medicaid coverage as 'big, beautiful' cuts begin",
-      "link": "https://thehill.com/homenews/6126910-refugees-legal-immigrants-lose-medicaid-coverage/",
-      "publishedAt": "2026-10-02T20:45:59.000Z"
     }
   ]
 }
