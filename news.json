@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-03T00:30:57.598Z",
+  "updatedAt": "2026-10-03T01:26:41.955Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que irá assistir ao jogo de futebol americano entre Geórgia e Alabama, em Tuscaloosa",
+      "titleOriginal": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
+      "link": "https://thehill.com/homenews/administration/6127311-trump-alabama-georgia-college-football/",
+      "publishedAt": "2026-10-03T00:45:05.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump faz uma rara visita presidencial a terras indígenas para um comício",
@@ -53,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "O ex-deputado federal do Partido Republicano David Rivera foi condenado a 10 anos de prisão por fazer lobby secreto em favor da Venezuela",
+      "title": "O ex-deputado republicano David Rivera foi condenado a 10 anos de prisão por fazer lobby secreto em favor da Venezuela",
       "titleOriginal": "Former GOP Rep. David Rivera sentenced to 10 years for secret Venezuela lobbying",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDJHQVpfRUJjeFFnWm9ySHViTkYzWTNnWllhYWYyWnQwYzlQYjA0RF81T2RMSEFZNVJWQldFUHBlRnJWZlktc0dPMzFJZXFUNWdVSDVwNkdQdnIxbTJQa091SUNsVk12T1dFNWdjXzl0akRqTk1OVXhKM0FEUW9OUDBmN3hkU0RuUEhGRUlQaXlDTGNta1JsWnpGN1JmYWw3SzB6MHh5SQ?oc=5",
       "publishedAt": "2026-10-02T22:01:00.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
       "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
       "publishedAt": "2026-10-02T21:59:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Famílias entram com ação judicial para impedir a proibição imposta por Trump ao atendimento médico a jovens trans",
-      "titleOriginal": "Families sue to stop Trump's ban on medical care for trans youth",
-      "link": "https://thehill.com/newsletters/healthcare/6127134-families-sue-trump-trans-care-ban/",
-      "publishedAt": "2026-10-02T21:56:28.000Z"
     }
   ]
 }
