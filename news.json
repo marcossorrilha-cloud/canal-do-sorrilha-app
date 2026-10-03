@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:17:42.005Z",
+  "updatedAt": "2026-10-03T17:37:13.399Z",
   "count": 10,
   "items": [
     {
@@ -15,13 +15,6 @@
       "titleOriginal": "Trump posts GOP senator's cell phone number over daylight savings act stall",
       "link": "https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number/",
       "publishedAt": "2026-10-03T16:20:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O que os eleitores democratas realmente pensam do partido, da DSA e das eleições de meio de mandato",
-      "titleOriginal": "What Democratic Voters Actually Think of the Party, the DSA and the Midterms",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUdkWkZEWG5xZl9UdFJyQ3BOa1VBSjJFTHNYNEhVNTVlYXFpbklEd1FZVjk1XzVXWld4dFNUb0d6SUZuVGUtTGtGXzdMOWsyajl1SHh1WUJfRDliZ2tDWVBWRHF1M21DQTZxMmY0RlloaG5VMEJqUHVGbWg3ckpyeS05TVFsN21QN2hCajdTUzRySUNsNGQ3Vll2bmV1aFdQX0N5ZHpWT2ZEa1NYek1YcjE4WE96dTUwSVNUemdhZGg?oc=5",
-      "publishedAt": "2026-10-03T16:01:31.000Z"
     },
     {
       "source": "The Hill",
@@ -67,10 +60,17 @@
     },
     {
       "source": "Axios",
-      "title": "EUA vão propor um sistema de notificação de emergência sobre IA em conjunto com a China",
+      "title": "EUA vão propor um sistema de notificação de emergência sobre IA com a China",
       "titleOriginal": "U.S. to propose emergency AI notification system with China",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bGhaUy1OUHBHRkFfTTlIMk56Yl9MNWtjaUVCcEkxQ041bGRkUUZIZzFYRW9oSW5tT1hUYTB6VVZnVnRfLXEyd0VQd2p2alQxNjRNZzcxeWdkOVBRc2txRklUc2RhOGFUVEJZYg?oc=5",
       "publishedAt": "2026-10-03T13:38:22.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump fala sobre 2028, as eleições intermediárias e os problemas com a mídia em jantar oferecido por Murdoch",
+      "titleOriginal": "Trump talks 2028, midterms and media woes at Murdoch dinner",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWmMyRTdFTmN4MlY4dWdKUVc4aG8waU9zc2w2NjZTRjB6T3NwM2VaNnpsSlRVUktibDNWOTBPLUZyUnFuNXBmaVFpRy1SQ2FCRG00eHZ3RFVEZ21xSU1GUFFfbHp6MUZ1SEI4S2VKQlpKTlBWYzNr?oc=5",
+      "publishedAt": "2026-10-03T12:48:02.000Z"
     }
   ]
 }
