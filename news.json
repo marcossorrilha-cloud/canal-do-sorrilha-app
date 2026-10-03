@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-03T21:16:43.233Z",
+  "updatedAt": "2026-10-03T23:19:41.013Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Com o retorno de Elon Musk a Washington, possíveis conflitos de interesse voltam à tona",
-      "titleOriginal": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
-      "publishedAt": "2026-10-03T21:14:45.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Ted Cruz critica JD Vance, chamando-o de “inseguro”, e afirma que está focado em ajudar o Partido Republicano a vencer as eleições de meio de mandato",
-      "titleOriginal": "Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms",
-      "link": "https://www.politico.com/news/2026/10/03/ted-cruz-blasts-jd-vance-as-insecure-says-hes-focused-on-helping-gop-win-midterms-01106033",
-      "publishedAt": "2026-10-03T20:15:41.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os republicanos não têm um bicho-papão bem definido para as eleições intermediárias deste ano",
-      "titleOriginal": "Republicans don’t have a clear boogeyman for this year’s midterms",
-      "link": "https://www.politico.com/news/2026/10/03/gop-midterm-boogeyman-biden-democratic-socialism-01105904",
-      "publishedAt": "2026-10-03T20:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como as políticas de deportação de Trump abalaram uma disputa eleitoral para a Câmara no sul da Flórida",
-      "titleOriginal": "How Trump’s Deportation Policies Have Rocked a South Florida House Race",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/how-a-provocative-ad-on-trump-and-immigration-stirred-a-florida-house-race.html",
-      "publishedAt": "2026-10-03T19:43:53.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Trump pede que as pessoas liguem para o senador Tom Cotton, do Arkansas, em uma campanha pela adoção permanente do horário de verão",
-      "titleOriginal": "Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckZSXzNaNjdtaXNvU0RwSTkzZWROM3FQRVg3aG1HZHlhM0RpLVo0LUFDd3lNSUtIZnRkN0RoRGVOaTNVcmc5ajE5LXRBWk05eU5HYWNmUnZGU0ZHZ3VnTkhRR0NKWmx5QWE3UjBkWUw0N0VpTTZnbC1YeGstOHp2Sm1vcndOS2xlNEVFb2piSUEwdW1BRjFlNVNNMWJwUUtqeEZLcFM0bVZFWlE?oc=5",
-      "publishedAt": "2026-10-03T19:42:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Diplomatas iranianos foram “expulsos” dos EUA após ignorarem a ordem de saída",
-      "titleOriginal": "Iranian diplomats \"kicked out\" of U.S. after ignoring order to leave",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OVpWdjZweGY1ZjBmOC1BS2J4RTBaa3g0b0ZzTWJGeVJZX3A5am5EOWpFWFFXWFEzS2dtb3I0UVNaNThMb0h2SWlRbGtHMmprT1ViOWFiaFhIQUl0WjBMSkZveG1IVTZt?oc=5",
-      "publishedAt": "2026-10-03T19:28:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Casa Branca defende a proibição de alguns veículos de comunicação, agora invocando padrões de “profissionalismo”",
-      "titleOriginal": "White House defends media outlet bans, now citing 'professionalism' standards",
-      "link": "https://thehill.com/regulation/court-battles/6127654-white-house-defends-press-ban-professionalism/",
-      "publishedAt": "2026-10-03T19:22:07.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com a aproximação das eleições de meio de mandato, o juiz Alito afirma que avalia a cada ano se deve se aposentar",
-      "titleOriginal": "As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html",
-      "publishedAt": "2026-10-03T18:52:48.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump exorta os republicanos a votarem pelo correio após criticar essa prática",
-      "titleOriginal": "Trump Urges Republicans to Vote By Mail After Criticizing Practice",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-republicans-mail-voting.html",
-      "publishedAt": "2026-10-03T18:44:42.000Z"
+      "title": "Um golpe duro em Ohio: quase 1.400 demissões em fábrica de caminhões poucos dias antes do comício de Trump",
+      "titleOriginal": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2VFQmhSR1ltcnA1UmM2VFJ6bk5RTWljYjF0QW84MFFYOVE3ZUhGdEpyUVNLellvNGVLd014SzM1ZlY3blgyVDdnZmxjeDdpTnZuc1JzOTBtS19ZWlp5bWJTeHg5X1lqcGl0M08zWlNqS0xwUThybE5qOEZORkJrTTVqdHZYMG1DM1hpYXZLalZjS1M3UmY1SW9iVQ?oc=5",
+      "publishedAt": "2026-10-03T23:07:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Trump anuncia mais um pagamento aos eleitores antes das eleições de meio de mandato",
       "titleOriginal": "Trump Announces Another Payment to Voters Ahead of Midterms",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0ZUQTRObml5ZTljU3FKSFhqWXlEQ0djX3ViZ052Z0tsNUhaQkRQWXR4X3A5Z2R5X1UzbjRCLUMxclZwUHJWcGszT1BfRV9jcDFIdWh5WXJUNDI3ZmEzUWl1WkQxMG1lT1hGSzFmeGhZMTRnTFpBX3hBQUkzX2JGbTZGcHRfZkViWUJwOVAzOWFPOFVWQVAtTjlfcENQcWRfakk0TEdhSQ?oc=5",
-      "publishedAt": "2026-10-03T18:34:00.000Z"
+      "publishedAt": "2026-10-03T22:55:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "No Alabama, Trump revive seus dias de glória (desta vez com alguns assentos vazios)",
+      "titleOriginal": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
+      "publishedAt": "2026-10-03T22:32:46.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Enquanto se divorcia de Ken Paxton, a esposa dele pede aos texanos que votem nele",
+      "titleOriginal": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html",
+      "publishedAt": "2026-10-03T22:31:40.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As negociações entre os EUA e a Rússia sobre a Ucrânia agora envolvem um acordo petrolífero vinculado a aliados de Trump",
+      "titleOriginal": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "publishedAt": "2026-10-03T22:25:36.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Forças federais etíopes retomam o aeroporto de Mekelle das mãos dos combatentes do Tigray, segundo moradores",
+      "titleOriginal": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkctc2U3eU5ad2dXTEctRnN5VHFTVllRWE42VW1hQ1RsR2pMZklScnI2R3dBd0hvUllFeFdTbU9zckQ4MnBCeFZleTVOekNuX3l2eHl1Sy1BYnJBV0hvVnlQaGk0UEdYM05zcWRsZ2hrNmpHQUYtVlJXTHlreXBPRS1PVzlGMnVWMjZhMVY4cTFuWVFHLVFGdHVjR3RaRVA4UjJ2S004TS1yS2R4NlRycWZ3?oc=5",
+      "publishedAt": "2026-10-03T22:09:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os democratas podem ter encontrado a fórmula para conquistar cadeiras no Senado em estados republicanos",
+      "titleOriginal": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
+      "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
+      "publishedAt": "2026-10-03T22:02:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz federal decide que buscas sem mandado em câmeras da Flock podem violar a 4ª Emenda",
+      "titleOriginal": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
+      "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
+      "publishedAt": "2026-10-03T21:43:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump pede que as pessoas liguem para o senador Tom Cotton, do Arkansas, em uma campanha pela adoção permanente do horário de verão",
+      "titleOriginal": "Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckZSXzNaNjdtaXNvU0RwSTkzZWROM3FQRVg3aG1HZHlhM0RpLVo0LUFDd3lNSUtIZnRkN0RoRGVOaTNVcmc5ajE5LXRBWk05eU5HYWNmUnZGU0ZHZ3VnTkhRR0NKWmx5QWE3UjBkWUw0N0VpTTZnbC1YeGstOHp2Sm1vcndOS2xlNEVFb2piSUEwdW1BRjFlNVNNMWJwUUtqeEZLcFM0bVZFWlE?oc=5",
+      "publishedAt": "2026-10-03T21:28:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Com o retorno de Elon Musk a Washington, possíveis conflitos de interesse voltam à tona",
+      "titleOriginal": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
+      "publishedAt": "2026-10-03T21:14:45.000Z"
     }
   ]
 }
