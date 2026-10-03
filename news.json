@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-03T06:34:20.641Z",
+  "updatedAt": "2026-10-03T07:05:41.782Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "O que os eleitores democratas realmente pensam do partido, da DSA e das eleições de meio de mandato",
+      "titleOriginal": "What Democratic Voters Actually Think of the Party, the DSA and the Midterms",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUdkWkZEWG5xZl9UdFJyQ3BOa1VBSjJFTHNYNEhVNTVlYXFpbklEd1FZVjk1XzVXWld4dFNUb0d6SUZuVGUtTGtGXzdMOWsyajl1SHh1WUJfRDliZ2tDWVBWRHF1M21DQTZxMmY0RlloaG5VMEJqUHVGbWg3ckpyeS05TVFsN21QN2hCajdTUzRySUNsNGQ3Vll2bmV1aFdQX0N5ZHpWT2ZEa1NYek1YcjE4WE96dTUwSVNUemdhZGg?oc=5",
+      "publishedAt": "2026-10-03T07:01:20.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Principais assessores de segurança nacional de Trump se reúnem secretamente em Camp David para discutir o Irã e o Iêmen",
+      "titleOriginal": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ04yLVlmSXJITnRJSzBjNlRlZExWTnJNN0piSlNCaGQ4b053VjBCa2xTd0lVYVYwT29PRVNIckplVTFWWjVYMXNJdmpJWEozRmkzVlNKTk1vbVVmX1Zvd29KNzNOaFZfQU5zOUxuYmdGZkhBN0JmQmJ4ZndLdHZTQTIzMkFpdWsy?oc=5",
+      "publishedAt": "2026-10-03T04:34:57.000Z"
+    },
     {
       "source": "New York Times",
       "title": "No Alabama, Trump revive seus dias de glória (desta vez com alguns assentos vazios)",
@@ -11,10 +25,10 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Principais assessores de segurança nacional de Trump se reúnem secretamente em Camp David para discutir o Irã e o Iêmen",
-      "titleOriginal": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ04yLVlmSXJITnRJSzBjNlRlZExWTnJNN0piSlNCaGQ4b053VjBCa2xTd0lVYVYwT29PRVNIckplVTFWWjVYMXNJdmpJWEozRmkzVlNKTk1vbVVmX1Zvd29KNzNOaFZfQU5zOUxuYmdGZkhBN0JmQmJ4ZndLdHZTQTIzMkFpdWsy?oc=5",
-      "publishedAt": "2026-10-03T03:15:50.000Z"
+      "title": "Construção do muro de fronteira de Trump em Big Bend é suspensa por juiz",
+      "titleOriginal": "Trump's Big Bend border wall construction blocked by judge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MQ0ZIc0luUmRyM0k2NnY4bW4zRk1yc1p1Z1hBM0Z3dXRaNjBlQ19mRjFwTFgzV3JueWw3cy1Yd3pGOXlzbVJiTXg5MmwtOTNPV2ZkcEtxWDlwTHZvQl9uaVdKTkxTV2FudmVJMlNWNTRHQW04TDY5NnRiOVI?oc=5",
+      "publishedAt": "2026-10-03T02:58:05.000Z"
     },
     {
       "source": "AP News",
@@ -38,39 +52,25 @@
       "publishedAt": "2026-10-03T01:38:37.000Z"
     },
     {
+      "source": "Axios",
+      "title": "O Senado supera a Câmara em dias úteis do Congresso",
+      "titleOriginal": "Senate crushes House on congressional work days",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KY3JkQmFPc2oyWFBOTHBjdzdsTFlVZTRfLVNUYTBqN1RudUJNLTRvV1hUODh1aGJIb3BjXzN2N2hRSWNVTEMzRXZwcDdaUGJJdW41MUhuVUEtRVozS19pdC1UT1R4aWVXUnBrandWUUJMVk9hQ3c?oc=5",
+      "publishedAt": "2026-10-03T01:35:40.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "David Ellison conquistou a Warner Bros. Agora, ele precisa fazer com que o negócio de US$ 81 bilhões dê certo.",
+      "titleOriginal": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+      "publishedAt": "2026-10-03T01:00:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Trump afirma que irá assistir ao jogo de futebol americano entre Geórgia e Alabama, em Tuscaloosa",
       "titleOriginal": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
       "link": "https://thehill.com/homenews/administration/6127311-trump-alabama-georgia-college-football/",
       "publishedAt": "2026-10-03T00:45:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump faz uma rara visita presidencial a terras indígenas para um comício",
-      "titleOriginal": "Trump makes rare presidential visit to tribal land for rally",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeld3MWFSQVU5ci1kTUNmbTdvc2QwZlhlUHB0WC03TnpvU1h1SENVM3JfeDd6bEQ0a0FTUERVRGNJVWdhUktrQThTa1VKck4wVzVzcFFHQUJUMlhRXzl6bUxQQkpKdk9pRjFwMDNjMjNBaXZuWG8yMExJRktFakZGdDVncC02UWo0dUVvTTk2dw?oc=5",
-      "publishedAt": "2026-10-03T00:04:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os irmãos que dominam o mercado de reparos automotivos de US$ 211 bilhões",
-      "titleOriginal": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcnZRSllmN1U3czJjUE01S0lpS3BDTTRCZlVoQ2pvbVZLOHIzay03cVdrREZOWlJkd28xbUppekJsd2dMUUdnamFjMDZMbDNPLUU3M21QUnRjN1FUak9oazVZTnBuNFpxTy0wdDNKTllQR3pIc29VX1EwSlRncmc?oc=5",
-      "publishedAt": "2026-10-03T00:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Já é outubro, mas os republicanos já estão recuando na Carolina do Norte.",
-      "titleOriginal": "It's October, but Republicans are already retreating in N.C.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1J3NW91RkhpT0hhdU1ybFlDOVQ3M1B5MFNtTTFDNWd4dzMwVmp6WURSYkJPeE9ES0ZESnI1YVVqN2x4SDZpSE1DWl85eDhta1o3U1QzbmNJYzg4NmRQLTlOUnZIOTlXZkxtNllxMW5aZjZPYUNUTHdCcDhJd3NFbWwycE9KZU1ScWtVa2NadXFsZkxqNHJXbzlEVkU?oc=5",
-      "publishedAt": "2026-10-02T23:28:16.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA e a Austrália suspendem os serviços consulares no Brasil antes das eleições, alegando questões de segurança",
-      "titleOriginal": "US and Australia suspend consular services in Brazil ahead of election citing security concerns",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDhFNEQzMHprMWNpX3p0ZERfb0ZJLVk2Um9BbWtFTmEtOG9TaVZlLWdQcDRzcm1LVV8tVmZvM0tvbnhsU2x1c3lIak5DR1hNM1FQaEp3QmJmSFNmanhOZlFsWW1lTVJDWlVydEcwQVYzSDB1cEZudUpqYU5qMG5MSGI5TmZkSXh2a3NmNmZQZEFQUjFvXzFSMThiUmh6Y3djdkdHV0pZOHkxVGs?oc=5",
-      "publishedAt": "2026-10-02T23:18:00.000Z"
     }
   ]
 }
