@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-03T12:43:59.720Z",
+  "updatedAt": "2026-10-03T17:17:42.005Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "As negociações entre os EUA e a Rússia sobre a Ucrânia agora envolvem um acordo petrolífero vinculado a aliados de Trump",
+      "titleOriginal": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "publishedAt": "2026-10-03T16:36:16.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Negociações entre EUA e Rússia sobre a Ucrânia envolvem acordo petrolífero ligado a Kushner e Witkoff: Relatório",
-      "titleOriginal": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report",
-      "link": "https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/",
-      "publishedAt": "2026-10-03T12:11:34.000Z"
+      "title": "Trump divulga o número de celular de um senador republicano em meio ao impasse sobre a lei do horário de verão",
+      "titleOriginal": "Trump posts GOP senator's cell phone number over daylight savings act stall",
+      "link": "https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number/",
+      "publishedAt": "2026-10-03T16:20:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O que os eleitores democratas realmente pensam do partido, da DSA e das eleições de meio de mandato",
+      "titleOriginal": "What Democratic Voters Actually Think of the Party, the DSA and the Midterms",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUdkWkZEWG5xZl9UdFJyQ3BOa1VBSjJFTHNYNEhVNTVlYXFpbklEd1FZVjk1XzVXWld4dFNUb0d6SUZuVGUtTGtGXzdMOWsyajl1SHh1WUJfRDliZ2tDWVBWRHF1M21DQTZxMmY0RlloaG5VMEJqUHVGbWg3ckpyeS05TVFsN21QN2hCajdTUzRySUNsNGQ3Vll2bmV1aFdQX0N5ZHpWT2ZEa1NYek1YcjE4WE96dTUwSVNUemdhZGg?oc=5",
+      "publishedAt": "2026-10-03T16:01:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Verifique seu e-mail: foram enviadas notificações sobre o acordo de US$ 309 milhões referente às devoluções da Amazon",
+      "titleOriginal": "Check your email: Notices sent regarding $309M Amazon returns settlement",
+      "link": "https://thehill.com/homenews/6123841-check-your-email-notices-sent-regarding-309m-amazon-returns-settlement/",
+      "publishedAt": "2026-10-03T16:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump precisa de um curso intensivo sobre a “classe trabalhadora” ministrado por JD Vance",
+      "titleOriginal": "The Trump administration needs a crash course in ‘Working Class’ from JD Vance",
+      "link": "https://thehill.com/opinion/campaign/6124490-vance-must-champion-working-class/",
+      "publishedAt": "2026-10-03T16:00:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Os democratas podem ter encontrado a fórmula para conquistar cadeiras no Senado em estados republicanos",
       "titleOriginal": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
       "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
-      "publishedAt": "2026-10-03T11:29:57.000Z"
+      "publishedAt": "2026-10-03T15:16:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Suprema Corte dos Estados Unidos deve mostrar às empresas petrolíferas que elas não estão acima da prestação de contas local",
+      "titleOriginal": "SCOTUS must show oil companies they aren’t above local accountability",
+      "link": "https://thehill.com/opinion/judiciary/supreme-court/6122644-suncor-v-boulder-county-suit/",
+      "publishedAt": "2026-10-03T15:00:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como as políticas de deportação de Trump abalaram uma disputa eleitoral para a Câmara no sul da Flórida",
-      "titleOriginal": "How Trump’s Deportation Policies Have Rocked a South Florida House Race",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/how-a-provocative-ad-on-trump-and-immigration-stirred-a-florida-house-race.html",
-      "publishedAt": "2026-10-03T11:05:38.000Z"
+      "title": "No Texas, o bom desempenho de Talarico nas pesquisas para o Senado alimenta um sonho democrata",
+      "titleOriginal": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
+      "publishedAt": "2026-10-03T14:45:43.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Os intervalos de descanso de Xi prejudicam sua reunião com Trump",
-      "titleOriginal": "Xi’s Rest Breaks Cut Into His Summit With Trump",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzFYcWc5ajF6Q0hDT1Nrenlod0NQNFJHSk1hWFFfSnNHeGg2dnB6bGtUeWRyUGJ4dUJBaWc4b1AtQzUzUzdXS0ZQWDJpVmp2SHcxTU5YeFdJb1NBVjRjNFZVdklmZHRrRENaR25sM01FdUc1dUlkRlYyUDNCWGgtakR2WXNGUUxyRWJ1Zw?oc=5",
-      "publishedAt": "2026-10-03T10:56:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Partido Republicano caminha na corda bamba em relação à imigração antes das eleições de meio de mandato",
-      "titleOriginal": "GOP walks tightrope on immigration ahead of midterms",
-      "link": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/",
-      "publishedAt": "2026-10-03T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O que é preciso saber sobre a iniciativa de Trump, apoiada pela MAHA, em prol da pesquisa com substâncias psicodélicas",
-      "titleOriginal": "What to know about Trump's MAHA-backed push for psychedelic research",
-      "link": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/",
-      "publishedAt": "2026-10-03T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ações de marcas de luxo estão sendo vendidas a preços de fast-fashion",
-      "titleOriginal": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw?oc=5",
-      "publishedAt": "2026-10-03T09:30:00.000Z"
+      "source": "Politico",
+      "title": "O custo da missão de resgate de Ken Paxton está deixando os republicanos em pânico",
+      "titleOriginal": "The price tag on the Ken Paxton rescue mission has Republicans panicking",
+      "link": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
+      "publishedAt": "2026-10-03T14:00:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "O Senado supera a Câmara em dias úteis do Congresso",
-      "titleOriginal": "Senate crushes House on congressional work days",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KY3JkQmFPc2oyWFBOTHBjdzdsTFlVZTRfLVNUYTBqN1RudUJNLTRvV1hUODh1aGJIb3BjXzN2N2hRSWNVTEMzRXZwcDdaUGJJdW41MUhuVUEtRVozS19pdC1UT1R4aWVXUnBrandWUUJMVk9hQ3c?oc=5",
-      "publishedAt": "2026-10-03T07:35:40.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump fala sobre 2028, as eleições de meio de mandato e os problemas com a mídia em jantar oferecido por Murdoch",
-      "titleOriginal": "Trump talks 2028, midterms and media woes at Murdoch dinner",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWmMyRTdFTmN4MlY4dWdKUVc4aG8waU9zc2w2NjZTRjB6T3NwM2VaNnpsSlRVUktibDNWOTBPLUZyUnFuNXBmaVFpRy1SQ2FCRG00eHZ3RFVEZ21xSU1GUFFfbHp6MUZ1SEI4S2VKQlpKTlBWYzNr?oc=5",
-      "publishedAt": "2026-10-03T06:43:18.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Bessent compara os programas de Trump à Lei GI Bill",
-      "titleOriginal": "Exclusive: Bessent compares Trump Accounts to the GI Bill",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SY0Z3Q1pMSE43eVp0d2FiRGs1cFE3dGNSZkpEa3JDck1najl0aFpOTTdfdVF6b2EyN00yVUJvY1JfMzVXQ1VIOHRiVzhQaC1pM2ZheEt3ZDZkVlJJdzhDZEJ2WG5WSWtwMGY1SFlLNGhMWWZw?oc=5",
-      "publishedAt": "2026-10-03T06:30:16.000Z"
+      "title": "EUA vão propor um sistema de notificação de emergência sobre IA em conjunto com a China",
+      "titleOriginal": "U.S. to propose emergency AI notification system with China",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bGhaUy1OUHBHRkFfTTlIMk56Yl9MNWtjaUVCcEkxQ041bGRkUUZIZzFYRW9oSW5tT1hUYTB6VVZnVnRfLXEyd0VQd2p2alQxNjRNZzcxeWdkOVBRc2txRklUc2RhOGFUVEJZYg?oc=5",
+      "publishedAt": "2026-10-03T13:38:22.000Z"
     }
   ]
 }
