@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-03T23:53:06.975Z",
+  "updatedAt": "2026-10-04T02:51:41.061Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump apoia centros de dados em Ohio em meio a uma disputa acirrada pelo Senado",
+      "titleOriginal": "Trump backs data centers in Ohio amid tight Senate race",
+      "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
+      "publishedAt": "2026-10-04T02:39:12.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Um golpe duro em Ohio: quase 1.400 demissões em fábrica de caminhões poucos dias antes do comício de Trump",
+      "titleOriginal": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2VFQmhSR1ltcnA1UmM2VFJ6bk5RTWljYjF0QW84MFFYOVE3ZUhGdEpyUVNLellvNGVLd014SzM1ZlY3blgyVDdnZmxjeDdpTnZuc1JzOTBtS19ZWlp5bWJTeHg5X1lqcGl0M08zWlNqS0xwUThybE5qOEZORkJrTTVqdHZYMG1DM1hpYXZLalZjS1M3UmY1SW9iVQ?oc=5",
+      "publishedAt": "2026-10-04T02:13:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As negociações entre os EUA e a Rússia sobre a Ucrânia agora envolvem um acordo petrolífero vinculado a aliados de Trump",
+      "titleOriginal": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "publishedAt": "2026-10-04T01:58:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | O bilionário Chris Rokos vende por US$ 83,2 milhões sua casa na Flórida inspirada em Bali",
+      "titleOriginal": "Exclusive | Billionaire Chris Rokos Fetches $83.2 Million for Bali-Inspired Florida Home",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYk4wazBVbjcyR2o2OWVkc2t1TUJMdk4tLWxHX2E3dU5WNVVGSXkwejJpRkVvSEtwbjN5U3NSQTM3T1g3UDhuU09XZTdSRm1wTTVKNEJNamVGN05nVVBINjlpNzBBSGIwV2Y4MFhBSkFlMGVDQzZrRWlySjNESDRQeVpELWdZWnR1QVZjaDNmMlBuUQ?oc=5",
+      "publishedAt": "2026-10-04T01:25:32.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Sem mencionar o nome dele, a ex-esposa de Ken Paxton pede aos texanos que votem nele",
+      "titleOriginal": "Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html",
+      "publishedAt": "2026-10-04T01:03:10.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Estatísticas avançadas e tacos de beisebol de US$ 500: por que o beisebol para crianças de 6 anos está custando uma fortuna",
+      "titleOriginal": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkgzYnBkdl80Sy0wMGFRWjRQRzdtX043WHNROUdNR2I1VXh0TTVEMTYwbzNUZ2VCT0FOSUthOHBhWVplcXlBTDJIN0NqeGtMSS1CTy1CaDRCVjBkM0F2WGtPWkRPbm9xTGwwRTkzZ0ZPLW1SYXpJVzcwUzN4Sm1Cb1FCdw?oc=5",
+      "publishedAt": "2026-10-04T01:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "8 principais conclusões das pesquisas do Times/Siena",
+      "titleOriginal": "8 Key Findings From the Times/Siena Polls",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html",
+      "publishedAt": "2026-10-04T00:58:05.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O reitor da Cornell considera o suposto estupro coletivo “profundamente perturbador” e promete maior transparência",
+      "titleOriginal": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5",
+      "publishedAt": "2026-10-03T23:29:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump divulga o número de celular do senador Tom Cotton, do Arkansas, em meio à disputa sobre o horário de verão",
@@ -10,67 +66,11 @@
       "publishedAt": "2026-10-03T23:25:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Um golpe duro em Ohio: quase 1.400 demissões em fábrica de caminhões poucos dias antes do comício de Trump",
-      "titleOriginal": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2VFQmhSR1ltcnA1UmM2VFJ6bk5RTWljYjF0QW84MFFYOVE3ZUhGdEpyUVNLellvNGVLd014SzM1ZlY3blgyVDdnZmxjeDdpTnZuc1JzOTBtS19ZWlp5bWJTeHg5X1lqcGl0M08zWlNqS0xwUThybE5qOEZORkJrTTVqdHZYMG1DM1hpYXZLalZjS1M3UmY1SW9iVQ?oc=5",
-      "publishedAt": "2026-10-03T23:07:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump anuncia mais um pagamento aos eleitores antes das eleições de meio de mandato",
-      "titleOriginal": "Trump Announces Another Payment to Voters Ahead of Midterms",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0ZUQTRObml5ZTljU3FKSFhqWXlEQ0djX3ViZ052Z0tsNUhaQkRQWXR4X3A5Z2R5X1UzbjRCLUMxclZwUHJWcGszT1BfRV9jcDFIdWh5WXJUNDI3ZmEzUWl1WkQxMG1lT1hGSzFmeGhZMTRnTFpBX3hBQUkzX2JGbTZGcHRfZkViWUJwOVAzOWFPOFVWQVAtTjlfcENQcWRfakk0TEdhSQ?oc=5",
-      "publishedAt": "2026-10-03T22:55:49.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "No Alabama, Trump revive seus dias de glória (desta vez com alguns assentos vazios)",
       "titleOriginal": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
       "link": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
       "publishedAt": "2026-10-03T22:32:46.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Enquanto se divorcia de Ken Paxton, a esposa dele pede aos texanos que votem nele",
-      "titleOriginal": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html",
-      "publishedAt": "2026-10-03T22:31:40.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As negociações entre os EUA e a Rússia sobre a Ucrânia agora envolvem um acordo petrolífero vinculado a aliados de Trump",
-      "titleOriginal": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
-      "publishedAt": "2026-10-03T22:25:36.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Forças federais etíopes retomam o aeroporto de Mekelle das mãos dos combatentes do Tigray, segundo moradores",
-      "titleOriginal": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkctc2U3eU5ad2dXTEctRnN5VHFTVllRWE42VW1hQ1RsR2pMZklScnI2R3dBd0hvUllFeFdTbU9zckQ4MnBCeFZleTVOekNuX3l2eHl1Sy1BYnJBV0hvVnlQaGk0UEdYM05zcWRsZ2hrNmpHQUYtVlJXTHlreXBPRS1PVzlGMnVWMjZhMVY4cTFuWVFHLVFGdHVjR3RaRVA4UjJ2S004TS1yS2R4NlRycWZ3?oc=5",
-      "publishedAt": "2026-10-03T22:09:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os democratas podem ter encontrado a fórmula para conquistar cadeiras no Senado em estados republicanos",
-      "titleOriginal": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
-      "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
-      "publishedAt": "2026-10-03T22:02:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal decide que buscas sem mandado em câmeras da Flock podem violar a 4ª Emenda",
-      "titleOriginal": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
-      "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
-      "publishedAt": "2026-10-03T21:43:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com o retorno de Elon Musk a Washington, possíveis conflitos de interesse voltam à tona",
-      "titleOriginal": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
-      "publishedAt": "2026-10-03T21:14:45.000Z"
     }
   ]
 }
