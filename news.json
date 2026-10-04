@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-10-04T21:26:38.787Z",
+  "updatedAt": "2026-10-04T22:31:35.885Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Os irmãos que dominam o mercado de reparos automotivos de US$ 211 bilhões",
-      "titleOriginal": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcnZRSllmN1U3czJjUE01S0lpS3BDTTRCZlVoQ2pvbVZLOHIzay03cVdrREZOWlJkd28xbUppekJsd2dMUUdnamFjMDZMbDNPLUU3M21QUnRjN1FUak9oazVZTnBuNFpxTy0wdDNKTllQR3pIc29VX1EwSlRncmc?oc=5",
-      "publishedAt": "2026-10-04T21:01:26.000Z"
+      "title": "Exclusivo | O bilionário Peter Thiel está por trás da compra da Casa Encantada por US$ 130 milhões",
+      "titleOriginal": "Exclusive | Billionaire Peter Thiel Is Behind the $130 Million Purchase of Casa Encantada",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFg1QUpqYndXVVlCWkdONC0zTEdkV19kN2RxcTd2bWNwdkRCSXVybmFPVExFbjhmMXdzNjhfSFVsTGF5VmxsR2NlVjN6aG5FS29wQ3pZMDdyeElUM1MtMXd5LWd3QXo2UVRqSXFwU0tQcjUzeUs4NS1fSWJyc3Y1ZjJoWWNhdGFsMWdnUDZTY0V4QUVYVU13?oc=5",
+      "publishedAt": "2026-10-04T22:19:04.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os brasileiros votaram para eleger o próximo presidente, enquanto Lula e Flávio Bolsonaro esperam vencer no primeiro turno",
+      "titleOriginal": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+      "publishedAt": "2026-10-04T21:56:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Nos comícios de Trump, uma mistura familiar de rituais e um apelo para que “finjam acreditar”",
+      "titleOriginal": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
+      "publishedAt": "2026-10-04T21:53:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Rússia ameaça realizar mais ataques depois que Zelensky prometeu atacar refinarias de petróleo",
+      "titleOriginal": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
+      "link": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
+      "publishedAt": "2026-10-04T21:45:31.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "David Ellison conquistou a Warner Bros. Agora, ele precisa fazer com que o negócio de US$ 81 bilhões dê certo.",
+      "titleOriginal": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+      "publishedAt": "2026-10-04T21:39:05.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O bilionário de cabelo à mullet e apaixonado por memes por trás do aplicativo de IA de sucesso da Meta",
+      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "publishedAt": "2026-10-04T21:31:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que está demorando nove meses para receber o reembolso de US$ 164.000 em tarifas",
+      "titleOriginal": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkJ2YktFNXBZSmJucURhWDhKNnIxWDZ5NjdmR1pCNnpselRTdmxuVkpnTDJNT0laZHdmTzdaMHczNS1ISmRURWhfeVcydjZYTGEwX09QTEhEUEtmMnZidTI5VEhnaWVQRGdOc0JjRXRLWGZXMDQ5VlBOQVpsU0JEemhsNks1Rng3V1owVEJwVGYyNGwzTE8tYlhpRkxlMktHVUY1Q0FHR3c3VnBUWXkzMHNR?oc=5",
+      "publishedAt": "2026-10-04T21:20:47.000Z"
     },
     {
       "source": "The Hill",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-10-04T20:57:06.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Deputado democrata afirma que o governo “não apresentou uma estratégia” para a guerra no Irã",
-      "titleOriginal": "Democratic rep says administration 'has failed to present a strategy' in Iran war",
-      "link": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
-      "publishedAt": "2026-10-04T20:53:23.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Preços do petróleo caem com o plano do G-7 para liberação de combustível",
-      "titleOriginal": "Oil Prices Lower On G-7 Fuel Release Plan",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnBHZHk3blRobW1RR1dhMnZOcjBhNHhXN3ZWZHdpMVpkTHRiU1dSN1c0TjVEUWxPVDFacG84LXc5aDEwQkNhWF9JUjVZTTNaTG5Rb3JBNUVoa1ZvVjhEajBxdlBVTWYzTXl2X1I2TGllakdEQkNNcGt1UzZDaUZnbkprMENuVkpZMWlfYmhCUDI1bjhEc291U25Mc0R0TFpzVlQzMkZOZGVZTldLUWFHMVJ5VGN6RG1Jal9qNXF1MHZ3QzUwc2c?oc=5",
-      "publishedAt": "2026-10-04T20:48:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo caem com a recuperação das exportações de petróleo bruto do Golfo",
-      "titleOriginal": "Oil Prices Fall as Gulf Crude Exports Recover",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1UwdjZ0Qk53aGpUZnhLRG93OE5SRm9idmd2VDJuMmJhRS1KaC1WTGMxWUQ0bVk5OW5RNXZ5V29sZmJIcEg5UWs2ZjA4RTNacjIwalpnaVhhVE54Zl9HVXNkajROUWVQTFZwR1E0VGZSU0xwVGRzTlRBdzBxZEI3aHZueUxEQXJpNUY1UFlaRG53RXhZTkd2ZV93NWxDdzVI?oc=5",
-      "publishedAt": "2026-10-04T20:26:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Casa Branca acompanha suposto surto de peste na Rússia",
-      "titleOriginal": "Scoop: White House monitors suspected plague outbreak in Russia",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XOWV5amNoaTYwcjNNS1liVl8ySTBaX2tmNzNac2JZNGpDN0ZkQ1dRZ2txa2JuVXRyZkNkaWZhYzJIQk8yVmZ6YXc3aGFQcnMyX0IwN3QwanlTVm9qY1RCWVhLQi1UQ3VLNE45Zi1DREVKMmY1RDNKNURB?oc=5",
-      "publishedAt": "2026-10-04T20:20:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Com o retorno de Elon Musk a Washington, possíveis conflitos de interesse voltam à tona",
-      "titleOriginal": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
-      "publishedAt": "2026-10-04T20:07:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os brasileiros votaram para eleger o próximo presidente, enquanto Lula e Flávio Bolsonaro esperam vencer no primeiro turno",
-      "titleOriginal": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-      "publishedAt": "2026-10-04T20:06:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Sanofi e Regeneron vão ampliar parceria em acordo de até US$ 8 bilhões",
-      "titleOriginal": "Sanofi, Regeneron to Expand Alliance in Up to $8 Billion Deal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFVaMm5tWThfZnpHalpVYzY5NlNCeWZiWGM0NkROQlNMNnBIVEpxNENEZDZDQ3lxRGtNbkZoNHUyT0tReGJzNDBqYUF4TlZHSkhteUlHU2dkRWtobnRSOGNEb2d2RHIyX2NBaVZZc3NCOWpKQ2tpM2Y1UkxWYUtRZW9wclNzTGJBTVo2b0NsT19UUzZ3bmpxVEFRVGhOVEgyUUp2bHd3R1ZQVXZucENvUTdB?oc=5",
-      "publishedAt": "2026-10-04T20:00:09.000Z"
+      "title": "Como os preços da gasolina, do diesel e da eletricidade estão prejudicando os eleitores americanos",
+      "titleOriginal": "How Gas, Diesel and Electricity Prices Are Squeezing American Voters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRKQzE0bVl6TFI1UlgzX1ZlUzk3ekpodXNIUWZHTHcwNk00SkxMdjQ2N0FIUzFkSHg3VTcyV1dlV1A0NjhhNVN3amp2UVlJT1lZYnZ5bWo0eHg2V1pmb3hFVXM2Z1hxTHFZR3VDUmktMTFGV0ZnczlJbllZWGlTWm5B?oc=5",
+      "publishedAt": "2026-10-04T20:54:56.000Z"
     }
   ]
 }
