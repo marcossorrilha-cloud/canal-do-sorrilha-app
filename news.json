@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-10-04T02:51:41.061Z",
+  "updatedAt": "2026-10-04T05:54:36.305Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Trump apoia centros de dados em Ohio em meio a uma disputa acirrada pelo Senado",
-      "titleOriginal": "Trump backs data centers in Ohio amid tight Senate race",
-      "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
-      "publishedAt": "2026-10-04T02:39:12.000Z"
+      "source": "Wall Street Journal",
+      "title": "Quando a regra dos 4% para gastos na aposentadoria funciona — e quando não funciona",
+      "titleOriginal": "When the 4% Rule for Spending in Retirement Works—and When It Doesn’t",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDbVJIUTd4enE5c29VT21VZUNpNTZaNC1hM1NhZGo1dG51enNtNXZsSWt6V2VIR003bmM2U1BrcW9yd1FZMjlPUTZKV0FFeU95ZWVnSGh6Y050LUhQd2Z3bmJFR19yRktfV1ZiVnBpeERxUG16eVpZeE1iMlE?oc=5",
+      "publishedAt": "2026-10-04T04:51:26.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O reitor da Cornell considera o suposto estupro coletivo “profundamente perturbador” e promete maior transparência",
+      "titleOriginal": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5",
+      "publishedAt": "2026-10-04T03:37:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Novo czar da IA revela metas e membros da força-tarefa da Casa Branca",
+      "titleOriginal": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "publishedAt": "2026-10-04T02:14:00.000Z"
     },
     {
       "source": "AP News",
@@ -24,11 +38,18 @@
       "publishedAt": "2026-10-04T01:58:41.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | O bilionário Chris Rokos vende por US$ 83,2 milhões sua casa na Flórida inspirada em Bali",
-      "titleOriginal": "Exclusive | Billionaire Chris Rokos Fetches $83.2 Million for Bali-Inspired Florida Home",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYk4wazBVbjcyR2o2OWVkc2t1TUJMdk4tLWxHX2E3dU5WNVVGSXkwejJpRkVvSEtwbjN5U3NSQTM3T1g3UDhuU09XZTdSRm1wTTVKNEJNamVGN05nVVBINjlpNzBBSGIwV2Y4MFhBSkFlMGVDQzZrRWlySjNESDRQeVpELWdZWnR1QVZjaDNmMlBuUQ?oc=5",
-      "publishedAt": "2026-10-04T01:25:32.000Z"
+      "source": "AP News",
+      "title": "Trump anuncia pagamentos de US$ 90 para idosos beneficiários do Medicare, antes das eleições de meio de mandato, para cobrir os custos dos prêmios",
+      "titleOriginal": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGRlQ3ZXemdUeUg4cHBORkloS1JHaHNnMDExSVdnTEp5czI4ZGdoTzFEdGc1NEt2clo0VFV5M1NudWlBMTJTUmU3RTNIQWRoc0RfSmNMTDFDUVBFbkZVRDV2SkwtME1CdjJLLWM0SkdUYjZhdEl1S0lJakwzbWxsMWtCcW8xcmQ3WEFXUTNYcFMtdS01alpF?oc=5",
+      "publishedAt": "2026-10-04T01:33:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump defende os centros de dados em Ohio enquanto faz campanha para impulsionar Jon Husted em uma disputa acirrada pelo Senado",
+      "titleOriginal": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaExlZ2tzTF81dGZEQ0tXVnBwUDd2d29JQkU5VEgwcllaX00weU0ybVVIa3RxeGpXWDdXWTFvcXRmU2JabFFNOGU3VnRaeDBBSGVnb1VtYng4S2hCYWt4SjZBLVFyOXhIWGVrQW5DNmxWWm1FT1Y5X0wyb2FpNjFmWmRxelVXNVBhLWxfaFlmQXJERXNObDg0cTFYRzZBdw?oc=5",
+      "publishedAt": "2026-10-04T01:24:00.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "8 Key Findings From the Times/Siena Polls",
       "link": "https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html",
       "publishedAt": "2026-10-04T00:58:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O reitor da Cornell considera o suposto estupro coletivo “profundamente perturbador” e promete maior transparência",
-      "titleOriginal": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5",
-      "publishedAt": "2026-10-03T23:29:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump divulga o número de celular do senador Tom Cotton, do Arkansas, em meio à disputa sobre o horário de verão",
-      "titleOriginal": "Trump posts cell phone number of Arkansas Sen. Tom Cotton in fight over daylight saving time",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckZSXzNaNjdtaXNvU0RwSTkzZWROM3FQRVg3aG1HZHlhM0RpLVo0LUFDd3lNSUtIZnRkN0RoRGVOaTNVcmc5ajE5LXRBWk05eU5HYWNmUnZGU0ZHZ3VnTkhRR0NKWmx5QWE3UjBkWUw0N0VpTTZnbC1YeGstOHp2Sm1vcndOS2xlNEVFb2piSUEwdW1BRjFlNVNNMWJwUUtqeEZLcFM0bVZFWlE?oc=5",
-      "publishedAt": "2026-10-03T23:25:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "No Alabama, Trump revive seus dias de glória (desta vez com alguns assentos vazios)",
-      "titleOriginal": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
-      "publishedAt": "2026-10-03T22:32:46.000Z"
     }
   ]
 }
