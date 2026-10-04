@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-04T10:05:11.105Z",
+  "updatedAt": "2026-10-04T12:23:09.280Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Alguns democratas afirmam que a disputa pelo Senado na Carolina do Sul é vencível. Outros, nem tanto.",
+      "titleOriginal": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
+      "publishedAt": "2026-10-04T12:00:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As audiências no Congresso não são mais um mecanismo de controle do poder — agora são um circo",
+      "titleOriginal": "Congressional hearings are no longer a check on power — they're now a circus",
+      "link": "https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan/",
+      "publishedAt": "2026-10-04T12:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O bilionário da Oracle, Larry Ellison, está comprando todo o bairro",
+      "titleOriginal": "Oracle Billionaire Larry Ellison Is Buying Up the Neighborhood",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnhIQ21JLWk2eWNtYTZ6V0N2MlNXTkhQUjdXcXFVZ1JrY1lwcnhYVmtUS0VBa3d2aWprbE84Mmc0N2k3N3dMcTE0UlFxampoYXlSV25SRHJQdWM4RjJORjB1eGZTdzI1LWRYRHMtVmFuenVZWVdUbTJhS2lTRmlNbzUtM3JvNlU2M19BVmN1MjR3UkN0eTdzT3Y1YzVBNnAtMFBWc1hIbDc0elVBSTQ5am14QUp6M00?oc=5",
+      "publishedAt": "2026-10-04T11:57:05.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Quando os estados “azuis” afugentam seus bilionários",
+      "titleOriginal": "Opinion | When Blue States Chase Away Their Billionaires",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVVmV09EdHRQQlIzMDlIdVNaM0VxZzFvenZHTHVrNE5xUEt6ck1aR1NwYkVEY2NpSmotN3c0cTh2eUpERUt6WjBBZFRNX0xtZjlSa1NCcUNndVZDdEpPM3Zpa0hNaG1fTkZvTzliUnFqUkUybHZRcVlZaURJcU1xR2VQaHVzaXVYcFZV?oc=5",
+      "publishedAt": "2026-10-04T11:20:42.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Pausas incomuns de Xi Jinping roubaram horas da cúpula com Trump",
+      "titleOriginal": "Exclusive | Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aXlGT0tkSHR1aXdDUm4zLWU5Znp2eXB3WWdlRjJLUTlleW9CbWt6RE03NGNtazlYVGpNVEtZYmhjdGlGNElMX0llMXBzNi1wd05tVHU4eHhsTWlZa0NES1ZtX2l2ZVA0R2c?oc=5",
+      "publishedAt": "2026-10-04T11:17:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Eleitores reais revelam o que pode decidir as eleições intermediárias de 2026",
+      "titleOriginal": "Real voters reveal what could decide the 2026 midterms",
+      "link": "https://thehill.com/homenews/campaign/6127863-voters-weigh-midterm-issues/",
+      "publishedAt": "2026-10-04T11:08:25.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O indicado por Trump para o cargo de enviado para Assuntos de Reféns enfrenta questionamentos sobre um plano polêmico envolvendo a Rússia",
@@ -17,60 +59,18 @@
       "publishedAt": "2026-10-04T10:00:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Pausas incomuns de Xi Jinping roubaram horas da cúpula com Trump",
-      "titleOriginal": "Exclusive | Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aXlGT0tkSHR1aXdDUm4zLWU5Znp2eXB3WWdlRjJLUTlleW9CbWt6RE03NGNtazlYVGpNVEtZYmhjdGlGNElMX0llMXBzNi1wd05tVHU4eHhsTWlZa0NES1ZtX2l2ZVA0R2c?oc=5",
-      "publishedAt": "2026-10-04T09:47:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os principais executivos dos Estados Unidos embolsam US$ 1,7 bilhão em pagamentos especiais",
-      "titleOriginal": "America’s Top Executives Rake In $1.7 Billion in Special Payouts",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWxienpzT0tOdk5fa1puaDY4SWlIYVZ1dEJlamJqeUZyYkpuWGFtSnBWQjBJVmxGdjFqYXlweVpWc1hXS0o3dGNqZW9DS09KMXVBTWtVOVc4MlkwZzhOcUtJOGdtSThfT0lHTHphVDNfV0x1SzFROFp6Y1hSeW5vMklGd0NFUkgtVDAwa3Y0ZUtKUndpemN5bmh6T1FjVWMyQ29Z?oc=5",
-      "publishedAt": "2026-10-04T09:32:36.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O bilionário de cabelo à mullet e fã de memes por trás do aplicativo de IA de sucesso da Meta",
-      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
-      "publishedAt": "2026-10-04T09:31:48.000Z"
+      "source": "The Hill",
+      "title": "Trump destina milhões de seu enorme fundo de campanha para disputas eleitorais decisivas na Câmara e no Senado: veja onde",
+      "titleOriginal": "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
+      "link": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
+      "publishedAt": "2026-10-04T10:00:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Pesquisas mostram que democratas lideram disputas para o cargo de governador em regiões fortemente republicanas",
+      "title": "Pesquisas mostram que democratas lideram disputas para governador em regiões fortemente republicanas",
       "titleOriginal": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
       "link": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
       "publishedAt": "2026-10-04T09:03:46.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Alguns democratas, marcados pelas eleições de 2024, adotam uma postura mais rígida em relação aos atletas transgêneros",
-      "titleOriginal": "Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
-      "publishedAt": "2026-10-04T09:02:39.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como Trump ultrapassou os limites éticos com seus anúncios, negócios e encontros de cúpula",
-      "titleOriginal": "How Trump Moved Ethical Lines With His Ads, Businesses and Summits",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
-      "publishedAt": "2026-10-04T09:02:31.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Alguns democratas afirmam que a disputa pelo Senado na Carolina do Sul é vencível. Outros, nem tanto.",
-      "titleOriginal": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-      "publishedAt": "2026-10-04T09:02:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A proposta de “isenção de impostos sobre gorjetas” pode não surtir efeito para o Partido Republicano na disputa pela Câmara e pelo Senado",
-      "titleOriginal": "‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html",
-      "publishedAt": "2026-10-04T09:01:47.000Z"
     }
   ]
 }
