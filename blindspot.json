@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-05T07:03:41.836Z",
-  "slot": "2026-10-05-AM",
+  "updatedAt": "2026-10-05T16:01:28.753Z",
+  "slot": "2026-10-05-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "As grandes petrolíferas deveriam arcar com os custos das mudanças climáticas? Um processo no Supremo Tribunal Federal ajudará a decidir a questão.",
-      "titleOriginal": "Should Big Oil pay for climate change? A Supreme Court case will help decide.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2E1UHc5VG95bml5WVF5dWI0OF9pdXpWVFFDNTZteS1oR2lnTktWS29keEJRb1ZJODlqNVcyQ0c1c0RyTUZ1MlBTVTRLMXFUdkZEYVdsRG03VmNEN1NOR19UWHJET2JhUDBIeFhRa3poUVJVV0QwN0Q5WkthMzdhNE5WbVZPdEVxYWRwaldKTllyZEZISG41OUdMR2dMUXRpMHhZYkh1U0czdTA?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "Harry Enten aponta a única disputa eleitoral que provavelmente garantirá a virada no Senado para os democratas",
+      "titleOriginal": "Harry Enten Names The 1 Race That Will Likely Flip Senate For Democrats",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMG1saWo1U3NsR19oamF0ZUF3WTVvOGE2eDVMMkFWaTNsaWNTZS1TMW9fRk95dFpuWkZuUjZHUzNzaTk5VS1hYjA2bTdzQW1NVW14Y2Jrak5jS2FmczFRQmNETHIyMllPUXNSQmRoOEJMR19SS24wVXVlZFc5VGh2VUU4U3R1emVHMGo1ZVdGUUpzczJKRFFmaXNtNTNYMkRIa1IzSkotQ2FmQUFJMFA3TGJINNIBuAFBVV95cUxQa3RSRXBSdUQ1V1kxYU5OODRUdVVaRmpZQ0xGbHNNRy1lSGFDQnB0WjRmdnp5OUtNc3V6QkJCQnVGV2tSRF9WT3ZBZE5NWDh1OWdyRlF4T1dtaEhCUHhvY0Q0bzU1QmtHemhCNUltWVdHUkZxeDJ4QnZJb0N6dG9YbS1lbW55aXRrNU4wX2o0TzI4RzJyXzljRFJYSjNLVEQtVVVMWkJNNlpPS1RFTnR2emwtVDJBRUdU?oc=5",
+      "source": "HuffPost",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Os EUA estão acompanhando um caso suspeito de peste pneumônica com desfecho fatal na Rússia, afirma autoridade do Departamento de Estado",
-      "titleOriginal": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUR2LTQzMnhlUks5ekhldk1sWmFnbkxNTVJPX1BiT2pFNXBXaXZ2bTY2TFF5TFVhWkdBV1FmSW50cGhFdmNDR0QxakRNcDFzc0ZFZDBGR2xVcnZPTnhDajlSRWh1WnBwV0wzalV1X2U0RkVFWk5HaVd6Z2JzazNOa2J3NXpCMVF2UE5YX291bXY3LVdMRFJGVk1WYk9CWUc5RGNkR1EyQS1NZ19DT2NMWmtoMVk2dG9FY1dB0gHAAUFVX3lxTE9JMDRsQkFfMTBwM0hzZ2pBT3ltaTFBVmRTX0dUYWZLdV8yV0dUX2Zyc1hoLVZSRVBHQk52dVZYQTdYX3FxMFFmVDdnZllidDJfY0dJSUoxV1RmU3djemlKZDdfSjJOZ05MZ0tkMTMzRk5OMFktYjBGN2tqT2dZdF9ZeXFmYTFZV1U1UXdtNkIySFJrdjdGdVJYUFRsYjJiQkdqbnNOa1JTZ095MGd5RnJMQ3hJWVNNNlNtS21tNnU4cA?oc=5",
-      "source": "Fox News",
+      "title": "Guarda Costeira é envolvida em um tiroteio na fronteira",
+      "titleOriginal": "Coast Guard Gets Pulled Into A Border Gunfight",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3FJSTg4cTJKb2V4eUlyb0UzenZ6cV9KRmdBYlRpeEdRM3pCTUtFYWg3N1RMTFpXcmwxd0Q0WWZ1cGRjTVRaWmhQMTFCRUJQQjhEX3NFNU13d1dBQWJtU2l6Mjl2ZFZDV3JDODdiaHp3OXBzTEJLemZHZG03RURrNnpGbw?oc=5",
+      "source": "Daily Wire",
       "coverage": 2
     }
   ]
