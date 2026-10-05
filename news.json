@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-04T22:31:35.885Z",
+  "updatedAt": "2026-10-05T00:56:07.891Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "O Brasil segue para um segundo turno, depois que Bolsonaro e Lula não conseguiram obter a maioria dos votos",
+      "titleOriginal": "Brazil heads to a runoff election after Bolsonaro and Lula fail to garner a majority of votes",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+      "publishedAt": "2026-10-05T00:49:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | O bilionário Peter Thiel está por trás da compra da Casa Encantada por US$ 130 milhões",
-      "titleOriginal": "Exclusive | Billionaire Peter Thiel Is Behind the $130 Million Purchase of Casa Encantada",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFg1QUpqYndXVVlCWkdONC0zTEdkV19kN2RxcTd2bWNwdkRCSXVybmFPVExFbjhmMXdzNjhfSFVsTGF5VmxsR2NlVjN6aG5FS29wQ3pZMDdyeElUM1MtMXd5LWd3QXo2UVRqSXFwU0tQcjUzeUs4NS1fSWJyc3Y1ZjJoWWNhdGFsMWdnUDZTY0V4QUVYVU13?oc=5",
-      "publishedAt": "2026-10-04T22:19:04.000Z"
+      "title": "Os principais executivos dos Estados Unidos embolsam US$ 1,7 bilhão em pagamentos especiais",
+      "titleOriginal": "America’s Top Executives Rake In $1.7 Billion in Special Payouts",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWxienpzT0tOdk5fa1puaDY4SWlIYVZ1dEJlamJqeUZyYkpuWGFtSnBWQjBJVmxGdjFqYXlweVpWc1hXS0o3dGNqZW9DS09KMXVBTWtVOVc4MlkwZzhOcUtJOGdtSThfT0lHTHphVDNfV0x1SzFROFp6Y1hSeW5vMklGd0NFUkgtVDAwa3Y0ZUtKUndpemN5bmh6T1FjVWMyQ29Z?oc=5",
+      "publishedAt": "2026-10-05T00:32:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O bilionário de cabelo à mullet e fã de memes por trás do aplicativo de IA de sucesso da Meta",
+      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "publishedAt": "2026-10-05T00:31:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Novo “czar” da IA revela metas e membros da força-tarefa da Casa Branca",
+      "titleOriginal": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "publishedAt": "2026-10-05T00:28:43.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Quando a regra dos 4% para gastos na aposentadoria funciona — e quando não funciona",
+      "titleOriginal": "When the 4% Rule for Spending in Retirement Works—and When It Doesn’t",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDbVJIUTd4enE5c29VT21VZUNpNTZaNC1hM1NhZGo1dG51enNtNXZsSWt6V2VIR003bmM2U1BrcW9yd1FZMjlPUTZKV0FFeU95ZWVnSGh6Y050LUhQd2Z3bmJFR19yRktfV1ZiVnBpeERxUG16eVpZeE1iMlE?oc=5",
+      "publishedAt": "2026-10-05T00:21:32.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Novartis vai adquirir a licença de um medicamento da chinesa Abogen em um negócio de até US$ 7,8 bilhões",
+      "titleOriginal": "Novartis to License Drug From China’s Abogen in Up to $7.8 Billion Deal",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzEzNGNVX0I2U2ZTajFqZEpGQ0NpTVZMNzVBa2NvU21ndzNHMDYtTWZ2aTJVUzladzd1ZURVNDNkOXVmYm84Mnl5R2dobTkxbnZPam1xMjhHSXM4eW1Xc2Z2aUxXaDd5bGE2aDhnVVhKVUVlLXVOei13djFWdm12RXlBWjIwa04tYWcyM2N4VzlwWUktMXFVV3B3V3E3RFNXclJUdVRxTmJ5aTVjdEFmd3Zn?oc=5",
+      "publishedAt": "2026-10-05T00:20:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Netanyahu, em uma disputa eleitoral acirrada, dá as boas-vindas àqueles que impediram o ataque à FlyDubai",
+      "titleOriginal": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVG1nT1RJN2xGeG9leXJiemE2TE1vN3JtVXlJbTBkOVk5a28zOU5RMzB4VmNfQm1uX3hVS3J5UkFQSUFKeEdCMWp2NG9pLTlkS01VUVAySzdFczdiTWFzbnViOVNCdWFWWXJSbklwMDFhVlRfak9ILVNwWmVEemVlbWRURnhzMkxJTFk2dElJMWZvOGhQVVhwTzM5MlBDeGZVQjdOSV8zdXhvX1MxNC1SaFFlRy1Na0taVkR3cDZwMzM?oc=5",
+      "publishedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Senadores democratas questionam autoridades do governo Trump sobre acordo do Pentágono envolvendo petróleo venezuelano",
+      "titleOriginal": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU9rSGh2RjZsanpNLVJQdDNMTk5yWVhTSjVqR05xT0Jwa0lUVG1LUXQ1cnVMaHg1YzZsbnVDelJteE9hQ0d3Y3ZSYWJfNGdGZW5tQjVyMzNXUUNIM0huVzFkV2pwVWJyYm9zVTlEMElwcVJXa29aOUt5d1RQcVZkc1Npa3RuZ0VsXzVjd3d1NHkza3JyRHo5TTR3MUtHaWp2elpmTVNFbnBzZ2k0eEhzTXF5VnJJLWtheHVkYXpXRlZldDUyU3F3NFpISUU3UQ?oc=5",
+      "publishedAt": "2026-10-04T23:52:25.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os brasileiros votaram para eleger o próximo presidente, enquanto Lula e Flávio Bolsonaro esperam vencer no primeiro turno",
-      "titleOriginal": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-      "publishedAt": "2026-10-04T21:56:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Nos comícios de Trump, uma mistura familiar de rituais e um apelo para que “finjam acreditar”",
-      "titleOriginal": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
-      "publishedAt": "2026-10-04T21:53:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Rússia ameaça realizar mais ataques depois que Zelensky prometeu atacar refinarias de petróleo",
-      "titleOriginal": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
-      "link": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
-      "publishedAt": "2026-10-04T21:45:31.000Z"
+      "title": "Tyquan Thornton, do Chiefs, sofre lesão grave na perna durante a partida contra os Raiders. Rashee Rice também se machucou",
+      "titleOriginal": "Chiefs' Tyquan Thornton suffers gruesome-looking leg injury vs. Raiders. Rashee Rice also hurt",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzUxLTJIbDc3bmlHTk81Q1VRTmJpX0l1ZGJ3WTdsUTVyNmVCQlRnM0tWaXFpTTRCWGpqLTR2ME1MWDYzRHBrajA4N2xlQk1wQkwwTEdrTFVBYTh3UG9jdEIyaTlTc0FrMTdVNmUxcHBKWmRBY3d3LVNCbTVVa180OGs0ZEpIWmJhTENVdXZUTExWNXZ2eXM1VUFEa1M0Zw?oc=5",
+      "publishedAt": "2026-10-04T23:35:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "David Ellison conquistou a Warner Bros. Agora, ele precisa fazer com que o negócio de US$ 81 bilhões dê certo.",
-      "titleOriginal": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
-      "publishedAt": "2026-10-04T21:39:05.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O bilionário de cabelo à mullet e apaixonado por memes por trás do aplicativo de IA de sucesso da Meta",
-      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
-      "publishedAt": "2026-10-04T21:31:49.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que está demorando nove meses para receber o reembolso de US$ 164.000 em tarifas",
-      "titleOriginal": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkJ2YktFNXBZSmJucURhWDhKNnIxWDZ5NjdmR1pCNnpselRTdmxuVkpnTDJNT0laZHdmTzdaMHczNS1ISmRURWhfeVcydjZYTGEwX09QTEhEUEtmMnZidTI5VEhnaWVQRGdOc0JjRXRLWGZXMDQ5VlBOQVpsU0JEemhsNks1Rng3V1owVEJwVGYyNGwzTE8tYlhpRkxlMktHVUY1Q0FHR3c3VnBUWXkzMHNR?oc=5",
-      "publishedAt": "2026-10-04T21:20:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Esta semana no Capitólio: o recesso do Congresso muda o foco para a campanha eleitoral de meio de mandato",
-      "titleOriginal": "This Week on the Hill: Congressional recess shifts focus to midterm campaign trail",
-      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-candidates-debates-midterms/",
-      "publishedAt": "2026-10-04T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O bilionário da Oracle, Larry Ellison, está comprando todo o bairro",
-      "titleOriginal": "Oracle Billionaire Larry Ellison Is Buying Up the Neighborhood",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnhIQ21JLWk2eWNtYTZ6V0N2MlNXTkhQUjdXcXFVZ1JrY1lwcnhYVmtUS0VBa3d2aWprbE84Mmc0N2k3N3dMcTE0UlFxampoYXlSV25SRHJQdWM4RjJORjB1eGZTdzI1LWRYRHMtVmFuenVZWVdUbTJhS2lTRmlNbzUtM3JvNlU2M19BVmN1MjR3UkN0eTdzT3Y1YzVBNnAtMFBWc1hIbDc0elVBSTQ5am14QUp6M00?oc=5",
-      "publishedAt": "2026-10-04T20:57:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como os preços da gasolina, do diesel e da eletricidade estão prejudicando os eleitores americanos",
-      "titleOriginal": "How Gas, Diesel and Electricity Prices Are Squeezing American Voters",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRKQzE0bVl6TFI1UlgzX1ZlUzk3ekpodXNIUWZHTHcwNk00SkxMdjQ2N0FIUzFkSHg3VTcyV1dlV1A0NjhhNVN3amp2UVlJT1lZYnZ5bWo0eHg2V1pmb3hFVXM2Z1hxTHFZR3VDUmktMTFGV0ZnczlJbllZWGlTWm5B?oc=5",
-      "publishedAt": "2026-10-04T20:54:56.000Z"
+      "title": "Exclusivo | Os americanos querem políticas populistas que desafiem os rótulos políticos tradicionais",
+      "titleOriginal": "Exclusive | Americans Want Populist Policies That Defy Traditional Political Labels",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzdUSHdoYThvNnhjdmVNamRObExHb3dCdkcteG1xNWZlOVE1Z2UxaFpiSHpBMTlhd09iY3lBZEY2bjNZWTJhQlU3OGtwd3RaVGhxZGpCQmJNRU80NU10SGFmYjhLMjlVeXc1V2RVQ19uUXJzMnphdWRHNm0zTHpUNzQzUlJrSnBfcFhVY1p6V3J2QnQtU1V1MmxqaHlucXE5eG5pUndlbnd0eTA1V2lLNmVJN0ZIXzA?oc=5",
+      "publishedAt": "2026-10-04T23:31:26.000Z"
     }
   ]
 }
