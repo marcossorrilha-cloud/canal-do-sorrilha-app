@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-10-06T02:59:25.340Z",
+  "updatedAt": "2026-10-06T03:19:56.069Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "Tillis afirma que o processo de impeachment contra Trump por causa dos eventos de 6 de janeiro foi “significativo” e um “voto de desconfiança”",
-      "titleOriginal": "Tillis says Trump impeachment over Jan 6 was 'weighty,' a 'vote of no confidence'",
-      "link": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/",
-      "publishedAt": "2026-10-06T02:53:23.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Possível ataque com drones iranianos levou à saída de aeronaves americanas de uma base aérea britânica",
+      "title": "Possível ataque com drones iranianos levou à saída de aeronaves americanas da base aérea britânica",
       "titleOriginal": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft from British Air Base",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
       "publishedAt": "2026-10-06T02:15:03.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump afirma que arcará com os custos dos “anúncios patrióticos” do próprio bolso, após enfrentar reações negativas dos democratas",
-      "titleOriginal": "Trump says he will pay for 'Patriotic Ads' himself after facing backlash from Democrats",
-      "link": "https://thehill.com/homenews/administration/6130848-trump-to-pay-patriotic-ads-backlash/",
-      "publishedAt": "2026-10-06T01:58:51.000Z"
+      "source": "AP News",
+      "title": "Trump aprova a execução por fuzilamento do atirador de Fort Hood, Nidal Hasan",
+      "titleOriginal": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGJaeUVLTWtfek9pMEdXcUlkX09Ebk00NG1mN2FDYTI0bk9XbmhSSWdsb1l0Sm1yRG14cWFpN09BYlRTOWdObDI3MU8wR0lGYTY1WGFoemFtTkxzMkJNaHg5UWFMTDZHTlVNb2lBWm1yZXlhY3A1dWVSd2dkY2x6REdxcGtrSHBVdEFwbzhHdTdxY3o4YTkxdXZTU2YyUQ?oc=5",
+      "publishedAt": "2026-10-06T01:15:00.000Z"
     },
     {
       "source": "New York Times",
@@ -31,6 +24,13 @@
       "publishedAt": "2026-10-06T00:52:20.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "David Ellison conquistou a Warner Bros. Agora, ele precisa fazer com que o negócio de US$ 81 bilhões dê certo.",
+      "titleOriginal": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+      "publishedAt": "2026-10-06T00:39:14.000Z"
+    },
+    {
       "source": "Politico",
       "title": "Grupos que defendem a segurança da IA não estão acreditando na redução dos gastos anunciada pela OpenAI",
       "titleOriginal": "AI safety groups aren’t buying OpenAI’s spending retreat",
@@ -38,11 +38,11 @@
       "publishedAt": "2026-10-06T00:30:22.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Trump aprova a pena de morte por fuzilamento para terrorista condenado",
-      "titleOriginal": "Trump approves death by firing squad for convicted terrorist",
-      "link": "https://thehill.com/homenews/administration/6130802-nidal-hasan-death-firing-squad/",
-      "publishedAt": "2026-10-06T00:21:26.000Z"
+      "source": "AP News",
+      "title": "Trump afirma que seu super PAC arcará com os custos dos anúncios financiados com dinheiro dos contribuintes que geraram reações negativas por glorificá-lo",
+      "titleOriginal": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWNjc2pvMEFiSXY5dUpUX0JUNEdPNlZEMzhVbTc4M1FLOTN2STJOcVhQc3NWMkYwSy1aQVlodmhrdjVBV1Fqb2wyZlR1dTd2WEZleENGNHFzMU9VNkZUSzM5S25COGI4VXRzM1VuSGFwcVRfbEZ2V1BXUjJQRlo3WGJhbjZRVkhEdnc4cEhpajZ3RWZBSFdlOVI0RQ?oc=5",
+      "publishedAt": "2026-10-06T00:20:00.000Z"
     },
     {
       "source": "The Hill",
@@ -52,11 +52,18 @@
       "publishedAt": "2026-10-06T00:12:15.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Tillis considera o voto em Hegseth seu “maior arrependimento”",
-      "titleOriginal": "Tillis calls Hegseth vote his 'biggest regret'",
-      "link": "https://thehill.com/homenews/senate/6130753-tillis-regrets-hegseth-vote/",
-      "publishedAt": "2026-10-05T23:47:29.000Z"
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Novo czar da IA revela metas e membros da força-tarefa da Casa Branca",
+      "titleOriginal": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "publishedAt": "2026-10-05T23:53:39.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Republicanos do Tennessee consideram outras opções de execução após falha na injeção letal aplicada a Christa Pike",
+      "titleOriginal": "Tennessee Republicans consider more execution options after Christa Pike lethal injection fails",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFZGbkZyS1BEYzBkMU1vQmxyV3NOUXhiUXpiU2Nvcm5QSFpOaEV6Y1g2WnhfN0F2bTNVaVVmNjRRekpHSTJKVENreGpSZThsV3RiMnBBdmoybFhXd3FNN2ZMa2drOGN6bnpWNF9fM0VWOFRaWm42ZllqdXRKYkIxempaNHRBY2d3V3o1M1l6Szh6enNNZjdxX3FwVXNsTkc3T1RaRy1oRnN6VU0?oc=5",
+      "publishedAt": "2026-10-05T23:17:00.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "Appeals court to hear lawsuit against RFK Jr. vaccine moves",
       "link": "https://thehill.com/newsletters/healthcare/6130746-appeals-court-lawsuit-rfk-jr-vaccine-moves/",
       "publishedAt": "2026-10-05T23:09:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump lança insultos transfóbicos contra o adversário de Graham à medida que a disputa na Carolina do Sul fica mais acirrada",
-      "titleOriginal": "Trump hurls anti-trans slurs at Graham's opponent as South Carolina race tightens",
-      "link": "https://thehill.com/homenews/administration/6130651-trump-slur-graham-senate-race/",
-      "publishedAt": "2026-10-05T23:04:25.000Z"
     }
   ]
 }
