@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-06T21:38:04.185Z",
+  "updatedAt": "2026-10-06T21:53:28.293Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Presidente da Coreia do Sul acredita que modelos de IA foram usados em ataques cibernéticos a bancos",
+      "titleOriginal": "President of South Korea believes AI models were used in bank hacks",
+      "link": "https://thehill.com/policy/technology/6132458-south-korea-ai-bank-hacks/",
+      "publishedAt": "2026-10-06T21:50:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Resumo: Trump muda de rumo em relação aos anúncios polêmicos, destacando os riscos das eleições de meio de mandato",
+      "titleOriginal": "The Memo: Trump changes course on controversial ads, underscoring midterm dangers",
+      "link": "https://thehill.com/homenews/analysis/6132671-trump-pauses-taxpayer-funded-ads/",
+      "publishedAt": "2026-10-06T21:38:47.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A “Força de Superinteligência” de Trump começa a tomar forma",
@@ -57,20 +71,6 @@
       "titleOriginal": "Johnson predicts a Democratic majority will impeach Trump immediately",
       "link": "https://thehill.com/homenews/house/6132420-johnson-predicts-democrats-impeach-trump/",
       "publishedAt": "2026-10-06T20:18:16.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ex-agente da CIA que escondeu barras de ouro admite ter cometido um golpe muito maior, no valor de US$ 145 milhões",
-      "titleOriginal": "Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html",
-      "publishedAt": "2026-10-06T20:16:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Declarações de Trump de que o Irã poderia “destruir” Los Angeles e San Diego geram reações negativas",
-      "titleOriginal": "Trump remarks that Iran could \"take out\" Los Angeles, San Diego draw backlash",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JdzZycjRjekt1ajZrWWpVdllxYldzVkEyYWFqZkNiMDVjNXlzMzZmWjJnc21PRFg3a1VWa1hQRnlUblMzcXJ6OTE5TDhmQW0xRDZxNnBmVW9RVFBzc2poMGN5cVNiX3NaSkV3V0hqMk5IMjA?oc=5",
-      "publishedAt": "2026-10-06T20:14:57.000Z"
     }
   ]
 }
