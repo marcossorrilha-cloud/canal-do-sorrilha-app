@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-06T10:46:43.632Z",
+  "updatedAt": "2026-10-06T17:12:01.313Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Bottoms e Jackson se enfrentam no único debate confirmado entre os candidatos ao cargo de governador da Geórgia",
-      "titleOriginal": "Bottoms and Jackson meet for only confirmed Georgia governor debate",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHVMWTZHVmpBU210SWoya3lLSTVIVVVKZW5ZSGp6dnhsaXN1a05fblBnMWlTTEJsMlBWcGppR3l3YmJmRXpjRU5OUWNVaXRkdmxUS2hsblpWcXBZQkxoSGEzajlvOC0wUlE2RHNtMmQ5UzJHZXlMMWR6bHBHaW9oRnhBWnF0YVRZXzZRWFFpUE5RdUZ3ZFlGaUUtTFBpRUpXM3V1UjNNNDJRLWM?oc=5",
-      "publishedAt": "2026-10-06T10:33:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A disputa sobre o rebanho no nordeste de Ohio chega ao Congresso",
-      "titleOriginal": "Northeast Ohio Flock fight reaches Congress",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ZlFJRUFfVTJXZHcwcDJOLWlOenBwZUQtWnpmTlJndm0yc2RxZjBaSFdOX0xWQ1kxbnZDUkV3Ri1uUjhQN2dOUG9Lc0RBanZiT2FncWpVOEVQVGQ0cE14dWotX0FpMHpPcDBBQmdHZmFCamlQbHA2d0lRTnU?oc=5",
-      "publishedAt": "2026-10-06T10:33:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O locutor de longa data dos Blue Jackets tem um novo lar",
-      "titleOriginal": "Longtime radio voice of the Blue Jackets has a new home",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGxaaVlTQlFNWUZJTDVtVDJnVFVYdEx5SnIzTGR1ZGZwS3RKYlNnZTFwZFg5UnhFMFFkZ3NmQXdQendrOHZGZnpKZUF4YkxmQUhLRnBxdGl0LUJ3OEQwcUE3WktjMThSMW4yRE5qUmc4aWpwYVNFdTlYczhIMHM4YzJQVWsxMVJOT21TUG5fVkRGVmg5blNxUWdaOW5kUGRxRHd0TlZienNSOFpmV3c?oc=5",
-      "publishedAt": "2026-10-06T10:19:23.000Z"
+      "source": "The Hill",
+      "title": "Trump não reembolsará o governo pelos anúncios polêmicos",
+      "titleOriginal": "Trump won't reimburse government for controversial ads",
+      "link": "https://thehill.com/homenews/administration/6131835-donald-trump-political-ads-taxpayer-money/",
+      "publishedAt": "2026-10-06T17:04:39.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A “Cúpula Dourada” de Trump enfrenta dificuldades, com financiamento incerto",
-      "titleOriginal": "Trump's Golden Dome faces headwinds with funding uncertain",
-      "link": "https://thehill.com/policy/defense/6127776-golden-dome-missile-funding-crisis/",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
+      "title": "Com o fracasso da Lei SAVE, os republicanos transformam o sucesso em fracasso",
+      "titleOriginal": "With SAVE Act fail, Republicans snatch failure from the jaws of success",
+      "link": "https://thehill.com/opinion/congress-blog/6130070-save-america-act-failure/",
+      "publishedAt": "2026-10-06T17:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O primeiro livro de Alito coloca o juiz conservador no centro das atenções",
-      "titleOriginal": "Alito's first book pushes conservative justice into spotlight",
-      "link": "https://thehill.com/regulation/court-battles/6130540-justice-samuel-alito-supreme-court-book/",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
+      "title": "Mais de 347 milhões de crianças estão em risco devido ao El Niño, afirma a UNICEF",
+      "titleOriginal": "Over 347M children under threat due to El Niño, UNICEF says",
+      "link": "https://thehill.com/policy/energy-environment/6131548-el-nino-threat-unicef/",
+      "publishedAt": "2026-10-06T16:49:58.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A campanha de Hegseth para incentivar o voto recebe elogios e ceticismo",
-      "titleOriginal": "Hegseth's get-out-the-vote effort draws praise and skepticism",
-      "link": "https://thehill.com/policy/defense/6127163-pete-hegseth-us-troops-midterm-elections/",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A briga de Trump com Cotton causa alvoroço no Senado",
-      "titleOriginal": "Trump’s feud with Cotton snaps heads in the Senate",
-      "link": "https://thehill.com/homenews/senate/6130745-trump-doxxed-senator-cotton/",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump está atraindo eleitores democratas, mas será que ainda consegue fazer o mesmo pelo Partido Republicano?",
-      "titleOriginal": "Trump is turning out Democrats, but can he still do it for the GOP?",
-      "link": "https://thehill.com/homenews/campaign/6130505-trump-era-voter-turnout-trends/",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A eleição mais assistida da história dos Estados Unidos",
-      "titleOriginal": "The most-watched election in U.S. history",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kcU9OQ3Vwd2MzMjk4YXVsVHJkM2o0ZGhpSVVpRXNZSWlOSHJuRXdWX0ItMnFlQVNtSWhmVm9CenEwSXVfWTA2UTlPNmZmTXhvajVvQkRuZVgzRDZiWVFpNU5FUG1teFYwbnZ2dW5FeFc?oc=5",
-      "publishedAt": "2026-10-06T09:04:18.000Z"
+      "title": "Newsom recorre ao Centro Estadual de Avaliação de Ameaças em relação aos comentários de Trump sobre o programa nuclear do Irã",
+      "titleOriginal": "Newsom tags in State Threat Assessment Center over Trump's Iran nuclear comments",
+      "link": "https://thehill.com/homenews/state-watch/6131686-newsom-trump-iran-los-angeles-san-diego/",
+      "publishedAt": "2026-10-06T16:48:57.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Democratas de olho na Câmara enfrentam um dilema: alugar ou comprar?",
-      "titleOriginal": "Democrats Eyeing the House Face a Conundrum: Rent or Buy?",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/democrats-house-races-spending.html",
-      "publishedAt": "2026-10-06T09:03:34.000Z"
+      "title": "Homem indiciado indevidamente pede inquérito sobre a conduta de autoridades no caso do “Reflecting Pool”",
+      "titleOriginal": "Wrongly Indicted Man Seeks Inquiry of Official Conduct in Reflecting Pool Case",
+      "link": "https://www.nytimes.com/2026/10/06/us/politics/reflecting-pool-vandalism-case.html",
+      "publishedAt": "2026-10-06T16:38:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia de choque francesa lança gás lacrimogêneo enquanto mais de 250 mil pessoas se manifestam em todo o país em prol do financiamento da educação",
+      "titleOriginal": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+      "publishedAt": "2026-10-06T16:38:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A piada de Trump sobre a Califórnia causa polêmica",
+      "titleOriginal": "Trump’s California quip blows up",
+      "link": "https://thehill.com/newsletters/1230-report/6131748-trumps-california-quip-blows-up/",
+      "publishedAt": "2026-10-06T16:30:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Congresso nunca aprovou um orçamento de verdade",
+      "titleOriginal": "Congress has never passed a real budget",
+      "link": "https://thehill.com/opinion/congress-blog/economy-budget/6130570-comprehensive-budgeting-fix-borrowing/",
+      "publishedAt": "2026-10-06T16:30:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Anúncio de campanha no Arkansas gera reação negativa dos conservadores por retratar um beneficiário preguiçoso do programa de assistência social como branco",
+      "titleOriginal": "Arkansas campaign ad sparks conservative backlash for portraying lazy welfare recipient as white",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0lhQVdMS19DZmZlcFd5WnM3aFFuMXdmS2NORlBZbFZDQ3ZCZG4yTzI4RFYwVEFqZWxHY19ubGI5ejZTTld4UVlMWHAtRzBoTHVyZmlkVVZZWlZGVXdOUURZZ2RpWm0yUUt2bE1ZaUlLNVc3V0h1dlhCdDBNaHBuc1NIUmY0QVlSelhjdjYwbk54Q3JTR0NKOFJrczhNd2gwNjhGb040a2xFclpO?oc=5",
+      "publishedAt": "2026-10-06T16:26:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Sununu enumera suas divergências com Trump em reunião pública em New Hampshire",
+      "titleOriginal": "Sununu rattles off disagreements with Trump at New Hampshire town hall",
+      "link": "https://thehill.com/homenews/campaign/6131694-sununu-opposes-trump-policies/",
+      "publishedAt": "2026-10-06T16:17:00.000Z"
     }
   ]
 }
