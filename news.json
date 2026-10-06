@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-06T10:19:16.733Z",
+  "updatedAt": "2026-10-06T10:46:43.632Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Bottoms e Jackson se enfrentam no único debate confirmado entre os candidatos ao cargo de governador da Geórgia",
+      "titleOriginal": "Bottoms and Jackson meet for only confirmed Georgia governor debate",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHVMWTZHVmpBU210SWoya3lLSTVIVVVKZW5ZSGp6dnhsaXN1a05fblBnMWlTTEJsMlBWcGppR3l3YmJmRXpjRU5OUWNVaXRkdmxUS2hsblpWcXBZQkxoSGEzajlvOC0wUlE2RHNtMmQ5UzJHZXlMMWR6bHBHaW9oRnhBWnF0YVRZXzZRWFFpUE5RdUZ3ZFlGaUUtTFBpRUpXM3V1UjNNNDJRLWM?oc=5",
+      "publishedAt": "2026-10-06T10:33:12.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A disputa sobre o rebanho no nordeste de Ohio chega ao Congresso",
+      "titleOriginal": "Northeast Ohio Flock fight reaches Congress",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ZlFJRUFfVTJXZHcwcDJOLWlOenBwZUQtWnpmTlJndm0yc2RxZjBaSFdOX0xWQ1kxbnZDUkV3Ri1uUjhQN2dOUG9Lc0RBanZiT2FncWpVOEVQVGQ0cE14dWotX0FpMHpPcDBBQmdHZmFCamlQbHA2d0lRTnU?oc=5",
+      "publishedAt": "2026-10-06T10:33:12.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O locutor de longa data dos Blue Jackets tem um novo lar",
+      "titleOriginal": "Longtime radio voice of the Blue Jackets has a new home",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGxaaVlTQlFNWUZJTDVtVDJnVFVYdEx5SnIzTGR1ZGZwS3RKYlNnZTFwZFg5UnhFMFFkZ3NmQXdQendrOHZGZnpKZUF4YkxmQUhLRnBxdGl0LUJ3OEQwcUE3WktjMThSMW4yRE5qUmc4aWpwYVNFdTlYczhIMHM4YzJQVWsxMVJOT21TUG5fVkRGVmg5blNxUWdaOW5kUGRxRHd0TlZienNSOFpmV3c?oc=5",
+      "publishedAt": "2026-10-06T10:19:23.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A “Cúpula Dourada” de Trump enfrenta dificuldades, com financiamento incerto",
@@ -38,39 +59,18 @@
       "publishedAt": "2026-10-06T10:00:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "A eleição mais assistida da história dos Estados Unidos",
+      "titleOriginal": "The most-watched election in U.S. history",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kcU9OQ3Vwd2MzMjk4YXVsVHJkM2o0ZGhpSVVpRXNZSWlOSHJuRXdWX0ItMnFlQVNtSWhmVm9CenEwSXVfWTA2UTlPNmZmTXhvajVvQkRuZVgzRDZiWVFpNU5FUG1teFYwbnZ2dW5FeFc?oc=5",
+      "publishedAt": "2026-10-06T09:04:18.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Democratas de olho na Câmara enfrentam um dilema: alugar ou comprar?",
       "titleOriginal": "Democrats Eyeing the House Face a Conundrum: Rent or Buy?",
       "link": "https://www.nytimes.com/2026/10/06/us/politics/democrats-house-races-spending.html",
       "publishedAt": "2026-10-06T09:03:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Caso da Cornell destaca queda no número de casos de agressão sexual resolvidos durante o governo Trump",
-      "titleOriginal": "Cornell Case Highlights Drop in Resolved Sexual Assault Cases Under Trump",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/trump-cornell.html",
-      "publishedAt": "2026-10-06T09:03:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A disputa entre a Disney e a FCC chega aos tribunais",
-      "titleOriginal": "Battle Between Disney and the F.C.C. Moves to the Courts",
-      "link": "https://www.nytimes.com/2026/10/06/business/media/disney-abc-fcc-lawsuit-court.html",
-      "publishedAt": "2026-10-06T09:03:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a questão da pesca no Alasca se tornou um tema decisivo para as eleições de meio de mandato",
-      "titleOriginal": "How Alaska’s Fish Became a Defining Issue for the Midterms",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html",
-      "publishedAt": "2026-10-06T09:00:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pesquisa: Democratas têm grande vantagem em relação aos custos com saúde",
-      "titleOriginal": "Poll: Democrats hold major advantage on health care costs",
-      "link": "https://thehill.com/policy/healthcare/6130630-voters-trust-democrats-health-costs/",
-      "publishedAt": "2026-10-06T09:00:00.000Z"
     }
   ]
 }
