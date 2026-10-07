@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-10-07T01:48:36.178Z",
+  "updatedAt": "2026-10-07T08:40:21.628Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo caem com planos do G-7 de liberar petróleo bruto e diesel, mas riscos à navegação no Estreito de Ormuz persistem",
+      "titleOriginal": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
+      "publishedAt": "2026-10-07T08:08:52.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Líderes republicanos da Câmara admitem que o redesenho dos distritos eleitorais ficou aquém do esperado",
+      "titleOriginal": "House GOP leaders admit redistricting fell short",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2xoNmQ1aTJTalhCVHF3RHhxNzlSQVBxSVFJcUo5eGxmRWg4WFhjemhTdjJ4SG8wOGowaThURG9zNmswamhvSUxPVm9BWERyQlhuMGNxRlVodDMzOTFreDN5aUY1XzhDSVlQbUotODJjbmRaaDZBNHVHZDRmUjczOXJjZ0toWV8yb0E?oc=5",
+      "publishedAt": "2026-10-07T07:26:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | O ano dos outsiders políticos",
+      "titleOriginal": "Opinion | The Year of the Political Outsider",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oX1hzLTR6a1VqUDJvT0dMWlhvUUZ0SlNDVzdzcW1Zc0pWOUVSdlVOOURyc2tjbTNOVEh1TUk2MVNCNUpPVWZFai1CaTZDUXZKclRzcXE4Yk8zdnlaM3BNUDJLakp3OTVKdEhKdW0zZUZXcTRkeWlLTWhESQ?oc=5",
+      "publishedAt": "2026-10-07T07:17:59.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "CDC: Acompanha o risco de peste na Rússia e está “preparado” para qualquer ameaça",
+      "titleOriginal": "CDC: Monitoring Russian plague risk, \"prepared\" for any threat",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRl80d0VLZU9jVHVtbkhWUUw2QzdSNGpLck00Y1I2UlBWb3ZwZm5QV1ltVjNTcU5POENBRVZ1Q244UVdVbFJoQlVvOWRDbGc3NDJDTlNySTZfRk1qNDZXU0JKMktPb0xDa1JjbmZDOFUzRnE4ZkNhMG9OaC1SZDZUZ0xCVW40VGRyS2hxZQ?oc=5",
+      "publishedAt": "2026-10-07T05:48:17.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Collins e Jackson se enfrentam no primeiro debate para o Senado do Maine: três pontos a destacar",
-      "titleOriginal": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways",
-      "link": "https://thehill.com/homenews/campaign/6132984-maine-senate-debate-collins-jackson/",
-      "publishedAt": "2026-10-07T01:34:17.000Z"
+      "title": "Benson e James trocam farpas no debate para o governo de Michigan: três pontos a destacar",
+      "titleOriginal": "Benson, James spar in Michigan gubernatorial debate: 3 takeaways",
+      "link": "https://thehill.com/homenews/campaign/6133026-benson-james-michigan-gubernatorial-debate/",
+      "publishedAt": "2026-10-07T02:48:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Famílias de alguns soldados americanos mortos no ataque mais mortal da guerra contra o Irã não compareceram ao evento na Casa Branca",
+      "titleOriginal": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VpOTVFYU5JaFIxSGZ4SFg1dTVDamJQb2xSc18zanA3Nkc3UGxJTmhXS24xTmxwbUlRb255NGtncnJpSU1fUDBzUzNSREtydzJhdFIzS1kzcEVESGw2UDY4dDN2Sll6Rzg3MlM5REhiOXJSSDYyZW02cWFsendNMGFTbTJyejRILWRMMXNOVzU4blMxQ2NIdHIwSXNTeGkxaFIzdg?oc=5",
+      "publishedAt": "2026-10-07T02:19:00.000Z"
     },
     {
       "source": "New York Times",
@@ -24,53 +59,18 @@
       "publishedAt": "2026-10-07T00:41:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "O líder da Bulgária afirma que um ataque com drones atingiu duas embarcações comerciais, e o presidente da Ucrânia culpa a Rússia",
-      "titleOriginal": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
-      "publishedAt": "2026-10-06T23:34:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "O processo judicial dos “7 de Cornell” reacendeu o debate nos Estados Unidos sobre o consentimento sexual",
+      "titleOriginal": "The ‘Cornell 7’ Lawsuit Has Reignited America’s Debate Over Sexual Consent",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2FiWUh1VDUyUkxhTGdTaklBejR6VnpNcVltRVY4TFY0M1pxenpKSGN5c2lUT2gzRTBIQWNmajBxWmdKbk5YQXNicmRYaWg4QXp1MlFFbVQ5eE5LU24xRkhiNUctYUVTZkgyZlFtb2dNNTZxYm9GUFBDempPeVYyNGVHeHM5ajVEM2RyMWJn?oc=5",
+      "publishedAt": "2026-10-07T00:20:51.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Trump destaca um grande projeto novo na área de defesa em Maryland, um estado democrata cujo governador não compareceu",
-      "titleOriginal": "Trump highlights a big new defense project in Maryland, a blue state whose governor didn't attend",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk11VFpRZGlmeFFzTEN0aEtxMXVseUNuY1JHN2hHcG0zeV8wb3R0bW1DaWJKYkJQLTFhQ1lxcEx1UjFSMVFJci1lcmpaRlhpQ21rV196cVNzNUpPNzk2M05FZ0ZRUW9VbVN6dXk4c2RuazFvQWNzNU80OVpCYnJ1X3hkQXdPcXNSeTFkRGRLTzloRUdQQm9DNkY4cGJoWjF5TnFz?oc=5",
-      "publishedAt": "2026-10-06T23:34:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Planned Parenthood Votes destina US$ 1 milhão a campanhas publicitárias no Maine e em Michigan",
-      "titleOriginal": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
-      "link": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
-      "publishedAt": "2026-10-06T23:22:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que os reparos no Reflecting Pool estão quase concluídos e que o reabastecimento ocorrerá “nesta semana”",
-      "titleOriginal": "Trump says Reflecting Pool repairs are near complete, refill to come 'this week'",
-      "link": "https://thehill.com/homenews/administration/6132811-trump-lincoln-memorial-pool-repairs/",
-      "publishedAt": "2026-10-06T23:12:17.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Cinco pontos a serem destacados no novo livro de Thom Tillis, que se voltou contra Trump",
-      "titleOriginal": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/takeaways-book-thom-tillis-trump.html",
-      "publishedAt": "2026-10-06T23:06:19.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "“Vocês são péssimos”: Emmer critica duramente os republicanos do Senado",
-      "titleOriginal": "\"You suck\": Emmer unloads on Senate Republicans",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjBwUV9ob1J5WndwNG14N2RVS1l5aUVyQzZWTGNpMVFxdW9uOERESFRIUndHSlhCRnp3MlB2RllmeEV1Ukt5YTNHNEljdXJBZE01N25YVzRGeV9fRkxaWGlwdWQtOWhfQ3dTQXo4N1N2eGtaa0NDZjFHLWhqZWliY3RUSnYxWndFVkE?oc=5",
-      "publishedAt": "2026-10-06T22:59:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Líderes republicanos da Câmara admitem que o redesenho dos distritos eleitorais ficou aquém do esperado",
-      "titleOriginal": "House GOP leaders admit redistricting fell short",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2xoNmQ1aTJTalhCVHF3RHhxNzlSQVBxSVFJcUo5eGxmRWg4WFhjemhTdjJ4SG8wOGowaThURG9zNmswamhvSUxPVm9BWERyQlhuMGNxRlVodDMzOTFreDN5aUY1XzhDSVlQbUotODJjbmRaaDZBNHVHZDRmUjczOXJjZ0toWV8yb0E?oc=5",
-      "publishedAt": "2026-10-06T22:59:19.000Z"
+      "source": "Wall Street Journal",
+      "title": "Sheinbaum, do México, está ficando cansada de ser gentil com os EUA",
+      "titleOriginal": "Mexico’s Sheinbaum Is Getting Fed Up With Playing Nice With the U.S.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFpVQUFQbVYxQ0swSHJQQU0zUjNpYVEtdkxFZjdQQ1lQTGVjYWVQam5DLThDc29zNDE4aVJxbld6cjlXV3ZMUlhsck13YW8xYms1NDBBOE5BQ2xPRUVhbFUzTUsybXJXQkRSNnVXQWFseVlobDUwR3VPYi12VnFXLVVJdmZKN2RzQTYzdk1ZSmtiY1FVN1VaZjFqTWZXa0U?oc=5",
+      "publishedAt": "2026-10-07T00:00:00.000Z"
     }
   ]
 }
