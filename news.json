@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-07T08:40:21.628Z",
+  "updatedAt": "2026-10-07T09:16:02.803Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Por que a ex-esposa de Ken Paxton está defendendo sua campanha ao Senado",
+      "titleOriginal": "Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/angela-paxton-texas-senate-republican.html",
+      "publishedAt": "2026-10-07T09:02:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Praia em Guam: Suprema Corte analisa se as Forças Armadas podem detonar bombas nesse habitat",
+      "titleOriginal": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/supreme-court-air-force-guam.html",
+      "publishedAt": "2026-10-07T09:01:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "À medida que a disputa se acirra, os republicanos retomam o apoio moderado a Max Miller em Ohio",
+      "titleOriginal": "As Race Tightens, Republicans Resume Tepid Support For Max Miller in Ohio",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/max-miller-brian-poindexter-ohio-house.html",
+      "publishedAt": "2026-10-07T09:01:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Preços do petróleo caem com planos do G-7 de liberar petróleo bruto e diesel, mas riscos à navegação no Estreito de Ormuz persistem",
@@ -24,6 +45,13 @@
       "publishedAt": "2026-10-07T07:17:59.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Estatísticas avançadas e tacos de beisebol de US$ 500: por que o beisebol para crianças de 6 anos está custando uma fortuna",
+      "titleOriginal": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkgzYnBkdl80Sy0wMGFRWjRQRzdtX043WHNROUdNR2I1VXh0TTVEMTYwbzNUZ2VCT0FOSUthOHBhWVplcXlBTDJIN0NqeGtMSS1CTy1CaDRCVjBkM0F2WGtPWkRPbm9xTGwwRTkzZ0ZPLW1SYXpJVzcwUzN4Sm1Cb1FCdw?oc=5",
+      "publishedAt": "2026-10-07T07:01:21.000Z"
+    },
+    {
       "source": "Axios",
       "title": "CDC: Acompanha o risco de peste na Rússia e está “preparado” para qualquer ameaça",
       "titleOriginal": "CDC: Monitoring Russian plague risk, \"prepared\" for any threat",
@@ -43,34 +71,6 @@
       "titleOriginal": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VpOTVFYU5JaFIxSGZ4SFg1dTVDamJQb2xSc18zanA3Nkc3UGxJTmhXS24xTmxwbUlRb255NGtncnJpSU1fUDBzUzNSREtydzJhdFIzS1kzcEVESGw2UDY4dDN2Sll6Rzg3MlM5REhiOXJSSDYyZW02cWFsendNMGFTbTJyejRILWRMMXNOVzU4blMxQ2NIdHIwSXNTeGkxaFIzdg?oc=5",
       "publishedAt": "2026-10-07T02:19:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça recorre a partidários e adeptos de teorias da conspiração para preencher vagas em suas fileiras",
-      "titleOriginal": "Justice Dept. Turns to Partisans and Conspiracists to Fill Depleted Ranks",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/justice-department-civil-rights-division.html",
-      "publishedAt": "2026-10-07T00:52:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Como a Rússia e o mundo estão reagindo a um possível caso de peste pneumônica após a morte de um funcionário de laboratório",
-      "titleOriginal": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
-      "publishedAt": "2026-10-07T00:41:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O processo judicial dos “7 de Cornell” reacendeu o debate nos Estados Unidos sobre o consentimento sexual",
-      "titleOriginal": "The ‘Cornell 7’ Lawsuit Has Reignited America’s Debate Over Sexual Consent",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2FiWUh1VDUyUkxhTGdTaklBejR6VnpNcVltRVY4TFY0M1pxenpKSGN5c2lUT2gzRTBIQWNmajBxWmdKbk5YQXNicmRYaWg4QXp1MlFFbVQ5eE5LU24xRkhiNUctYUVTZkgyZlFtb2dNNTZxYm9GUFBDempPeVYyNGVHeHM5ajVEM2RyMWJn?oc=5",
-      "publishedAt": "2026-10-07T00:20:51.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Sheinbaum, do México, está ficando cansada de ser gentil com os EUA",
-      "titleOriginal": "Mexico’s Sheinbaum Is Getting Fed Up With Playing Nice With the U.S.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFpVQUFQbVYxQ0swSHJQQU0zUjNpYVEtdkxFZjdQQ1lQTGVjYWVQam5DLThDc29zNDE4aVJxbld6cjlXV3ZMUlhsck13YW8xYms1NDBBOE5BQ2xPRUVhbFUzTUsybXJXQkRSNnVXQWFseVlobDUwR3VPYi12VnFXLVVJdmZKN2RzQTYzdk1ZSmtiY1FVN1VaZjFqTWZXa0U?oc=5",
-      "publishedAt": "2026-10-07T00:00:00.000Z"
     }
   ]
 }
