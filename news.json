@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-07T21:59:15.168Z",
+  "updatedAt": "2026-10-07T22:16:10.118Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "El-Sayed afirma que Netanyahu levou os EUA a entrar na guerra contra o Irã",
+      "title": "El-Sayed afirma que Netanyahu levou os EUA a uma guerra contra o Irã",
       "titleOriginal": "El-Sayed says Netanyahu pushed US into Iran war",
       "link": "https://thehill.com/homenews/campaign/6135050-abdul-el-sayed-netanyahu-iran-war/",
       "publishedAt": "2026-10-07T21:44:51.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Agência de saúde da ONU pede mais detalhes à Rússia sobre caso suspeito de peste pneumônica",
+      "titleOriginal": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
+      "publishedAt": "2026-10-07T21:31:00.000Z"
     },
     {
       "source": "Politico",
@@ -46,7 +53,7 @@
     },
     {
       "source": "Axios",
-      "title": "O DNC entra com uma ação judicial para impedir a campanha publicitária de Trump financiada com dinheiro dos contribuintes",
+      "title": "O DNC entra com ação judicial para impedir a campanha publicitária de Trump financiada com dinheiro dos contribuintes",
       "titleOriginal": "DNC sues to stop Trump's taxpayer-funded ad blitz",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVSVdiSHJFY3llRm5CUHRsWFhwMEZyOWtlRExCZEhyRE0wU19fR0tJc1Rid0FwTllYdTVfTzhJT0xWNy04UkFrdC1wTjgyNU5aZTUtRHlOeEprSnNyYUxfY0NwUExCbHFKV2pXQmtDa29HVThFMkhoVHhn?oc=5",
       "publishedAt": "2026-10-07T20:51:05.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Half of Democratic voters say the party will win Congress because of Trump's actions: Poll",
       "link": "https://thehill.com/homenews/campaign/6134086-democrat-voters-congress-expectations/",
       "publishedAt": "2026-10-07T20:23:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump deve propor flexibilização das regras relativas ao metano para o setor de petróleo e gás",
-      "titleOriginal": "Trump to propose relaxing methane rules for oil and gas industry",
-      "link": "https://thehill.com/policy/energy-environment/6134812-trump-epa-methane-oil-and-gas-industry/",
-      "publishedAt": "2026-10-07T20:05:16.000Z"
     }
   ]
 }
