@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-06T21:53:28.293Z",
+  "updatedAt": "2026-10-07T01:33:01.221Z",
   "count": 10,
   "items": [
-    {
-      "source": "The Hill",
-      "title": "Presidente da Coreia do Sul acredita que modelos de IA foram usados em ataques cibernéticos a bancos",
-      "titleOriginal": "President of South Korea believes AI models were used in bank hacks",
-      "link": "https://thehill.com/policy/technology/6132458-south-korea-ai-bank-hacks/",
-      "publishedAt": "2026-10-06T21:50:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Resumo: Trump muda de rumo em relação aos anúncios polêmicos, destacando os riscos das eleições de meio de mandato",
-      "titleOriginal": "The Memo: Trump changes course on controversial ads, underscoring midterm dangers",
-      "link": "https://thehill.com/homenews/analysis/6132671-trump-pauses-taxpayer-funded-ads/",
-      "publishedAt": "2026-10-06T21:38:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A “Força de Superinteligência” de Trump começa a tomar forma",
-      "titleOriginal": "Trump's 'Super Intelligence Force' takes shape",
-      "link": "https://thehill.com/newsletters/technology/6132622-trumps-super-intelligence-force-takes-shape/",
-      "publishedAt": "2026-10-06T21:29:16.000Z"
-    },
     {
       "source": "New York Times",
       "title": "Departamento de Justiça recorre a partidários e adeptos de teorias da conspiração para preencher vagas em suas fileiras",
       "titleOriginal": "Justice Dept. Turns to Partisans and Conspiracists to Fill Depleted Ranks",
       "link": "https://www.nytimes.com/2026/10/06/us/politics/justice-department-civil-rights-division.html",
-      "publishedAt": "2026-10-06T21:12:43.000Z"
+      "publishedAt": "2026-10-07T00:52:09.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Caso da Cornell destaca queda no número de casos de agressão sexual resolvidos durante o governo Trump",
-      "titleOriginal": "Cornell Case Highlights Drop in Resolved Sexual Assault Cases Under Trump",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/trump-cornell.html",
-      "publishedAt": "2026-10-06T21:08:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Casa Branca e Departamento de Justiça pressionaram o FBI a investigar manifestantes, violando direitos: denunciante",
-      "titleOriginal": "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
-      "link": "https://thehill.com/homenews/administration/6132431-white-house-fbi-whistleblower/",
-      "publishedAt": "2026-10-06T20:43:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump atribui os protestos estudantis na França ao Islã e à “migração em massa fora de controle”",
-      "titleOriginal": "Trump blames French student protests on Islam, 'out of control mass migration'",
-      "link": "https://thehill.com/homenews/administration/6132427-trump-blames-france-protests/",
-      "publishedAt": "2026-10-06T20:33:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Morreu aos 66 anos uma voz influente no debate sobre o clima",
-      "titleOriginal": "An Influential Voice in the Climate Debate Has Died at 66",
-      "link": "https://www.nytimes.com/2026/10/06/climate/joe-romm-dead.html",
-      "publishedAt": "2026-10-06T20:25:06.000Z"
+      "source": "Wall Street Journal",
+      "title": "O bilionário de cabelo à mullet e fã de memes por trás do aplicativo de IA de sucesso da Meta",
+      "titleOriginal": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "publishedAt": "2026-10-07T00:32:02.000Z"
     },
     {
       "source": "AP News",
-      "title": "Audiência sobre o processo de deportação de Kilmar Ábrego Garcia é cancelada repentinamente",
-      "titleOriginal": "A hearing on Kilmar Ábrego Garcia’s deportation case is abruptly canceled",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3BoN0VwYWpVUHdzNVBBcVpMOEpxQ0puRVRMczJoSDVMUU1NOHliaUtRdkYzakx2YmszTC1fNnlOYWZtb3l3MEQ2OEVkdzFlRXY5UmgwUHRhblRjbkpBY3hlcEs1djRfMHJ5RDJ1a0NzSnNVMHFaUkFnZGJiR0Q2OVJGdm9ZaDl6RUtIb2ZSMHRvLUxEMnVXVzh0R21VV01UbVFSS3dtLVhRUQ?oc=5",
-      "publishedAt": "2026-10-06T20:25:00.000Z"
+      "title": "A polícia de choque francesa lança gás lacrimogêneo enquanto mais de 250 mil pessoas se manifestam em todo o país em prol do financiamento da educação",
+      "titleOriginal": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+      "publishedAt": "2026-10-06T23:37:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O líder da Bulgária afirma que um ataque com drones atingiu duas embarcações comerciais, e o presidente da Ucrânia culpa a Rússia",
+      "titleOriginal": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
+      "publishedAt": "2026-10-06T23:34:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump destaca um grande projeto novo na área de defesa em Maryland, um estado democrata cujo governador não compareceu",
+      "titleOriginal": "Trump highlights a big new defense project in Maryland, a blue state whose governor didn't attend",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk11VFpRZGlmeFFzTEN0aEtxMXVseUNuY1JHN2hHcG0zeV8wb3R0bW1DaWJKYkJQLTFhQ1lxcEx1UjFSMVFJci1lcmpaRlhpQ21rV196cVNzNUpPNzk2M05FZ0ZRUW9VbVN6dXk4c2RuazFvQWNzNU80OVpCYnJ1X3hkQXdPcXNSeTFkRGRLTzloRUdQQm9DNkY4cGJoWjF5TnFz?oc=5",
+      "publishedAt": "2026-10-06T23:34:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Johnson prevê que uma maioria democrata abrirá um processo de impeachment contra Trump imediatamente",
-      "titleOriginal": "Johnson predicts a Democratic majority will impeach Trump immediately",
-      "link": "https://thehill.com/homenews/house/6132420-johnson-predicts-democrats-impeach-trump/",
-      "publishedAt": "2026-10-06T20:18:16.000Z"
+      "title": "A Planned Parenthood Votes destina US$ 1 milhão a campanhas publicitárias no Maine e em Michigan",
+      "titleOriginal": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
+      "link": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
+      "publishedAt": "2026-10-06T23:22:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que os reparos no Reflecting Pool estão quase concluídos e que o reabastecimento ocorrerá “nesta semana”",
+      "titleOriginal": "Trump says Reflecting Pool repairs are near complete, refill to come 'this week'",
+      "link": "https://thehill.com/homenews/administration/6132811-trump-lincoln-memorial-pool-repairs/",
+      "publishedAt": "2026-10-06T23:12:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Cinco pontos a serem destacados no novo livro de Thom Tillis, que se voltou contra Trump",
+      "titleOriginal": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump",
+      "link": "https://www.nytimes.com/2026/10/06/us/politics/takeaways-book-thom-tillis-trump.html",
+      "publishedAt": "2026-10-06T23:06:19.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "“Vocês são péssimos”: Emmer critica duramente os republicanos do Senado",
+      "titleOriginal": "\"You suck\": Emmer unloads on Senate Republicans",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjBwUV9ob1J5WndwNG14N2RVS1l5aUVyQzZWTGNpMVFxdW9uOERESFRIUndHSlhCRnp3MlB2RllmeEV1Ukt5YTNHNEljdXJBZE01N25YVzRGeV9fRkxaWGlwdWQtOWhfQ3dTQXo4N1N2eGtaa0NDZjFHLWhqZWliY3RUSnYxWndFVkE?oc=5",
+      "publishedAt": "2026-10-06T22:59:58.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Líderes republicanos da Câmara admitem que o redesenho dos distritos eleitorais ficou aquém do esperado",
+      "titleOriginal": "House GOP leaders admit redistricting fell short",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2xoNmQ1aTJTalhCVHF3RHhxNzlSQVBxSVFJcUo5eGxmRWg4WFhjemhTdjJ4SG8wOGowaThURG9zNmswamhvSUxPVm9BWERyQlhuMGNxRlVodDMzOTFreDN5aUY1XzhDSVlQbUotODJjbmRaaDZBNHVHZDRmUjczOXJjZ0toWV8yb0E?oc=5",
+      "publishedAt": "2026-10-06T22:59:19.000Z"
     }
   ]
 }
