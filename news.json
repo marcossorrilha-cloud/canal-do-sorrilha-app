@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-07T09:16:02.803Z",
+  "updatedAt": "2026-10-07T16:29:29.968Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Por que a ex-esposa de Ken Paxton está defendendo sua campanha ao Senado",
-      "titleOriginal": "Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/angela-paxton-texas-senate-republican.html",
-      "publishedAt": "2026-10-07T09:02:35.000Z"
+      "source": "The Hill",
+      "title": "A maioria afirma que Trump e o Congresso não estão levando a sério os riscos da IA: pesquisa",
+      "titleOriginal": "Most say Trump, Congress not taking AI risk seriously: Survey",
+      "link": "https://thehill.com/policy/technology/6133962-voters-artificial-intelligence-federal-government-regulation-poll/",
+      "publishedAt": "2026-10-07T16:14:12.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Praia em Guam: Suprema Corte analisa se as Forças Armadas podem detonar bombas nesse habitat",
-      "titleOriginal": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/supreme-court-air-force-guam.html",
-      "publishedAt": "2026-10-07T09:01:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "À medida que a disputa se acirra, os republicanos retomam o apoio moderado a Max Miller em Ohio",
-      "titleOriginal": "As Race Tightens, Republicans Resume Tepid Support For Max Miller in Ohio",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/max-miller-brian-poindexter-ohio-house.html",
-      "publishedAt": "2026-10-07T09:01:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo caem com planos do G-7 de liberar petróleo bruto e diesel, mas riscos à navegação no Estreito de Ormuz persistem",
-      "titleOriginal": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
-      "publishedAt": "2026-10-07T08:08:52.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Líderes republicanos da Câmara admitem que o redesenho dos distritos eleitorais ficou aquém do esperado",
-      "titleOriginal": "House GOP leaders admit redistricting fell short",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2xoNmQ1aTJTalhCVHF3RHhxNzlSQVBxSVFJcUo5eGxmRWg4WFhjemhTdjJ4SG8wOGowaThURG9zNmswamhvSUxPVm9BWERyQlhuMGNxRlVodDMzOTFreDN5aUY1XzhDSVlQbUotODJjbmRaaDZBNHVHZDRmUjczOXJjZ0toWV8yb0E?oc=5",
-      "publishedAt": "2026-10-07T07:26:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | O ano dos outsiders políticos",
-      "titleOriginal": "Opinion | The Year of the Political Outsider",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oX1hzLTR6a1VqUDJvT0dMWlhvUUZ0SlNDVzdzcW1Zc0pWOUVSdlVOOURyc2tjbTNOVEh1TUk2MVNCNUpPVWZFai1CaTZDUXZKclRzcXE4Yk8zdnlaM3BNUDJLakp3OTVKdEhKdW0zZUZXcTRkeWlLTWhESQ?oc=5",
-      "publishedAt": "2026-10-07T07:17:59.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Estatísticas avançadas e tacos de beisebol de US$ 500: por que o beisebol para crianças de 6 anos está custando uma fortuna",
-      "titleOriginal": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkgzYnBkdl80Sy0wMGFRWjRQRzdtX043WHNROUdNR2I1VXh0TTVEMTYwbzNUZ2VCT0FOSUthOHBhWVplcXlBTDJIN0NqeGtMSS1CTy1CaDRCVjBkM0F2WGtPWkRPbm9xTGwwRTkzZ0ZPLW1SYXpJVzcwUzN4Sm1Cb1FCdw?oc=5",
-      "publishedAt": "2026-10-07T07:01:21.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "CDC: Acompanha o risco de peste na Rússia e está “preparado” para qualquer ameaça",
-      "titleOriginal": "CDC: Monitoring Russian plague risk, \"prepared\" for any threat",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRl80d0VLZU9jVHVtbkhWUUw2QzdSNGpLck00Y1I2UlBWb3ZwZm5QV1ltVjNTcU5POENBRVZ1Q244UVdVbFJoQlVvOWRDbGc3NDJDTlNySTZfRk1qNDZXU0JKMktPb0xDa1JjbmZDOFUzRnE4ZkNhMG9OaC1SZDZUZ0xCVW40VGRyS2hxZQ?oc=5",
-      "publishedAt": "2026-10-07T05:48:17.000Z"
+      "title": "Do Irã ao Reino Unido, Trump está sendo forçado a recuar",
+      "titleOriginal": "From Iran to the U.K., Trump Is Being Forced Into Retreat",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html",
+      "publishedAt": "2026-10-07T16:13:27.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Benson e James trocam farpas no debate para o governo de Michigan: três pontos a destacar",
-      "titleOriginal": "Benson, James spar in Michigan gubernatorial debate: 3 takeaways",
-      "link": "https://thehill.com/homenews/campaign/6133026-benson-james-michigan-gubernatorial-debate/",
-      "publishedAt": "2026-10-07T02:48:29.000Z"
+      "title": "Assista ao vivo: Trump vai anunciar a inscrição automática em contas de poupança para crianças",
+      "titleOriginal": "Watch live: Trump to unveil auto-enrollment for children’s savings accounts",
+      "link": "https://thehill.com/video-clips/6133800-watch-live-donald-trump-auto-enrollment-child-investment-accounts/",
+      "publishedAt": "2026-10-07T16:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Famílias de alguns soldados americanos mortos no ataque mais mortal da guerra contra o Irã não compareceram ao evento na Casa Branca",
-      "titleOriginal": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VpOTVFYU5JaFIxSGZ4SFg1dTVDamJQb2xSc18zanA3Nkc3UGxJTmhXS24xTmxwbUlRb255NGtncnJpSU1fUDBzUzNSREtydzJhdFIzS1kzcEVESGw2UDY4dDN2Sll6Rzg3MlM5REhiOXJSSDYyZW02cWFsendNMGFTbTJyejRILWRMMXNOVzU4blMxQ2NIdHIwSXNTeGkxaFIzdg?oc=5",
-      "publishedAt": "2026-10-07T02:19:00.000Z"
+      "source": "The Hill",
+      "title": "Como são, na verdade, três anos de destruição em Gaza",
+      "titleOriginal": "What 3 years of destruction in Gaza actually looks like",
+      "link": "https://thehill.com/opinion/international/6132252-israel-gaza-war-impact/",
+      "publishedAt": "2026-10-07T16:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Sand mantém vantagem de 12 pontos sobre Lahn na disputa pelo governo de Iowa, enquanto Hinson fica atrás de Turek na disputa pelo Senado: pesquisa",
+      "titleOriginal": "Sand holds 12-point lead over Lahn for Iowa governor while Hinson trails Turek in Senate race: Poll",
+      "link": "https://thehill.com/homenews/campaign/6133817-iowa-democrats-lead-polls/",
+      "publishedAt": "2026-10-07T15:49:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ben Affleck critica o clima político “irônico” e “depriment”: “Acho que seria um trabalho horrível”",
+      "titleOriginal": "Ben Affleck slams 'snarky,' 'depressing' political climate: 'I think it would be an awful job'",
+      "link": "https://thehill.com/blogs/in-the-know/6133922-ben-affleck-political-climate/",
+      "publishedAt": "2026-10-07T15:43:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Na China, uma batalha acirrada pela alma do Tibete está em andamento",
+      "titleOriginal": "In China, Battle Is Raging for the Soul of Tibet",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVY5MTQzcC1nMkN2VEJybnVsX0FqcjZTallXTkl5c1VQTF9mR25mdmtwTmN1eEFUZUpSZDJpUGlDWGNlOXBvM0pSQVFjWmttMVc0MTU0S0FnczFkWUFoUDQxcU5HcE45X2t1SHVhX1hBaElWMHhCZjUtMWRTWFlXNmlZR2pnRFN0N3c?oc=5",
+      "publishedAt": "2026-10-07T15:39:22.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Veja aqui os republicanos que estão apoiando candidatos democratas nas eleições de meio de mandato",
+      "titleOriginal": "Here are the Republicans backing Democratic candidates in the midterms",
+      "link": "https://thehill.com/homenews/campaign/6120527-republicans-endorse-democrats-midterms/",
+      "publishedAt": "2026-10-07T15:38:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "30 dias e 5 lições sobre as provas intermediárias",
+      "titleOriginal": "30 days and 5 takeaways on the midterms",
+      "link": "https://thehill.com/opinion/campaign/6132241-democrats-set-to-flip-house/",
+      "publishedAt": "2026-10-07T15:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democrata lança anúncio em que Moreno critica Miller, do Partido Republicano, por causa do coelhinho azul da filha",
+      "titleOriginal": "Democrat launches ad featuring Moreno ripping GOP's Miller over daughter's blue bunny",
+      "link": "https://thehill.com/homenews/campaign/6133769-poindexter-moreno-miller-ad-blue-bunny-ohio-house/",
+      "publishedAt": "2026-10-07T15:19:07.000Z"
     }
   ]
 }
