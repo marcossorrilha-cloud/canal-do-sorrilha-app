@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-08T08:59:17.325Z",
+  "updatedAt": "2026-10-08T09:27:45.168Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Como o governo Trump está minando os direitos dos passageiros de companhias aéreas",
+      "titleOriginal": "How the Trump Administration Is Eroding Airline Passengers’ Rights",
+      "link": "https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html",
+      "publishedAt": "2026-10-08T09:00:40.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "A Samsung prevê que o lucro operacional ultrapasse US$ 80 bilhões pela primeira vez",
+      "title": "A Samsung espera que o lucro operacional ultrapasse US$ 80 bilhões pela primeira vez",
       "titleOriginal": "Samsung Expects Operating Profit to Exceed $80 Billion For First Time",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT29pUjVPc09lVU1EU1ZfdkdTQ2NiYUxCWWdFUG56S2tIU2dIWGtiS2pGNVFHWTE2ajB6SURFU2VqODVsTlQ0eEgzU1g4MU4xdDA5Q3ZZUW9tb0ZVVzdwR2xuQVhuZzllbUJ6blZuN0owUFhPck1VMkR0TmhQbU40VlpEWDNvSzZmWk1QVVVaUzlleDNkbGJpWDY2VQ?oc=5",
       "publishedAt": "2026-10-08T08:21:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O DNC entra com uma ação judicial para impedir a campanha publicitária de Trump financiada com dinheiro dos contribuintes",
-      "titleOriginal": "DNC sues to stop Trump's taxpayer-funded ad blitz",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVSVdiSHJFY3llRm5CUHRsWFhwMEZyOWtlRExCZEhyRE0wU19fR0tJc1Rid0FwTllYdTVfTzhJT0xWNy04UkFrdC1wTjgyNU5aZTUtRHlOeEprSnNyYUxfY0NwUExCbHFKV2pXQmtDa29HVThFMkhoVHhn?oc=5",
-      "publishedAt": "2026-10-08T07:53:20.000Z"
     },
     {
       "source": "AP News",
@@ -39,7 +39,7 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Dólar de Cingapura se estabiliza; alta nos preços do petróleo pode pesar",
+      "title": "Dólar de Cingapura se consolida; alta nos preços do petróleo pode pesar",
       "titleOriginal": "Singapore Dollar Consolidates; Higher Oil Prices May Weigh",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3diVlREdk1ZMzVDZW4tOTRtRUtvRllCdUUyOEJfMm5WT1pOSHZrdWM4OW4wbXAwWEJPeXhfbkM4WkhrMURhQkRJT0FHR0szaWM4ZlFJQVRuTHUxallJR29XU29wRGlJa3k0cDdUMmJQcjF5R2NnMDVZTVplYnY1Qk44WDJBQnZUNXdrTGhkbS1kVkttX25JbndFeWVnb1dDb0M1RjNFMEdvSHQyOWJpU1hCNHJRSEl4eWIxQmdJZEVqRmxxT3FqX2Z3?oc=5",
       "publishedAt": "2026-10-08T02:58:00.000Z"
@@ -70,7 +70,7 @@
       "title": "Suspeita de conspiração envolvendo drones iranianos levanta questões de segurança em bases do Reino Unido",
       "titleOriginal": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVBzVzlxcjRlWFRmNkd1TmoxNEZsWUM4WkRDMVFJMWQ0UExXc1dNTXJyNUhoVi1XZnVkdHlKWThpOUlWUmFYQ1RJanhrVkJaMjlNclY5Q082Q3A3cmxONHRCcGhNWnFqajlnalhranNWNUtxaGxSNGxmSmNFX05QWEhJLUhYbUE0SjNVZFVhaWlENTM2SzZ6QXBQNGl5eDFLdnU1LQ?oc=5",
-      "publishedAt": "2026-10-08T01:15:00.000Z"
+      "publishedAt": "2026-10-08T01:17:55.000Z"
     }
   ]
 }
