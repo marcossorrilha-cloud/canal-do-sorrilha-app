@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-08T02:16:25.134Z",
+  "updatedAt": "2026-10-08T08:59:17.325Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Praia em Guam: Suprema Corte analisa se as Forças Armadas podem detonar bombas nesse habitat",
-      "titleOriginal": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/supreme-court-air-force-guam.html",
-      "publishedAt": "2026-10-08T00:50:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump concederá a Medalha Nacional de Ciência a Elon Musk",
-      "titleOriginal": "Trump to award National Medal of Science to Elon Musk",
-      "link": "https://thehill.com/homenews/administration/6135421-trump-awards-national-medal-science/",
-      "publishedAt": "2026-10-08T00:47:58.000Z"
+      "source": "Wall Street Journal",
+      "title": "A Samsung prevê que o lucro operacional ultrapasse US$ 80 bilhões pela primeira vez",
+      "titleOriginal": "Samsung Expects Operating Profit to Exceed $80 Billion For First Time",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT29pUjVPc09lVU1EU1ZfdkdTQ2NiYUxCWWdFUG56S2tIU2dIWGtiS2pGNVFHWTE2ajB6SURFU2VqODVsTlQ0eEgzU1g4MU4xdDA5Q3ZZUW9tb0ZVVzdwR2xuQVhuZzllbUJ6blZuN0owUFhPck1VMkR0TmhQbU40VlpEWDNvSzZmWk1QVVVaUzlleDNkbGJpWDY2VQ?oc=5",
+      "publishedAt": "2026-10-08T08:21:00.000Z"
     },
     {
       "source": "Axios",
       "title": "O DNC entra com uma ação judicial para impedir a campanha publicitária de Trump financiada com dinheiro dos contribuintes",
       "titleOriginal": "DNC sues to stop Trump's taxpayer-funded ad blitz",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVSVdiSHJFY3llRm5CUHRsWFhwMEZyOWtlRExCZEhyRE0wU19fR0tJc1Rid0FwTllYdTVfTzhJT0xWNy04UkFrdC1wTjgyNU5aZTUtRHlOeEprSnNyYUxfY0NwUExCbHFKV2pXQmtDa29HVThFMkhoVHhn?oc=5",
-      "publishedAt": "2026-10-07T23:45:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações ao vivo: Trump realiza comícios em San Antonio; Iowa e Pensilvânia são o centro das atenções no debate",
-      "titleOriginal": "Live updates: Trump rallies in San Antonio; Iowa, Pennsylvania in debate spotlight",
-      "link": "https://thehill.com/homenews/administration/6133060-live-updates-candidates-trump-texas-midterm-debates/",
-      "publishedAt": "2026-10-07T23:43:35.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Forças armadas recebem ordem para se prepararem para possíveis ataques ao Irã, enquanto Trump avalia o momento certo",
-      "titleOriginal": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
-      "publishedAt": "2026-10-07T23:10:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A quem Ken Paxton está recorrendo em busca de ajuda na disputa pelo Senado do Texas?",
-      "titleOriginal": "Who Is Ken Paxton Turning to for Help in the Texas Senate Race?",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/ken-paxton-texas-senate-race.html",
-      "publishedAt": "2026-10-07T22:56:44.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Empresas farmacêuticas contestam programa piloto do governo Trump",
-      "titleOriginal": "Drugmakers challenge Trump admin pilot program",
-      "link": "https://thehill.com/newsletters/healthcare/6135281-drugmakers-challenge-trump-admin-pilot-program/",
-      "publishedAt": "2026-10-07T22:55:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Don Lemon afirma que há “65, 70” por cento de chance de ele concorrer à presidência",
-      "titleOriginal": "Don Lemon says there's ‘65, 70' percent chance he runs for president",
-      "link": "https://thehill.com/homenews/media/6135244-don-lemon-considers-presidency/",
-      "publishedAt": "2026-10-07T22:48:53.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Levi Strauss utiliza reembolsos de tarifas para reaquecer o segmento de consumo",
-      "titleOriginal": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmt4aG9xTXZKa2JsVkV0dlJzN3pjcEhUOWg1YVJSYXJMbWlFb2pRODgzSzJTWDZIa3VQalhOVWUtNFoyM24xNVFHSFVZZXBqOHBSSUtjMEJrLTg4UGJ3aGx2WUtBVjFPbVFNbjVjMWVBSnEwSU1qVF9oWVVINXp4U1hTRkl4dllSWDl1VGVQdkQ4Zjl2THhVTUUyZDF2M2pfbUpoUTJBWGwxZk81MlE?oc=5",
-      "publishedAt": "2026-10-07T22:48:00.000Z"
+      "publishedAt": "2026-10-08T07:53:20.000Z"
     },
     {
       "source": "AP News",
-      "title": "O FBI afirma ter impedido um ataque terrorista no Mall of America perpetrado por um adolescente depois que agentes venderam a ele um fuzil de assalto",
-      "titleOriginal": "FBI says it stopped a Mall of America terror attack by a teen after agents sold him an assault rifle",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkI4VXFKNDUtY0k3ZW9TU0FCWmxzT3FkMWJZQ0Qtc29xRjVrbWlCT2pBNGw0T1VHUlhXN0NVWENDVXNwR2FsbkdXNFdXNkItNDFIZW0tQ1lpQndFMHdQcUs2cXhtbUI2cjJmUFpNVWlIc1laN2c5WFhjWm5lN1VmeElseEpWalg4ZUZBM19NRlhhOHRpNGdkVUtzNnFfZTZwdzBGOQ?oc=5",
-      "publishedAt": "2026-10-07T22:38:00.000Z"
+      "title": "Rahul Gandhi foi detido por um breve período enquanto crescem os protestos na Índia contra a exclusão de 130 milhões de eleitores das listas eleitorais",
+      "titleOriginal": "Rahul Gandhi briefly detained as India’s protests grow over removals of 130 million from voter lists",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkl1NVh5YjZ4dUI3WkhKdTJtUzEyeTNZVnNySURfUW4ya1NJNUFWQ1ROakU5TzB0TVAwLVhGTUxyeWtWVmdnQlNwclQzUi1CVmx4cXBNR05RUDg3c1lXbC15YlZGenpEQjVwUXFTQm1VaHhYeThFOC1Nd29KbGI3NjVzMnpzN0pJT2t6ajlpaW9QVmMxbkg0Zk5fX0RIdW5rN1ZOdXNkSmRrLXN5MzNV?oc=5",
+      "publishedAt": "2026-10-08T04:02:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O ex-lançador da MLB Roger Clemens receberá a Medalha da Liberdade, afirma Trump",
+      "titleOriginal": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
+      "link": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/",
+      "publishedAt": "2026-10-08T03:25:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump reacende a briga com Cuellar, que considera “ingrato” por ter permanecido no Partido Democrata após o perdão",
+      "titleOriginal": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
+      "link": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/",
+      "publishedAt": "2026-10-08T03:15:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Dólar de Cingapura se estabiliza; alta nos preços do petróleo pode pesar",
+      "titleOriginal": "Singapore Dollar Consolidates; Higher Oil Prices May Weigh",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3diVlREdk1ZMzVDZW4tOTRtRUtvRllCdUUyOEJfMm5WT1pOSHZrdWM4OW4wbXAwWEJPeXhfbkM4WkhrMURhQkRJT0FHR0szaWM4ZlFJQVRuTHUxallJR29XU29wRGlJa3k0cDdUMmJQcjF5R2NnMDVZTVplYnY1Qk44WDJBQnZUNXdrTGhkbS1kVkttX25JbndFeWVnb1dDb0M1RjNFMEdvSHQyOWJpU1hCNHJRSEl4eWIxQmdJZEVqRmxxT3FqX2Z3?oc=5",
+      "publishedAt": "2026-10-08T02:58:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Ex-consultor de IA da Casa Branca está levantando um fundo de capital de risco de US$ 500 milhões",
+      "titleOriginal": "Ex-White House AI advisor is raising $500 million VC fund",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41OUUxbzRXZGZCWmVSTXdpejkybnQ4MktuQWFwbS1vdG9ZM3lCYmlSbVZYc2hkb2pwbE5mWm52cmZNcDBDbk1uUy1tcHRiMThaeE5VcUZZMkJGMHRYYXAzVlBXb0RtZl94NEJudGJhaHVyeGJQMnFuaEZZTQ?oc=5",
+      "publishedAt": "2026-10-08T02:53:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Shapiro e Garrity divergem sobre centros de dados e resposta ao sarampo no debate para o cargo de governador da Pensilvânia: 4 pontos a serem destacados",
+      "titleOriginal": "Shapiro, Garrity clash on data centers, measles response in Pennsylvania governor debate: 4 takeaways",
+      "link": "https://thehill.com/homenews/campaign/6135511-shapiro-garrity-debate-takeaways/",
+      "publishedAt": "2026-10-08T02:50:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump foi interrompido por manifestantes enquanto tentava mobilizar os eleitores do Texas em apoio a Paxton na disputa pelo Senado dos EUA",
+      "titleOriginal": "Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in US Senate race",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPai10bGs1bDBGNUlnQXhJUWE3VmVKa196eWFuWmZLVTg2WTltdXlmTG16aWNBTllKaXJhbU9XNFJ5el9Rakk3U0k2TC1OcDNGM0VKa01ac004SFEzN3NBd1NOazU0MWFDOWtsRG1SaHZIYmhlSUlSUno1LUFjNDhzTDJvc1pHOGNRakt2SzVJdmhDSzFGQ3R1cjg0RFY?oc=5",
+      "publishedAt": "2026-10-08T02:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Suspeita de conspiração envolvendo drones iranianos levanta questões de segurança em bases do Reino Unido",
+      "titleOriginal": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVBzVzlxcjRlWFRmNkd1TmoxNEZsWUM4WkRDMVFJMWQ0UExXc1dNTXJyNUhoVi1XZnVkdHlKWThpOUlWUmFYQ1RJanhrVkJaMjlNclY5Q082Q3A3cmxONHRCcGhNWnFqajlnalhranNWNUtxaGxSNGxmSmNFX05QWEhJLUhYbUE0SjNVZFVhaWlENTM2SzZ6QXBQNGl5eDFLdnU1LQ?oc=5",
+      "publishedAt": "2026-10-08T01:15:00.000Z"
     }
   ]
 }
