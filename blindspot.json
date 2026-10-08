@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-08T08:59:24.925Z",
-  "slot": "2026-10-08-AM",
+  "updatedAt": "2026-10-08T16:29:31.580Z",
+  "slot": "2026-10-08-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "“Não é exatamente seu senador favorito”: Susan Collins se distancia de Trump em debate no Maine",
-      "titleOriginal": "‘Not exactly his favorite senator’: Susan Collins distances herself from Trump in Maine debate",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3R2TmJaLVQ1bDJERl8wRXUwMmdSd3FYc19ET19MeGtuWEVCOG1Zc3NsclU5OURNWm9xT3lCWmNlQW9wT1VuLUVYUElTMDRDSWY0alB0QWkxNDR6ZXBPNVJNc0pIMzdaQko5YTZLYnM5R3kzTU9KeE9aV18td0J2TktFS3NfV1Vn?oc=5",
-      "source": "The Guardian",
-      "coverage": 4
+      "title": "O que os especialistas querem saber sobre o alarme de peste na Rússia",
+      "titleOriginal": "What Experts Want to Know About the Russia Plague Scare",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PY3hFcGZhMkY0azZ1UjNYekFwaW5pMGVrbWUyYk1seGVMdFFPbzNYQmFMd3U0bWctNUNMNUctVVU4VUg1OTJOZnQ1eGFmU2c4VmIyMTRDb2tURkN5dW9ybVZRaGlhdi12UV9PM1RNeHpSUUZ0NUJoNXRtSQ?oc=5",
+      "source": "New York Times",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Diretor do CDC apresenta atualização sobre o surto de peste na Rússia",
-      "titleOriginal": "CDC Director Gives Update on Russia Plague Outbreak",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1BQRVFGa0FKRUticDdfbXgydFBRb2o2cndBUnZVM1JwZVlXVHV2aXRIQVJHc0hrcWhKX0NVZEhYZlI4NE1ieC05VzBWekQxcjN6NmZyeVoyb1ZlbGxfU2RJRDlYZW5CbnhNdU44V09uYzJEV3ZLM1lwMzFOUk1CNkNoVHFoNjM3S2M5NjItQUN6azV6QU5CUk9UWkZ6TkkzTGl2dDQyc2ZLTnpZVU1QNncxZnk?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 3
+      "title": "A Casa Branca se prepara para mais uma rejeição ao Prêmio Nobel da Paz — mas Trump poderia mudar o panorama com duas medidas",
+      "titleOriginal": "White House braces for another Nobel Peace Prize snub — but Trump could turn prospects around with two actions",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEFiM0M5bktzYWRreHQ5MEhTTXRjS1pSb0h1UXYyd0tNTVBDYm1ZRy1uLTZoVUcySTVGaF9ibW1aQ2RTcWg4RDRrc1RjS1hfbDBpc0FtdXBzRm1uQlRQbGtfNGd4MG1DbElUcm54WDdsSkluaXkxY0lzSmxyZ1VYaVVJTXowbDF2MDVmTXcyeG9Rdi1ENXdsUE9JaWwxS1ZETVdwd21WSEZWeHhmNHd0Q1czLWw3N21ib0t3eEZCZEY5UHVTR1lybF9wak56QWJzOXI3eVh5V3hkTUJ4MnNEUw?oc=5",
+      "source": "New York Post",
+      "coverage": 4
     }
   ]
 }
