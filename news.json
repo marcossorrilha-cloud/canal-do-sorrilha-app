@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-08T16:29:23.583Z",
+  "updatedAt": "2026-10-08T16:56:56.660Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Legisladores de ambos os partidos pressionam seus colegas a aceitar os resultados das eleições de meio de mandato",
+      "titleOriginal": "Bipartisan lawmakers push colleagues to accept midterm results",
+      "link": "https://thehill.com/homenews/house/6136767-bipartisan-lawmakers-2026-midterm-election-results/",
+      "publishedAt": "2026-10-08T16:47:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Juiz prorroga suspensão temporária da proibição de acesso à mídia imposta por Trump",
+      "titleOriginal": "Judge extends temporary block on Trump’s media ban",
+      "link": "https://thehill.com/regulation/court-battles/6136734-judge-timothy-kelly-briefly-extends-trump-media-ban-block/",
+      "publishedAt": "2026-10-08T16:40:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Schumer critica as “bobagens preconceituosas” de Trump sobre El-Sayed",
+      "titleOriginal": "Schumer blasts Trump's 'bigoted bulls‑‑‑' on El-Sayed",
+      "link": "https://thehill.com/homenews/senate/6136568-schumer-denounces-trump-michigan/",
+      "publishedAt": "2026-10-08T16:36:46.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Cineasta premiado é detido por autoridades de imigração nos EUA",
@@ -25,7 +46,7 @@
     },
     {
       "source": "AP News",
-      "title": "As ações dos EUA se afastam ainda mais de seu recorde, à medida que os preços do petróleo sobem",
+      "title": "Ações dos EUA se afastam ainda mais de seu recorde, com a alta dos preços do petróleo",
       "titleOriginal": "US stocks edge further from their record as oil prices rise",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
       "publishedAt": "2026-10-08T15:48:00.000Z"
@@ -50,27 +71,6 @@
       "titleOriginal": "Top House Democrat unveils surprise medical billing overhaul",
       "link": "https://thehill.com/policy/healthcare/6136385-lower-premiums-faster-payments-act/",
       "publishedAt": "2026-10-08T15:38:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Juiz afirma que os mandados de busca utilizados para apreender bens do ex-príncipe Andrew eram ilegais",
-      "titleOriginal": "Judge says search warrants used to seize property from former Prince Andrew were unlawful",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUpnTlNYUmV1UmFpQm9sMjQ0R0xxTmxSWjJHeERMRjVGUHRwNUFvb21KNjRPVkVRSndwZ19lcFp1ckJXcUVta201bHNEaHlCZFBPc0dHRHFKMDJuYl95dWRxRU9KVV9wcHVrX2RJYWJfX05oWWRtenBqQlM0RGstMGFmLWVUdWdIU1FVUHUzZjVZOWpTcXdiU1BhM3hfaVNSV0VJ?oc=5",
-      "publishedAt": "2026-10-08T15:06:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Candidata ao Congresso afirma ter sido estuprada enquanto consertava cartazes de campanha",
-      "titleOriginal": "Congressional candidate says she was raped while repairing campaign signs",
-      "link": "https://thehill.com/homenews/campaign/6136266-bernadette-green-placentia-arizona-house-campaign-sexual-assault-allegation/",
-      "publishedAt": "2026-10-08T15:05:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os republicanos do Senado dão a ele mais uma última chance",
-      "titleOriginal": "Senate Republicans give it one more last chance",
-      "link": "https://thehill.com/opinion/congress-blog/6134140-senate-midterm-legislative-gridlock/",
-      "publishedAt": "2026-10-08T15:00:00.000Z"
     }
   ]
 }
