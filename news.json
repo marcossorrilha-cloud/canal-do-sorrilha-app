@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-08T22:04:48.223Z",
+  "updatedAt": "2026-10-08T22:27:58.209Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Pentágono adjudica contrato de US$ 6,3 bilhões à Raytheon para interceptores de mísseis",
+      "titleOriginal": "Pentagon awards $6.3 billion contract to Raytheon for missile interceptors",
+      "link": "https://thehill.com/newsletters/defense-national-security/6137737-pentagon-awards-6-3-billion-contract-to-raytheon-for-missile-interceptors/",
+      "publishedAt": "2026-10-08T22:16:58.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump isenta a exploração de petróleo na reserva petrolífera do Ártico de avaliações ambientais",
+      "titleOriginal": "Trump exempts oil exploration in Arctic petroleum reserve from environmental reviews",
+      "link": "https://thehill.com/policy/energy-environment/6137733-alaska-oil-drilling-environmental-reviews/",
+      "publishedAt": "2026-10-08T22:16:55.000Z"
+    },
     {
       "source": "The Hill",
       "title": "A NFL insta a Suprema Corte a analisar os mercados de previsão",
@@ -18,7 +32,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Minnesota exige respostas na disputa com Trump sobre fraudes no Medicaid",
+      "title": "Minnesota exige respostas na luta contra a fraude no Medicaid com Trump",
       "titleOriginal": "Minnesota demands answers in Medicaid fraud fight with Trump",
       "link": "https://thehill.com/newsletters/healthcare/6137662-minnesota-demands-answers-in-medicaid-fraud-fight-with-trump/",
       "publishedAt": "2026-10-08T21:36:58.000Z"
@@ -29,6 +43,13 @@
       "titleOriginal": "Johnson floats return to Louisiana if GOP loses majority in midterms",
       "link": "https://thehill.com/homenews/house/6137660-johnson-gop-house-majority-louisiana/",
       "publishedAt": "2026-10-08T21:35:33.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Kushner e Witkoff vão apresentar “novas ideias” para pôr fim à guerra entre a Rússia e a Ucrânia",
+      "titleOriginal": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1puNmRXdGdTOVF1X3NwZk42aV81OEtidU9RdTFObE5yekNDTnI2dDIwWHhiN3VwazlEX2JpUTZQQy13YXNFa3FOUjlDX0JRQnhfcGNnYm4zTlJXRnlsT2l5TUIyM3ZHVUd4MDBBcmdjSF9EU0M4X0g1ekwyS0VvSTFUUVdLakxvcTVnSkxzZ2E?oc=5",
+      "publishedAt": "2026-10-08T21:33:08.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "Judge dismisses deputy administrator lawsuit against Polk County",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbS1UZnlaN0ZOeVVjRkhfMVhTR2hPbm80aXdhV1FCSXFKSG16aXNzOXhoZDhvb0RZT252YTl3Z29ERXQ4dlVPTnlfQmx4SFVwZWJkdWt6QmdHRjdlZXByblZNWTNKcGRHVW1xd2lYYmFPTzVvSTZBdGR6eUt2bnc1VTVNTzZQX21uSlhMQVhEZ0dyWEFnbUE?oc=5",
       "publishedAt": "2026-10-08T21:11:44.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que os EUA não atacarão o Irã novamente antes das eleições de meio de mandato, enquanto as Forças Armadas elaboram novos planos",
-      "titleOriginal": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
-      "link": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
-      "publishedAt": "2026-10-08T21:05:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump: Quem fala em “IA” é “O INIMIGO!” A Casa Branca usa essa tecnologia",
-      "titleOriginal": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-      "publishedAt": "2026-10-08T20:58:57.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo de Trump suspende a Microsoft do programa de green card, alegando fraude em vistos",
-      "titleOriginal": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
-      "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
-      "publishedAt": "2026-10-08T20:51:38.000Z"
     }
   ]
 }
