@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-09T16:13:36.827Z",
+  "updatedAt": "2026-10-09T16:35:13.117Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Leia as mensagens de Guilfoyle para o doador do Partido Republicano, Deters: “Você vai, literalmente, me custar o cargo de embaixadora”",
+      "titleOriginal": "Read Guilfoyle's texts to GOP donor Deters: 'You'll literally cost me my ambassadorship'",
+      "link": "https://thehill.com/homenews/administration/6137732-kimberly-guilfoyle-gop-donor-money-texts/",
+      "publishedAt": "2026-10-09T16:28:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A disputa pelo Senado do Kansas é uma nova e surpreendente batalha nas eleições de meio de mandato",
+      "titleOriginal": "Kansas Senate Race Is a Surprising New Midterm Fight",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html",
+      "publishedAt": "2026-10-09T16:21:17.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA impõem sanções abrangentes ao Tribunal Penal Internacional como parte de uma iniciativa para desmantelar o tribunal",
+      "titleOriginal": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
+      "publishedAt": "2026-10-09T16:12:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Bispo católico de destaque pede ao Pentágono que não transmita a execução ao vivo",
@@ -17,11 +38,25 @@
       "publishedAt": "2026-10-09T15:21:17.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Empresa de capital de risco por trás da startup de chips Groq tem como meta um megafundo de US$ 10 bilhões",
+      "titleOriginal": "Exclusive | Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5",
+      "publishedAt": "2026-10-09T15:01:36.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Imaginemos que Orban esteja na cédula eleitoral — ele também ofereceu benefícios sociais",
       "titleOriginal": "Pretend Orban is on the ballot — he offered handouts, too",
       "link": "https://thehill.com/opinion/white-house/6137051-orban-style-taxpayer-giveaways/",
       "publishedAt": "2026-10-09T15:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "5 momentos marcantes do acirrado debate no Senado de Michigan entre El-Sayed e Rogers",
+      "titleOriginal": "5 Key Moments From Hostile Michigan Senate Debate Between El-Sayed and Rogers",
+      "link": "https://www.nytimes.com/2026/10/08/us/politics/michigan-senate-debate-moments-el-sayed-rogers.html",
+      "publishedAt": "2026-10-09T14:51:01.000Z"
     },
     {
       "source": "Axios",
@@ -36,41 +71,6 @@
       "titleOriginal": "Vance set to visit Texas for second time in 2 weeks",
       "link": "https://thehill.com/homenews/campaign/6138767-vance-set-to-visit-texas-for-second-time-in-two-weeks/",
       "publishedAt": "2026-10-09T14:46:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Os EUA impõem sanções abrangentes ao Tribunal Penal Internacional como parte de uma iniciativa para desmantelar o tribunal",
-      "titleOriginal": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
-      "publishedAt": "2026-10-09T14:41:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump critica o sistema eleitoral do Alasca: “Quão idiotas somos para fazer isso?”",
-      "titleOriginal": "Trump knocks Alaska voting system: 'How stupid are we to do this?'",
-      "link": "https://thehill.com/homenews/campaign/6138717-trump-criticizes-alaska-ranked-choice-voting/",
-      "publishedAt": "2026-10-09T14:39:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A aprovação de Trump cai para 30% em nova pesquisa",
-      "titleOriginal": "Trump approval sinks to 30 percent in new survey",
-      "link": "https://thehill.com/homenews/administration/6138566-trump-approval-rating-pew-research/",
-      "publishedAt": "2026-10-09T14:35:33.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"Não é um fetiche, não é um tabu\": democratas avaliam novo processo de impeachment contra Trump",
-      "titleOriginal": "\"Not a fetish, not a taboo\": Democrats weigh another Trump impeachment",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGxNQnA4T1BDb0pTanZ0RXE0clNPUGR2bXhfYnR5T2ZxVlhiSkRPTVEyc0NkM1NDVVQ3RDBSUmpGVWVCSDRFZGxudlAyOWsxS0tEUEFCVFNDZzFVSWxvMGZKN0NoN1hLZlpOdXppbW85ZEpYZ0xCTEtRb25JNGhtZA?oc=5",
-      "publishedAt": "2026-10-09T14:24:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Califórnia ameaça agravar as dores de cabeça dos democratas da Câmara em 2027",
-      "titleOriginal": "California threatens to worsen House Democrats' 2027 headaches",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDFiWlp3Ui00YUl4czRJZHBzbmhEako1Z3dWa1hoZFlMVVJxTk9nUnhhTElwT1MyTUFxemdIQlhNLXdfMmdSMENlbGdDbmkzeHBLTjFzQ19qZkxUak4ycndlSEY0Y1kzQzFySnU3S1BBQlJsZ0x6T1hBNHBVNWN6NjJ4bEM?oc=5",
-      "publishedAt": "2026-10-09T14:06:34.000Z"
     }
   ]
 }
