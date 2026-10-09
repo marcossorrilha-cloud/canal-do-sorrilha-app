@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-09T20:56:30.783Z",
+  "updatedAt": "2026-10-09T21:17:02.091Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump se apresenta como o defensor de Colombo em discurso dirigido aos ítalo-americanos",
+      "titleOriginal": "Trump Casts Himself as Columbus’s Protector in Pitch to Italian Americans",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-columbus-italian-americans.html",
+      "publishedAt": "2026-10-09T21:12:39.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que importará diesel russo em meio aos altos preços",
+      "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+      "publishedAt": "2026-10-09T21:05:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Empresa de capital de risco por trás da startup de chips Groq tem como meta um megafundo de US$ 10 bilhões",
+      "titleOriginal": "Exclusive | Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5",
+      "publishedAt": "2026-10-09T21:01:36.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Comissão de Investigação do Senado critica os custos da detenção de imigrantes em Guantánamo",
+      "titleOriginal": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
+      "publishedAt": "2026-10-09T20:56:23.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Zelensky afirma à Axios que o acordo de Trump com Putin sobre o diesel “não é justo nem honesto”",
+      "titleOriginal": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
+      "publishedAt": "2026-10-09T20:54:46.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Katie Zacharia é escolhida como nova secretária de imprensa da Casa Branca de Trump",
@@ -24,53 +59,18 @@
       "publishedAt": "2026-10-09T20:20:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Jackson mantém ligeira vantagem sobre Collins em pesquisa sobre a disputa pelo Senado no Maine",
-      "titleOriginal": "Jackson holds slight lead over Collins in Maine Senate race survey",
-      "link": "https://thehill.com/homenews/campaign/6139683-jackson-leads-collins-poll/",
-      "publishedAt": "2026-10-09T19:58:08.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que importará diesel russo em meio aos altos preços",
-      "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
-      "publishedAt": "2026-10-09T19:57:55.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump confirma que não comparecerá mais ao jogo entre Alabama e Geórgia devido ao furacão Isaias",
-      "titleOriginal": "Trump confirms he will no longer attend Alabama-Georgia game amid Hurricane Isaias",
-      "link": "https://thehill.com/homenews/administration/6139679-trump-cancels-tuscaloosa-trip/",
-      "publishedAt": "2026-10-09T19:56:42.000Z"
+      "source": "AP News",
+      "title": "Vance expressa dúvidas sobre o plano do Pentágono de transmitir ao vivo a execução do atirador de Fort Hood",
+      "titleOriginal": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
+      "publishedAt": "2026-10-09T20:18:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "O “Cook Political Report” aponta 18 disputas pela Câmara dos Deputados com vantagem para os democratas",
-      "titleOriginal": "Cook Political Report tilts 18 House races toward Democrats",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55UkNrOFFtVEpqQlR3YzNobU9xckJudFQtLUVuUVlWcDNDbnJPaGlIZmluZS00VkFpQ1dCcG13WkRjTER3anNENnNES1MtaHZmMEZtVjJEN0pLdGNTMFI3SUxGSUVaQ0F4NkVod0twVlNCZ09UYnRIdXJaOS1wUmc?oc=5",
-      "publishedAt": "2026-10-09T19:36:22.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo se mantêm estáveis após Trump parecer descartar ataques ao Irã antes das eleições de meio de mandato",
-      "titleOriginal": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "publishedAt": "2026-10-09T19:33:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump afirma ter fechado um acordo de fornecimento de diesel com Putin",
-      "titleOriginal": "Trump says he reached a diesel supply deal with Putin",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R1VMR0FnSGE4WGFsYTRYOGpkSlRhXzByUjdPUklvbHUzeFBwcHFGLWhGb1lPWTBYZXpLZEpocXlfc0xTUU5qbVhoX1lhWEwwRmp3N3lkd2QwOFVhQWRxc2ZTTm11dmdNN01qVUVyc2xoU2ljOGlBUXF0cE9EUQ?oc=5",
-      "publishedAt": "2026-10-09T19:18:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Alguns legisladores do Partido Republicano criticam o plano de Hegseth de transmitir ao vivo a execução do atirador de Fort Hood",
-      "titleOriginal": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html",
-      "publishedAt": "2026-10-09T19:15:44.000Z"
+      "title": "A Califórnia ameaça agravar as dores de cabeça dos democratas da Câmara em 2027",
+      "titleOriginal": "California threatens to worsen House Democrats' 2027 headaches",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDFiWlp3Ui00YUl4czRJZHBzbmhEako1Z3dWa1hoZFlMVVJxTk9nUnhhTElwT1MyTUFxemdIQlhNLXdfMmdSMENlbGdDbmkzeHBLTjFzQ19qZkxUak4ycndlSEY0Y1kzQzFySnU3S1BBQlJsZ0x6T1hBNHBVNWN6NjJ4bEM?oc=5",
+      "publishedAt": "2026-10-09T20:12:35.000Z"
     }
   ]
 }
