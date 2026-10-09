@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-09T02:11:05.882Z",
+  "updatedAt": "2026-10-09T02:33:51.606Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Condado de Arlington entra com ação judicial para impedir a construção do Arco do Triunfo de Trump",
+      "titleOriginal": "Arlington County Sues to Block Trump’s Triumphal Arch",
+      "link": "https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html",
+      "publishedAt": "2026-10-09T02:33:21.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Debate no Senado de Michigan sai dos trilhos: 4 pontos a destacar",
-      "titleOriginal": "Michigan Senate debate goes off the rails: 4 takeaways",
-      "link": "https://thehill.com/homenews/campaign/6137958-michigan-senate-debate-el-sayed-rogers-takeaways/",
-      "publishedAt": "2026-10-09T02:01:03.000Z"
+      "title": "Segundo debate para o Senado do Maine toma rumo acalorado: três pontos a serem destacados",
+      "titleOriginal": "Second Maine Senate debate takes testy turn: 3 takeaways",
+      "link": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/",
+      "publishedAt": "2026-10-09T02:17:40.000Z"
     },
     {
       "source": "The Hill",
@@ -22,6 +29,13 @@
       "titleOriginal": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
       "publishedAt": "2026-10-09T01:01:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Juízes do Tribunal Penal Internacional afirmam que o ex-presidente das Filipinas, Rodrigo Duterte, está apto a ser julgado",
+      "titleOriginal": "International Criminal Court judges say Philippine ex-President Rodrigo Duterte fit to stand trial",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUtLQ3k5M1J3dTJMY2gwVXk5T2FzTU5hLXNKckllajdPcGw2TzQ2ODBDaE9vazJydGJZNUUyc2djS3JGLUNlWUIzVGptRzV1cGhPRWtiYV9jVjdHUnB0R3RNYWs3RlR1YUxXYUNBYnpQRVhkWEFySnhnSmZzTUE4V1NjOF9kcV9qNTdXZ3BEM184ZW1KWnVYZ0QtM1dZSF8weUlyb1FxaXk?oc=5",
+      "publishedAt": "2026-10-09T00:39:22.000Z"
     },
     {
       "source": "New York Times",
@@ -57,20 +71,6 @@
       "titleOriginal": "How Trump Has Alienated Republican Voters",
       "link": "https://www.nytimes.com/2026/10/08/us/politics/trump-republican-voters.html",
       "publishedAt": "2026-10-08T23:24:14.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Califórnia ameaça agravar as dores de cabeça dos democratas da Câmara em 2027",
-      "titleOriginal": "California threatens to worsen House Democrats' 2027 headaches",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDFiWlp3Ui00YUl4czRJZHBzbmhEako1Z3dWa1hoZFlMVVJxTk9nUnhhTElwT1MyTUFxemdIQlhNLXdfMmdSMENlbGdDbmkzeHBLTjFzQ19qZkxUak4ycndlSEY0Y1kzQzFySnU3S1BBQlJsZ0x6T1hBNHBVNWN6NjJ4bEM?oc=5",
-      "publishedAt": "2026-10-08T23:14:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump isenta a exploração de petróleo na NPRA da NEPA",
-      "titleOriginal": "Trump exempts NPRA oil exploration from NEPA",
-      "link": "https://thehill.com/newsletters/energy-environment/6137775-trump-exempts-npra-oil-exploration-from-nepa/",
-      "publishedAt": "2026-10-08T22:42:22.000Z"
     }
   ]
 }
