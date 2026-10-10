@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-10T19:31:23.035Z",
+  "updatedAt": "2026-10-10T22:32:53.820Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Empresa de capital de risco por trás da startup de chips Groq tem como meta um megafundo de US$ 10 bilhões",
+      "titleOriginal": "Exclusive | Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5",
+      "publishedAt": "2026-10-10T22:31:50.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Para o Walmart, substituir humanos por robôs é uma batalha que envolve bilhões de dólares",
+      "titleOriginal": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUURaUDZFVEhOZnE2T0VuWUtycXYyMnZNaktoMlZ1bENJZ0dHOGkzUDFRUUFpOWsyRWVmamJibF91LVBOREtoTHV2R1JXV1Z6aEh2OHNEbmNXWTkwZzJGMHhTbmw5bEQ2Uk4yUllKMDhEMDNYNWJJSFozb3NzRzRYTW5jY0M3bHNEQ2FkUA?oc=5",
+      "publishedAt": "2026-10-10T22:31:44.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "O Congresso deveria sigilar os registros relevantes que impedem os americanos de trabalhar",
-      "titleOriginal": "Congress should seal eligible records that keep Americans out of work",
-      "link": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
-      "publishedAt": "2026-10-10T19:00:00.000Z"
+      "title": "Projeto de lei bipartidário que proíbe a compra de petróleo russo pelos EUA está prestes a ser apresentado: Fitzpatrick",
+      "titleOriginal": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
+      "link": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
+      "publishedAt": "2026-10-10T22:02:33.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
-      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
-      "publishedAt": "2026-10-10T18:43:26.000Z"
+      "source": "The Hill",
+      "title": "O Pentágono atualiza o número de militares mortos durante a guerra com o Irã para 21",
+      "titleOriginal": "Pentagon updates death toll of troops during Iran war to 21",
+      "link": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/",
+      "publishedAt": "2026-10-10T21:59:35.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
-      "titleOriginal": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNPNVFFbnc4Z19KdkF6OUJEdVFvSERndThtelIyVXFia0lyQjkyeWhQU2JzNUVYVk5Tclgwa1Fhdk1UM2JQYlA5QkN6STFBNzRPd0JXdHZ2OHAzVjNyYXpndGlWQjBCd196S3J0dThGUHowbkt1eHhYRlMxMUdGZmpSN2gyUU5vZXlibzZ0OWtBeUNXQUs4Sm5Zc1pRT0VXNjczcHJqcw?oc=5",
-      "publishedAt": "2026-10-10T18:26:39.000Z"
+      "source": "Axios",
+      "title": "Republicano da Câmara, invocando Reagan, toma medidas para bloquear o acordo de petróleo com a Rússia de Trump",
+      "titleOriginal": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
+      "publishedAt": "2026-10-10T21:54:31.000Z"
     },
     {
       "source": "AP News",
-      "title": "A polícia de Erie, na Pensilvânia, afirma que nove pessoas morreram em um tiroteio, incluindo o suspeito",
-      "titleOriginal": "Police in Erie, Pennsylvania, say 9 people died in connection with a shooting, including the suspect",
+      "title": "Tiroteio deixa 9 mortos, incluindo o suspeito, em Erie, na Pensilvânia, segundo a polícia",
+      "titleOriginal": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "publishedAt": "2026-10-10T18:25:00.000Z"
+      "publishedAt": "2026-10-10T21:50:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A investigação sobre a conspiração dos adversários de Trump está perdendo força",
-      "titleOriginal": "The Conspiracy Probe of Trump Foes Is Faltering",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUlYSlZTb1RNUm9wLTdVQlhYUTJBSVNiaWxZa3J0VGc3Z0owMzJhOU5Ta1hRWnYzb2R6LS1XeVFjNmw3VFN6OFJTTGVNTEhOMFI0aE5LcXJmQmFaSjhRSzdOTVRhMDZEU0ZjVmJwYmV1MDdJR1RWX3Bld1lLTm94aG04YnhVaW1ZbWlV?oc=5",
-      "publishedAt": "2026-10-10T18:11:13.000Z"
+      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
+      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
+      "publishedAt": "2026-10-10T21:36:10.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Como uma gigante ocidental do consumo está prosperando graças aos consumidores chineses nas redes sociais",
-      "titleOriginal": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm5FSWp4UmdJdzNSWjVKYXNHWkdVM0NwSG50Nzl2NnF4a1NBVlBHZTg4OVZHOThCWmlhbERWR3dWMnFCOEVReHBHbV9tRUFxSE9uSm1IMDNPYkFyXzVqTlBsaU8zZmIybl8zbkg1RjU1eWl2aUt6NUZuQTBkRnR1SEIyeFhtd2VrTjRCZ1FQVnhscWVPTGRrTmNjRWNXd21Zc3RwdGZaQXQ4ZUkwcTRDOHRIMlJyNEEx?oc=5",
-      "publishedAt": "2026-10-10T18:02:32.000Z"
+      "source": "The Hill",
+      "title": "As eleições intermediárias podem decidir o destino de Johnson, enquanto o Partido Republicano luta para manter o controle da Câmara",
+      "titleOriginal": "Midterms could decide Johnson’s fate as GOP fights to hold House",
+      "link": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
+      "publishedAt": "2026-10-10T21:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A ABC e a FCC de Trump travam uma batalha na Justiça Federal sobre questões relacionadas à liberdade de expressão e à jurisdição",
+      "titleOriginal": "ABC and Trump’s FCC battle in federal court over issues of free speech and jurisdiction",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBCcXdHTlIxS2UwVHRmWlc3YW5RSDJQdGJnWFRqTkRWeTFVVlNMREhhcmN3SEJJNHo2TWRfcFB0bjViZnNuZXZXQUJXZmh0c3FUWGdhWEdFVVpBZ1I4ME5YeTNFQTdBLTFveW5IcnBXTjQ1SUltY2RoTzhCWGxucXhkYTFFNnM0SV84NklEU3ItT1U?oc=5",
+      "publishedAt": "2026-10-10T20:28:18.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Mais de 500 árvores serão derrubadas em campo de golfe em Washington, D.C., que Trump quer reformar",
-      "titleOriginal": "More Than 500 Trees to Be Cut Down at D.C. Golf Course That Trump Wants to Redo",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html",
-      "publishedAt": "2026-10-10T17:38:39.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump pede à Ucrânia que substitua Zelensky devido ao acordo de combustível com a Rússia",
-      "titleOriginal": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamtrTldJeHllcEY1cFBNVmNycFFlZ0J2RHgwVHpUZ3liUnVIUjh3WjdfY202UnRTWThCOVNLU1pUMERsWXMzemNwWUpkRVJYODhtbDhuNmZSWUJmV3h0QU84UGFka0pTQW9WcHhETlpEQjNEWGl6YXBrZFR3OE83X0Nn?oc=5",
-      "publishedAt": "2026-10-10T17:30:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Casa da Semana: Um complexo colorido com uma casa na árvore e minigolfe",
-      "titleOriginal": "House of the Week: A Colorful Compound With a Treehouse and Mini Golf",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNIXzhNUHR4MmRleXRTSWhFdWU2eUloRENCSzBpOXJIQVU3WUVVV0NmSXUxR1NqSU5vaDFiQm5TLUs4MmQtbk1PaE9Xd25jMFVULTQ3Mk9DSVgzSkRRaGxTbm10dlNsZ05RTTBzclR4UUJrdFlTUWNXVHpXX1JndUotM0w?oc=5",
-      "publishedAt": "2026-10-10T16:29:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Delta prevê que as despesas com combustível aumentem em US$ 6 bilhões este ano",
-      "titleOriginal": "Delta expects fuel bill to rise $6 billion this year",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsdzJLTmw4d0xNMWtqNU1YN0d1Y3FNX2wwbVlLOEdzRmZteUJuMURpNnFpRmZ4RHlGaDFGemFzUFNacm5VQ0hrT3dPMU5kV3JpRHJpVXgxQlV5QlBVVjVrX1hRX3dGNVl3cmp2eWJn?oc=5",
-      "publishedAt": "2026-10-10T16:18:34.000Z"
+      "title": "Trump afirma que deveria ter ganho “oito Prêmios Nobel da Paz” após ter sido preterido",
+      "titleOriginal": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
+      "publishedAt": "2026-10-10T20:11:09.000Z"
     }
   ]
 }
