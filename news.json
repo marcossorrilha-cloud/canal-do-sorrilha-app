@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-10T13:43:30.438Z",
+  "updatedAt": "2026-10-10T14:44:26.692Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Como o SNAP poderia influenciar as eleições de meio de mandato",
+      "titleOriginal": "How SNAP could crunch the midterms",
+      "link": "https://www.politico.com/news/2026/10/10/snap-changes-republicans-midterms-01115721",
+      "publishedAt": "2026-10-10T14:01:20.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Trump é a atração principal de comício no Tennessee; Continua o debate sobre a transmissão ao vivo da execução de Hasan",
@@ -15,13 +22,6 @@
       "titleOriginal": "The big unknown behind Democrats' polling leads",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5",
       "publishedAt": "2026-10-10T12:55:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
-      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
-      "publishedAt": "2026-10-10T12:36:10.000Z"
     },
     {
       "source": "New York Times",
@@ -38,25 +38,18 @@
       "publishedAt": "2026-10-10T12:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: Zelensky afirma à Axios que o acordo de Trump com Putin sobre o diesel “não é justo nem honesto”",
-      "titleOriginal": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
-      "publishedAt": "2026-10-10T11:38:21.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
-      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
-      "publishedAt": "2026-10-10T11:01:41.000Z"
+      "title": "Mensagens de texto em troca de dinheiro: Kimberly Guilfoyle oferece acesso a Trump",
+      "titleOriginal": "Texting for Dollars: Kimberly Guilfoyle Offers Access to Trump",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFpuMEEzOWloaUFobVdQMGVGT1RDRG5JbFhCQlgyLVlFcGpRYzhQblhlb1RsVGpyQWpPYTBOR0FjRXJCMkZ6MF94QkZpWlVUb2ZXY1lkakdtQnN0VEIzNTBqQjkzaHNKOUZYdE1WV093RVlVSzZlWVZYMlhvUm0wN3FnV2tWN29Pa2JycUVKSkFpVXRuZDJXckxOaFczdXVrN2VveGoyNlJDQlE?oc=5",
+      "publishedAt": "2026-10-10T11:50:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Exclusivo: falhas na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em relação à IA",
-      "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-      "publishedAt": "2026-10-10T10:58:03.000Z"
+      "source": "AP News",
+      "title": "O Sindicato dos Trabalhadores Automotivos dos Estados Unidos (United Auto Workers) tenta reafirmar seu poder político em Michigan, em meio a divisões internas",
+      "titleOriginal": "The United Auto Workers tries to reassert political power in Michigan as it faces internal divisions",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNnU2FJcG5wNEhsdVVuZU1pc2R1ai10T0s4RVB4YkpBXzlTS3YwMjdIN2JOeDROZmR6SEc4MHdaWGVfVV9raWExNjRkWGZfSTVBTlcwd0NhVXNDUFZaX2dZZEZEZWJld1dTZlBqQ0hNVWhWVVRPdlUwdlFfX3dHRGpYZEl2WTU0ZG9SVXFJMl9WYUVXZlp2OWN4YmN1VTA?oc=5",
+      "publishedAt": "2026-10-10T11:47:00.000Z"
     },
     {
       "source": "Axios",
@@ -71,6 +64,13 @@
       "titleOriginal": "JD Vance says he won't watch livestream execution of Fort Hood shooter",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29GaWlaWjVIek81VDNFancwa2ZzeFBmRzl3UGtIWmRVUXVxS1dUdUdVanJaR2Z2WDZRWk1YbWNOTWV2NHdVMEVzNlFSMGhHZ01sc1hyMDQ1eU9uaG9zTjZGaGpkbWIzbmoyUC1SWlBIbDNEcUM0YmlvYlFUb25mT2N5cmhQd1U?oc=5",
       "publishedAt": "2026-10-10T10:00:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Legisladores do Partido Republicano criticam a decisão de Hegseth de transmitir a execução ao vivo",
+      "titleOriginal": "GOP lawmakers push back on Hegseth decision to livestream execution",
+      "link": "https://thehill.com/policy/defense/6139961-republicans-condemn-hegseth-execution-spectacle/",
+      "publishedAt": "2026-10-10T10:00:00.000Z"
     }
   ]
 }
