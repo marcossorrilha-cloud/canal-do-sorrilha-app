@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-09T21:17:02.091Z",
+  "updatedAt": "2026-10-10T00:52:24.742Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Trump se apresenta como o defensor de Colombo em discurso dirigido aos ítalo-americanos",
-      "titleOriginal": "Trump Casts Himself as Columbus’s Protector in Pitch to Italian Americans",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-columbus-italian-americans.html",
-      "publishedAt": "2026-10-09T21:12:39.000Z"
+      "title": "Para Trump, um pelotão de fuzilamento transmitido ao vivo se torna o mais recente espetáculo",
+      "titleOriginal": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
+      "publishedAt": "2026-10-10T00:25:01.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump afirma que importará diesel russo em meio aos altos preços",
-      "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
-      "publishedAt": "2026-10-09T21:05:33.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Empresa de capital de risco por trás da startup de chips Groq tem como meta um megafundo de US$ 10 bilhões",
-      "titleOriginal": "Exclusive | Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5",
-      "publishedAt": "2026-10-09T21:01:36.000Z"
+      "source": "The Hill",
+      "title": "As prioridades do Partido Republicano afastam os apoiadores da MAHA",
+      "titleOriginal": "GOP priorities alienate MAHA supporters",
+      "link": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/",
+      "publishedAt": "2026-10-10T00:08:52.000Z"
     },
     {
       "source": "New York Times",
       "title": "Comissão de Investigação do Senado critica os custos da detenção de imigrantes em Guantánamo",
       "titleOriginal": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
-      "publishedAt": "2026-10-09T20:56:23.000Z"
+      "publishedAt": "2026-10-09T23:55:54.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a campanha de vingança de Trump se transformou em caos",
+      "titleOriginal": "How Trump’s Revenge Campaign Descended Into Turmoil",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html",
+      "publishedAt": "2026-10-09T22:58:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Missouri ultrapassou a Flórida no Top 25 da AP, mas alguns eleitores não conseguiram ignorar a vitória dos Gators sobre o Ole Miss",
+      "titleOriginal": "Missouri jumped Florida in AP Top 25 but some voters couldn't get past the Gators' win over Ole Miss",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkFWQ1lRcG1xNE5UU2hUcEN3UmtmY29sdjluay05LXljNWhoblpNeE5XY3ZPMUxfc3ZVSEJTdUF4RmF0eFViaF9DYjJLSWxRbWd0M3I3Y3BhSGJELXJCaVNKelU5NkJLakFoRjQxVVByYUtUdno2d0JDTGF6bmNKdGFjMmxsR1I4VGRjWWpQRjZmTjk4Y0E?oc=5",
+      "publishedAt": "2026-10-09T22:56:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: violações na Anthropic levam a determinação da Casa Branca de apresentar relatórios sobre IA",
+      "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
+      "publishedAt": "2026-10-09T22:52:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump afirma que importará diesel russo em meio aos altos preços",
+      "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+      "publishedAt": "2026-10-09T22:30:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que a Rússia exportará diesel e suspende as sanções",
+      "titleOriginal": "Trump says Russia will export diesel, lifts sanctions",
+      "link": "https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-will-export-diesel-lifts-sanctions/",
+      "publishedAt": "2026-10-09T22:23:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Shawn Fain conquista a vitória na eleição da UAW com ampla vantagem",
+      "titleOriginal": "Shawn Fain Claims Victory in UAW Election Rout",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGxFU2dWdElJNE1hejhaOEU1Y1N2TmpaT3VKVTExQjBQelBkU1BOZjFSSVJia0p6OHhFUmZDMmcxcjgyUWxuQXJOQmRka2hlTWVOaWtKNExaWVZyY1pxeDNrMW4zZ0lmem1mSFZHX3FaV0gxR25rbjdHZHF1OWRDZDBNcU1XQUVVbkpGUVBkVVNobWh1?oc=5",
+      "publishedAt": "2026-10-09T22:06:00.000Z"
     },
     {
       "source": "Axios",
       "title": "Exclusivo: Zelensky afirma à Axios que o acordo de Trump com Putin sobre o diesel “não é justo nem honesto”",
       "titleOriginal": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
-      "publishedAt": "2026-10-09T20:54:46.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Katie Zacharia é escolhida como nova secretária de imprensa da Casa Branca de Trump",
-      "titleOriginal": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
-      "publishedAt": "2026-10-09T20:44:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Mike Tyson prevê que “Trump vai vencer” as eleições de meio de mandato",
-      "titleOriginal": "Mike Tyson predicts 'Trump will win' midterms",
-      "link": "https://thehill.com/policy/sports-gaming/6139732-mike-tyson-white-house-trump/",
-      "publishedAt": "2026-10-09T20:35:47.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Casa Branca nomeia Katie Zacharia como nova secretária de imprensa",
-      "titleOriginal": "White House Names Katie Zacharia as New Press Secretary",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWhVeGdkTWNNa3hlZ3ZKQ2Z1MmVuYWhaWWZscTNadHZQQnBQeXp5UE53bFVDMDNmTk1aaUpocUY5Ym5kSGVibnNjTlVXT3ZPRS03QkFXa3R6R0p4V2VYQmUzMXdyWFhRcW90aUlQUUtMeWFGRGF1X2czS2d2b254NURTTWNFV3R2N0w5Sk9hS3E?oc=5",
-      "publishedAt": "2026-10-09T20:20:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Vance expressa dúvidas sobre o plano do Pentágono de transmitir ao vivo a execução do atirador de Fort Hood",
-      "titleOriginal": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
-      "publishedAt": "2026-10-09T20:18:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Califórnia ameaça agravar as dores de cabeça dos democratas da Câmara em 2027",
-      "titleOriginal": "California threatens to worsen House Democrats' 2027 headaches",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDFiWlp3Ui00YUl4czRJZHBzbmhEako1Z3dWa1hoZFlMVVJxTk9nUnhhTElwT1MyTUFxemdIQlhNLXdfMmdSMENlbGdDbmkzeHBLTjFzQ19qZkxUak4ycndlSEY0Y1kzQzFySnU3S1BBQlJsZ0x6T1hBNHBVNWN6NjJ4bEM?oc=5",
-      "publishedAt": "2026-10-09T20:12:35.000Z"
+      "publishedAt": "2026-10-09T22:03:52.000Z"
     }
   ]
 }
