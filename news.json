@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:52:24.742Z",
+  "updatedAt": "2026-10-10T01:15:31.479Z",
   "count": 10,
   "items": [
     {
@@ -28,7 +28,14 @@
       "title": "Como a campanha de vingança de Trump se transformou em caos",
       "titleOriginal": "How Trump’s Revenge Campaign Descended Into Turmoil",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html",
-      "publishedAt": "2026-10-09T22:58:29.000Z"
+      "publishedAt": "2026-10-09T22:58:30.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
+      "titleOriginal": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNPNVFFbnc4Z19KdkF6OUJEdVFvSERndThtelIyVXFia0lyQjkyeWhQU2JzNUVYVk5Tclgwa1Fhdk1UM2JQYlA5QkN6STFBNzRPd0JXdHZ2OHAzVjNyYXpndGlWQjBCd196S3J0dThGUHowbkt1eHhYRlMxMUdGZmpSN2gyUU5vZXlibzZ0OWtBeUNXQUs4Sm5Zc1pRT0VXNjczcHJqcw?oc=5",
+      "publishedAt": "2026-10-09T22:56:34.000Z"
     },
     {
       "source": "AP News",
@@ -39,7 +46,7 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: violações na Anthropic levam a determinação da Casa Branca de apresentar relatórios sobre IA",
+      "title": "Exclusivo: violações na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em matéria de IA",
       "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
       "publishedAt": "2026-10-09T22:52:30.000Z"
@@ -59,18 +66,11 @@
       "publishedAt": "2026-10-09T22:23:19.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Shawn Fain conquista a vitória na eleição da UAW com ampla vantagem",
-      "titleOriginal": "Shawn Fain Claims Victory in UAW Election Rout",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGxFU2dWdElJNE1hejhaOEU1Y1N2TmpaT3VKVTExQjBQelBkU1BOZjFSSVJia0p6OHhFUmZDMmcxcjgyUWxuQXJOQmRka2hlTWVOaWtKNExaWVZyY1pxeDNrMW4zZ0lmem1mSFZHX3FaV0gxR25rbjdHZHF1OWRDZDBNcU1XQUVVbkpGUVBkVVNobWh1?oc=5",
-      "publishedAt": "2026-10-09T22:06:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Zelensky afirma à Axios que o acordo de Trump com Putin sobre o diesel “não é justo nem honesto”",
-      "titleOriginal": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
-      "publishedAt": "2026-10-09T22:03:52.000Z"
+      "source": "AP News",
+      "title": "O Departamento de Justiça não aplicará as regras de registro relativas a silenciadores e certas armas após decisão judicial",
+      "titleOriginal": "Justice Department won't enforce registration rules on silencers and certain guns after court ruling",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczJoQ2N2QTJrT1BBZjlRZHZUaThYMkU4YUxjRS1EZ2lCTUNvSUU1aU9YLVdlQXhieEFuVkN2SWFPSUNkWi1TbFlTNnotam9fUjBmZ2F0N29LNlg0c0xPdm5QN0xqSnFfMHAyVmRHbHQ5dlRXakx2TE1RaEJRS2QxX1kxZU5sMnhUWXFzVTZWRHlyZGQ0QzZmYi15bnFSSUVNZzAxWGsza3pPZw?oc=5",
+      "publishedAt": "2026-10-09T22:11:00.000Z"
     }
   ]
 }
