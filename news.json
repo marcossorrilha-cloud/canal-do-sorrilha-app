@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-10T01:15:31.479Z",
+  "updatedAt": "2026-10-10T07:09:22.149Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Exclusivo: falhas na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em relação à IA",
+      "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
+      "publishedAt": "2026-10-10T04:58:39.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Para Trump, um pelotão de fuzilamento transmitido ao vivo se torna o mais recente espetáculo",
       "titleOriginal": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
-      "publishedAt": "2026-10-10T00:25:01.000Z"
+      "publishedAt": "2026-10-10T04:06:53.000Z"
     },
     {
       "source": "The Hill",
-      "title": "As prioridades do Partido Republicano afastam os apoiadores da MAHA",
-      "titleOriginal": "GOP priorities alienate MAHA supporters",
-      "link": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/",
-      "publishedAt": "2026-10-10T00:08:52.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Comissão de Investigação do Senado critica os custos da detenção de imigrantes em Guantánamo",
-      "titleOriginal": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
-      "publishedAt": "2026-10-09T23:55:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a campanha de vingança de Trump se transformou em caos",
-      "titleOriginal": "How Trump’s Revenge Campaign Descended Into Turmoil",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html",
-      "publishedAt": "2026-10-09T22:58:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
-      "titleOriginal": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNPNVFFbnc4Z19KdkF6OUJEdVFvSERndThtelIyVXFia0lyQjkyeWhQU2JzNUVYVk5Tclgwa1Fhdk1UM2JQYlA5QkN6STFBNzRPd0JXdHZ2OHAzVjNyYXpndGlWQjBCd196S3J0dThGUHowbkt1eHhYRlMxMUdGZmpSN2gyUU5vZXlibzZ0OWtBeUNXQUs4Sm5Zc1pRT0VXNjczcHJqcw?oc=5",
-      "publishedAt": "2026-10-09T22:56:34.000Z"
+      "title": "Juiz federal: o Departamento de Justiça não pode solicitar as listas eleitorais dos estados para a base de dados de elegibilidade",
+      "titleOriginal": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
+      "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
+      "publishedAt": "2026-10-10T03:13:42.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Missouri ultrapassou a Flórida no Top 25 da AP, mas alguns eleitores não conseguiram ignorar a vitória dos Gators sobre o Ole Miss",
-      "titleOriginal": "Missouri jumped Florida in AP Top 25 but some voters couldn't get past the Gators' win over Ole Miss",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkFWQ1lRcG1xNE5UU2hUcEN3UmtmY29sdjluay05LXljNWhoblpNeE5XY3ZPMUxfc3ZVSEJTdUF4RmF0eFViaF9DYjJLSWxRbWd0M3I3Y3BhSGJELXJCaVNKelU5NkJLakFoRjQxVVByYUtUdno2d0JDTGF6bmNKdGFjMmxsR1I4VGRjWWpQRjZmTjk4Y0E?oc=5",
-      "publishedAt": "2026-10-09T22:56:17.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: violações na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em matéria de IA",
-      "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-      "publishedAt": "2026-10-09T22:52:30.000Z"
+      "title": "Trump aborda suas queixas sobre o Prêmio Nobel durante comício no interior do estado de Nova York, no dia em que o prêmio foi anunciado",
+      "titleOriginal": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEhXcTZ3anZSYU1PMzNianJ3Uk80QmcwanNiUE5abWw1WElmY3FBM3pfTHVPT1FrQ2ZMVGlpOGo2MXN3VTBUa1VMdm1KcjJSWlkwZnJsRTVDbVR0OF9DYUM5VXNsQ3hvejV1MEo4bnptNGkxcDJvNTBKU1MyTVBYSGdwbjdGRkJHNmtQa0wtOE5NdVBiOTJkcm1MZWNZYkZjcHlmag?oc=5",
+      "publishedAt": "2026-10-10T03:10:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Trump afirma que importará diesel russo em meio aos altos preços",
       "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
-      "publishedAt": "2026-10-09T22:30:39.000Z"
+      "publishedAt": "2026-10-10T03:09:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump afirma que a Rússia exportará diesel e suspende as sanções",
-      "titleOriginal": "Trump says Russia will export diesel, lifts sanctions",
-      "link": "https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-will-export-diesel-lifts-sanctions/",
-      "publishedAt": "2026-10-09T22:23:19.000Z"
+      "title": "Trump pede que a Suprema Corte analise ação judicial sobre as eleições de 2016 contra Clinton: Reportagem",
+      "titleOriginal": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
+      "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
+      "publishedAt": "2026-10-10T02:47:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Blogueiro político de Ohio é condenado por enviar imagem do Shrek nu",
+      "titleOriginal": "Ohio political blogger found guilty for sending naked Shrek image",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUprOVF0QjUyMEV0VEt5YnIycGdXNm9pV3ZaNjE2OTNVTTRTMVFacTJFS1VZM0FWUHhSRDhxMlFRZmZINElGUnBMS2FKTzhaS3BJQkxKN0V2VGItOUpNNmpVVUxDVUdXSlh4bWZ1NVhpdVBsTGF0d2ZFaGdEWW1tSzZ1UFh1S0U1TmNTc0hLbklkZkIxRDdNV2kzS0R3VGpmZ3FGWE5WTQ?oc=5",
+      "publishedAt": "2026-10-10T02:02:15.000Z"
     },
     {
       "source": "AP News",
-      "title": "O Departamento de Justiça não aplicará as regras de registro relativas a silenciadores e certas armas após decisão judicial",
-      "titleOriginal": "Justice Department won't enforce registration rules on silencers and certain guns after court ruling",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczJoQ2N2QTJrT1BBZjlRZHZUaThYMkU4YUxjRS1EZ2lCTUNvSUU1aU9YLVdlQXhieEFuVkN2SWFPSUNkWi1TbFlTNnotam9fUjBmZ2F0N29LNlg0c0xPdm5QN0xqSnFfMHAyVmRHbHQ5dlRXakx2TE1RaEJRS2QxX1kxZU5sMnhUWXFzVTZWRHlyZGQ0QzZmYi15bnFSSUVNZzAxWGsza3pPZw?oc=5",
-      "publishedAt": "2026-10-09T22:11:00.000Z"
+      "title": "UE e China fecham acordo comercial provisório que pode reduzir as exportações chinesas de veículos híbridos, afirma representante da UE",
+      "titleOriginal": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE?oc=5",
+      "publishedAt": "2026-10-10T01:58:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Autoridade dos EUA: Trump fechou acordo com Putin depois que Zelensky ignorou seus pedidos",
+      "titleOriginal": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUGZOdkdXaXkzbUN5aFdXN2tPMnRMWUlOTHlrdzJSZVVHVWVMX0w5b2NVQktMd1VXM2o1R0lMMHktaVlHWnJMYWdMd3B3V0U3R2FGTTFRUTEtNmlQYmlfWnRRcjhkOWNrRVlsdTJYdXdHNFJpbFNKMg?oc=5",
+      "publishedAt": "2026-10-10T01:06:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Um complexo colorido com uma casa na árvore e minigolfe",
+      "titleOriginal": "House of the Week: A Colorful Compound With a Treehouse and Mini Golf",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNIXzhNUHR4MmRleXRTSWhFdWU2eUloRENCSzBpOXJIQVU3WUVVV0NmSXUxR1NqSU5vaDFiQm5TLUs4MmQtbk1PaE9Xd25jMFVULTQ3Mk9DSVgzSkRRaGxTbm10dlNsZ05RTTBzclR4UUJrdFlTUWNXVHpXX1JndUotM0w?oc=5",
+      "publishedAt": "2026-10-10T00:30:56.000Z"
     }
   ]
 }
