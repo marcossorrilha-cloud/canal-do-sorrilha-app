@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-10T18:36:55.787Z",
+  "updatedAt": "2026-10-10T19:31:23.035Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Congresso deveria sigilar os registros relevantes que impedem os americanos de trabalhar",
+      "titleOriginal": "Congress should seal eligible records that keep Americans out of work",
+      "link": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
+      "publishedAt": "2026-10-10T19:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
+      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
+      "publishedAt": "2026-10-10T18:43:26.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
@@ -10,11 +24,25 @@
       "publishedAt": "2026-10-10T18:26:39.000Z"
     },
     {
+      "source": "AP News",
+      "title": "A polícia de Erie, na Pensilvânia, afirma que nove pessoas morreram em um tiroteio, incluindo o suspeito",
+      "titleOriginal": "Police in Erie, Pennsylvania, say 9 people died in connection with a shooting, including the suspect",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+      "publishedAt": "2026-10-10T18:25:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
-      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
-      "publishedAt": "2026-10-10T18:03:20.000Z"
+      "title": "A investigação sobre a conspiração dos adversários de Trump está perdendo força",
+      "titleOriginal": "The Conspiracy Probe of Trump Foes Is Faltering",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUlYSlZTb1RNUm9wLTdVQlhYUTJBSVNiaWxZa3J0VGc3Z0owMzJhOU5Ta1hRWnYzb2R6LS1XeVFjNmw3VFN6OFJTTGVNTEhOMFI0aE5LcXJmQmFaSjhRSzdOTVRhMDZEU0ZjVmJwYmV1MDdJR1RWX3Bld1lLTm94aG04YnhVaW1ZbWlV?oc=5",
+      "publishedAt": "2026-10-10T18:11:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como uma gigante ocidental do consumo está prosperando graças aos consumidores chineses nas redes sociais",
+      "titleOriginal": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm5FSWp4UmdJdzNSWjVKYXNHWkdVM0NwSG50Nzl2NnF4a1NBVlBHZTg4OVZHOThCWmlhbERWR3dWMnFCOEVReHBHbV9tRUFxSE9uSm1IMDNPYkFyXzVqTlBsaU8zZmIybl8zbkg1RjU1eWl2aUt6NUZuQTBkRnR1SEIyeFhtd2VrTjRCZ1FQVnhscWVPTGRrTmNjRWNXd21Zc3RwdGZaQXQ4ZUkwcTRDOHRIMlJyNEEx?oc=5",
+      "publishedAt": "2026-10-10T18:02:32.000Z"
     },
     {
       "source": "New York Times",
@@ -31,46 +59,18 @@
       "publishedAt": "2026-10-10T17:30:25.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Oito mortos após tiroteio em Erie, na Pensilvânia, segundo o governador. O atirador também está morto",
-      "titleOriginal": "8 dead after shooting in Erie, Pennsylvania, governor says. Shooter also dead",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "publishedAt": "2026-10-10T16:54:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Resumo: A polêmica em torno de Guilfoyle ganha força enquanto Trump evita manifestar apoio",
-      "titleOriginal": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
-      "link": "https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/",
-      "publishedAt": "2026-10-10T16:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Mudanças propostas pelos republicanos no SNAP chegam em momento decisivo para as eleições de meio de mandato",
-      "titleOriginal": "Republicans’ SNAP changes land in crunch time for midterms",
-      "link": "https://www.politico.com/news/2026/10/10/snap-changes-republicans-midterms-01115721",
-      "publishedAt": "2026-10-10T14:01:20.000Z"
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Um complexo colorido com uma casa na árvore e minigolfe",
+      "titleOriginal": "House of the Week: A Colorful Compound With a Treehouse and Mini Golf",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNIXzhNUHR4MmRleXRTSWhFdWU2eUloRENCSzBpOXJIQVU3WUVVV0NmSXUxR1NqSU5vaDFiQm5TLUs4MmQtbk1PaE9Xd25jMFVULTQ3Mk9DSVgzSkRRaGxTbm10dlNsZ05RTTBzclR4UUJrdFlTUWNXVHpXX1JndUotM0w?oc=5",
+      "publishedAt": "2026-10-10T16:29:46.000Z"
     },
     {
       "source": "Axios",
-      "title": "A grande incógnita por trás da vantagem dos democratas nas pesquisas",
-      "titleOriginal": "The big unknown behind Democrats' polling leads",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5",
-      "publishedAt": "2026-10-10T13:04:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump é a atração principal de comício no Tennessee; Continua o debate sobre a transmissão ao vivo da execução de Hasan",
-      "titleOriginal": "Live updates: Trump headlines rally in Tennessee; Debate continues over Hasan's execution livestream",
-      "link": "https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream/",
-      "publishedAt": "2026-10-10T13:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Sindicato dos Trabalhadores Automotivos dos Estados Unidos (UAW) tenta reafirmar seu poder político em Michigan, enquanto enfrenta divisões internas",
-      "titleOriginal": "The United Auto Workers tries to reassert political power in Michigan as it faces internal divisions",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNnU2FJcG5wNEhsdVVuZU1pc2R1ai10T0s4RVB4YkpBXzlTS3YwMjdIN2JOeDROZmR6SEc4MHdaWGVfVV9raWExNjRkWGZfSTVBTlcwd0NhVXNDUFZaX2dZZEZEZWJld1dTZlBqQ0hNVWhWVVRPdlUwdlFfX3dHRGpYZEl2WTU0ZG9SVXFJMl9WYUVXZlp2OWN4YmN1VTA?oc=5",
-      "publishedAt": "2026-10-10T12:34:00.000Z"
+      "title": "A Delta prevê que as despesas com combustível aumentem em US$ 6 bilhões este ano",
+      "titleOriginal": "Delta expects fuel bill to rise $6 billion this year",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsdzJLTmw4d0xNMWtqNU1YN0d1Y3FNX2wwbVlLOEdzRmZteUJuMURpNnFpRmZ4RHlGaDFGemFzUFNacm5VQ0hrT3dPMU5kV3JpRHJpVXgxQlV5QlBVVjVrX1hRX3dGNVl3cmp2eWJn?oc=5",
+      "publishedAt": "2026-10-10T16:18:34.000Z"
     }
   ]
 }
