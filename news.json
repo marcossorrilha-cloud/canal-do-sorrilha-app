@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-10T07:44:33.307Z",
+  "updatedAt": "2026-10-10T13:43:30.438Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Trump é a atração principal de comício no Tennessee; Continua o debate sobre a transmissão ao vivo da execução de Hasan",
+      "titleOriginal": "Live updates: Trump headlines rally in Tennessee; Debate continues over Hasan's execution livestream",
+      "link": "https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream/",
+      "publishedAt": "2026-10-10T13:00:00.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "Exclusivo: falhas na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em matéria de IA",
+      "title": "A grande incógnita por trás da vantagem dos democratas nas pesquisas",
+      "titleOriginal": "The big unknown behind Democrats' polling leads",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5",
+      "publishedAt": "2026-10-10T12:55:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
+      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
+      "publishedAt": "2026-10-10T12:36:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As dificuldades econômicas e a impopularidade de Trump colocam o Partido Republicano na defensiva a três semanas das eleições",
+      "titleOriginal": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
+      "publishedAt": "2026-10-10T12:10:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Essas famílias podem ter que gastar mais para aquecer suas casas neste inverno, segundo previsão do governo federal",
+      "titleOriginal": "These households could spend more to heat their homes this winter, federal outlook says",
+      "link": "https://thehill.com/homenews/state-watch/6134062-these-households-could-spend-more-to-heat-their-homes-this-winter-federal-outlook-says/",
+      "publishedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Zelensky afirma à Axios que o acordo de Trump com Putin sobre o diesel “não é justo nem honesto”",
+      "titleOriginal": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
+      "publishedAt": "2026-10-10T11:38:21.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
+      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
+      "publishedAt": "2026-10-10T11:01:41.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: falhas na Anthropic levam a determinação da Casa Branca sobre a prestação de contas em relação à IA",
       "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-      "publishedAt": "2026-10-10T04:58:39.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Para Trump, um pelotão de fuzilamento transmitido ao vivo se torna o mais recente espetáculo",
-      "titleOriginal": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
-      "publishedAt": "2026-10-10T04:06:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal: o Departamento de Justiça não pode solicitar as listas eleitorais dos estados para a base de dados de elegibilidade",
-      "titleOriginal": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
-      "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
-      "publishedAt": "2026-10-10T03:13:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump aborda suas queixas sobre o Prêmio Nobel durante comício no interior do estado de Nova York, no dia em que o prêmio foi anunciado",
-      "titleOriginal": "Trump veers into Nobel Prize grievances during upstate New York rally on day award is announced",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEhXcTZ3anZSYU1PMzNianJ3Uk80QmcwanNiUE5abWw1WElmY3FBM3pfTHVPT1FrQ2ZMVGlpOGo2MXN3VTBUa1VMdm1KcjJSWlkwZnJsRTVDbVR0OF9DYUM5VXNsQ3hvejV1MEo4bnptNGkxcDJvNTBKU1MyTVBYSGdwbjdGRkJHNmtQa0wtOE5NdVBiOTJkcm1MZWNZYkZjcHlmag?oc=5",
-      "publishedAt": "2026-10-10T03:10:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que importará diesel russo em meio aos altos preços",
-      "titleOriginal": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
-      "publishedAt": "2026-10-10T03:09:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump pede que a Suprema Corte analise ação judicial sobre as eleições de 2016 contra Clinton: Reportagem",
-      "titleOriginal": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-      "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-      "publishedAt": "2026-10-10T02:47:13.000Z"
+      "publishedAt": "2026-10-10T10:58:03.000Z"
     },
     {
       "source": "Axios",
-      "title": "Blogueiro político de Ohio é condenado por enviar imagem do Shrek nu",
-      "titleOriginal": "Ohio political blogger found guilty for sending naked Shrek image",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUprOVF0QjUyMEV0VEt5YnIycGdXNm9pV3ZaNjE2OTNVTTRTMVFacTJFS1VZM0FWUHhSRDhxMlFRZmZINElGUnBMS2FKTzhaS3BJQkxKN0V2VGItOUpNNmpVVUxDVUdXSlh4bWZ1NVhpdVBsTGF0d2ZFaGdEWW1tSzZ1UFh1S0U1TmNTc0hLbklkZkIxRDdNV2kzS0R3VGpmZ3FGWE5WTQ?oc=5",
-      "publishedAt": "2026-10-10T02:02:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "UE e China fecham acordo comercial provisório que pode reduzir as exportações chinesas de veículos híbridos, afirma representante da UE",
-      "titleOriginal": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE?oc=5",
-      "publishedAt": "2026-10-10T01:58:00.000Z"
+      "title": "Trump fica furioso por não ter ganhado o Prêmio Nobel da Paz",
+      "titleOriginal": "Trump rages over Nobel Peace Prize loss",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByM2M2QWd3NXh1TzdOZDg2cFpjMmRlSHdFRDRmNXM4V3ZoYTZnc2pjVVdoUEpNMkJzdlYyTTRDM0JRN24xUktnUFBGdXo5My1xd3VNcjc1dW5MMmlZLVZOd2Zyc2xwYnlMMVZHQ01iZUJqZ0E?oc=5",
+      "publishedAt": "2026-10-10T10:55:19.000Z"
     },
     {
       "source": "Axios",
-      "title": "Autoridade dos EUA: Trump fechou acordo com Putin depois que Zelensky ignorou seus pedidos",
-      "titleOriginal": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUGZOdkdXaXkzbUN5aFdXN2tPMnRMWUlOTHlrdzJSZVVHVWVMX0w5b2NVQktMd1VXM2o1R0lMMHktaVlHWnJMYWdMd3B3V0U3R2FGTTFRUTEtNmlQYmlfWnRRcjhkOWNrRVlsdTJYdXdHNFJpbFNKMg?oc=5",
-      "publishedAt": "2026-10-10T01:39:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Polícia brasileira mata suspeito que mantinha 13 crianças sob a mira de uma faca em uma escola",
-      "titleOriginal": "Brazilian police kill suspect who held 13 children at knifepoint in school",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFdiaWEwWVhVeUpTWG55bEt6MUktYV9tTEY5WWpZUlB6eXpuWThUb0pTSTlqaE9Xb01LLWFFb052WnE2MTFhT3liWGU3UW56dWFBSmFRaWtLZGhyZHFVTWprWVhtd28zRHA4eDRVUzJ6Q3l5cGl4aklBb0xQc3VmZWNkMVIxRnkxODh3azFwaVZobW16TzFtTzVLUE5LdktoX1ZhYk5R?oc=5",
-      "publishedAt": "2026-10-10T00:37:00.000Z"
+      "title": "JD Vance afirma que não assistirá à transmissão ao vivo da execução do atirador de Fort Hood",
+      "titleOriginal": "JD Vance says he won't watch livestream execution of Fort Hood shooter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29GaWlaWjVIek81VDNFancwa2ZzeFBmRzl3UGtIWmRVUXVxS1dUdUdVanJaR2Z2WDZRWk1YbWNOTWV2NHdVMEVzNlFSMGhHZ01sc1hyMDQ1eU9uaG9zTjZGaGpkbWIzbmoyUC1SWlBIbDNEcUM0YmlvYlFUb25mT2N5cmhQd1U?oc=5",
+      "publishedAt": "2026-10-10T10:00:26.000Z"
     }
   ]
 }
