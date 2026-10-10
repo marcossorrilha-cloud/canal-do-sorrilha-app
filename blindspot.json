@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-10T07:09:29.330Z",
-  "slot": "2026-10-10-AM",
+  "updatedAt": "2026-10-10T18:37:02.722Z",
+  "slot": "2026-10-10-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Opinião | O pânico em torno da peste na Rússia e o perigo da falta de preparação",
-      "titleOriginal": "Opinion | Russia’s plague scare and the danger of unpreparedness",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUJVSXNHeGM0eDM2Vk51SGlwNUZmdEYtb01Pd1EzenZZR2lQVXhScnVjQ01ZQlR4bDltN0R4V1V4VzM2eXo3SmxMak85b3hCNnkzR001M3VueFVRM19DRTJOd2xkcjktZlJ1S1RYMEtqdDFpbGt4RXlXXzRQRmZEeEJVYjBqMjBzX1ZCNi1KcWxMYmI0bHlranRGbjdpREFqMGF5OTR5MG1GQ3otWFRvQU13?oc=5",
+      "title": "Democrata de Montana que se recusa a desistir da candidatura pode comprometer as esperanças do partido no Senado",
+      "titleOriginal": "Montana Democrat who refuses to drop out may spoil party’s Senate hopes",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JZYzgxUTA5TERMRy1NVWhhbGtOcEI4MnU3eDNsZlllamFUbk5aa3hJQWJhRjRvd0FMR2FpWWU1RGVELTcxajBPempSSGtOb2hpWThRTC0xaElFUzVoSkp6a1JXeXFoWWhPQ2QwWG1zbWZyWl90MkVyeXFhWldqeGtqdlByRlN1UTNjZnlqMUxtd0llYXY2RVpELUUtSFdTZmRPRGd6NEI0bEk0QkVVNVg4MWVNaUl1eHlz?oc=5",
       "source": "Washington Post",
-      "coverage": 3
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Notícias da Noite: Mamdani entra em conflito com o DHS e o Pentágono para transmitir a execução ao vivo",
-      "titleOriginal": "Evening Wire: Mamdani Clashes with DHS & Pentagon to Livestream Execution",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkOVhlYmI3OTJxTnl1OU0xMEFGaXJEUkhzUk1Wdi1peHlNNXZVRWVpbnVPTjZGbmlZbUlPS3c5NkM0LXFUN0ZYOHNka2UwbUtad3hQaFVR?oc=5",
-      "source": "Daily Wire",
-      "coverage": 3
+      "title": "Migrante “criminal e ilegal” baleado pelo ICE tem ficha criminal com crimes alarmantes — e “de forma alguma” é nova-iorquino: vizinhos",
+      "titleOriginal": "‘Criminal illegal’ migrant shot by ICE has rap sheet of alarming crimes — and is ‘absolutely not’ a New Yorker: neighbors",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWWdiVVNyZ0xNZlFHVnNxSnlBU2dVS01yN1h3aFhmWGpPYUUxQ05oeDVoeHZQUVA2cmNvOFJJcXI1VWRNM2xLN2Y3ejJXMUhZNnIzQWloaGRlZFBMWTNHQlN0WFZZbkRhQUtoZ0taREFJekRob0xQbUF0UG1uRUhSM2xCSGgxWUpNNXdOZVhFWDhfTG5yMl9pa3pDM2RHYmJvRGNCRjdFUVZKdFhjVEUtelZMQ0oybzVLYmtHWkpiNmdXd0Nfb3dNN3hXN3Z4WkY4UnNVNkREVE12WGJrc0JKNC1wNDYyTWgzOVJ6VG9rSmFJTTI5eUluNQ?oc=5",
+      "source": "New York Post",
+      "coverage": 4
     }
   ]
 }
