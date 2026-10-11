@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-11T15:42:08.180Z",
+  "updatedAt": "2026-10-11T15:57:41.876Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Trump afirma que a Rússia e a Ucrânia concordaram com um cessar-fogo no setor energético",
-      "titleOriginal": "Trump claims Russia and Ukraine agree to energy ceasefire",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVF2eXRIalp5NDI3SDlpcW9xVkVfTXlWb1VYN2NveGg2OFFQMTVTb01mVUFGVTl0SHVJbTl0YXFwOXJmNURFQ29TRm12MGFoRmRnSEx3aE84X3VGWjlsMnktMTZOaURXRE9VTXNuUl8zWWRPMW5obVlmSDI2ZUhtZFplQmlaQQ?oc=5",
-      "publishedAt": "2026-10-11T15:32:29.000Z"
+      "source": "New York Times",
+      "title": "Ameaças de violência política fazem com que os representantes eleitos dos Estados Unidos vivam com medo",
+      "titleOriginal": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+      "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html",
+      "publishedAt": "2026-10-11T15:46:25.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Marido de Kamala Harris afirma, em particular, que não quer que ela concorra à presidência novamente",
-      "titleOriginal": "Exclusive | Kamala Harris’s Husband Privately Says He Doesn’t Want Her to Run for President Again",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlBoN3ZaNzExRll3dFFrQjBFNk9ZLUFaRWhscTVRcEJUTl8wMjZ4Wlp5MmF4eDd2dlR1ODVIUXJqcWZqbnFNbEdKRXcxa3V3YUNYRG9HQkd0b2xHNHc0ME1QQzVncW1BRUZuZjZhOFRVWHdjZTBUZjZZU1drYmFTOVltV2sxWjFyRWgyR2V3T3U1aVFhVVN5U1FPd2RkeUlEdXFPSTB1cE0xNG93VlBNOVRBVl9Kb1RXUjBZVkNHTkZDTTRKTC1PY1BVcw?oc=5",
-      "publishedAt": "2026-10-11T15:29:37.000Z"
+      "title": "Trump fecha acordo com Putin para a compra de diesel russo",
+      "titleOriginal": "Trump Strikes Deal With Putin for Russian Diesel",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU9BSDQteGd2OEd3NGN4SlBoNl84eE9XRU1HcUxBUWstUTVOQkt1aXhwNkUycFJMMVFYZ1pvWlJiVVlxVUtWei0zMHBuZDliRmRjZHlyYUV5blg5c3J5UkdLY3ZFaFl2YW5iRVppRWhPSWNfS0V5TUtLNmlEVnJxamhwNjV3ZnlTM1VrWWJlV0pjYzZLeDRUQg?oc=5",
+      "publishedAt": "2026-10-11T15:21:11.000Z"
     },
     {
       "source": "The Hill",
@@ -45,25 +45,11 @@
       "publishedAt": "2026-10-11T14:36:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Kalshi analisa as apostas sobre a escolha de Trump para o novo secretário de imprensa da Casa Branca",
-      "titleOriginal": "Exclusive | Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXMtVlkxUEU1UUNqVWtDdWluMFNzZEc1WE51dzU3SnhrU2xEc093d2puLTM5bjNjMHhfQ2tKMXljM0lVd2tMYnVJTWsxNTlXU05weXNkSm9OdTUtbmxoWGdGZ0lqQ2dGdnppMFM1SDJTNG81T3AzZlFhMFEyQzBBZzVUXzgybVZjck5LNlFSR3hWNDVscjdINVdqSzRndm1Xb1RfWnlxb3RFNVZ6d2pid2VWOXVQNVpB?oc=5",
-      "publishedAt": "2026-10-11T14:18:58.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Senador em campanha pela reeleição chega a um acordo sobre projeto de lei relacionado a padarias, seis anos depois",
+      "title": "Senador em campanha para a reeleição chega a um acordo sobre projeto de lei relacionado a padarias, seis anos depois",
       "titleOriginal": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
       "link": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
       "publishedAt": "2026-10-11T14:17:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
-      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
-      "publishedAt": "2026-10-11T14:01:48.000Z"
     },
     {
       "source": "The Hill",
@@ -71,6 +57,20 @@
       "titleOriginal": "The TSA has a new rule for officers. You might notice next time you're in line",
       "link": "https://thehill.com/policy/transportation/6136940-the-tsa-has-a-new-rule-for-officers-you-might-notice-next-time-youre-in-line/",
       "publishedAt": "2026-10-11T14:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
+      "titleOriginal": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNPNVFFbnc4Z19KdkF6OUJEdVFvSERndThtelIyVXFia0lyQjkyeWhQU2JzNUVYVk5Tclgwa1Fhdk1UM2JQYlA5QkN6STFBNzRPd0JXdHZ2OHAzVjNyYXpndGlWQjBCd196S3J0dThGUHowbkt1eHhYRlMxMUdGZmpSN2gyUU5vZXlibzZ0OWtBeUNXQUs4Sm5Zc1pRT0VXNjczcHJqcw?oc=5",
+      "publishedAt": "2026-10-11T13:56:42.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Departamento de Justiça investiga emissoras de TV por causa da suspensão da cobertura do grupo de jornalistas que acompanha Trump",
+      "titleOriginal": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVo2VTlFTlFTNjBfNmlZLU1iWm5iSDlJd2hMT3ZSS00xZHZHczM1cWZudWpWdkJROTFabEgzY0NjR29FZlM4eHltb1lQb2RjZ1VBWkZZNU01UUtOb19qV2hnNmRqSksyTVU5SFhuT0p3NWZXZWtLNmVmZDJlUmsycHBfTnU2Sl9mZzBjYlhUYk5uS3E2eGRpS3UtOTh1RTNFY3lMMlNjVFhyTkRWX1FpTUs1eTlVaXp3NFBRb0JraVdIdlZP?oc=5",
+      "publishedAt": "2026-10-11T12:31:15.000Z"
     }
   ]
 }
