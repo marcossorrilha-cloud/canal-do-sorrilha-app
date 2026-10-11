@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-10-10T22:56:21.212Z",
+  "updatedAt": "2026-10-11T01:54:41.806Z",
   "count": 10,
   "items": [
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Empresa de capital de risco por trás da startup de chips Groq tem como meta um megafundo de US$ 10 bilhões",
-      "titleOriginal": "Exclusive | Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5",
-      "publishedAt": "2026-10-10T22:31:50.000Z"
-    },
     {
       "source": "Wall Street Journal",
       "title": "Para o Walmart, substituir humanos por robôs é uma batalha que envolve bilhões de dólares",
       "titleOriginal": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUURaUDZFVEhOZnE2T0VuWUtycXYyMnZNaktoMlZ1bENJZ0dHOGkzUDFRUUFpOWsyRWVmamJibF91LVBOREtoTHV2R1JXV1Z6aEh2OHNEbmNXWTkwZzJGMHhTbmw5bEQ2Uk4yUllKMDhEMDNYNWJJSFozb3NzRzRYTW5jY0M3bHNEQ2FkUA?oc=5",
-      "publishedAt": "2026-10-10T22:31:44.000Z"
+      "publishedAt": "2026-10-11T01:32:03.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O Departamento de Justiça está investigando redes de TV por causa da cobertura da “pool” de Trump",
+      "titleOriginal": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+      "publishedAt": "2026-10-11T00:39:17.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Pesquisa AP Top 25",
+      "titleOriginal": "AP Top 25 Poll",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
+      "publishedAt": "2026-10-10T23:42:10.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: falhas na Anthropic levam a determinação da Casa Branca de apresentar relatórios sobre IA",
+      "titleOriginal": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
+      "publishedAt": "2026-10-10T23:02:02.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
+      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
+      "publishedAt": "2026-10-10T23:01:45.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Tiroteio deixa nove mortos, incluindo o suspeito, em Erie, na Pensilvânia, segundo a polícia",
+      "titleOriginal": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+      "publishedAt": "2026-10-10T22:57:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Alguns republicanos rejeitam a iniciativa de Trump de importar diesel da Rússia",
+      "titleOriginal": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
+      "publishedAt": "2026-10-10T22:33:15.000Z"
     },
     {
       "source": "The Hill",
@@ -36,41 +71,6 @@
       "titleOriginal": "Philadelphia police officer killed, another injured after responding to reports of man with a gun",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJZV3hGTGdXeE5WX3pJR3V0TVhkdURWWDNNTVdKbTN6UkVWenhMODFIb3NEMGhnelphWlRHZnlGYy1FUXhFZFlrSVZTNnpvSjRVRERmNFk1TnlmcWZVM3lleDRESkdmSVZlSkdCM094RmdkV2hUYTJhMEVYcXZoc2wtSjA0OHN4UmFvVDRUZDQ?oc=5",
       "publishedAt": "2026-10-10T21:58:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tiroteio deixa 9 mortos, incluindo o suspeito, em Erie, na Pensilvânia, segundo a polícia",
-      "titleOriginal": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "publishedAt": "2026-10-10T21:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
-      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
-      "publishedAt": "2026-10-10T21:36:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As eleições intermediárias podem decidir o destino de Johnson, enquanto o Partido Republicano luta para manter o controle da Câmara",
-      "titleOriginal": "Midterms could decide Johnson’s fate as GOP fights to hold House",
-      "link": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
-      "publishedAt": "2026-10-10T21:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A ABC e a FCC de Trump travam uma batalha na Justiça Federal sobre questões relacionadas à liberdade de expressão e à jurisdição",
-      "titleOriginal": "ABC and Trump’s FCC battle in federal court over issues of free speech and jurisdiction",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBCcXdHTlIxS2UwVHRmWlc3YW5RSDJQdGJnWFRqTkRWeTFVVlNMREhhcmN3SEJJNHo2TWRfcFB0bjViZnNuZXZXQUJXZmh0c3FUWGdhWEdFVVpBZ1I4ME5YeTNFQTdBLTFveW5IcnBXTjQ1SUltY2RoTzhCWGxucXhkYTFFNnM0SV84NklEU3ItT1U?oc=5",
-      "publishedAt": "2026-10-10T20:28:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump afirma que deveria ter ganho “oito Prêmios Nobel da Paz” após ter sido preterido",
-      "titleOriginal": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
-      "publishedAt": "2026-10-10T20:11:09.000Z"
     }
   ]
 }
