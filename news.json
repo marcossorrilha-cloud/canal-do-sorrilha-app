@@ -1,20 +1,48 @@
 {
-  "updatedAt": "2026-10-12T06:32:03.988Z",
+  "updatedAt": "2026-10-12T07:22:10.815Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Marido de Kamala Harris afirma em particular que não quer que ela concorra à presidência novamente",
+      "titleOriginal": "Exclusive | Kamala Harris’s Husband Privately Says He Doesn’t Want Her to Run for President Again",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlBoN3ZaNzExRll3dFFrQjBFNk9ZLUFaRWhscTVRcEJUTl8wMjZ4Wlp5MmF4eDd2dlR1ODVIUXJqcWZqbnFNbEdKRXcxa3V3YUNYRG9HQkd0b2xHNHc0ME1QQzVncW1BRUZuZjZhOFRVWHdjZTBUZjZZU1drYmFTOVltV2sxWjFyRWgyR2V3T3U1aVFhVVN5U1FPd2RkeUlEdXFPSTB1cE0xNG93VlBNOVRBVl9Kb1RXUjBZVkNHTkZDTTRKTC1PY1BVcw?oc=5",
+      "publishedAt": "2026-10-12T06:57:04.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Dólar se mantém estável em meio à incerteza geopolítica",
+      "titleOriginal": "Dollar Trades Steady Amid Geopolitical Uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjh5VDBSaFhYRGlYWXhOUm1qOHBTMkpCQ0pMVWF2cmxZMkJiOE1jam1adTNUSUNwZUpDc1EzLTBFb01OOTJJRUo4U19qb3h2UHdMOWxBUTF2ZTh4clpnR3VHVEQtTVBiQV94TTRuenhLM1lKVWxuYnJMN1lmUVlpSUtxTU13ZmlmOUpuSU5XWExjaDNzN21WZ3Q0aURlSEkwU1NqVWtnZ1JEV0tXMUE?oc=5",
+      "publishedAt": "2026-10-12T06:49:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Motoristas de caminhões elétricos enfrentam dificuldades para competir, mesmo com a alta nos preços do diesel",
+      "titleOriginal": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzR1dC1PTGdiNDhPVVM0UDhzLXRVdVR4VVZiczhqSS1ZbDBUa3lpZWlDOTEtd2FpeUt6eTZmSU9IQ0c5b1F0NlY5aHhmS041RV81STRVUU1jMXZEVUNBaDRzSVFsYVV1NjVrNzhycDJXR2c3MEJjQURvY0Z5U0tPSHpWR0dPUkIzajNFZ3FHaFA4QV9Tay1pSFZvV0FaWDNOWEVqUlBVeVlhREd4eGRPZW9wN01IeG8?oc=5",
+      "publishedAt": "2026-10-12T06:36:18.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
+      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
+      "publishedAt": "2026-10-12T06:31:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os jovens chineses esgotados estão descobrindo algo inesperado em Mao",
+      "titleOriginal": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNPNVFFbnc4Z19KdkF6OUJEdVFvSERndThtelIyVXFia0lyQjkyeWhQU2JzNUVYVk5Tclgwa1Fhdk1UM2JQYlA5QkN6STFBNzRPd0JXdHZ2OHAzVjNyYXpndGlWQjBCd196S3J0dThGUHowbkt1eHhYRlMxMUdGZmpSN2gyUU5vZXlibzZ0OWtBeUNXQUs4Sm5Zc1pRT0VXNjczcHJqcw?oc=5",
+      "publishedAt": "2026-10-12T06:26:46.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Preços do petróleo se mantêm estáveis após Trump parecer descartar ataques ao Irã antes das eleições de meio de mandato",
       "titleOriginal": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
       "publishedAt": "2026-10-12T05:54:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A startup de computação quântica Oratomic agora vale US$ 5,4 bilhões após rodada de financiamento da Série B",
-      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
-      "publishedAt": "2026-10-12T05:01:49.000Z"
     },
     {
       "source": "AP News",
@@ -31,46 +59,18 @@
       "publishedAt": "2026-10-12T04:28:15.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Trump pressiona Zelensky enquanto a Rússia continua os ataques à Ucrânia",
+      "titleOriginal": "Trump bears down on Zelensky as Russia keeps up attacks on Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZpRnVWRlc4eWdqQzRGNnFiY2xheFhYb3Z6QXFrWGFQNk9aUkpuemc5cmQxSnFYMi10YjJPRzQtWmtVRkZHNWJlM0s4S1VvdVFFT19vdndGYWYzUFdxOVRvQk1laV96VGFkN29oeHpNMWItUzR1MW43R1dVd3I0ZWFTd1hNRUxqUER0TmhvcENYNGs?oc=5",
+      "publishedAt": "2026-10-12T03:17:50.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Juiz federal proíbe o governo Trump de veicular anúncios financiados com recursos públicos",
       "titleOriginal": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
       "link": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
       "publishedAt": "2026-10-12T03:14:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Líder republicano no Senado considera as notícias sobre Guilfoyle “muito preocupantes”",
-      "titleOriginal": "Top Senate Republican calls Guilfoyle reports ‘very troubling’",
-      "link": "https://thehill.com/homenews/senate/6142003-barrasso-concerns-guilfoyle-finances/",
-      "publishedAt": "2026-10-12T03:10:35.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Juiz determina que anúncios pró-Trump financiados pelos contribuintes devem ser retirados do ar",
-      "titleOriginal": "Judge Says Pro-Trump Ads Funded by Taxpayers Must Be Taken Off Air",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZW11Z3ZrOWx5SERNWUEtQ3E0cEVlNkh2WlNwcm01MkExMUxJYmw5SG51TU4wZ3BYM2NCaHR0MGVvcGNtTmVKMWo1bUVJeG1TWExNQWFvSjVTbzdIMUZNckczYjRWdzZLM3loOUtDdDZaLUREMzU4dHZuOHlTS2ppcHVHd3Z5X0tZOGhsbzJSUmZFcV93QUlQY0dUUlVkZkhOWk1TcEJKTjB3Y0k?oc=5",
-      "publishedAt": "2026-10-12T02:24:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Greene chama Trump de “a América em último lugar” em um ataque contundente",
-      "titleOriginal": "Greene calls Trump ‘America last’ in scathing attack",
-      "link": "https://thehill.com/homenews/administration/6141980-greene-slams-trump-america-last/",
-      "publishedAt": "2026-10-12T02:10:22.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que a China não quer se juntar ao grupo dos países desenvolvidos do mundo",
-      "titleOriginal": "Why China Doesn’t Want to Join the Ranks of the World’s Developed Countries",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUFJUEVQQlpNQkhYeWpsWmJJano1YVI4LUM1djAtTXIzWi13dkZ4c2JDY0hCYnVTYjN4ZDNYY01kUUlDY01DUEdmMVpfaUV6ZjRHeVJSa1ZKZkhxRGFZRUJvTW9vNFBZZnRnMTRwMF9EVTZwVjBWdHlacmFvVm1LdU5DZlViMjZtOVE5RzQzUG1SVDh6Y3FZNXVXa3lmX2t0eXV3eHdBdU5jOGd1S1RpQ3FSa0Q?oc=5",
-      "publishedAt": "2026-10-12T02:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que o novo secretário de imprensa dará sua primeira coletiva de imprensa na próxima semana",
-      "titleOriginal": "Trump says new press secretary to hold first press conference next week",
-      "link": "https://thehill.com/homenews/media/6141936-zacharia-to-hold-first-white-house-briefing/",
-      "publishedAt": "2026-10-12T01:06:57.000Z"
     }
   ]
 }
