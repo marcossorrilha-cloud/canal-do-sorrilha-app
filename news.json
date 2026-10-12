@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-11T23:59:20.901Z",
+  "updatedAt": "2026-10-12T00:33:12.995Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Juiz determina o cancelamento dos anúncios de Trump financiados pelo governo",
+      "titleOriginal": "Judge orders cancellation of Trump’s government-funded ads",
+      "link": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
+      "publishedAt": "2026-10-12T00:20:38.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Preços do petróleo se mantêm estáveis após Trump parecer descartar ataques ao Irã antes das eleições de meio de mandato",
-      "titleOriginal": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "publishedAt": "2026-10-11T23:54:19.000Z"
+      "title": "Mesmo que você tenha intolerância a laticínios, talvez ainda seja possível comer sorvete",
+      "titleOriginal": "Even If Dairy Bothers You, Ice Cream Might Not Be off the Table",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajZpR1FiRFpLcDlEd0M2OUc2LTBpcFlfUDUwU2xnZ3ZESDl5S2ZYbTRUekgzS3dDUDVuTEFseldZZFNYYTQ2WVJHTnN6NFVwUEJ4MjQ4VFRXZldNN0E0LTNaU29ZOUIxZWtYQU85NHpGNTZzSXJXNTFMQzZYYUt5eHFTbmxQbVVTVGttRWtueVVobXFLWXkzMWpLUGZmUlp3R1V4WHlPR1JNbzQ?oc=5",
+      "publishedAt": "2026-10-12T00:00:00.000Z"
     },
     {
       "source": "New York Times",
@@ -31,18 +38,18 @@
       "publishedAt": "2026-10-11T22:33:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "O Irã considera insuficiente a mais recente resposta dos EUA à proposta, além de outros acontecimentos no Oriente Médio",
+      "titleOriginal": "Iran calls latest US response to proposal insufficient, and other Mideast developments",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlpjcnBSNlAwM1RBdWdMa2lCQS1XUG1GTDhBNGVBYkRyQVpUcm1LSUtvY0JEWGExZmd1eklFMHpZNEJQYWY4cnJZalFGOTZRY0lHUzBPNWJaTjZSTWdiR0Y4OUk1VF9jZThTbGI2b1FkeU82YjV3WFJERzVybVJOcVJVbC1MbWN2THB0UUtfdmd0YmIwbmwybnJNY04tWU14dHV2QWoxSk4xQQ?oc=5",
+      "publishedAt": "2026-10-11T22:23:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Na disputa pelo Senado no Maine, democratas preocupados recorrem a Bernie Sanders em busca de um impulso",
       "titleOriginal": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
       "link": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
       "publishedAt": "2026-10-11T22:22:16.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A startup de tecnologia quântica Oratomic agora está avaliada em US$ 5,4 bilhões após rodada de financiamento da Série B",
-      "titleOriginal": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWNvTmUxODJsLUxpQnN5aXI2aDdadld2X1FoOUowbWx6OU10Z00wWWVNUjBGbjlRTnM1aUZSdktPWkVDSnlxc3JDRTBRelNTMUl0NTBScnFNdzk4MzZ1WnROT3NzWnctSkVZNXBJYXpvdUxCd1JPNWQxcEJwaFJfcUp1SXhJXzk5S2t4MDJ3SDBRR2JnaXF5eUVidWMzZ2w1a3ZwaFEtRWM0elBjZTZB?oc=5",
-      "publishedAt": "2026-10-11T22:05:15.000Z"
     },
     {
       "source": "The Hill",
@@ -52,25 +59,18 @@
       "publishedAt": "2026-10-11T21:57:15.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo caem com planos do G-7 de liberar estoques de petróleo bruto e diesel, mas riscos à navegação no Estreito de Ormuz persistem",
+      "titleOriginal": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
+      "publishedAt": "2026-10-11T21:45:13.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Presidente do Partido Democrata do Texas afirma que “estamos a todo vapor” após a recuperação de Talarico da gripe",
       "titleOriginal": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
       "link": "https://thehill.com/homenews/campaign/6141753-talarico-campaign-full-steam-ahead/",
       "publishedAt": "2026-10-11T21:40:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "139 migrantes, incluindo crianças, morrem após o naufrágio de um barco na costa de Djibuti",
-      "titleOriginal": "139 migrants, including children, die after boat capsizes off Djibouti",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0xjUzJkaGZaV18ycHV3djdMZmtVakRFb2RieE5qTHRSOHZmNHVyWTU4Q1J6UDZDaDdWeURCRlJLUkttNkZ0ZlNPVWpWYXEtMWh0Skw1RmpaaVRMSXpBd1VMU3VxNlAyMjZGVlcwMnUzSWNRb0NxMlFYLXh5ZVM3ejMteHllMjNKVF9VMXJWUV9MTHNuLVdEN2c5WE5wRXZXUUNBNzlMOVI?oc=5",
-      "publishedAt": "2026-10-11T21:34:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Seis senadores pedem que o governo Trump “mude imediatamente de rumo” em relação ao plano sobre o diesel russo",
-      "titleOriginal": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzFvT0JzYVBTcnhFT2NlVFFkbm1QaTkzWWxVYTB0RXkyR2NiZ21YeGotZHJvUDBuY0plUzlpNXpxYWdIUjdmUWt6MDRXVkdlTmVUSHNFU3ZzZENfVks3ZmxVVlByRG1zNEtDUllOUm9vRldaQTU5YnZ2eUZ0Ti10WWNyX214S3NIUjlDb0NBSVFrZzRIMWtVRVkyVE5fVGJuN1NYRy14cw?oc=5",
-      "publishedAt": "2026-10-11T21:15:00.000Z"
     }
   ]
 }
