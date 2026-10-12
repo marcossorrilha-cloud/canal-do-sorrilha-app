@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-12T17:55:54.343Z",
+  "updatedAt": "2026-10-12T23:13:44.365Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Os escândalos do governo Trump monopolizam a atenção enquanto os democratas buscam vantagem nas eleições de meio de mandato",
+      "titleOriginal": "Trump administration scandals suck up oxygen as Dems seek midterm advantage",
+      "link": "https://thehill.com/homenews/campaign/6144155-donald-trump-allies-democrats-midterm-elections/",
+      "publishedAt": "2026-10-12T22:38:16.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Um partidário de Trump, um investidor turco e uma disputa por riqueza e influência",
-      "titleOriginal": "A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence",
-      "link": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
-      "publishedAt": "2026-10-12T17:42:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pentágono e SBA assinam acordo para ampliar o acesso a capital para a base industrial de defesa",
-      "titleOriginal": "Pentagon, SBA sign agreement expanding capital access for defense industrial base",
-      "link": "https://thehill.com/policy/defense/6143284-smaller-war-plants-commission-agreement/",
-      "publishedAt": "2026-10-12T17:16:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hillary Clinton relembra momento que viralizou com Obama: “Espero mesmo que Donald Trump esteja assistindo”",
-      "titleOriginal": "Hillary Clinton recalls viral moment with Obama: 'I really hope that Donald Trump is watching'",
-      "link": "https://thehill.com/blogs/in-the-know/6143268-clinton-obama-nobel-peace-prize/",
-      "publishedAt": "2026-10-12T17:16:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O acordo de Trump com a Rússia deixa os candidatos republicanos com um problema relacionado a Putin",
-      "titleOriginal": "Trump's Russia deal leaves GOP candidates with a Putin problem",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVZDbTdjTHE1M3JpM0xVXzdlblZPOXZpTXktVlFlQWdNZDMxSVBuMU9fUUVNQ1dWZmRqYVdyVEpEdnI1cElTdjFNWl8zZTNQdktyWldONnBrUTVqOGp1dUQyM3RuN1psMHdYbFFzNHp6OTFTRFA5MUNRRFYzMnhqU0RnOFY?oc=5",
-      "publishedAt": "2026-10-12T17:13:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assessor de Trump discute com Loomer sobre Zelensky",
-      "titleOriginal": "Trump aide spars with Loomer over Zelensky",
-      "link": "https://thehill.com/homenews/administration/6143267-magas-clash-trump-adviser-loomer/",
-      "publishedAt": "2026-10-12T17:11:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Mercado de ações dos EUA apresenta resultados mistos; petróleo sobe com novas greves no setor de energia na Ucrânia",
-      "titleOriginal": "U.S. Stocks Mixed, Oil Gains on Fresh Energy Strikes in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamJ2ZGp1bmNfdEs1MUlid3YzVTcxNmRtZW9DRjE5LUhjM0E5cHJ3elNrYzVXTVBWOVNYX0hVTVJ2anJUUG44QnBvWnJfNVVUbnRTTDZEcVdqSTFSeWxuemlXOVJvWUhObmhiOVk0X083ckp4WEtQTUU3dnVNMW1wd3VxUlctaG5RbGpISVI3bVNQZXpHT3hWVEZZbDJrblZTYmhPVG9pVlJxUUJ3MnFNUmozQk5iNkp6OFlzNWppUEN1VXc?oc=5",
-      "publishedAt": "2026-10-12T16:55:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Primeiro-ministro do Reino Unido atribui ao Irã o plano contra base de bombardeiros dos EUA",
-      "titleOriginal": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oM2t0bW5vVEZVYWhuUWRfeVl0dnh3ODFSZkFFTTN2a0hyMkljQ1dlSGJoX0NoelhNdzU2OWc5RkhWMTB4Z3hJRGpvRkdWUWlJeVd6TktyU3NQYWg5Wjg5WVdCMVlNNGlwR3NITjBrMTBGZDhPUXZUeVh6V1dndw?oc=5",
-      "publishedAt": "2026-10-12T16:49:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Omar entra na mira do governo Trump",
-      "titleOriginal": "Omar lands in Trump administration’s crosshairs",
-      "link": "https://thehill.com/newsletters/1230-report/6143232-ilhan-omar-donald-trump-dc-raid-russia-ukraine-diesel-midterms/",
-      "publishedAt": "2026-10-12T16:40:00.000Z"
+      "title": "Juiz ordena que o governo Trump preste contas pela remoção de árvores em campo de golfe em Washington, D.C.",
+      "titleOriginal": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html",
+      "publishedAt": "2026-10-12T22:29:42.000Z"
     },
     {
       "source": "AP News",
-      "title": "Juiz brasileiro emite mandado de prisão contra Eduardo Bolsonaro, irmão de um candidato à presidência",
-      "titleOriginal": "Brazilian judge issues arrest warrant for Eduardo Bolsonaro, brother of a presidential candidate",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3A4VWJWVzN2Tkk1Njl3VW54djJxTDVIN2luYjQzcF9MdWdDV2FGYWthZEF0V2lxMWk1c2NjUW5kbDdsb2RTWEhGVkg5bW5VeDZacjBFQ1kxXy0wZm9mZjd2SkZKUFIzd0lkRTBYQkIzdVZZb3JsOWJpczAwUUczWDRCY2JYYzdiUUZIR2hEMW9wcFFKZGRsQV96b0NRblVG?oc=5",
-      "publishedAt": "2026-10-12T16:39:56.000Z"
+      "title": "Trump afirma que está “avaliando” a demissão do enviado dos EUA à Grécia, após relatos crescentes de conduta imprópria",
+      "titleOriginal": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
+      "publishedAt": "2026-10-12T22:20:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Delta adia planos para voos diretos para a Arábia Saudita",
-      "titleOriginal": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUpDNTlqWURTTW01eGNpZWZFOUNEWDFlcTVheDA3QUpyR3lxUkNyRG0wMnBqM2NOcFMxVkJuQW9qRDFLNlFYUWk1TUloVUpDUTEzTkFTOTNHWk1Ub0t3MjZORHdaaExPaXlZTjF1NTZOS2pWa2UyT1NoNG82cndzNVJ6ZnVUbDRILXR1T25oRVo3a3AtU016cXpuMXVwZ0pISWUw?oc=5",
-      "publishedAt": "2026-10-12T16:20:00.000Z"
+      "source": "The Hill",
+      "title": "Presidente do Partido Democrata de Montana renuncia e apoia candidato independente na disputa pelo Senado",
+      "titleOriginal": "Montana Democratic Party chair resigns, endorses independent in Senate race",
+      "link": "https://thehill.com/homenews/campaign/6144107-montana-democrats-chair-resigns/",
+      "publishedAt": "2026-10-12T22:19:09.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump afirma que “não está satisfeito” com a embaixadora na Grécia, Guilfoyle",
+      "titleOriginal": "Trump says he's \"not happy\" with Greece ambassador Guilfoyle",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTkExZzFFY19BVU1wTkFmYms3Y24xa0tTcEFqWWdwQVhWc2hWR1pXN1YtOU5IeW5JVmF3cUJVd0dNTlNEUW1FMm5GNG4wTy12MFljc1BUWTlTYXJpSTJWcV9KRW9TQXNQSjc5eQ?oc=5",
+      "publishedAt": "2026-10-12T21:48:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump chama Omar de “totalmente desonesta” em suas primeiras declarações sobre a operação policial",
+      "titleOriginal": "Trump calls Omar 'totally crooked' in first remarks on raid",
+      "link": "https://thehill.com/homenews/administration/6144098-trump-calls-omar-totally-crooked-in-first-remarks-on-raid/",
+      "publishedAt": "2026-10-12T21:45:58.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "EM DESTAQUE: Publicações afirmam falsamente que o candidato democrata ao Senado, James Talarico, esteve em uma instituição psiquiátrica",
+      "titleOriginal": "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkJYTU1GREtZZmxqVHBTOElVMEFkclFicnExNWhtd3AtOW5ySzNWa0YtVHF2bmhKZm9vOG41LWRMSERKRjVISW1CdTlBaEVwVXlwMHBObG81UWEzN0h1TEw0NmItOGE2SjNPNTl2WUtoQzZ1MFNxSngwLXhXdGtxUmZHRVNUODdSeGJUbkZHREVNdWh3Q3ZobzR6TlhUd0FRdUUw?oc=5",
+      "publishedAt": "2026-10-12T21:32:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Preços do petróleo disparam após ataques dos houthis a aeroportos sauditas",
+      "titleOriginal": "Oil prices spike after Houthi attacks on Saudi airports",
+      "link": "https://thehill.com/policy/energy-environment/6143892-trump-russian-diesel-supply-deal/",
+      "publishedAt": "2026-10-12T21:30:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent sobre como terminará a guerra no Irã: “Não sei”",
+      "titleOriginal": "Bessent on how Iran war ends: 'I don't know'",
+      "link": "https://thehill.com/homenews/administration/6143968-bessent-unsure-iran-war-end/",
+      "publishedAt": "2026-10-12T21:29:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Christie: O Partido Republicano está cometendo “negligência” ao tentar conquistar o Congresso",
+      "titleOriginal": "Christie: GOP committing 'malpractice' to try to win Congress",
+      "link": "https://thehill.com/homenews/campaign/6144027-christie-calls-gop-midterm-malpractice/",
+      "publishedAt": "2026-10-12T21:28:02.000Z"
     }
   ]
 }
