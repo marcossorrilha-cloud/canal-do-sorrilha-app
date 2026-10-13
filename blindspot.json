@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-13T03:58:09.264Z",
-  "slot": "2026-10-13-AM",
+  "updatedAt": "2026-10-13T16:00:11.144Z",
+  "slot": "2026-10-13-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Presidente da Microsoft: O leite é mais regulamentado do que a IA",
-      "titleOriginal": "Microsoft President: Milk Is More Regulated Than AI",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXdsYXRRU250b2xRWjdDNWtRZGlUd2hobzJMVGFNLUNrVHlZMW1yZWF6VWJXY0pJb2wzSk9YNDZQWXFiTGhUTjVwQW85aHliNlR0S2ZkQ0Jfc0U3ckhfLVNCa3doU0JLS1A2MjJUOHAxZ2VVdlJWdUYxRXF1MXNpTHNEajF5eFIwU2pKbVBnV3lYWFE4aGZRYTA3WkhTdFdRbGdOQkQwQm5VanVD0gGyAUFVX3lxTE9MdDdUTXAyeGVpTWI0bUhscGNkUGwzZGY3UTJZdmZxTGJ1SnVSNllSczVwVkFBV0poTXlLSmE5MkpBbEhkSng4b2tnRXd2ci1iWllyS1JWZkJUeUhPWEEwNW1nWVhjVjQtQmp0X05aM3V5TFZKTVFmNG40dHMyd3JJcS1UczZpTmdZX3dqWVRlazlQazhzRmZOOFNyR3U5NUVkTzFoeHBldkxlbVYyMXFWemc?oc=5",
-      "source": "HuffPost",
-      "coverage": 2
+      "title": "Agentes federais revistam a residência da deputada Ilhan Omar em Washington, D.C.",
+      "titleOriginal": "Federal agents search Rep. Ilhan Omar’s D.C. home",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXVoelRobFAtVS1iVUtCb204WEstUmI2ZUotaGQ0SjZsUGRfR2tWS2FwVlZvdlM2OXptNTVjMmp2ZVRlMmsxaEVKOV92TXRFOWNJMVV2cFRKOUJRcGtQZDB1eGRTdF96d1NmMHc4SEQ1UGtVaGZrS0tkYm1kaF9veFNyYjd5RWQxQUI1b3lYbXR6OGVJU21WRmlEUQ?oc=5",
+      "source": "Washington Post",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Militantes apoiados pelo Irã estão apertando o cerco ao príncipe herdeiro da Arábia Saudita",
-      "titleOriginal": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVkwTkl0c2w2QlgwUEtidDJ1UjlxMUIxSGdVYTljZ0VrSTJNMDVsUVUwTk1Lc1E3YklfTDhkSWhkWG1MUEgwWTI0bFlNMUkxbkZFSlEwTlRnMENCY0xMZlNZWHd4TTMyNnFLdHYydFVRWTRGZjJhT2R6eFhCcHhleGp0cW56MjVPcGFpY3BOZEZCY1ZYOFR5QlJVVm1CMnRxeGxNX19pVnVFSmkzcVZNQ2Y2S2pueGpYOF9WSGJPQVJqZw?oc=5",
-      "source": "Wall Street Journal",
+      "title": "Rob Sand busca um modelo de estado republicano para os democratas em Iowa",
+      "titleOriginal": "Rob Sand seeks red-state blueprint for Democrats in Iowa",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWpnV1JNREFlTWVyR1h0S0dZVE9oUFI1cW8yYV91Yi0tclZ5STVIbzNPU1RiQ2dqdFRkZkM1UWhxNVBkT1l5TWF2TjlaWWc5OFlkQ1dOb3g0Q2J1aUE1aG9hMzFlR05xQzdmS1k1MXQ1TWlPRXFjTXQ2RklHT2dqQ21BVTNSLWp6WTdfOUJEek85cUpobmEzVjg3QXdLdE9nQUl4MzFTYWhxWFFy?oc=5",
+      "source": "Washington Examiner",
       "coverage": 3
     }
   ]
