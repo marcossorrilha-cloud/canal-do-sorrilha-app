@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-10-13T00:41:02.762Z",
+  "updatedAt": "2026-10-13T03:53:16.449Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Furo: Importante colaborador de Trump é chamado para salvar a campanha do senador do Kansas",
-      "titleOriginal": "Scoop: Top Trump operative enlisted to rescue Kansas senator's campaign",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oT1RlcGlqRnhSX1ljWkl2LUdrOU5KazJNNV9Pdm9NXzVXOXdwWFprMXJ0NlRZWVBRYkxsU3Nld211QV9CYWFhS1NoNlZKVUV0MHNyRmNoVXJVc2xxVFZGTGxlLTJWYlJCelBPWDZWMDM1VTFSbXd2UmdYaw?oc=5",
-      "publishedAt": "2026-10-12T23:48:38.000Z"
+      "source": "The Hill",
+      "title": "Newsom apoia proposta de lei na Califórnia que anula a proposta de imposto sobre bilionários",
+      "titleOriginal": "Newsom backs California ballot measure that cancels out billionaire tax proposal",
+      "link": "https://thehill.com/homenews/campaign/6144461-newsom-endorses-prop42-billionaire-tax/",
+      "publishedAt": "2026-10-13T03:00:52.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump ataca repetidamente Minnesota e Omar durante parada de campanha em Ohio",
+      "titleOriginal": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
+      "link": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
+      "publishedAt": "2026-10-13T01:48:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Spicer afirma estar “absolutamente” preocupado com a disputa pelo Senado no Kansas",
+      "titleOriginal": "Spicer says he's ‘absolutely’ concerned about Kansas Senate race",
+      "link": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/",
+      "publishedAt": "2026-10-13T01:03:52.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os republicanos espalharam um boato falso de que James Talarico estava em Ohio",
+      "titleOriginal": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
+      "publishedAt": "2026-10-13T00:41:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky critica duramente Trump por causa do acordo sobre o diesel com a Rússia",
+      "titleOriginal": "Zelensky unleashes on Trump over Russia diesel deal",
+      "link": "https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel/",
+      "publishedAt": "2026-10-13T00:16:34.000Z"
     },
     {
       "source": "The Hill",
@@ -24,18 +52,11 @@
       "publishedAt": "2026-10-12T23:25:58.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Os republicanos espalharam um boato falso de que James Talarico estava em Ohio",
-      "titleOriginal": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
-      "link": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
-      "publishedAt": "2026-10-12T23:16:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Um ganho inesperado de US$ 300 milhões para um fundo fiduciário que arrecada recursos para projetos de Trump",
-      "titleOriginal": "A $300 Million Windfall for Trust Collecting Funds for Trump Projects",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3A5bmdOVFRoY0JnaXR0d3FkamlzRlQwNDFzTXFzaFdnSXhjYnlacU0ySXpuWWJFUkR0emxIRGFuSXZ2SEIyM2RWTTI0VExrVUZsNzV1SElXd2ZMeGF3bng5c0dLMVVxYzBPVTFEaTBxWlVRQ0JiODJ0ZW1sVy1ZbUthbElmMTkzWEtLME94UTJwSEVXVVF3RGdSbVNwWTJxWVRfYmpxWFY0UQ?oc=5",
-      "publishedAt": "2026-10-12T22:57:00.000Z"
+      "source": "The Hill",
+      "title": "O Resumo: Críticos de Trump alegam abuso de poder após batida policial na casa de Ilhan Omar",
+      "titleOriginal": "The Memo: Trump critics allege abuse of power as Ilhan Omar’s home is raided",
+      "link": "https://thehill.com/homenews/analysis/6144242-omars-reelection-facing-political-firestorm/",
+      "publishedAt": "2026-10-12T22:38:23.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html",
       "publishedAt": "2026-10-12T22:29:42.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que está “avaliando” a possibilidade de demitir o enviado dos EUA à Grécia, após relatos crescentes de conduta imprópria",
-      "titleOriginal": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
-      "publishedAt": "2026-10-12T22:20:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Presidente do Partido Democrata de Montana renuncia e apoia candidato independente na disputa pelo Senado",
-      "titleOriginal": "Montana Democratic Party chair resigns, endorses independent in Senate race",
-      "link": "https://thehill.com/homenews/campaign/6144107-montana-democrats-chair-resigns/",
-      "publishedAt": "2026-10-12T22:19:09.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump afirma que “não está satisfeito” com a embaixadora na Grécia, Guilfoyle",
-      "titleOriginal": "Trump says he's \"not happy\" with Greece ambassador Guilfoyle",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTkExZzFFY19BVU1wTkFmYms3Y24xa0tTcEFqWWdwQVhWc2hWR1pXN1YtOU5IeW5JVmF3cUJVd0dNTlNEUW1FMm5GNG4wTy12MFljc1BUWTlTYXJpSTJWcV9KRW9TQXNQSjc5eQ?oc=5",
-      "publishedAt": "2026-10-12T21:48:46.000Z"
     }
   ]
 }
