@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-13T19:32:06.140Z",
+  "updatedAt": "2026-10-13T21:15:44.889Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "A maioria afirma que Trump está mais interessado em sua fortuna do que em ajudar pessoas como elas: pesquisa",
-      "titleOriginal": "Most say Trump more interested in his wealth than helping people like them: Survey",
-      "link": "https://thehill.com/homenews/administration/6146180-trump-poll-personal-business-interests/",
-      "publishedAt": "2026-10-13T19:28:06.000Z"
+      "title": "Deputado democrata apresenta projeto de lei que visa reduzir o ICE e o CBP e substituir o DHS",
+      "titleOriginal": "House Democrat introduces bill seeking to cut ICE, CBP, replace DHS",
+      "link": "https://thehill.com/homenews/6146538-reimagining-safety-act-overhaul-immigration/",
+      "publishedAt": "2026-10-13T21:12:11.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A polícia de Cobb investiga a morte de um homem que foi ejetado de uma montanha-russa do Six Flags",
-      "titleOriginal": "Cobb police investigating death of man ejected from Six Flags roller coaster",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29xazlJWjZ6UXVKb1RPam40RE5zUUI5dWl5SlFUNzhNZFZvQmtaNGdZVGIydXZHeEFCNFljOTlJTWl5MGlkeGlLakNXY09Eb2FSMmcyNFRrcEFTOHdQMGJhdS1QNG5uMkotN1RIcEg2YzdtOUFMakMxTnREa2tKTllmTHI5dHVtbUc5cmRTZUJoN05BRHFhU19vMUJGa2hkNVFjUHhvYTZfbnhDQlV0UVNkcE5Teng3eVdYSWFVbmp3MW8yUnJhb0NfbHFpV1lxOFBhcg?oc=5",
-      "publishedAt": "2026-10-13T19:18:50.000Z"
+      "source": "New York Times",
+      "title": "Shawn Fain, da UAW, é reeleito para um segundo mandato como presidente",
+      "titleOriginal": "UAW’s Shawn Fain Wins Second Term as President",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/uaw-shawn-fain.html",
+      "publishedAt": "2026-10-13T21:06:31.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Democratas superam republicanos em popularidade e questões econômicas: Gallup",
-      "titleOriginal": "Democrats lead Republicans on favorability, economy: Gallup",
-      "link": "https://thehill.com/homenews/campaign/6145986-democrats-lead-republicans-on-favorability-economy-gallup/",
-      "publishedAt": "2026-10-13T19:02:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O “Cook Political Report” reclassifica quatro disputas para o cargo de governador a favor dos democratas",
-      "titleOriginal": "Cook Political Report shifts 4 governors' races toward Democrats",
-      "link": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/",
-      "publishedAt": "2026-10-13T18:47:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance anuncia plano para usar poderes de emergência de guerra a fim de aumentar a produção de combustível em uma refinaria do Texas",
-      "titleOriginal": "Vance announces plan to use wartime authority to boost fuel production at Texas refinery",
-      "link": "https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/",
-      "publishedAt": "2026-10-13T18:45:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Cornell anuncia a suspensão de todas as festas das fraternidades em meio ao processo movido por Jane Doe",
-      "titleOriginal": "Cornell announces suspension of all frat parties amid Jane Doe lawsuit",
-      "link": "https://thehill.com/homenews/education/6146032-cornell-frat-parties-jane-doe-gang-rape/",
-      "publishedAt": "2026-10-13T18:45:28.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por trás de Trump, o dilema de Netanyahu: atacar o Irã antes das eleições ou esperar",
-      "titleOriginal": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUndhMTg1cVBLbzA0Wjk0WTViZVF1c2pBTmhzNzI3eFNpQi1lVDhiUGJUUU1WdmNrSUNwOHRLMU5uelNQc0NVSUdHd1Nra3ZCOThHRzYyTVU1aG1MQlJ5anZjSm84YWc2NmlGUHMyelJ1ZnEwU0E?oc=5",
-      "publishedAt": "2026-10-13T18:45:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Obama fará campanha com Brown e Acton em Cleveland",
-      "titleOriginal": "Obama to campaign with Brown, Acton in Cleveland",
-      "link": "https://thehill.com/homenews/campaign/6146037-obama-campaigning-ohio-midterms/",
-      "publishedAt": "2026-10-13T18:41:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A maioria dos eleitores considera que o Congresso está fora de sintonia com a realidade no que diz respeito aos gastos, apesar do discurso sobre acessibilidade financeira nas eleições de meio de mandato",
-      "titleOriginal": "Most voters see Congress as out of touch on spending despite midterm affordability pitch",
-      "link": "https://thehill.com/homenews/campaign/6145799-voters-congress-spending-affordability-poll/",
-      "publishedAt": "2026-10-13T18:36:18.000Z"
+      "source": "Wall Street Journal",
+      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
+      "titleOriginal": "Financial Services Roundup: Market Talk",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemFnSGxvS29ZX1ppc2RtZE11dXNiX0VQU3Jacl8tTldaU0tnOHQwTDR0N1lkXzVZWEloUDI1M29tR3J2T1Y2SjFULTk3SnJ6V0dGWHV6SEpFbXh6VmE4TW5FZEZnRVhrWTNoaGhxVGJSSjNFOU5zSVJELTRKc0dXTFRn?oc=5",
+      "publishedAt": "2026-10-13T21:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "A embaixadora de Trump na Grécia, Kimberly Guilfoyle, renuncia após alegações de conduta imprópria",
-      "titleOriginal": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
-      "publishedAt": "2026-10-13T18:27:00.000Z"
+      "title": "Os EUA aplicam multa de US$ 1,2 bilhão ao Bank of America, alegando que o banco violou leis contra lavagem de dinheiro e sanções",
+      "titleOriginal": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORERLcDUxeU5Mb2Y3UzRGMUcxVldIQ0hjNFpUdjNGX0pJUlBodGZFR1pfV21tTnRxX2dHMXlUY0o2NGUzNTF3bnFramYtMTV0TE5vZ18xVC1ybHBQMmNuY1ZCQnF2M1Q2R1U3c3J5TVo5M0ltX1NuUVJnQVMxRWtWdGtHdE5nUkZyUFZqellEc0pyVmpxbWM1bl9IVTE1RjRwbldN?oc=5",
+      "publishedAt": "2026-10-13T20:45:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Kimberly-Clark e Kenvue obtêm aprovação condicional da UE para fusão de US$ 40 bilhões",
+      "titleOriginal": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlFZR3JBNFY0dzktR3hYcFozQ2drZE1VY1JFWUllWW9TOFRjbmdydk56SlJrUXpRcThTTmVXWTFHWms3QXVPbmI2YkpicjNqQ3VlQjhEaF9naUp4eE41d3pFNjc2MFhYMzZvaHgzUW1hamJ3RDhwTWFydUo4cC1CemdYSFJGOUxFd3pYcnJ5X3Qzd3ppX2lLSTBDc1pUX1NQd0x2VENYYjhESmMwNTAwZFVsN3hRUQ?oc=5",
+      "publishedAt": "2026-10-13T20:43:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Guerra no Irã custa, em média, US$ 2 mil por família nos EUA: Moody's",
+      "titleOriginal": "Iran war costing US households average of $2K each: Moody's",
+      "link": "https://thehill.com/policy/defense/6146031-iran-war-cost-households/",
+      "publishedAt": "2026-10-13T20:38:43.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A maioria considera que os legisladores estão fora de sintonia com a realidade em relação aos gastos: pesquisa",
+      "titleOriginal": "Most see lawmakers as out of touch on spending: Poll",
+      "link": "https://thehill.com/newsletters/business-economy/6146419-most-see-lawmakers-as-out-of-touch-on-spending-poll/",
+      "publishedAt": "2026-10-13T20:34:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas da Câmara: a renúncia de Guilfoyle “não a isenta de prestar contas”",
+      "titleOriginal": "House Democrats: Guilfoyle's resignation 'does not shield her from accountability’",
+      "link": "https://thehill.com/homenews/house/6146381-democrats-seek-guilfoyle-accountability/",
+      "publishedAt": "2026-10-13T20:33:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump pretende rever a aprovação do parque eólico offshore",
+      "titleOriginal": "Trump administration seeks to reconsider offshore wind farm’s approval",
+      "link": "https://thehill.com/policy/energy-environment/6146426-trump-attacks-offshore-wind-energy/",
+      "publishedAt": "2026-10-13T20:30:42.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Cornell suspende as festas das fraternidades e atribui à polícia estadual a função de investigar denúncias de agressão no campus",
+      "titleOriginal": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
+      "publishedAt": "2026-10-13T20:26:00.000Z"
     }
   ]
 }
