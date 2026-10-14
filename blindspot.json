@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T06:09:30.574Z",
-  "slot": "2026-10-14-AM",
+  "updatedAt": "2026-10-14T17:11:35.256Z",
+  "slot": "2026-10-14-PM",
   "items": [
     {
       "audience": "right",
@@ -10,17 +10,17 @@
       "titleOriginal": "OpenAI employee arrested by FBI after listening device found at its office",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
       "source": "Washington Post",
-      "coverage": 3
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Mamdani reutiliza imagens do ex-prefeito para comemorar o Dia dos Povos Indígenas",
-      "titleOriginal": "Mamdani recycles former mayor’s footage to celebrate Indigenous Peoples’ Day",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RpZ3Z6ZEx4MjgxV2hxZ0ZMeEhLZmJUZmlrMVB5WE1VaDdZSzZ4RmhxTnljdHZic3M2M0xfQkp1NEdFYjVBak1fZV9BRXA5d3RSRFhoc0lNTkdWWjVwMFhHSl9nNmh1cUhjMS1YSmdmYk9mNzMzOS1JNGd4dnVDQ3ZhRU5OUzJaUC12YmxDR1pCa0FVanc4LXhPSmNLY1Fyb2ZOLXJSX0lYNmx0OXRTZzJlUQ?oc=5",
-      "source": "New York Post",
-      "coverage": 2
+      "title": "Alguém quer vencer essa disputa? Talarico e Paxton chegam com dificuldades à linha de chegada na disputa pelo Senado do Texas",
+      "titleOriginal": "Does anyone want to win this race? Talarico and Paxton stumble to finish line in Texas Senate contest",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzlZN08xakZ1Wjg3aWtpMGhXUk0xTzJaamk1bzNGVmM2NVZQMHUzdUxQN3RpbFFOTklxakFXZGZiQlBGSHZpTnlfSUpLelRyQmtSdDJ5NzJmc1l4NWYtdWFLNWRuTlNjbVd2SVNqV3RWMjNIVlZfUGg3Tl9ZYmM0VENtVlZWcUExWDRFZVZDaUxzNFlGcWZIUlozbG9zanpMUmtvVFJvMFo5UFhjZ0d2VjBYN1VRY0NhQ19sczlB?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 3
     }
   ]
 }
