@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-14T17:11:26.399Z",
+  "updatedAt": "2026-10-14T18:53:50.761Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "7 pontos a serem destacados do segundo debate para o Senado da Geórgia",
+      "titleOriginal": "7 Takeaways From the Second Georgia Senate Debate",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html",
+      "publishedAt": "2026-10-14T18:37:05.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Como o Líbano pode ser o primeiro sucesso de Trump em uma região conturbada",
-      "titleOriginal": "How Lebanon can be Trump's first success in a troubled region",
-      "link": "https://thehill.com/opinion/international/6146856-trump-lebanon-hezbollah-peace-deal/",
-      "publishedAt": "2026-10-14T17:00:00.000Z"
+      "title": "O ex-noivo de Nancy Mace e outros dois homens respondem por acusações de crimes sexuais após as denúncias feitas por ela em discurso na Câmara",
+      "titleOriginal": "Nancy Mace's ex-fiance, 2 other men face sex crime charges after her accusations in House speech",
+      "link": "https://thehill.com/homenews/house/6148337-nancy-mace-south-carolina-sled-sex-crime-charges/",
+      "publishedAt": "2026-10-14T18:26:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky afirma que “pessoas vão morrer” por causa da decisão sobre o Starlink",
+      "titleOriginal": "Zelensky says 'people will die' because of Starlink decision",
+      "link": "https://thehill.com/policy/international/6148494-zelensky-trump-musk-starlink-limitations/",
+      "publishedAt": "2026-10-14T18:26:01.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como altos funcionários do governo Trump alimentaram o medo de que uma bomba nuclear pudesse danificar a rede elétrica",
-      "titleOriginal": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
-      "link": "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
-      "publishedAt": "2026-10-14T16:59:10.000Z"
+      "title": "Por que é improvável que a flexibilização das sanções sobre o diesel russo reduza os custos do combustível",
+      "titleOriginal": "Why Easing Sanctions on Russian Diesel Is Unlikely to Lower Fuel Costs",
+      "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+      "publishedAt": "2026-10-14T18:23:25.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "A alta generalizada nos preços elevou a inflação para 3,7% em setembro",
-      "titleOriginal": "Broad Pickup in Prices Lifted Inflation to 3.7% in September",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02QXFXcTctZDVRVG5UVWk5bWJKZkJnNUp3RjVxQUoyVmtOdTZGdTZ6R1hYdXVRMDlSeTc2a3RVdG1LYnFaeDF2Q1p5aWJYMEhPUHdOajk2ckY4azd0TnI0SGM1N2g1SUhyN1ppbDlkOWdEbndCdFVyTEtBVnU?oc=5",
-      "publishedAt": "2026-10-14T16:41:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicano do Senado critica o governo Trump pelo aumento de casos de sarampo: “Vacinem-se, assim não morrem”",
-      "titleOriginal": "Senate Republican knocks Trump administration on measles surge: 'Get vaccinated, you don't die'",
-      "link": "https://thehill.com/policy/healthcare/6148134-cassidy-criticizes-trump-kennedy-vaccination-efforts/",
-      "publishedAt": "2026-10-14T16:40:12.000Z"
+      "source": "Politico",
+      "title": "“Acho que o Alasca está virando azul”: republicanos se preocupam com o caminho de Sullivan rumo à reeleição",
+      "titleOriginal": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
+      "link": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
+      "publishedAt": "2026-10-14T18:18:37.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Relatório sobre a inflação traz mais más notícias para o Partido Republicano",
-      "titleOriginal": "Inflation report delivers more bad news to GOP",
-      "link": "https://thehill.com/newsletters/1230-report/6148313-inflation-talarico-paxton-midterm-elections-ukraine/",
-      "publishedAt": "2026-10-14T16:31:51.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A revolta silenciosa dos eleitores que poderia abalar o Congresso",
-      "titleOriginal": "The silent voter revolt that could upend Congress",
-      "link": "https://thehill.com/opinion/campaign/6146320-midterm-polls-unpredictable-voter-turnout/",
-      "publishedAt": "2026-10-14T16:30:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O enfraquecimento da economia chinesa está criando uma geração perdida",
-      "titleOriginal": "China’s Weakening Economy Is Creating a Lost Generation",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5R2p1V0RoRTdaVVBmd0tkM2Uxd0RqdFFYODNXckxEZVk3N0xwVTRub08tZGpWb25Sd2p3VjZWSzNNMUxsbnlMRkJhZXMwMVc0OHRVNUN4Z1FMSHJGcVIyZFRRdTI?oc=5",
-      "publishedAt": "2026-10-14T16:18:47.000Z"
+      "title": "Tribunal de apelação decide que a Califórnia não pode exigir que o ICE apresente identificação visível",
+      "titleOriginal": "Appeals court rules California can't require ICE to show visible ID",
+      "link": "https://thehill.com/regulation/court-battles/6148426-california-immigration-enforcement-id-law-appeals-court-ruling/",
+      "publishedAt": "2026-10-14T18:08:29.000Z"
     },
     {
       "source": "AP News",
-      "title": "Houthis, apoiados pelo Irã, atacam a sede da empresa petrolífera saudita Aramco, segundo autoridades",
-      "titleOriginal": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-      "publishedAt": "2026-10-14T16:07:00.000Z"
+      "title": "Promotor do Texas afirma que um agente do ICE parece ter atropelado intencionalmente um homem com um veículo em Houston",
+      "titleOriginal": "Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGZ0elkwbTRKYmowMFNBcnJOUk5VX19GZVp2QmdVOTh2RG9HbXJZODRmcU5JckxpaUwwUFBSSGZpN1BXLTNWX2lWcFhOREJfT3R1N2dWWmFxd2draFgxcS1OaGlaMUVVU0pDX0duTDIwN3hBOEMwUDRTX0dudjFITTZJLVI5ZHRtY1liM0tXanJBV28?oc=5",
+      "publishedAt": "2026-10-14T18:03:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Chefe de Computação da OpenAI vai deixar a empresa",
-      "titleOriginal": "OpenAI Computing Chief to Depart",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
-      "publishedAt": "2026-10-14T16:06:00.000Z"
+      "source": "The Hill",
+      "title": "Assessor de Trump vê “muitas boas notícias” no relatório sobre a inflação",
+      "titleOriginal": "Trump adviser sees 'a whole bunch of good news' in inflation report",
+      "link": "https://thehill.com/homenews/administration/6148546-hassett-september-cpi-energy-prices/",
+      "publishedAt": "2026-10-14T17:54:11.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Jon Ossoff afirma que não concorrerá à Presidência em 2028, durante debate para o Senado na Geórgia",
-      "titleOriginal": "Jon Ossoff Says He Won’t Run for President in 2028 in Georgia Senate Debate",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/jon-ossoff-georgia-senate-term-president.html",
-      "publishedAt": "2026-10-14T15:57:50.000Z"
+      "source": "Axios",
+      "title": "O ICE se opõe ao uso automático de câmeras corporais",
+      "titleOriginal": "ICE says no to automatic body-cams",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rR1NDV1NOdlIxaG02V01lWFhMT3JEV1doUDVsdERWUUlFZkI3N1BheU94U25lQW51WXRZQjlLY2RFTUlLNEw1eVJTTjFMNlBUTG1lSE9pVjNDU1RzSXBJR0xHbk5KX21jS2dWTW9iQnBhTmNt?oc=5",
+      "publishedAt": "2026-10-14T17:50:40.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "“Rixa sangrenta do MAGA”: Casa Branca investiga alegações sobre dinheiro desaparecido do Kennedy Center",
+      "titleOriginal": "\"MAGA blood feud\": White House probes claims of missing Kennedy Center money",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DekdBM2g5a2s3QTJiZUl0NEFkNF9IZVdzMHo2RW9GYU1vaXRmNFdUb3VmMGNoTy1OSE5FejhFZ1FNcVJnOS1NbThIQ3IyTmRwRlFqd1FOMDl1M2VYMDBvbDNUd2xZazJVSDNCSkU2R2hvWUJsXzNiRnNNR3M?oc=5",
+      "publishedAt": "2026-10-14T17:49:14.000Z"
     }
   ]
 }
