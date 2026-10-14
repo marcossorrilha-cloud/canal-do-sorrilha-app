@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-10-13T23:25:51.649Z",
+  "updatedAt": "2026-10-14T00:20:20.822Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Trump pede à Ucrânia que pare de atacar refinarias russas — e que substitua Zelensky",
-      "titleOriginal": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSndPUFQ0bUtiVkdLSEFGRnlNLW52UTVCUVB1TWpPMUhGOW5ocG4waEhLeTc0V212cVBLMFJaalZvd2Jxc0JIbmhTNUpfVlctMjByTGhwYTgxSnRGbFY0NmhuYmZGSEZmYm9UakZMTm5MdXRWM0ExLWU4eXMwQk9vQ0hDUGJkbmk4dFNkYzJ1T3hQQmFpR2t5cnBnWHRGdWN2SWtoc0FiTU93WnpwcDJmaVhR?oc=5",
-      "publishedAt": "2026-10-13T23:01:13.000Z"
+      "source": "New York Times",
+      "title": "Senadores pedem que Trump revogue acordo sobre diesel com Putin",
+      "titleOriginal": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "publishedAt": "2026-10-14T00:12:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Cornell suspende as festas das fraternidades e atribui à polícia estadual a função de investigar denúncias de agressão no campus",
+      "titleOriginal": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
+      "publishedAt": "2026-10-13T23:37:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O problema de Mike Johnson com o eleitorado latino só piora cada vez mais",
+      "titleOriginal": "Mike Johnson's Latino voter problem keeps getting worse",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ucHVIOENCTVlSYlVwZzFGeDNlOVdicVBaRjNfcEVyd3JBdVZjcDBBdWhvU1hJVUk1RndMbEhNV0EtRzNueUxHeFIzXzBHZlFPTjJIZVh5SlFhX3VDd0xFYWMwV2NFRVhGemZwMG5KcXROS0IwUU5sQWYzRQ?oc=5",
+      "publishedAt": "2026-10-13T23:30:58.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Democratas temem “mais surpresas de outubro” após a “bobagem” de uma operação policial na casa de Ilhan Omar",
+      "titleOriginal": "Democrats fear \"more October surprises\" after \"bullshit\" raid on Ilhan Omar's home",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWFWei1mTzVMZ2JWTklHaWZVQ3Iyb2tnREpvU2pwLU1XVUh4T05QTmV2WHYtNllQUDZyLXZBa2dNUzJrV0xEMjJtVEtvcUx1R3FMUnFzUi0yUlBiZTV1SXhvcTM4YnhPb19QZlpBTFItWFYxaFl2LXlIUE9rckxLNmFPS245Qllm?oc=5",
+      "publishedAt": "2026-10-13T23:27:49.000Z"
     },
     {
       "source": "The Hill",
@@ -31,6 +52,13 @@
       "publishedAt": "2026-10-13T22:00:46.000Z"
     },
     {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Hinson e Turek se preparam para a revanche no debate para o Senado de Iowa da Nexstar",
+      "titleOriginal": "Watch live: Hinson, Turek set for rematch in Nexstar's Iowa Senate debate",
+      "link": "https://thehill.com/video-clips/6146008-watch-live-hinson-turek-nexstar-iowa-senate-debate/",
+      "publishedAt": "2026-10-13T22:00:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Shawn Fain é reeleito presidente do UAW de forma contundente",
       "titleOriginal": "Shawn Fain reelected as president of UAW in commanding fashion",
@@ -39,38 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "A Cornell suspende as festas das fraternidades e atribui à polícia estadual a função de investigar denúncias de agressão no campus",
-      "titleOriginal": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
-      "publishedAt": "2026-10-13T21:47:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os consumidores estão descontentes, mas continuam gastando mesmo assim",
-      "titleOriginal": "Consumers are feeling sour but they're spending anyway",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVdXWV8ySHY3dUktcGNiRUZwaW1EbDJmcmVrOXFPS01OZC1hVUpDcXJqREx0Z1o2azdpWjNOdW1hTWR1Wk02TnYtaFB0dngwNVRuQlR1ZXlCVm9ycW5WeWw2d05XZ2k0OVM2RDN1RXN5NHhsZUNXcnV5V3N2Q0NrLWlBaXo?oc=5",
-      "publishedAt": "2026-10-13T21:33:37.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A deputada Ilhan Omar está sendo investigada pelo gabinete de Jeanine Pirro",
-      "titleOriginal": "Rep. Ilhan Omar under investigation by Jeanine Pirro's office",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ZWp2OUxobE9XX0wzX0g0c0lMUUxreFFQM01lWUpvNVE0OU5QcVJMZ0NneFp6NkxrOWF2ZWZwM3FJcDEwX3pOT0JuSEEwbUJYZllyMlo5cDZ5UUlDVGZzRU5TYjhuTjVTSTJnOXhMLXVPTFNCWU1Zdk9nYms?oc=5",
-      "publishedAt": "2026-10-13T21:23:16.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Leitores se revoltam contra o plano de Trump para o diesel",
-      "titleOriginal": "Opinion | Readers Revolt Against Trump’s Diesel Plan",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkdoUnlRZ1lXZG1oZkx0RDJ2aGl4QXZ0UnRadUwtZFpoSlItSFBnZHBEMkFWcElNQzFUUzUyOWVqX3hBbmI2My0xZUhPSy1KS1RlOUZyZWFlTHNYX3ZEUk1tXzdVUFJuNVpMZU9fYjBMU1IweUhvOFhsQTNDdU9aM3V3R1U?oc=5",
-      "publishedAt": "2026-10-13T21:18:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Funcionário é preso após a descoberta de um dispositivo de escuta na sala de conferências da OpenAI, segundo o FBI e a empresa",
-      "titleOriginal": "Employee arrested after listening device found in OpenAI conference room, FBI and the company say",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
-      "publishedAt": "2026-10-13T21:11:00.000Z"
+      "title": "Começa a seleção do júri no julgamento federal com pena de morte do autor do tiroteio em massa em um supermercado em Buffalo, Nova York",
+      "titleOriginal": "Jury selection begins in federal death penalty trial of Buffalo, NY, supermarket mass shooter",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXRaY3FfZnF1X0E3c0d6MlpFWmtXVDlXS2tYZEZqMlJyNFFtbWdPVTQzZXlyVXBsamttMGRkaUpwNi15ZFlTa29wbTk2XzZjZE9ZMkFESHVxRUVhUmFnYXRTZ1hkUTZKTk1PM0pjRjVSd1dSdlE2dEZQY3dyRi1WdXpnRkpVelhaTnpQT0ZLRDR5SG90UjBWcVZmemdTdVN3bV9UZVVnLXhWN1lB?oc=5",
+      "publishedAt": "2026-10-13T21:43:00.000Z"
     }
   ]
 }
