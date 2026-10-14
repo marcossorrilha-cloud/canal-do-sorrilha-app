@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-10-14T00:20:20.822Z",
+  "updatedAt": "2026-10-14T02:09:45.433Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Trump foi até o Alasca, o que mostra o quão acirrada pode ser a disputa pelo Senado naquele estado",
+      "titleOriginal": "Trump went all the way to Alaska in a sign of just how close its Senate race may be",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
+      "publishedAt": "2026-10-14T01:51:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que Taiwan concordou em comprar 30% do gás do gasoduto do Alasca",
+      "titleOriginal": "Trump says Taiwan agreed to buy 30 percent of gas from Alaska pipeline",
+      "link": "https://thehill.com/homenews/6146987-taiwan-alaska-gas-pipeline-deal-trump/",
+      "publishedAt": "2026-10-14T01:31:11.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Senador Jon Ossoff: “Não vou concorrer à presidência”",
+      "titleOriginal": "Sen. Jon Ossoff: ‘I’m not running for president’",
+      "link": "https://www.politico.com/news/2026/10/13/jon-ossoff-zero-interest-2028-georgia-01117546",
+      "publishedAt": "2026-10-14T01:12:37.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ossoff se compromete a cumprir um mandato de seis anos no Senado em meio a especulações sobre 2028",
+      "titleOriginal": "Ossoff commits to 6-year Senate term amid 2028 speculation",
+      "link": "https://thehill.com/homenews/campaign/6146926-ossoff-senate-2028-president-bid-speculation/",
+      "publishedAt": "2026-10-14T00:34:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O FBI prende funcionário da OpenAI acusado de instalar um dispositivo de gravação na sala de conferências da empresa",
+      "titleOriginal": "FBI arrests OpenAI employee accused of placing recording device in company conference room",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
+      "publishedAt": "2026-10-14T00:29:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Senadores pedem que Trump revogue acordo sobre diesel com Putin",
       "titleOriginal": "Senators Urge Trump to Reverse Diesel Deal With Putin",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
       "publishedAt": "2026-10-14T00:12:23.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Relatório recentemente divulgado sobre o técnico Brian Flores contém “estereótipos raciais”, segundo os advogados",
+      "titleOriginal": "Recently unsealed report on coach Brian Flores contains 'racial stereotypes,' according to lawyers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDQ1bXFFNHdycV9rV1BrWXA0LVZWeDJwMGZxcDBaVUtWRkJ1NjNSOU83eWFlS1FJcnlWbXh2ZFhzcjFsR1dwUVBuWDAtWmo3OUpGbHl1ekpnckZZNTBYNldsaUN4OXA5R2VtNVpCUmM3QjhYc1lGRW9UREIyemR1UlRLQlAwRnhrOHBaRnVVaFlfX3hxZGQzc1ZYRQ?oc=5",
+      "publishedAt": "2026-10-14T00:09:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O problema de Mike Johnson com o eleitorado latino só piora cada vez mais",
+      "titleOriginal": "Mike Johnson's Latino voter problem keeps getting worse",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ucHVIOENCTVlSYlVwZzFGeDNlOVdicVBaRjNfcEVyd3JBdVZjcDBBdWhvU1hJVUk1RndMbEhNV0EtRzNueUxHeFIzXzBHZlFPTjJIZVh5SlFhX3VDd0xFYWMwV2NFRVhGemZwMG5KcXROS0IwUU5sQWYzRQ?oc=5",
+      "publishedAt": "2026-10-13T23:51:12.000Z"
     },
     {
       "source": "AP News",
@@ -18,59 +67,10 @@
     },
     {
       "source": "Axios",
-      "title": "O problema de Mike Johnson com o eleitorado latino só piora cada vez mais",
-      "titleOriginal": "Mike Johnson's Latino voter problem keeps getting worse",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ucHVIOENCTVlSYlVwZzFGeDNlOVdicVBaRjNfcEVyd3JBdVZjcDBBdWhvU1hJVUk1RndMbEhNV0EtRzNueUxHeFIzXzBHZlFPTjJIZVh5SlFhX3VDd0xFYWMwV2NFRVhGemZwMG5KcXROS0IwUU5sQWYzRQ?oc=5",
-      "publishedAt": "2026-10-13T23:30:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas temem “mais surpresas de outubro” após a “bobagem” de uma operação policial na casa de Ilhan Omar",
-      "titleOriginal": "Democrats fear \"more October surprises\" after \"bullshit\" raid on Ilhan Omar's home",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWFWei1mTzVMZ2JWTklHaWZVQ3Iyb2tnREpvU2pwLU1XVUh4T05QTmV2WHYtNllQUDZyLXZBa2dNUzJrV0xEMjJtVEtvcUx1R3FMUnFzUi0yUlBiZTV1SXhvcTM4YnhPb19QZlpBTFItWFYxaFl2LXlIUE9rckxLNmFPS245Qllm?oc=5",
-      "publishedAt": "2026-10-13T23:27:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump ainda tenta impedir projeto eólico",
-      "titleOriginal": "Trump still seeks to block wind project",
-      "link": "https://thehill.com/newsletters/energy-environment/6146768-trump-still-seeks-to-block-wind-project/",
-      "publishedAt": "2026-10-13T22:24:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Órgãos de segurança pública de todo o mundo e empresas de tecnologia desmantelam rede de golpes na África Ocidental",
-      "titleOriginal": "Global law enforcement agencies, tech firms disrupt West African scam network",
-      "link": "https://thehill.com/policy/technology/6146435-global-agencies-tech-firms-scam-network/",
-      "publishedAt": "2026-10-13T22:04:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O escândalo envolvendo Guilfoyle acaba sendo demais para Trump, com as eleições de meio de mandato se aproximando",
-      "titleOriginal": "Guilfoyle scandal proves too much for Trump with midterms looming",
-      "link": "https://thehill.com/homenews/administration/6146652-donald-trump-kimberly-guilfoyle-resignation-midterm-elections/",
-      "publishedAt": "2026-10-13T22:00:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Hinson e Turek se preparam para a revanche no debate para o Senado de Iowa da Nexstar",
-      "titleOriginal": "Watch live: Hinson, Turek set for rematch in Nexstar's Iowa Senate debate",
-      "link": "https://thehill.com/video-clips/6146008-watch-live-hinson-turek-nexstar-iowa-senate-debate/",
-      "publishedAt": "2026-10-13T22:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Shawn Fain é reeleito presidente do UAW de forma contundente",
-      "titleOriginal": "Shawn Fain reelected as president of UAW in commanding fashion",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWRU9zOTFxQjA2cU9QQk9CXzNVMWNzVFJ5UjVkbk5aMENqdHFVaWgwQTdfU185TFNicEdSb25BZHVXX0puTnZHZ1Q3dzJLRkpRM0xLZTRTWm1XaENPNjlYa1RoTWFoRGs?oc=5",
-      "publishedAt": "2026-10-13T21:53:33.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Começa a seleção do júri no julgamento federal com pena de morte do autor do tiroteio em massa em um supermercado em Buffalo, Nova York",
-      "titleOriginal": "Jury selection begins in federal death penalty trial of Buffalo, NY, supermarket mass shooter",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXRaY3FfZnF1X0E3c0d6MlpFWmtXVDlXS2tYZEZqMlJyNFFtbWdPVTQzZXlyVXBsamttMGRkaUpwNi15ZFlTa29wbTk2XzZjZE9ZMkFESHVxRUVhUmFnYXRTZ1hkUTZKTk1PM0pjRjVSd1dSdlE2dEZQY3dyRi1WdXpnRkpVelhaTnpQT0ZLRDR5SG90UjBWcVZmemdTdVN3bV9UZVVnLXhWN1lB?oc=5",
-      "publishedAt": "2026-10-13T21:43:00.000Z"
+      "title": "Como os eleitores cristãos e não religiosos pretendem votar nas eleições de meio de mandato: pesquisa",
+      "titleOriginal": "How Christian and nonreligious voters plan to vote in the midterms: Poll",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjY3RnNQVTVLbmVMMlYtbk1jWTBVQW1rSmZDa2RreWxneGNOUDdfTnIzREtBRUZfNVVUcGVBbjljeW9lWEhpNVU0VUpNeE1GTGhwRGJYVGJoajFLWl9rRFNTVzNGNmF5N01VU0FmazBUTkJLUzhocUdhektCVFlpeUFCYk56c3c?oc=5",
+      "publishedAt": "2026-10-13T23:36:17.000Z"
     }
   ]
 }
