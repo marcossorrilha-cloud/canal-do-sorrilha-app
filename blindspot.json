@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-13T16:00:11.144Z",
-  "slot": "2026-10-13-PM",
+  "updatedAt": "2026-10-14T06:09:30.574Z",
+  "slot": "2026-10-14-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Agentes federais revistam a residência da deputada Ilhan Omar em Washington, D.C.",
-      "titleOriginal": "Federal agents search Rep. Ilhan Omar’s D.C. home",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXVoelRobFAtVS1iVUtCb204WEstUmI2ZUotaGQ0SjZsUGRfR2tWS2FwVlZvdlM2OXptNTVjMmp2ZVRlMmsxaEVKOV92TXRFOWNJMVV2cFRKOUJRcGtQZDB1eGRTdF96d1NmMHc4SEQ1UGtVaGZrS0tkYm1kaF9veFNyYjd5RWQxQUI1b3lYbXR6OGVJU21WRmlEUQ?oc=5",
+      "title": "Funcionário da OpenAI foi preso pelo FBI após a descoberta de um dispositivo de escuta em seu escritório",
+      "titleOriginal": "OpenAI employee arrested by FBI after listening device found at its office",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
       "source": "Washington Post",
-      "coverage": 4
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Rob Sand busca um modelo de estado republicano para os democratas em Iowa",
-      "titleOriginal": "Rob Sand seeks red-state blueprint for Democrats in Iowa",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWpnV1JNREFlTWVyR1h0S0dZVE9oUFI1cW8yYV91Yi0tclZ5STVIbzNPU1RiQ2dqdFRkZkM1UWhxNVBkT1l5TWF2TjlaWWc5OFlkQ1dOb3g0Q2J1aUE1aG9hMzFlR05xQzdmS1k1MXQ1TWlPRXFjTXQ2RklHT2dqQ21BVTNSLWp6WTdfOUJEek85cUpobmEzVjg3QXdLdE9nQUl4MzFTYWhxWFFy?oc=5",
-      "source": "Washington Examiner",
-      "coverage": 3
+      "title": "Mamdani reutiliza imagens do ex-prefeito para comemorar o Dia dos Povos Indígenas",
+      "titleOriginal": "Mamdani recycles former mayor’s footage to celebrate Indigenous Peoples’ Day",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RpZ3Z6ZEx4MjgxV2hxZ0ZMeEhLZmJUZmlrMVB5WE1VaDdZSzZ4RmhxTnljdHZic3M2M0xfQkp1NEdFYjVBak1fZV9BRXA5d3RSRFhoc0lNTkdWWjVwMFhHSl9nNmh1cUhjMS1YSmdmYk9mNzMzOS1JNGd4dnVDQ3ZhRU5OUzJaUC12YmxDR1pCa0FVanc4LXhPSmNLY1Fyb2ZOLXJSX0lYNmx0OXRTZzJlUQ?oc=5",
+      "source": "New York Post",
+      "coverage": 2
     }
   ]
 }
