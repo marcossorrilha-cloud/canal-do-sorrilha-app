@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-14T11:53:55.071Z",
+  "updatedAt": "2026-10-14T14:02:29.984Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Ken Paxton festejou em Dubai com foragidos antes da acirrada disputa pelo Senado do Texas",
-      "titleOriginal": "Exclusive | Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnp4SzJLZDczcjFGUXVmemxyQS1abFdTbEh1T3NWY3pXVEdHcDdGUG1CRDMyQy1Tcm4xNzNSZTFpaEs4NEhyeUFwc21ubzNiUWdyLVpuUmhWTmFIYWhoLVVuMnM1LXFkamZXMGtXbjRZRW1qSkJ0RTZOTVRBbzdKSlhwcy1JQQ?oc=5",
-      "publishedAt": "2026-10-14T11:31:07.000Z"
+      "source": "New York Times",
+      "title": "5 pontos a serem destacados de um debate acirrado e pessoal pelo Senado do Maine",
+      "titleOriginal": "5 Takeaways From a Heated and Personal Maine Senate Debate",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html",
+      "publishedAt": "2026-10-14T13:51:47.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O jogo do “bate-na-toupeira” das cidades-santuário: a mesma política, um CEP diferente",
-      "titleOriginal": "Sanctuary city whack-a-mole: Same policy, different ZIP code",
-      "link": "https://thehill.com/opinion/immigration/6144269-colorado-ice-detainers-report/",
-      "publishedAt": "2026-10-14T11:30:00.000Z"
+      "title": "A Ucrânia afirma que a SpaceX está limitando as operações do Starlink, o que afeta a defesa aérea",
+      "titleOriginal": "Ukraine says SpaceX limiting Starlink operations, impacting air defense",
+      "link": "https://thehill.com/policy/international/6147587-ukraine-space-x-starlink-limitations-russia-war/",
+      "publishedAt": "2026-10-14T13:51:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Houthis, apoiados pelo Irã, atacaram os escritórios executivos da gigante petrolífera saudita Aramco, segundo autoridades",
+      "titleOriginal": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+      "publishedAt": "2026-10-14T13:47:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump destrói a assistência jurídica às crianças imigrantes",
+      "titleOriginal": "Trump takes a wrecking ball to legal representation for immigrant children",
+      "link": "https://thehill.com/opinion/immigration/6144088-hhs-secretary-rfk-jr-lawyers/",
+      "publishedAt": "2026-10-14T13:30:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "O influente grupo policial de Minnesota ainda não se posicionou na disputa pelo cargo de governador",
-      "titleOriginal": "Minnesota's influential police group isn't yet picking sides in the governor's race",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEszTy1Kb1I5dTVoZXVra3BvSnQ2b2NvdDgyZFFoTk9SWllwbGRHeFNSYjZYUmpRV3NGMC1MQjlpbHhZNHdLbFJnemRmTUhaOXF1MmxtdHJKaTJiQ21IanNXdmxTeWtHX3FoRmhKUi1kVWhoU3gtX2hWQ21nTU1jRmhsaW1sMzA4dDd2M3ZneFZFcGN2dThyVlhQbnVIWk82SUsxTFg2ejQ?oc=5",
-      "publishedAt": "2026-10-14T11:27:41.000Z"
+      "title": "A inflação se intensifica com a alta nos preços da gasolina",
+      "titleOriginal": "Inflation heats up as gas prices surge",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
+      "publishedAt": "2026-10-14T13:04:50.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A inflação se agravou no mês passado, chegando a 3,7%, sinalizando que os preços continuam elevados à medida que se aproximam as eleições de meio de mandato",
+      "titleOriginal": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFWOXRoc2RvT291ZElaYW5MOWYyZ01rX1I3N093NGJ4bGNxRU1JS2tLS2J5TjhHNk9WQWNfY0xyMnZvbkdoa0N1LWs2OWlGQ19tc1pCZkdJUG5qTl9mMnJJOVE4cXM3V3YweDVGRG1RNnFPeDE0U1F4NW43TjVpNzNRMVRGZkxGOXh5a25EUm1QQTdBT0YwYk5INHByWl9ILXNBQU5R?oc=5",
+      "publishedAt": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A investida autoritária de Trump contra Ilhan Omar é um ataque ao Estado de Direito",
+      "titleOriginal": "Trump's authoritarian raid on Ilhan Omar is an attack on the rule of law",
+      "link": "https://thehill.com/opinion/campaign/6146203-trump-raids-ilhan-omar-home/",
+      "publishedAt": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Notícias em tempo real: Inflação sobe em setembro; Trump viaja para o Arizona e Montana",
+      "titleOriginal": "Live updates: Inflation rises in September; Trump jets to Arizona, Montana",
+      "link": "https://thehill.com/homenews/administration/6146945-live-updates-trump-midterm-elections-debates/",
+      "publishedAt": "2026-10-14T12:48:50.000Z"
     },
     {
       "source": "Axios",
-      "title": "Em que pontos Rob Sand e Zach Lahn divergem quanto às prioridades dos eleitores",
-      "titleOriginal": "Where Rob Sand and Zach Lahn differ on voter priorities",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGlUalZJNjFXT0dzR29jbU4zb1phTi0zeW4wWnp3R0FmaWhnTm5meXpSb2tLVWFMbTBXRmotNjNzdFR3R3Q0RHFHeEM4cEtoWlFjTE93c19kWFhvb2p0ZWJaNDZwaml1czVvSExsOXlwcXhZbnZtZkpkWUotNUZQM2daTnJqbmdWRTNEemVYMU4tZ19Cek9sNzg2MEJjSmllTXdFbw?oc=5",
-      "publishedAt": "2026-10-14T11:22:14.000Z"
+      "title": "Em breve, em uma cédula eleitoral perto de você",
+      "titleOriginal": "Coming soon to a ballot near you",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDF5THpKaXNVenFPNy00N2FjM0Q4TXJ1TmRNWU5ZV2ZMNndZYjdOdUI2VjdLV2JLMFJCYVh1ck5FYTZfQmhpZEFSU2U0TEVrSHpPTWFydDlNRDh6ajFEY3d0VGlhU0VNNG5kWXRiMnVja3l4WURrZXYxMmxyY2ttclpITVlTMTlXdFZET0hwMFdWZmJu?oc=5",
+      "publishedAt": "2026-10-14T12:37:07.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Candidatos ao Senado de Iowa se enfrentam em meio a uma enxurrada de debates",
-      "titleOriginal": "Iowa Senate candidates face off amid flurry of debates",
-      "link": "https://thehill.com/newsletters/morning-report/6147294-iowa-senate-debate-trump-russia-guilfoyle-resigns-cornell-rape-case/",
-      "publishedAt": "2026-10-14T11:18:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso pode alcançar avanços reais na prevenção de fraudes durante o período de transição",
-      "titleOriginal": "Congress can make real progress on preventing fraud in the lame duck",
-      "link": "https://thehill.com/opinion/congress-blog/6145905-senate-must-act-deficit/",
-      "publishedAt": "2026-10-14T11:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O problema de Mike Johnson com o eleitorado latino não para de piorar",
-      "titleOriginal": "Mike Johnson's Latino voter problem keeps getting worse",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ucHVIOENCTVlSYlVwZzFGeDNlOVdicVBaRjNfcEVyd3JBdVZjcDBBdWhvU1hJVUk1RndMbEhNV0EtRzNueUxHeFIzXzBHZlFPTjJIZVh5SlFhX3VDd0xFYWMwV2NFRVhGemZwMG5KcXROS0IwUU5sQWYzRQ?oc=5",
-      "publishedAt": "2026-10-14T10:54:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A mudança na classe trabalhadora é um sinal preocupante para os republicanos",
-      "titleOriginal": "The Working-Class Shift Is a Troubling Sign for Republicans",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTJMWWs3MGhmY19LRkgtVUlSYnZQRDBkeFFUU2ZTNGo5clB0X3E3ODJGeENPb0xiNjhCM2M5QlNEaGdBRzFwY1NtZ2ZObHZhUkhKV1Z3UE05aTVQcHZHYjZMRlBMTWN3NVlwNlhvVXY3dUgyR2Zsd3lyOWo3WXFoWF9EdDlScE5BWllxUm0yY1ZhNnNZUFA0akM1X3JUVnpMWGdHbmxMcw?oc=5",
-      "publishedAt": "2026-10-14T10:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Ucrânia afirma que o novo limite de velocidade do Starlink está prejudicando suas operações militares",
-      "titleOriginal": "Ukraine Says New Starlink Speed Limit Is Disrupting Its Military Operations",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXdJcWI1dUVHWEI4NXNFOEJuWkFpSnhmOHd2MXNzSVVJekp4MHRrTnAzSTdqNW9LR1JEZm1UOUEwV0RyUDJCZ3VxSVl2TXo3YTRYNHVXRHhIN0t2STl2aXNESk8zaGh2R2c1WWhmS2g2RDRfSzVRZW9tekVLZ3AtbThBTlZfRGxickdtaUl2YnMxUzIxb3p4Ml94WGFPRE12QlViU0FfTnU?oc=5",
-      "publishedAt": "2026-10-14T10:47:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Processo no Supremo Tribunal Federal opõe lei de aluguel de vídeos da década de 1980 a boletins informativos modernos",
-      "titleOriginal": "Supreme Court case pits 1980s video rental law versus modern newsletters",
-      "link": "https://thehill.com/regulation/court-battles/6146833-supreme-court-video-privacy-paramount-digital-tracking/",
-      "publishedAt": "2026-10-14T10:00:00.000Z"
+      "title": "Ouça ao vivo: Suprema Corte analisa o alcance de uma lei de privacidade em vídeos que já existe há décadas",
+      "titleOriginal": "Listen live: Supreme Court weighs reach of decades-old video privacy law",
+      "link": "https://thehill.com/video-clips/6147356-listen-live-supreme-court-arguments-digital-privacy-case/",
+      "publishedAt": "2026-10-14T12:35:19.000Z"
     }
   ]
 }
