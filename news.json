@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-14T18:53:50.761Z",
+  "updatedAt": "2026-10-14T20:42:26.507Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "7 pontos a serem destacados do segundo debate para o Senado da Geórgia",
-      "titleOriginal": "7 Takeaways From the Second Georgia Senate Debate",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html",
-      "publishedAt": "2026-10-14T18:37:05.000Z"
+      "source": "The Hill",
+      "title": "O Partido Republicano obtém mais uma vitória na Suprema Corte na disputa sobre anúncios políticos na TV",
+      "titleOriginal": "GOP gets another Supreme Court win in TV political ad fight",
+      "link": "https://thehill.com/regulation/court-battles/6148021-supreme-court-republicans-tv-ad-rates/",
+      "publishedAt": "2026-10-14T20:36:52.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O ex-noivo de Nancy Mace e outros dois homens respondem por acusações de crimes sexuais após as denúncias feitas por ela em discurso na Câmara",
-      "titleOriginal": "Nancy Mace's ex-fiance, 2 other men face sex crime charges after her accusations in House speech",
-      "link": "https://thehill.com/homenews/house/6148337-nancy-mace-south-carolina-sled-sex-crime-charges/",
-      "publishedAt": "2026-10-14T18:26:37.000Z"
+      "title": "O FBI refuta a reportagem do MS NOW sobre a presença de Patel na Rússia e publica um vídeo do evento na Virgínia",
+      "titleOriginal": "FBI refutes MS NOW report Patel in Russia, posts video of Virginia event",
+      "link": "https://thehill.com/homenews/media/6149007-fbi-refutes-ms-now-russia-report/",
+      "publishedAt": "2026-10-14T20:25:16.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As restrições impostas pela Ucrânia ao Starlink levantam suspeitas de retaliação por parte de Musk e Trump",
+      "titleOriginal": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHdxWXlmN2ZYWklDT2FlREFOVjhVN3VqWTNJX084YW0tVktrMVY4UTUxa3hMa2Y5M1BvZkRHdUhmSjE5LUNsbTJUSGQxZDJEdF9kaVB2T0l3T0RUSFZhTW9iODktOVZpMmpTMFN3ZXVRV2dfWXY5Vy1iM2FxSm0ySXN3?oc=5",
+      "publishedAt": "2026-10-14T20:20:46.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Zelensky afirma que “pessoas vão morrer” por causa da decisão sobre o Starlink",
-      "titleOriginal": "Zelensky says 'people will die' because of Starlink decision",
-      "link": "https://thehill.com/policy/international/6148494-zelensky-trump-musk-starlink-limitations/",
-      "publishedAt": "2026-10-14T18:26:01.000Z"
+      "title": "Em meio à polêmica sobre a Ucrânia, Musk afirma que as decisões sobre restrições ao Starshield cabem ao presidente",
+      "titleOriginal": "Amid Ukraine uproar, Musk says decisions to restrict Starshield up to president",
+      "link": "https://thehill.com/policy/technology/6148910-musk-clarifies-starshield-restrictions/",
+      "publishedAt": "2026-10-14T20:19:33.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado republicano alerta que a agenda de Trump está “morta”, a menos que ele mude de rumo em relação à Ucrânia",
+      "titleOriginal": "GOP rep warns that Trump’s agenda is 'dead' unless he reverses course on Ukraine",
+      "link": "https://thehill.com/homenews/administration/6148954-gop-rep-warns-that-trumps-agenda-is-dead-unless-he-reverses-course-on-ukraine/",
+      "publishedAt": "2026-10-14T20:17:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Karen Bass pede desculpas pelo incêndio em Palisades durante o debate para a prefeitura de Los Angeles",
+      "titleOriginal": "Karen Bass apologizes for Palisades Fire during LA mayor debate",
+      "link": "https://thehill.com/homenews/campaign/6148804-bass-apologizes-california-wildfires-la-mayor/",
+      "publishedAt": "2026-10-14T20:17:26.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Ucrânia afirma que as novas restrições impostas ao Starlink estão prejudicando suas operações militares",
+      "titleOriginal": "Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXdJcWI1dUVHWEI4NXNFOEJuWkFpSnhmOHd2MXNzSVVJekp4MHRrTnAzSTdqNW9LR1JEZm1UOUEwV0RyUDJCZ3VxSVl2TXo3YTRYNHVXRHhIN0t2STl2aXNESk8zaGh2R2c1WWhmS2g2RDRfSzVRZW9tekVLZ3AtbThBTlZfRGxickdtaUl2YnMxUzIxb3p4Ml94WGFPRE12QlViU0FfTnU?oc=5",
+      "publishedAt": "2026-10-14T20:15:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Por que é improvável que a flexibilização das sanções sobre o diesel russo reduza os custos do combustível",
-      "titleOriginal": "Why Easing Sanctions on Russian Diesel Is Unlikely to Lower Fuel Costs",
+      "title": "Por que é improvável que o acordo de Trump com a Rússia sobre o diesel reduza os custos do combustível",
+      "titleOriginal": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
       "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-      "publishedAt": "2026-10-14T18:23:25.000Z"
+      "publishedAt": "2026-10-14T20:06:21.000Z"
     },
     {
-      "source": "Politico",
-      "title": "“Acho que o Alasca está virando azul”: republicanos se preocupam com o caminho de Sullivan rumo à reeleição",
-      "titleOriginal": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
-      "link": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
-      "publishedAt": "2026-10-14T18:18:37.000Z"
+      "source": "New York Times",
+      "title": "Verificação dos fatos nos debates do Senado na Geórgia, no Maine e em Michigan",
+      "titleOriginal": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
+      "link": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
+      "publishedAt": "2026-10-14T20:06:04.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Tribunal de apelação decide que a Califórnia não pode exigir que o ICE apresente identificação visível",
-      "titleOriginal": "Appeals court rules California can't require ICE to show visible ID",
-      "link": "https://thehill.com/regulation/court-battles/6148426-california-immigration-enforcement-id-law-appeals-court-ruling/",
-      "publishedAt": "2026-10-14T18:08:29.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Promotor do Texas afirma que um agente do ICE parece ter atropelado intencionalmente um homem com um veículo em Houston",
-      "titleOriginal": "Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGZ0elkwbTRKYmowMFNBcnJOUk5VX19GZVp2QmdVOTh2RG9HbXJZODRmcU5JckxpaUwwUFBSSGZpN1BXLTNWX2lWcFhOREJfT3R1N2dWWmFxd2draFgxcS1OaGlaMUVVU0pDX0duTDIwN3hBOEMwUDRTX0dudjFITTZJLVI5ZHRtY1liM0tXanJBV28?oc=5",
-      "publishedAt": "2026-10-14T18:03:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assessor de Trump vê “muitas boas notícias” no relatório sobre a inflação",
-      "titleOriginal": "Trump adviser sees 'a whole bunch of good news' in inflation report",
-      "link": "https://thehill.com/homenews/administration/6148546-hassett-september-cpi-energy-prices/",
-      "publishedAt": "2026-10-14T17:54:11.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O ICE se opõe ao uso automático de câmeras corporais",
-      "titleOriginal": "ICE says no to automatic body-cams",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rR1NDV1NOdlIxaG02V01lWFhMT3JEV1doUDVsdERWUUlFZkI3N1BheU94U25lQW51WXRZQjlLY2RFTUlLNEw1eVJTTjFMNlBUTG1lSE9pVjNDU1RzSXBJR0xHbk5KX21jS2dWTW9iQnBhTmNt?oc=5",
-      "publishedAt": "2026-10-14T17:50:40.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "“Rixa sangrenta do MAGA”: Casa Branca investiga alegações sobre dinheiro desaparecido do Kennedy Center",
-      "titleOriginal": "\"MAGA blood feud\": White House probes claims of missing Kennedy Center money",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DekdBM2g5a2s3QTJiZUl0NEFkNF9IZVdzMHo2RW9GYU1vaXRmNFdUb3VmMGNoTy1OSE5FejhFZ1FNcVJnOS1NbThIQ3IyTmRwRlFqd1FOMDl1M2VYMDBvbDNUd2xZazJVSDNCSkU2R2hvWUJsXzNiRnNNR3M?oc=5",
-      "publishedAt": "2026-10-14T17:49:14.000Z"
+      "source": "New York Times",
+      "title": "Tribunal de Apelações questiona o envio da Guarda Nacional por Trump para Washington, D.C.",
+      "titleOriginal": "Appeals Court Questions Trump’s National Guard Deployment in D.C.",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/appeals-court-national-guard-washington.html",
+      "publishedAt": "2026-10-14T19:27:15.000Z"
     }
   ]
 }
