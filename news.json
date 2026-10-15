@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-15T22:19:44.425Z",
+  "updatedAt": "2026-10-15T23:18:13.823Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump cancela a transmissão ao vivo prevista da execução de Nidal Hasan, autor do tiroteio em Fort Hood",
+      "titleOriginal": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
+      "publishedAt": "2026-10-15T22:56:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Surgem questionamentos sobre o papel dos EUA no desligamento do Starlink na Ucrânia: o que é preciso saber",
+      "titleOriginal": "Questions flare over US role in Ukraine's Starlink shut-off: What to know",
+      "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/",
+      "publishedAt": "2026-10-15T22:43:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Quatro senadores do Partido Republicano assinam carta exigindo que o Inspetor-Geral do Pentágono investigue a interrupção do serviço Starlink na Ucrânia",
+      "titleOriginal": "4 GOP senators join letter demanding Pentagon IG investigation of Ukraine’s Starlink outage",
+      "link": "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/",
+      "publishedAt": "2026-10-15T22:38:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como o apoio dos EUA à Ucrânia evoluiu durante o governo Trump",
+      "titleOriginal": "How U.S. Support to Ukraine Has Evolved Under Trump",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
+      "publishedAt": "2026-10-15T22:37:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Musk financia um comitê de ação política (PAC) que está investindo pesadamente na campanha de Paxton no Texas",
+      "titleOriginal": "Musk bankrolls PAC spending big on Paxton in Texas",
+      "link": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/",
+      "publishedAt": "2026-10-15T22:34:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Um juiz irritado e um suposto advogado na sala de coletivas",
+      "titleOriginal": "An Angry Judge and a Maybe-Lawyer in the Briefing Room",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/the-docket-legal-news-roundup.html",
+      "publishedAt": "2026-10-15T22:24:59.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Três homens acusados por Nancy Mace em discurso na Câmara dos Deputados são indiciados por crimes sexuais",
@@ -17,60 +59,18 @@
       "publishedAt": "2026-10-15T22:14:42.000Z"
     },
     {
+      "source": "The Hill",
+      "title": "Trump vetou plano do Pentágono para execução pública: 5 pontos a serem destacados",
+      "titleOriginal": "Trump shuts down Pentagon plan for public execution: 5 takeaways",
+      "link": "https://thehill.com/homenews/administration/6152572-execution-livestream-donald-trump-pete-hegseth-takeaways/",
+      "publishedAt": "2026-10-15T22:10:28.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Um guia sobre as eleições para as legislaturas estaduais e onde o controle partidário está em jogo",
       "titleOriginal": "A Guide to State Legislature Elections and Where Partisan Control Is at Stake",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/state-local-elections-midterms.html",
       "publishedAt": "2026-10-15T22:06:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Departamento de Justiça ameaça investigar a Ordem dos Advogados dos Estados Unidos sobre regras para faculdades de Direito",
-      "titleOriginal": "Exclusive | Justice Department Threatens Probe of American Bar Association on Law School Rules",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNSNF94YXdqeWN2Qk1ESGFpa0EtZjY4TWl6RnRfVFJxUkZVUUFqQmdUTEJvakpROWJWdVAzN0JRV09VNDNGNWh4azZvU1ZKWENOLWx0MzRYY2dScTEwVmR6SHFWZVNyX2prNmFZMkxheVI1S3ZtUUh1UDk4X0lrUVpPOTZuLUJPeFJ0NEFwelQzXzlTdlNfdDhiZFI4UEdNU0RMaFFCNHQydzFhckdNMUU3RExpZ3k4eUJ6NnhqdEhjYlBhUElwSg?oc=5",
-      "publishedAt": "2026-10-15T21:48:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Analista jurídico da CNN: a investigação sobre Omar na era Biden prejudica o caso dela contra Trump",
-      "titleOriginal": "CNN legal analyst: Biden-era inquiry into Omar hurts her case against Trump",
-      "link": "https://thehill.com/homenews/media/6152534-omar-immigration-fraud-investigation/",
-      "publishedAt": "2026-10-15T21:46:22.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Geração Z e a geração Y estão concorrendo ao Congresso em números recordes, mas poucos chegam a novembro",
-      "titleOriginal": "Gen Z and millennials are running for Congress in record numbers, but few reach November",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTRrYVBMVk9mLVEzb1AxZjhITDZ5QzdsQ1p1NDZJdGRBLWxuUWUzNThnQTAzSDktM01ua2FDa3hXUzJBei1tb3IxSjVYeWthQVFFUHM3S1Jna3hlR2tTNjhlMVpYNnN4a0daRHhhTDlkdnBqWXlsWEppdzlibDlPb1lVRDM?oc=5",
-      "publishedAt": "2026-10-15T21:38:04.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os ataques de Trump ao processo eleitoral aumentam o temor de que ele tente contestar os resultados das eleições de meio de mandato",
-      "titleOriginal": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-      "publishedAt": "2026-10-15T21:37:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia afirma que pelo menos duas pessoas foram hospitalizadas após um tiroteio em uma escola de ensino fundamental, e que o atirador está morto",
-      "titleOriginal": "Police say at least 2 were hospitalized after shooting at elementary school, and the shooter is dead",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
-      "publishedAt": "2026-10-15T21:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O que o acordo de Trump com a Rússia realmente significa?",
-      "titleOriginal": "What does Trump's Russia deal actually mean?",
-      "link": "https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean/",
-      "publishedAt": "2026-10-15T21:29:54.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Senadores exigem investigação sobre a interferência no sinal de satélite da Ucrânia",
-      "titleOriginal": "Senators Demand Investigation Into Ukraine Satellite Disruption",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
-      "publishedAt": "2026-10-15T21:13:44.000Z"
     }
   ]
 }
