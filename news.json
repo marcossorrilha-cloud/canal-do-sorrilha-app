@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-14T23:55:10.169Z",
+  "updatedAt": "2026-10-15T00:52:21.594Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Katie Zacharia é a nova secretária de imprensa de Trump. Mas será que ela é advogada?",
+      "titleOriginal": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
+      "publishedAt": "2026-10-15T00:45:41.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A receita trimestral da Anthropic cresceu 45%, chegando a quase US$ 17 bilhões",
+      "titleOriginal": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2M4WXNsVVl6WXU3NlpOdDVOSGdxTW9rT2RGWnRSRTNpMmM2WXlRMEIzLXlFbzNIdk1jOFBOWUJ0UXhraF9rMWRmZ3p5MTVyYVZhdlNTdjRETXdKR3NxZ1hENlE5WlJRNU1yYmxuR3k3bm90OEh1M2JQSnFUenFtdE5vdVZWb1B2R2xqbkJnTjBfVFRmNWFPZlFlVEo?oc=5",
+      "publishedAt": "2026-10-15T00:17:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Trump anuncia os planos de Taiwan de comprar gás dos EUA",
@@ -14,7 +28,7 @@
       "title": "Republicanos se preparam para uma disputa tripartidária pela liderança caso venham a perder",
       "titleOriginal": "Republicans brace for three-way leader fight if they lose",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGZTa2lrVENpTDRvYVNwRXloMUZvcUhibjllRmtCSC1wUEE3WXFxWGxvV0xVZTZxejRLU1BaR1JvSEZTZnVtNEhqMEMwR19MdGRZOXRtS0QwU3puWjBsUWZEQlJCbW4yUGpoQ18zbVBnVEoyVkJhdTBwa1dEYU5YSGRPdw?oc=5",
-      "publishedAt": "2026-10-14T23:37:30.000Z"
+      "publishedAt": "2026-10-14T23:33:01.000Z"
     },
     {
       "source": "New York Times",
@@ -25,7 +39,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Os advogados de Lisa Cook consideram a comissão de investigação de Trump “manifestamente tendenciosa”",
+      "title": "Os advogados de Lisa Cook consideram a comissão de investigação de Trump “comprovadamente tendenciosa”",
       "titleOriginal": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
       "link": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
       "publishedAt": "2026-10-14T23:16:51.000Z"
@@ -39,24 +53,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Doador democrata surpresa lança campanha publicitária massiva nas disputas pelo Senado em estados de tendência republicana",
+      "title": "Doador democrata surpresa lança campanha publicitária massiva nas disputas pelo Senado em estados com tendência republicana",
       "titleOriginal": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
       "publishedAt": "2026-10-14T22:56:22.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O problema de Mike Johnson com o eleitorado latino só piora cada vez mais",
-      "titleOriginal": "Mike Johnson's Latino voter problem keeps getting worse",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ucHVIOENCTVlSYlVwZzFGeDNlOVdicVBaRjNfcEVyd3JBdVZjcDBBdWhvU1hJVUk1RndMbEhNV0EtRzNueUxHeFIzXzBHZlFPTjJIZVh5SlFhX3VDd0xFYWMwV2NFRVhGemZwMG5KcXROS0IwUU5sQWYzRQ?oc=5",
-      "publishedAt": "2026-10-14T22:54:13.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas temem “mais surpresas de outubro” após a “bobagem” de uma operação policial na casa de Ilhan Omar",
-      "titleOriginal": "Democrats fear \"more October surprises\" after \"bullshit\" raid on Ilhan Omar's home",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWFWei1mTzVMZ2JWTklHaWZVQ3Iyb2tnREpvU2pwLU1XVUh4T05QTmV2WHYtNllQUDZyLXZBa2dNUzJrV0xEMjJtVEtvcUx1R3FMUnFzUi0yUlBiZTV1SXhvcTM4YnhPb19QZlpBTFItWFYxaFl2LXlIUE9rckxLNmFPS245Qllm?oc=5",
-      "publishedAt": "2026-10-14T22:52:55.000Z"
     },
     {
       "source": "The Hill",
@@ -67,7 +67,7 @@
     },
     {
       "source": "The Hill",
-      "title": "A análise da pílula abortiva pela FDA irrita legisladores republicanos",
+      "title": "Avaliação da FDA sobre a pílula abortiva irrita legisladores republicanos",
       "titleOriginal": "FDA abortion pill review angers GOP lawmakers",
       "link": "https://thehill.com/newsletters/healthcare/6149557-fda-abortion-pill-review-angers-gop-lawmakers/",
       "publishedAt": "2026-10-14T22:44:26.000Z"
