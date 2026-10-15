@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-15T06:26:59.063Z",
+  "updatedAt": "2026-10-15T09:55:52.197Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Preços do cobre caem em meio à valorização do dólar",
-      "titleOriginal": "Copper Prices Fall Amid Stronger Dollar",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjlBVXEzZUh4cUI1WTktUW03SFRJM2ZRcG9iSTJZWDJyYjhlUTJWb29sUFh5SWdrUVh5a1BrSC1sTHpsTWpKNXdZZUNLRU9KUWo4eTFLdXJCYmtQYkI5SlN0RGF3SWpTVmY2cUhFLTZJQVRQZzBVYjNvR1pNOWx3Z1pXMmx6dlU?oc=5",
-      "publishedAt": "2026-10-15T05:57:00.000Z"
+      "title": "Exclusivo | Departamento de Justiça ameaça investigar a Ordem dos Advogados dos Estados Unidos sobre regras para faculdades de Direito",
+      "titleOriginal": "Exclusive | Justice Department Threatens Probe of American Bar Association on Law School Rules",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNSNF94YXdqeWN2Qk1ESGFpa0EtZjY4TWl6RnRfVFJxUkZVUUFqQmdUTEJvakpROWJWdVAzN0JRV09VNDNGNWh4azZvU1ZKWENOLWx0MzRYY2dScTEwVmR6SHFWZVNyX2prNmFZMkxheVI1S3ZtUUh1UDk4X0lrUVpPOTZuLUJPeFJ0NEFwelQzXzlTdlNfdDhiZFI4UEdNU0RMaFFCNHQydzFhckdNMUU3RExpZ3k4eUJ6NnhqdEhjYlBhUElwSg?oc=5",
+      "publishedAt": "2026-10-15T09:29:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A TSMC avalia expansão no Texas e mantém negociações sobre o Terafab de Musk",
+      "titleOriginal": "TSMC Weighs Texas Expansion, Holds Talks on Musk’s Terafab",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEdMeDJhNG03UExRNVQ2MEJQWndsZDFteUhQSC1WekZrdnFWVHdBb2s0V2I4SVJCakw5Z0d0dVpkRUdVSXlSQUxJaFMxdERQX010a1ZVeHZYV3AtWVh2YVVkN1pDcU4xLUNQUHpRWVRLY2ZRc0poWU9leUt6LU5BOEZtOFctbjA?oc=5",
+      "publishedAt": "2026-10-15T09:18:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Falha atrasa 600 mil registros eleitorais no Texas, com a votação antecipada se aproximando",
+      "titleOriginal": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html",
+      "publishedAt": "2026-10-15T09:05:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Em Portland, Oregon, uma cidade dividida, publicações contra a polícia alimentam uma disputa sobre o futuro",
+      "titleOriginal": "In Divided Portland, Ore., Anti-Police Posts Fuel a Fight Over the Future",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/portland-oregon-dsa-socialism-police.html",
+      "publishedAt": "2026-10-15T09:03:29.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Por dentro da gigantesca missão de resgate de Elon Musk no Texas",
+      "titleOriginal": "Scoop: Inside Elon Musk's massive Texas rescue mission",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VmFrcGYzcy1GWGtjRUtPejJKcWNtY1B2ZWpaUm81N3U2UXZReml2Q1FRTkZla1BCLWVkZGoyT2swVEhiZHRiS2hpY0RVWGtfR0N2V2tKRjVVQ2dUWVZGRklGZlNtd05odzRmQ2cyc0s?oc=5",
+      "publishedAt": "2026-10-15T09:01:20.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Disputas inesperadas pela Câmara dos Deputados surgem no coração do reduto de Trump",
+      "titleOriginal": "Unexpected House battles pop up deep in Trump country",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV01TREhMWk8tWU9tc2NwSTZycDZoc19xU3FFU2o0clFMQXRDcEdwQ0xqeDNNM2ZkRS01MnpnaVM5SUtWelV5U0hYYjhiNTBDWjhDLWxfRTNWRjc0NW9OUkhGeWp5S0RrZEdhbURYLXdoRFJOSHdHSEw1WkNFdVc1UA?oc=5",
+      "publishedAt": "2026-10-15T08:29:59.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Republicanos se preparam para uma disputa tripartidária pela liderança caso venham a perder",
+      "titleOriginal": "Republicans brace for three-way leader fight if they lose",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGZTa2lrVENpTDRvYVNwRXloMUZvcUhibjllRmtCSC1wUEE3WXFxWGxvV0xVZTZxejRLU1BaR1JvSEZTZnVtNEhqMEMwR19MdGRZOXRtS0QwU3puWjBsUWZEQlJCbW4yUGpoQ18zbVBnVEoyVkJhdTBwa1dEYU5YSGRPdw?oc=5",
+      "publishedAt": "2026-10-15T08:29:59.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo caem enquanto os operadores avaliam a recuperação da oferta no Golfo e os ataques no Estreito de Ormuz",
+      "titleOriginal": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW1MMHhCS1RGcmU1N242QUVfclBfWW56RTVPeWhhUFowX2owYlRJWlBFa1BEMFZaM2daaFVtbG1aVlBBOFJhbnVhR19jMEhmZ0FpYXFZcTllS25ETExYdUtWRTVIVkI3MVdGMDBDOTZDOVhJQm9CUkVDaDNvcWFQeFQxZ1NmdkpHZGZTdmFEUWNJS2R6QVNyZXNrWTNOazZOTUlvVWNwaVV5NENQbTNkTEJ2MVFyYmR6?oc=5",
+      "publishedAt": "2026-10-15T08:21:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Katie Zacharia é a nova secretária de imprensa de Trump. Mas será que ela é advogada?",
       "titleOriginal": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-      "publishedAt": "2026-10-15T05:12:49.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Talarico se apresenta aos eleitores, mas não a Paxton, no debate aberto da CNN",
-      "titleOriginal": "Talarico faces voters, but not Paxton, in CNN town hall",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVFPRU5qaUgxREg1bmJhc1p6VHAwTzVjd090bkhiSGtOQzFSRHlnVGJyWUZwRFp2Wkl6bVdtc1VZbXpBTWlqVkVMeWxZdFY0RVl2R2hORUlIaE40bHZBRW9TZXNLWFBRRVhMeGVTVlZDVUUtcTFZRUJIbktMZG9tWlF5ZWo5bk5NOFBRVXQtZ3g5T1Y5MWJQVnVlbER4YXhnTFN0WHRhZEdLcFU?oc=5",
-      "publishedAt": "2026-10-15T03:50:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre as negociações com o Irã: “Não faço a menor ideia com quem diabos estamos negociando”",
-      "titleOriginal": "Trump on Iran talks: ‘I don’t know who the hell we’re negotiating with’",
-      "link": "https://thehill.com/homenews/administration/6149753-trump-montana-rally-iran-war/",
-      "publishedAt": "2026-10-15T03:19:33.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Índice de aprovação de Trump atinge nível recorde de baixa em pesquisa da Fox News",
-      "titleOriginal": "Trump’s approval rating hits record low in Fox News poll",
-      "link": "https://thehill.com/homenews/administration/6149735-trumps-approval-rating-hits-record-low-in-fox-news-poll/",
-      "publishedAt": "2026-10-15T03:01:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Houthis, apoiados pelo Irã, atacam a sede da empresa petrolífera saudita Aramco, segundo autoridades",
-      "titleOriginal": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-      "publishedAt": "2026-10-15T02:59:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cait Conley pede ao deputado Mike Lawler que não faça “mansplaining” sobre violência doméstica",
-      "titleOriginal": "Cait Conley tells Rep. Mike Lawler not to ‘mansplain’ about domestic abuse",
-      "link": "https://thehill.com/homenews/campaign/6149718-conley-lawler-debate-clash/",
-      "publishedAt": "2026-10-15T02:35:12.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "As restrições impostas pela Ucrânia ao Starlink levantam suspeitas de retaliação por parte de Musk e Trump",
-      "titleOriginal": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHdxWXlmN2ZYWklDT2FlREFOVjhVN3VqWTNJX084YW0tVktrMVY4UTUxa3hMa2Y5M1BvZkRHdUhmSjE5LUNsbTJUSGQxZDJEdF9kaVB2T0l3T0RUSFZhTW9iODktOVZpMmpTMFN3ZXVRV2dfWXY5Vy1iM2FxSm0ySXN3?oc=5",
-      "publishedAt": "2026-10-15T02:23:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os ataques de Vance a Talarico revelam sua tendência a fazer críticas pessoais",
-      "titleOriginal": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
-      "publishedAt": "2026-10-15T02:08:59.000Z"
+      "publishedAt": "2026-10-15T08:00:08.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Jio, de Ambani, busca avaliação de US$ 108 bilhões em oferta pública inicial histórica na Índia",
-      "titleOriginal": "Ambani’s Jio Seeks $108 Billion Valuation in Landmark India IPO",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXBZTmhSdEMzc3Z2RGFvdTRQRmZlNDNYUFh5ZVl1TXdRSFpMVk15eEV5X1dLMk4wYnBRQWtSWGFCamJleDNHNHNvWk9ZQXdFOXlHUjMyVFhBU3Zta2NNR3FwQndDMGNZOHZ4SEZGN1NWek80a21SVUhPNTcyZTVMU1NkUEFOUUQ5Uk5ERXF5S0dxQzZtbDlnaDFEcWw5VGlpMGR5elBsMTZ2aHc?oc=5",
-      "publishedAt": "2026-10-15T02:00:00.000Z"
+      "title": "Preços do ouro se recuperam após queda na quarta-feira",
+      "titleOriginal": "Gold Prices Rebound After Wednesday’s Slide",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjlBVXEzZUh4cUI1WTktUW03SFRJM2ZRcG9iSTJZWDJyYjhlUTJWb29sUFh5SWdrUVh5a1BrSC1sTHpsTWpKNXdZZUNLRU9KUWo4eTFLdXJCYmtQYkI5SlN0RGF3SWpTVmY2cUhFLTZJQVRQZzBVYjNvR1pNOWx3Z1pXMmx6dlU?oc=5",
+      "publishedAt": "2026-10-15T07:39:00.000Z"
     }
   ]
 }
