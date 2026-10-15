@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-14T17:11:35.256Z",
-  "slot": "2026-10-14-PM",
+  "updatedAt": "2026-10-15T04:40:54.764Z",
+  "slot": "2026-10-15-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Funcionário da OpenAI foi preso pelo FBI após a descoberta de um dispositivo de escuta em seu escritório",
-      "titleOriginal": "OpenAI employee arrested by FBI after listening device found at its office",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
-      "source": "Washington Post",
-      "coverage": 4
+      "title": "A OpenAI acusa um ex-funcionário de vazar informações sobre um dispositivo de IA para a Apple",
+      "titleOriginal": "OpenAI accuses former employee of leaking intel on AI device to Apple",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnB5TXNvLU5qT2pwUnVzWVNxVzN2RnRNenpoRUQ2dktjeUhNYzJHa1JSWUlxNzlnNUlEQmJHa2tZOVhXUjA3ckVCN2s5U3pIQk1PZ2E2VnRqeXFfaFhKQU41ZUN4aFYwNjRrRmpORUY0LU1xU2p4RTROTmwxaDc4WUhWZ1ViTEU1aGlKQ0FsSm9jSWNhNGRDS0M1cWhsUE1saVhEM0dXUnc?oc=5",
+      "source": "CNN",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Alguém quer vencer essa disputa? Talarico e Paxton chegam com dificuldades à linha de chegada na disputa pelo Senado do Texas",
-      "titleOriginal": "Does anyone want to win this race? Talarico and Paxton stumble to finish line in Texas Senate contest",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzlZN08xakZ1Wjg3aWtpMGhXUk0xTzJaamk1bzNGVmM2NVZQMHUzdUxQN3RpbFFOTklxakFXZGZiQlBGSHZpTnlfSUpLelRyQmtSdDJ5NzJmc1l4NWYtdWFLNWRuTlNjbVd2SVNqV3RWMjNIVlZfUGg3Tl9ZYmM0VENtVlZWcUExWDRFZVZDaUxzNFlGcWZIUlozbG9zanpMUmtvVFJvMFo5UFhjZ0d2VjBYN1VRY0NhQ19sczlB?oc=5",
-      "source": "Washington Examiner",
+      "title": "Nove grandes bancos “recusaram, encerraram contas e discriminaram” conservadores, apura investigação do governo Trump",
+      "titleOriginal": "Nine Major Banks ‘Denied, Debanked, and Discriminated Against’ Conservatives, Trump Admin Probe Finds",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEZmYWU5c1BOdDItaHpvRHphY3l5QVhxZ0cxdEdqZ0l1dS1IRldrNy1kWWtPYnV5V0JTRjRCZFUtcnQ4QzhpUVJ3TVFrc2UwTjZrdnFSZnRzODQ0bEJ4TFJQdm9sbkdZUnVNejhjZXRUbEs3QXNVbnM0VmtZOGNpZGQ0b1hsNmZPRnhkdzh4T1VsMG9mbHhyb2FlSEhNNXZCcjNmX0NKYy1vZ2JKZkFRRmE5alg4Q0poWllHc3lkbGlNeG9fWldHc056U1JQQdIB0wFBVV95cUxQRzkyeVAyZjl2REdJVTJGSVd4YkdtWUdmVGg4QUJ1VUhMQktQMEstRWxqUEkxcWd6dVBJNkRWdzFhUVR2N3FERF9DTTAyNnpDSWtBSHdiNDN3Si1kTWZoWHFDZmV5eENLdlpWTmFqakNNMnNMY2VMTEtBYXB4UGljVDhuTmV1bm1rWEJ1VlJsWm5vdDF3M3A2cnlLQWozcFpOb2tySnZ3LUNaVHdIYTJmWktrRTNUY2JVZ0lDdGtocWRacUNYU3NjdnRnWTN0N2NPNmRB?oc=5",
+      "source": "National Review",
       "coverage": 3
     }
   ]
