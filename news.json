@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-15T20:32:25.336Z",
+  "updatedAt": "2026-10-15T22:19:44.425Z",
   "count": 10,
   "items": [
-    {
-      "source": "New York Times",
-      "title": "Governo de Trump entra com ação contra a Califórnia por causa das listas eleitorais",
-      "titleOriginal": "Trump Administration Sues California Over Voter Rolls",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
-      "publishedAt": "2026-10-15T20:24:32.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Mitch Daniels critica JD Vance por causa de sua recusa ao livre mercado",
-      "titleOriginal": "Mitch Daniels rebukes JD Vance over free-market retreat",
-      "link": "https://www.politico.com/news/2026/10/15/mitch-daniels-jd-vance-free-market-01120839",
-      "publishedAt": "2026-10-15T20:20:08.000Z"
-    },
     {
       "source": "New York Times",
       "title": "Três homens acusados por Nancy Mace em discurso na Câmara dos Deputados são indiciados por crimes sexuais",
       "titleOriginal": "3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html",
-      "publishedAt": "2026-10-15T19:54:57.000Z"
+      "publishedAt": "2026-10-15T22:15:35.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Trump critica duramente os republicanos enquanto Ken Paxton enfrenta dificuldades no Texas",
+      "titleOriginal": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+      "link": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+      "publishedAt": "2026-10-15T22:14:42.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Um guia sobre as eleições para as legislaturas estaduais e onde o controle partidário está em jogo",
+      "titleOriginal": "A Guide to State Legislature Elections and Where Partisan Control Is at Stake",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/state-local-elections-midterms.html",
+      "publishedAt": "2026-10-15T22:06:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Departamento de Justiça ameaça investigar a Ordem dos Advogados dos Estados Unidos sobre regras para faculdades de Direito",
+      "titleOriginal": "Exclusive | Justice Department Threatens Probe of American Bar Association on Law School Rules",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNSNF94YXdqeWN2Qk1ESGFpa0EtZjY4TWl6RnRfVFJxUkZVUUFqQmdUTEJvakpROWJWdVAzN0JRV09VNDNGNWh4azZvU1ZKWENOLWx0MzRYY2dScTEwVmR6SHFWZVNyX2prNmFZMkxheVI1S3ZtUUh1UDk4X0lrUVpPOTZuLUJPeFJ0NEFwelQzXzlTdlNfdDhiZFI4UEdNU0RMaFFCNHQydzFhckdNMUU3RExpZ3k4eUJ6NnhqdEhjYlBhUElwSg?oc=5",
+      "publishedAt": "2026-10-15T21:48:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Analista jurídico da CNN: a investigação sobre Omar na era Biden prejudica o caso dela contra Trump",
+      "titleOriginal": "CNN legal analyst: Biden-era inquiry into Omar hurts her case against Trump",
+      "link": "https://thehill.com/homenews/media/6152534-omar-immigration-fraud-investigation/",
+      "publishedAt": "2026-10-15T21:46:22.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A Geração Z e a geração Y estão concorrendo ao Congresso em números recordes, mas poucos chegam a novembro",
+      "titleOriginal": "Gen Z and millennials are running for Congress in record numbers, but few reach November",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTRrYVBMVk9mLVEzb1AxZjhITDZ5QzdsQ1p1NDZJdGRBLWxuUWUzNThnQTAzSDktM01ua2FDa3hXUzJBei1tb3IxSjVYeWthQVFFUHM3S1Jna3hlR2tTNjhlMVpYNnN4a0daRHhhTDlkdnBqWXlsWEppdzlibDlPb1lVRDM?oc=5",
+      "publishedAt": "2026-10-15T21:38:04.000Z"
     },
     {
       "source": "New York Times",
       "title": "Os ataques de Trump ao processo eleitoral aumentam o temor de que ele tente contestar os resultados das eleições de meio de mandato",
       "titleOriginal": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-      "publishedAt": "2026-10-15T19:53:48.000Z"
+      "publishedAt": "2026-10-15T21:37:34.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia afirma que pelo menos duas pessoas foram hospitalizadas após um tiroteio em uma escola de ensino fundamental, e que o atirador está morto",
+      "titleOriginal": "Police say at least 2 were hospitalized after shooting at elementary school, and the shooter is dead",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
+      "publishedAt": "2026-10-15T21:35:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que o acordo de Trump com a Rússia realmente significa?",
+      "titleOriginal": "What does Trump's Russia deal actually mean?",
+      "link": "https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean/",
+      "publishedAt": "2026-10-15T21:29:54.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Democratas se preocupam com disputas acirradas nas eleições de meio de mandato no Maine, em Michigan e em Minnesota",
-      "titleOriginal": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
-      "publishedAt": "2026-10-15T19:45:18.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo encerram o dia com resultados mistos, enquanto os operadores avaliam as perspectivas de demanda e os riscos à navegação no Estreito de Ormuz",
-      "titleOriginal": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW1MMHhCS1RGcmU1N242QUVfclBfWW56RTVPeWhhUFowX2owYlRJWlBFa1BEMFZaM2daaFVtbG1aVlBBOFJhbnVhR19jMEhmZ0FpYXFZcTllS25ETExYdUtWRTVIVkI3MVdGMDBDOTZDOVhJQm9CUkVDaDNvcWFQeFQxZ1NmdkpHZGZTdmFEUWNJS2R6QVNyZXNrWTNOazZOTUlvVWNwaVV5NENQbTNkTEJ2MVFyYmR6?oc=5",
-      "publishedAt": "2026-10-15T19:37:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hinojosa coloca púlpito vazio na mansão do governador do Texas em meio à indiferença de Abbott no debate",
-      "titleOriginal": "Hinojosa stages empty lectern at Texas governor's mansion amid Abbott debate snub",
-      "link": "https://thehill.com/homenews/campaign/6152001-hinojosa-abbott-texas-governor/",
-      "publishedAt": "2026-10-15T19:34:06.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Duas mulheres acusam Matt Gaetz de tráfico sexual em nova ação judicial",
-      "titleOriginal": "2 women accuse Matt Gaetz of sex trafficking in new lawsuit",
-      "link": "https://www.politico.com/news/2026/10/15/matt-gaetz-lawsuit-trafficking-florida-01120754",
-      "publishedAt": "2026-10-15T19:11:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Brit Hume: É possível que os republicanos sofram uma “derrota esmagadora” nas eleições de meio de mandato",
-      "titleOriginal": "Brit Hume: Republican 'washout' possible in midterms",
-      "link": "https://thehill.com/homenews/campaign/6151939-gop-midterm-washout-risk/",
-      "publishedAt": "2026-10-15T18:56:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Legisladores ficam “horrorizados” com plano de tiroteio em massa contra templo hindu na região de Chicago",
-      "titleOriginal": "Lawmakers 'horrified' by mass shooting plot on Chicago-area Hindu temple",
-      "link": "https://thehill.com/homenews/state-watch/6151659-man-arrested-hindu-temple-shooting-plot/",
-      "publishedAt": "2026-10-15T18:50:09.000Z"
+      "title": "Senadores exigem investigação sobre a interferência no sinal de satélite da Ucrânia",
+      "titleOriginal": "Senators Demand Investigation Into Ukraine Satellite Disruption",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
+      "publishedAt": "2026-10-15T21:13:44.000Z"
     }
   ]
 }
