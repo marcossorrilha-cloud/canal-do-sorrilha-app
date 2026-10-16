@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-16T23:01:11.577Z",
+  "updatedAt": "2026-10-16T23:36:28.523Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Comandante do Centcom afirma que o bloqueio naval custou ao Irã US$ 25 bilhões em receitas com petróleo",
+      "titleOriginal": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
+      "link": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/",
+      "publishedAt": "2026-10-16T23:12:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A FERC toma medidas para facilitar as aprovações relacionadas ao gás",
+      "titleOriginal": "FERC moves to ease gas approvals",
+      "link": "https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup/",
+      "publishedAt": "2026-10-16T23:09:34.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Órgãos reguladores do setor energético aceleram aprovações para ampliações de instalações de exportação de gás",
       "titleOriginal": "Energy regulators speed up approvals for gas export facility expansions",
       "link": "https://thehill.com/blogs/blog-briefing-room/news/energy-a-environment/6155398-ferc-seeks-shorten-gas-export-approvals/",
       "publishedAt": "2026-10-16T22:34:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump realiza comício com líderes republicanos no estado da Geórgia, um importante campo de batalha eleitoral",
-      "titleOriginal": "Trump rallies with top Republicans in critical battleground state of Georgia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
-      "publishedAt": "2026-10-16T22:34:00.000Z"
     },
     {
       "source": "The Hill",
@@ -64,13 +71,6 @@
       "titleOriginal": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
       "publishedAt": "2026-10-16T21:57:40.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tribunal de Apelações questiona a alegação do Departamento de Justiça de que Trump é o proprietário dos registros da Casa Branca",
-      "titleOriginal": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
-      "publishedAt": "2026-10-16T21:47:04.000Z"
     }
   ]
 }
