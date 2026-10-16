@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:21:44.149Z",
+  "updatedAt": "2026-10-16T01:39:30.348Z",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,6 @@
       "titleOriginal": "Trump Ally, Paolo Zampolli, Leaves State Department",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/zampolli-trump-ally-state-department.html",
       "publishedAt": "2026-10-16T01:18:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Collins e Jackson trocam farpas no último debate para o Senado do Maine: três pontos a destacar",
-      "titleOriginal": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
-      "link": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/",
-      "publishedAt": "2026-10-16T01:08:02.000Z"
     },
     {
       "source": "New York Times",
@@ -32,10 +25,17 @@
     },
     {
       "source": "Axios",
+      "title": "\"Ah, cala a boca\": debate no Senado do Maine fica acalorado",
+      "titleOriginal": "\"Oh, shut up\": Maine Senate debate gets testy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWTB5amFIbHM0dGRBb2xia2sxaEFhdmItQ3BJdFpmMDhKUW16aEdWbDMyXzJFRTl6M3JVWWwtMWxWVmdpbW5Lek1jcVJjajdXSGRUclVnbFgtM052eDRxSk9WU3A2ZW5LQlRBRnR0aTRlUU0yUks4emdYVkJBUmdTenRNNGprQQ?oc=5",
+      "publishedAt": "2026-10-16T00:32:36.000Z"
+    },
+    {
+      "source": "Axios",
       "title": "Senador republicano: Cancelem o recesso do Dia de Ação de Graças se perdermos",
       "titleOriginal": "GOP senator: Cancel Thanksgiving recess if we lose",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tUjRZYjhodGI5YWxBSjc1ajlybGhrcy10WjJWWTN2XzRvRnAxeEE3MmlkYTdzeHByLWYwcl9vZ0lGRlRBVC10TDhpdjJqdmtldm1LRXFIT0dOejhrV1FySjZxVF93cXFZdE41M21aVHVRVzBTWkE?oc=5",
-      "publishedAt": "2026-10-16T00:22:05.000Z"
+      "publishedAt": "2026-10-15T23:57:51.000Z"
     },
     {
       "source": "The Hill",
@@ -67,7 +67,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Surgem questionamentos sobre o papel dos EUA no desligamento do Starlink na Ucrânia: o que é preciso saber",
+      "title": "Surgem questionamentos sobre o papel dos EUA no corte do serviço Starlink na Ucrânia: o que é preciso saber",
       "titleOriginal": "Questions flare over US role in Ukraine's Starlink shut-off: What to know",
       "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/",
       "publishedAt": "2026-10-15T22:43:28.000Z"
