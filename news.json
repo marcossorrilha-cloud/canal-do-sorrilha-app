@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-16T16:57:39.310Z",
+  "updatedAt": "2026-10-16T17:25:00.357Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Brown e Acton registram alta de 6 pontos nas disputas em Ohio: pesquisa",
+      "titleOriginal": "Brown, Acton both up 6 points in Ohio races: Poll",
+      "link": "https://thehill.com/homenews/campaign/6154137-ohio-polls-democrat-surge/",
+      "publishedAt": "2026-10-16T16:57:05.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O principal fundo jurídico de Trump tem uma dívida de US$ 1,9 milhão",
@@ -22,6 +29,13 @@
       "titleOriginal": "Are dark days ahead for Republicans after the midterm elections?",
       "link": "https://thehill.com/opinion/campaign/6152116-trump-midterms-republican-turnout/",
       "publishedAt": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
+      "titleOriginal": "Financial Services Roundup: Market Talk",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU5VdjRKWUpBVFpKVTBWU1VVTzJGejBkaEQyMW5QWnJhZzBwSXBkaTdBZUtNY3c2U3RrN1VnaUZNUDNRVWkxYVZhekY2bzZHbHBGOGtvak1BSWI3QkJQNnRBN3V0ajItaW1ONFFXRXFpLUwzX01xd0hpNjBjVWlhU0F3?oc=5",
+      "publishedAt": "2026-10-16T16:24:00.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5",
       "publishedAt": "2026-10-16T15:38:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os melhores diplomatas dos Estados Unidos talvez sejam seus prefeitos",
-      "titleOriginal": "America’s best diplomats might be its mayors",
-      "link": "https://thehill.com/opinion/international/6151232-local-leaders-global-investment/",
-      "publishedAt": "2026-10-16T15:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zelensky elogia os “verdadeiros líderes” da Europa, em meio a relações tensas com Trump",
-      "titleOriginal": "Zelensky praises 'real leaders' in Europe with Trump relationship strained",
-      "link": "https://thehill.com/policy/international/6153604-volodymyr-zelensky-europe-trump-diesel/",
-      "publishedAt": "2026-10-16T15:22:25.000Z"
     }
   ]
 }
