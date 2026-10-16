@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-16T07:10:54.448Z",
+  "updatedAt": "2026-10-16T11:54:51.200Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Senador republicano: Cancelem o recesso do Dia de Ação de Graças se perdermos",
-      "titleOriginal": "GOP senator: Cancel Thanksgiving recess if we lose",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tUjRZYjhodGI5YWxBSjc1ajlybGhrcy10WjJWWTN2XzRvRnAxeEE3MmlkYTdzeHByLWYwcl9vZ0lGRlRBVC10TDhpdjJqdmtldm1LRXFIT0dOejhrV1FySjZxVF93cXFZdE41M21aVHVRVzBTWkE?oc=5",
-      "publishedAt": "2026-10-16T06:08:23.000Z"
+      "source": "The Hill",
+      "title": "O sistema falhou com Jane Doe. O Congresso pode resolver isso.",
+      "titleOriginal": "The system failed Jane Doe. Congress can fix it.",
+      "link": "https://thehill.com/opinion/criminal-justice/6152924-cornell-sexual-assault-outrage/",
+      "publishedAt": "2026-10-16T11:30:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Anúncios gerados por IA no valor de US$ 137 milhões inundam as eleições de meio de mandato",
+      "titleOriginal": "$137 Million in A.I.-Generated Ads Flood the Midterms",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+      "publishedAt": "2026-10-16T11:27:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance e Ocasio-Cortez se enfrentam em Michigan, antecipando um possível confronto em 2028",
+      "titleOriginal": "Vance and Ocasio-Cortez face off in Michigan, previewing possible 2028 match-up",
+      "link": "https://thehill.com/newsletters/morning-report/6153128-jd-vance-alexandria-ocasio-cortez-michigan-face-up-2028-preview-midterms-trump-defense-guilfoyle/",
+      "publishedAt": "2026-10-16T11:07:44.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "“O presidente Bezos” — pronto para salvar os Estados Unidos em 2028?",
+      "titleOriginal": "'President Bezos' — primed to save America in 2028?",
+      "link": "https://thehill.com/opinion/6152050-make-america-amazon-campaign/",
+      "publishedAt": "2026-10-16T11:00:00.000Z"
     },
     {
       "source": "Axios",
       "title": "O secretário de imprensa de Trump explica o fracasso no exame da ordem dos advogados",
       "titleOriginal": "Trump press secretary explains failed bar exam",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DQlFOYzBoY0VXTVI3U0VVTTVLMEZRY0VaTGtRN2dtdWVDc21kcEd1MFdvTEg1R1VBa1pRSUdlZENGZEhXNEdqZ1NHcmdjSk5SYlVVM2gzU01iUEZLSVE1eVNLN0lfY1AtYmNIUm1USDc?oc=5",
-      "publishedAt": "2026-10-16T04:49:06.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os republicanos do Senado estão levando uma surra na arrecadação de fundos",
-      "titleOriginal": "Senate Republicans are getting smoked in fundraising",
-      "link": "https://www.politico.com/news/2026/10/16/senate-republicans-are-getting-smoked-in-fundraising-01122911",
-      "publishedAt": "2026-10-16T04:37:38.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Por dentro do plano dos socialistas democráticos para sacudir o Congresso",
-      "titleOriginal": "Inside the democratic socialists’ plan to shake up Congress",
-      "link": "https://www.politico.com/video/2026/10/15/inside-the-democratic-socialists-plan-to-shake-up-congress-2201513",
-      "publishedAt": "2026-10-16T03:59:00.000Z"
+      "publishedAt": "2026-10-16T10:28:42.000Z"
     },
     {
       "source": "AP News",
-      "title": "O primeiro-ministro Mark Carney afirma que os EUA estão tentando desestabilizar o Canadá, enquanto Alberta vota sobre o caminho para a separação",
-      "titleOriginal": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
-      "publishedAt": "2026-10-16T03:32:00.000Z"
+      "title": "Ataques com drones no Mar Negro geram receios de uma escalada por parte da Rússia para testar a resposta da OTAN",
+      "titleOriginal": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzFrRE5pMHU0QUV5V2ZHeTBuUHR3cnJDY09QMnEyMndIVVA5TG5aUE5zSkhIdWNhZVVLcEJPSGMweVFtVGFma3RXcWlZa2xaeVpMWjg3UnFsUXQ0SXQ1ZFdwdXY0cG4zc3U3NlJBRm81eEkyanlKcG1ENGJWS21CWHN5M3RmZkcxY1dnWTBDNFNna0o1WDgyNnZvTlJOSDlwN1VyeDY1VHktNnVyU0E?oc=5",
+      "publishedAt": "2026-10-16T10:24:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Na disputa pelo Senado de Michigan, Ocasio-Cortez se junta a El-Sayed na campanha eleitoral em território de Trump",
-      "titleOriginal": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html",
-      "publishedAt": "2026-10-16T03:16:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Tesla voador de Elon Musk é gloriosamente absurdo",
-      "titleOriginal": "Elon Musk's flying Tesla is gloriously absurd",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41amE5a0NrVFFwTktIam1oQWhZOEV4YnE1Nk8xVi1JU1ZWWk9vMlRsQzFnQkdxdGtXblRWTE9KSzQtUWNCdi0yeWgyRHpVS3BPWWlQS3FWR2R2dHlzcjVIMWFPSE9wWXRBUmFhN1owZ05DWDFaNVhB?oc=5",
-      "publishedAt": "2026-10-16T03:08:19.000Z"
+      "source": "Wall Street Journal",
+      "title": "China propõe controles de exportação para tecnologias de IA",
+      "titleOriginal": "China Proposes Export Controls on AI Technologies",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3?oc=5",
+      "publishedAt": "2026-10-16T10:15:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Massie: Trump deveria demitir Hegseth antes que ele seja submetido a um processo de impeachment",
-      "titleOriginal": "Massie: Trump should fire Hegseth before he is impeached",
-      "link": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/",
-      "publishedAt": "2026-10-16T02:38:59.000Z"
+      "title": "Como o Departamento de Justiça espera que a Suprema Corte limite a autoridade dos juízes daqui para frente",
+      "titleOriginal": "How DOJ hopes the Supreme Court will limit judges' authority next",
+      "link": "https://thehill.com/regulation/court-battles/6152265-supreme-court-trump-administration-nationwide-rulings-apa/",
+      "publishedAt": "2026-10-16T10:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Jovens entram em confronto com a polícia pelo terceiro dia consecutivo nos protestos antigovernamentais na Albânia",
-      "titleOriginal": "Youths clash with police for a 3rd day in Albania’s anti-government protests",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2pDMS0xQnJkMTlfUHBfTVp1S202TFkzR244S25sTVlpZFJ1RjM1dVN3QjZUQTZBdmxNQzNrR2F4bXlOSGZ1dGJIMFJDd3MwZVdQM19ITzVHanJOSjRmV1N4RVBENkVpYUNTMjljQUtKQkwwWUNEY1dvOXg1WGpxN1VTUnNWd2Y2dkltQXI3QlBuV1BPM3NKdnpjcUVLZW8?oc=5",
-      "publishedAt": "2026-10-16T02:35:00.000Z"
+      "source": "The Hill",
+      "title": "Os democratas podem estar prestes a conquistar a maioria no Senado: veja quais são suas principais prioridades",
+      "titleOriginal": "Democrats may be on the cusp of a Senate majority: Here are their top priorities",
+      "link": "https://thehill.com/homenews/house/6152445-potential-democratic-senate-agenda/",
+      "publishedAt": "2026-10-16T10:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump cancela a transmissão ao vivo prevista da execução de Nidal Hasan, autor do tiroteio em Fort Hood",
-      "titleOriginal": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
-      "publishedAt": "2026-10-16T02:22:17.000Z"
+      "source": "The Hill",
+      "title": "Senadores republicanos pressionam o Pentágono sobre a perda de dados do Starshield pela Ucrânia",
+      "titleOriginal": "GOP senators press Pentagon over Ukraine’s loss of Starshield data",
+      "link": "https://thehill.com/homenews/senate/6152690-senators-demand-starshield-probe/",
+      "publishedAt": "2026-10-16T10:00:00.000Z"
     }
   ]
 }
