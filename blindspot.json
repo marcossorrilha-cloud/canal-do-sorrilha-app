@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-15T15:02:07.677Z",
-  "slot": "2026-10-15-PM",
+  "updatedAt": "2026-10-16T06:23:51.313Z",
+  "slot": "2026-10-16-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O Departamento do Tesouro impõe multa de US$ 1,2 bilhão ao Bank of America",
-      "titleOriginal": "Treasury Department imposes $1.2 billion penalty against Bank of America",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXczb1FqbVhjUGNlT0JVRnFUaURYUDJkYjNFQjJ0MEUyX1pqbzNRVTFCS1ZqeS0taW1FOVg5NVpEckowZ3FUQ1EtY2hudWF3bHg5SkJvR2wzX2RoNzBJbTFMU2lqYVE4ZVBKY3Q2ZU9oUHNwd2lBSU9HNkI4LW04MzF0LWFQOWVSZGF0Nzd6Q1JLSFVheXBjc0szVDlJMk1OSTB6RWstZw?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "Elon Musk chega a um acordo em processos por fraude relacionados às doações de US$ 1 milhão que fez aos eleitores das eleições de 2024",
+      "titleOriginal": "Elon Musk settles fraud lawsuits over his $1 million giveaways to 2024 election voters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3NaSElROHFDY0RYdkNaMmYxMFZTUE1VOUc5NzE2eGtlTWJaSS1nejFxWk9rVnhqcEx4cHdYcG1zVU9uSWRrQVVQZkFSSFYxOWxsM3F4Y1dISlZYb3M4aDI4ZHk3Q3hEQU1DRnBNQ0dRblktM3BBaXpIdzBmS285N3VHMmwzUjFVYl84Q1JjYmlBTk9LMGswdFAwSkQ?oc=5",
+      "source": "CNN",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Nove grandes bancos “recusaram, encerraram contas e discriminaram” conservadores, apura investigação do governo Trump",
-      "titleOriginal": "Nine Major Banks ‘Denied, Debanked, and Discriminated Against’ Conservatives, Trump Admin Probe Finds",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEZmYWU5c1BOdDItaHpvRHphY3l5QVhxZ0cxdEdqZ0l1dS1IRldrNy1kWWtPYnV5V0JTRjRCZFUtcnQ4QzhpUVJ3TVFrc2UwTjZrdnFSZnRzODQ0bEJ4TFJQdm9sbkdZUnVNejhjZXRUbEs3QXNVbnM0VmtZOGNpZGQ0b1hsNmZPRnhkdzh4T1VsMG9mbHhyb2FlSEhNNXZCcjNmX0NKYy1vZ2JKZkFRRmE5alg4Q0poWllHc3lkbGlNeG9fWldHc056U1JQQdIB0wFBVV95cUxQRzkyeVAyZjl2REdJVTJGSVd4YkdtWUdmVGg4QUJ1VUhMQktQMEstRWxqUEkxcWd6dVBJNkRWdzFhUVR2N3FERF9DTTAyNnpDSWtBSHdiNDN3Si1kTWZoWHFDZmV5eENLdlpWTmFqakNNMnNMY2VMTEtBYXB4UGljVDhuTmV1bm1rWEJ1VlJsWm5vdDF3M3A2cnlLQWozcFpOb2tySnZ3LUNaVHdIYTJmWktrRTNUY2JVZ0lDdGtocWRacUNYU3NjdnRnWTN0N2NPNmRB?oc=5",
-      "source": "National Review",
+      "title": "Relatório Matinal de Risco: Investigação sobre exclusão bancária revela que o JPMorgan e outros bancos cortaram o acesso a vendedores do movimento MAGA e a grupos democratas",
+      "titleOriginal": "The Morning Risk Report: Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObG9XdzhrSzVDTndnVUpaNWNYaUxJUEFmYVhrS3JJWmFZOUpjak5mZWFwT3czc3hjcmVDemstelR5b1N1eEtUbWVHNkYwWkNyWnJSdkU0VWUxbTdXSFBVRlBnbzFnaFZkM1hCeTFQMmRSOFdjNFNVRWlMeGZpOC0yS0xYemdCa1psdVhrWEtrdzZfSEcxY0RjenliMlRLRVJjdTlhU2xMV050WHpoUEdGT01xSVBLUjJhWlVkRzZ2Y0I4SDNrMzhIWEhqSGFiWGRENXN0SER0NGdoYnRnSGZSZTUtaEdqZDl1dXc?oc=5",
+      "source": "Wall Street Journal",
       "coverage": 3
     }
   ]
