@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-15T23:18:13.823Z",
+  "updatedAt": "2026-10-16T01:21:44.149Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Paolo Zampolli, aliado de Trump, deixa o Departamento de Estado",
+      "titleOriginal": "Trump Ally, Paolo Zampolli, Leaves State Department",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/zampolli-trump-ally-state-department.html",
+      "publishedAt": "2026-10-16T01:18:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Collins e Jackson trocam farpas no último debate para o Senado do Maine: três pontos a destacar",
+      "titleOriginal": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
+      "link": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/",
+      "publishedAt": "2026-10-16T01:08:02.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Juiz se recusa a revogar penalidades contra empresa de criptomoedas ligada à família Trump",
+      "titleOriginal": "Judge Refuses to Reverse Penalties Against Crypto Firm With Ties to Trump Family",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/crypto-court-ruling-gemini-trust-trump.html",
+      "publishedAt": "2026-10-16T00:35:02.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Noem deixa o cargo na “Shield of America”, confirma o Departamento de Estado",
+      "titleOriginal": "Noem out of Shield of America’s role, State Department confirms",
+      "link": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/",
+      "publishedAt": "2026-10-16T00:32:39.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Senador republicano: Cancelem o recesso do Dia de Ação de Graças se perdermos",
+      "titleOriginal": "GOP senator: Cancel Thanksgiving recess if we lose",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tUjRZYjhodGI5YWxBSjc1ajlybGhrcy10WjJWWTN2XzRvRnAxeEE3MmlkYTdzeHByLWYwcl9vZ0lGRlRBVC10TDhpdjJqdmtldm1LRXFIT0dOejhrV1FySjZxVF93cXFZdE41M21aVHVRVzBTWkE?oc=5",
+      "publishedAt": "2026-10-16T00:22:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Diretor do sistema escolar do Pentágono deixa o cargo",
+      "titleOriginal": "Pentagon's school system director stepping down",
+      "link": "https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns/",
+      "publishedAt": "2026-10-15T23:55:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A FDA leva adiante sua campanha em prol dos peptídeos junto à Casa Branca",
+      "titleOriginal": "FDA advances peptide push to White House",
+      "link": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/",
+      "publishedAt": "2026-10-15T23:50:02.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Autoridades investigam cartas com “substâncias suspeitas” enviadas a escritórios do Congresso e de campanhas eleitorais",
+      "titleOriginal": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
+      "publishedAt": "2026-10-15T23:16:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump cancela a transmissão ao vivo prevista da execução de Nidal Hasan, autor do tiroteio em Fort Hood",
@@ -15,62 +71,6 @@
       "titleOriginal": "Questions flare over US role in Ukraine's Starlink shut-off: What to know",
       "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/",
       "publishedAt": "2026-10-15T22:43:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Quatro senadores do Partido Republicano assinam carta exigindo que o Inspetor-Geral do Pentágono investigue a interrupção do serviço Starlink na Ucrânia",
-      "titleOriginal": "4 GOP senators join letter demanding Pentagon IG investigation of Ukraine’s Starlink outage",
-      "link": "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/",
-      "publishedAt": "2026-10-15T22:38:10.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como o apoio dos EUA à Ucrânia evoluiu durante o governo Trump",
-      "titleOriginal": "How U.S. Support to Ukraine Has Evolved Under Trump",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
-      "publishedAt": "2026-10-15T22:37:04.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Musk financia um comitê de ação política (PAC) que está investindo pesadamente na campanha de Paxton no Texas",
-      "titleOriginal": "Musk bankrolls PAC spending big on Paxton in Texas",
-      "link": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/",
-      "publishedAt": "2026-10-15T22:34:37.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Um juiz irritado e um suposto advogado na sala de coletivas",
-      "titleOriginal": "An Angry Judge and a Maybe-Lawyer in the Briefing Room",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/the-docket-legal-news-roundup.html",
-      "publishedAt": "2026-10-15T22:24:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Três homens acusados por Nancy Mace em discurso na Câmara dos Deputados são indiciados por crimes sexuais",
-      "titleOriginal": "3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html",
-      "publishedAt": "2026-10-15T22:15:35.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Trump critica duramente os republicanos enquanto Ken Paxton enfrenta dificuldades no Texas",
-      "titleOriginal": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
-      "link": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
-      "publishedAt": "2026-10-15T22:14:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump vetou plano do Pentágono para execução pública: 5 pontos a serem destacados",
-      "titleOriginal": "Trump shuts down Pentagon plan for public execution: 5 takeaways",
-      "link": "https://thehill.com/homenews/administration/6152572-execution-livestream-donald-trump-pete-hegseth-takeaways/",
-      "publishedAt": "2026-10-15T22:10:28.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Um guia sobre as eleições para as legislaturas estaduais e onde o controle partidário está em jogo",
-      "titleOriginal": "A Guide to State Legislature Elections and Where Partisan Control Is at Stake",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/state-local-elections-midterms.html",
-      "publishedAt": "2026-10-15T22:06:15.000Z"
     }
   ]
 }
