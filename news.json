@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:23:44.055Z",
+  "updatedAt": "2026-10-16T07:10:54.448Z",
   "count": 10,
   "items": [
     {
@@ -8,20 +8,6 @@
       "titleOriginal": "GOP senator: Cancel Thanksgiving recess if we lose",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tUjRZYjhodGI5YWxBSjc1ajlybGhrcy10WjJWWTN2XzRvRnAxeEE3MmlkYTdzeHByLWYwcl9vZ0lGRlRBVC10TDhpdjJqdmtldm1LRXFIT0dOejhrV1FySjZxVF93cXFZdE41M21aVHVRVzBTWkE?oc=5",
       "publishedAt": "2026-10-16T06:08:23.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vendedores teimosos são o último fator que sustenta os preços das casas",
-      "titleOriginal": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2ZhQXUxclZ2S25UYU0zVkxHUzQzRDNUcUdoUi1lMFdHZ0JIVzJGbmpCS0RnMkpEVFB5cjE5TUpoNkR1U04tNk9mdjFmTVZKVjZkWndsYXNfaVBfZEhOQzFiLUQ1M0hGeGhKb2R5RzlqLTgzRlZYZVJBRzlGaE1vZTdFbFJETktxcUFzNkN5Zl93RWZreGs2TV9QaG15ZTl2NG1vYUl1VQ?oc=5",
-      "publishedAt": "2026-10-16T05:01:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A maior parte do dinheiro de Ken Paxton pode ser atribuída a um único homem: Elon Musk",
-      "titleOriginal": "Most of Ken Paxton’s Money Can Be Traced to One Man: Elon Musk",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
-      "publishedAt": "2026-10-16T04:51:16.000Z"
     },
     {
       "source": "Axios",
@@ -63,7 +49,7 @@
       "title": "O Tesla voador de Elon Musk é gloriosamente absurdo",
       "titleOriginal": "Elon Musk's flying Tesla is gloriously absurd",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41amE5a0NrVFFwTktIam1oQWhZOEV4YnE1Nk8xVi1JU1ZWWk9vMlRsQzFnQkdxdGtXblRWTE9KSzQtUWNCdi0yeWgyRHpVS3BPWWlQS3FWR2R2dHlzcjVIMWFPSE9wWXRBUmFhN1owZ05DWDFaNVhB?oc=5",
-      "publishedAt": "2026-10-16T03:14:23.000Z"
+      "publishedAt": "2026-10-16T03:08:19.000Z"
     },
     {
       "source": "The Hill",
@@ -71,6 +57,20 @@
       "titleOriginal": "Massie: Trump should fire Hegseth before he is impeached",
       "link": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/",
       "publishedAt": "2026-10-16T02:38:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Jovens entram em confronto com a polícia pelo terceiro dia consecutivo nos protestos antigovernamentais na Albânia",
+      "titleOriginal": "Youths clash with police for a 3rd day in Albania’s anti-government protests",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2pDMS0xQnJkMTlfUHBfTVp1S202TFkzR244S25sTVlpZFJ1RjM1dVN3QjZUQTZBdmxNQzNrR2F4bXlOSGZ1dGJIMFJDd3MwZVdQM19ITzVHanJOSjRmV1N4RVBENkVpYUNTMjljQUtKQkwwWUNEY1dvOXg1WGpxN1VTUnNWd2Y2dkltQXI3QlBuV1BPM3NKdnpjcUVLZW8?oc=5",
+      "publishedAt": "2026-10-16T02:35:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump cancela a transmissão ao vivo prevista da execução de Nidal Hasan, autor do tiroteio em Fort Hood",
+      "titleOriginal": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
+      "publishedAt": "2026-10-16T02:22:17.000Z"
     }
   ]
 }
