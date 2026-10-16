@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-16T11:54:51.200Z",
+  "updatedAt": "2026-10-16T12:26:10.880Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Os aliados do movimento MAGA de Trump discutem abertamente a lei marcial",
+      "titleOriginal": "Trump's MAGA allies openly discuss martial law",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUVBekxiV09aX2tTaHA4MUJ4QUM2b1dKQjNMTkhwbkJYaE04eElBV19zWlY4SE9HcWtzQWNVekN2WFdvMFFrNzMtcldka2RBWEotOXlVeUlaRlI1dVN4VGpSdnExTUxwcE5VMXc5NkJhR1U0eXBFVm9yTWNEeEpoU01tWk0?oc=5",
+      "publishedAt": "2026-10-16T12:11:06.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O sistema falhou com Jane Doe. O Congresso pode resolver isso.",
@@ -31,6 +38,13 @@
       "publishedAt": "2026-10-16T11:00:00.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Por que a divisão política dos Estados Unidos é também uma divisão econômica",
+      "titleOriginal": "Why America’s Political Divide Is Also an Economic Divide",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0VENGFwR0RKb2EzVEtjRzR0RklWYXdISVhXcGg5NnhINVhhdDhpbUY1emc0cXhPU3hqZHBvV21ocl9TSTNqbDlrNnJSMGZRdHI2UFpGamNLZm1Xa1lPQWM5QklGWEVJbDBjSTU1anZMZ21rTVpLVHpmNm4xZUl1akdJTkI1RUxFRHZ3b25qU2F6VzB1TnFsY2Zn?oc=5",
+      "publishedAt": "2026-10-16T10:59:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "O secretário de imprensa de Trump explica o fracasso no exame da ordem dos advogados",
       "titleOriginal": "Trump press secretary explains failed bar exam",
@@ -56,20 +70,6 @@
       "title": "Como o Departamento de Justiça espera que a Suprema Corte limite a autoridade dos juízes daqui para frente",
       "titleOriginal": "How DOJ hopes the Supreme Court will limit judges' authority next",
       "link": "https://thehill.com/regulation/court-battles/6152265-supreme-court-trump-administration-nationwide-rulings-apa/",
-      "publishedAt": "2026-10-16T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas podem estar prestes a conquistar a maioria no Senado: veja quais são suas principais prioridades",
-      "titleOriginal": "Democrats may be on the cusp of a Senate majority: Here are their top priorities",
-      "link": "https://thehill.com/homenews/house/6152445-potential-democratic-senate-agenda/",
-      "publishedAt": "2026-10-16T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senadores republicanos pressionam o Pentágono sobre a perda de dados do Starshield pela Ucrânia",
-      "titleOriginal": "GOP senators press Pentagon over Ukraine’s loss of Starshield data",
-      "link": "https://thehill.com/homenews/senate/6152690-senators-demand-starshield-probe/",
       "publishedAt": "2026-10-16T10:00:00.000Z"
     }
   ]
