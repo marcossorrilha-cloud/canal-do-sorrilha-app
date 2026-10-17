@@ -1,20 +1,41 @@
 {
-  "updatedAt": "2026-10-17T19:42:47.156Z",
+  "updatedAt": "2026-10-17T21:46:08.913Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Disputa entre aliados de Trump gira em torno de pagamento proveniente do Congo",
-      "titleOriginal": "Dispute Between Trump Allies Centers on Payment From Congo",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-      "publishedAt": "2026-10-17T19:39:37.000Z"
+      "source": "Axios",
+      "title": "Guia eleitoral de 1 minuto: o que você precisa saber sobre a Emenda 85 na cédula eleitoral do Colorado",
+      "titleOriginal": "1-minute voter guide: What to know about Amendment 85 on the Colorado ballot",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3VuZ3o5VkUzUG1paTBKbGdwdzZIWmJsRFlFWVZPYjJSYmJ2WXF1Ni01WVBieS1hU3JNc09CX2RrcW9iZTZlNkFlVlpIMVJTSEpUcjBEdWpyeEp2dWFIOWQzS0w4ZHcxLWRaTlNPYUdwSDY3T2M5OS05MHB4c2xmQTh2SXYwQk12?oc=5",
+      "publishedAt": "2026-10-17T21:37:01.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Zelensky está aberto a um acordo com a Starlink",
-      "titleOriginal": "Opinion | Zelensky Is Open to a Starlink Deal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2RiZVJwWU42M3JnTGZyTHRnNFdfb2hfVjJBcU9qaW1PaHRqRVV0Sko5NzNaUzBkNmF6OC00TkducVR3a1NNbjJKNkZLMk9POVVuOTRvaVYzV1pPSlMyZjhKc2xwbkdORVhtczNBYjhpd3RDU1FpbnhjSko2S3AxaWVFV1JoV2lmTjdiaHhTak54d1pCeGVVNURiekI1NjlvMjBZSUE3VDY0RUJrTXFKVVR3?oc=5",
-      "publishedAt": "2026-10-17T19:36:45.000Z"
+      "source": "AP News",
+      "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
+      "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
+      "publishedAt": "2026-10-17T21:16:41.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Dados econômicos preocupantes trazem desafios para o Partido Republicano na reta final das eleições de meio de mandato",
+      "titleOriginal": "Concerning economic data pose issues for GOP down midterm stretch",
+      "link": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/",
+      "publishedAt": "2026-10-17T21:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Disputa entre aliados de Trump gira em torno de milhões transferidos do Congo",
+      "titleOriginal": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+      "publishedAt": "2026-10-17T20:45:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Stephen A. Smith considera “chocante” o jantar com Trump, Bill Maher e Kid Rock",
+      "titleOriginal": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
+      "link": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/",
+      "publishedAt": "2026-10-17T19:51:37.000Z"
     },
     {
       "source": "The Hill",
@@ -42,35 +63,14 @@
       "title": "A isenção concedida por Trump em relação à Rússia gera reação bipartidária imediata",
       "titleOriginal": "Trump's Russia waiver draws instant bipartisan backlash",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
-      "publishedAt": "2026-10-17T18:16:57.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "EUA estendem uma mão à Rússia: permitem mais vendas de gás para a Europa",
-      "titleOriginal": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
-      "publishedAt": "2026-10-17T18:00:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Grupos terroristas estão entregando os minerais essenciais da Venezuela à China",
-      "titleOriginal": "Terror groups are handing Venezuela’s critical minerals over to China",
-      "link": "https://thehill.com/opinion/international/6154927-illicit-mining-funds-violence/",
-      "publishedAt": "2026-10-17T18:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A decisão de Trump de suspender as sanções contra a Rússia indigna o Congresso, mas não se prevê uma reação imediata",
-      "titleOriginal": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
-      "publishedAt": "2026-10-17T17:26:00.000Z"
+      "publishedAt": "2026-10-17T18:17:02.000Z"
     },
     {
       "source": "Axios",
-      "title": "Trump suspende novas sanções contra a Rússia em nome dos “interesses nacionais”",
-      "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
-      "publishedAt": "2026-10-17T17:18:45.000Z"
+      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda enfrenta restrições na Ucrânia",
+      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
+      "publishedAt": "2026-10-17T18:17:02.000Z"
     }
   ]
 }
