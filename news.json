@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-17T21:46:08.913Z",
+  "updatedAt": "2026-10-17T22:20:14.015Z",
   "count": 10,
   "items": [
     {
       "source": "Axios",
-      "title": "Guia eleitoral de 1 minuto: o que você precisa saber sobre a Emenda 85 na cédula eleitoral do Colorado",
-      "titleOriginal": "1-minute voter guide: What to know about Amendment 85 on the Colorado ballot",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3VuZ3o5VkUzUG1paTBKbGdwdzZIWmJsRFlFWVZPYjJSYmJ2WXF1Ni01WVBieS1hU3JNc09CX2RrcW9iZTZlNkFlVlpIMVJTSEpUcjBEdWpyeEp2dWFIOWQzS0w4ZHcxLWRaTlNPYUdwSDY3T2M5OS05MHB4c2xmQTh2SXYwQk12?oc=5",
-      "publishedAt": "2026-10-17T21:37:01.000Z"
+      "title": "Guia eleitoral de 1 minuto: Gonzalez e Wiley disputam o cargo de secretário de Estado do Colorado",
+      "titleOriginal": "1-minute voter guide: Gonzalez and Wiley vie for Colorado secretary of state",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhMXzFYWjZuZzhtRklhWVFxT3pPRkE2cmc1VVdTV2kwaTY0ZzJMS1M2WTdVWW1DSzNIdUM0NElRT2gtekF1V2pzdHlGNm5tY2xwaWRDSUZ5aHJiQ3IyNktocEswRjJMeFV0OG13NElpcGJ2WjU5WWpMMUcyd0VvaWYwa0YwS1VzZ0xiRGRJeGYzM3d3YVFYTHZWcVpwai1oRTZ3?oc=5",
+      "publishedAt": "2026-10-17T22:07:11.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado republicano Scott Perry está um pouco atrás na disputa pela reeleição na Pensilvânia: pesquisa",
+      "titleOriginal": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
+      "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/",
+      "publishedAt": "2026-10-17T21:46:48.000Z"
     },
     {
       "source": "AP News",
@@ -45,6 +52,13 @@
       "publishedAt": "2026-10-17T19:00:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Os eleitores negros testam o limite da esquerda socialista",
+      "titleOriginal": "Black voters test the socialist left's ceiling",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcnNsOTF1NTV0UkZjM0ZXaFBFemEzZXRJLWU1Zk0tQUxaT0U4VEZsVTRDWEZ2VUhjV1JISkhDeDMzcjhFQnJfaGNockM2aWR3MVllcWcwVkc0enBiR3FvMlFNdHk3NVBFNHc4NWZyRXliQ3ZFckE?oc=5",
+      "publishedAt": "2026-10-17T18:51:46.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Zelensky afirma que a Ucrânia está “pronta para negociar”",
       "titleOriginal": "Zelensky says Ukraine is 'ready to negotiate'",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-10-17T18:46:21.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Anúncios gerados por IA no valor de US$ 137 milhões inundam as eleições de meio de mandato",
-      "titleOriginal": "$137 Million in A.I.-Generated Ads Flood the Midterms",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
-      "publishedAt": "2026-10-17T18:24:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A isenção concedida por Trump em relação à Rússia gera reação bipartidária imediata",
-      "titleOriginal": "Trump's Russia waiver draws instant bipartisan backlash",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
-      "publishedAt": "2026-10-17T18:17:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda enfrenta restrições na Ucrânia",
-      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
-      "publishedAt": "2026-10-17T18:17:02.000Z"
+      "source": "AP News",
+      "title": "Vladimir Putin",
+      "titleOriginal": "Vladimir Putin",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5",
+      "publishedAt": "2026-10-17T18:37:25.000Z"
     }
   ]
 }
