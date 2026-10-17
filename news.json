@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-17T17:11:30.051Z",
+  "updatedAt": "2026-10-17T17:32:39.611Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Disputa entre aliados de Trump gira em torno de pagamento proveniente do Congo",
+      "titleOriginal": "Dispute Between Trump Allies Centers on Payment From Congo",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+      "publishedAt": "2026-10-17T17:13:39.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Imigrante procurado pelo ICE no Texas — caso em que um agente atropelou um homem com o carro — já está morto há anos: Relatório",
+      "titleOriginal": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
+      "link": "https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation/",
+      "publishedAt": "2026-10-17T17:12:49.000Z"
+    },
     {
       "source": "Axios",
       "title": "A Rússia se aproxima de um satélite dos EUA, o que suscita preocupações quanto às suas intenções",
       "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb2JFdHZWb1M5d2g1SGphSEZ0Z05paWh4RE5uOFlwQ1JCeUtreEpxaElaQmZobE0yS194UlhyR1l1ZDE2X3dCZzdZLVFuQ3dyVmppMnJmLXVxZEkzVnAwZzVfa1lVYzdjNVdIUldJb2o?oc=5",
       "publishedAt": "2026-10-17T17:00:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Disputa entre aliados de Trump gira em torno de pagamento proveniente do Congo",
-      "titleOriginal": "Dispute Between Trump Allies Centers on Payment From Congo",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-      "publishedAt": "2026-10-17T16:59:15.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -64,13 +71,6 @@
       "titleOriginal": "Zelensky says Russian sanctions Trump waived 'could have helped enormously'",
       "link": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
       "publishedAt": "2026-10-17T14:08:22.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Diretor Financeiro da Amazon Web Services afirma que os gastos com IA são sustentáveis",
-      "titleOriginal": "Exclusive: Amazon Web Services CFO says AI spending is sustainable",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5",
-      "publishedAt": "2026-10-17T14:03:01.000Z"
     }
   ]
 }
