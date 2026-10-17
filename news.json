@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-10-16T23:36:28.523Z",
+  "updatedAt": "2026-10-17T01:32:58.528Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Com a China enfrentando mais barreiras comerciais, ela não pode se dar ao luxo de perder a Europa",
+      "titleOriginal": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUQzNFBYX1hBcGFYNDNELUppYzROV3VxSjE5Zlg0cHBsSDFacFBTbEY2R011SnRGT3NuMHpDT3RiSGhfOHRnb05WQllxVVk1LVpaUzVoLUpOSlhNa3NRbU1BQmlDb1NGa3o2Tk1hRjRVWkFLeF9NSEdTeG80WC1aUEFPcFV2N2t5NVpISmg3eE01M3pwUlJNMWx3RUoyOFVRMnlGRkxNUTgxWDVuRkdn?oc=5",
+      "publishedAt": "2026-10-17T00:40:58.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "RFK Jr. se comprometeu a promover os objetivos de um grupo antivacina. Veja o que ele está fazendo.",
+      "titleOriginal": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html",
+      "publishedAt": "2026-10-16T23:45:43.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O adolescente que matou quatro pessoas em uma escola primária no Oregon era um ex-aluno, segundo a polícia",
+      "titleOriginal": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
+      "publishedAt": "2026-10-16T23:36:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
+      "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
+      "publishedAt": "2026-10-16T23:15:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Comandante do Centcom afirma que o bloqueio naval custou ao Irã US$ 25 bilhões em receitas com petróleo",
@@ -24,6 +52,13 @@
       "publishedAt": "2026-10-16T22:34:01.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Trump realiza comício com líderes republicanos no estado da Geórgia, um importante campo de batalha eleitoral",
+      "titleOriginal": "Trump rallies with top Republicans in critical battleground state of Georgia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
+      "publishedAt": "2026-10-16T22:34:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Senadores de ambos os partidos pedem que o Pentágono preste contas sobre as restrições ao Starlink na Ucrânia",
       "titleOriginal": "Bipartisan senators ask Pentagon to answer for Ukraine Starlink restrictions",
@@ -36,41 +71,6 @@
       "titleOriginal": "Trump Returns to Dalton for a Rescue Mission in Georgia",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-rally-dalton-georgia.html",
       "publishedAt": "2026-10-16T22:13:03.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O adolescente que matou quatro pessoas em uma escola primária no Oregon era um ex-aluno, segundo a polícia",
-      "titleOriginal": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-      "publishedAt": "2026-10-16T22:03:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "AOC transfere US$ 1 milhão para El-Sayed na reta final da disputa pelo Senado em Michigan",
-      "titleOriginal": "AOC transfers $1M to El-Sayed in final push for Michigan senate race",
-      "link": "https://thehill.com/homenews/6154613-aoc-transfers-1m-to-el-sayed-in-final-push-for-michigan-senate-race-yt/",
-      "publishedAt": "2026-10-16T22:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Guia eleitoral de 1 minuto: Emenda 87, Proposta NN e outras medidas tributárias",
-      "titleOriginal": "1-minute voter guide: Amendment 87, Prop. NN and other tax measures",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUpWdUJseU5wb3ZadzNMZjRrMjctLXQxRzdpUzAtaE1JV2E3emI2ajBrRnZiYVFudi1RZ0FPLVhJbXBSelF4ZV9mWl9XYU1jRDlGZ3hzWEtoNmZlWUVhbUxDLWlQSTAzTGRSbFFUZWQ1WUxhMGw2N1lnelpQLUJjcjdYbG9Kd2dLWlVtV1gyMFlzT0VObjF3ZVJxWkdJdGhWOUxMTA?oc=5",
-      "publishedAt": "2026-10-16T21:59:29.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas do Senado divulgam novos planos para fortalecer o Medicare",
-      "titleOriginal": "Senate Democrats unveil new plans for strengthening Medicare",
-      "link": "https://thehill.com/newsletters/healthcare/6155303-senate-democrats-unveil-new-plans-for-strengthening-medicare/",
-      "publishedAt": "2026-10-16T21:57:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Katie Zacharia, a nova secretária de imprensa de Trump, é demitida após 5 dias",
-      "titleOriginal": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
-      "publishedAt": "2026-10-16T21:57:40.000Z"
     }
   ]
 }
