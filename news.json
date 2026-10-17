@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-17T09:22:33.085Z",
+  "updatedAt": "2026-10-17T11:10:44.096Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Os republicanos do Kansas temem que Roger Marshall esteja ficando sem tempo",
+      "titleOriginal": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "link": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
+      "publishedAt": "2026-10-17T11:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Resumo: A escalada da crise na Ucrânia intensifica as questões para Trump",
+      "titleOriginal": "The Memo: Ukraine's slide into crisis sharpens questions for Trump",
+      "link": "https://thehill.com/homenews/analysis/6155440-trump-zelensky-ukraine-russia-diesel-starlink/",
+      "publishedAt": "2026-10-17T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Ucrânia enfrenta a difícil questão de saber se será capaz de enfrentar a Rússia sem o apoio dos EUA",
+      "titleOriginal": "Ukraine faces grim question of whether it can take on Russia without US backing",
+      "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
+      "publishedAt": "2026-10-17T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O seguro saúde é a questão subestimada das eleições de meio de mandato: por que os prêmios estão disparando",
+      "titleOriginal": "Health insurance is the sleeper midterms issue: Why premiums are spiking",
+      "link": "https://thehill.com/policy/healthcare/6155375-aca-costs-to-spike-next-month/",
+      "publishedAt": "2026-10-17T10:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump suspende novas sanções contra a Rússia em nome dos “interesses nacionais”",
+      "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
+      "publishedAt": "2026-10-17T09:59:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por que a direita europeia está rompendo com o MAGA",
+      "titleOriginal": "Why Europe’s Right Is Breaking Up With MAGA",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3RmdzZqNXJ6S2M5c0FLNGdPeEhDZ3hnV1E5YTRIamF3WTB5VkZHYmZJbUJDdmphRU50aFlLZnZyTkltRWFway1lOEpHbWlzdTFsS2p2b2RYMDYtQkU5djc4bHB3YVRDaDVDQWQwVW1lRmUxcGdCSGJwSnR0UTVudWFRcnU3bnlM?oc=5",
+      "publishedAt": "2026-10-17T09:30:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump reaviva as teorias da conspiração sobre as eleições de 2020, com a ajuda do governo federal",
@@ -18,7 +60,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O que a Pensilvânia revela sobre as eleições de meio de mandato",
+      "title": "O que a Pensilvânia revela sobre as eleições intermediárias",
       "titleOriginal": "What Pennsylvania Reveals About the Midterms",
       "link": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
       "publishedAt": "2026-10-17T09:00:55.000Z"
@@ -29,48 +71,6 @@
       "titleOriginal": "Opinion | Slapping Down an Insubordinate Court",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDZoR1BhZUtmNjJ3MEtSLXVWS1JSSG5wbm53MjNuWUtaa1Jrd3FTQl9CUmhxZjQtdEFpUEtCMmgtZWlyd0FoR25NaEd1blVNNFpmeDNmZldsRjE3bklkWG9MZHJhVGNDQXM1NEFtMUtSSnN0UVhJZFJHcXBnTlUtUHdra3ZkU2lLa0tneTM0cGdkX2tm?oc=5",
       "publishedAt": "2026-10-17T07:03:05.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Diretor Financeiro da Amazon Web Services afirma que os gastos com IA são sustentáveis",
-      "titleOriginal": "Exclusive: Amazon Web Services CFO says AI spending is sustainable",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5",
-      "publishedAt": "2026-10-17T06:17:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump suspende as sanções contra a Rússia previstas na Lei Graham antes que elas entrem em vigor",
-      "titleOriginal": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
-      "link": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
-      "publishedAt": "2026-10-17T02:46:56.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça pede a recusa do juiz responsável pelo processo judicial envolvendo o campo de golfe",
-      "titleOriginal": "Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html",
-      "publishedAt": "2026-10-17T02:32:14.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O adolescente que matou quatro pessoas em uma escola de ensino fundamental no Oregon era um ex-aluno, segundo a polícia",
-      "titleOriginal": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-      "publishedAt": "2026-10-17T02:23:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Katie Zacharia, a nova secretária de imprensa de Trump, é demitida após 5 dias",
-      "titleOriginal": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
-      "publishedAt": "2026-10-17T02:20:27.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump: A Casa Branca não impediu a instalação do sistema de satélites na Ucrânia",
-      "titleOriginal": "Trump: White House didn't impede satellite system in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbWxETE5PSGQyQWJNRjY1VTR1MUdNaXdlUzBoOWlGRE1CVFE4TUV3SG9kWXFkMThPRUhLbkdFVXZPbThobVFON0tpYW9BcWUxblIyM2g1SzZITlZPYXROV0ZnMFFuYzV2bmJBUFVFb01xRkNMMUhNeg?oc=5",
-      "publishedAt": "2026-10-17T02:13:20.000Z"
     }
   ]
 }
