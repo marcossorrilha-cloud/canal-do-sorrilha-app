@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-10-17T13:43:46.826Z",
+  "updatedAt": "2026-10-17T14:25:19.400Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Trump está em campanha. Mas ele não aparece nos anúncios do Partido Republicano.",
+      "titleOriginal": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
+      "link": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
+      "publishedAt": "2026-10-17T14:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Se a Suprema Corte quiser proteger a liberdade de imprensa, esta é a sua chance",
+      "titleOriginal": "If the Supreme Court wants to protect freedom of the press, here is its chance",
+      "link": "https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown/",
+      "publishedAt": "2026-10-17T14:00:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O que a Pensilvânia revela sobre as eleições de meio de mandato",
       "titleOriginal": "What Pennsylvania Reveals About the Midterms",
       "link": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
-      "publishedAt": "2026-10-17T13:38:44.000Z"
+      "publishedAt": "2026-10-17T13:42:26.000Z"
     },
     {
       "source": "New York Times",
@@ -46,8 +60,8 @@
     },
     {
       "source": "Politico",
-      "title": "Os republicanos do Kansas temem que Roger Marshall esteja ficando sem tempo",
-      "titleOriginal": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "title": "Um campo de batalha pouco esperado no Senado se transformou em um verdadeiro problema para os republicanos",
+      "titleOriginal": "A sleeper Senate battleground has turned into a real Republican liability",
       "link": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
       "publishedAt": "2026-10-17T11:00:00.000Z"
     },
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
       "publishedAt": "2026-10-17T10:11:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Resumo: A escalada da crise na Ucrânia intensifica as questões para Trump",
-      "titleOriginal": "The Memo: Ukraine's slide into crisis sharpens questions for Trump",
-      "link": "https://thehill.com/homenews/analysis/6155440-trump-zelensky-ukraine-russia-diesel-starlink/",
-      "publishedAt": "2026-10-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Ucrânia enfrenta a difícil questão de saber se será capaz de enfrentar a Rússia sem o apoio dos EUA",
-      "titleOriginal": "Ukraine faces grim question of whether it can take on Russia without US backing",
-      "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
-      "publishedAt": "2026-10-17T10:00:00.000Z"
     }
   ]
 }
