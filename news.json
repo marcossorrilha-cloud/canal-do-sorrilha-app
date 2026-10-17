@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:24:52.620Z",
+  "updatedAt": "2026-10-17T19:42:47.156Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,14 @@
       "title": "Disputa entre aliados de Trump gira em torno de pagamento proveniente do Congo",
       "titleOriginal": "Dispute Between Trump Allies Centers on Payment From Congo",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-      "publishedAt": "2026-10-17T19:03:44.000Z"
+      "publishedAt": "2026-10-17T19:39:37.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Zelensky está aberto a um acordo com a Starlink",
+      "titleOriginal": "Opinion | Zelensky Is Open to a Starlink Deal",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2RiZVJwWU42M3JnTGZyTHRnNFdfb2hfVjJBcU9qaW1PaHRqRVV0Sko5NzNaUzBkNmF6OC00TkducVR3a1NNbjJKNkZLMk9POVVuOTRvaVYzV1pPSlMyZjhKc2xwbkdORVhtczNBYjhpd3RDU1FpbnhjSko2S3AxaWVFV1JoV2lmTjdiaHhTak54d1pCeGVVNURiekI1NjlvMjBZSUE3VDY0RUJrTXFKVVR3?oc=5",
+      "publishedAt": "2026-10-17T19:36:45.000Z"
     },
     {
       "source": "The Hill",
@@ -28,11 +35,18 @@
       "title": "Anúncios gerados por IA no valor de US$ 137 milhões inundam as eleições de meio de mandato",
       "titleOriginal": "$137 Million in A.I.-Generated Ads Flood the Midterms",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
-      "publishedAt": "2026-10-17T18:24:45.000Z"
+      "publishedAt": "2026-10-17T18:24:46.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A isenção concedida por Trump em relação à Rússia gera reação bipartidária imediata",
+      "titleOriginal": "Trump's Russia waiver draws instant bipartisan backlash",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
+      "publishedAt": "2026-10-17T18:16:57.000Z"
     },
     {
       "source": "New York Times",
-      "title": "EUA estendem a mão à Rússia: permitem mais vendas de gás para a Europa",
+      "title": "EUA estendem uma mão à Rússia: permitem mais vendas de gás para a Europa",
       "titleOriginal": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
       "publishedAt": "2026-10-17T18:00:45.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
       "publishedAt": "2026-10-17T17:18:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Imigrante procurado pelo ICE no Texas — cujo agente atropelou com o carro — já está morto há anos: Relatório",
-      "titleOriginal": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
-      "link": "https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation/",
-      "publishedAt": "2026-10-17T17:12:49.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Rússia se aproxima de um satélite dos EUA, o que gera preocupações quanto às suas intenções",
-      "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb2JFdHZWb1M5d2g1SGphSEZ0Z05paWh4RE5uOFlwQ1JCeUtreEpxaElaQmZobE0yS194UlhyR1l1ZDE2X3dCZzdZLVFuQ3dyVmppMnJmLXVxZEkzVnAwZzVfa1lVYzdjNVdIUldJb2o?oc=5",
-      "publishedAt": "2026-10-17T17:00:33.000Z"
     }
   ]
 }
