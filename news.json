@@ -1,13 +1,62 @@
 {
-  "updatedAt": "2026-10-17T11:10:44.096Z",
+  "updatedAt": "2026-10-17T13:43:46.826Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O que a Pensilvânia revela sobre as eleições de meio de mandato",
+      "titleOriginal": "What Pennsylvania Reveals About the Midterms",
+      "link": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
+      "publishedAt": "2026-10-17T13:38:44.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump reaviva as teorias da conspiração sobre as eleições de 2020, com a ajuda do governo federal",
+      "titleOriginal": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
+      "publishedAt": "2026-10-17T12:58:49.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump intensifica o caos com uma enxurrada de declarações em outubro",
+      "titleOriginal": "Trump ratchets up the chaos in an October barrage",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVUFkdVBSYUVBdDFuWjNZQjEwbVdZdFpqTk1NcFpaQnJRSU5OWU5PeFpPal94bVltYjdZUUI4cWY1WUZRWm14ZHFxUzctYU9wRzRaR1JMSEJ3d2pqdjhhazV1MmpBOHAwSFVGYnQ3V2V2TnhCOHc?oc=5",
+      "publishedAt": "2026-10-17T12:41:56.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a Pensilvânia explica as forças que moldam as eleições de meio de mandato",
+      "titleOriginal": "How Pennsylvania Explains the Forces Shaping the Midterms",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
+      "publishedAt": "2026-10-17T12:33:44.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Musk diz a Isaacson que “IA e robôs” precisarão sanar o déficit",
+      "titleOriginal": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44U2w2LWYybWZUbUVseTk4VFlMcGpBN0JjamkwM2VLb1QzUksyVmdnd3k4YVZaUV9PaWFkR2ExVXFuN2hOVHNCTGFnWE1YRUNHdWtuaHFpaTE1VFd3OWtjYjU5R1hsVmVDbmdsajdlR09RY3ZXNUpRbmZtTQ?oc=5",
+      "publishedAt": "2026-10-17T12:26:56.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os eleitores negros testam o limite da esquerda socialista",
+      "titleOriginal": "Black voters test the socialist left's ceiling",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcnNsOTF1NTV0UkZjM0ZXaFBFemEzZXRJLWU1Zk0tQUxaT0U4VEZsVTRDWEZ2VUhjV1JISkhDeDMzcjhFQnJfaGNockM2aWR3MVllcWcwVkc0enBiR3FvMlFNdHk3NVBFNHc4NWZyRXliQ3ZFckE?oc=5",
+      "publishedAt": "2026-10-17T12:21:30.000Z"
+    },
     {
       "source": "Politico",
       "title": "Os republicanos do Kansas temem que Roger Marshall esteja ficando sem tempo",
       "titleOriginal": "Kansas Republicans fear Roger Marshall may be running out of time",
       "link": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
       "publishedAt": "2026-10-17T11:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump suspende novas sanções contra a Rússia em nome dos “interesses nacionais”",
+      "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
+      "publishedAt": "2026-10-17T10:11:58.000Z"
     },
     {
       "source": "The Hill",
@@ -22,55 +71,6 @@
       "titleOriginal": "Ukraine faces grim question of whether it can take on Russia without US backing",
       "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
       "publishedAt": "2026-10-17T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O seguro saúde é a questão subestimada das eleições de meio de mandato: por que os prêmios estão disparando",
-      "titleOriginal": "Health insurance is the sleeper midterms issue: Why premiums are spiking",
-      "link": "https://thehill.com/policy/healthcare/6155375-aca-costs-to-spike-next-month/",
-      "publishedAt": "2026-10-17T10:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump suspende novas sanções contra a Rússia em nome dos “interesses nacionais”",
-      "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
-      "publishedAt": "2026-10-17T09:59:46.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que a direita europeia está rompendo com o MAGA",
-      "titleOriginal": "Why Europe’s Right Is Breaking Up With MAGA",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3RmdzZqNXJ6S2M5c0FLNGdPeEhDZ3hnV1E5YTRIamF3WTB5VkZHYmZJbUJDdmphRU50aFlLZnZyTkltRWFway1lOEpHbWlzdTFsS2p2b2RYMDYtQkU5djc4bHB3YVRDaDVDQWQwVW1lRmUxcGdCSGJwSnR0UTVudWFRcnU3bnlM?oc=5",
-      "publishedAt": "2026-10-17T09:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump reaviva as teorias da conspiração sobre as eleições de 2020, com a ajuda do governo federal",
-      "titleOriginal": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
-      "publishedAt": "2026-10-17T09:02:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a Pensilvânia explica as forças que moldam as eleições de meio de mandato",
-      "titleOriginal": "How Pennsylvania Explains the Forces Shaping the Midterms",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
-      "publishedAt": "2026-10-17T09:01:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que a Pensilvânia revela sobre as eleições intermediárias",
-      "titleOriginal": "What Pennsylvania Reveals About the Midterms",
-      "link": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
-      "publishedAt": "2026-10-17T09:00:55.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Repreendendo um tribunal insubordinado",
-      "titleOriginal": "Opinion | Slapping Down an Insubordinate Court",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDZoR1BhZUtmNjJ3MEtSLXVWS1JSSG5wbm53MjNuWUtaa1Jrd3FTQl9CUmhxZjQtdEFpUEtCMmgtZWlyd0FoR25NaEd1blVNNFpmeDNmZldsRjE3bklkWG9MZHJhVGNDQXM1NEFtMUtSSnN0UVhJZFJHcXBnTlUtUHdra3ZkU2lLa0tneTM0cGdkX2tm?oc=5",
-      "publishedAt": "2026-10-17T07:03:05.000Z"
     }
   ]
 }
