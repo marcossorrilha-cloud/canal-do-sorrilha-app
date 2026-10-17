@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-17T14:25:19.400Z",
+  "updatedAt": "2026-10-17T17:11:30.051Z",
   "count": 10,
   "items": [
     {
-      "source": "Politico",
-      "title": "Trump está em campanha. Mas ele não aparece nos anúncios do Partido Republicano.",
-      "titleOriginal": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
-      "link": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
-      "publishedAt": "2026-10-17T14:00:00.000Z"
+      "source": "Axios",
+      "title": "A Rússia se aproxima de um satélite dos EUA, o que suscita preocupações quanto às suas intenções",
+      "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb2JFdHZWb1M5d2g1SGphSEZ0Z05paWh4RE5uOFlwQ1JCeUtreEpxaElaQmZobE0yS194UlhyR1l1ZDE2X3dCZzdZLVFuQ3dyVmppMnJmLXVxZEkzVnAwZzVfa1lVYzdjNVdIUldJb2o?oc=5",
+      "publishedAt": "2026-10-17T17:00:33.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Disputa entre aliados de Trump gira em torno de pagamento proveniente do Congo",
+      "titleOriginal": "Dispute Between Trump Allies Centers on Payment From Congo",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+      "publishedAt": "2026-10-17T16:59:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O desertor russo de 26 anos que repassou à Ucrânia os planos de batalha do seu exército",
+      "titleOriginal": "The 26-Year-Old Russian Defector Who Fed Ukraine His Army’s Battle Plans",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHQ1V2tYWHFnWnV0SnlaZVBmSkw3YVRqdzRVTXYtbWRaU3N5dHF0amxmbGhhOUdQMjE1ZDBXM0V2b0JnbkFmNldTVHFlX1QwdTRYOEltT3RzQ0dDa1E2ellVU1c1dVVVNHpBT2VJcy0ySzNCdURDOVlhTVM3eDVCdFQ2VjJOWURYc2ZfLWtVcWpqcVBQVWlnN0g2cXp3eXBfdDRITEFlYThjWlFpVmZZMVNwQTN5NWtZ?oc=5",
+      "publishedAt": "2026-10-17T16:25:08.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Se a Suprema Corte quiser proteger a liberdade de imprensa, esta é a sua chance",
-      "titleOriginal": "If the Supreme Court wants to protect freedom of the press, here is its chance",
-      "link": "https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown/",
-      "publishedAt": "2026-10-17T14:00:00.000Z"
+      "title": "Schumer: “Trump acabou de dar a Putin o melhor presente de aniversário que ele vai receber este ano”",
+      "titleOriginal": "Schumer: 'Trump just gave Putin the best birthday gift he’ll get this year'",
+      "link": "https://thehill.com/homenews/senate/6155906-schumer-slams-trump-putin/",
+      "publishedAt": "2026-10-17T16:06:28.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O que a Pensilvânia revela sobre as eleições de meio de mandato",
-      "titleOriginal": "What Pennsylvania Reveals About the Midterms",
-      "link": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
-      "publishedAt": "2026-10-17T13:42:26.000Z"
+      "source": "The Hill",
+      "title": "Rahm Emanuel experimenta uma nova trajetória nas primárias: “consultor-chefe” do Partido Democrata",
+      "titleOriginal": "Rahm Emanuel tries out a new primary lane: Democratic ‘consultant in chief’",
+      "link": "https://thehill.com/homenews/campaign/6155340-rahm-emanuel-democratic-presidential-run/",
+      "publishedAt": "2026-10-17T16:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Trump reaviva as teorias da conspiração sobre as eleições de 2020, com a ajuda do governo federal",
-      "titleOriginal": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
-      "publishedAt": "2026-10-17T12:58:49.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump intensifica o caos com uma enxurrada de declarações em outubro",
-      "titleOriginal": "Trump ratchets up the chaos in an October barrage",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVUFkdVBSYUVBdDFuWjNZQjEwbVdZdFpqTk1NcFpaQnJRSU5OWU5PeFpPal94bVltYjdZUUI4cWY1WUZRWm14ZHFxUzctYU9wRzRaR1JMSEJ3d2pqdjhhazV1MmpBOHAwSFVGYnQ3V2V2TnhCOHc?oc=5",
-      "publishedAt": "2026-10-17T12:41:56.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como a Pensilvânia explica as forças que moldam as eleições de meio de mandato",
-      "titleOriginal": "How Pennsylvania Explains the Forces Shaping the Midterms",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
-      "publishedAt": "2026-10-17T12:33:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Musk diz a Isaacson que “IA e robôs” precisarão sanar o déficit",
-      "titleOriginal": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44U2w2LWYybWZUbUVseTk4VFlMcGpBN0JjamkwM2VLb1QzUksyVmdnd3k4YVZaUV9PaWFkR2ExVXFuN2hOVHNCTGFnWE1YRUNHdWtuaHFpaTE1VFd3OWtjYjU5R1hsVmVDbmdsajdlR09RY3ZXNUpRbmZtTQ?oc=5",
-      "publishedAt": "2026-10-17T12:26:56.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os eleitores negros testam o limite da esquerda socialista",
-      "titleOriginal": "Black voters test the socialist left's ceiling",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcnNsOTF1NTV0UkZjM0ZXaFBFemEzZXRJLWU1Zk0tQUxaT0U4VEZsVTRDWEZ2VUhjV1JISkhDeDMzcjhFQnJfaGNockM2aWR3MVllcWcwVkc0enBiR3FvMlFNdHk3NVBFNHc4NWZyRXliQ3ZFckE?oc=5",
-      "publishedAt": "2026-10-17T12:21:30.000Z"
+      "source": "The Hill",
+      "title": "Projetos finais do arco de Trump apresentados à prefeitura omitem o complexo militar proposto",
+      "titleOriginal": "Final Trump arch plans submitted to city omit proposed military complex",
+      "link": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/",
+      "publishedAt": "2026-10-17T14:45:12.000Z"
     },
     {
       "source": "Politico",
-      "title": "Um campo de batalha pouco esperado no Senado se transformou em um verdadeiro problema para os republicanos",
-      "titleOriginal": "A sleeper Senate battleground has turned into a real Republican liability",
-      "link": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
-      "publishedAt": "2026-10-17T11:00:00.000Z"
+      "title": "Sullivan mantém uma postura neutra em relação a Trump na disputa pelo Senado no Alasca",
+      "titleOriginal": "Sullivan walks the line with Trump in Alaska Senate race",
+      "link": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
+      "publishedAt": "2026-10-17T14:45:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Trump suspende novas sanções contra a Rússia em nome dos “interesses nacionais”",
-      "titleOriginal": "Trump waives new Russia sanctions in the \"national interests\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
-      "publishedAt": "2026-10-17T10:11:58.000Z"
+      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
+      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
+      "publishedAt": "2026-10-17T14:41:58.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky afirma que as sanções contra a Rússia, das quais Trump dispensou a aplicação, “poderiam ter ajudado enormemente”",
+      "titleOriginal": "Zelensky says Russian sanctions Trump waived 'could have helped enormously'",
+      "link": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
+      "publishedAt": "2026-10-17T14:08:22.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Diretor Financeiro da Amazon Web Services afirma que os gastos com IA são sustentáveis",
+      "titleOriginal": "Exclusive: Amazon Web Services CFO says AI spending is sustainable",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5",
+      "publishedAt": "2026-10-17T14:03:01.000Z"
     }
   ]
 }
