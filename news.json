@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-18T17:33:00.331Z",
+  "updatedAt": "2026-10-18T18:06:44.291Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Futuros do petróleo sobem devido a preocupações com o Oriente Médio e a Rússia-Ucrânia",
-      "titleOriginal": "Oil Futures Rise on Middle East, Russia-Ukraine Concerns",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlhVbW1hN3VaS2xQWTRNVHc1MGNIektPR0wzd2V5LWEtcmtZUXRSY1ZWYjJjSUVZZElTaFV4c0VfSnJhbHhBdGlHbjE4bkZDN0lfTnNxLXFxeFR3bnVqY21tSl9YdkZHTlY4VjYwYTVxZmFZV181ZHo0RXVFOEw0UDJoVXNYbWpfT1d2cHUza0FBekFXZzRRMTZlUkJYd2RUSlFxWEhLTHVRNjVZRk9xa0JhQzl0UQ?oc=5",
-      "publishedAt": "2026-10-18T17:11:41.000Z"
+      "source": "The Hill",
+      "title": "Zelensky afirma que “é claro” que a Ucrânia confia nos EUA e espera que Trump “mude suas decisões”",
+      "titleOriginal": "Zelensky says 'of course' Ukraine trusts the US, hopes Trump will 'change his decisions'",
+      "link": "https://thehill.com/policy/international/6156570-zelensky-hopes-trump-changes-decision/",
+      "publishedAt": "2026-10-18T17:55:18.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Wright considera o acordo sobre o diesel de Trump um incentivo à paz. Rubio afirma que a Rússia venderia de qualquer maneira.",
+      "titleOriginal": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNal9zN3ZsaVg1TkVYRF9Xd1dMMmE1Slk0ZWE1ZG0ycTkzX2FzbXA4R0dBTGNYcWk5UnA2dERqcmc2RllaY1J4VXozbEdkWHZTUk02WkxQRmxMUUJVQXY3U3JuMG1OcEtmc2x1R3oxVmRoMnBialA4UXlfSXpSVkh1RHVWNHJ6R3c?oc=5",
+      "publishedAt": "2026-10-18T17:41:49.000Z"
     },
     {
       "source": "Politico",
@@ -18,17 +25,17 @@
     },
     {
       "source": "Wall Street Journal",
+      "title": "Até que ponto o Partido Democrata é liberal? Nossa pesquisa revela resistência a uma guinada para a esquerda",
+      "titleOriginal": "How Liberal Is the Democratic Party? Our Poll Finds Resistance to a Leftward Shift",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnZyWnJnZ3B5NjVfQkVpNmZHYUFsNUxGM3Y0VDQ0TEZ3Zmt5emRBVDVaWnJWdHA5RmJnc00zamZoV0N5emVMLUdXcHl1VFc0aXBWSU5DeVlvZ0x1TUZrdFNHdTk2V3NkMGdoUDg2MlBNR3hzSXM4X2ZtWk1oV1BBWWN2enV4a2M3Z0RhcERlckFYdEF6aUpnQ2VuMjJyRFc1T1hSeDNMRTh4cDNINjRQNlZhc014OWRoQ2pB?oc=5",
+      "publishedAt": "2026-10-18T17:05:11.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
       "title": "Exclusivo | Preços do diesel permanecem altos, apesar dos esforços para aumentar a oferta global",
       "titleOriginal": "Exclusive | Diesel Prices Hold High Despite Efforts to Boost Global Supplies",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcERkZnNCRk5MTUxhdHJhbGFyUVE2ZGlFT1JwRER0WjhJaUFGYzlzc0RpYzZESWx2b2t1S1lJazJUbkh5UUJtZ0hQUW9ZYUEwOWZiYXhDRFl2S2dNcmdUVWs1SEVFWFlIVXNMbVZVOGRtdGhhb1lMX1hxZGFPU2xiVURZUVRLT2Uxc09vR2JoMW1DazUxUFkzbXVIUF9abWEzZU81TXRLeVQ0TThBVDhWc1h4WQ?oc=5",
       "publishedAt": "2026-10-18T17:01:24.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
-      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
-      "publishedAt": "2026-10-18T16:51:26.000Z"
     },
     {
       "source": "The Hill",
@@ -57,13 +64,6 @@
       "titleOriginal": "Trump says he will close historic DC golf course for 15 months of renovations",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5",
       "publishedAt": "2026-10-18T16:37:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Pensilvânia está testando se a coalizão da classe trabalhadora do Partido Republicano está se desintegrando",
-      "titleOriginal": "Pennsylvania Testing Whether GOP’s Working-Class Coalition Is Cracking",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazZFZ1g1d1pBeW1vZnp6aG95YXhEVWc2SnRnaVBYS0hRT1k2dUpXWkdjdGlXZ0N4d2FzaGZKMjcxTXRXOEpIRkpwclhFVHRYQUppbFVJb2tZUHdkci1rQ2dreFQzQmJBOXhjMUZzSk5semZ4NnlzLVg1QTZxWmRzWGNEbHAzUk5vUFBvSmVXSW9vOHB3VWxZZXRHeTFtRENaTnNFQ0xwa1gtOTE2SVdvU285TVdmODRI?oc=5",
-      "publishedAt": "2026-10-18T16:30:41.000Z"
     },
     {
       "source": "Axios",
