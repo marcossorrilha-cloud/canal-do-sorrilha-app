@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-18T09:53:26.343Z",
+  "updatedAt": "2026-10-18T11:06:50.536Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Os republicanos alertam que os recursos do Pentágono dependerão de Trump adotar uma postura mais dura em relação à Rússia",
+      "titleOriginal": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+      "link": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
+      "publishedAt": "2026-10-18T10:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Imigrantes processam o ICE por supostamente reter passaportes e outros documentos",
+      "titleOriginal": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUhvQjczanY4ajhDZ002a1FCanZzcWxfY0ItenRkU1ZyaFFXU2pkOFgxVExDM3ZzbDZPYVlyd0lHRUlBM3RuWjFWbnFzekFkSHZDTlk1NGtVQjBURmxWVVMydS1JU0JLZE5pS1FZU2RueXBEY1F0RE1LaWxnRFNDRDlCdkJsazRRdUxoZHE2S1V5MkZqMUxSQXQ2NUdrOWF5WkJ1MzVicEdlX3dCU3lNdnhHZXF1UQ?oc=5",
+      "publishedAt": "2026-10-18T09:49:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como Zelensky decidiu correr o risco e confrontar Trump publicamente",
+      "titleOriginal": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
+      "publishedAt": "2026-10-18T09:30:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Em toda a região rural, o descontentamento econômico abala a coalizão republicana",
@@ -31,8 +52,15 @@
       "publishedAt": "2026-10-18T05:42:51.000Z"
     },
     {
+      "source": "Axios",
+      "title": "A isenção concedida por Trump em relação à Rússia gera reação bipartidária imediata",
+      "titleOriginal": "Trump's Russia waiver draws instant bipartisan backlash",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
+      "publishedAt": "2026-10-18T04:36:30.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "O desertor russo de 26 anos que repassou à Ucrânia os planos de batalha do seu exército",
+      "title": "O desertor russo de 26 anos que passou para a Ucrânia os planos de batalha de seu exército",
       "titleOriginal": "The 26-Year-Old Russian Defector Who Fed Ukraine His Army’s Battle Plans",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHQ1V2tYWHFnWnV0SnlaZVBmSkw3YVRqdzRVTXYtbWRaU3N5dHF0amxmbGhhOUdQMjE1ZDBXM0V2b0JnbkFmNldTVHFlX1QwdTRYOEltT3RzQ0dDa1E2ellVU1c1dVVVNHpBT2VJcy0ySzNCdURDOVlhTVM3eDVCdFQ2VjJOWURYc2ZfLWtVcWpqcVBQVWlnN0g2cXp3eXBfdDRITEFlYThjWlFpVmZZMVNwQTN5NWtZ?oc=5",
       "publishedAt": "2026-10-18T04:08:55.000Z"
@@ -43,34 +71,6 @@
       "titleOriginal": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
       "publishedAt": "2026-10-18T03:31:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Shapiro lança um super PAC à medida que aumentam as especulações sobre uma possível candidatura à presidência",
-      "titleOriginal": "Shapiro launches super PAC as presidential speculation mounts",
-      "link": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/",
-      "publishedAt": "2026-10-18T02:38:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A Rússia se aproxima de um satélite dos EUA, o que suscita preocupações quanto às suas intenções",
-      "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb2JFdHZWb1M5d2g1SGphSEZ0Z05paWh4RE5uOFlwQ1JCeUtreEpxaElaQmZobE0yS194UlhyR1l1ZDE2X3dCZzdZLVFuQ3dyVmppMnJmLXVxZEkzVnAwZzVfa1lVYzdjNVdIUldJb2o?oc=5",
-      "publishedAt": "2026-10-18T01:32:46.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como Zelensky decidiu correr o risco e confrontar Trump publicamente",
-      "titleOriginal": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
-      "publishedAt": "2026-10-18T01:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Na reta final da campanha para as eleições de meio de mandato, Trump não consegue parar de elogiar o corpo dos homens",
-      "titleOriginal": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
-      "publishedAt": "2026-10-17T23:54:30.000Z"
     }
   ]
 }
