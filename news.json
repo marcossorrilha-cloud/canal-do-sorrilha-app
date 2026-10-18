@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-18T14:09:41.778Z",
+  "updatedAt": "2026-10-18T14:35:03.495Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Imigrantes processam o ICE por supostamente reter passaportes e outros documentos",
+      "titleOriginal": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUhvQjczanY4ajhDZ002a1FCanZzcWxfY0ItenRkU1ZyaFFXU2pkOFgxVExDM3ZzbDZPYVlyd0lHRUlBM3RuWjFWbnFzekFkSHZDTlk1NGtVQjBURmxWVVMydS1JU0JLZE5pS1FZU2RueXBEY1F0RE1LaWxnRFNDRDlCdkJsazRRdUxoZHE2S1V5MkZqMUxSQXQ2NUdrOWF5WkJ1MzVicEdlX3dCU3lNdnhHZXF1UQ?oc=5",
+      "publishedAt": "2026-10-18T14:19:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preço do petróleo sobe com o recrudescimento dos conflitos no Oriente Médio e na Ucrânia",
+      "titleOriginal": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+      "publishedAt": "2026-10-18T14:10:15.000Z"
+    },
+    {
       "source": "Politico",
-      "title": "Warnock quer que os democratas se concentrem no Sul. Ele está começando pelo Mississippi.",
+      "title": "Warnock quer que os democratas concentrem seus esforços no Sul. Ele está começando pelo Mississippi.",
       "titleOriginal": "Warnock wants Democrats to focus on the South. He’s starting in Mississippi.",
       "link": "https://www.politico.com/news/2026/10/18/warnock-mississippi-senate-colom-southern-voters-01123450",
       "publishedAt": "2026-10-18T14:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Ucrânia ataca São Petersburgo com mais de 1.000 drones",
-      "titleOriginal": "Ukraine strikes St Petersburg with over 1,000 drones",
-      "link": "https://thehill.com/policy/international/6156407-ukraine-drone-attack-russia-oil/",
-      "publishedAt": "2026-10-18T13:29:13.000Z"
     },
     {
       "source": "The Hill",
@@ -32,13 +39,6 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Ucrânia se apressa a construir defesas contra os drones a jato da Rússia",
-      "titleOriginal": "Ukraine Hurries to Build Defenses Against Russia’s Jet-Powered Drones",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9odVZsQV83TE9ocno2LV9rZTktbWlzYWNuSUNSekNWYXJBZjR5Rzc5eDZHRTBzeGxCMkR6eC00ME5GN2ZsdDl2aWl1YmRvN3ViVUZ3Q1VLUGtPbVVHa0Vra0VwbzVyRVBXMExqWE9rdjhaLVQ2TUlFUA?oc=5",
-      "publishedAt": "2026-10-18T13:01:38.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "O Novo Voto Jovem",
       "titleOriginal": "The New Youth Vote",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYcC02WXV3YjdlVVJlc3FVeW1Pc0k0Y0Juc2diUUNlRVozc2F6bFdWWTduNW00NENUM1ZkNmlBNllwT3RxRGloZjFDSk1ZSnFQZXI1OEtIQlo5R2JnMWt2WWw2ZFVRZEpfM2k4Z0lrQ2VNVmRZ?oc=5",
@@ -53,7 +53,7 @@
     },
     {
       "source": "Axios",
-      "title": "As sequências de vitórias do Partido Republicano, que já duram décadas, estão de repente em risco",
+      "title": "As sequências de vitórias do Partido Republicano, que já duram décadas, estão repentinamente em risco",
       "titleOriginal": "Decades-old GOP winning streaks are suddenly at risk",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGZ6Y0NLbmdrSVBWN09aeDBRdVB0UGR1b3NicGpVb2dGdHlkWlpBdFFscUE3RTJGMzZ2Q1E4cXpIbEFLUGxGT1liNDNUVFRsRHVIdHoyMGRiYTNjc2JSZTV0eEF6bm5URjN5SVFKUFg3aFZtX1RWMlgyTkFCbU9RRXdDcEhoUQ?oc=5",
       "publishedAt": "2026-10-18T12:13:24.000Z"
