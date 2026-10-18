@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-18T18:06:44.291Z",
+  "updatedAt": "2026-10-18T19:41:11.661Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | O plano de saúde de Abdul El-Sayed",
+      "titleOriginal": "Opinion | Abdul El-Sayed’s Healthcare Plan",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84dFdSdkZ1Vk9RS2tLYlpzb1pEUlVtSFVycWxSMzRzbm9JcU41T3dFY1pEV3ZUNXBkaV9pR0NhWjVvdnNTSXlyZV81SFZfWnRSVkFsckZkRUZxdzlBYjNiY2VuLUhINVFJQVJzSnVmNzk4U0RpRFVv?oc=5",
+      "publishedAt": "2026-10-18T19:33:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Novo Voto Jovem",
+      "titleOriginal": "The New Youth Vote",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYcC02WXV3YjdlVVJlc3FVeW1Pc0k0Y0Juc2diUUNlRVozc2F6bFdWWTduNW00NENUM1ZkNmlBNllwT3RxRGloZjFDSk1ZSnFQZXI1OEtIQlo5R2JnMWt2WWw2ZFVRZEpfM2k4Z0lrQ2VNVmRZ?oc=5",
+      "publishedAt": "2026-10-18T19:28:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Todas as desculpas do presidente sobre a eleição",
+      "titleOriginal": "Opinion | All the President’s Election Excuses",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMm0tYXB5dUNKZXFPb1pZYkVMUjJMWlBuX25MNWNVMGRoMU43MzB4bEdJeUtGeDlPcjJmc1g5eVJYNDhNX0FPV0FiRDJkUjRLcmc2UTAxc3hncUJmRWF5VW1McE5yWEJMT3llaDlxYjBKM2JYem93dE45X1lsNHhIdmZZTDc1WmJnazFWWHY5cmVqRnMxMHJBa0NxeDNYQVVIYUpaNjBn?oc=5",
+      "publishedAt": "2026-10-18T19:12:43.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump apresenta plano rápido para fechar e reformar o campo de golfe em Washington, D.C.",
+      "titleOriginal": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
+      "publishedAt": "2026-10-18T19:11:55.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bessent afirma que a queda nos preços do petróleo antes do final de 2026 “dependerá” do conflito com o Irã",
+      "titleOriginal": "Bessent says dropping oil prices before 2026 ends 'will depend' on Iran conflict",
+      "link": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
+      "publishedAt": "2026-10-18T18:58:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A prática dos controladores de tráfego aéreo de sair mais cedo do trabalho é alvo de acordo salarial",
+      "titleOriginal": "Exclusive | Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1k1NXU3bElLb3dJMlgwUUppbkJ6Wi1IMVRIYVM0bEVZY2dDX0phQThyQndSLWE5Rm9aZEkxZVBxMnloR1psQkowclN0YzJlc05kcGRuRG5XUl9GZm52SWswbXRXWlVkbjNUdzhLNTcyc2kzcFM0ZzNWRVRVUFI2UkxYVjhBMGZqZGFMbFdKUVI0aHhudE5hb0ZmeWM1ODdSOGxN?oc=5",
+      "publishedAt": "2026-10-18T18:50:16.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump explica à Axios por que apoiou a reeleição de Netanyahu em Israel",
+      "titleOriginal": "Trump tells Axios why he endorsed Netanyahu's reelection in Israel",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5",
+      "publishedAt": "2026-10-18T18:39:16.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Zelensky conversa com Witkoff e Kushner em meio à crise entre os EUA e a Ucrânia",
+      "titleOriginal": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemV3Q1pHQl9WWlRpc1kzODBWbjByMUxxeGJFVmE3bUlkWWR4dTZpRVl4c2p3TWM2Um1Wb0Z3RWE4TmlKcTVxdjczS012aGxNZU8tOGpyX1NkOGFENnprQlV6M1dQbnpicklmYjBZak05dHRnRzJNbFhUVEtSUWZCc3U0WldTdw?oc=5",
+      "publishedAt": "2026-10-18T18:07:12.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Zelensky afirma que “é claro” que a Ucrânia confia nos EUA e espera que Trump “mude suas decisões”",
@@ -11,66 +67,10 @@
     },
     {
       "source": "Axios",
-      "title": "Wright considera o acordo sobre o diesel de Trump um incentivo à paz. Rubio afirma que a Rússia venderia de qualquer maneira.",
+      "title": "Wright considera o acordo de Trump sobre o diesel um incentivo à paz. Rubio afirma que a Rússia venderia de qualquer maneira.",
       "titleOriginal": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNal9zN3ZsaVg1TkVYRF9Xd1dMMmE1Slk0ZWE1ZG0ycTkzX2FzbXA4R0dBTGNYcWk5UnA2dERqcmc2RllaY1J4VXozbEdkWHZTUk02WkxQRmxMUUJVQXY3U3JuMG1OcEtmc2x1R3oxVmRoMnBialA4UXlfSXpSVkh1RHVWNHJ6R3c?oc=5",
       "publishedAt": "2026-10-18T17:41:49.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "A estrela do Tejano dos democratas canta para conquistar o sul do Texas",
-      "titleOriginal": "Democrats’ Tejano star sings to swing South Texas",
-      "link": "https://www.politico.com/news/2026/10/18/pulido-concert-texas-latinos-01125609",
-      "publishedAt": "2026-10-18T17:05:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Até que ponto o Partido Democrata é liberal? Nossa pesquisa revela resistência a uma guinada para a esquerda",
-      "titleOriginal": "How Liberal Is the Democratic Party? Our Poll Finds Resistance to a Leftward Shift",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnZyWnJnZ3B5NjVfQkVpNmZHYUFsNUxGM3Y0VDQ0TEZ3Zmt5emRBVDVaWnJWdHA5RmJnc00zamZoV0N5emVMLUdXcHl1VFc0aXBWSU5DeVlvZ0x1TUZrdFNHdTk2V3NkMGdoUDg2MlBNR3hzSXM4X2ZtWk1oV1BBWWN2enV4a2M3Z0RhcERlckFYdEF6aUpnQ2VuMjJyRFc1T1hSeDNMRTh4cDNINjRQNlZhc014OWRoQ2pB?oc=5",
-      "publishedAt": "2026-10-18T17:05:11.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Preços do diesel permanecem altos, apesar dos esforços para aumentar a oferta global",
-      "titleOriginal": "Exclusive | Diesel Prices Hold High Despite Efforts to Boost Global Supplies",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcERkZnNCRk5MTUxhdHJhbGFyUVE2ZGlFT1JwRER0WjhJaUFGYzlzc0RpYzZESWx2b2t1S1lJazJUbkh5UUJtZ0hQUW9ZYUEwOWZiYXhDRFl2S2dNcmdUVWs1SEVFWFlIVXNMbVZVOGRtdGhhb1lMX1hxZGFPU2xiVURZUVRLT2Uxc09vR2JoMW1DazUxUFkzbXVIUF9abWEzZU81TXRLeVQ0TThBVDhWc1h4WQ?oc=5",
-      "publishedAt": "2026-10-18T17:01:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent: Zelensky “deveria ter cuidado” com comentários “imprudentes” de que os EUA teriam retardado o Starlink",
-      "titleOriginal": "Bessent: Zelensky 'should be careful' with 'reckless' comments that US slowed down Starlink",
-      "link": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/",
-      "publishedAt": "2026-10-18T16:48:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Carney afirma que quatro militares morreram e dezenas ficaram feridos em incêndio em base militar em Alberta",
-      "titleOriginal": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
-      "publishedAt": "2026-10-18T16:45:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A mais nova arma dos grandes escritórios de advocacia para atrair talentos e clientes: a marca corporativa",
-      "titleOriginal": "Big Law’s Latest Weapon to Win Talent and Clients: Corporate Branding",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEJWRTM5N2o3UGpjVmxaWkNvY3VPRFZUaUU5Tm5MUEFQRGl5d1pKYjNhQ1BPNkd6ZjBCbzhKenlrdU80UHkzd05ELWlOSmYxejctcFdGbGpKT3VGWW5ELWpJM2s3ME9vamJqRGEyYnFRRGxqbzJtb2FfT3N3eU9JcUJ3YjBiTWNzRnhrN2s3MERnTmdhdUlNS3paVHE4TVE3THFqaHhXZF94dw?oc=5",
-      "publishedAt": "2026-10-18T16:44:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump afirma que fechará o histórico campo de golfe de Washington, D.C., por 15 meses para reformas",
-      "titleOriginal": "Trump says he will close historic DC golf course for 15 months of renovations",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5",
-      "publishedAt": "2026-10-18T16:37:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump já chegou a questionar a cidadania de Obama. Agora, Obama está se manifestando em defesa de Ilhan Omar.",
-      "titleOriginal": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnpTV2JTem1PdDZiYl96aklFcGhLLXNlNk9QZGpLZHBuUjF3ekJNT1FvUGNRMHN5dUMtdHgtX21ZeFBvWG5YZF90TkdVeTQyVGE5dTdlT1R6dkhIRlY5ZTdlbjd4Qk9BX19jdnh4ejNiNExnVnZDeHU1dWZNWHpCOUE1b0ttOW9xOWJhMW1jZ0VTLW1VblRSdjBn?oc=5",
-      "publishedAt": "2026-10-18T16:25:47.000Z"
     }
   ]
 }
