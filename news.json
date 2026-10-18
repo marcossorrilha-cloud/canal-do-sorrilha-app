@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-18T00:19:41.672Z",
+  "updatedAt": "2026-10-18T01:03:37.227Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
+      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
+      "publishedAt": "2026-10-18T00:24:41.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A decisão de Trump de suspender as sanções contra a Rússia indigna o Congresso, mas não se prevê uma reação imediata",
+      "titleOriginal": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
+      "publishedAt": "2026-10-18T00:16:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Na reta final da campanha para as eleições de meio de mandato, Trump não consegue parar de elogiar o corpo dos homens",
       "titleOriginal": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
       "publishedAt": "2026-10-17T23:54:30.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
-      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
-      "publishedAt": "2026-10-17T23:40:23.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -39,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Deputado republicano Scott Perry está um pouco atrás na disputa pela reeleição na Pensilvânia: pesquisa",
+      "title": "Deputado federal do Partido Republicano, Scott Perry, está um pouco atrás na disputa pela reeleição na Pensilvânia: pesquisa",
       "titleOriginal": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
       "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/",
       "publishedAt": "2026-10-17T21:46:48.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
       "publishedAt": "2026-10-17T20:45:21.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Vladimir Putin",
-      "titleOriginal": "Vladimir Putin",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5",
-      "publishedAt": "2026-10-17T19:55:49.000Z"
     }
   ]
 }
