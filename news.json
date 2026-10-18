@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-10-18T05:08:58.361Z",
+  "updatedAt": "2026-10-18T05:55:00.165Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Bernie Sanders visita a Flórida para fazer campanha com Angie Nixon",
+      "titleOriginal": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+      "publishedAt": "2026-10-18T05:42:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Uma startup de IA para o clima conquistou o apoio da Nvidia — depois de deixar a questão climática de lado",
+      "titleOriginal": "An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNak9mU2RoMUtpX2tSZlY3YTJwMms2UDZMVnNqTGJSTkdTTTBtdm5Cc3pHUUg4V2p2Um1SWmhTWGF1TUhIcmZZYWU3R2ZxYjVYRWRURDdHNXRUN0stSEU1STFrZ2t1Nko4RjFKRGF5NmRuX0RsMEhRMEhCNUFBQ0NoWmZ2LVpmVzR6MFZRTGlFVFRoLXhYQWZ6MjREMGRwb01EZWZBTjB5dTdTTXJjemVNVTE1MVFLTERoSmV6VG9NMmdxQ09aNFpVZm5XUQ?oc=5",
+      "publishedAt": "2026-10-18T05:20:13.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
+      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda enfrenta restrições na Ucrânia",
       "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
-      "publishedAt": "2026-10-18T04:29:32.000Z"
+      "publishedAt": "2026-10-18T05:17:52.000Z"
     },
     {
       "source": "AP News",
-      "title": "Vance enfrenta perguntas difíceis sobre a guerra no Irã, imigração e outros temas em debate aberto da CBS",
+      "title": "Vance enfrenta perguntas difíceis sobre a guerra no Irã, imigração e outros assuntos em debate aberto da CBS",
       "titleOriginal": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
       "publishedAt": "2026-10-18T03:31:00.000Z"
@@ -22,20 +36,6 @@
       "titleOriginal": "Shapiro launches super PAC as presidential speculation mounts",
       "link": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/",
       "publishedAt": "2026-10-18T02:38:31.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Pesquisa AP Top 25",
-      "titleOriginal": "AP Top 25 Poll",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-      "publishedAt": "2026-10-18T01:55:32.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bernie Sanders visita a Flórida para fazer campanha com Angie Nixon",
-      "titleOriginal": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-      "publishedAt": "2026-10-18T01:34:13.000Z"
     },
     {
       "source": "AP News",
@@ -56,7 +56,7 @@
       "title": "A função de alto risco do médico da Casa Branca de Trump",
       "titleOriginal": "The High-Stakes Job of Trump’s White House Physician",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2tFbVRSdzN5cjdhUHk3WU5IVnlIUzRldExfOUVnSXJ5N3QxRkVpUEhwSlNkLUtRVVdOMW9fX2hMSUFxVDF6MFVsNlExRjJ5QmFiTTBvS2xMQmg5MGxjQWVER24zUHpqcGlmZERGR1RjdDMtSG1SWGl3bVJBNjVaZmFtQ2JXaTZH?oc=5",
-      "publishedAt": "2026-10-17T23:00:00.000Z"
+      "publishedAt": "2026-10-17T23:00:44.000Z"
     },
     {
       "source": "Axios",
