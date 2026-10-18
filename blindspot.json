@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-17T17:11:37.459Z",
-  "slot": "2026-10-17-PM",
+  "updatedAt": "2026-10-18T05:09:05.326Z",
+  "slot": "2026-10-18-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Membros do Congresso condenam ataque de colonos israelenses a fotógrafo do “Washington Post”",
-      "titleOriginal": "Congress members condemn Israeli settler attack on Washington Post photographer",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamxaaU9iamxYdlFCSmVzOHctQ1l1R1JKNm0zWjhkV3hGMmlsaFBDNkRtZmU5VXdyazgzUTdOb3ZLa1dMenpzZDVpT2cwSFVxY1RFT0I3TGxiQjZPNy1wY0V5NnFiZXR4QXJGYUFMcDQta3lrRVRROG93QU8yVzdzOEc0ZGx0SnA0VEZXYWVSSW9RMXZIWUIyZjRGNWVIRFRlNW1DTXNyaW9jUVl4RFhJRXRCNzYyQ1o5YkE?oc=5",
-      "source": "Washington Post",
-      "coverage": 5
+      "title": "Planos finais para o arco triunfal de 250 pés deixam de fora a ideia de Trump de um complexo militar",
+      "titleOriginal": "Final plans for 250-foot triumphal arch omit Trump’s idea for military complex",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGZXUW8wVThpSXVzNlo2U1o5MmJ3ZF9jMWZwNklEa1dSeUVjZUZNRmlRUk5NTDYxaS1LcHd0UEVrOEJzMFNLZmt5b3NFRkhKWDV6QUIwOVk3UTJUY0E5bHplUzJ0djhILS1uUVlDMFNHTEJVZmVfVjE4ZGFEendCRWZCRDRISU01aG5ORlNB?oc=5",
+      "source": "CNN",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Casa Branca: a FTC pode impedir o lançamento de modelos de IA/SI; alguns agentes infringiram a regra de não causar danos às pessoas",
-      "titleOriginal": "White House: FTC Can Stop AI/SI Models Before Release, Some Agents Broke Rule to Not Harm People",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTF9XZ2hjWE9NVzZtREVvNlcxS2x3THpoaWEtS2JmdHJCRFVELTlTOEFESWlXT0ZKank3OW5Ucy1KSjBxWlhFQ0pYMUk2MWNUVVRrOXBfckhOY2lWdE1kUjZkT1BYM29MYXZYbjctN05NTWZva2VDLTZXMWgtLTdGRmdzZ2VBVkljcEo2OWY0b3VjajBjbEMyckJLcWVSSkpSV3diRFQ2ak82b1MyU2pOVEtwTEtXR0N1RmZ5d2RTRWVqelJPcWU2Z3dJbWNHOFdiOVpXNNIB2gFBVV95cUxPTEVsTDg3emFjUmxiZ214dUpsZ0hoaFFheUxKUXp4LVRENHU1Rm4za2hSenV4enQ5WEFwX3dxbFRiRmxZenRiN2JOeUI3ZGE5aGNjZDV4T0QyUU54d2VHc1NkTlJCeGZGbGcxdWRpR3prVkZuWWJVaFdseU8wcGFqMmppT2ExWl9Vb2hYNVY1eV9iczZpdU8wWENWUjBvY1JrU3lfOFU4OUxTV1lXazJuYjlTRjZvNHh6eHhTcy1iU2pfdGsxQVZfSkxVSVdYRFJ6aGsxV0tQc2tTUQ?oc=5",
-      "source": "Breitbart",
-      "coverage": 2
+      "title": "Katie Zacharia faz suas primeiras declarações após deixar a Casa Branca",
+      "titleOriginal": "Katie Zacharia Makes First Remarks After Leaving White House",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzFpdUFQblV5TE42bmdPbWY3U1ptUVJtc3BieEFhQTZTbXJaUWtxZ2tHTXp1OUFCN1NhTWVxYnJLWWhwXzdjSXRRVGR3MTFzTFB5MUd5LTVkdDluOGl3cWowMHpuaVlQVWNqUEU4NUdSdTJJVmlXSURRUzc3WGx2MzF0SXVzVDlKY2U3OWh0NzBqR1JPaFE?oc=5",
+      "source": "Daily Wire",
+      "coverage": 3
     }
   ]
 }
