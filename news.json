@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-10-17T22:20:14.015Z",
+  "updatedAt": "2026-10-18T00:19:41.672Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Na reta final da campanha para as eleições de meio de mandato, Trump não consegue parar de elogiar o corpo dos homens",
+      "titleOriginal": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
+      "publishedAt": "2026-10-17T23:54:30.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda está restrito na Ucrânia",
+      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
+      "publishedAt": "2026-10-17T23:40:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A função de alto risco do médico da Casa Branca de Trump",
+      "titleOriginal": "The High-Stakes Job of Trump’s White House Physician",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2tFbVRSdzN5cjdhUHk3WU5IVnlIUzRldExfOUVnSXJ5N3QxRkVpUEhwSlNkLUtRVVdOMW9fX2hMSUFxVDF6MFVsNlExRjJ5QmFiTTBvS2xMQmg5MGxjQWVER24zUHpqcGlmZERGR1RjdDMtSG1SWGl3bVJBNjVaZmFtQ2JXaTZH?oc=5",
+      "publishedAt": "2026-10-17T23:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Bernie Sanders visita a Flórida para fazer campanha com Angie Nixon",
+      "titleOriginal": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+      "publishedAt": "2026-10-17T22:54:25.000Z"
+    },
     {
       "source": "Axios",
       "title": "Guia eleitoral de 1 minuto: Gonzalez e Wiley disputam o cargo de secretário de Estado do Colorado",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-10-17T20:45:21.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Stephen A. Smith considera “chocante” o jantar com Trump, Bill Maher e Kid Rock",
-      "titleOriginal": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
-      "link": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/",
-      "publishedAt": "2026-10-17T19:51:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas estão ameaçando a supremacia dos EUA em IA. Os republicanos deveriam agir imediatamente.",
-      "titleOriginal": "Democrats are threatening US AI supremacy. Republicans should pounce.",
-      "link": "https://thehill.com/opinion/technology/6154943-ai-data-centers-red-states/",
-      "publishedAt": "2026-10-17T19:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os eleitores negros testam o limite da esquerda socialista",
-      "titleOriginal": "Black voters test the socialist left's ceiling",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcnNsOTF1NTV0UkZjM0ZXaFBFemEzZXRJLWU1Zk0tQUxaT0U4VEZsVTRDWEZ2VUhjV1JISkhDeDMzcjhFQnJfaGNockM2aWR3MVllcWcwVkc0enBiR3FvMlFNdHk3NVBFNHc4NWZyRXliQ3ZFckE?oc=5",
-      "publishedAt": "2026-10-17T18:51:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zelensky afirma que a Ucrânia está “pronta para negociar”",
-      "titleOriginal": "Zelensky says Ukraine is 'ready to negotiate'",
-      "link": "https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations/",
-      "publishedAt": "2026-10-17T18:46:21.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Vladimir Putin",
       "titleOriginal": "Vladimir Putin",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5",
-      "publishedAt": "2026-10-17T18:37:25.000Z"
+      "publishedAt": "2026-10-17T19:55:49.000Z"
     }
   ]
 }
