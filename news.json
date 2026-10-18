@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-10-18T21:54:15.793Z",
+  "updatedAt": "2026-10-18T23:13:29.937Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Mike Turner pede que seja aberta uma investigação sobre a perda do acesso ao Starlink pela Ucrânia",
+      "titleOriginal": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
+      "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/",
+      "publishedAt": "2026-10-18T22:38:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cineastas israelenses levam programação alternativa contra a “NAZA” ao Capitólio",
+      "titleOriginal": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
+      "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/",
+      "publishedAt": "2026-10-18T22:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Governador do Banco da Inglaterra afirma que ainda é cedo para se pronunciar sobre a inflação de segunda ordem",
+      "titleOriginal": "Bank of England Governor Says Too Early to Make Call on Second-Round Inflation",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdrN3A1QTljaWt2QUhlR0l6RkljY3JiX3RUU2tLOEF4cDBOSXRqT1BOOWxvNmJlNmQ3bEh4YkdPS28waDZOT3FiNi10TTY1U2REX3c1RjJWMjRhTXhjY0NZckx3QXBIdkpsNXJQSElDYWsxWElXdW96dEZibUZOMDRJMm1FTmZWQVNsWnBqLWptT2RDT19VZ3JKNzdYd0REbWZOaTVqTEdlaVRaM2JpLXhVVWszb1ozVjFTQXlnR3J4SXc0NWc?oc=5",
+      "publishedAt": "2026-10-18T21:56:06.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Candidato do Partido Republicano ao cargo de vice-governador de Massachusetts suspende campanha após ser preso em acidente de carro",
+      "titleOriginal": "Massachusetts GOP lieutenant governor candidate suspends campaign after arrest in car crash",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXdNZG9zOHV1cGdzbEhITUdRMkRJWVo5eXo5SUZFMXp5UTlrV1pFVzdxT1NrYXV4Vjk1TDVQVG40akFTdHNsN1g3VlYzNl84YTJONkZFei1WdGRWYXVrTnhZQUNzYTVnWHkxRXh1d0xYSnRrd2U4V3hxTGJrdE5kc05VNnBNaTZJRUlmZFVJQ01idkt2TWpWbnliWQ?oc=5",
+      "publishedAt": "2026-10-18T21:22:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "A Ucrânia lança mais de 1.000 drones contra a Rússia enquanto a disputa entre Trump e Zelenskyy continua",
       "titleOriginal": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
       "publishedAt": "2026-10-18T21:15:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preço do petróleo sobe com o recrudescimento dos conflitos no Oriente Médio e na Ucrânia",
+      "titleOriginal": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+      "publishedAt": "2026-10-18T21:05:49.000Z"
     },
     {
       "source": "The Hill",
@@ -36,41 +71,6 @@
       "titleOriginal": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
       "link": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
       "publishedAt": "2026-10-18T20:14:32.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump apoia Netanyahu como o melhor parceiro dos EUA em uma acirrada eleição israelense",
-      "titleOriginal": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
-      "publishedAt": "2026-10-18T20:09:12.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump segue em frente com os planos de reformar o campo de golfe de Washington",
-      "titleOriginal": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazJ4MFJERjZqRml3ZThsUzBONFNnd0JVTm0yR1I0ZE1hMno4cXBfb2tVV3l2ZUljOFlHVGsxXzFfckE3X2VYcklQZUlLcXZYVFpTSU9zMjVFdjM4MmFVS0lwUms2YUVhVF9BWmJIWTRVdzVsZGwtVzZYY2VHMXRUZmd5OTN2NzRxYVQ3ZWV2QjNDbURyTjU3eTlLYzBsZ1VwV3c?oc=5",
-      "publishedAt": "2026-10-18T20:06:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "95% dos republicanos do movimento MAGA aprovam Trump. Entre os republicanos que não fazem parte do movimento MAGA, esse número é de 47%.",
-      "titleOriginal": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3lJdTZISU8xN3dtbDBaRV9sV05pdHdhYk1rMHMxR3kyV29lNWVjUV84cnlHcUZ2NThEOUJCNHB4ZWdHd0gzaURYeEJZRVM2SW9teXR3Y0lyaVQzdW8wWnRZeWdmX2hSSWFYcjZteHZtUlRONzhrMHZXd2JhWGtiUVN3?oc=5",
-      "publishedAt": "2026-10-18T19:57:06.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Candidatos contrários aos partidos e aos políticos ganham força nas eleições de meio de mandato",
-      "titleOriginal": "Anti-party, anti-politician candidates surge in midterms",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxdFRndXBrZkdMZGxOOU1zMVp0RmxyX1V2WGlJaURpQWJUeDRZdFFBTFA4MzJ3elpRNDhia1JjNEJQaVRITm1qeVlQZzd6RDhoOWRYazV4N192MG5ENjVHZkhaRXVEX0ViMmRpOTI4ckRVekgzLWNGVHdSVGs?oc=5",
-      "publishedAt": "2026-10-18T19:57:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Mulvaney prevê que Wiles ocupa uma “posição de poder” na Casa Branca, mas que deixará o cargo após as eleições de meio de mandato",
-      "titleOriginal": "Mulvaney predicts Wiles is in a 'powerful place' in the White House but will leave after midterms",
-      "link": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/",
-      "publishedAt": "2026-10-18T19:49:47.000Z"
     }
   ]
 }
