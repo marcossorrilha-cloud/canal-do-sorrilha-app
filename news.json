@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-18T11:06:50.536Z",
+  "updatedAt": "2026-10-18T14:09:41.778Z",
   "count": 10,
   "items": [
     {
+      "source": "Politico",
+      "title": "Warnock quer que os democratas se concentrem no Sul. Ele está começando pelo Mississippi.",
+      "titleOriginal": "Warnock wants Democrats to focus on the South. He’s starting in Mississippi.",
+      "link": "https://www.politico.com/news/2026/10/18/warnock-mississippi-senate-colom-southern-voters-01123450",
+      "publishedAt": "2026-10-18T14:00:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Os republicanos alertam que os recursos do Pentágono dependerão de Trump adotar uma postura mais dura em relação à Rússia",
-      "titleOriginal": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
-      "link": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
-      "publishedAt": "2026-10-18T10:00:00.000Z"
+      "title": "A Ucrânia ataca São Petersburgo com mais de 1.000 drones",
+      "titleOriginal": "Ukraine strikes St Petersburg with over 1,000 drones",
+      "link": "https://thehill.com/policy/international/6156407-ukraine-drone-attack-russia-oil/",
+      "publishedAt": "2026-10-18T13:29:13.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Imigrantes processam o ICE por supostamente reter passaportes e outros documentos",
-      "titleOriginal": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUhvQjczanY4ajhDZ002a1FCanZzcWxfY0ItenRkU1ZyaFFXU2pkOFgxVExDM3ZzbDZPYVlyd0lHRUlBM3RuWjFWbnFzekFkSHZDTlk1NGtVQjBURmxWVVMydS1JU0JLZE5pS1FZU2RueXBEY1F0RE1LaWxnRFNDRDlCdkJsazRRdUxoZHE2S1V5MkZqMUxSQXQ2NUdrOWF5WkJ1MzVicEdlX3dCU3lNdnhHZXF1UQ?oc=5",
-      "publishedAt": "2026-10-18T09:49:15.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como Zelensky decidiu correr o risco e confrontar Trump publicamente",
-      "titleOriginal": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
-      "publishedAt": "2026-10-18T09:30:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Em toda a região rural, o descontentamento econômico abala a coalizão republicana",
-      "titleOriginal": "Across Farm Country, Economic Discontent Strains Republican Coalition",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
-      "publishedAt": "2026-10-18T09:00:47.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os eleitores das áreas rurais deixarão de votar nas eleições de meio de mandato?",
-      "titleOriginal": "Will Rural Voters Sit Out the Midterms?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011202335/midterm-elections-us-rural-voters.html",
-      "publishedAt": "2026-10-18T09:00:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os agentes do ICE estão realmente focando nos “piores dos piores”?",
-      "titleOriginal": "Are ICE Officers Really Targeting the ‘Worst of the Worst’?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html",
-      "publishedAt": "2026-10-18T07:00:11.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bernie Sanders visita a Flórida para fazer campanha com Angie Nixon",
-      "titleOriginal": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-      "publishedAt": "2026-10-18T05:42:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A isenção concedida por Trump em relação à Rússia gera reação bipartidária imediata",
-      "titleOriginal": "Trump's Russia waiver draws instant bipartisan backlash",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
-      "publishedAt": "2026-10-18T04:36:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O desertor russo de 26 anos que passou para a Ucrânia os planos de batalha de seu exército",
-      "titleOriginal": "The 26-Year-Old Russian Defector Who Fed Ukraine His Army’s Battle Plans",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHQ1V2tYWHFnWnV0SnlaZVBmSkw3YVRqdzRVTXYtbWRaU3N5dHF0amxmbGhhOUdQMjE1ZDBXM0V2b0JnbkFmNldTVHFlX1QwdTRYOEltT3RzQ0dDa1E2ellVU1c1dVVVNHpBT2VJcy0ySzNCdURDOVlhTVM3eDVCdFQ2VjJOWURYc2ZfLWtVcWpqcVBQVWlnN0g2cXp3eXBfdDRITEFlYThjWlFpVmZZMVNwQTN5NWtZ?oc=5",
-      "publishedAt": "2026-10-18T04:08:55.000Z"
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Ucrânia ataca depósito de petróleo em São Petersburgo",
+      "titleOriginal": "Live updates: Ukraine attacks St Petersburg oil depot",
+      "link": "https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks-st-petersburg-oil-depot/",
+      "publishedAt": "2026-10-18T13:04:37.000Z"
     },
     {
       "source": "AP News",
-      "title": "Vance enfrenta perguntas difíceis sobre a guerra no Irã, imigração e outros temas em debate aberto da CBS",
-      "titleOriginal": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-      "publishedAt": "2026-10-18T03:31:00.000Z"
+      "title": "A polícia francesa prende 1.800 pessoas após confrontos violentos e saques mancharem os protestos",
+      "titleOriginal": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
+      "publishedAt": "2026-10-18T13:04:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ucrânia se apressa a construir defesas contra os drones a jato da Rússia",
+      "titleOriginal": "Ukraine Hurries to Build Defenses Against Russia’s Jet-Powered Drones",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9odVZsQV83TE9ocno2LV9rZTktbWlzYWNuSUNSekNWYXJBZjR5Rzc5eDZHRTBzeGxCMkR6eC00ME5GN2ZsdDl2aWl1YmRvN3ViVUZ3Q1VLUGtPbVVHa0Vra0VwbzVyRVBXMExqWE9rdjhaLVQ2TUlFUA?oc=5",
+      "publishedAt": "2026-10-18T13:01:38.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Novo Voto Jovem",
+      "titleOriginal": "The New Youth Vote",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYcC02WXV3YjdlVVJlc3FVeW1Pc0k0Y0Juc2diUUNlRVozc2F6bFdWWTduNW00NENUM1ZkNmlBNllwT3RxRGloZjFDSk1ZSnFQZXI1OEtIQlo5R2JnMWt2WWw2ZFVRZEpfM2k4Z0lrQ2VNVmRZ?oc=5",
+      "publishedAt": "2026-10-18T12:58:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Base Aérea de Nellis: Militar morre após incidente em partida da UT San Antonio",
+      "titleOriginal": "Nellis Air Force Base: Service member dies after incident at a UT San Antonio game",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
+      "publishedAt": "2026-10-18T12:23:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As sequências de vitórias do Partido Republicano, que já duram décadas, estão de repente em risco",
+      "titleOriginal": "Decades-old GOP winning streaks are suddenly at risk",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGZ6Y0NLbmdrSVBWN09aeDBRdVB0UGR1b3NicGpVb2dGdHlkWlpBdFFscUE3RTJGMzZ2Q1E4cXpIbEFLUGxGT1liNDNUVFRsRHVIdHoyMGRiYTNjc2JSZTV0eEF6bm5URjN5SVFKUFg3aFZtX1RWMlgyTkFCbU9RRXdDcEhoUQ?oc=5",
+      "publishedAt": "2026-10-18T12:13:24.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A abordagem “Humpty Dumpty” de Trump em relação aos direitos humanos",
+      "titleOriginal": "Trump's 'Humpty Dumpty' approach to human rights",
+      "link": "https://thehill.com/opinion/white-house/6152165-state-department-policy-shift/",
+      "publishedAt": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Candidatos contrários aos partidos e aos políticos ganham força nas eleições de meio de mandato",
+      "titleOriginal": "Anti-party, anti-politician candidates surge in midterms",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxdFRndXBrZkdMZGxOOU1zMVp0RmxyX1V2WGlJaURpQWJUeDRZdFFBTFA4MzJ3elpRNDhia1JjNEJQaVRITm1qeVlQZzd6RDhoOWRYazV4N192MG5ENjVHZkhaRXVEX0ViMmRpOTI4ckRVekgzLWNGVHdSVGs?oc=5",
+      "publishedAt": "2026-10-18T11:49:32.000Z"
     }
   ]
 }
