@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-18T05:55:00.165Z",
+  "updatedAt": "2026-10-18T09:53:26.343Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Em toda a região rural, o descontentamento econômico abala a coalizão republicana",
+      "titleOriginal": "Across Farm Country, Economic Discontent Strains Republican Coalition",
+      "link": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
+      "publishedAt": "2026-10-18T09:00:47.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os eleitores das áreas rurais deixarão de votar nas eleições de meio de mandato?",
+      "titleOriginal": "Will Rural Voters Sit Out the Midterms?",
+      "link": "https://www.nytimes.com/video/us/politics/100000011202335/midterm-elections-us-rural-voters.html",
+      "publishedAt": "2026-10-18T09:00:19.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os agentes do ICE estão realmente focando nos “piores dos piores”?",
+      "titleOriginal": "Are ICE Officers Really Targeting the ‘Worst of the Worst’?",
+      "link": "https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html",
+      "publishedAt": "2026-10-18T07:00:11.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Bernie Sanders visita a Flórida para fazer campanha com Angie Nixon",
@@ -11,21 +32,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Uma startup de IA para o clima conquistou o apoio da Nvidia — depois de deixar a questão climática de lado",
-      "titleOriginal": "An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNak9mU2RoMUtpX2tSZlY3YTJwMms2UDZMVnNqTGJSTkdTTTBtdm5Cc3pHUUg4V2p2Um1SWmhTWGF1TUhIcmZZYWU3R2ZxYjVYRWRURDdHNXRUN0stSEU1STFrZ2t1Nko4RjFKRGF5NmRuX0RsMEhRMEhCNUFBQ0NoWmZ2LVpmVzR6MFZRTGlFVFRoLXhYQWZ6MjREMGRwb01EZWZBTjB5dTdTTXJjemVNVTE1MVFLTERoSmV6VG9NMmdxQ09aNFpVZm5XUQ?oc=5",
-      "publishedAt": "2026-10-18T05:20:13.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Zelensky afirma que o sistema de satélites de propriedade de Musk ainda enfrenta restrições na Ucrânia",
-      "titleOriginal": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOWlPNXdueVRQQm5uQWxna2N5VnVudnQwcjdDXzhqZDV5LTRFSkxld0l0dHBpeV9RUmZ4VTZwQkdaVTFxMTBuVGZTWC1selFjejAtVktJR2NwZFNyWHdONTg2bTVqVkNHNnp2X0I2dDdWRmVv?oc=5",
-      "publishedAt": "2026-10-18T05:17:52.000Z"
+      "title": "O desertor russo de 26 anos que repassou à Ucrânia os planos de batalha do seu exército",
+      "titleOriginal": "The 26-Year-Old Russian Defector Who Fed Ukraine His Army’s Battle Plans",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHQ1V2tYWHFnWnV0SnlaZVBmSkw3YVRqdzRVTXYtbWRaU3N5dHF0amxmbGhhOUdQMjE1ZDBXM0V2b0JnbkFmNldTVHFlX1QwdTRYOEltT3RzQ0dDa1E2ellVU1c1dVVVNHpBT2VJcy0ySzNCdURDOVlhTVM3eDVCdFQ2VjJOWURYc2ZfLWtVcWpqcVBQVWlnN0g2cXp3eXBfdDRITEFlYThjWlFpVmZZMVNwQTN5NWtZ?oc=5",
+      "publishedAt": "2026-10-18T04:08:55.000Z"
     },
     {
       "source": "AP News",
-      "title": "Vance enfrenta perguntas difíceis sobre a guerra no Irã, imigração e outros assuntos em debate aberto da CBS",
+      "title": "Vance enfrenta perguntas difíceis sobre a guerra no Irã, imigração e outros temas em debate aberto da CBS",
       "titleOriginal": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
       "publishedAt": "2026-10-18T03:31:00.000Z"
@@ -38,11 +52,18 @@
       "publishedAt": "2026-10-18T02:38:31.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A decisão de Trump de suspender as sanções contra a Rússia indigna o Congresso, mas não se prevê uma reação imediata",
-      "titleOriginal": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
-      "publishedAt": "2026-10-18T00:16:00.000Z"
+      "source": "Axios",
+      "title": "A Rússia se aproxima de um satélite dos EUA, o que suscita preocupações quanto às suas intenções",
+      "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb2JFdHZWb1M5d2g1SGphSEZ0Z05paWh4RE5uOFlwQ1JCeUtreEpxaElaQmZobE0yS194UlhyR1l1ZDE2X3dCZzdZLVFuQ3dyVmppMnJmLXVxZEkzVnAwZzVfa1lVYzdjNVdIUldJb2o?oc=5",
+      "publishedAt": "2026-10-18T01:32:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como Zelensky decidiu correr o risco e confrontar Trump publicamente",
+      "titleOriginal": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
+      "publishedAt": "2026-10-18T01:00:00.000Z"
     },
     {
       "source": "New York Times",
@@ -50,27 +71,6 @@
       "titleOriginal": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
       "publishedAt": "2026-10-17T23:54:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A função de alto risco do médico da Casa Branca de Trump",
-      "titleOriginal": "The High-Stakes Job of Trump’s White House Physician",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2tFbVRSdzN5cjdhUHk3WU5IVnlIUzRldExfOUVnSXJ5N3QxRkVpUEhwSlNkLUtRVVdOMW9fX2hMSUFxVDF6MFVsNlExRjJ5QmFiTTBvS2xMQmg5MGxjQWVER24zUHpqcGlmZERGR1RjdDMtSG1SWGl3bVJBNjVaZmFtQ2JXaTZH?oc=5",
-      "publishedAt": "2026-10-17T23:00:44.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Guia eleitoral de 1 minuto: Gonzalez e Wiley disputam o cargo de secretário de Estado do Colorado",
-      "titleOriginal": "1-minute voter guide: Gonzalez and Wiley vie for Colorado secretary of state",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUhMXzFYWjZuZzhtRklhWVFxT3pPRkE2cmc1VVdTV2kwaTY0ZzJMS1M2WTdVWW1DSzNIdUM0NElRT2gtekF1V2pzdHlGNm5tY2xwaWRDSUZ5aHJiQ3IyNktocEswRjJMeFV0OG13NElpcGJ2WjU5WWpMMUcyd0VvaWYwa0YwS1VzZ0xiRGRJeGYzM3d3YVFYTHZWcVpwai1oRTZ3?oc=5",
-      "publishedAt": "2026-10-17T22:02:53.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Deputado republicano Scott Perry está um pouco atrás na disputa pela reeleição na Pensilvânia: pesquisa",
-      "titleOriginal": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
-      "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/",
-      "publishedAt": "2026-10-17T21:46:48.000Z"
     }
   ]
 }
