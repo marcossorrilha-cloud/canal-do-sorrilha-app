@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-19T01:18:41.671Z",
+  "updatedAt": "2026-10-19T05:20:03.449Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "A GlobalFoundries construirá duas fábricas de chips com um financiamento de até US$ 21 bilhões",
-      "titleOriginal": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW8xQ1AtdjA2d1B4YXlXNkp6YnBCblFZNTI1YzZVYVYtMXBhZGtjdm9RMnZaOUx6M3hrRlFpbzhuMmZwcV83ZmNtSUh0aTB0MHlnQkpMSFhWamFhRnEwSFZuV2lpMmI0SWhjY29GVTNfX2NVdmhOUk0zN0dORXNnbGpnSjZ6RFY0OFVYazFnUGhkMDRUOGpEek5sZVZFWlIyb2loYg?oc=5",
-      "publishedAt": "2026-10-19T00:12:21.000Z"
+      "source": "Axios",
+      "title": "\"Vou me dedicar totalmente a isso.\" Bill Gross transforma o trabalho de toda a sua vida em uma máquina de IA.",
+      "titleOriginal": "\"I'll put everything into this.\" Bill Gross turns his life's work into an AI machine.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR3ppdmtzWk16bjVUWFNJdF8wS2RLYlo5YjdFTUdESE1NbXdXc0RSVE1XdWdsOUk2Z184em9WR1c1R1dMbWk2cjdWMG5HV0JTM2QtNG5WSnIwX29zYVVqaHFtRUNwTkRma194aU5LSjRqb1N0eVdyM0lxZGJZZlBZUU5R?oc=5",
+      "publishedAt": "2026-10-19T04:05:37.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Trump defende planos para flexibilizar as sanções contra a Rússia e dá indícios de um acordo sobre reféns",
-      "titleOriginal": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
-      "publishedAt": "2026-10-19T00:05:08.000Z"
+      "title": "A “primária paralela” presidencial de 2028 se aproxima das eleições de meio de mandato",
+      "titleOriginal": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
+      "publishedAt": "2026-10-19T04:04:39.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Shawn Oliver, candidato do Partido Republicano ao cargo de vice-governador, suspende a campanha após ser preso por dirigir sob influência de álcool",
-      "titleOriginal": "GOP lieutenant governor nominee Shawn Oliver suspends campaign after OUI arrest",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc1Y5aUk2VmdsLXRRdlBYTHNIaUxYUjFDampGMnhjaVRmVU5BTm16eDdoZ0Jud2sxaldHUTBwM1FLLWJnM0NZd2RjR2JXSGN1TGFFOXdjQUk5ZVFzVmJldEliYW5sVjJvMnR5ZEMycTQ2Z09fQmQ2R3FUUEdNdmRoZ081MzRpRjYyRGd1WW9WSlBzWUh4cWFDRWJ6azF5eGhLS2pQazFGV0Y4OS1oWHFOcWs2T2Ztb1pWYmRpRUg4cHdtR1RPQ1dFb1FJSjVld01jakx2eDV0X0ZLLW1SZjhfanNnWU4zcVhhS2d1aHo0WHZFTjY0NE42bk9JWWdibUpoNFE?oc=5",
-      "publishedAt": "2026-10-18T23:59:01.000Z"
+      "source": "AP News",
+      "title": "Os habitantes de Alberta votam sobre o caminho para a independência, enquanto Carney luta para manter o Canadá unido",
+      "titleOriginal": "Albertans vote on path to independence as Carney fights to keep Canada united",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
+      "publishedAt": "2026-10-19T04:02:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A economia da China acelera graças às exportações robustas, enquanto a fraqueza do mercado interno persiste",
+      "titleOriginal": "China’s economy accelerates on robust exports as domestic weakness persists",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ybUNYYmVXU0VLLUUyQXM2UEFiLXhzWFF2YmZYZ3QwUWdiSkdBdHJIOXhTVGVEemNnYWNaWFU2TEJKcnpqOTY5WS1WekJBXzU5ek1zQVg0Uy0yQ0ktV1ZfSmMybVB6VFY3ZVNCeDhjcllNUG9BZUFRTWFuaHM0dw?oc=5",
+      "publishedAt": "2026-10-19T03:19:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como a Pensilvânia explica as forças que moldam as eleições de meio de mandato",
-      "titleOriginal": "How Pennsylvania Explains the Forces Shaping the Midterms",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
-      "publishedAt": "2026-10-18T23:28:46.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Putin sugere uma cúpula com Trump e Xi para discutir um acordo sobre a Ucrânia",
-      "titleOriginal": "Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5",
-      "publishedAt": "2026-10-18T23:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Mike Turner pede que seja aberta uma investigação sobre a perda do acesso ao Starlink na Ucrânia",
-      "titleOriginal": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
-      "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/",
-      "publishedAt": "2026-10-18T22:38:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Jeffries acredita nas chances dos democratas na disputa pela Câmara dos Deputados enquanto faz campanha em Ohio",
-      "titleOriginal": "Jeffries likes Democrats’ chances in race for the House as he campaigns in Ohio",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlVVd3I3ekczTzk5SFdKM1FSQy01SHE3QURiaFpjekdpbVhHMlZqNlQyMm5kcmwyMjRSZUFTMFJzUGFoRjlDWGI2VGkzUkVQVG51WmZUZ0NPMUR1cGF3X3VjeGE0aVlVb1g1LTVJYklSY3NOZUI4ZGhDWUtHamlmb0hnVkxXQVFTZlRNQ3l0Si1oY0FIMlBBY1pBd29YdWpiNWE0NF9OS3dGMVFDZVh3SGdSdw?oc=5",
-      "publishedAt": "2026-10-18T22:33:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Cineastas israelenses levam programação alternativa contra a “NAZA” ao Capitólio",
-      "titleOriginal": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
-      "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/",
-      "publishedAt": "2026-10-18T22:00:00.000Z"
+      "title": "Trump apresenta plano rápido para fechar e reformar o campo de golfe em Washington, D.C.",
+      "titleOriginal": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
+      "publishedAt": "2026-10-19T02:55:13.000Z"
     },
     {
       "source": "Axios",
-      "title": "Zelensky conversa com Witkoff e Kushner em meio à crise entre os EUA e a Ucrânia",
-      "titleOriginal": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemV3Q1pHQl9WWlRpc1kzODBWbjByMUxxeGJFVmE3bUlkWWR4dTZpRVl4c2p3TWM2Um1Wb0Z3RWE4TmlKcTVxdjczS012aGxNZU8tOGpyX1NkOGFENnprQlV6M1dQbnpicklmYjBZak05dHRnRzJNbFhUVEtSUWZCc3U0WldTdw?oc=5",
-      "publishedAt": "2026-10-18T21:43:19.000Z"
+      "title": "O prefeito Yemi Mobolade destaca os avanços de Colorado Springs — e os desafios que ainda estão por vir",
+      "titleOriginal": "Mayor Yemi Mobolade touts Colorado Springs' gains — and tests ahead",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1pMNkRkVjgyaHhqYnlSamNOOGlTM3M0YTlBbEpxTUJoSHJmaWYxMnNYRXRMYkhHaXZWNUN0UnFDWHlBZ2VDLVlZZTRleUFlMlExb29Dekh3aGtWa3I1WmJoT1NCWUZYajNpR0ZHSUw4STJINDg0SV9TVUl3ck5kZ0RsN0ZROFU5TUxETXQzNHhkVmVZYXcyZjJab3hRZUxVQTJwS2tIZGpKQ20yb281dUEzbEc?oc=5",
+      "publishedAt": "2026-10-19T02:46:10.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A polícia investiga denúncia de agressão sexual na república da Universidade de Chicago",
+      "titleOriginal": "Police investigate reported sexual assault at UChicago frat house",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMG8tTXF1dk4xdXZhYmJ3V2Y5MzYySUlCak5KZ2JKQW90QU1xSm4wdHY3SlN2aHgwQlhWem1BQWpYMEI3WjBIYW0yNHotSXNCOTJCVks5NHdrVll0cVNZUjV5QXFtR1BjbmRndTZNUXN4ajV6ckV3QVFnWFpRRGxXSHBSYTBBOF9XNkxBMTF6ZThINU95MEVtTTAwT3FEai1WVGZ6N3k0bVBVOWViNmFwWUN3VQ?oc=5",
+      "publishedAt": "2026-10-19T02:46:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Irã adverte os EUA contra um novo ataque e afirma que também tem “assuntos pendentes”",
+      "titleOriginal": "Iran warns US against renewed attack, says it has ‘unfinished jobs’ too",
+      "link": "https://thehill.com/policy/international/6157194-iran-minister-warns-us-attacks/",
+      "publishedAt": "2026-10-19T02:07:12.000Z"
     },
     {
       "source": "AP News",
-      "title": "A Ucrânia lança mais de 1.000 drones contra a Rússia enquanto a disputa entre Trump e Zelenskyy continua",
-      "titleOriginal": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
-      "publishedAt": "2026-10-18T21:15:00.000Z"
+      "title": "C.J. Gardner-Johnson, dos Bills, pede desculpas após ter sido expulso por cuspir em um jogador dos Raiders",
+      "titleOriginal": "Bills’ C.J. Gardner-Johnson apologizes after his ejection for spitting at a Raiders player",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTE2WlQ5a0FpNTRxWm5sUmgyXzY5blN1YTdOdEtjLXhpM0pyTnBXLU5OMWJZT2dsS3NHQ3NJZG1Vemp4aG43YU5vSDhfNVkwbEZTRmRKWURLUE9tS2l2VUFBUGZ5RWRqT1R3LWlQMWdWNElndU01Nkg1S05VU19zRGd0M1JpcXJlS1NkcHozc25BRzhjbkZadjZ3aWVENWFkaUpz?oc=5",
+      "publishedAt": "2026-10-19T01:55:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Futuros do petróleo caem devido a uma possível correção, mas a queda pode ser limitada pelas tensões geopolíticas",
+      "titleOriginal": "Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc?oc=5",
+      "publishedAt": "2026-10-19T01:21:00.000Z"
     }
   ]
 }
