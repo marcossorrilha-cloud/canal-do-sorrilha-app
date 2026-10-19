@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:29:42.840Z",
+  "updatedAt": "2026-10-19T01:18:41.671Z",
   "count": 10,
   "items": [
     {
@@ -32,14 +32,14 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Putin sugere uma cúpula com Trump e Xi para decidir o destino da Ucrânia",
-      "titleOriginal": "Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate",
+      "title": "Exclusivo | Putin sugere uma cúpula com Trump e Xi para discutir um acordo sobre a Ucrânia",
+      "titleOriginal": "Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5",
       "publishedAt": "2026-10-18T23:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Mike Turner pede que seja aberta uma investigação sobre a perda do acesso ao Starlink pela Ucrânia",
+      "title": "Mike Turner pede que seja aberta uma investigação sobre a perda do acesso ao Starlink na Ucrânia",
       "titleOriginal": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
       "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/",
       "publishedAt": "2026-10-18T22:38:01.000Z"
@@ -59,18 +59,18 @@
       "publishedAt": "2026-10-18T22:00:00.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Zelensky conversa com Witkoff e Kushner em meio à crise entre os EUA e a Ucrânia",
+      "titleOriginal": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemV3Q1pHQl9WWlRpc1kzODBWbjByMUxxeGJFVmE3bUlkWWR4dTZpRVl4c2p3TWM2Um1Wb0Z3RWE4TmlKcTVxdjczS012aGxNZU8tOGpyX1NkOGFENnprQlV6M1dQbnpicklmYjBZak05dHRnRzJNbFhUVEtSUWZCc3U0WldTdw?oc=5",
+      "publishedAt": "2026-10-18T21:43:19.000Z"
+    },
+    {
       "source": "AP News",
       "title": "A Ucrânia lança mais de 1.000 drones contra a Rússia enquanto a disputa entre Trump e Zelenskyy continua",
       "titleOriginal": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
       "publishedAt": "2026-10-18T21:15:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Preço do petróleo sobe com o recrudescimento dos conflitos no Oriente Médio e na Ucrânia",
-      "titleOriginal": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
-      "publishedAt": "2026-10-18T21:05:49.000Z"
     }
   ]
 }
