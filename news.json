@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-19T17:46:16.297Z",
+  "updatedAt": "2026-10-19T21:03:55.934Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Slotkin acusa aliado de Trump de “incitar ameaças de morte” contra ela e sua equipe",
+      "titleOriginal": "Slotkin accuses Trump ally of 'mobilizing death threats' against her, staff",
+      "link": "https://thehill.com/homenews/senate/6159035-slotkin-accuses-mike-davis-threats/",
+      "publishedAt": "2026-10-19T21:00:04.000Z"
+    },
     {
       "source": "AP News",
       "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
       "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-      "publishedAt": "2026-10-19T17:42:28.000Z"
+      "publishedAt": "2026-10-19T20:57:37.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Sunlight AI levanta US$ 17,4 milhões para soluções administrativas em consultórios médicos",
+      "titleOriginal": "Exclusive: Sunlight AI raises $17.4M for medical practice admin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmJmREdTdXpTZXNWeGdVcnJoWHp0R0g5U0xvOHIxQkhXZEJkeXhEdUZTQVh3ZXY2ZUtnVUVYSmIydEJHT2dhYjBmOGQ5S25FUk1LQldoWXdTbmkwcHBxY0pXVnZnVUdJVlA0ZTNlclBNY2ZtLWxkM1VMbHNNSTZsLUt6Und1cko5aDhBWkI2VDAxczlzelczbmx3MHYwRU9ORUtuWFlB?oc=5",
+      "publishedAt": "2026-10-19T20:52:38.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Democratas do Colorado colocam Trump em destaque na mensagem de encerramento da campanha",
+      "titleOriginal": "Colorado Democrats focus on Trump in their campaign closing message",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGpJd181R1JqWS1Rd0F2WWpxTS1YUjNiU192LW05M05UVGp6X0xUVVpQNlB6N1lEZXNPUzJ1Z21ObkRzYkE3VjRXdnNMRk1hRkdvVjVrdjJBOC1kc2JCSDZtaG5FN3hzbXRwRm1FNnptX1R2VmhadFFtcVZDaUtyWjR2T05kSXJkS0xrTkhzaHJ2QzlsaXFYNllTNA?oc=5",
+      "publishedAt": "2026-10-19T20:49:33.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Klobuchar e Demuth se enfrentam no primeiro debate para o cargo de governador de Minnesota",
-      "titleOriginal": "Klobuchar, Demuth face off in first Minnesota governor's debate",
-      "link": "https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/",
-      "publishedAt": "2026-10-19T17:33:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democrata da Virgínia é o mais recente legislador a receber um pó branco suspeito",
-      "titleOriginal": "Virginia Democrat becomes latest lawmaker to receive suspicious white powder",
-      "link": "https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/",
-      "publishedAt": "2026-10-19T17:19:31.000Z"
+      "title": "Burgum: O East Potomac será transformado no “melhor campo de golfe dos Estados Unidos” sob o governo Trump",
+      "titleOriginal": "Burgum: East Potomac will be transformed into 'best course in America' under Trump",
+      "link": "https://thehill.com/policy/sports-gaming/6158973-trump-east-potomac-redesign/",
+      "publishedAt": "2026-10-19T20:49:33.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Os agentes do ICE estão realmente focando nos “piores dos piores”?",
-      "titleOriginal": "Are ICE Officers Really Targeting the ‘Worst of the Worst’?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html",
-      "publishedAt": "2026-10-19T17:18:25.000Z"
+      "title": "Republicanos mal mencionam Trump em anúncios políticos antes das eleições de meio de mandato",
+      "titleOriginal": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
+      "publishedAt": "2026-10-19T20:35:14.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Disputa envolvendo o campo de golfe de Trump gera atrito entre juiz e o Departamento de Justiça",
-      "titleOriginal": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "publishedAt": "2026-10-19T17:16:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz pressiona o governo federal sobre a intervenção em East Potomac, apesar dos ataques de Trump",
-      "titleOriginal": "Judge presses federal government on East Potomac takeover despite Trump attacks",
-      "link": "https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/",
-      "publishedAt": "2026-10-19T17:16:14.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Zelenskyy afirma que a Ucrânia não recebeu nenhum aviso prévio de seus parceiros enquanto a Rússia atacava novamente a rede elétrica",
-      "titleOriginal": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9Fd0ZUSUJudF9abExqQ1dsTEFBbS1nLXRRai1VQk5GRDlXNnFQbHlXM1kzVU41YnRJT3Y5d256eGZzU1lQeFAwamJxQlJKUkFMNkt0RG9lb29SMTJMMEVJSVdreEF6QTdseWI0VzUzTG9oUWtoVEh4UmdTNE44X0tWckx6M2VtZzZNcWRwV0JKMzEy?oc=5",
-      "publishedAt": "2026-10-19T17:03:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Suprema Corte analisará novo caso sobre raça e admissão em instituições de ensino",
-      "titleOriginal": "Supreme Court to Hear New Case on Race and School Admissions",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
-      "publishedAt": "2026-10-19T16:48:23.000Z"
+      "source": "Axios",
+      "title": "Evento de campanha do Partido Democrata causa polêmica sobre “socialismo” em padaria cubana de Miami",
+      "titleOriginal": "Democratic campaign event sparks \"socialism\" uproar at Miami Cuban bakery",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWlidkstZTV3M1BGXzJjRG9hY2lQSFU3X3dIc3JEQ2hJWlI2ZGJJU0FyUERvQ0hQVmpWOEpZMVd6LTVTNVNLY2xKWW9KWHdOZXhVRzZEM09SQnR1TEhJcnU3aV96OWhrZHNGcVFuTm12ZDdiUFVhVlVuSHRtMm5HYnN0Mk9nTmdjQ2tnSVc5U3daVTZYR2RF?oc=5",
+      "publishedAt": "2026-10-19T20:30:40.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A Meta pede desculpas pela suspensão da conta do Instagram “No Kings”, atribuindo a culpa ao aumento do tráfego de bots",
-      "titleOriginal": "Meta apologizes for suspending 'No Kings' Instagram account, blaming bot traffic increase",
-      "link": "https://thehill.com/policy/technology/6157957-meta-apologizes-no-kings-account-suspension/",
-      "publishedAt": "2026-10-19T16:42:17.000Z"
+      "title": "91% dos entrevistados em pesquisa no Texas afirmam que a guerra com o Irã está elevando os preços do petróleo e do gás",
+      "titleOriginal": "91 percent in Texas poll say Iran war raising oil and gas prices",
+      "link": "https://thehill.com/homenews/campaign/6158897-texas-voters-iran-war-oil/",
+      "publishedAt": "2026-10-19T20:11:03.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Elissa Slotkin quer assustar e intimidar os jovens republicanos para afastá-los da política",
-      "titleOriginal": "Elissa Slotkin wants to scare, threaten young Republicans away from politics",
-      "link": "https://thehill.com/opinion/robbys-radar/6158108-slotkin-wants-scare-young-gop/",
-      "publishedAt": "2026-10-19T16:30:02.000Z"
+      "source": "Axios",
+      "title": "Giannoulias ainda está milhões à frente de seus prováveis adversários na disputa pela prefeitura",
+      "titleOriginal": "Giannoulias still millions ahead of his likely mayoral challengers",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMm9KbTdJUnFocGN1ZG8wejNlVEx0cDNTX09NamhscWJmbVdxM2pkN3VISFYtWFhRQW04eEt2Q191ZWdjSVRVNHFzR1lIc19tYmV0MWJRcGcxSWtVQmtMS1F6Y01QS2Vkd2JzX1hnU0Nsd0tEWGl0YlJYS1A3QmZmNnVEQVp1R0gyQjBCMlloMmprQnc?oc=5",
+      "publishedAt": "2026-10-19T20:05:21.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump está aberto a uma cúpula com Xi e Putin — para discutir a desnuclearização",
+      "titleOriginal": "Trump open to summit with Xi and Putin — to discuss denuclearization",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmc5TmVsTml6eVJ5aDBsVjNPMjh1VEZlRkhXMHYtRVRGeEM1bnVVeFBZZWpHRWQ0LWRMUjZMY29vV3pIMVV4eFZYWUdhRV9zNlJDNnBUcFBsd1FNWHBWZTBuS0RlcHI0UjVKcDEtUGN4SDJiZWR3aWZqYXBwQ2VvanRiTXNOdw?oc=5",
+      "publishedAt": "2026-10-19T20:04:45.000Z"
     }
   ]
 }
