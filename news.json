@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-19T05:20:03.449Z",
+  "updatedAt": "2026-10-19T07:47:32.514Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
+      "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
+      "publishedAt": "2026-10-19T07:42:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A GlobalFoundries construirá duas fábricas de chips com um financiamento de até US$ 21 bilhões",
+      "titleOriginal": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW8xQ1AtdjA2d1B4YXlXNkp6YnBCblFZNTI1YzZVYVYtMXBhZGtjdm9RMnZaOUx6M3hrRlFpbzhuMmZwcV83ZmNtSUh0aTB0MHlnQkpMSFhWamFhRnEwSFZuV2lpMmI0SWhjY29GVTNfX2NVdmhOUk0zN0dORXNnbGpnSjZ6RFY0OFVYazFnUGhkMDRUOGpEek5sZVZFWlIyb2loYg?oc=5",
+      "publishedAt": "2026-10-19T06:12:21.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações asiáticas apresentam desempenho misto, com os papéis do setor de tecnologia em alta e o petróleo em queda após a isenção concedida por Trump às sanções contra a Rússia",
+      "titleOriginal": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXpsQTBIVTFZNVR4LVdWd2pmbHBUa18tWGRnZmFqVXFvN1dCaW9vTmRxcXNOVVZFNENxTjl2d3lTTXV3TU9aRkxhUzJSNWI5SlFyY1ZoazVBakQwN2VWVzdvYnQ3RU0zQWFjYzA5ZFJ2bFFQeHhYQTRHUTBxcFlHUXQzMV8xMEpTMmR6bA?oc=5",
+      "publishedAt": "2026-10-19T05:48:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A empresa chinesa CXMT prevê um aumento de mais de oito vezes na receita em meio à escassez de memória",
+      "titleOriginal": "China’s CXMT Expects Over Eightfold Revenue Jump Amid Memory Squeeze",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmFoSDdBQjlSZ0tzTUFlaHpOd2dYMXRxYTh6SFhqbFRteksyeHEwVEk3QVZCTFNVS01oRnBCYkJnVVFDellTaTVIRk92MGpZcXROVkQ0bWhxTnkzSDE0QkhrdE5nbHFrZ0h6ZG96RGQwNHBLX21USlUteUZqU0lGRDBxVVgteUtWV01iUlhXckFsTnNyaldJejUtQkF0d3dUVnZDQWZOdl9vVjhSaGRIYV9hWXQ?oc=5",
+      "publishedAt": "2026-10-19T04:23:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Democratas ganham terreno entre os adultos da comunidade AAPI à medida que a confiança nos republicanos diminui, revela pesquisa da AP-NORC/AAPI Data",
+      "titleOriginal": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5",
+      "publishedAt": "2026-10-19T04:06:00.000Z"
+    },
     {
       "source": "Axios",
       "title": "\"Vou me dedicar totalmente a isso.\" Bill Gross transforma o trabalho de toda a sua vida em uma máquina de IA.",
@@ -11,7 +46,7 @@
     },
     {
       "source": "New York Times",
-      "title": "A “primária paralela” presidencial de 2028 se aproxima das eleições de meio de mandato",
+      "title": "A “primária paralela” presidencial de 2028 chega às eleições de meio de mandato",
       "titleOriginal": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
       "link": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
       "publishedAt": "2026-10-19T04:04:39.000Z"
@@ -24,53 +59,18 @@
       "publishedAt": "2026-10-19T04:02:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "A economia da China acelera graças às exportações robustas, enquanto a fraqueza do mercado interno persiste",
-      "titleOriginal": "China’s economy accelerates on robust exports as domestic weakness persists",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ybUNYYmVXU0VLLUUyQXM2UEFiLXhzWFF2YmZYZ3QwUWdiSkdBdHJIOXhTVGVEemNnYWNaWFU2TEJKcnpqOTY5WS1WekJBXzU5ek1zQVg0Uy0yQ0ktV1ZfSmMybVB6VFY3ZVNCeDhjcllNUG9BZUFRTWFuaHM0dw?oc=5",
-      "publishedAt": "2026-10-19T03:19:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump apresenta plano rápido para fechar e reformar o campo de golfe em Washington, D.C.",
-      "titleOriginal": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
-      "publishedAt": "2026-10-19T02:55:13.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "O prefeito Yemi Mobolade destaca os avanços de Colorado Springs — e os desafios que ainda estão por vir",
-      "titleOriginal": "Mayor Yemi Mobolade touts Colorado Springs' gains — and tests ahead",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1pMNkRkVjgyaHhqYnlSamNOOGlTM3M0YTlBbEpxTUJoSHJmaWYxMnNYRXRMYkhHaXZWNUN0UnFDWHlBZ2VDLVlZZTRleUFlMlExb29Dekh3aGtWa3I1WmJoT1NCWUZYajNpR0ZHSUw4STJINDg0SV9TVUl3ck5kZ0RsN0ZROFU5TUxETXQzNHhkVmVZYXcyZjJab3hRZUxVQTJwS2tIZGpKQ20yb281dUEzbEc?oc=5",
-      "publishedAt": "2026-10-19T02:46:10.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A polícia investiga denúncia de agressão sexual na república da Universidade de Chicago",
-      "titleOriginal": "Police investigate reported sexual assault at UChicago frat house",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMG8tTXF1dk4xdXZhYmJ3V2Y5MzYySUlCak5KZ2JKQW90QU1xSm4wdHY3SlN2aHgwQlhWem1BQWpYMEI3WjBIYW0yNHotSXNCOTJCVks5NHdrVll0cVNZUjV5QXFtR1BjbmRndTZNUXN4ajV6ckV3QVFnWFpRRGxXSHBSYTBBOF9XNkxBMTF6ZThINU95MEVtTTAwT3FEai1WVGZ6N3k0bVBVOWViNmFwWUN3VQ?oc=5",
-      "publishedAt": "2026-10-19T02:46:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Irã adverte os EUA contra um novo ataque e afirma que também tem “assuntos pendentes”",
-      "titleOriginal": "Iran warns US against renewed attack, says it has ‘unfinished jobs’ too",
-      "link": "https://thehill.com/policy/international/6157194-iran-minister-warns-us-attacks/",
-      "publishedAt": "2026-10-19T02:07:12.000Z"
+      "title": "Zelensky conversa com Witkoff e Kushner em meio à crise entre os EUA e a Ucrânia",
+      "titleOriginal": "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemV3Q1pHQl9WWlRpc1kzODBWbjByMUxxeGJFVmE3bUlkWWR4dTZpRVl4c2p3TWM2Um1Wb0Z3RWE4TmlKcTVxdjczS012aGxNZU8tOGpyX1NkOGFENnprQlV6M1dQbnpicklmYjBZak05dHRnRzJNbFhUVEtSUWZCc3U0WldTdw?oc=5",
+      "publishedAt": "2026-10-19T03:30:25.000Z"
     },
     {
       "source": "AP News",
-      "title": "C.J. Gardner-Johnson, dos Bills, pede desculpas após ter sido expulso por cuspir em um jogador dos Raiders",
-      "titleOriginal": "Bills’ C.J. Gardner-Johnson apologizes after his ejection for spitting at a Raiders player",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTE2WlQ5a0FpNTRxWm5sUmgyXzY5blN1YTdOdEtjLXhpM0pyTnBXLU5OMWJZT2dsS3NHQ3NJZG1Vemp4aG43YU5vSDhfNVkwbEZTRmRKWURLUE9tS2l2VUFBUGZ5RWRqT1R3LWlQMWdWNElndU01Nkg1S05VU19zRGd0M1JpcXJlS1NkcHozc25BRzhjbkZadjZ3aWVENWFkaUpz?oc=5",
-      "publishedAt": "2026-10-19T01:55:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Futuros do petróleo caem devido a uma possível correção, mas a queda pode ser limitada pelas tensões geopolíticas",
-      "titleOriginal": "Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc?oc=5",
-      "publishedAt": "2026-10-19T01:21:00.000Z"
+      "title": "Rússia-Ucrânia | Notícias de última hora e atualizações em tempo real",
+      "titleOriginal": "Russia-Ukraine | Breaking News & Live Updates",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+      "publishedAt": "2026-10-19T03:30:11.000Z"
     }
   ]
 }
