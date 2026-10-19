@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-18T23:13:29.937Z",
+  "updatedAt": "2026-10-19T00:29:42.840Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A GlobalFoundries construirá duas fábricas de chips com um financiamento de até US$ 21 bilhões",
+      "titleOriginal": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW8xQ1AtdjA2d1B4YXlXNkp6YnBCblFZNTI1YzZVYVYtMXBhZGtjdm9RMnZaOUx6M3hrRlFpbzhuMmZwcV83ZmNtSUh0aTB0MHlnQkpMSFhWamFhRnEwSFZuV2lpMmI0SWhjY29GVTNfX2NVdmhOUk0zN0dORXNnbGpnSjZ6RFY0OFVYazFnUGhkMDRUOGpEek5sZVZFWlIyb2loYg?oc=5",
+      "publishedAt": "2026-10-19T00:12:21.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump defende planos para flexibilizar as sanções contra a Rússia e dá indícios de um acordo sobre reféns",
+      "titleOriginal": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
+      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
+      "publishedAt": "2026-10-19T00:05:08.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Shawn Oliver, candidato do Partido Republicano ao cargo de vice-governador, suspende a campanha após ser preso por dirigir sob influência de álcool",
+      "titleOriginal": "GOP lieutenant governor nominee Shawn Oliver suspends campaign after OUI arrest",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc1Y5aUk2VmdsLXRRdlBYTHNIaUxYUjFDampGMnhjaVRmVU5BTm16eDdoZ0Jud2sxaldHUTBwM1FLLWJnM0NZd2RjR2JXSGN1TGFFOXdjQUk5ZVFzVmJldEliYW5sVjJvMnR5ZEMycTQ2Z09fQmQ2R3FUUEdNdmRoZ081MzRpRjYyRGd1WW9WSlBzWUh4cWFDRWJ6azF5eGhLS2pQazFGV0Y4OS1oWHFOcWs2T2Ztb1pWYmRpRUg4cHdtR1RPQ1dFb1FJSjVld01jakx2eDV0X0ZLLW1SZjhfanNnWU4zcVhhS2d1aHo0WHZFTjY0NE42bk9JWWdibUpoNFE?oc=5",
+      "publishedAt": "2026-10-18T23:59:01.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como a Pensilvânia explica as forças que moldam as eleições de meio de mandato",
+      "titleOriginal": "How Pennsylvania Explains the Forces Shaping the Midterms",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
+      "publishedAt": "2026-10-18T23:28:46.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Putin sugere uma cúpula com Trump e Xi para decidir o destino da Ucrânia",
+      "titleOriginal": "Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5",
+      "publishedAt": "2026-10-18T23:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Mike Turner pede que seja aberta uma investigação sobre a perda do acesso ao Starlink pela Ucrânia",
@@ -10,25 +45,18 @@
       "publishedAt": "2026-10-18T22:38:01.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Jeffries acredita nas chances dos democratas na disputa pela Câmara dos Deputados enquanto faz campanha em Ohio",
+      "titleOriginal": "Jeffries likes Democrats’ chances in race for the House as he campaigns in Ohio",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlVVd3I3ekczTzk5SFdKM1FSQy01SHE3QURiaFpjekdpbVhHMlZqNlQyMm5kcmwyMjRSZUFTMFJzUGFoRjlDWGI2VGkzUkVQVG51WmZUZ0NPMUR1cGF3X3VjeGE0aVlVb1g1LTVJYklSY3NOZUI4ZGhDWUtHamlmb0hnVkxXQVFTZlRNQ3l0Si1oY0FIMlBBY1pBd29YdWpiNWE0NF9OS3dGMVFDZVh3SGdSdw?oc=5",
+      "publishedAt": "2026-10-18T22:33:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Cineastas israelenses levam programação alternativa contra a “NAZA” ao Capitólio",
       "titleOriginal": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
       "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/",
       "publishedAt": "2026-10-18T22:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Governador do Banco da Inglaterra afirma que ainda é cedo para se pronunciar sobre a inflação de segunda ordem",
-      "titleOriginal": "Bank of England Governor Says Too Early to Make Call on Second-Round Inflation",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdrN3A1QTljaWt2QUhlR0l6RkljY3JiX3RUU2tLOEF4cDBOSXRqT1BOOWxvNmJlNmQ3bEh4YkdPS28waDZOT3FiNi10TTY1U2REX3c1RjJWMjRhTXhjY0NZckx3QXBIdkpsNXJQSElDYWsxWElXdW96dEZibUZOMDRJMm1FTmZWQVNsWnBqLWptT2RDT19VZ3JKNzdYd0REbWZOaTVqTEdlaVRaM2JpLXhVVWszb1ozVjFTQXlnR3J4SXc0NWc?oc=5",
-      "publishedAt": "2026-10-18T21:56:06.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Candidato do Partido Republicano ao cargo de vice-governador de Massachusetts suspende campanha após ser preso em acidente de carro",
-      "titleOriginal": "Massachusetts GOP lieutenant governor candidate suspends campaign after arrest in car crash",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXdNZG9zOHV1cGdzbEhITUdRMkRJWVo5eXo5SUZFMXp5UTlrV1pFVzdxT1NrYXV4Vjk1TDVQVG40akFTdHNsN1g3VlYzNl84YTJONkZFei1WdGRWYXVrTnhZQUNzYTVnWHkxRXh1d0xYSnRrd2U4V3hxTGJrdE5kc05VNnBNaTZJRUlmZFVJQ01idkt2TWpWbnliWQ?oc=5",
-      "publishedAt": "2026-10-18T21:22:00.000Z"
     },
     {
       "source": "AP News",
@@ -43,34 +71,6 @@
       "titleOriginal": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
       "publishedAt": "2026-10-18T21:05:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Com a campanha de Ken Paxton em declínio, o Partido Republicano procura alguém para culpar",
-      "titleOriginal": "With Ken Paxton's race faltering, GOP looks for someone to blame",
-      "link": "https://thehill.com/homenews/campaign/6155048-ken-paxton-republicans-texas-senate-race-trump/",
-      "publishedAt": "2026-10-18T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Esta semana no Capitólio: debate no Senado de Michigan, comícios de Trump e Obama volta à campanha",
-      "titleOriginal": "This Week on the Hill: Michigan Senate debate, Trump rallies and Obama hits the trail",
-      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6155364-trump-obama-midterm-election-rallies-debates/",
-      "publishedAt": "2026-10-18T21:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Newsom faz campanha com os democratas de New Hampshire antes das eleições de meio de mandato",
-      "titleOriginal": "Newsom campaigns with New Hampshire Democrats ahead of midterms",
-      "link": "https://thehill.com/homenews/campaign/6156885-newsom-nh-campaign-stops/",
-      "publishedAt": "2026-10-18T20:25:39.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Migrantes da Ucrânia e do Sudão manterão, por enquanto, as proteções contra a deportação",
-      "titleOriginal": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
-      "publishedAt": "2026-10-18T20:14:32.000Z"
     }
   ]
 }
