@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T11:38:37.150Z",
+  "updatedAt": "2026-10-20T12:12:07.654Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "O que os leitores do Axios Houston estão achando da eleição",
-      "titleOriginal": "What Axios Houston readers are feeling about the election",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHBjeGxYMFVkd1BiMEdjMy0zZXhtLVVOcGVpRGVURV9ybTN4Y0dTQmdhZ0ZIdUR1LUdFUHNZRng1QUE2dC02ZVRPbHo4bU9pMzVwcnJZcWR0ZzNJQ2lXRng3UlN5T0Y3VjZDZ0o3TUxSamVacFZCM2E5dnBXUy05OTNKTklYVG12dU8w?oc=5",
-      "publishedAt": "2026-10-20T11:24:12.000Z"
+      "source": "The Hill",
+      "title": "Aprovação de Trump atinge mínimo histórico de 31% antes das eleições de meio de mandato: pesquisa",
+      "titleOriginal": "Trump approval at record low 31 percent ahead of midterms: Survey",
+      "link": "https://thehill.com/homenews/administration/6159609-trump-approval-record-low-reuters-ipsos/",
+      "publishedAt": "2026-10-20T11:43:13.000Z"
     },
     {
       "source": "The Hill",
@@ -15,6 +15,13 @@
       "titleOriginal": "Inside the monthslong federal investigation of Rep. Ilhan Omar",
       "link": "https://thehill.com/homenews/6158481-inside-the-monthslong-federal-investigation-of-rep-ilhan-omar/",
       "publishedAt": "2026-10-20T11:22:49.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Motorista é acusado de ferir intencionalmente um deputado federal australiano",
+      "titleOriginal": "Driver charged with intentionally injuring Australian federal lawmaker",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+      "publishedAt": "2026-10-20T11:16:00.000Z"
     },
     {
       "source": "The Hill",
@@ -53,7 +60,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Como os democratas poderiam dificultar muito a reforma do Departamento de Educação de Trump",
+      "title": "Como os democratas poderiam dificultar muito a reforma do Departamento de Educação promovida por Trump",
       "titleOriginal": "How Democrats could make Trump's Education Department overhaul much harder",
       "link": "https://thehill.com/homenews/education/6158427-democratic-house-senate-education-department/",
       "publishedAt": "2026-10-20T10:00:00.000Z"
@@ -63,13 +70,6 @@
       "title": "Super PAC democrata critica duramente o Partido Republicano por causa da questão dos banheiros para pessoas trans",
       "titleOriginal": "Democratic super PAC hammers GOP over trans bathroom focus",
       "link": "https://thehill.com/homenews/campaign/6159488-democratic-pac-targets-gop-bathroom-ad/",
-      "publishedAt": "2026-10-20T10:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "As acusações de corrupção já impulsionaram o movimento MAGA. Agora, podem ser sua ruína",
-      "titleOriginal": "Corruption charges once propelled MAGA. Now they may doom it",
-      "link": "https://thehill.com/homenews/analysis/6159025-trump-populism-perot-influence/",
       "publishedAt": "2026-10-20T10:00:00.000Z"
     }
   ]
