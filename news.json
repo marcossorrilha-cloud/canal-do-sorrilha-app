@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-19T22:38:19.743Z",
+  "updatedAt": "2026-10-20T00:21:04.513Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
+      "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
+      "publishedAt": "2026-10-20T00:17:20.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A U.N.C. fecha acordo com Trump para manter o financiamento federal",
+      "titleOriginal": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
+      "publishedAt": "2026-10-19T23:59:20.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Disputa envolvendo o campo de golfe de Trump gera atrito entre juiz e o Departamento de Justiça",
+      "titleOriginal": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+      "publishedAt": "2026-10-19T23:24:54.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "A questão da acessibilidade financeira da qual os republicanos não conseguem escapar",
+      "titleOriginal": "The affordability question Republicans can't escape",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3AtYTk5MV91ekVyejVieDFCV2dFNFJjWkRGd1FydGxzVW11NGJGWThZVFdsdjA5Z3FvYW5zV2l2akc4MFFCZGhKX3F1SGlzVVZRWEZqdGZlbmxGb2U0V3I1U0lmSlFJVU1tSVQ5OFVuaC1vbG9zTkV4VXk2S0RGSVQzX0I?oc=5",
+      "publishedAt": "2026-10-19T23:03:36.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por dentro da luta do Partido Republicano para evitar uma derrota esmagadora na Câmara dos Deputados",
+      "titleOriginal": "Inside the GOP's fight to avoid a House wipeout",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXJmZ3FiS0VGNWdnTHc1OVhVdGdqOHdQOE1SNlJqbUJ1OU1DSy1pR3B6RkVTVzRtY0pwSFdKb1dQdzJvVVNadGkxSVJncTFnenJXR1FzYjdqWldiMFhVdktYTDNGR1oyTmJKNVFoenZHRXNqVHBjOVVNNllQSDZzQ2J4eFYzMjdq?oc=5",
+      "publishedAt": "2026-10-19T23:02:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O deputado republicano Fitzpatrick promete responsabilizar “integralmente” quaisquer autoridades americanas que tenham restringido o Starshield",
+      "titleOriginal": "GOP Rep. Fitzpatrick vows to hold any US officials who limited Starshield 'fully accountable'",
+      "link": "https://thehill.com/homenews/house/6159309-fitzpatrick-vows-starshield-accountability/",
+      "publishedAt": "2026-10-19T22:45:31.000Z"
+    },
     {
       "source": "The Hill",
       "title": "El-Sayed: A Universidade Estadual de Ohio deve um reembolso a Vance",
@@ -17,11 +59,11 @@
       "publishedAt": "2026-10-19T22:32:59.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Autoridades da Califórnia que processam cédulas eleitorais de supostos não cidadãos correm o risco de serem processadas, alerta os EUA",
-      "titleOriginal": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-      "publishedAt": "2026-10-19T22:30:39.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Pete Hegseth se reúne com Netanyahu em Israel antes das eleições",
+      "titleOriginal": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWWt2RURsNEZHOUs1QTVaTjFLUHUzN0VXUmpMczNjMDlaR3d5NHhPNEx6Z0hNS3JEUTI1UV90ejFGSzMxWU56b0Zpa2h0VkdEY1JobmxoMEJrVk5zQUxRWlFaNlZrMnRkNmQ0NVpBb25pQmRUMDNkdFJjUmhXdDR6b0F3?oc=5",
+      "publishedAt": "2026-10-19T22:32:30.000Z"
     },
     {
       "source": "AP News",
@@ -29,48 +71,6 @@
       "titleOriginal": "Meet the researchers leaving the US because of Trump's funding cuts and politicization of science",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanpjMjF5NnBJSmo1TlR0dFdqTm9zNjBvS01BSGNFS2lMazVLM08tMDI3bHdPbnUyMDdnREhwQ0V4N2NZOTZpNXI0ejBybXNZUTRUdWpVZjdtM01JR0ppSkE3ck5POW9WVmZQLWFoUFk3YmkyN3BTN0xJWk9ROTBZYUE4RDl6MUNVRXdlVThkR0hFTThIdGE0QkswQQ?oc=5",
       "publishedAt": "2026-10-19T22:29:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Hegseth assiste a partida da UT, alimentando especulações sobre seu futuro político no Tennessee",
-      "titleOriginal": "Hegseth attends UT game, fueling speculation about his Tennessee political future",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmZwWEdJUGJtSDhyeDFRQXhUUFFsWm5Zd1JYVllMVDM2YnJUb2RCUGRDS25NM3pkRnJJdlU0SzZnNkZhdXRpUzFUM2M0eHhiazcwMWxkVlNlZEhwUjBUdmlXNnV0VzluYmFtcWdiSGxURmI5LTJSRXphSDVRQ3N1a3pBOHY0MGFPcUEya2NKR0V1Z1dUZWFnV1o0cnhRLU9fZmJxVUJvWUQ3NXppOWxoVmlpb3RXTFNwRUlTVFNfczVKWkM5V3Npaw?oc=5",
-      "publishedAt": "2026-10-19T22:27:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump pede que o Novo México mude seu nome para “Nova América”",
-      "titleOriginal": "Trump calls on New Mexico to change its name to 'New America'",
-      "link": "https://thehill.com/homenews/administration/6159125-trump-calls-new-mexico-new-america/",
-      "publishedAt": "2026-10-19T21:59:36.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O mapa do Senado que está impulsionando a intensa série de viagens de Trump nesta reta final da campanha",
-      "titleOriginal": "The Senate map driving Trump’s late-stage travel blitz",
-      "link": "https://thehill.com/homenews/administration/6159184-trump-senate-midterm-travel/",
-      "publishedAt": "2026-10-19T21:48:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump deve voltar ao Texas para um comício nas eleições de meio de mandato",
-      "titleOriginal": "Trump set to return to Texas for midterm rally",
-      "link": "https://thehill.com/homenews/campaign/6159173-trump-waco-texas-rally/",
-      "publishedAt": "2026-10-19T21:47:58.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Disputa envolvendo o campo de golfe de Trump gera atrito entre juiz e o Departamento de Justiça",
-      "titleOriginal": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "publishedAt": "2026-10-19T21:47:53.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia de Paris decretou toque de recolher noturno em duas áreas da capital francesa para tentar evitar novos distúrbios",
-      "titleOriginal": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
-      "publishedAt": "2026-10-19T21:39:00.000Z"
     }
   ]
 }
