@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-10-21T22:44:44.725Z",
+  "updatedAt": "2026-10-21T23:20:37.462Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump realizará comício no Mississippi",
+      "titleOriginal": "Trump to hold rally in Mississippi",
+      "link": "https://thehill.com/homenews/campaign/6164347-trump-mississippi-rally-midterms/",
+      "publishedAt": "2026-10-21T23:15:18.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Novas regras na Carolina do Norte ameaçam milhares de votos por correspondência",
+      "titleOriginal": "New Rules in North Carolina Threaten Thousands of Mail Ballots",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/north-carolina-senate-mail-ballot-rejections.html",
+      "publishedAt": "2026-10-21T23:11:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: Candidatos ao Senado do Kansas e de Michigan fazem seus apelos finais enquanto Trump segue para a Carolina do Sul",
+      "titleOriginal": "Live updates: Kansas, Michigan Senate candidates make final pitches as Trump heads to South Carolina",
+      "link": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/",
+      "publishedAt": "2026-10-21T23:00:50.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "EUA e Israel elaboram planos para novos ataques ao Irã após as eleições",
+      "titleOriginal": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+      "publishedAt": "2026-10-21T22:41:32.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Uma pesquisa favorável aos democratas, com alguns sinais de alerta",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-10-21T22:01:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Marshall e Hamilton se enfrentam no último debate para o Senado do Kansas",
-      "titleOriginal": "Watch live: Marshall, Hamilton face off in final Kansas Senate debate",
-      "link": "https://thehill.com/homenews/6162696-watch-live-marshall-hamilton-face-off-in-final-kansas-senate-debate/",
-      "publishedAt": "2026-10-21T22:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Menos americanos afirmam que o governo federal está melhorando suas vidas: Gallup",
-      "titleOriginal": "Fewer Americans say federal government improving their lives: Gallup",
-      "link": "https://thehill.com/homenews/administration/6164036-americans-federal-government-effectiveness/",
-      "publishedAt": "2026-10-21T21:49:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Internet corre contra o tempo para se proteger contra falhas de segurança recém-descobertas",
-      "titleOriginal": "Internet races to fend off newly discovered security flaws",
-      "link": "https://thehill.com/newsletters/technology/6164174-internet-races-to-fend-off-newly-discovered-security-flaws/",
-      "publishedAt": "2026-10-21T21:40:17.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Meta fará um desdobramento de ações e criará uma nova classe para financiar os gastos com IA",
-      "titleOriginal": "Meta Will Split Stock, Create New Class to Fund AI Spending",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
-      "publishedAt": "2026-10-21T21:33:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-autoridades pedem ao Congresso que reforme o sistema de licenciamento",
-      "titleOriginal": "Former officials urge Congress to reform permitting",
-      "link": "https://thehill.com/newsletters/business-economy/6164139-former-officials-urge-congress-to-reform-permitting/",
-      "publishedAt": "2026-10-21T21:31:30.000Z"
+      "source": "Axios",
+      "title": "Os democratas acusam Trump de usar ameaças de processo judicial para pressionar autoridades eleitorais",
+      "titleOriginal": "Democrats accuse Trump of using prosecution threats to pressure election officials",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1F2Mms0ZDBYUzY0Z1J0dnB3dGhUMlBYNm9haDNRenltbExrTWxCWEx0ek9maEFsUHk2a3Y5OThaOVloQzh6VmQ4MDUyeFk1TnNnYmRwOVpfdU5NY3c2a3BkZlpVVG1GWVdhOXNycW9MeXowT3hTN0tYS3h3V1paZlE2VHM?oc=5",
+      "publishedAt": "2026-10-21T21:55:33.000Z"
     }
   ]
 }
