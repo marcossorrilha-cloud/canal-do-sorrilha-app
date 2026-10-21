@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-21T15:15:39.004Z",
+  "updatedAt": "2026-10-21T15:37:06.811Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
+      "title": "Deputado republicano: “Precisamos investigar” o relatório sobre a redução da velocidade do Starlink",
+      "titleOriginal": "GOP rep: 'We got to investigate' Starlink slowdown report",
+      "link": "https://thehill.com/homenews/house/6162739-fitzpatrick-calls-starlink-investigation-elon-musk/",
+      "publishedAt": "2026-10-21T15:32:30.000Z"
+    },
+    {
+      "source": "The Hill",
       "title": "Por que a postura política mais segura em relação ao horário de verão é não fazer nada",
-      "titleOriginal": "Why the safest political path on Daylight Saving Time is to do nothing",
+      "titleOriginal": "Why the safest political path on daylight saving time is to do nothing",
       "link": "https://thehill.com/opinion/congress-blog/6161240-why-congress-stalls-clock-change-bills/",
       "publishedAt": "2026-10-21T15:00:00.000Z"
     },
@@ -24,6 +31,13 @@
       "publishedAt": "2026-10-21T14:52:08.000Z"
     },
     {
+      "source": "Axios",
+      "title": "A matemática da fusão de Elon Musk",
+      "titleOriginal": "Elon Musk's merger math",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUVFMWEdydDNFdGNSLV9qejdMS3lsQm5tLUR1aHRtTk5fYTFPZElJMTZXXzZNbXg3UlREYlFjNWdvLXhlc0gtLVpjSG1rZlo1eXRESkppcXRjUUozWnprRGhyYmJaQ2NwdnNSVXYzbw?oc=5",
+      "publishedAt": "2026-10-21T14:49:42.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Democratas pedem investigação sobre Musk devido à suposta ordem de redução da velocidade do Starlink",
       "titleOriginal": "Democrats call for investigation into Musk over reported Starlink slowdown order",
@@ -32,7 +46,7 @@
     },
     {
       "source": "The Hill",
-      "title": "“O presidente não é popular”: candidato do Partido Republicano retira do site o que parece ser uma sugestão gerada por IA",
+      "title": "“O presidente não é popular”: candidato do Partido Republicano remove do site o que parece ser uma sugestão gerada por IA",
       "titleOriginal": "'The President is not popular': GOP candidate cuts apparent AI prompt from website",
       "link": "https://thehill.com/homenews/campaign/6162245-eric-pratt-ai-prompt-minnesota-2nd-district/",
       "publishedAt": "2026-10-21T14:41:11.000Z"
@@ -57,20 +71,6 @@
       "titleOriginal": "Trump approval at new lows in polling days before midterms",
       "link": "https://thehill.com/homenews/administration/6162347-trump-approval-rating-midterm-lows/",
       "publishedAt": "2026-10-21T14:29:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que está exigindo que os centros de dados forneçam sua própria eletricidade",
-      "titleOriginal": "Trump says he's requiring data centers to provide their own electricity",
-      "link": "https://thehill.com/homenews/administration/6161874-trump-mandates-data-center-power/",
-      "publishedAt": "2026-10-21T14:26:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O candidato ao Congresso Brad Lander afirma ter sido detido por militares israelenses na Cisjordânia",
-      "titleOriginal": "Congressional candidate Brad Lander says he was detained by Israeli military in West Bank",
-      "link": "https://thehill.com/homenews/campaign/6162296-brad-lander-idf-detained-west-bank/",
-      "publishedAt": "2026-10-21T14:24:31.000Z"
     }
   ]
 }
