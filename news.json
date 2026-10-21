@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-21T04:49:34.482Z",
+  "updatedAt": "2026-10-21T05:19:09.349Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Witkoff apresentará a Putin uma proposta de paz após conversas com Zelensky",
+      "titleOriginal": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+      "publishedAt": "2026-10-21T04:10:43.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Um bilionário queria um perdão de Trump. Sua família ofereceu a Alina Habba um contrato de US$ 50 milhões.",
@@ -38,13 +45,6 @@
       "publishedAt": "2026-10-21T01:55:00.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Trump promete dinheiro e pacotes de ajuda financeira para conquistar eleitores das eleições de meio de mandato preocupados com os preços altos",
-      "titleOriginal": "Trump Promises Cash and Bailouts to Woo Midterm Voters Worried About High Prices",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmJ0ZnFsQVpMbzZMdzVNZnJ0Ujhaa3Q1OGpEcWVDaGoyREdQWHZYWFl2ZWxRZHlGYXBaZ1pZNzVXMXlCWmhPclltS01yZnFvM3NiS09BZ1RQRU4wZDFjaDBWbGMwM2FQdEpDSlhwZXBjSTRIeFYtSWJySDhFdDlRUkRlVXJ1bjdKUWRBSg?oc=5",
-      "publishedAt": "2026-10-21T01:37:00.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Trump afirma que o Pentágono investirá US$ 1,5 bilhão na produção de chips na Carolina do Norte",
       "titleOriginal": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
@@ -52,25 +52,25 @@
       "publishedAt": "2026-10-21T01:26:11.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Witkoff apresentará a Putin uma proposta de paz após conversas com Zelensky",
-      "titleOriginal": "Witkoff to present Putin with peace proposal after talks with Zelensky",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
-      "publishedAt": "2026-10-21T01:25:14.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O ouro cai em meio à pressão causada pela alta nos preços do petróleo bruto",
-      "titleOriginal": "Gold Falls Amid Pressure From Rising Crude Prices",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEZTVGxaNldEUzVrM09VSDcwRTJZNzlDV0Myc3hraFlSTWNtdlQ0T1pzMXh5amhPcmNrVGJwSjQ4WUZOcTlMaTU1MzNzZWJKdlM5emV3amJza2lSelR6N05ZMHkzMEVQQmlFU2Rid05ORENaeUlDSHJ2UTZIZktmYjhROFlfRXNwZE5nNFNJNU5uZy03U1o1Y0VEWU0tYXptVDVsWnVGUUJVUQ?oc=5",
-      "publishedAt": "2026-10-21T01:15:00.000Z"
-    },
-    {
       "source": "AP News",
       "title": "Os eleitores de Alberta rejeitam por esmagadora maioria o processo de separação, o que representa uma vitória para Carney",
       "titleOriginal": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
       "publishedAt": "2026-10-21T01:07:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Trump aposta no apocalipse em mensagem contra os democratas nas eleições de meio de mandato",
+      "titleOriginal": "Trump goes full apocalypse in anti-Dems midterms message",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2ZqcEN5WURfMEVFbkxaV1c2ajN4RmpRZFJTQmNBeEFvaFZVSDgweTJXVUF1OVA0SE92THZqcVpDOGIxV21iWjFGMWFhUC10U0RVbGxHcXpSXzhqTHdQb1dhSHpRUnl5X0c3ekE4NnJncVBvV3luMWtmbkZJUEVfSHdMeElrZm8?oc=5",
+      "publishedAt": "2026-10-21T00:52:53.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como Zelensky está tentando lidar com a aproximação de Trump à Rússia",
+      "titleOriginal": "How Zelensky Is Trying to Navigate Trump’s Tilt Toward Russia",
+      "link": "https://www.nytimes.com/video/us/politics/100000011225769/how-zelensky-is-trying-to-navigate-trumps-tilt-toward-russia.html",
+      "publishedAt": "2026-10-21T00:41:44.000Z"
     }
   ]
 }
