@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-21T05:19:09.349Z",
+  "updatedAt": "2026-10-21T10:09:57.306Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Witkoff apresentará a Putin uma proposta de paz após conversas com Zelensky",
-      "titleOriginal": "Witkoff to present Putin with peace proposal after talks with Zelensky",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
-      "publishedAt": "2026-10-21T04:10:43.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Um bilionário queria um perdão de Trump. Sua família ofereceu a Alina Habba um contrato de US$ 50 milhões.",
-      "titleOriginal": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
-      "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
-      "publishedAt": "2026-10-21T03:58:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump mobiliza uma quantia sem precedentes de US$ 277 milhões na reta final das eleições de meio de mandato",
-      "titleOriginal": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
-      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-midterms.html",
-      "publishedAt": "2026-10-21T03:14:58.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A MAGA Inc. investe milhões para mobilizar os republicanos nas urnas",
-      "titleOriginal": "MAGA Inc. Unleashes Millions to Turn Out Republicans At the Polls",
-      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-super-pac.html",
-      "publishedAt": "2026-10-21T02:41:08.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas da Câmara são obrigados a tomar decisões difíceis com recursos financeiros limitados para as eleições de meio de mandato",
-      "titleOriginal": "House Democrats forced to make tough choices with limited midterm cash",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVJoS1djVmJOVXhoVU9lQXJkX3FDYm1NaW1feGZsSVYzMmRiaUo3d0ZWQklJOFZ5d2dnWjloM1RyOHI0RjR1Z09WZFBsc0NaWWVqVHRlWUNLM25EQmVxUnp6VW5fS2RTOVhmdDJTMVJja1pwLWdoNlh3ZWM4bDF2dFVPRG01T1U?oc=5",
-      "publishedAt": "2026-10-21T02:26:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Motorista acusado de atropelar intencionalmente um deputado australiano não era considerado uma ameaça, segundo a polícia",
-      "titleOriginal": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
-      "publishedAt": "2026-10-21T01:55:00.000Z"
+      "title": "Rússia libera o americano Stephen Hubbard da prisão, segundo a mídia estatal",
+      "titleOriginal": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "publishedAt": "2026-10-21T10:00:25.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump afirma que o Pentágono investirá US$ 1,5 bilhão na produção de chips na Carolina do Norte",
-      "titleOriginal": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
-      "link": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
-      "publishedAt": "2026-10-21T01:26:11.000Z"
+      "title": "Vance pode enfrentar um desafio em 2028 no combate à corrupção",
+      "titleOriginal": "Vance could face 2028 challenge in addressing corruption",
+      "link": "https://thehill.com/homenews/administration/6161375-vance-trump-corruption-perception-2028/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Os eleitores de Alberta rejeitam por esmagadora maioria o processo de separação, o que representa uma vitória para Carney",
-      "titleOriginal": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
-      "publishedAt": "2026-10-21T01:07:00.000Z"
+      "source": "The Hill",
+      "title": "A próxima turma do Senado decidirá o destino da Previdência Social. Será que eles conseguirão chegar a um acordo para salvá-la?",
+      "titleOriginal": "The next Senate class will decide Social Security's fate. Can they meet halfway to save it?",
+      "link": "https://thehill.com/homenews/senate/6160426-senate-social-security-insolvency/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Trump aposta no apocalipse em mensagem contra os democratas nas eleições de meio de mandato",
-      "titleOriginal": "Trump goes full apocalypse in anti-Dems midterms message",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2ZqcEN5WURfMEVFbkxaV1c2ajN4RmpRZFJTQmNBeEFvaFZVSDgweTJXVUF1OVA0SE92THZqcVpDOGIxV21iWjFGMWFhUC10U0RVbGxHcXpSXzhqTHdQb1dhSHpRUnl5X0c3ekE4NnJncVBvV3luMWtmbkZJUEVfSHdMeElrZm8?oc=5",
-      "publishedAt": "2026-10-21T00:52:53.000Z"
+      "source": "The Hill",
+      "title": "O Resumo: Zelensky busca uma saída da situação crítica com Trump, mas sem muito sucesso",
+      "titleOriginal": "The Memo: Zelensky looks for way back from brink with Trump, to little avail",
+      "link": "https://thehill.com/homenews/analysis/6161360-trump-blames-ukraine-diesel-prices/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Marshall e Hamilton devem subir ao palco do debate na acirrada disputa pelo Senado do Kansas",
+      "titleOriginal": "Marshall, Hamilton set to take debate stage in tight Kansas Senate race",
+      "link": "https://thehill.com/homenews/campaign/6160651-kansas-senate-debate-marshall-hamilton/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Por dentro do plano de fiscalização dos democratas para os dois últimos anos do governo Trump",
+      "titleOriginal": "Inside Democrats' oversight playbook for Trump's final two years",
+      "link": "https://thehill.com/homenews/house/6160610-democrats-plan-trump-investigations/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Zelensky e os aliados dos EUA apostam em concessões em relação aos ataques para apaziguar Trump",
+      "titleOriginal": "Zelensky, US allies bet on strike concessions to placate Trump",
+      "link": "https://thehill.com/policy/defense/6161492-wicker-proposes-missile-intelligence-swap/",
+      "publishedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O Partido Republicano tem um problema de comunicação nas eleições de meio de mandato. Ramaswamy não está ajudando",
+      "titleOriginal": "The GOP has a midterm messaging problem. Ramaswamy isn’t helping",
+      "link": "https://www.politico.com/video/2026/10/21/the-gop-has-a-midterm-messaging-problem-ramaswamy-isnt-helping-2207287",
+      "publishedAt": "2026-10-21T09:45:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Como Zelensky está tentando lidar com a aproximação de Trump à Rússia",
-      "titleOriginal": "How Zelensky Is Trying to Navigate Trump’s Tilt Toward Russia",
-      "link": "https://www.nytimes.com/video/us/politics/100000011225769/how-zelensky-is-trying-to-navigate-trumps-tilt-toward-russia.html",
-      "publishedAt": "2026-10-21T00:41:44.000Z"
+      "title": "Democratas têm ampla vantagem em nossa nova pesquisa, enquanto Trump perde força",
+      "titleOriginal": "Democrats Have a Wide Lead in Our New Poll as Trump Slides",
+      "link": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
+      "publishedAt": "2026-10-21T09:36:35.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Por dentro da guerra de anúncios da campanha eleitoral do programa “To Catch a Predator”",
+      "titleOriginal": "Inside the \"To Catch a Predator\" election's ad wars",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EaFoxRU1ZZlViUHp6Sk81Qm02UG1GWGZvaWVzajdNaml3NkZySElrbV9KbXgxZURFWEd2eUVvTk1uQ3M5QTZ5X2dkbk9oem9wNmd0dDJHejVKS1VmMXExVWRnX0F2QlYydGhKcEc4Q3BjZzc1RFE?oc=5",
+      "publishedAt": "2026-10-21T09:23:42.000Z"
     }
   ]
 }
