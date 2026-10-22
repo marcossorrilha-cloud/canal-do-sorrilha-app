@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-10-22T22:45:28.431Z",
+  "updatedAt": "2026-10-22T23:23:16.359Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O anúncio que está dividindo o Partido Republicano",
+      "titleOriginal": "The Ad Dividing the Republican Party",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/ohio-governor-ad-ramaswamy-acton.html",
+      "publishedAt": "2026-10-22T23:15:45.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
+      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "publishedAt": "2026-10-22T23:06:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Suprema Corte decide que New Hampshire pode impedir que eleitores utilizem carteiras de identidade de estudante",
+      "titleOriginal": "Supreme Court rules NH can block voters from using student IDs",
+      "link": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/",
+      "publishedAt": "2026-10-22T22:50:58.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sobre os relatórios da investigação sobre Lewandowski: “Quero que meu pessoal seja honesto”",
+      "titleOriginal": "Trump on Lewandowski probe reports: 'I want my people to be honest'",
+      "link": "https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff/",
+      "publishedAt": "2026-10-22T22:47:06.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O que as visitas simultâneas de Ocasio-Cortez e Manchin revelam sobre a disputa pelo Senado no Maine",
@@ -15,13 +43,6 @@
       "titleOriginal": "MAHA leader resigns from administration",
       "link": "https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration/",
       "publishedAt": "2026-10-22T22:30:51.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Suprema Corte autoriza proibição geral do uso de crachás de estudante nas seções eleitorais em New Hampshire",
-      "titleOriginal": "Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/supreme-court-new-hampshire-election-student-id.html",
-      "publishedAt": "2026-10-22T22:29:45.000Z"
     },
     {
       "source": "The Hill",
@@ -38,13 +59,6 @@
       "publishedAt": "2026-10-22T22:23:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
-      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "publishedAt": "2026-10-22T22:19:57.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Jackson diz estar “preocupado” com a participação eleitoral nas áreas rurais da Geórgia",
       "titleOriginal": "Jackson says he's ‘concerned’ about Georgia rural voter turnout",
@@ -57,20 +71,6 @@
       "titleOriginal": "SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’",
       "link": "https://thehill.com/policy/technology/6166816-gerber-slams-musk-starlink-ukraine/",
       "publishedAt": "2026-10-22T22:11:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A polêmica em torno de Ramaswamy coloca Trump e Vance contra a cúpula do Partido Republicano de Ohio",
-      "titleOriginal": "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-      "link": "https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy/",
-      "publishedAt": "2026-10-22T22:04:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas da Câmara exigem respostas do CDC sobre estudo sobre hepatite B na África",
-      "titleOriginal": "House Democrats demand answers from CDC on African hepatitis B study",
-      "link": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
-      "publishedAt": "2026-10-22T22:03:54.000Z"
     }
   ]
 }
