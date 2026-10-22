@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-22T20:07:22.015Z",
+  "updatedAt": "2026-10-22T22:45:28.431Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Departamento de Justiça abre investigação sobre Lewandoski",
-      "titleOriginal": "Justice Dept. Opens Inquiry Into Lewandoski",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "publishedAt": "2026-10-22T20:04:43.000Z"
+      "title": "O que as visitas simultâneas de Ocasio-Cortez e Manchin revelam sobre a disputa pelo Senado no Maine",
+      "titleOriginal": "What Dueling Visits by Ocasio-Cortez and Manchin Say About Maine’s Senate Race",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/maine-aoc-jackson-collins-manchin-senate.html",
+      "publishedAt": "2026-10-22T22:40:14.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Carville afirma que ainda acredita que Trump vai se demitir até a Páscoa",
-      "titleOriginal": "Carville says he still believes Trump will quit by Easter",
-      "link": "https://thehill.com/homenews/campaign/6166328-carville-trump-easter-2026-midterms/",
-      "publishedAt": "2026-10-22T20:02:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Departamento de Estado consultou alguns diplomatas de carreira sobre o voto em Trump: Reportagem",
-      "titleOriginal": "State Department asked some career diplomats about voting for Trump: Report",
-      "link": "https://thehill.com/homenews/administration/6166456-state-department-career-diplomats-voting-history/",
-      "publishedAt": "2026-10-22T20:01:08.000Z"
+      "title": "Líder da MAHA renuncia ao cargo no governo",
+      "titleOriginal": "MAHA leader resigns from administration",
+      "link": "https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration/",
+      "publishedAt": "2026-10-22T22:30:51.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Chris Pappas pode fazer história na disputa pelo Senado em New Hampshire",
-      "titleOriginal": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
-      "publishedAt": "2026-10-22T20:00:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O influente senador estadual democrata da Virgínia, Lucas, é acusado de liderar uma conspiração criminosa envolvendo maconha",
-      "titleOriginal": "Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5",
-      "publishedAt": "2026-10-22T20:00:00.000Z"
+      "title": "Suprema Corte autoriza proibição geral do uso de crachás de estudante nas seções eleitorais em New Hampshire",
+      "titleOriginal": "Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/supreme-court-new-hampshire-election-student-id.html",
+      "publishedAt": "2026-10-22T22:29:45.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump lamenta a proibição das carruagens puxadas por cavalos em Nova York",
-      "titleOriginal": "Trump laments NYC horse-drawn carriage ban",
-      "link": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/",
-      "publishedAt": "2026-10-22T19:39:32.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Irã afirma que sete navios-tanque foram danificados no Estreito de Ormuz, além de outras notícias do Oriente Médio",
-      "titleOriginal": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
-      "publishedAt": "2026-10-22T19:38:00.000Z"
+      "title": "Senadores instam Hegseth e Rubio a liberar recursos para a Iniciativa de Segurança do Báltico",
+      "titleOriginal": "Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative",
+      "link": "https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative/",
+      "publishedAt": "2026-10-22T22:25:06.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Futuros do petróleo sobem com a persistência dos ataques à Arábia Saudita e dos riscos entre EUA e Irã",
-      "titleOriginal": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
-      "publishedAt": "2026-10-22T19:29:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump reforça campanha publicitária contra Acton em Ohio: “Vivek deveria continuar assim”",
-      "titleOriginal": "Trump doubles down on anti-Acton ad in Ohio: 'Vivek should keep it up'",
-      "link": "https://thehill.com/homenews/campaign/6166346-trump-ramaswamy-acton-ad-defense/",
-      "publishedAt": "2026-10-22T19:24:12.000Z"
+      "title": "Exclusivo | Departamento de Justiça analisa denúncias contra Corey Lewandowski",
+      "titleOriginal": "Exclusive | Justice Department Reviewing Allegations Against Corey Lewandowski",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclU4TEl3aUlfajBPOFMxcDFuMjJGeDlhYmlfOENMT1BwbnUxNFc4MXZOQ0ZnRy1NRWRBcTRBTUxZWmdUYlFNZ1VXdU9UOThMSTFJUTVyYzVybjM1aGVYeUNSWTdiUnRWN1hFSE9pVnROUS11QXVOUXBEdk5wSVVqdU5MdG5ybzg?oc=5",
+      "publishedAt": "2026-10-22T22:23:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Confrontos ensombram comício na Carolina do Sul enquanto Trump busca impulsionar a campanha de Darline Graham",
-      "titleOriginal": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
-      "publishedAt": "2026-10-22T19:05:31.000Z"
+      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
+      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "publishedAt": "2026-10-22T22:19:57.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jackson diz estar “preocupado” com a participação eleitoral nas áreas rurais da Geórgia",
+      "titleOriginal": "Jackson says he's ‘concerned’ about Georgia rural voter turnout",
+      "link": "https://thehill.com/homenews/campaign/6166869-georgia-governor-race-turnout/",
+      "publishedAt": "2026-10-22T22:14:17.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Investidor da SpaceX: o Starlink “não é confiável para a segurança nacional de ninguém, exceto para Trump”",
+      "titleOriginal": "SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’",
+      "link": "https://thehill.com/policy/technology/6166816-gerber-slams-musk-starlink-ukraine/",
+      "publishedAt": "2026-10-22T22:11:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A polêmica em torno de Ramaswamy coloca Trump e Vance contra a cúpula do Partido Republicano de Ohio",
+      "titleOriginal": "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
+      "link": "https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy/",
+      "publishedAt": "2026-10-22T22:04:15.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratas da Câmara exigem respostas do CDC sobre estudo sobre hepatite B na África",
+      "titleOriginal": "House Democrats demand answers from CDC on African hepatitis B study",
+      "link": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
+      "publishedAt": "2026-10-22T22:03:54.000Z"
     }
   ]
 }
