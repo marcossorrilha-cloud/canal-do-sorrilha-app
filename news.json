@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-10-22T04:48:14.211Z",
+  "updatedAt": "2026-10-22T07:57:31.131Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A Salesforce vai adquirir uma plataforma de engajamento do cliente por quase US$ 5,7 bilhões",
+      "titleOriginal": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9JQ3VzOXEwMFRKaXF3ekhnekdUUjNhcUNjT3AtS0lEWnE5Wno5dFFZOWYySWlQMnNIa0VBdDR6Q2hhNk9jTFpDVS1PT01rZDVxa3hNeHhyYUQ2eTBkclpyWXFmazhTa2pYaURKaFc5OUNSSjNVRW1faXcyYzlyOVU1MERCWHVyQTJtUmRzeFNuQU1YQXNHWl80bF9PUEE2czVVUUdta3lxZnB6TXRvQVlPNA?oc=5",
+      "publishedAt": "2026-10-22T07:18:17.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Furo: Democratas orientam discretamente os super PACs para impulsionar candidatos à Câmara que possam atrapalhar a eleição",
+      "titleOriginal": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG0taTFibHltT1hjWEIxa3NoNFh6SFlrTHNITkl2bGNGV3hOX25YTy1wbk43aG9oTDZmaFNPVWhxSk5YWHdzX1YwNXZBakE1Y0JwbkFRaEEyUWVJV0YwMzlDTno2SDhCOXJuZ0p3d2UxYmhKcVk0alhySHcxaERGNkFaN0NTcGY4?oc=5",
+      "publishedAt": "2026-10-22T04:48:57.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O senador do Kansas, Roger Marshall, afirma que a guerra na Ucrânia, e não a guerra no Irã, é a responsável pelos altos preços do diesel",
+      "titleOriginal": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
+      "publishedAt": "2026-10-22T04:13:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Taiwan indiciou cinco pessoas acusadas de tentar ferir um comediante que zomba de Xi e do Partido Comunista Chinês",
+      "titleOriginal": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamtfVkxwM2hZWm1zeHF1WjBqMVVkTTMzaFl2RHJXYm1QcXByMl9yeGE2QUl2VDY2OVkwdGU2M2lWcVVVUE1qQkg3M0VVMGxMcVI2MjZMSExXZGlxRGZGeldqVi0zZlk5bS1pY1FxUFZUV3JWOVpWYnZSLVEwVjRfQzY5dUpiR0NsMXhUS014dFpnS2pBNXVzUVhIRm8zTjJOVC1wbWdfOG85VzA?oc=5",
+      "publishedAt": "2026-10-22T03:56:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Tiffany e Crowley se enfrentam no único debate para o cargo de governador de Wisconsin: três pontos a destacar",
       "titleOriginal": "Tiffany, Crowley tangle in only Wisconsin governor's debate: 3 takeaways",
       "link": "https://thehill.com/homenews/campaign/6164326-tiffany-crowley-wisconsin-governor-debate-takeaways/",
       "publishedAt": "2026-10-22T03:42:57.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Hegseth aprova testes com o “raio de calor” na fronteira. Veja como funciona",
+      "titleOriginal": "Hegseth approves testing of \"heat ray\" at the border. Here's how it works",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNTDd2QldBVkRqajdWRGRjcWN0LV9SazJMdWRCbURsa1Z5anE3eGpRVnVSSjVGcHpfMW5odlRNYmZ0TzVjWFRqSnpGQjdoWlUzNlVHa2ZaS29BU3ktMy1LSlBQLU11R1kzQk9tTGtHNUphNEd1N2pJ?oc=5",
+      "publishedAt": "2026-10-22T03:09:47.000Z"
     },
     {
       "source": "AP News",
@@ -18,7 +53,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Marshall e Hamilton se enfrentam no debate pelo Senado no Kansas, um estado decisivo: 4 pontos a serem destacados",
+      "title": "Marshall e Hamilton se enfrentam no debate pelo Senado no Kansas, um estado decisivo: 4 pontos a destacar",
       "titleOriginal": "Marshall, Hamilton clash in battleground Kansas Senate debate: 4 takeaways",
       "link": "https://thehill.com/homenews/campaign/6164323-marshall-hamilton-clash-in-battleground-kansas-senate-debate-4-takeaways/",
       "publishedAt": "2026-10-22T02:47:21.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
       "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
       "publishedAt": "2026-10-22T02:41:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O dólar de Cingapura se consolida, mas a alta nos preços do petróleo pode pesar",
-      "titleOriginal": "Singapore Dollar Consolidates, But Rising Oil Prices May Weigh",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlk3OFJDQVMtZXpTSlpOUUhORWhBWGJ1TnZHZi1pdllyLW9iWGlNYmtSTFljV21LaGNHOTAxNExCUWMyTEdxdU1fbEVuRTVPSlh2eVdGUnNtdDczdUZNVzlVUDhBRjRjV2N0dFNtU05YUTVnY2p0bWdGTzlFanc5Umt4NnpRN3V5Z3gxRTI0eXJVcWs3cHFsR0dsVC1Tb08yUzhteHJFYlhqNnpYR2lGRg?oc=5",
-      "publishedAt": "2026-10-22T02:40:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Na diplomacia de Trump, os insultos são uma via de mão única. A Ucrânia é o exemplo mais recente.",
-      "titleOriginal": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
-      "publishedAt": "2026-10-22T02:29:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Coreia do Norte afirma que retomará as transmissões de propaganda através da fronteira para a Coreia do Sul",
-      "titleOriginal": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
-      "publishedAt": "2026-10-22T02:20:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tiffany, republicana de Wisconsin, afirma que o dinheiro de Zuckerberg foi o motivo pelo qual ele tentou anular a eleição de 2020",
-      "titleOriginal": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzcxcnBlTzZ1bVN3am1mNExuR0xEbFFxbDhXYnFIVllOWkg5REE3eTNoSXpIbmxqQ29QRHZtOU1NQVBickxJaF9DS2pZMEcwa19kdzZQeERiUGpNdmZxakJsQzBhLWZzODgzSDU1NEtxcTFlZklGN1VHUEQ3U0ZnZ0NPZmxpZVMwaDFiY21xYTMzTDA5UWN5eDlRZ3phUXlMalE?oc=5",
-      "publishedAt": "2026-10-22T02:04:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Omar disse que terá que se mudar devido às ameaças recebidas após a operação policial federal",
-      "titleOriginal": "Omar said she will have to move due to threats following federal raid",
-      "link": "https://thehill.com/homenews/house/6164465-omar-to-move-dc-residence/",
-      "publishedAt": "2026-10-22T01:38:25.000Z"
     }
   ]
 }
