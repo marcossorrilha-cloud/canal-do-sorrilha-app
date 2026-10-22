@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-22T18:49:12.997Z",
+  "updatedAt": "2026-10-22T20:07:22.015Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Musk ordenou a redução da velocidade do Starlink, o que paralisou os drones da Ucrânia e semeou o pânico em Kiev",
-      "titleOriginal": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDlUUnJGVEg4YmlLM3lRTWgwMkJqMzdjNTFoSERfZWFpS1psWjVMeHJ4ODlUVlVlNXQ5SVU0czhpSzRQOXM5eGR2ZTFQSXpSTm5yMW1vMGEyNVYwOGpKR243YUNBY0NkSXlTd3EyUXlyYjlTUDdoNGJURVozZ3YwWVZJREU3cm1XRTVrY1o0YnV2NWk3XzVoZmhydHNJZWN1YmM2SUQ5WGUzSmlLS25ReWQ4eGpGM2VVOUZB?oc=5",
-      "publishedAt": "2026-10-22T18:39:04.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Importante assessor de saúde de Trump renuncia antes das eleições de meio de mandato",
-      "titleOriginal": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
-      "publishedAt": "2026-10-22T18:34:04.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Departamento de Justiça analisa denúncias contra Corey Lewandowski",
-      "titleOriginal": "Exclusive | Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXBIVHhzTVBsSkotMDZQMkhyNjNvSzJnaWgycmdtWGJ5dzFrejBSOVpxVXo1bTh6ZHJMWHJBbDVPLS1zdEVDUjlhZmdRVnpITnp4UlpRRWFVcmxwZWZCc1Nkb3NqY1BGNVJGcUxVYlF2Wk9hSXUxYV9LS0ZVVF95UjZ0RjhXSTI1Q3VfNFRxUVlmSUcxSUFLVVM5RHp6TUd6bUFPMEM3RDJPZ1ljNnJRcw?oc=5",
-      "publishedAt": "2026-10-22T18:32:00.000Z"
+      "title": "Departamento de Justiça abre investigação sobre Lewandoski",
+      "titleOriginal": "Justice Dept. Opens Inquiry Into Lewandoski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "publishedAt": "2026-10-22T20:04:43.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Calley Means, principal assessora de RFK Jr., deixa o governo Trump",
-      "titleOriginal": "Calley Means, top RFK Jr. adviser, quits Trump administration",
-      "link": "https://thehill.com/homenews/administration/6166195-calley-means-resigns-hhs-maha-trump-administration/",
-      "publishedAt": "2026-10-22T18:31:40.000Z"
+      "title": "Carville afirma que ainda acredita que Trump vai se demitir até a Páscoa",
+      "titleOriginal": "Carville says he still believes Trump will quit by Easter",
+      "link": "https://thehill.com/homenews/campaign/6166328-carville-trump-easter-2026-midterms/",
+      "publishedAt": "2026-10-22T20:02:16.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Hakeem Jeffries dá início à reta final da campanha para as eleições de meio de mandato, com o objetivo de conquistar a maioria na Câmara dos Deputados",
-      "titleOriginal": "Hakeem Jeffries Launches Final Midterm Sprint for House Majority",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/hakeem-jeffries-hudson-valley-campaign-midterms.html",
-      "publishedAt": "2026-10-22T18:30:26.000Z"
+      "source": "The Hill",
+      "title": "Departamento de Estado consultou alguns diplomatas de carreira sobre o voto em Trump: Reportagem",
+      "titleOriginal": "State Department asked some career diplomats about voting for Trump: Report",
+      "link": "https://thehill.com/homenews/administration/6166456-state-department-career-diplomats-voting-history/",
+      "publishedAt": "2026-10-22T20:01:08.000Z"
     },
     {
       "source": "New York Times",
       "title": "Chris Pappas pode fazer história na disputa pelo Senado em New Hampshire",
       "titleOriginal": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
       "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
-      "publishedAt": "2026-10-22T18:25:41.000Z"
+      "publishedAt": "2026-10-22T20:00:01.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O influente senador estadual democrata da Virgínia, Lucas, é acusado de liderar uma conspiração criminosa envolvendo maconha",
+      "titleOriginal": "Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5",
+      "publishedAt": "2026-10-22T20:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Pentágono dá andamento a alguns projetos eólicos após suspensão",
-      "titleOriginal": "Pentagon advances some wind projects after freeze",
-      "link": "https://thehill.com/policy/energy-environment/6166169-pentagon-wind-projects-renewable-energy/",
-      "publishedAt": "2026-10-22T18:22:05.000Z"
+      "title": "Trump lamenta a proibição das carruagens puxadas por cavalos em Nova York",
+      "titleOriginal": "Trump laments NYC horse-drawn carriage ban",
+      "link": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/",
+      "publishedAt": "2026-10-22T19:39:32.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Irã afirma que sete navios-tanque foram danificados no Estreito de Ormuz, além de outras notícias do Oriente Médio",
+      "titleOriginal": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+      "publishedAt": "2026-10-22T19:38:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Futuros do petróleo sobem com a persistência dos ataques à Arábia Saudita e dos riscos entre EUA e Irã",
+      "titleOriginal": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
+      "publishedAt": "2026-10-22T19:29:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Kara Swisher prevê que os democratas tentarão prender Elon Musk",
-      "titleOriginal": "Kara Swisher predicts Democrats will try to jail Elon Musk",
-      "link": "https://thehill.com/opinion/robbys-radar/6166140-elon-musk-potential-jail-threat/",
-      "publishedAt": "2026-10-22T18:12:54.000Z"
+      "title": "Trump reforça campanha publicitária contra Acton em Ohio: “Vivek deveria continuar assim”",
+      "titleOriginal": "Trump doubles down on anti-Acton ad in Ohio: 'Vivek should keep it up'",
+      "link": "https://thehill.com/homenews/campaign/6166346-trump-ramaswamy-acton-ad-defense/",
+      "publishedAt": "2026-10-22T19:24:12.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O pastor metodista que poderia virar o jogo no Kansas e no Senado",
-      "titleOriginal": "The Methodist pastor who could flip Kansas and the Senate",
-      "link": "https://thehill.com/homenews/campaign/6166006-adam-hamilton-kansas-senate/",
-      "publishedAt": "2026-10-22T17:45:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A equipe de Hegseth quebrou um globo da época da Segunda Guerra Mundial que estava no escritório de Eisenhower",
-      "titleOriginal": "Hegseth’s team broke WWII-era globe from Eisenhower’s office",
-      "link": "https://thehill.com/policy/defense/6165593-hegseth-staff-damages-eisenhower-globe/",
-      "publishedAt": "2026-10-22T17:38:44.000Z"
+      "source": "New York Times",
+      "title": "Confrontos ensombram comício na Carolina do Sul enquanto Trump busca impulsionar a campanha de Darline Graham",
+      "titleOriginal": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
+      "publishedAt": "2026-10-22T19:05:31.000Z"
     }
   ]
 }
