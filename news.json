@@ -1,20 +1,62 @@
 {
-  "updatedAt": "2026-10-23T04:51:03.378Z",
+  "updatedAt": "2026-10-23T07:56:13.873Z",
   "count": 10,
   "items": [
     {
-      "source": "Politico",
-      "title": "Será que Angie Nixon conseguirá provar que os democratas podem vencer na Flórida?",
-      "titleOriginal": "Can Angie Nixon prove Democrats can win in Florida?",
-      "link": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736",
-      "publishedAt": "2026-10-23T03:59:00.000Z"
+      "source": "New York Times",
+      "title": "Trump pediu a Musk que revogasse as restrições ao uso militar da internet pela Ucrânia",
+      "titleOriginal": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+      "publishedAt": "2026-10-23T07:52:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O ouro cai à medida que os preços da energia sobem ainda mais",
+      "titleOriginal": "Gold Falls as Energy Prices Rise Higher",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVpKUTYybGVMb1hPclJUSE5SNlRqaG5Lc19SRFRwajJiSUg0ejdvYy1MdXduNEhjdFNGc1JUcmxrVjBvVG9HTzRWcVQ1YUNKTHlha09qYXM5Mm1mMjREdngzTUtjbThaX21CVFh2dkJaZTZrMkt3NFVtSWpOMTZLd2hSTG9RMnVDWUJ3MUlVcUxJZzZITTk3a3RlQm1QeVpLdWhpeTdsYw?oc=5",
+      "publishedAt": "2026-10-23T07:37:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Salesforce vai adquirir uma plataforma de engajamento do cliente por quase US$ 5,7 bilhões",
+      "titleOriginal": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9JQ3VzOXEwMFRKaXF3ekhnekdUUjNhcUNjT3AtS0lEWnE5Wno5dFFZOWYySWlQMnNIa0VBdDR6Q2hhNk9jTFpDVS1PT01rZDVxa3hNeHhyYUQ2eTBkclpyWXFmazhTa2pYaURKaFc5OUNSSjNVRW1faXcyYzlyOVU1MERCWHVyQTJtUmRzeFNuQU1YQXNHWl80bF9PUEE2czVVUUdta3lxZnB6TXRvQVlPNA?oc=5",
+      "publishedAt": "2026-10-23T06:45:41.000Z"
     },
     {
       "source": "AP News",
       "title": "Forte terremoto na região do Tibete, na China, destrói centenas de casas e mata pelo menos 16 pessoas",
       "titleOriginal": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
-      "publishedAt": "2026-10-23T03:41:00.000Z"
+      "publishedAt": "2026-10-23T05:25:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Irã ameaça realizar ataques mais amplos contra alvos econômicos e civis caso os EUA ataquem",
+      "titleOriginal": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHA1QkQ2Umo3U1o1S0JWXzlhNU9USmdudGdKUDlVanpOVU5NS3I3WWdWMkhURjJFNUVnTXc0OGN5YUVjN240Y2VtLUt5UlM5dTdKT3E0UGlzYV8xTm1rMUJLWjI0b1dMMmlCLWhTLWVQNVA2YTk5MjNOV29BdkVrOEI5Y3RtWTB3U2k4bDFXYXpvLVYzV0lIbHhJNFlVTDM2SHZXLW5TaGhXcEpTSkpXS1hGUWFweGU1cjVNU3R1bDY?oc=5",
+      "publishedAt": "2026-10-23T05:24:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O controle do Senado depende de candidatos indesejados",
+      "titleOriginal": "Senate control hinges on unwanted nominees",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblZWTFhEbVRRVEVnUXEyejlCdFZkZHZoU1JtZ24zSTdSekp6Q3lQX0ZHZU13eWFnRDFXX2RhQWtIaGk1SkNvSUFlcmRmQzdrRHAxZHZPbUx2dldSUWlRdW40QXdWRFhPRHNMTzRsUUZuM2R6MHBTZlY4QkhlUVBCM3F4NA?oc=5",
+      "publishedAt": "2026-10-23T04:36:44.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Departamento de Justiça dos Estados Unidos",
+      "titleOriginal": "U.S. Department of Justice",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
+      "publishedAt": "2026-10-23T04:27:39.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "Será que Angie Nixon conseguirá provar que os democratas podem vencer na Flórida?",
+      "titleOriginal": "Can Angie Nixon prove Democrats can win in Florida?",
+      "link": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736",
+      "publishedAt": "2026-10-23T03:59:00.000Z"
     },
     {
       "source": "The Hill",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-10-23T02:54:59.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O Tesouro propõe restrições aos investimentos em alta tecnologia na China, na Rússia e na Coreia do Norte",
-      "titleOriginal": "Treasury proposes curbs on high-tech investments in China, Russia, North Korea",
-      "link": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
-      "publishedAt": "2026-10-23T02:37:59.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "O governo Trump deixou de compartilhar provas sobre os assassinatos de Good e Pretti, afirmam autoridades de Minnesota",
-      "titleOriginal": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWhtekhncDZSNm9mamtxRVJ3MVJKWXdXbWNsYnduWDdVQWpSQkFXWXZPY2RhWHZJUmNlbEVGUmk4cjA5b0ZkcmdEbk1OamVaRzRXblAxSHJfTDhaUjl3U3VFZ2x3SFROeWVHUmdBTGRuY1MtZmlsN29zMVdrS1ZwUW9MWlNHWUJSXzlJY1hEZ0RLLW5XVUhNSzNPWUZKMUpJdjV4bVV3?oc=5",
-      "publishedAt": "2026-10-23T02:29:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Crítica de “The Imaginary Invalid”: O hilariante hipocondríaco de Bill Irwin",
-      "titleOriginal": "‘The Imaginary Invalid’ Review: Bill Irwin’s Hilarious Hypochondriac",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE5pYnBZbjJpNXpQWDFaSnJVM2t1NUt2MVl4OUNUb3JHRUp1dHV4cUJ1TDE5X2FiYXhnbVZjRHc5S1dlMjg3QUswVmxpbWJxVklOaXBuNnFRSkZsNkNjU0RDVkJfbnN6eS1GMlQ0ZzFldExiNGNWZWZ2cmV4enFvU3BsMEtyZUUxVm13UWIxWEVscUxvMUlNQjNoblJNTXVKTWZfTw?oc=5",
-      "publishedAt": "2026-10-23T02:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre o polêmico anúncio de Acton: “Por que alguém protegeria alguém disso?”",
-      "titleOriginal": "Trump on controversial Acton ad: ‘Why would you shield somebody from that?’",
-      "link": "https://thehill.com/homenews/campaign/6167221-trump-supports-ramaswamy-controversial-advertisement/",
-      "publishedAt": "2026-10-23T01:59:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump apoia Ramaswamy em anúncio que mostra a mãe de Amy Acton, de quem ela está afastada",
-      "titleOriginal": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJha3luejFTWGJTeDZwUWtqN1F5WE90REVnTEhhSzhSZnkxUXJTMU5DMVRYX2hMajJjMU9BcU1aY05tUE1yVldGdXY4Mk5nTnRnWU5NUC1STmMwWnB2SDlpWjR6MEhkWk5ISlF4dmxuWkJJUXBrR1NuWjQ2eVptcm1HdXI0WWxrVlZ2blBRd1A5T3pKTFl6Ri1ndU9vVVgzS1Zrc0xycHk3cF9POVow?oc=5",
-      "publishedAt": "2026-10-23T01:53:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump pediu a Musk que revogasse as restrições ao uso da internet pelas forças armadas da Ucrânia",
-      "titleOriginal": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
-      "publishedAt": "2026-10-23T01:31:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Alguns membros do Freedom Caucus querem a saída de Brandon Gill",
-      "titleOriginal": "Scoop: Some Freedom Caucus members want Brandon Gill out",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjFiRlFDWjNVMW9IVjJ4ZVZUck1Uakt0Zko0bmplTjVRbHhBeUVvc0JIaWlmaENpYmFQR1EteVo5U25QQll1RF9EWGxTSzR2R0RXWDlzOGpkOTNNMXBJQWRqaGFZX3pBUFZmRVMzM1VCcjQ1SGthUmptY2FlVFAwNTNDN1ktbDVIRUJj?oc=5",
-      "publishedAt": "2026-10-23T01:19:43.000Z"
+      "title": "A Suprema Corte autoriza New Hampshire a proibir totalmente o uso de carteiras de identidade estudantis para votar nas eleições intermediárias",
+      "titleOriginal": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2NKV09fM19HaUhPdlNRZDJqc2dTYmdjMjRCWXpsaWJZTTJkdnNkV2VmM3NxeHFDTkQtNXozYkJGQ09VbUYxOUFlckQ4YmRsZ3NkazNMNGNqR2wwQVJ0Y3VfRkpRWFVpeEFEaGk5ZGJFUC05REFjd2ZCM2h2dnZpSUxubHZWRnFFd0FtSWY5c2puM2dOeldFTE95TG9SclBINVVjbDVPU3I?oc=5",
+      "publishedAt": "2026-10-23T02:39:00.000Z"
     }
   ]
 }
