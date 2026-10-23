@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-22T23:23:16.359Z",
+  "updatedAt": "2026-10-23T01:57:41.725Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump pediu a Musk que revogasse as restrições ao uso da internet pelas forças armadas da Ucrânia",
+      "titleOriginal": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+      "publishedAt": "2026-10-23T01:31:31.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A riqueza de Pete Ricketts coloca a questão de classe no centro da disputa pelo Senado em Nebraska",
+      "titleOriginal": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+      "publishedAt": "2026-10-23T01:04:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rollins: Governo Trump segue “a todo vapor” com a reorganização do Serviço Florestal",
+      "titleOriginal": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
+      "link": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/",
+      "publishedAt": "2026-10-23T00:44:57.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Atualmente, está saindo mais petróleo do Golfo Pérsico do que antes da Guerra do Irã",
+      "titleOriginal": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+      "publishedAt": "2026-10-23T00:38:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Blanche: O Departamento de Justiça poderia impedir a certificação dos resultados eleitorais em um “cenário catastrófico”",
+      "titleOriginal": "Blanche: DOJ could block election certification in 'doomsday scenario'",
+      "link": "https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block/",
+      "publishedAt": "2026-10-23T00:29:26.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
+      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "publishedAt": "2026-10-22T23:57:34.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Weil Gotshal perde mais advogados de destaque enquanto mantém negociações para fusão",
+      "titleOriginal": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
+      "publishedAt": "2026-10-22T23:54:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Diplomatas canadenses foram proibidos de interagir com candidatos às eleições de meio de mandato nos EUA: relatos",
+      "titleOriginal": "Canadian diplomats barred interacting with US midterm candidates: Reports",
+      "link": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/",
+      "publishedAt": "2026-10-22T23:37:06.000Z"
+    },
     {
       "source": "New York Times",
       "title": "O anúncio que está dividindo o Partido Republicano",
@@ -10,67 +66,11 @@
       "publishedAt": "2026-10-22T23:15:45.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
-      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "publishedAt": "2026-10-22T23:06:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Suprema Corte decide que New Hampshire pode impedir que eleitores utilizem carteiras de identidade de estudante",
-      "titleOriginal": "Supreme Court rules NH can block voters from using student IDs",
-      "link": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/",
-      "publishedAt": "2026-10-22T22:50:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre os relatórios da investigação sobre Lewandowski: “Quero que meu pessoal seja honesto”",
-      "titleOriginal": "Trump on Lewandowski probe reports: 'I want my people to be honest'",
-      "link": "https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff/",
-      "publishedAt": "2026-10-22T22:47:06.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que as visitas simultâneas de Ocasio-Cortez e Manchin revelam sobre a disputa pelo Senado no Maine",
-      "titleOriginal": "What Dueling Visits by Ocasio-Cortez and Manchin Say About Maine’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/maine-aoc-jackson-collins-manchin-senate.html",
-      "publishedAt": "2026-10-22T22:40:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Líder da MAHA renuncia ao cargo no governo",
-      "titleOriginal": "MAHA leader resigns from administration",
-      "link": "https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration/",
-      "publishedAt": "2026-10-22T22:30:51.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senadores instam Hegseth e Rubio a liberar recursos para a Iniciativa de Segurança do Báltico",
-      "titleOriginal": "Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative",
-      "link": "https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative/",
-      "publishedAt": "2026-10-22T22:25:06.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Departamento de Justiça analisa denúncias contra Corey Lewandowski",
-      "titleOriginal": "Exclusive | Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclU4TEl3aUlfajBPOFMxcDFuMjJGeDlhYmlfOENMT1BwbnUxNFc4MXZOQ0ZnRy1NRWRBcTRBTUxZWmdUYlFNZ1VXdU9UOThMSTFJUTVyYzVybjM1aGVYeUNSWTdiUnRWN1hFSE9pVnROUS11QXVOUXBEdk5wSVVqdU5MdG5ybzg?oc=5",
-      "publishedAt": "2026-10-22T22:23:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jackson diz estar “preocupado” com a participação eleitoral nas áreas rurais da Geórgia",
-      "titleOriginal": "Jackson says he's ‘concerned’ about Georgia rural voter turnout",
-      "link": "https://thehill.com/homenews/campaign/6166869-georgia-governor-race-turnout/",
-      "publishedAt": "2026-10-22T22:14:17.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Investidor da SpaceX: o Starlink “não é confiável para a segurança nacional de ninguém, exceto para Trump”",
-      "titleOriginal": "SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’",
-      "link": "https://thehill.com/policy/technology/6166816-gerber-slams-musk-starlink-ukraine/",
-      "publishedAt": "2026-10-22T22:11:06.000Z"
+      "source": "Axios",
+      "title": "Exclusivo: Alguns membros do Freedom Caucus querem a saída de Brandon Gill",
+      "titleOriginal": "Scoop: Some Freedom Caucus members want Brandon Gill out",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjFiRlFDWjNVMW9IVjJ4ZVZUck1Uakt0Zko0bmplTjVRbHhBeUVvc0JIaWlmaENpYmFQR1EteVo5U25QQll1RF9EWGxTSzR2R0RXWDlzOGpkOTNNMXBJQWRqaGFZX3pBUFZmRVMzM1VCcjQ1SGthUmptY2FlVFAwNTNDN1ktbDVIRUJj?oc=5",
+      "publishedAt": "2026-10-22T22:58:10.000Z"
     }
   ]
 }
