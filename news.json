@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-23T15:04:53.817Z",
+  "updatedAt": "2026-10-23T18:43:21.423Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Os preços do petróleo atingiram o nível mais alto desde maio",
-      "titleOriginal": "Oil prices hit highest point since May",
-      "link": "https://thehill.com/policy/energy-environment/6168144-oil-prices-iran-war-strait-of-hormuz/",
-      "publishedAt": "2026-10-23T14:58:09.000Z"
+      "title": "Atualizações em tempo real: Trump faz campanha na Flórida e aborda a polêmica em torno do anúncio de Ramaswamy",
+      "titleOriginal": "Live updates: Trump campaigns in Florida, leans into Ramaswamy ad controversy",
+      "link": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
+      "publishedAt": "2026-10-23T18:26:12.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Legisladores planejam barrar indicados de Trump devido às restrições à rede de satélites na Ucrânia",
+      "titleOriginal": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+      "publishedAt": "2026-10-23T18:18:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Decision Desk – Previsão das eleições intermediárias de 2026, com o apoio da 2WAY e do The Hill",
+      "titleOriginal": "Watch live: Decision Desk ‘26 Midterm Preview powered by 2WAY and The Hill",
+      "link": "https://thehill.com/homenews/6168746-watch-live-decision-desk-26-midterm-preview-powered-by-2way-and-the-hill/",
+      "publishedAt": "2026-10-23T17:40:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelação decide que Trump mobilizou ilegalmente a Guarda Nacional para a Califórnia",
+      "titleOriginal": "Appeals court rules Trump unlawfully deployed National Guard to California",
+      "link": "https://thehill.com/regulation/court-battles/6168756-trump-los-angeles-deployment-unlawful-appeals-court-ruling/",
+      "publishedAt": "2026-10-23T17:39:11.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Roy Cooper nunca perdeu uma eleição. Será que ele conseguirá conquistar a vaga no Senado pela Carolina do Norte?",
+      "titleOriginal": "Roy Cooper Has Never Lost an Election. Can He Flip North Carolina’s Senate Seat?",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/roy-cooper-north-carolina-senate-election.html",
+      "publishedAt": "2026-10-23T17:18:30.000Z"
     },
     {
       "source": "AP News",
-      "title": "Dois ex-funcionários do FBI são acusados de prestar declarações falsas sobre o laptop de Hunter Biden",
-      "titleOriginal": "2 ex-FBI officials charged with making false statements about Hunter Biden’s laptop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
-      "publishedAt": "2026-10-23T14:40:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assessores eleitorais de Trump doam honorários de consultoria na Bósnia à biblioteca presidencial",
-      "titleOriginal": "Trump election advisers donate Bosnia consulting fee to presidential library",
-      "link": "https://thehill.com/homenews/administration/6168014-trump-advisers-donate-library-fees/",
-      "publishedAt": "2026-10-23T14:36:20.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Fazer com que as universidades limitem seus laços com a China — e, em vez disso, financiem estudantes americanos das áreas de ciência, tecnologia, engenharia e matemática (STEM)",
-      "titleOriginal": "Make universities limit ties to China — and fund US STEM students instead",
-      "link": "https://thehill.com/opinion/national-security/6165869-war-universities-mitigate-chinese-links/",
-      "publishedAt": "2026-10-23T14:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Manchin: Collins deveria deixar o Partido Republicano e se tornar independente",
-      "titleOriginal": "Manchin: Collins should leave GOP, become an independent",
-      "link": "https://thehill.com/homenews/campaign/6167792-manchin-urges-collins-become-independent/",
-      "publishedAt": "2026-10-23T14:13:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O “Cook Political Report” altera a previsão de 19 cadeiras na Câmara dos Deputados a favor dos democratas",
-      "titleOriginal": "Cook Political Report shifts 19 House seats in Democrats' favor",
-      "link": "https://thehill.com/homenews/campaign/6167727-cook-political-report-democrats-19-house-seats/",
-      "publishedAt": "2026-10-23T14:07:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Weil Gotshal perde mais advogados de destaque com o fracasso das negociações de fusão",
-      "titleOriginal": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
-      "publishedAt": "2026-10-23T14:07:03.000Z"
+      "title": "O governo Trump envia mensagens contraditórias sobre as restrições ao acesso da Ucrânia ao Starshield",
+      "titleOriginal": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
+      "publishedAt": "2026-10-23T17:07:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "Tom Tiffany tenta se distanciar de Trump na disputa pelo governo de Wisconsin",
       "titleOriginal": "Tom Tiffany Tries to Distance Himself From Trump in Wisconsin Governor’s Race",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/midterms-wisconsin-governor-trump.html",
-      "publishedAt": "2026-10-23T14:01:31.000Z"
+      "publishedAt": "2026-10-23T17:06:57.000Z"
     },
     {
       "source": "The Hill",
-      "title": "40 anos após a Lei contra o Abuso de Drogas, a punição é a regra e o tratamento é insuficiente",
-      "titleOriginal": "40 years after the Anti-Drug Abuse Act, punishment is law and treatment is lacking",
-      "link": "https://thehill.com/opinion/criminal-justice/6166028-anti-drug-abuse-act-legacy/",
-      "publishedAt": "2026-10-23T14:00:00.000Z"
+      "title": "Agentes federais batem de porta em porta para questionar a situação migratória dos eleitores: CBS",
+      "titleOriginal": "Feds knocking on doors to question voters' immigration status: CBS",
+      "link": "https://thehill.com/opinion/lindseys-lens/6168643-dhs-voter-intimidation-investigation/",
+      "publishedAt": "2026-10-23T16:52:10.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O controle do Senado depende de indicados indesejados",
-      "titleOriginal": "Senate control hinges on unwanted nominees",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblZWTFhEbVRRVEVnUXEyejlCdFZkZHZoU1JtZ24zSTdSekp6Q3lQX0ZHZU13eWFnRDFXX2RhQWtIaGk1SkNvSUFlcmRmQzdrRHAxZHZPbUx2dldSUWlRdW40QXdWRFhPRHNMTzRsUUZuM2R6MHBTZlY4QkhlUVBCM3F4NA?oc=5",
-      "publishedAt": "2026-10-23T13:52:30.000Z"
+      "source": "AP News",
+      "title": "Wall Street registra perdas generalizadas sob a pressão da alta nos preços do petróleo",
+      "titleOriginal": "Wall Street mostly loses ground under pressure from rising oil prices",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+      "publishedAt": "2026-10-23T16:50:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Dois ex-funcionários do FBI são acusados de mentir sobre seu envolvimento na investigação sobre o laptop de Hunter Biden",
+      "titleOriginal": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden's laptop",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
+      "publishedAt": "2026-10-23T16:48:00.000Z"
     }
   ]
 }
