@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-10-23T18:43:21.423Z",
+  "updatedAt": "2026-10-23T19:14:17.768Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Assessores de Trump doam à sua biblioteca os honorários recebidos por ajudar a Republika Srpska",
+      "titleOriginal": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+      "publishedAt": "2026-10-23T19:10:04.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado do Partido Republicano afirma que vai propor a expulsão de Omar",
+      "titleOriginal": "GOP lawmaker says he will move to expel Omar",
+      "link": "https://thehill.com/homenews/house/6168993-fine-omar-expulsion-resolution/",
+      "publishedAt": "2026-10-23T19:02:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump acredita que a NFL “provavelmente poderia ter adiado” o jogo em Paris",
+      "titleOriginal": "Trump believes NFL 'could have probably postponed' Paris game",
+      "link": "https://thehill.com/policy/sports-gaming/6168962-trump-nfl-game-postponement/",
+      "publishedAt": "2026-10-23T18:45:17.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Trump faz campanha na Flórida e aborda a polêmica em torno do anúncio de Ramaswamy",
@@ -38,39 +59,18 @@
       "publishedAt": "2026-10-23T17:18:30.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Futebol ou missa de domingo? As famílias tentam conciliar os dois",
+      "titleOriginal": "Soccer or Sunday service? Families juggle both",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWR1ZXI5YjBjWjNTb19QWVJDbDJFeTc0TUFYRFpBV2FsaWRuSVg1OTVyeTVxTGROeDM2RTh5d3JVUWsyZEgycE5JM0RDQkRaWVdFZzhLZUhLT0VZZ0Q4U1RTYy1Ic2RKdkEyaXNQU1lRbGExUVNtNnhlV0JEQ1EwTENuaXpwOEM0R0lr?oc=5",
+      "publishedAt": "2026-10-23T17:13:31.000Z"
+    },
+    {
       "source": "AP News",
       "title": "O governo Trump envia mensagens contraditórias sobre as restrições ao acesso da Ucrânia ao Starshield",
       "titleOriginal": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
       "publishedAt": "2026-10-23T17:07:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tom Tiffany tenta se distanciar de Trump na disputa pelo governo de Wisconsin",
-      "titleOriginal": "Tom Tiffany Tries to Distance Himself From Trump in Wisconsin Governor’s Race",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/midterms-wisconsin-governor-trump.html",
-      "publishedAt": "2026-10-23T17:06:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Agentes federais batem de porta em porta para questionar a situação migratória dos eleitores: CBS",
-      "titleOriginal": "Feds knocking on doors to question voters' immigration status: CBS",
-      "link": "https://thehill.com/opinion/lindseys-lens/6168643-dhs-voter-intimidation-investigation/",
-      "publishedAt": "2026-10-23T16:52:10.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Wall Street registra perdas generalizadas sob a pressão da alta nos preços do petróleo",
-      "titleOriginal": "Wall Street mostly loses ground under pressure from rising oil prices",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
-      "publishedAt": "2026-10-23T16:50:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Dois ex-funcionários do FBI são acusados de mentir sobre seu envolvimento na investigação sobre o laptop de Hunter Biden",
-      "titleOriginal": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden's laptop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
-      "publishedAt": "2026-10-23T16:48:00.000Z"
     }
   ]
 }
