@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-23T01:57:41.725Z",
+  "updatedAt": "2026-10-23T04:51:03.378Z",
   "count": 10,
   "items": [
+    {
+      "source": "Politico",
+      "title": "Será que Angie Nixon conseguirá provar que os democratas podem vencer na Flórida?",
+      "titleOriginal": "Can Angie Nixon prove Democrats can win in Florida?",
+      "link": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736",
+      "publishedAt": "2026-10-23T03:59:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Forte terremoto na região do Tibete, na China, destrói centenas de casas e mata pelo menos 16 pessoas",
+      "titleOriginal": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+      "publishedAt": "2026-10-23T03:41:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump anuncia que vai recorrer à Lei de Produção de Defesa para aumentar a produção doméstica de gás",
+      "titleOriginal": "Trump announces he'll use Defense Production Act to increase domestic gas production",
+      "link": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/",
+      "publishedAt": "2026-10-23T02:54:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Tesouro propõe restrições aos investimentos em alta tecnologia na China, na Rússia e na Coreia do Norte",
+      "titleOriginal": "Treasury proposes curbs on high-tech investments in China, Russia, North Korea",
+      "link": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
+      "publishedAt": "2026-10-23T02:37:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O governo Trump deixou de compartilhar provas sobre os assassinatos de Good e Pretti, afirmam autoridades de Minnesota",
+      "titleOriginal": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWhtekhncDZSNm9mamtxRVJ3MVJKWXdXbWNsYnduWDdVQWpSQkFXWXZPY2RhWHZJUmNlbEVGUmk4cjA5b0ZkcmdEbk1OamVaRzRXblAxSHJfTDhaUjl3U3VFZ2x3SFROeWVHUmdBTGRuY1MtZmlsN29zMVdrS1ZwUW9MWlNHWUJSXzlJY1hEZ0RLLW5XVUhNSzNPWUZKMUpJdjV4bVV3?oc=5",
+      "publishedAt": "2026-10-23T02:29:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Crítica de “The Imaginary Invalid”: O hilariante hipocondríaco de Bill Irwin",
+      "titleOriginal": "‘The Imaginary Invalid’ Review: Bill Irwin’s Hilarious Hypochondriac",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE5pYnBZbjJpNXpQWDFaSnJVM2t1NUt2MVl4OUNUb3JHRUp1dHV4cUJ1TDE5X2FiYXhnbVZjRHc5S1dlMjg3QUswVmxpbWJxVklOaXBuNnFRSkZsNkNjU0RDVkJfbnN6eS1GMlQ0ZzFldExiNGNWZWZ2cmV4enFvU3BsMEtyZUUxVm13UWIxWEVscUxvMUlNQjNoblJNTXVKTWZfTw?oc=5",
+      "publishedAt": "2026-10-23T02:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sobre o polêmico anúncio de Acton: “Por que alguém protegeria alguém disso?”",
+      "titleOriginal": "Trump on controversial Acton ad: ‘Why would you shield somebody from that?’",
+      "link": "https://thehill.com/homenews/campaign/6167221-trump-supports-ramaswamy-controversial-advertisement/",
+      "publishedAt": "2026-10-23T01:59:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump apoia Ramaswamy em anúncio que mostra a mãe de Amy Acton, de quem ela está afastada",
+      "titleOriginal": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJha3luejFTWGJTeDZwUWtqN1F5WE90REVnTEhhSzhSZnkxUXJTMU5DMVRYX2hMajJjMU9BcU1aY05tUE1yVldGdXY4Mk5nTnRnWU5NUC1STmMwWnB2SDlpWjR6MEhkWk5ISlF4dmxuWkJJUXBrR1NuWjQ2eVptcm1HdXI0WWxrVlZ2blBRd1A5T3pKTFl6Ri1ndU9vVVgzS1Zrc0xycHk3cF9POVow?oc=5",
+      "publishedAt": "2026-10-23T01:53:00.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Trump pediu a Musk que revogasse as restrições ao uso da internet pelas forças armadas da Ucrânia",
@@ -10,67 +66,11 @@
       "publishedAt": "2026-10-23T01:31:31.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "A riqueza de Pete Ricketts coloca a questão de classe no centro da disputa pelo Senado em Nebraska",
-      "titleOriginal": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
-      "publishedAt": "2026-10-23T01:04:07.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rollins: Governo Trump segue “a todo vapor” com a reorganização do Serviço Florestal",
-      "titleOriginal": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
-      "link": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/",
-      "publishedAt": "2026-10-23T00:44:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Atualmente, está saindo mais petróleo do Golfo Pérsico do que antes da Guerra do Irã",
-      "titleOriginal": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-      "publishedAt": "2026-10-23T00:38:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Blanche: O Departamento de Justiça poderia impedir a certificação dos resultados eleitorais em um “cenário catastrófico”",
-      "titleOriginal": "Blanche: DOJ could block election certification in 'doomsday scenario'",
-      "link": "https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block/",
-      "publishedAt": "2026-10-23T00:29:26.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça abre investigação sobre Corey Lewandowski",
-      "titleOriginal": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "publishedAt": "2026-10-22T23:57:34.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Weil Gotshal perde mais advogados de destaque enquanto mantém negociações para fusão",
-      "titleOriginal": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
-      "publishedAt": "2026-10-22T23:54:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Diplomatas canadenses foram proibidos de interagir com candidatos às eleições de meio de mandato nos EUA: relatos",
-      "titleOriginal": "Canadian diplomats barred interacting with US midterm candidates: Reports",
-      "link": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/",
-      "publishedAt": "2026-10-22T23:37:06.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O anúncio que está dividindo o Partido Republicano",
-      "titleOriginal": "The Ad Dividing the Republican Party",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/ohio-governor-ad-ramaswamy-acton.html",
-      "publishedAt": "2026-10-22T23:15:45.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Exclusivo: Alguns membros do Freedom Caucus querem a saída de Brandon Gill",
       "titleOriginal": "Scoop: Some Freedom Caucus members want Brandon Gill out",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjFiRlFDWjNVMW9IVjJ4ZVZUck1Uakt0Zko0bmplTjVRbHhBeUVvc0JIaWlmaENpYmFQR1EteVo5U25QQll1RF9EWGxTSzR2R0RXWDlzOGpkOTNNMXBJQWRqaGFZX3pBUFZmRVMzM1VCcjQ1SGthUmptY2FlVFAwNTNDN1ktbDVIRUJj?oc=5",
-      "publishedAt": "2026-10-22T22:58:10.000Z"
+      "publishedAt": "2026-10-23T01:19:43.000Z"
     }
   ]
 }
