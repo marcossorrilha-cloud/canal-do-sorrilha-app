@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-23T22:14:13.768Z",
+  "updatedAt": "2026-10-23T22:37:45.494Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Trump recorre à DPA para destinar US$ 150 milhões para gasolina e diesel",
+      "titleOriginal": "Trump uses DPA to give $150M for gas and diesel",
+      "link": "https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel/",
+      "publishedAt": "2026-10-23T22:24:42.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O “Cook Political Report” reclassifica a disputa pelo governo de Ohio de “empate” para “vantagem democrata”",
@@ -22,6 +29,13 @@
       "titleOriginal": "Musk ups midterm spending in final stretch",
       "link": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/",
       "publishedAt": "2026-10-23T21:37:48.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump, em comício no sul da Flórida, retoma a ideia de uma intervenção militar em Cuba após o Irã",
+      "titleOriginal": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFM2WGlGZ2t1U3U3M3JjOWs4UGV5VXhDeUstU1ZuUTVFMFJ0WDgyeEtTc2dTeXp0OUpVS01rVlk2WG1Sekt4X043Y3lpb3liQlhORlNyTGxZQUI5cWpHRWJWUTNReFFZUzkyWFFWS2lwSnpqbjc3eXJUc3VuY3dsWnN1R01qWWNnRHVkLTlOdG0zWU44YVhFeFB4TQ?oc=5",
+      "publishedAt": "2026-10-23T21:15:00.000Z"
     },
     {
       "source": "AP News",
@@ -57,20 +71,6 @@
       "titleOriginal": "Appeals Court Backs Trump on Constitutionality of Detentions",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
       "publishedAt": "2026-10-23T20:47:16.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Trump vai retirar algumas tarifas sobre o Canadá em uma tentativa de ajudar Susan Collins",
-      "titleOriginal": "Exclusive | Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-      "publishedAt": "2026-10-23T20:33:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Às vésperas de uma disputa acirrada, Trump altera as tarifas sobre alguns produtos canadenses",
-      "titleOriginal": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-      "publishedAt": "2026-10-23T20:29:40.000Z"
     }
   ]
 }
