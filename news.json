@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-24T18:10:10.248Z",
+  "updatedAt": "2026-10-24T18:21:39.558Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Israel impõe bloqueios em toda uma cidade da Cisjordânia após ataques, e outras notícias do Oriente Médio",
+      "titleOriginal": "Israel imposes closures across a West Bank city after attacks, and other Mideast news",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
+      "publishedAt": "2026-10-24T17:30:00.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | Elon Musk comete erros no mercado indiano",
@@ -25,7 +32,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Obama volta à campanha, marcando confrontos com Trump nas aparições públicas para as eleições de meio de mandato",
+      "title": "Obama volta à campanha, marcando aparições em confronto com Trump nas eleições de meio de mandato",
       "titleOriginal": "Obama Returns to the Trail, Setting Up Dueling Midterm Appearances With Trump",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
       "publishedAt": "2026-10-24T16:50:50.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Ro Khanna is wrong about the chaos in Europe — and about JD Vance",
       "link": "https://thehill.com/opinion/campaign/6168998-ro-khanna-hypocrisy-wealth-inequality/",
       "publishedAt": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bill Maher para Karoline Leavitt: “Não dou a mínima”, “Gosto do salão de baile”",
-      "titleOriginal": "Bill Maher to Karoline Leavitt: 'I don't give a s—', 'I like the ballroom'",
-      "link": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/",
-      "publishedAt": "2026-10-24T15:56:10.000Z"
     }
   ]
 }
