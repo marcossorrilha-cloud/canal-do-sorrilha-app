@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T05:55:14.903Z",
+  "updatedAt": "2026-10-24T06:28:03.501Z",
   "count": 10,
   "items": [
     {
@@ -31,13 +31,6 @@
       "publishedAt": "2026-10-24T01:04:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Exclusivo da AP: Chefe de fronteiras de Trump defende planos para o muro na região de Big Bend, no Texas, apesar de um revés judicial",
-      "titleOriginal": "AP Exclusive: Trump’s border chief defends wall plans in Texas’ Big Bend despite a court setback",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME53UG5SaHNkWGhpOWtuNGZIYXh0V0lMNXdMeGpzNmtHel9EQ0hmVVh3YW1vNVNUNkc5RXR6ZHhDV2VSTVZuS1ZndXl5OE9RT2w4bS04aktFNTJteVRJcjRWMVk2c1k1ZXo3S0sxZGdQMGNyR1J6OVl5Wlh4anVkNGxzV1I0S0ljWm95U0tBcFZKNEgwMW9FdVczZVVQcGZoVmlKRTJFQ1M?oc=5",
-      "publishedAt": "2026-10-24T00:55:00.000Z"
-    },
-    {
       "source": "Wall Street Journal",
       "title": "Casa da Semana: Um complexo residencial canadense em uma ilha particular remota",
       "titleOriginal": "House of the Week: A Canadian Compound on a Remote Private Island",
@@ -49,7 +42,7 @@
       "title": "Exclusivo: Memorando dos serviços de inteligência dos EUA alerta para planos “avançados” do Irã para assassinar autoridades no exterior",
       "titleOriginal": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw?oc=5",
-      "publishedAt": "2026-10-24T00:23:34.000Z"
+      "publishedAt": "2026-10-24T00:23:08.000Z"
     },
     {
       "source": "Axios",
@@ -71,6 +64,13 @@
       "titleOriginal": "About half concerned Republicans could try to overturn midterm results: Survey",
       "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/",
       "publishedAt": "2026-10-23T23:01:44.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Grandes nomes se reúnem na Flórida, estado tradicionalmente republicano, para influenciar os eleitores em disputas inesperadamente acirradas",
+      "titleOriginal": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-florida-republicans-midterm-elections.html",
+      "publishedAt": "2026-10-23T23:01:21.000Z"
     }
   ]
 }
