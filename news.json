@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-10-24T11:02:30.771Z",
+  "updatedAt": "2026-10-24T11:38:27.545Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Elon Musk comete erros no mercado indiano",
+      "titleOriginal": "Opinion | Elon Musk Blunders in the Indian Market",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3ZtU2RnQm5LWkI1LVpvMGRxeTlrUXZSZzgtRlR2OURpRHc5MkxvWTF5VmU0UVFIbHNnMGlpZGFmNzBCVzA3WENTSi1jcUpYYUxOQU5McVp2amRsMWVKdXlCLWphMnlySk1BOWVDN0JVN0p2VGtDdTUyRjMyMDdtLVNR?oc=5",
+      "publishedAt": "2026-10-24T11:05:31.000Z"
+    },
     {
       "source": "Politico",
       "title": "Trump transforma o Alasca na mais recente fronteira em sua tentativa de se apropriar do poder eleitoral",
       "titleOriginal": "Trump makes Alaska the latest frontier in his election power grab",
       "link": "https://www.politico.com/news/2026/10/24/trump-alaska-election-justice-department-01134590",
       "publishedAt": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Restrições de velocidade ao Starlink, de Musk, foram suspensas na Ucrânia, afirma o Ministério da Defesa",
+      "titleOriginal": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHZk4ya0d5UE5leHU4ZUJjamhpaWFZYkQyVVZyOFk4QlBPR0stUzZ1bXRONHB4OWZuVmxjSzdEeW5zRkM4bFdmcWhnQ1g2VkJsZWZWa3Y2T1VPNDdkTmVzODctYUFxTFYzaHl4VlNoX0REOWFCQTBpeDRfMA?oc=5",
+      "publishedAt": "2026-10-24T10:21:18.000Z"
     },
     {
       "source": "New York Times",
@@ -29,13 +43,6 @@
       "titleOriginal": "Trump’s $8 billion farm lifeline won’t fully solve farmers’ diesel problem",
       "link": "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/",
       "publishedAt": "2026-10-24T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A batalha subterrânea que se desenrola nas profundezas dos dutos da era soviética na Ucrânia",
-      "titleOriginal": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZi00MzBXZUJBMm9VVXVVTldsV3VwTG05c21McmdreGk2VlBNWVVjay04LTl1bDAyeXp5cmtWQ0tUTzVLYks4OElFNENWalFEOVNnaEdBc3BVd25UdkJDUllVQzhKVlVnWFdDcWVkXzluR0NOSU5kX0Vic2xfVXV3dGJsWnFnbkZjVzllVXV4ZXNHRk5EYlo3eDdDczJuWkl2dkwxdlk3c1FObHFZS0FlNktRTTl5dw?oc=5",
-      "publishedAt": "2026-10-24T09:36:59.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -64,13 +71,6 @@
       "titleOriginal": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
       "link": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
       "publishedAt": "2026-10-24T09:03:03.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump pediu aos eleitores muçulmanos que confiem nele. Agora, alguns se sentem usados.",
-      "titleOriginal": "Trump Asked Muslim Voters to Trust Him. Now Some Feel Used.",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-muslim-voters-feel-used.html",
-      "publishedAt": "2026-10-24T09:02:54.000Z"
     }
   ]
 }
