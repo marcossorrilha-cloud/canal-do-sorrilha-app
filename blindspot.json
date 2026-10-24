@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-23T15:05:01.168Z",
-  "slot": "2026-10-23-PM",
+  "updatedAt": "2026-10-24T05:55:21.640Z",
+  "slot": "2026-10-24-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Milhões de tentativas de invasão enquanto empresas e governos correm para corrigir falhas no PHP",
-      "titleOriginal": "Millions Of Hacking Attempts As Companies, Governments Rush To Patch PHP Flaws",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1BuQVdZUm9FVnd3c0ppNzk4RFZ2enRqZDAwV19rMW9LaWZtdV9PMEF4Nl9qcnFBNUxrbmZKNTBuMTdhUmlDU2VrNjFjU2l0Y2xvQUtOS19rblhPbUpiOERkTTNJeFRWcjVsbHR6NVpHS2xnTVlWMUdKMDVTRUpNOWt4Sm1YdTRJ0gGOAUFVX3lxTE5YcUxmX2FGX3lIT1dNQWVUYmt5QUxXVG5WRjFWdFhmQzk0bzdJMEw3WWp2N0NXN3hsSVdMSkNyamM5N05BdWl2c3RRelR6cmFrSzIwMXdiVE1wZnRxcUJleHRidzZCTm9mSkdGVFVqcVdaQUxCdjkwNFlyM3NMWExRZkxHUmRQYVI0UGJMU1E?oc=5",
-      "source": "HuffPost",
+      "title": "Trump volta a alegar que tem o “direito” de concorrer a um terceiro mandato como presidente",
+      "titleOriginal": "Trump again invokes claim he has the ‘right’ to run for third term as president",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hSlAtRFRhc3dmMW0yVUI3M3VpdExGVFlQUVlzQ1Q0NXBkbXJqUE5keURmdzA3a3l6dHZrZjJFOVpQNjFScERLNWJJaWNiQTRfM292cXJ1dEJPcVBvOUtHV0I1eUM5M1RvTzk2NUlNTWtrQQ?oc=5",
+      "source": "The Guardian",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump intervém com um telefonema enquanto a Ucrânia enfrenta as restrições impostas pelo Starlink de Musk",
-      "titleOriginal": "Trump Steps In With Phone Call As Ukraine Battles Musk’s Starlink Restrictions",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmVqRWhrMkZiUnNVRkF3T19id0Q0YmhuQnpMSVRxLWxYVnZHdURDNEthdHdDektMT0JzeUdpWWFKYlJtdndKUWV4azNHTUh5NHdxRjV2cEZYaFVxbThiQzE0Y09qeExYZDZYbVU2SFJXTmxGVWF6LUNrNGUxTjRhWUR3Ri14WnJQWkwtVDRyRmNCZkVKbDVHdGRfblJPQQ?oc=5",
+      "title": "ASSISTA: Prefeito de Jersey enlouquece e parte para cima de um crítico durante reunião do Conselho Municipal",
+      "titleOriginal": "WATCH: Jersey Mayor Goes Berserk, Charges Critic At Council Meeting",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0dMRm83dTRtX1NSaFQ2TVYtTHFIRUJyQ2hxQ21vY3AzSjBrMzE0dXcwNDU3QzRVdjRsUDhyaHphU1k2QnR6Nnk5R2tobHI4Rl9sa3ZJajBNM0NKeHRoSUdXcmt2czdscVNvLU1tRlNUQlBoOW1TbTRLbGJSYWR0SExCSmtkNWhmZHM0RmFpYTVnZFFCLXhYbndNem4?oc=5",
       "source": "Daily Wire",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
