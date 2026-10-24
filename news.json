@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-24T23:15:46.491Z",
+  "updatedAt": "2026-10-24T23:43:03.434Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Os advogados de Kushner enviam notificação à Vanity Fair sobre trecho supostamente “difamatório”",
+      "titleOriginal": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
+      "link": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
+      "publishedAt": "2026-10-24T23:15:39.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "O novo centro de gravidade de Israel",
@@ -15,6 +22,13 @@
       "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
       "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
       "publishedAt": "2026-10-24T22:37:56.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A região mais polêmica da China tornou-se uma vitrine para suas ambições comerciais",
+      "titleOriginal": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dGV1R1UyOFpRaFNYbTZhZENXQ1NORzA4TXc3UVZfLVJFMlJ4b3hQSDhXck1UM3NvRnBQdnZYLXhod2RtWVJaZi1rbWlZRDZ5dU5Ra3l1VXhVdzJTOU9oWTZNeGlVeUprelNOZ3VnTmNYaE9xUnlBUjZWbkpaN2s?oc=5",
+      "publishedAt": "2026-10-24T22:33:19.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -39,8 +53,8 @@
     },
     {
       "source": "The Hill",
-      "title": "Obama sobre a Casa Branca de Trump: “É como se Saddam Hussein tivesse aberto uma Cheesecake Factory”",
-      "titleOriginal": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+      "title": "A parada de campanha cheia de piadas de Obama em Ohio: 5 vezes em que o ex-presidente atacou os republicanos",
+      "titleOriginal": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
       "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
       "publishedAt": "2026-10-24T21:13:31.000Z"
     },
@@ -57,20 +71,6 @@
       "titleOriginal": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEyMDNVYmxJajlNX3VGZkh3TEgwZGdDU1dsRUZCbk8xXzZxcUhvTG5GelhLXzZkYzRMQnJBRk14Z2o4akdHZEU0bHNqT1poLTVYaDk4YTRKZ0NZRVQ1RE1FUG5MVGExNEhfU2NteExXXzJvTlRaWGVGaXczV0pDSy0wbV9ZZFA5Y2QtZnBOY3NhNWNWTlB2T1NURQ?oc=5",
       "publishedAt": "2026-10-24T20:36:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Elon Musk comete erros no mercado indiano",
-      "titleOriginal": "Opinion | Elon Musk Blunders in the Indian Market",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3ZtU2RnQm5LWkI1LVpvMGRxeTlrUXZSZzgtRlR2OURpRHc5MkxvWTF5VmU0UVFIbHNnMGlpZGFmNzBCVzA3WENTSi1jcUpYYUxOQU5McVp2amRsMWVKdXlCLWphMnlySk1BOWVDN0JVN0p2VGtDdTUyRjMyMDdtLVNR?oc=5",
-      "publishedAt": "2026-10-24T20:05:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Obama apoia Nixon e Jolly em um impulso de última hora à campanha",
-      "titleOriginal": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-      "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/",
-      "publishedAt": "2026-10-24T20:01:59.000Z"
     }
   ]
 }
