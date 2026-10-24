@@ -1,20 +1,48 @@
 {
-  "updatedAt": "2026-10-24T18:21:39.558Z",
+  "updatedAt": "2026-10-24T20:51:01.321Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Israel impõe bloqueios em toda uma cidade da Cisjordânia após ataques, e outras notícias do Oriente Médio",
-      "titleOriginal": "Israel imposes closures across a West Bank city after attacks, and other Mideast news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
-      "publishedAt": "2026-10-24T17:30:00.000Z"
+      "source": "New York Times",
+      "title": "Obama lança ataques contundentes contra Trump e Ramaswamy ao retomar a campanha eleitoral",
+      "titleOriginal": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "publishedAt": "2026-10-24T20:47:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Starlink militar da Ucrânia está funcionando novamente, afirma Kiev",
+      "titleOriginal": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEyMDNVYmxJajlNX3VGZkh3TEgwZGdDU1dsRUZCbk8xXzZxcUhvTG5GelhLXzZkYzRMQnJBRk14Z2o4akdHZEU0bHNqT1poLTVYaDk4YTRKZ0NZRVQ1RE1FUG5MVGExNEhfU2NteExXXzJvTlRaWGVGaXczV0pDSy0wbV9ZZFA5Y2QtZnBOY3NhNWNWTlB2T1NURQ?oc=5",
+      "publishedAt": "2026-10-24T20:36:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | Elon Musk comete erros no mercado indiano",
       "titleOriginal": "Opinion | Elon Musk Blunders in the Indian Market",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3ZtU2RnQm5LWkI1LVpvMGRxeTlrUXZSZzgtRlR2OURpRHc5MkxvWTF5VmU0UVFIbHNnMGlpZGFmNzBCVzA3WENTSi1jcUpYYUxOQU5McVp2amRsMWVKdXlCLWphMnlySk1BOWVDN0JVN0p2VGtDdTUyRjMyMDdtLVNR?oc=5",
-      "publishedAt": "2026-10-24T17:05:34.000Z"
+      "publishedAt": "2026-10-24T20:05:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Obama apoia Nixon e Jolly em um impulso de última hora à campanha",
+      "titleOriginal": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+      "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/",
+      "publishedAt": "2026-10-24T20:01:59.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-coordenador de campanha de Trump fala sobre o Partido Republicano antes das eleições de meio de mandato: “A situação está feia”",
+      "titleOriginal": "Trump's former campaign manager on GOP ahead of midterms: 'It's ugly'",
+      "link": "https://thehill.com/homenews/campaign/6170199-stepien-midterm-elections-republicans/",
+      "publishedAt": "2026-10-24T18:55:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | FBI investiga caso de espionagem contra suspeito saudita ligado à OpenAI",
+      "titleOriginal": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+      "publishedAt": "2026-10-24T17:07:00.000Z"
     },
     {
       "source": "New York Times",
@@ -22,20 +50,6 @@
       "titleOriginal": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
       "publishedAt": "2026-10-24T17:00:54.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A aliança MAHA-MAGA está se desintegrando antes das eleições de meio de mandato",
-      "titleOriginal": "The MAHA-MAGA Alliance Is Fracturing Before the Midterms",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1hSFNiTExrZW5qWjlZSlIzLVBuVU1lU3RndF9XUERNS0cwUzY3b1c5eHR3N3dzOF9XSEU1bmZaRklCX1lSSEx5amYwRlJUVlV2VGpGVDJua3ZaMWdTb3lxaHJlbTVlLUpHY2wwVmc4NEhZR04yT3FqVnhEVEEzeFhzVGlJOVlTTGpfWlhnVXFPQUtJWVpjd05nbDVQRkNKYlAw?oc=5",
-      "publishedAt": "2026-10-24T17:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Obama volta à campanha, marcando aparições em confronto com Trump nas eleições de meio de mandato",
-      "titleOriginal": "Obama Returns to the Trail, Setting Up Dueling Midterm Appearances With Trump",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "publishedAt": "2026-10-24T16:50:50.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
       "publishedAt": "2026-10-24T16:09:15.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Como a MAHA impulsionou uma nova onda de médicos que se candidatam a cargos públicos",
-      "titleOriginal": "How MAHA fueled a new wave of doctors running for office",
-      "link": "https://thehill.com/policy/healthcare/6166776-doctors-running-congress-midterms/",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ro Khanna está errado sobre o caos na Europa — e sobre JD Vance",
-      "titleOriginal": "Ro Khanna is wrong about the chaos in Europe — and about JD Vance",
-      "link": "https://thehill.com/opinion/campaign/6168998-ro-khanna-hypocrisy-wealth-inequality/",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
     }
   ]
 }
