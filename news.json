@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:33:59.093Z",
+  "updatedAt": "2026-10-24T14:53:33.855Z",
   "count": 10,
   "items": [
     {
@@ -24,6 +24,13 @@
       "publishedAt": "2026-10-24T13:54:58.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Um complexo residencial canadense em uma ilha particular remota",
+      "titleOriginal": "House of the Week: A Canadian Compound on a Remote Private Island",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWFaWG55MmhpQ29LT0QxOFhTT2k0Tm5XV3VNUXRLcGs2VDJSVmNIQkFTbS0zZDdWczVjQXBoWGxWaU5tNlo1elVLQ0pNb056ekdidDZCeEVZVTVRcUJ4SWpobXVRZ1JYemdDQ09OSUkxRnJpQ1h0VzhTa1AzNVJza3o1OS1nXzBJcTI2M1pR?oc=5",
+      "publishedAt": "2026-10-24T13:31:47.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "A velocidade da rede de satélites Starshield está melhorando, afirma a Ucrânia",
       "titleOriginal": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
@@ -35,6 +42,13 @@
       "title": "Com as eleições israelenses se aproximando, assessores de Trump veem uma oportunidade além de Netanyahu",
       "titleOriginal": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX1VCUW9wbldZbmU5eG1taUsteGwtek1WaUtEWHJiM0t0TnJ5cWxTTDZPa3R6dU5vcDc1aG50NW5mdjNTYjJDT3dCOERwZV9lX0Y4Y29aSjJiejhLZGpfTmVucXh5dThPdWowN2htLVY3WGNBMW11a2RVMzVQZw?oc=5",
+      "publishedAt": "2026-10-24T13:01:18.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Exclusivo: Memorando dos serviços de inteligência dos EUA alerta para planos “avançados” do Irã para assassinar autoridades no exterior",
+      "titleOriginal": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw?oc=5",
       "publishedAt": "2026-10-24T13:01:18.000Z"
     },
     {
@@ -57,20 +71,6 @@
       "titleOriginal": "What This Democrat’s Surge in Texas Says About the Midterms",
       "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
       "publishedAt": "2026-10-24T12:51:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Ucrânia informa que o Starlink voltou a funcionar após uma queda no desempenho",
-      "titleOriginal": "Ukraine reports Starlink operating again after slowdown",
-      "link": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/",
-      "publishedAt": "2026-10-24T12:07:11.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ucrânia e Rússia visam novas negociações de paz — e a missão de Melania Trump —, mas ainda há grandes obstáculos",
-      "titleOriginal": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
-      "publishedAt": "2026-10-24T11:58:00.000Z"
     }
   ]
 }
