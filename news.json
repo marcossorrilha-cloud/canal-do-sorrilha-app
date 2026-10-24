@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-10-24T21:11:03.021Z",
+  "updatedAt": "2026-10-24T23:15:46.491Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "O novo centro de gravidade de Israel",
+      "titleOriginal": "Israel’s New Center of Gravity",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmI2bms1SHptSGZhYURoTzViZlA1MTlMNk1XSXIxbW84bUstNGtpOU5yVWs2am1iZWc2WmJwWXByLTZmcFZuTWMwbmNLb0FxMWc4czFqS19aVEY5a0hXRUU3ZDRfc0lnYmptc18tOV9mTklkLU9yUzBQU3JhenBxbkZB?oc=5",
+      "publishedAt": "2026-10-24T23:01:28.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Obama lança ataques contundentes contra Trump e Ramaswamy ao retomar a campanha eleitoral",
-      "titleOriginal": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "publishedAt": "2026-10-24T21:06:54.000Z"
+      "title": "Elon Musk afirma que a Ucrânia violou as regras da Starlink",
+      "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "publishedAt": "2026-10-24T22:37:56.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Atualmente, está saindo mais petróleo do Golfo Pérsico do que antes da Guerra do Irã",
+      "titleOriginal": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+      "publishedAt": "2026-10-24T21:55:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump, que já chamou a votação antecipada de “ridícula”, vota nas eleições de meio de mandato",
+      "titleOriginal": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
+      "publishedAt": "2026-10-24T21:40:56.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Casas históricas: uma famosa casa de praia projetada para a saúde holística",
+      "titleOriginal": "Exclusive | Historic Homes: A Famed Beach House Designed for Holistic Health",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGJOYXVINnBUSnlEZEl6NE1NcjltNzFvcV9GZ28tckY5Qng0S0dnRWNzcEVhQi1VUzkwUEJReDI4SUZJRjVSQXBYYzhSVHRxVENuLVZVcXBNczU3eHRGdXpEXzdPc0tVTGx6elNXYXdpOUo2XzZGUEdiQ3ZHdmUyanVLUWx5STd4eXc2WUZlR0tnSnVV?oc=5",
+      "publishedAt": "2026-10-24T21:30:46.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Obama sobre a Casa Branca de Trump: “É como se Saddam Hussein tivesse aberto uma Cheesecake Factory”",
+      "titleOriginal": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+      "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
+      "publishedAt": "2026-10-24T21:13:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Pentágono elabora planos de ataque ao Irã enquanto Teerã ameaça com uma retaliação agressiva",
+      "titleOriginal": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
+      "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
+      "publishedAt": "2026-10-24T21:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -29,48 +71,6 @@
       "titleOriginal": "Obama endorses Nixon, Jolly in last-minute campaign boost",
       "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/",
       "publishedAt": "2026-10-24T20:01:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-coordenador de campanha de Trump fala sobre o Partido Republicano antes das eleições de meio de mandato: “A situação está feia”",
-      "titleOriginal": "Trump's former campaign manager on GOP ahead of midterms: 'It's ugly'",
-      "link": "https://thehill.com/homenews/campaign/6170199-stepien-midterm-elections-republicans/",
-      "publishedAt": "2026-10-24T18:55:51.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | FBI investiga caso de espionagem contra suspeito saudita ligado à OpenAI",
-      "titleOriginal": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
-      "publishedAt": "2026-10-24T17:07:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que os democratas podem ter dificuldade em conquistar o Senado, apesar de seus bons resultados nas pesquisas",
-      "titleOriginal": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
-      "publishedAt": "2026-10-24T17:00:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A NFL foi obrigada a fechar a loja temporária “NFL House” devido aos protestos em Paris",
-      "titleOriginal": "NFL forced to close 'NFL House' pop-up due to Paris protests",
-      "link": "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
-      "publishedAt": "2026-10-24T16:50:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ucrânia afirma que os drones da rede Starshield voltaram à velocidade normal",
-      "titleOriginal": "Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "publishedAt": "2026-10-24T16:11:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Irã está em “estágios avançados” do planejamento de ataques contra americanos, afirmam autoridades",
-      "titleOriginal": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "publishedAt": "2026-10-24T16:09:15.000Z"
     }
   ]
 }
