@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-25T22:33:56.846Z",
+  "updatedAt": "2026-10-25T22:48:21.214Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Apresentando uma nova maneira de entender a eleição: Tendências dos eleitores do Times",
+      "titleOriginal": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "publishedAt": "2026-10-25T22:35:20.000Z"
+    },
     {
       "source": "Axios",
       "title": "Claude, da Anthropic, contornou um bloqueio de acesso pago para acessar dados de eleitores da Geórgia sem autorização",
       "titleOriginal": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
-      "publishedAt": "2026-10-25T22:27:42.000Z"
+      "publishedAt": "2026-10-25T22:30:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -64,13 +71,6 @@
       "titleOriginal": "Hinson calls Putin 'murderer,' says US should not make deals with Russia",
       "link": "https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/",
       "publishedAt": "2026-10-25T21:32:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Bispos católicos lamentam foto da oração na Casa Branca com Trump e afirmam que ela foi usada para fins políticos",
-      "titleOriginal": "Catholic bishops regret White House prayer photo with Trump, say it was used politically",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTFhbHVWdlhUem03Qk8ySU5qSFoxZnBPLUZNcjB4R3ZqWlE3cHkwaXhNWG5ySC1XaXVDcTFiODV2dUdhUU9zeUdjOGJzaDlwRUFLMVZva0tOVlZydHpGQklYV0JkSGhoQnVvWm1rdzhxd2k1YUg5dFhPbVhINkcyN0pYeldRTUZGOUxSTjZETFNUczJWbnFwaWdsSnNKZllNNDZLb21ESEIxX241clFSU2RB?oc=5",
-      "publishedAt": "2026-10-25T21:11:00.000Z"
     }
   ]
 }
