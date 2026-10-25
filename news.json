@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-24T23:43:03.434Z",
+  "updatedAt": "2026-10-25T01:15:30.065Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Um novo nível de ameaça e medo corre o risco de levar os EUA e o Irã de volta a uma guerra total",
+      "titleOriginal": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "publishedAt": "2026-10-25T01:06:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | O voto da comunidade negra de Abdul El-Sayed",
+      "titleOriginal": "Opinion | Abdul El-Sayed’s Black Vote",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOOHZVZnh4WVlHVFpXc3lrWGNIdEhQcHlpOTBlRmNRdWpTOWhSN1B0dUEyR3VyRWRwZWFjb3UwSUVrMkNNVnNxSVgzMU9EUGlUX2pvRlBKTW5odGFYeVVfZzk4ajktWUJ4OE5pSUNHRmo?oc=5",
+      "publishedAt": "2026-10-25T00:48:37.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Audi vai construir fábrica na Geórgia, afirma Trump",
+      "titleOriginal": "Audi to Build Factory in Georgia, Trump Says",
+      "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+      "publishedAt": "2026-10-25T00:38:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Elon Musk afirma que a Ucrânia violou as regras da Starlink",
+      "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "publishedAt": "2026-10-25T00:10:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Obama sobre a Casa Branca de Trump: “É como se Saddam Hussein tivesse aberto uma Cheesecake Factory”",
+      "titleOriginal": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+      "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
+      "publishedAt": "2026-10-25T00:05:25.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Obama brinca sobre o “foco em queixos e testosterona” de Hegseth durante parada de campanha em Ohio",
+      "titleOriginal": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
+      "link": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/",
+      "publishedAt": "2026-10-24T23:48:11.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Os advogados de Kushner enviam notificação à Vanity Fair sobre trecho supostamente “difamatório”",
@@ -11,31 +53,17 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "O novo centro de gravidade de Israel",
-      "titleOriginal": "Israel’s New Center of Gravity",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmI2bms1SHptSGZhYURoTzViZlA1MTlMNk1XSXIxbW84bUstNGtpOU5yVWs2am1iZWc2WmJwWXByLTZmcFZuTWMwbmNLb0FxMWc4czFqS19aVEY5a0hXRUU3ZDRfc0lnYmptc18tOV9mTklkLU9yUzBQU3JhenBxbkZB?oc=5",
-      "publishedAt": "2026-10-24T23:01:28.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Elon Musk afirma que a Ucrânia violou as regras da Starlink",
-      "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "publishedAt": "2026-10-24T22:37:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A região mais polêmica da China tornou-se uma vitrine para suas ambições comerciais",
-      "titleOriginal": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dGV1R1UyOFpRaFNYbTZhZENXQ1NORzA4TXc3UVZfLVJFMlJ4b3hQSDhXck1UM3NvRnBQdnZYLXhod2RtWVJaZi1rbWlZRDZ5dU5Ra3l1VXhVdzJTOU9oWTZNeGlVeUprelNOZ3VnTmNYaE9xUnlBUjZWbkpaN2s?oc=5",
-      "publishedAt": "2026-10-24T22:33:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
       "title": "Atualmente, está saindo mais petróleo do Golfo Pérsico do que antes da Guerra do Irã",
       "titleOriginal": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
       "publishedAt": "2026-10-24T21:55:37.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Obama, em Ohio, critica a “crueldade” e a indecência de Trump e de seus aliados na campanha para as eleições de meio de mandato",
+      "titleOriginal": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
+      "publishedAt": "2026-10-24T21:43:00.000Z"
     },
     {
       "source": "New York Times",
@@ -43,34 +71,6 @@
       "titleOriginal": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
       "publishedAt": "2026-10-24T21:40:56.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Casas históricas: uma famosa casa de praia projetada para a saúde holística",
-      "titleOriginal": "Exclusive | Historic Homes: A Famed Beach House Designed for Holistic Health",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGJOYXVINnBUSnlEZEl6NE1NcjltNzFvcV9GZ28tckY5Qng0S0dnRWNzcEVhQi1VUzkwUEJReDI4SUZJRjVSQXBYYzhSVHRxVENuLVZVcXBNczU3eHRGdXpEXzdPc0tVTGx6elNXYXdpOUo2XzZGUEdiQ3ZHdmUyanVLUWx5STd4eXc2WUZlR0tnSnVV?oc=5",
-      "publishedAt": "2026-10-24T21:30:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A parada de campanha cheia de piadas de Obama em Ohio: 5 vezes em que o ex-presidente atacou os republicanos",
-      "titleOriginal": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
-      "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
-      "publishedAt": "2026-10-24T21:13:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono elabora planos de ataque ao Irã enquanto Teerã ameaça com uma retaliação agressiva",
-      "titleOriginal": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
-      "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
-      "publishedAt": "2026-10-24T21:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Starlink militar da Ucrânia está funcionando novamente, afirma Kiev",
-      "titleOriginal": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEyMDNVYmxJajlNX3VGZkh3TEgwZGdDU1dsRUZCbk8xXzZxcUhvTG5GelhLXzZkYzRMQnJBRk14Z2o4akdHZEU0bHNqT1poLTVYaDk4YTRKZ0NZRVQ1RE1FUG5MVGExNEhfU2NteExXXzJvTlRaWGVGaXczV0pDSy0wbV9ZZFA5Y2QtZnBOY3NhNWNWTlB2T1NURQ?oc=5",
-      "publishedAt": "2026-10-24T20:36:00.000Z"
     }
   ]
 }
