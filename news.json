@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:35:05.878Z",
+  "updatedAt": "2026-10-25T12:46:13.477Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,35 @@
       "title": "Apresentando uma nova maneira de entender a eleição: Tendências dos eleitores do Times",
       "titleOriginal": "Introducing a New Way to Understand the Election: Times Voter Trends",
       "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-      "publishedAt": "2026-10-25T11:30:14.000Z"
+      "publishedAt": "2026-10-25T12:41:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Liberdade para discriminar: como a Suprema Corte desmantelou a Lei dos Direitos Eleitorais",
+      "titleOriginal": "Free to discriminate: How the Supreme Court unraveled the Voting Rights Act",
+      "link": "https://thehill.com/opinion/campaign/6168815-supreme-court-voting-restrictions/",
+      "publishedAt": "2026-10-25T12:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump deve prestar depoimento no processo contra a BBC, determina juiz",
+      "titleOriginal": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5",
+      "publishedAt": "2026-10-25T11:39:48.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Crítica de “A Course Called Ireland”: Bill Murray, no green da Ilha Esmeralda",
+      "titleOriginal": "‘A Course Called Ireland’ Review: Bill Murray, on the Green in the Emerald Isle",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3ZjWVJSRTVTd3JxMDhHaTNKVi0yYTFnS20tOEc5MU1KOVpKRjdralJ5OXZIdzlqNWpoRUlUUHFETEgzTWJqV1RvNG1sSFF4M3ZqTzlJSmY1VTQzdnRwQ3VCcDdoNnpFZDVDSThKOHBmZlI0Sko5NHJpdHlyWHl2UjdIdEtINExHaUl4VWp2WmtaR0dxQnByZk9CcjY5a1Y2TW03ajFXT01id09UaDJEYkRHV0pkMmM2akRJQ29Pa2Nyei1GUTF3?oc=5",
+      "publishedAt": "2026-10-25T11:34:54.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Departamento de Justiça dos Estados Unidos",
+      "titleOriginal": "U.S. Department of Justice",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
+      "publishedAt": "2026-10-25T10:56:20.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -15,20 +43,6 @@
       "titleOriginal": "Live Q&A: Ask Us Your Questions About Midterms and the Economy",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGw5TC1lWVBmc0Z6UXdCcGM0Sy1pNHV4TWh2czA0aGlnUnExOWxiWER1MHJYMi1KcWVRbTZSaUU4ZW1WQ2pSSVRzZ3RvTGdzYWtyWEtIc2NJRVZHZUV4REpua2g2SXJzSTdsdVBPTDhQTW5qOEptdTdyLVlYbUZJVE5mbk43cC1zdy1lZGlaMWtjUzF4dklFd0pONHJnbE1pbnJUd1BueTR4SFBNVGc?oc=5",
       "publishedAt": "2026-10-25T10:23:10.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump deve prestar depoimento no processo contra a BBC, determina juiz",
-      "titleOriginal": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5",
-      "publishedAt": "2026-10-25T10:09:47.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Departamento de Justiça dos Estados Unidos",
-      "titleOriginal": "U.S. Department of Justice",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-      "publishedAt": "2026-10-25T10:04:06.000Z"
     },
     {
       "source": "The Hill",
@@ -57,20 +71,6 @@
       "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
       "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
       "publishedAt": "2026-10-25T09:28:35.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Pesquisas indicam que os democratas têm vantagem em quatro disputas-chave pela Câmara na Pensilvânia",
-      "titleOriginal": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
-      "publishedAt": "2026-10-25T09:01:59.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Os latinos são agora os eleitores indecisos mais importantes dos Estados Unidos",
-      "titleOriginal": "Latinos Are Now America’s Most Important Swing Voters",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
-      "publishedAt": "2026-10-25T09:01:38.000Z"
     }
   ]
 }
