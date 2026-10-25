@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-25T01:15:30.065Z",
+  "updatedAt": "2026-10-25T01:42:36.717Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Obama lança ataques contundentes contra Trump e Ramaswamy ao retomar a campanha eleitoral",
+      "titleOriginal": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "publishedAt": "2026-10-25T01:12:14.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Um novo nível de ameaça e medo corre o risco de levar os EUA e o Irã de volta a uma guerra total",
@@ -10,11 +17,11 @@
       "publishedAt": "2026-10-25T01:06:17.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | O voto da comunidade negra de Abdul El-Sayed",
-      "titleOriginal": "Opinion | Abdul El-Sayed’s Black Vote",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOOHZVZnh4WVlHVFpXc3lrWGNIdEhQcHlpOTBlRmNRdWpTOWhSN1B0dUEyR3VyRWRwZWFjb3UwSUVrMkNNVnNxSVgzMU9EUGlUX2pvRlBKTW5odGFYeVVfZzk4ajktWUJ4OE5pSUNHRmo?oc=5",
-      "publishedAt": "2026-10-25T00:48:37.000Z"
+      "source": "The Hill",
+      "title": "Musk afirma que foi ele quem causou a redução na velocidade do Starlink na Ucrânia",
+      "titleOriginal": "Musk says he was behind Starlink's slowdown in Ukraine",
+      "link": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
+      "publishedAt": "2026-10-25T00:44:31.000Z"
     },
     {
       "source": "New York Times",
@@ -22,13 +29,6 @@
       "titleOriginal": "Audi to Build Factory in Georgia, Trump Says",
       "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
       "publishedAt": "2026-10-25T00:38:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Elon Musk afirma que a Ucrânia violou as regras da Starlink",
-      "titleOriginal": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "publishedAt": "2026-10-25T00:10:07.000Z"
     },
     {
       "source": "The Hill",
@@ -52,18 +52,11 @@
       "publishedAt": "2026-10-24T23:15:39.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Atualmente, está saindo mais petróleo do Golfo Pérsico do que antes da Guerra do Irã",
-      "titleOriginal": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-      "publishedAt": "2026-10-24T21:55:37.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Obama, em Ohio, critica a “crueldade” e a indecência de Trump e de seus aliados na campanha para as eleições de meio de mandato",
-      "titleOriginal": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
-      "publishedAt": "2026-10-24T21:43:00.000Z"
+      "source": "The Hill",
+      "title": "Blanche: A ação judicial do Departamento de Justiça não tem como objetivo “impedir a certificação da eleição no Alasca”",
+      "titleOriginal": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
+      "link": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
+      "publishedAt": "2026-10-24T22:13:22.000Z"
     },
     {
       "source": "New York Times",
@@ -71,6 +64,13 @@
       "titleOriginal": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
       "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
       "publishedAt": "2026-10-24T21:40:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Pentágono elabora planos de ataque ao Irã enquanto Teerã ameaça com uma retaliação agressiva",
+      "titleOriginal": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
+      "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
+      "publishedAt": "2026-10-24T21:00:00.000Z"
     }
   ]
 }
