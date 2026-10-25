@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-10-25T01:42:36.717Z",
+  "updatedAt": "2026-10-25T06:13:27.578Z",
   "count": 10,
   "items": [
     {
       "source": "New York Times",
-      "title": "Obama lança ataques contundentes contra Trump e Ramaswamy ao retomar a campanha eleitoral",
-      "titleOriginal": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "publishedAt": "2026-10-25T01:12:14.000Z"
+      "title": "Apresentando uma nova maneira de entender a eleição: Tendências dos eleitores do Times",
+      "titleOriginal": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "publishedAt": "2026-10-25T05:40:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O líder norte-coreano Kim Jong Un visita a China para inaugurar uma nova ponte transfronteiriça",
+      "titleOriginal": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+      "publishedAt": "2026-10-25T03:36:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Elon Musk comete erros no mercado indiano",
+      "titleOriginal": "Opinion | Elon Musk Blunders in the Indian Market",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3ZtU2RnQm5LWkI1LVpvMGRxeTlrUXZSZzgtRlR2OURpRHc5MkxvWTF5VmU0UVFIbHNnMGlpZGFmNzBCVzA3WENTSi1jcUpYYUxOQU5McVp2amRsMWVKdXlCLWphMnlySk1BOWVDN0JVN0p2VGtDdTUyRjMyMDdtLVNR?oc=5",
+      "publishedAt": "2026-10-25T03:35:35.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Obama, no Meio-Oeste, critica a “crueldade” e a indecência de Trump e seus aliados na campanha para as eleições de meio de mandato",
+      "titleOriginal": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
+      "publishedAt": "2026-10-25T02:45:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "James Fishback teria sido impedido de entrar no comício dos republicanos da Flórida",
+      "titleOriginal": "James Fishback allegedly blocked from entering Florida Republicans' rally",
+      "link": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/",
+      "publishedAt": "2026-10-25T02:44:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Audi vai construir fábrica na Geórgia, afirma Trump",
+      "titleOriginal": "Audi to Build Factory in Georgia, Trump Says",
+      "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+      "publishedAt": "2026-10-25T02:17:33.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump anuncia a primeira fábrica da Audi nos EUA, na Geórgia, em meio ao impacto das tarifas",
+      "titleOriginal": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGt1SlVnaVJySEY0YnFSWkdhTjNSeWtxRGxTXzk3MWUtRjVIT0FFVmd5WUhjOENRUTlOMGxpOF9mY2Q4Y1c0V3FaSzJQRGxyVmEzc0J3RElpSHhzRzRTTjhyOWQySWZuWHFsUTEzdTBJcE5QRjFMdFFYXzJlUzlnQ3FDdE1TZXlxQlFFU2xfRkhEdDNhM2pobGZIU3NDOWp0MGFabFBYeWIyd3pubE1KbWZ0ems5dw?oc=5",
+      "publishedAt": "2026-10-25T01:55:00.000Z"
     },
     {
       "source": "New York Times",
@@ -17,60 +59,18 @@
       "publishedAt": "2026-10-25T01:06:17.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Musk afirma que foi ele quem causou a redução na velocidade do Starlink na Ucrânia",
-      "titleOriginal": "Musk says he was behind Starlink's slowdown in Ukraine",
-      "link": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
-      "publishedAt": "2026-10-25T00:44:31.000Z"
+      "source": "AP News",
+      "title": "AOC consegue atrair multidões. As eleições de meio de mandato vão testar se sua linha política é capaz de vencer antes de 2028",
+      "titleOriginal": "AOC can draw a crowd. The midterms will test whether her politics can win before 2028",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmV4SEw3dldwbVFJVDc3Q1JjcHlxYXhTY3dtUDZPbFlma0hfbWtGZTVjN1JtNGJYOFNEYXpsaDljcUxiZ25WbS1iR0g5b19MaHFoelNhSUhpcUZncDgzVlRJbFRhVVRmWXNQTnhnZXlPMUk5Yl9sSUpOOXp3V3Z1YVcxRTlLTmJ1dTQwY0dGNjBxRVVpclpZSi1EZDNQd2NsX18xY0xJM2t0LWhhb0pUMWZ3?oc=5",
+      "publishedAt": "2026-10-25T01:06:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Audi vai construir fábrica na Geórgia, afirma Trump",
-      "titleOriginal": "Audi to Build Factory in Georgia, Trump Says",
-      "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-      "publishedAt": "2026-10-25T00:38:14.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Obama sobre a Casa Branca de Trump: “É como se Saddam Hussein tivesse aberto uma Cheesecake Factory”",
-      "titleOriginal": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
-      "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
-      "publishedAt": "2026-10-25T00:05:25.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Obama brinca sobre o “foco em queixos e testosterona” de Hegseth durante parada de campanha em Ohio",
-      "titleOriginal": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
-      "link": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/",
-      "publishedAt": "2026-10-24T23:48:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os advogados de Kushner enviam notificação à Vanity Fair sobre trecho supostamente “difamatório”",
-      "titleOriginal": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
-      "link": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
-      "publishedAt": "2026-10-24T23:15:39.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Blanche: A ação judicial do Departamento de Justiça não tem como objetivo “impedir a certificação da eleição no Alasca”",
-      "titleOriginal": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-      "link": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
-      "publishedAt": "2026-10-24T22:13:22.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump, que já chamou a votação antecipada de “ridícula”, vota nas eleições de meio de mandato",
-      "titleOriginal": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
-      "publishedAt": "2026-10-24T21:40:56.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Pentágono elabora planos de ataque ao Irã enquanto Teerã ameaça com uma retaliação agressiva",
-      "titleOriginal": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
-      "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
-      "publishedAt": "2026-10-24T21:00:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "A região mais polêmica da China tornou-se uma vitrine para suas ambições comerciais",
+      "titleOriginal": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dGV1R1UyOFpRaFNYbTZhZENXQ1NORzA4TXc3UVZfLVJFMlJ4b3hQSDhXck1UM3NvRnBQdnZYLXhod2RtWVJaZi1rbWlZRDZ5dU5Ra3l1VXhVdzJTOU9oWTZNeGlVeUprelNOZ3VnTmNYaE9xUnlBUjZWbkpaN2s?oc=5",
+      "publishedAt": "2026-10-25T00:31:19.000Z"
     }
   ]
 }
