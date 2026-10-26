@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-26T01:11:25.580Z",
+  "updatedAt": "2026-10-26T01:43:06.120Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "El-Sayed: Trump tem tanto respeito pela Constituição quanto por “um pedaço de papel higiênico”",
+      "titleOriginal": "El-Sayed: Trump has as much regard for Constitution as ‘a piece of toilet paper’",
+      "link": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/",
+      "publishedAt": "2026-10-26T01:20:40.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Os ataques eleitorais de Trump entram em uma nova fase preventiva",
       "titleOriginal": "Trump’s Election Attacks Enter New Pre-emptive Phase",
       "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-      "publishedAt": "2026-10-26T00:46:00.000Z"
+      "publishedAt": "2026-10-26T01:12:21.000Z"
     },
     {
       "source": "Axios",
@@ -64,13 +71,6 @@
       "titleOriginal": "Shapiro looks like a 2028 powerhouse — with an asterisk",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOGNRYlhVUm12WU90c0NuTlJDTU1mR2UyeUpjNnVNTVl6R2FQNWhGZGMxd2N1R0s2ZFFYSFNQUDZBX1ZxaHJoNmVSc1RpU3lwRDctUUk3TGtzR3YyNWRTYXlaTjFkdmpWaE5JNg?oc=5",
       "publishedAt": "2026-10-25T22:58:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que El-Sayed deveria passar pelo detector de metais para entrar no Senado",
-      "titleOriginal": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
-      "link": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
-      "publishedAt": "2026-10-25T22:52:30.000Z"
     }
   ]
 }
