@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-25T22:48:21.214Z",
+  "updatedAt": "2026-10-26T01:11:25.580Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Os ataques eleitorais de Trump entram em uma nova fase preventiva",
+      "titleOriginal": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+      "publishedAt": "2026-10-26T00:46:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Lula derrota Bolsonaro e vence a eleição presidencial no Brasil",
+      "titleOriginal": "Lula beats Bolsonaro to win Brazil presidential election",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlFOcm1lZE01QjBoOExKb0QxWjBvMFVaOFdQalFwR3RDanAybFJka0pzWlgyOTJRNVZqbmRCSElEZ1VZVDh0VzFjMEd5VlVfOUdkbnpCLU5va3ZrX2tFOW9XUXJTY05iZWZUN19XYXFPeFdBZnVQSk9NNmZlX0JPLXJ1SQ?oc=5",
+      "publishedAt": "2026-10-26T00:26:19.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump intensifica os ataques antimuçulmanos contra El-Sayed em Michigan, o que gerou críticas da comunidade árabe-americana",
+      "titleOriginal": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5",
+      "publishedAt": "2026-10-26T00:26:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Bill Kole",
+      "titleOriginal": "Bill Kole",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sck1SLU51UVhvS2VkOWI2OGNLZDhQdnZINzVuUkUwQzNxeW9uZEE1dkJFVEktRUhaUERwSFdlb21ocGgyTV9YanExY2pwY2pqcUZ0bXJNNWM1dGU3TXdzSzRVdw?oc=5",
+      "publishedAt": "2026-10-25T23:56:26.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Apresentando uma nova maneira de entender a eleição: Tendências dos eleitores do Times",
       "titleOriginal": "Introducing a New Way to Understand the Election: Times Voter Trends",
       "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-      "publishedAt": "2026-10-25T22:35:20.000Z"
+      "publishedAt": "2026-10-25T23:49:35.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Claude, da Anthropic, contornou um bloqueio de acesso pago para acessar dados de eleitores da Geórgia sem autorização",
-      "titleOriginal": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
-      "publishedAt": "2026-10-25T22:30:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump deve prestar depoimento no processo contra a BBC, determina juiz",
-      "titleOriginal": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5",
-      "publishedAt": "2026-10-25T22:09:52.000Z"
+      "source": "The Hill",
+      "title": "Tillis afirma que é “adequado dar uma olhada” na cédula eleitoral do Alasca, na qual há dois candidatos chamados Dan Sullivan concorrendo",
+      "titleOriginal": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+      "link": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/",
+      "publishedAt": "2026-10-25T23:46:52.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Resumo do setor de serviços financeiros: Notícias do mercado",
-      "titleOriginal": "Financial Services Roundup: Market Talk",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQekVZY3UxU1p5dHg5bTJIUzV6MmZuXy11QVhyR2tyMGhFZXRZQ0pIc1hlLWpsOV9WRkMzd0JDS29sLWk1d2pteGlPOF9hMGxLcFdBanRjR3hEaFFSNEZMb2o5NnFjUFdPSHhpYlc2dHBSUGx3U1V2OGhtQ1RPR09ZOUxn?oc=5",
-      "publishedAt": "2026-10-25T22:05:34.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A conexão incomum de um republicano de Iowa com os Koch (e com o Kansas)",
-      "titleOriginal": "An Iowa Republican’s Unusual Connection to the Kochs (and Kansas)",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/zach-lahn-iowa-governor-kansas-kochs.html",
-      "publishedAt": "2026-10-25T21:57:58.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Shapiro parece ser uma forte candidata em 2028 — com um asterisco",
-      "titleOriginal": "Shapiro looks like a 2028 powerhouse — with an asterisk",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOGNRYlhVUm12WU90c0NuTlJDTU1mR2UyeUpjNnVNTVl6R2FQNWhGZGMxd2N1R0s2ZFFYSFNQUDZBX1ZxaHJoNmVSc1RpU3lwRDctUUk3TGtzR3YyNWRTYXlaTjFkdmpWaE5JNg?oc=5",
-      "publishedAt": "2026-10-25T21:46:12.000Z"
+      "title": "Google afirma que os serviços estão se recuperando após falha na nuvem no Reino Unido afetar empresas",
+      "titleOriginal": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZU9oaGJacEZnOFoyeHBZS3k4cVJHTFdjelUxbkozMWN0QkVFSkJSZXE3cFp2VDFJM2kycjdOb2dkMU95WFlwZGNtdmprbzFpRUdDOTM1MXdld3hYakNyX0VNOEQ1NXhGSFBqT19wM3JkQlN4ZG1BNjN1MDZ3QS1fR0Q0LXhTdlZVd0lHcThJMlNaaXpLRGF4ZnNSS1VMTGd2dHAzcnBOSXBMUW9IVTFtcFBOSlBDMThlbGc2Nw?oc=5",
+      "publishedAt": "2026-10-25T23:41:05.000Z"
     },
     {
       "source": "AP News",
       "title": "O líder autoritário da Sérvia, Vucic, reconhece a derrota diante do movimento liderado por estudantes, em uma mudança política radical",
       "titleOriginal": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
-      "publishedAt": "2026-10-25T21:46:00.000Z"
+      "publishedAt": "2026-10-25T23:36:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Shapiro parece ser uma forte candidata em 2028 — com um asterisco",
+      "titleOriginal": "Shapiro looks like a 2028 powerhouse — with an asterisk",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOGNRYlhVUm12WU90c0NuTlJDTU1mR2UyeUpjNnVNTVl6R2FQNWhGZGMxd2N1R0s2ZFFYSFNQUDZBX1ZxaHJoNmVSc1RpU3lwRDctUUk3TGtzR3YyNWRTYXlaTjFkdmpWaE5JNg?oc=5",
+      "publishedAt": "2026-10-25T22:58:45.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Rogers evita responder a perguntas sobre o rótulo “MAGA” e as tarifas de Trump",
-      "titleOriginal": "Rogers dodges questions on MAGA label, Trump tariffs",
-      "link": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/",
-      "publishedAt": "2026-10-25T21:44:53.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Na disputa pelo Senado do Texas, Talarico se volta para a rivalidade crescente com Elon Musk",
-      "titleOriginal": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
-      "publishedAt": "2026-10-25T21:37:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Hinson chama Putin de “assassino” e afirma que os EUA não deveriam fazer acordos com a Rússia",
-      "titleOriginal": "Hinson calls Putin 'murderer,' says US should not make deals with Russia",
-      "link": "https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/",
-      "publishedAt": "2026-10-25T21:32:57.000Z"
+      "title": "Trump afirma que El-Sayed deveria passar pelo detector de metais para entrar no Senado",
+      "titleOriginal": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+      "link": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
+      "publishedAt": "2026-10-25T22:52:30.000Z"
     }
   ]
 }
