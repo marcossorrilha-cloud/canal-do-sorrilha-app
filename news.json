@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-10-26T19:21:09.959Z",
+  "updatedAt": "2026-10-26T20:09:01.994Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Sessão de perguntas e respostas ao vivo: envie suas perguntas sobre as eleições intermediárias e a economia",
+      "titleOriginal": "Live Q&A: Ask Us Your Questions About Midterms and the Economy",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGw5TC1lWVBmc0Z6UXdCcGM0Sy1pNHV4TWh2czA0aGlnUnExOWxiWER1MHJYMi1KcWVRbTZSaUU4ZW1WQ2pSSVRzZ3RvTGdzYWtyWEtIc2NJRVZHZUV4REpua2g2SXJzSTdsdVBPTDhQTW5qOEptdTdyLVlYbUZJVE5mbk43cC1zdy1lZGlaMWtjUzF4dklFd0pONHJnbE1pbnJUd1BueTR4SFBNVGc?oc=5",
+      "publishedAt": "2026-10-26T20:03:35.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A DoorDash está em negociações avançadas para adquirir a Instacart, sua concorrente no setor de entregas",
+      "titleOriginal": "Exclusive | DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZvRlVFSjNDTHZIeTlnUWhXdjdyTkVZQk1rV0xtTmdjT3VBN05YeVI3cUpGLUlBRC1KaTdKVzMtekd4emZ5TU1nclhrajVLV0VlbmhfRGVOVHpCRG83RmdkOElvOHhyUkRKVkd6VU1LajNUa1JvcUdjdnlVLXBreF9nV3dhOHYzWnJLSm5XVVhmVnlHS0dJRmpxMWpEY2hBMl9Fd1pCNFpiZzBRaWRwcHlEZ1I1Zw?oc=5",
+      "publishedAt": "2026-10-26T19:52:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nate Silver: As pesquisas “teriam que estar muito erradas” para que os republicanos mantivessem o controle da Câmara",
+      "titleOriginal": "Nate Silver: Polling 'would have to be very wrong' for Republicans to maintain House control",
+      "link": "https://thehill.com/homenews/campaign/6173174-silver-predicts-democratic-house-win/",
+      "publishedAt": "2026-10-26T19:46:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Casa da Semana: Um complexo residencial canadense em uma ilha particular remota",
+      "titleOriginal": "House of the Week: A Canadian Compound on a Remote Private Island",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWFaWG55MmhpQ29LT0QxOFhTT2k0Tm5XV3VNUXRLcGs2VDJSVmNIQkFTbS0zZDdWczVjQXBoWGxWaU5tNlo1elVLQ0pNb056ekdidDZCeEVZVTVRcUJ4SWpobXVRZ1JYemdDQ09OSUkxRnJpQ1h0VzhTa1AzNVJza3o1OS1nXzBJcTI2M1pR?oc=5",
+      "publishedAt": "2026-10-26T19:37:29.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Noruega reage após Trump criticá-la por causa da decisão sobre o Prêmio Nobel",
       "titleOriginal": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-      "publishedAt": "2026-10-26T19:09:43.000Z"
+      "publishedAt": "2026-10-26T19:31:32.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Como as brigas nos comícios de Trump ecoam eventos anteriores",
+      "titleOriginal": "How Scuffles at Trump Rallies Echo His Past Events",
+      "link": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
+      "publishedAt": "2026-10-26T19:20:51.000Z"
     },
     {
       "source": "Axios",
@@ -24,11 +59,11 @@
       "publishedAt": "2026-10-26T18:40:02.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Como as brigas nos comícios de Trump ecoam eventos do seu passado",
-      "titleOriginal": "How Scuffles at Trump Rallies Echo His Past Events",
-      "link": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
-      "publishedAt": "2026-10-26T18:34:55.000Z"
+      "source": "Axios",
+      "title": "Parques de exposições e imposto sobre milionários impulsionam questões eleitorais em Chicago",
+      "titleOriginal": "Fairgrounds and millionaire tax drive Chicago ballot questions",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0toeFdBNDRna25FY3BTNklRakZUV3pnS1JxVDJSWnA0MnYxUFNCSjJmU3M0Mm1yUEg2ZDNLNGlUUDEwVHphcjNKQ3FKYUZtYWFqRzdGQlZaR0xNYWY3RXhfYkU5Wk51S2VBZlgwSy14cktQQ3hjT19FS1VXSF9FVGdUWmhNc1dXdkJwN2ZjTW9DNEVvMXc?oc=5",
+      "publishedAt": "2026-10-26T18:25:49.000Z"
     },
     {
       "source": "AP News",
@@ -36,41 +71,6 @@
       "titleOriginal": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWJncVBjVnZqc1hWNmxhZFFWZUZkS1hXLXcyOXJSeFphV0lJR3dGX3loYTVKVmdFMzFuN1ZNYktiRFAyWW1mdkhBcE9UaE01V1NveFJ2SUlzU1h5YW5sN084S19oeXBaRWRRZVdCWnlWR2kzN3F2ZVUwMmUtMlh1STBSUXZDdVc3clRBb3VESi1FNWM?oc=5",
       "publishedAt": "2026-10-26T18:25:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Departamento de Justiça demitiu ilegalmente a promotora do caso Epstein, Maurene Comey, segundo decisão judicial",
-      "titleOriginal": "DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVNoRXFtOUxQZnJldWozVGF4b3doLTVMQWJxNGdDd3FialItZmZteFhQMkNmN1dBLVAzRmRZal9SemdFNVdvVl9lZ0hVNENHZWh4TEt2TGQzNFl5OXJzY08zNjV2Qk5uQVdOVW9Ka2d5WUw3dkNRZC1YSzh6MHkxYjJrZVUyZ081cXd3?oc=5",
-      "publishedAt": "2026-10-26T18:24:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance e Harris lideram as primeiras pesquisas para a corrida à Casa Branca de 2028",
-      "titleOriginal": "Vance, Harris top early 2028 White House race polling",
-      "link": "https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/",
-      "publishedAt": "2026-10-26T17:58:01.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Executivos do setor de energia dos EUA afirmam ter deixado uma startup devido a um financiamento russo não divulgado",
-      "titleOriginal": "U.S. Energy Execs Say They Quit Startup Over Undisclosed Russian Funding",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkFiU1FYZGlkMjdSWFp0bVJuVUpfTXRIVFdZZkh3ZUtpLTVhMmswZ2l3SU5IeGF6dkh1SlVKcjRWLVVwRkd0b2c2OGIwYVBndTVGMlRRWkdVczJReTJ1MDZnM1Y1UWE4ajUyUl9ENUNWMEgyNy1vbktiOGhrRzBoTGRxRl9CbHlHTHJBZFFhY1lZSkNLUGo4SjByZ1lxRzE2TlpOaDFidUxxLWFlaXJkUVdkWUV5MGwtRXFrXw?oc=5",
-      "publishedAt": "2026-10-26T17:55:18.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O fechamento da Linha Amarela do MAX prejudica o serviço no norte de Portland",
-      "titleOriginal": "MAX Yellow Line closure disrupts North Portland service",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2EweUJxcTRlN1BNc2VHRW0tcUZWa2QzdkE2N0Z3SXpMdjM1YXFDeDM4S3BMZHNPYnpEV2ljdkJPRXNEU1NEM05uRmw3TWc5YXNXREJ6TFoyamFHX1djVF9RSE5oLVlla2hGUnNaQ2FnUWlDc3hFaDYtOUdvMnpPVjR2RHBkRGxmZVVEVFB2V1A?oc=5",
-      "publishedAt": "2026-10-26T17:54:37.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A votação antecipada em Chicago supera os números das eleições intermediárias de 2022",
-      "titleOriginal": "Chicago early voting outpaces 2022 midterms",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDdwTW9qanM1UG9mbmh6SEUzMU5GdUVSeW5SVlpaZEtueXhSODVYSnlEdmdvZXdpMlpuN1JZZWJSNjFBRXVQN1cyeVlvZjVySGdlNnZiN1VLQzg1Z1l1bHhyU0pVdEFLUFRhdE44bmRsSXEySUxQT0VSWm5KU1lvVEJ6eVRpS2JJNlZ1cXBzdw?oc=5",
-      "publishedAt": "2026-10-26T17:45:24.000Z"
     }
   ]
 }
