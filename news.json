@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-27T21:20:20.312Z",
+  "updatedAt": "2026-10-27T21:28:46.872Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "O Pentágono está financiando um centro de treinamento naval no Equador",
+      "titleOriginal": "Pentagon funding a naval training facility in Ecuador",
+      "link": "https://thehill.com/policy/international/6176245-us-builds-ecuador-naval-center/",
+      "publishedAt": "2026-10-27T21:21:32.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Rubio faz um discurso de 11 segundos em comício de Trump",
@@ -11,7 +18,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Eleições em Israel estão acirradas demais para se definir um vencedor, enquanto a participação eleitoral bate recorde",
+      "title": "Eleições em Israel estão muito acirradas, com a participação eleitoral batendo recorde",
       "titleOriginal": "Israeli elections too close to call as turnout shatters record",
       "link": "https://thehill.com/policy/international/6176171-israel-election-record-turnout/",
       "publishedAt": "2026-10-27T21:03:36.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
       "publishedAt": "2026-10-27T20:03:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zacharia afirma que a imprensa sofre da “Síndrome de Desorientação em relação a Trump”",
-      "titleOriginal": "Zacharia says press corps has ‘Trump Derangement Syndrome'",
-      "link": "https://thehill.com/homenews/administration/6175932-zacharia-blames-press-trump-derangement/",
-      "publishedAt": "2026-10-27T20:00:02.000Z"
     }
   ]
 }
