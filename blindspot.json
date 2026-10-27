@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-27T05:06:57.715Z",
-  "slot": "2026-10-27-AM",
+  "updatedAt": "2026-10-27T16:40:19.596Z",
+  "slot": "2026-10-27-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Bispos católicos afirmam que o encontro com Trump não teve caráter político",
-      "titleOriginal": "Catholic bishops say Trump meeting wasn’t intended to be political",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblhVV1NSVVI3OGZhX1l0d1BDN3lEM2ZULUV6U3RWdncwYzFKVHJnckRRV0R3SkdMVDg2MGUtOWFvVTB3NFVDRFJMTmVBMm1SRmFkY0g5NjhacVBlTlFiYXBLVHpWQm16MmY4WkhPb1NEaUEwVUpMS1RjUHNMdUhQRU9xOUpzN0NFYkNqOUxTb0RqN3liYmtEZk0tN2pyejZQZ1dyckJxM3I5RU1PYm96VlBB?oc=5",
+      "title": "Juiz suspende remoção de árvores e impõe novos limites ao projeto de golfe de Trump",
+      "titleOriginal": "Judge halts tree removal, imposes new limits on Trump’s golf project",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE4yTlMweHlSMkVPbWxYY1VibDM1QmJ5QmRObkF6N09xaGNiRVRUcWkwemtjaTd0SVlMdzl5NFJPNXdqZ3lrOVd6TjJsc0h1Y2NqNG56ai1EQUZxdy01WHo1cGl3WnA1VjY0amdwRWZCZDhoV2FSMVpfWENJc1NvU0hnYWF4THNULVpUanU4Tk9oVGhnSWR5WURZVm0wLUdXUUNyb3QyTjNMbHo4VUMxVzVtUQ?oc=5",
       "source": "Washington Post",
-      "coverage": 4
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Brennan: Trump e a “astuta” Blanche tentam “influenciar” as eleições de meio de mandato",
-      "titleOriginal": "Brennan: Trump and ‘Devious’ Blanche Attempting to ‘Tilt’ Midterm Election",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGZUNVlFTnpreVRIUzA2SE5wX25WZ3VsSUMxRjhXUXlqdkozU1VwN2Jsa2NDS0hRcTg1dDRWTlVmNnEwdXc1bXg5bUZzRXR3YmVRNDFWWko2S1RxeVdhMFBvNE9JeEFHY2w0TEhINjllLXFyY000MXRSWlllcm5RWE1XRk9DTnMyNFFJREhRRWhzd3pub044OGtXYnQxdHdpN3hlMEp0SlVwdi1nWERNc3l2Z9IBuAFBVV95cUxNUEw4R3V1SlZtaTJBYnJQTktpOFZudXRnLVNvdFAxMXBpMnJBdWIweEFiQ2xHTGF5LWRMc0I2YmZKakZsbm16dFJxTzB4YzRCeE5CTEJYcE5pR1hJdTlmVVdwSmFjSVFkZ2VzNXlvSEFFQ1VPVHItMERCNmdFYjFoR1ZTQ0EtZkZvYnJvR194aVBvc09SQm5vckRUYUR1T1p2b05lZHp0WGluRDg0VjRzUE92clhZRldC?oc=5",
-      "source": "Breitbart",
-      "coverage": 2
+      "title": "Candidato libertário ao Senado, armado e perturbado, faz tweets ao vivo sobre a caçada humana e provoca a polícia: “Que espetáculo e tanto”",
+      "titleOriginal": "Deranged Armed Libertarian Senate Candidate Live-Tweets Manhunt, Taunts Cops: ‘A Hell Of A Show’",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0t2d01qVDFwR0MxaVF4NmRrdVFiUjlFQXFvazZqZkFTS0dBVHNVSFNjMkN4Nlc1OXE2Yko3dnBab2xKckVMSFpqNk1sSk5DaHp6bXBodmhBYmlYbnFBZWl0Mm1iZGNyYzhCdjFQRlV0Y0dHbUszeEpYNEt3RnZLQl96SVVkd0J4ek43TEFIakstTWZYV0hZXzdWQ0xQZFN6blFzVk0wZllvZG1SX3pURHJqZVR0NlBDa2l4d1RFN2s?oc=5",
+      "source": "Daily Wire",
+      "coverage": 3
     }
   ]
 }
