@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-27T05:06:57.000Z",
+  "updatedAt": "2026-10-27T10:35:32.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
   "asOf": "27/10/2026",
   "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 27/10/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
   "house": {
-    "dem": 84.7,
-    "rep": 15.3
+    "dem": 89.7,
+    "rep": 10.3
   },
   "senate": {
     "dem": 60.8,
@@ -14,30 +14,21 @@
   },
   "states": [
     {
-      "state": "Alasca",
-      "office": "Senado",
-      "candidates": "Mary Peltola (D) × Dan Sullivan (R)",
-      "favored": "D",
-      "prob": 56,
-      "name": "Peltola",
-      "rating": "Toss-up"
-    },
-    {
-      "state": "Texas",
-      "office": "Senado",
-      "candidates": "James Talarico (D) × Ken Paxton (R)",
-      "favored": "D",
-      "prob": 60,
-      "name": "Talarico",
-      "rating": "Lean D"
-    },
-    {
       "state": "Iowa",
       "office": "Senado",
       "candidates": "Josh Turek (D) × Ashley Hinson (R)",
       "favored": "R",
-      "prob": 66,
+      "prob": 51,
       "name": "Hinson",
+      "rating": "Toss-up"
+    },
+    {
+      "state": "Kansas",
+      "office": "Senado",
+      "candidates": "Adam Hamilton (D) × Roger Marshall (R)",
+      "favored": "R",
+      "prob": 61,
+      "name": "Marshall",
       "rating": "Lean R"
     },
     {
@@ -45,8 +36,35 @@
       "office": "Senado",
       "candidates": "Troy Jackson (D) × Susan Collins (R)",
       "favored": "D",
-      "prob": 68,
+      "prob": 61,
       "name": "Jackson",
+      "rating": "Lean D"
+    },
+    {
+      "state": "Nebraska",
+      "office": "Senado",
+      "candidates": "Dan Osborn (Ind) × Pete Ricketts (R)",
+      "favored": "R",
+      "prob": 63,
+      "name": "Ricketts",
+      "rating": "Lean R"
+    },
+    {
+      "state": "Alasca",
+      "office": "Senado",
+      "candidates": "Mary Peltola (D) × Dan Sullivan (R)",
+      "favored": "D",
+      "prob": 66,
+      "name": "Peltola",
+      "rating": "Lean D"
+    },
+    {
+      "state": "Texas",
+      "office": "Senado",
+      "candidates": "James Talarico (D) × Ken Paxton (R)",
+      "favored": "D",
+      "prob": 70,
+      "name": "Talarico",
       "rating": "Lean D"
     },
     {
@@ -54,7 +72,7 @@
       "office": "Senado",
       "candidates": "Sherrod Brown (D) × Jon Husted (R)",
       "favored": "D",
-      "prob": 70,
+      "prob": 71,
       "name": "Brown",
       "rating": "Lean D"
     },
@@ -63,35 +81,35 @@
       "office": "Senado",
       "candidates": "Abdul El-Sayed (D) × Mike Rogers (R)",
       "favored": "D",
-      "prob": 75,
+      "prob": 73,
       "name": "El-Sayed",
       "rating": "Lean D"
     },
     {
-      "state": "Kansas",
+      "state": "South Carolina",
       "office": "Senado",
-      "candidates": "Adam Hamilton (D) × Roger Marshall (R)",
+      "candidates": "Annie Andrews (D) × Darline Graham (R)",
       "favored": "R",
-      "prob": 84,
-      "name": "Marshall",
-      "rating": "Likely R"
+      "prob": 78,
+      "name": "Graham",
+      "rating": "Lean R"
     },
     {
-      "state": "Carolina do Norte",
+      "state": "Minnesota",
       "office": "Senado",
-      "candidates": "Roy Cooper (D) × Michael Whatley (R)",
+      "candidates": "A definir (D × R)",
       "favored": "D",
       "prob": 84,
-      "name": "Cooper",
+      "name": "Democrata",
       "rating": "Likely D"
     },
     {
-      "state": "Nebraska",
+      "state": "Flórida",
       "office": "Senado",
-      "candidates": "Dan Osborn (Ind) × Pete Ricketts (R)",
+      "candidates": "Alexander Vindman (D) × Ashley Moody (R)",
       "favored": "R",
-      "prob": 87,
-      "name": "Ricketts",
+      "prob": 90,
+      "name": "Moody",
       "rating": "Likely R"
     },
     {
@@ -99,44 +117,8 @@
       "office": "Senado",
       "candidates": "Chris Pappas (D) × John Sununu (R)",
       "favored": "D",
-      "prob": 87,
-      "name": "Pappas",
-      "rating": "Likely D"
-    },
-    {
-      "state": "South Carolina",
-      "office": "Senado",
-      "candidates": "Annie Andrews (D) × Darline Graham (R)",
-      "favored": "R",
-      "prob": 87,
-      "name": "Graham",
-      "rating": "Likely R"
-    },
-    {
-      "state": "Flórida",
-      "office": "Senado",
-      "candidates": "Alexander Vindman (D) × Ashley Moody (R)",
-      "favored": "R",
-      "prob": 89,
-      "name": "Moody",
-      "rating": "Likely R"
-    },
-    {
-      "state": "Minnesota",
-      "office": "Senado",
-      "candidates": "A definir (D × R)",
-      "favored": "D",
       "prob": 91,
-      "name": "Democrata",
-      "rating": "Likely D"
-    },
-    {
-      "state": "Geórgia",
-      "office": "Senado",
-      "candidates": "Jon Ossoff (D) × Mike Collins (R)",
-      "favored": "D",
-      "prob": 92,
-      "name": "Ossoff",
+      "name": "Pappas",
       "rating": "Likely D"
     }
   ]
