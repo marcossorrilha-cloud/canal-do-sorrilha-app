@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-27T16:40:12.209Z",
+  "updatedAt": "2026-10-27T16:51:22.125Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Forças nucleares da França contam com a ajuda dos vizinhos para manter a Rússia sob controle",
+      "titleOriginal": "France’s Nuclear Forces Bring In Neighbors to Keep Russia in Check",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlcyVjhVaDliZERCZF9SeERLNEdHblNvbk0wUS1RNExOLS1jMVJ1UU15R3JBZ0FwNm9oQjN3N3RrWmZFa0FmakVNem5QNS11dnFUOFRtZ3Q3REU1MDc2MTVLOXJpQ2Fva0lEYWFIbWtPbXBKWGxzN1hudlV4SFFWTUIzYUlzVVdxaDNTVy10T21halNuV1BRZDRXYzR3bXJ1bWdybVFLUkRtVGM?oc=5",
+      "publishedAt": "2026-10-27T16:44:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A disputa pelo Senado em Michigan gera ansiedade entre eleitores judeus e muçulmanos",
+      "titleOriginal": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html",
+      "publishedAt": "2026-10-27T16:38:50.000Z"
+    },
     {
       "source": "The Hill",
       "title": "O FBI faz uma busca em uma residência na Califórnia ligada à investigação sobre Eric Swalwell",
@@ -45,13 +59,6 @@
       "publishedAt": "2026-10-27T15:57:54.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "A disputa pelo Senado em Michigan gera ansiedade entre eleitores judeus e muçulmanos",
-      "titleOriginal": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html",
-      "publishedAt": "2026-10-27T15:56:51.000Z"
-    },
-    {
       "source": "The Hill",
       "title": "Atualizações em tempo real: Trump segue para o Texas para dois comícios consecutivos; Talarico planeja evento paralelo",
       "titleOriginal": "Live updates: Trump heads to Texas for rally doubleheader; Talarico plans dueling event",
@@ -64,13 +71,6 @@
       "titleOriginal": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html",
       "publishedAt": "2026-10-27T15:43:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Dinamarca e Estônia manifestam ceticismo em relação à conversa de Finlândia e Noruega com Putin",
-      "titleOriginal": "Denmark, Estonia express skepticism over Finland and Norway's call with Putin",
-      "link": "https://thehill.com/policy/international/6175110-norway-finland-call-putin-controversial/",
-      "publishedAt": "2026-10-27T15:39:06.000Z"
     }
   ]
 }
