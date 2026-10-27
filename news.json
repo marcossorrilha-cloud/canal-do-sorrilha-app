@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-26T23:54:11.061Z",
+  "updatedAt": "2026-10-27T00:04:46.450Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Casas históricas: uma famosa casa de praia projetada para a saúde holística",
+      "titleOriginal": "Exclusive | Historic Homes: A Famed Beach House Designed for Holistic Health",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGJOYXVINnBUSnlEZEl6NE1NcjltNzFvcV9GZ28tckY5Qng0S0dnRWNzcEVhQi1VUzkwUEJReDI4SUZJRjVSQXBYYzhSVHRxVENuLVZVcXBNczU3eHRGdXpEXzdPc0tVTGx6elNXYXdpOUo2XzZGUEdiQ3ZHdmUyanVLUWx5STd4eXc2WUZlR0tnSnVV?oc=5",
+      "publishedAt": "2026-10-27T00:01:05.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "A aliança MAHA-MAGA está se desintegrando antes das eleições de meio de mandato",
@@ -32,7 +39,7 @@
     },
     {
       "source": "New York Times",
-      "title": "O Departamento de Justiça apresenta novas acusações contra Comey, acusando-o de vazamentos",
+      "title": "Departamento de Justiça apresenta novas acusações contra Comey, acusando-o de vazamentos",
       "titleOriginal": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
       "publishedAt": "2026-10-26T23:02:17.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "James Comey charged again by the DOJ",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmpsRzFocmZYcVJXbnpVdWxqLUotbmhiYnQ1UTVIR0NtTUlDMHk4WHRLRzUxSENjcHh3WUtESG9FaXJZZ2plZ0RfRjJLUGV2LUp1c2E4OVU4YkxtUFZsRTJLeHkwYXZMYnhucGlQTklmRXhfaExsY2tZOFAyRkdIbk51VS1WUlNs?oc=5",
       "publishedAt": "2026-10-26T21:47:24.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas poderiam investigar importadores de diesel russo",
-      "titleOriginal": "Dems could probe Russian diesel importers",
-      "link": "https://thehill.com/newsletters/energy-environment/6173521-dems-could-probe-russian-diesel-importers/",
-      "publishedAt": "2026-10-26T21:45:31.000Z"
     }
   ]
 }
