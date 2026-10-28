@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-10-28T16:03:39.404Z",
+  "updatedAt": "2026-10-28T19:52:30.984Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "A campanha de Gina Hinojosa para governadora do Texas testa os limites das novas regras para anúncios políticos digitais",
-      "titleOriginal": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
-      "link": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
-      "publishedAt": "2026-10-28T15:45:36.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Rivais ao Senado do Texas se reúnem em Lubbock, com Trump na disputa",
-      "titleOriginal": "Texas Senate Rivals Converge on Lubbock, With Trump in the Mix",
-      "link": "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html",
-      "publishedAt": "2026-10-28T15:41:34.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Israel enfrenta semanas de disputas políticas após eleições que terminaram em impasse",
-      "titleOriginal": "Israel faces weeks of political wrangling after deadlocked election",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDNKZEY0cVVVNXRiTDZYVUdVMHU2RGdidkx4emVtdjJKOVRNaUtKU3VuYmEtcjQyeEVKeVd0VnZwYXZpQ2Q4RzNtLVRLUWNqRmM2aWFhcjE1MlZWQnRqdFQ3WUt2SV9sYUJ4QU5Ld2FzZXJUN3gtX21sRzhrZDktTWNvQVpqSkNMdXVabGx3?oc=5",
-      "publishedAt": "2026-10-28T15:33:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Aproveite a IA para analisar a conta de luz nos Estados Unidos",
-      "titleOriginal": "Put AI to work on America’s electric bill",
-      "link": "https://thehill.com/opinion/energy-environment/6175998-improving-american-power-grid-infrastructure/",
-      "publishedAt": "2026-10-28T15:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O problema político do capital privado",
-      "titleOriginal": "Private equity's political problem",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWJVM3kxVTl4SFh6NXVINUVUVVdkSkY5ZEo2ZW9adFI5S2lkMDlRM2FicDg2WHFoSmptdFhDeWpjQlJqcmFMRzF1b3RITjFDeHdwMWliU2h0a01aMllUQWtWNm5aQVgwbVJzVnVIWXhjTnFfU3M4S2VfZ1g2TUpxc0lzVFZNcjZyOEI0?oc=5",
-      "publishedAt": "2026-10-28T15:29:10.000Z"
-    },
-    {
       "source": "AP News",
-      "title": "Israelenses aguardam os resultados finais das eleições, enquanto os adversários de Netanyahu avaliam a possibilidade de unir forças com partidos árabes",
-      "titleOriginal": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-      "publishedAt": "2026-10-28T15:29:00.000Z"
+      "title": "Reportagem: Campanha de Peltola esteve envolvida em iniciativa para recrutar um segundo Dan Sullivan para a disputa pelo Senado do Alasca",
+      "titleOriginal": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+      "publishedAt": "2026-10-28T19:36:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O governo do Alasca, liderado pelo Partido Republicano, pede ao tribunal que bloqueie a ação movida pelo Departamento de Justiça contra a certificação da eleição para o Senado",
-      "titleOriginal": "Alaska's GOP-led government asks court to block DOJ Senate race certification lawsuit",
-      "link": "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/",
-      "publishedAt": "2026-10-28T15:28:30.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A GE Vernova vai adquirir fabricante de equipamentos para redes elétricas por US$ 9 bilhões, à medida que a demanda por energia cresce",
-      "titleOriginal": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFIya25NanlSdXBFYmoydFIzU2NTSDVCaXFBWHFJN1FXaDhoUjBWeFZodkJzZzlRMWwzZHA4NDRhUGxxU202eFBrdnl1bXd1UUZYU0I5NHIyMXFjazJMdUZlTENzcm1EUmV2UUY1eURSZ21KN2E1d0E2QTBPc1JnMGE5Y0hTUjN3Y1BlYWNybDU1TGJoMk1uRkM4ZDlxWUJaMlFQX1JWeDlpaVlRNlJjbFB3VWlwUFVrUEtSLUpn?oc=5",
-      "publishedAt": "2026-10-28T15:11:15.000Z"
+      "title": "Kim Reynolds afirma que Lahn foi o “vencedor indiscutível” do debate para o cargo de governador",
+      "titleOriginal": "Kim Reynolds says Lahn was 'clear winner' of gubernatorial debate",
+      "link": "https://thehill.com/homenews/campaign/6179090-iowa-gubernatorial-candidates-reynolds/",
+      "publishedAt": "2026-10-28T19:20:10.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Ex-presidente do RNC: os democratas “provavelmente” assumirão o controle da Câmara",
-      "titleOriginal": "Former RNC chair: Democrats will 'probably' take House control",
-      "link": "https://thehill.com/homenews/campaign/6177899-ronna-mcdaniel-rnc-gop-democrats-house-control-midterms/",
-      "publishedAt": "2026-10-28T15:05:29.000Z"
+      "title": "Deputado democrata da Câmara: As cédulas de papel protegem contra uma possível invasão eleitoral por parte de Musk",
+      "titleOriginal": "House Democrat: Paper ballots protect against Musk's potential election hacking",
+      "link": "https://thehill.com/policy/technology/6179059-himes-paper-ballots-prevent-hacking/",
+      "publishedAt": "2026-10-28T18:56:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O que fazer se os mesários disserem que você não está registrado para votar",
+      "titleOriginal": "What to do if poll workers say you aren't registered to vote",
+      "link": "https://thehill.com/homenews/campaign/6175607-what-to-know-voter-registration-midterms/",
+      "publishedAt": "2026-10-28T18:43:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Apoio à reeleição de congressistas em exercício atinge níveis recordes de baixa: Gallup",
+      "titleOriginal": "Support for reelecting congressional incumbents at record lows: Gallup",
+      "link": "https://thehill.com/homenews/administration/6178743-congress-reelection-poll-record-low/",
+      "publishedAt": "2026-10-28T18:35:28.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Antevisão: o novo ponto de encontro artístico de North Lawndale está tomando forma",
+      "titleOriginal": "Sneak peek: North Lawndale's new arts destination is taking shape",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWs2MzlNdjBPU3d6WW1QYlEydXdNMGVDaWJpb1BDb1AtU1pPTnhDLTJZMjZlZndyblg0YTFabTFKNjVoOUR0OU9oOHBCSWI0Q2dBaHRvQ29YTUlfdWNrSHJmRkU3T29TLVFUNGJ1d3ZiZ3h3aGxnSlRJSHlndERlTVVxTnhHNmlwUzNYUGFQS2p1ajBjemFEdndjQXYyUU1VRkdka29oRjg?oc=5",
+      "publishedAt": "2026-10-28T18:31:13.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O controle do Senado pode ficar em suspenso por semanas após o dia das eleições",
+      "titleOriginal": "Senate control could hang in limbo for weeks after Election Day",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlVX1k3OXNyeEYzQUE4d1hiQXBONnBoeXBfOGFucXY5LVVxX2VvcGhET2RLZnVzX3B5dXN2RDZ6aXVDYWpOZ0VHc1dUQVlUOWFPQ3NzRnkwWnkwcTJnVmtYU2dBelVuckUwWTZpSmpoZGs2SEFCenRnV052VExuY2xfYmllZGx2bTRZSA?oc=5",
+      "publishedAt": "2026-10-28T18:28:30.000Z"
     },
     {
       "source": "AP News",
       "title": "O candidato presidencial derrotado Flávio Bolsonaro e sua família chegam a Miami após fugirem do Brasil",
       "titleOriginal": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
-      "publishedAt": "2026-10-28T14:54:00.000Z"
+      "publishedAt": "2026-10-28T18:20:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Fed mantém as taxas inalteradas, com a governadora Lisa Cook votando contra",
+      "titleOriginal": "Fed leaves rates steady as governor Lisa Cook dissents",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+      "publishedAt": "2026-10-28T18:18:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O ativista de direita James O'Keefe foi acusado de voto ilegal e roubo de identidade",
+      "titleOriginal": "Right-wing activist James O'Keefe charged with unlawful voting, identity theft",
+      "link": "https://thehill.com/policy/technology/6178839-james-okeefe-voter-fraud-charges/",
+      "publishedAt": "2026-10-28T18:17:46.000Z"
     }
   ]
 }
