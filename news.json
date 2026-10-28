@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-10-28T00:44:09.491Z",
+  "updatedAt": "2026-10-28T01:23:07.736Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "EUA defendem campanha militar contra os cartéis enquanto líderes se reúnem no Caribe",
+      "titleOriginal": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
+      "publishedAt": "2026-10-28T01:18:49.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Suprema Corte aprova acordo do Texas com o Departamento de Justiça sobre processos de deportação",
+      "titleOriginal": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
+      "publishedAt": "2026-10-28T00:56:42.000Z"
+    },
     {
       "source": "Axios",
       "title": "Os republicanos temem que o “grito vermelho” possa reduzir a participação eleitoral do Partido Republicano",
       "titleOriginal": "Republicans fear \"red scream\" could depress GOP voter turnout",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5RnE1NWpNNS15dnZzY29UdU5jR3lVOXRGeW5Yd1VQaWkzdWZxSnI2c0NpR1g3WnFHYk1HYjllNTRWcEZGbUdQTzY5R3h1akRjbFVIbmZKNDhJcHk1bmRQMDBHVGVJTGcwZ1o3empQMTQ1Y2kyVkwzRVpIalVaUQ?oc=5",
-      "publishedAt": "2026-10-28T00:26:36.000Z"
+      "publishedAt": "2026-10-28T00:56:15.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Casa Branca exerce forte controle sobre o FBI na investigação de alvos ligados a Trump, afirma agente",
+      "titleOriginal": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
+      "publishedAt": "2026-10-28T00:52:22.000Z"
     },
     {
       "source": "New York Times",
@@ -17,6 +38,13 @@
       "publishedAt": "2026-10-28T00:15:53.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Vídeos de desinformação, provavelmente originários da Rússia, estão explorando pessoas reais para difamar candidatos ao Senado",
+      "titleOriginal": "Disinformation videos, likely from Russia, are exploiting real people to malign Senate candidates",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBRQWtGd3R6TThQTzE1bG5tc2FRd3djYVVsd0JiYl9MbTV4dWtXV2RsOTNiV3E4T2Nmdm1hYS1CazJPdVNKUG92aWJIcEdiQnhIaXJmbmZQZzNrZTgzMWswSmIzOUFvcll4NHhKYWNBR0hKaEJVaDNsNjJNMW5XM1VSdXRvUFd2cUFRcW9POWl6T1FyUWhGSmpPUnk2Mndtb1k5V2Fray15NGJDTzA0Y1NzTQ?oc=5",
+      "publishedAt": "2026-10-28T00:15:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
       "title": "Como a Weil Gotshal, um dos escritórios de advocacia mais tradicionais de Wall Street, acabou mergulhada no caos",
       "titleOriginal": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
@@ -24,18 +52,11 @@
       "publishedAt": "2026-10-28T00:14:38.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "EUA defendem campanha militar contra os cartéis enquanto líderes se reúnem no Caribe",
-      "titleOriginal": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
-      "publishedAt": "2026-10-27T23:53:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Casa Branca exerce forte controle sobre o FBI na investigação de alvos ligados a Trump, afirma agente",
-      "titleOriginal": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
-      "publishedAt": "2026-10-27T23:48:11.000Z"
+      "source": "Axios",
+      "title": "O controle do Senado pode ficar em suspenso por semanas após o dia das eleições",
+      "titleOriginal": "Senate control could hang in limbo for weeks after Election Day",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVlVX1k3OXNyeEYzQUE4d1hiQXBONnBoeXBfOGFucXY5LVVxX2VvcGhET2RLZnVzX3B5dXN2RDZ6aXVDYWpOZ0VHc1dUQVlUOWFPQ3NzRnkwWnkwcTJnVmtYU2dBelVuckUwWTZpSmpoZGs2SEFCenRnV052VExuY2xfYmllZGx2bTRZSA?oc=5",
+      "publishedAt": "2026-10-28T00:04:02.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "Pentagon picks Poland for new missile maintenance facility",
       "link": "https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/",
       "publishedAt": "2026-10-27T23:15:58.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Chefe dos serviços secretos tenta restaurar a ordem após turbulência no departamento de inteligência",
-      "titleOriginal": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html",
-      "publishedAt": "2026-10-27T23:12:16.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Suprema Corte aprova acordo do Texas com o Departamento de Justiça sobre processos de deportação",
-      "titleOriginal": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
-      "publishedAt": "2026-10-27T23:07:04.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump planeja flexibilizar as restrições às emissões de metano provenientes da perfuração de petróleo",
-      "titleOriginal": "Trump plans to loosen restrictions on methane emissions from oil drilling",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFNKN0ZYWlpwbTl6aV91dkRrYVpUZktMVzIta0hXb21GR1k0SURSb3lOZVFkTmhPR2Z4VUJXZm9WaC1rLWwtLXN0OVhYR3NobFhmTzhTSEVmRzkxWDdRSlVNVkNQTVpNSUduQXBDdC1pV1VzcGUxaXNtalJoYXFJVjUyQnFKUGV0QmJYQmVPbG15bVBOZXZF?oc=5",
-      "publishedAt": "2026-10-27T22:54:00.000Z"
     }
   ]
 }
