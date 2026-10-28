@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-28T07:24:49.483Z",
-  "slot": "2026-10-28-AM",
+  "updatedAt": "2026-10-28T16:03:46.399Z",
+  "slot": "2026-10-28-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Pesquisas de boca de urna indicam que não há um vencedor claro nas eleições em Israel",
-      "titleOriginal": "No clear winner in Israeli vote, exit polls indicate",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5",
-      "source": "Washington Post",
-      "coverage": 4
+      "title": "O promotor pró-Trump que está tentando impedir a contagem dos votos da Califórnia",
+      "titleOriginal": "The pro-Trump prosecutor trying to stop California ballots from being counted",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzBGYUZ6ZWhHSVhyaVlQZDBkdGxsOW81ZXdxUkxjQ1J1VVZkenQ2UnA4VXV2MTVueWl5RzlQMElGY1ZQVTFNS3lyQnhLYjFCTU1wZmlKRDdzQVhxVFZBMnFldmxTQjJZbGRqN0c1M3RMWDFrLWdOM19fRWxSN21raEFFU081LVBmYk1Lekc0ZzZEZ2pnNk4wWjBpSEJZVWs?oc=5",
+      "source": "The Guardian",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Gill sobre as supostas ligações de El-Sayed com a Irmandade Muçulmana: “Alguém que não deveria estar nem perto do Senado”",
-      "titleOriginal": "Gill on El-Sayed Alleged Ties to the Muslim Brotherhood: ‘Somebody Who Should Be Nowhere Near the Senate’",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV09lTUZnZzVhVVBIa2kxaDl6N2ZYM1ViNzcwSEpTa2NQbTNSZG1KS1NOWjFqdWZFeVpxV25JQWZwUURkeXZZdDZlNU56clRtX2FYWmxicVpqNHJxSktoaUl2d0JSZkRJNTJta09Tc3cxd19tT2N0TmIzLVo1bVh4bkZGN0xiMjh4QWw0OUE4aW1mT1RpajB1dXR3ZjRsTk43WVNxZElsRzI3RHdMdEk5bVBRLWp5Y2E3eXdqWElHQjIyR1NNbVRiVzdqYTRTcjM1Rml6cTJWZmJHeXBYNmgw0gHkAUFVX3lxTE5xYzFMUWctd0paTUprZ0ZnWXFpbjZIcUc2eGM5QmJ4RnpoSTFmRkJqVUdpdXVVaWd1MjhNTko1S2Rrb2tWdm8wWDlRaUNKVTBILXBMUi1ac1NoYVp1b2RTbGNQZWZ2OU8xOW9Yam41dHFUd0l0dlQyYTZFRFVkcm44bUdxc0dwbV95d0ZjRnp6WUg4a0hiVGdtYk45ZENndDNNMXdFU3NyeU9OMkMwT0ctTVBESXNQY295ZkM2Vk9laGh4bXBPd3dkYVZQWHhjbUZDWEd5bWdCNHBTWnpQcDBzQXhkNg?oc=5",
-      "source": "Breitbart",
+      "title": "A hipocrisia de Hasan Piker em relação à identificação do eleitor fica em evidência em evento com Ilhan Omar",
+      "titleOriginal": "Hasan Piker’s Voter ID Hypocrisy On Full Display For Event With Ilhan Omar",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFByeldtU053NlRGZHZJNnVaZFdtaDQxeVJVMlNXY0FwU2c4VGdsVjlfSEdDQWVnWUJTT1JLcmtMMGw2VHVRVEVRd09YdmNCMmJzSENPNTB4TlNQRURjR0xNMlFNNGNlbWVzb3BabWtjMm51NnRKZDlqMFg3MEpkMlA4T3BFM2hfSEN6clpQRzM2WHVTYVZVb1NoMVJUNUJQLVhablFUSQ?oc=5",
+      "source": "Daily Wire",
       "coverage": 3
     }
   ]
