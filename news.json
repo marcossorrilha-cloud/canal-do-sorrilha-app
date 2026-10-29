@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-29T00:24:35.803Z",
+  "updatedAt": "2026-10-29T00:57:58.504Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Trump pede que Mary Peltola, candidata ao Senado pelo Alasca, seja processada",
+      "titleOriginal": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+      "publishedAt": "2026-10-29T00:32:47.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas de olho nas campanhas presidenciais de 2028 começam a cortejar doadores e membros da equipe de campanha",
+      "titleOriginal": "Democrats Eyeing 2028 Presidential Campaigns Begin Courting Donors and Operatives",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html",
+      "publishedAt": "2026-10-29T00:32:04.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Arranha-céu do JPMorgan na Park Avenue deve custar cerca de US$ 6 bilhões",
+      "titleOriginal": "Exclusive | JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYndrdDdFeWpBV0dYTHNtTGh3N0lhUUxaNGQ2MWRjaWZHN0pfc0FzbWwwSHhKd1NKd05uY1VjQ3VuWGVxYV95NkwtX1Zod2lwemZuMk5UQnlPc25peTZKTmpUcnZlQUR0SDlUcjU4Yl9UOURYZzA0NmxyajdfbXg1MGJvYnUtUmt6d3dPUVI0WktBenB0b1JKUVY0YjIyaVBjVlpPZkNVMC1TYkRvWUx4eG1tcmJwdw?oc=5",
+      "publishedAt": "2026-10-29T00:31:36.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Um confronto iminente entre Trump e o Congresso",
+      "titleOriginal": "A coming clash between Trump and Congress",
+      "link": "https://thehill.com/newsletters/defense-national-security/6179940-a-coming-clash-between-trump-and-congress/",
+      "publishedAt": "2026-10-29T00:31:08.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os EUA alertam aliados para que se preparem para possíveis ataques do Irã e retaliações após as eleições, segundo fontes da AP",
+      "titleOriginal": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
+      "publishedAt": "2026-10-29T00:21:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Kilmeade e Hume afirmam que Vance “não é tão popular quanto pensa que é” antes de 2028",
@@ -10,18 +45,18 @@
       "publishedAt": "2026-10-29T00:09:16.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Vance entra em contato com linha-dura iraniana na tentativa de retomar as negociações de paz",
+      "titleOriginal": "Exclusive | Vance Reaches Out to Iranian Hard-Liner in Bid to Restart Peace Talks",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzVvb25ndkFLZDV5RnM2dGE2NGRlcHZNTV8wMFl2Z3lNdFk2TnpqSUQ5QXJkSkNlZThnMzI0ai1iVW1YMWxsZUdGcFRBdmNudmR0SFZqOTJMOUNIVjRzNV84OWVoMkhvZy16VzFsel8zOVVyLXpxajV2WlQ3TVdScTFwZGh6NTUzbjBxa0I3bzVDWDFHUFBRUHFPcW9GeU41cVpKN0xMYTdJek54VXQtSlVEZVM4M1k?oc=5",
+      "publishedAt": "2026-10-28T23:46:00.000Z"
+    },
+    {
       "source": "Axios",
       "title": "Anúncios de ataque inundam a disputa pelo Senado no Mississippi, que está surpreendentemente acirrada",
       "titleOriginal": "Attack ads flood Mississippi's shockingly-competitive Senate race",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUTJ6aG1oaEhSeUJtbFRqZFVJbkdqR0RBdDZOOGlHaGgxTzVPTzhJX2hmMWtzRUdrR2hUUTEybDRuVWotcksyMWJ0Q2pMOFBHWjBXdFRRT29feDlSb25RNVc0ZFA3ZHdxbDZGZDhRd3pOaDVZOWVBZzM3clVuNDg?oc=5",
       "publishedAt": "2026-10-28T23:39:01.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump pede que a candidata democrata ao Senado pelo Alasca seja processada devido à polêmica envolvendo um candidato “spoiler”",
-      "titleOriginal": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
-      "publishedAt": "2026-10-28T23:39:00.000Z"
     },
     {
       "source": "New York Times",
@@ -32,45 +67,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Membros do gabinete participam de campanhas eleitorais? Especialistas em ética afirmam que alguns estão infringindo a lei.",
+      "title": "Membros do gabinete participam da campanha eleitoral? Especialistas em ética afirmam que alguns estão infringindo a lei.",
       "titleOriginal": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
       "publishedAt": "2026-10-28T23:35:45.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Vance afirma a alto funcionário iraniano que as negociações devem abordar o programa nuclear",
-      "titleOriginal": "Vance tells top Iranian official negotiations must address nuclear program",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ?oc=5",
-      "publishedAt": "2026-10-28T23:31:35.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"Otimismo nauseante\": Democratas da Câmara, ansiosos, se preparam para o dia das eleições de meio de mandato",
-      "titleOriginal": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblJXZHViZlMwMkNCamlaM2lPZFlVcnRsbWdBbGVQUURmWFpYZV8xQjY4WFZ1b3cwVjFoNkQ3Sl9pOF94aUZMNU5zUnF6Z2NNdkk0NnlqVEJuTkhkdUt3TV9QcGFwZnlfZ284aGE0Q054bVdBaTlVLWRyRXJTb3U1Y3lqNWE?oc=5",
-      "publishedAt": "2026-10-28T23:27:11.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Putin: Rússia mantém “contato próximo” com o “gênio” Musk sobre redes de satélites",
-      "titleOriginal": "Putin: Russia in 'close contact' with 'genius' Musk over satellite networks",
-      "link": "https://thehill.com/policy/technology/6179862-putin-praises-elon-musk/",
-      "publishedAt": "2026-10-28T23:18:17.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Enquanto Trump se prepara para as eleições de meio de mandato, um clima sombrio toma conta da Casa Branca",
-      "titleOriginal": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
-      "publishedAt": "2026-10-28T23:17:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Departamento de Justiça pressiona para que o mandado de busca contra Ilhan Omar permaneça em sigilo por enquanto",
-      "titleOriginal": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
-      "link": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/",
-      "publishedAt": "2026-10-28T23:05:11.000Z"
     }
   ]
 }
