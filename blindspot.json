@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-29T06:28:17.688Z",
-  "slot": "2026-10-29-AM",
+  "updatedAt": "2026-10-29T19:52:16.664Z",
+  "slot": "2026-10-29-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Pesquisa indica que a disputa pelo Senado na Carolina do Sul, estado fortemente republicano, está acirrada",
-      "titleOriginal": "The Senate Race in Heavily Republican South Carolina Is a Tossup, Poll Finds",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkc5RE1yWGYyOHR2SlE0dC1kS2pIb2FjOGtCRFZXT1QxYndhTTEzRzAzdmFRYzVwNUYySldpdVo0MTFSRk5LNFJWdHlRMWxtTzhwNjZkaHRxYkpkNjQ0dnFUV1psSlpGei1CZDlrRXhzVVVSRWNNTTZwaFFkejNYRDBLaThCdU0?oc=5",
-      "source": "New York Times",
-      "coverage": 2
+      "title": "Por que as grandes alegações de fraude eleitoral feitas por Trump resultaram em tão poucos processos judiciais",
+      "titleOriginal": "Why Trump’s big claims of voter fraud have yielded so few prosecutions",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUJXRTBtUm9tSG1Pd0FDM2x4dkpYMUs5NWR0UlR5WmM1RmxpMnBZQTlnc0szbEY1WUhnRGk0YmJ2aDFfdHhxR2RUbzhTMDBtdEcyTWU4ZE9saW85c1lnZk9qLUxPMndnSU81emVFUEwtYjRjYWZ2Wk9zYlJMTEtid01JLW9Zdl9XOFVJRUxzYWtOd0RrQ0duQWc3UHZfa0pSVkE?oc=5",
+      "source": "CNN",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump faz campanha por Paxton em dois comícios no Texas e critica duramente Talarico",
-      "titleOriginal": "Trump Stumps for Paxton at Two Rallies in Texas, Lambastes Talarico",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01FYWNGY3hLaFBoU2Z3eENYdVlyNXJSMG1ZSjg2NlJTOU5NS3lZZGJuMmw2ZGJxLUtqNVRvaEpyMEVNMjNPVWkxLXlFZHhrZ2xoMExuRGZIM1lsRzVPSk9QMlJZRnBzdnFuSVpULU9heFM2aVBEOEJNdWNFWktxckU5X3dEQVFYUWR4M2o1c0FmdG43QXFxQXhpTWwxa3p1bExrZEpR0gGrAUFVX3lxTE0xLW9UWW40WDZ5UUR3eWg4TFMyQ3NyNkFGeFlpcmRfN1lBTmxJRkN4ZzVaRnpQZng1Szltd2JrNGU4MC1kdElWWlJJdWFyeWpJV19tLUduQm93Y3BmTGxNd0JGZi1ZbHlycjVDVGNveVROdlhfVDJvODI0NktVaEtmeGExSFh1X1doUTR5RndvN3lHNDhzZlpqbzZpbGNPRkhHZHZsa3FEU2R0QQ?oc=5",
+      "title": "Nolte: O “New York Times” admite que o Departamento de Justiça de Obama encontrou evidências do suposto “casamento de fachada” de Ilhan Omar",
+      "titleOriginal": "Nolte: NY Times Admits Obama DOJ Found Evidence of Ilhan Omar’s Suspected ‘Sham Marriage’",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaTBVUG4tOEg3T2ZXWFdyak00SGJNYmVvR1FSdEQ4dTZNV25OenJWME9hRXg2WmRQVU41VlU2Sld1eHhhQ0l5RlZ2WEFiX0hqYVpfT1kxVnNodzlZd05BN3J5ZjRhMFlmMXJFSmRYRDVVTGdGc2R4V3RfQkxUcDBVckZ2S280dDJPWG9sYlZ1bEZFYVVXdWtwMlZRSnpodXpQZ1hKSXhzT3A5aWMybk5NY0pYWGNrOWplNHVjUGowaW5XY2VhbmFIOdIBzgFBVV95cUxOTjVkczJZMjd6STZTb0JGel9ONFgydlFMaTNfbUdJQ0l2eXBsV3dvQ1l0YXdEdlZNdmZibG1ZY0lXT3ZBVE1sZHp1WVVLcVowRmRtRTBWcU51WGtaRWJ6WmJVZE80R1g4a1JSNEh0RVNQOVhqalY1TFF5Q3l4dURQbTc4WkdlV2xkdHVlUG9sc3BYUnQ0WVdvekpvWmFnaXNUeGJaNHgwQ0t5ckV0ODlyRUdVa2FlMGlvY3lORkpMUl80Rktzal9SazBEUVlqQQ?oc=5",
       "source": "Breitbart",
-      "coverage": 3
+      "coverage": 4
     }
   ]
 }
