@@ -1,11 +1,46 @@
 {
-  "updatedAt": "2026-10-29T13:43:44.182Z",
+  "updatedAt": "2026-10-29T14:21:04.762Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "Votação sobre greve de 250 guardas de segurança coloca em risco o complexo portuário mais movimentado do país",
+      "titleOriginal": "Strike Vote by 250 Watchmen Puts Nation’s Busiest Port Complex at Risk",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3RiMEhNN0lrVUp5NkI1T2tRdlkxYUJiZW9HODV1OFY2QklLWHdmeDlfdHRuaHpvSHlmRFF3WnVYSXNQOUVCaVR2MlBxeXMyc0lPMFRyV3hxM1NSU3ZBN1hId3NKX21UdFJuenBodThsQ3Q3VnVPRDU1TDBpci04QU1ZMUgxaDlpaFdheU9lcUN5RDR2YnRRRE1oUHlHNG9nQUw4bjZNU2tzbkhoOFZwNGFCRGxIZw?oc=5",
+      "publishedAt": "2026-10-29T14:18:20.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A SK Hynix planeja distribuir US$ 75 bilhões aos acionistas após resultados financeiros impressionantes",
+      "titleOriginal": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORS13MExBQ0RLMjJkM1FxVkF0aVVJVzRib0Uxa0FTejhNTlY5M216LURtMFRrZ1Bwc1ZZU2E2cHRwS3FocGtvanZMRmdTWGxYUnRUd3FzMnMySDFZMmRBVVBvR3dsVDFqemZCdmdHcnpXZTZobTF0TlpaejgydmtkUUIwWGhaWGVNU1VEa3dwOFJEb1dkNUxNbXZBNFhPQVMxMjRQcWZ0dnl2VWR4TDZCdWFoeVBNcHM4eElJaGFTTQ?oc=5",
+      "publishedAt": "2026-10-29T14:03:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Santuário seletivo: a política de refugiados dos Estados Unidos, que se limita a “sul-africanos brancos”, é errada",
+      "titleOriginal": "Selective sanctuary: America's 'White South Africans Only' refugee policy is wrong",
+      "link": "https://thehill.com/opinion/white-house/6178978-trump-refugee-ban-south-africa/",
+      "publishedAt": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Respostas às suas perguntas sobre a cobertura do *New York Times* das eleições de meio de mandato",
+      "titleOriginal": "Answers to Your Questions About New York Times Midterm Election Coverage",
+      "link": "https://www.nytimes.com/2026/10/29/insider/questions-and-answers-about-midterm-election-coverage.html",
+      "publishedAt": "2026-10-29T13:56:06.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Missão humanitária deve entrar em Oleshky enquanto uma trégua localizada entre a Rússia e a Ucrânia se mantém pelo terceiro dia consecutivo",
+      "titleOriginal": "Aid mission set to enter Oleshky as a localized Russia-Ukraine truce holds for a third day",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2MtSXRKR3A1UnBUNExfMWVBTnl1VFVOMTRXa1JRb191N2xlQ2RMM1JLUjA3MXNodVRYRnNZR3lKSXlMVXRqdFEyZEJRaHNHR1pfMGF6eTdkdS1zX1lsaGNaM0lROWNkTDhjQUFWaDBJZUY4V201alNIVHpMYXA0MnpiUkhwamM4YmZvaFpxbnJ5OVN5LV93M0RnRFh1d1JKeXM3WTZYcjJwUQ?oc=5",
+      "publishedAt": "2026-10-29T13:47:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Stevens sobre o voto do noivo em Rogers: “Somos uma família dividida”",
-      "titleOriginal": "Stevens on fiancé voting for Rogers: 'We're a household divided'",
+      "titleOriginal": "Stevens on fiance voting for Rogers: 'We're a household divided'",
       "link": "https://thehill.com/homenews/campaign/6180584-haley-stevens-jason-turkish-mike-rogers-abdul-el-sayed-michigan-senate-race-2026/",
       "publishedAt": "2026-10-29T13:43:04.000Z"
     },
@@ -36,41 +71,6 @@
       "titleOriginal": "Scalise stresses voter turnout: 'We can hold the House'",
       "link": "https://thehill.com/homenews/campaign/6180417-steve-scalise-voter-turnout-boost-midterms-house-control/",
       "publishedAt": "2026-10-29T13:25:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Arranha-céu do JPMorgan na Park Avenue deve custar cerca de US$ 6 bilhões",
-      "titleOriginal": "Exclusive | JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYndrdDdFeWpBV0dYTHNtTGh3N0lhUUxaNGQ2MWRjaWZHN0pfc0FzbWwwSHhKd1NKd05uY1VjQ3VuWGVxYV95NkwtX1Zod2lwemZuMk5UQnlPc25peTZKTmpUcnZlQUR0SDlUcjU4Yl9UOURYZzA0NmxyajdfbXg1MGJvYnUtUmt6d3dPUVI0WktBenB0b1JKUVY0YjIyaVBjVlpPZkNVMC1TYkRvWUx4eG1tcmJwdw?oc=5",
-      "publishedAt": "2026-10-29T13:07:51.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: Trump e Vance percorrem rapidamente o Sul para garantir votos para o Partido Republicano",
-      "titleOriginal": "Live updates: Trump, Vance zip across South to shore up GOP votes",
-      "link": "https://thehill.com/homenews/state-watch/6179994-live-updates-trump-vance-peltola-midterm-elections/",
-      "publishedAt": "2026-10-29T12:58:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tim Scott pede que o Departamento de Justiça investigue a campanha de Peltola",
-      "titleOriginal": "Tim Scott calls for DOJ investigation of Peltola campaign",
-      "link": "https://thehill.com/homenews/state-watch/6180373-tim-scott-mary-peltola-spoiler-candidate-alaska-senate-race-probe/",
-      "publishedAt": "2026-10-29T12:54:16.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: O juiz seria considerado “totalmente responsável” por qualquer pessoa que se ferisse no campo de golfe de East Potomac, que ele considerou “absolutamente repugnante”",
-      "titleOriginal": "Trump: Judge would be held 'fully responsible' for anyone hurt on 'absolutely disgusting' East Potomac golf course",
-      "link": "https://thehill.com/regulation/court-battles/6180400-donald-trump-dc-golf-course-east-potomac-park-renovations-legal-battle/",
-      "publishedAt": "2026-10-29T12:43:47.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Como o projeto de lei sobre licenciamento pode mudar o panorama energético",
-      "titleOriginal": "Exclusive: How the permitting bill could change the energy landscape",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40UUQtVHZKZmNOT2NBTUNkZzBiRFNGQWxoQmJ6TThnUjdtUVF1UnBDc0tLUkpjVkRyMkpEQWFBbzUyOW43SkI4QlpZQU9WMEY1MWFOcHZna0RBckk0b3VGWHJmOThnUnluOXlFUExjOEpySTA?oc=5",
-      "publishedAt": "2026-10-29T12:42:57.000Z"
     }
   ]
 }
