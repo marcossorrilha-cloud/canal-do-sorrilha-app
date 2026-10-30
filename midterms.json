@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:27:07.000Z",
+  "updatedAt": "2026-10-30T23:13:35.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
   "asOf": "30/10/2026",
@@ -27,9 +27,9 @@
       "office": "Senado",
       "candidates": "Adam Hamilton (D) × Roger Marshall (R)",
       "favored": "R",
-      "prob": 61,
+      "prob": 53,
       "name": "Marshall",
-      "rating": "Lean R"
+      "rating": "Toss-up"
     },
     {
       "state": "Nebraska",
@@ -68,6 +68,15 @@
       "rating": "Lean D"
     },
     {
+      "state": "Texas",
+      "office": "Senado",
+      "candidates": "James Talarico (D) × Ken Paxton (R)",
+      "favored": "D",
+      "prob": 73,
+      "name": "Talarico",
+      "rating": "Lean D"
+    },
+    {
       "state": "South Carolina",
       "office": "Senado",
       "candidates": "Annie Andrews (D) × Darline Graham (R)",
@@ -75,15 +84,6 @@
       "prob": 74,
       "name": "Graham",
       "rating": "Lean R"
-    },
-    {
-      "state": "Texas",
-      "office": "Senado",
-      "candidates": "James Talarico (D) × Ken Paxton (R)",
-      "favored": "D",
-      "prob": 74,
-      "name": "Talarico",
-      "rating": "Lean D"
     },
     {
       "state": "Michigan",
@@ -120,6 +120,15 @@
       "prob": 93,
       "name": "Pappas",
       "rating": "Likely D"
+    },
+    {
+      "state": "South Dakota",
+      "office": "Senado",
+      "candidates": "Brian Bengs (Ind) (D) × Mike Rounds (R)",
+      "favored": "R",
+      "prob": 94,
+      "name": "Rounds",
+      "rating": "Likely R"
     }
   ]
 }
