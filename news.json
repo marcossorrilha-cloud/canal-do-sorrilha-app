@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-10-30T18:52:11.083Z",
+  "updatedAt": "2026-10-30T19:23:24.511Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A vitória do Brasil traz consigo a vingança política",
-      "titleOriginal": "Opinion | To Brazil’s Victor Goes Political Revenge",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTlSV3F0WXFzTGxCMHM0anZqOXd5alpDdW81all3d2U4a1V1ajdUcGlpRXA4N2Vyb0RZeG9fb2czME1NLVhWWHNNM2xleGlsblhnUzVBWHNkV3NaZHRzTVlYOUxJUEhnX1EzR3hibmViLVlJTWM2SzUzQ0U4dmExbWxnVGJQenc?oc=5",
-      "publishedAt": "2026-10-30T18:48:21.000Z"
+      "source": "The Hill",
+      "title": "El Sayed: “Passarei pelo detector de metais se Trump se submeter ao detector de mentiras”",
+      "titleOriginal": "El Sayed: I'll go through metal detector if Trump sits for lie detector",
+      "link": "https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-detector-test-midterms-michigan/",
+      "publishedAt": "2026-10-30T19:21:45.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Bloqueio e sanções dos EUA prejudicam gravemente a economia do Irã, afirma relatório do Tesouro",
+      "titleOriginal": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzF5djNITmFUVkx2YXZ0YVcxaFZLS3ZvYkRKUTZYaDBFck1LUUJPdGd3aF9sYU5OdWZLM1N1RHAwR3NrT3gzZ1NMMHQ0MjUwcUZrelo3dkRZQ3V0MEFhZk5WLXRkc092MFBuMUZfRGQxal9KdXNlNmg3SldfWHc2bg?oc=5",
+      "publishedAt": "2026-10-30T19:03:29.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Juiz vai investigar se autoridades do governo Trump mentiram no caso do campo de golfe",
+      "titleOriginal": "Judge to probe whether Trump officials lied in golf course case",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMERnbHk0aHVUdDZLeWNTVF9lZkF1ZFlJZW1mR0hrcGdHa0duSEtEN2VTQTJuVXZNZVpDRkFJMjRqSkcwb2x4WXRiOV83SE94R0lLc280aG9VU3R0MFFra0liZlJYdzVwT002MEJqTkdaOFFDb3N5dndWbVVSU2NPNnVQM0N3cjJiRy1R?oc=5",
+      "publishedAt": "2026-10-30T18:32:22.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Júri popular do Texas indiciou agente do ICE acusado de usar SUV como arma",
+      "titleOriginal": "Texas grand jury indicts ICE agent accused of using SUV as weapon",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UYWtqRGFmZ3pyMWJwclg2NGhNRHV4TWdiR3hhQ1BmTUViQV9kZnJ4MVBZRDFuYkhPOUxzeHY5cWN6bUpQS1VJdzQ3bGdoenFHUXFUUndUTHBjek9MdTZmMWZrUlUzMUpGNURFenJJLUVLbWdSZjhRSV9sQXdKUQ?oc=5",
+      "publishedAt": "2026-10-30T18:32:22.000Z"
     },
     {
       "source": "The Hill",
@@ -18,8 +39,8 @@
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Ro Khanna apoia os adversários de três colegas democratas da Câmara dos Deputados",
-      "titleOriginal": "Scoop: Ro Khanna backs challengers to three fellow House Democrats",
+      "title": "Exclusivo: Ro Khanna apoia os adversários de três colegas democratas da Câmara dos Deputados da Califórnia",
+      "titleOriginal": "Scoop: Ro Khanna endorses challengers to three fellow California House Democrats",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjVoNHRlOUNYanpoc3JWQ043TFVzeVg1SzY3aW50YmlQdkN2NTVacGVVeEFvZnZFTjEzQWt0OU1RZlYwSDRwLXpvOUJUcllDQngtSi1weTlkdmpOZlljT09YT25RM1FZU3RyT25QWXlzQVhpS1ZvWkl6VEE4VHdsV3FBYlo?oc=5",
       "publishedAt": "2026-10-30T18:22:22.000Z"
     },
@@ -50,27 +71,6 @@
       "titleOriginal": "Watch live: Trump officials announce new anti-fraud measures in Minnesota",
       "link": "https://thehill.com/video-clips/6184399-watch-live-bessent-oz-patel-fraud-crackdown-minnesota/",
       "publishedAt": "2026-10-30T17:06:09.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Futuros de metais preciosos despencam em meio a preocupações com as taxas de juros e ao aumento dos preços do petróleo",
-      "titleOriginal": "Precious Metal Futures Sink Amid Rate Concerns, Rising Oil Prices",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkE4aGdIVUE5b214Nmt2UmV6SnMtNDhaeTV5VEpPd2o2MWVBTklmYW1teWxmbDdVSy1NSHlJTHMycjlhZDhwQnAwVlZ0MFkxWS1lWTgxanJGbEVWbjhaaEJWejB2SzhWYVFYZmpSTjJYaXUtOGZlTGZDTWNFR3oxZzROV0lTeW9ZU1hWeV94aDI2TklxMTlHa3lobHU0WjVUT3lPRDBMcDJnckxTQnBOLXl6RjM0M1BVZ1E?oc=5",
-      "publishedAt": "2026-10-30T16:56:04.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: AOC injeta US$ 450 mil em candidatos ao Senado",
-      "titleOriginal": "Exclusive: AOC gives $450K boost to Senate candidates",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwdXk0ekZjQmJhNkZnaFhoVjZJc2lXYkdpQ2FvM2RNSG9XVnVBd28zdW1tTFdKTWViVXp0aTFxZWt1UU1XaTBELWluSnVRbEJFR18yMFJzTjNnTzlNUHU1Yk5WT21oTGhyZmNB?oc=5",
-      "publishedAt": "2026-10-30T16:53:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A reviravolta no comício de Trump no reduto eleitoral",
-      "titleOriginal": "Trump’s heartland rally reversal",
-      "link": "https://thehill.com/newsletters/1230-report/6184419-donald-trump-midterms-rallies-kansas-iowa-dc-golf-christa-pike-execution/",
-      "publishedAt": "2026-10-30T16:40:33.000Z"
     }
   ]
 }
