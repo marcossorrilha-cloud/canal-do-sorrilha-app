@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T13:34:27.216Z",
+  "updatedAt": "2026-10-30T14:09:43.074Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Divergências profundas entre diplomatas do G20, incluindo os da China e da Rússia, levam os EUA a desistir do plano de tirar uma foto em grupo",
+      "titleOriginal": "Deep rifts among G20 diplomats, including from China and Russia, prompt US to ditch group photo plan",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05KUnNfZG1OODZTY3RxWXpQTFozVkVHUkp1Sk9NVTVjWG1NVjlCM1hwY2VjSEZaSzJmaWZXNllQZVJUZWdCbkJlc2lBZFZMem5COUNVT2RidUdBTV9RUXZOVC15OFVmUWVnOVotRW5xVzZ3S1VCeWZPTUZoN2tLaVMweVl2NVRaV3l0RHg5ZFA0TXUxOVVTcw?oc=5",
+      "publishedAt": "2026-10-30T13:51:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Marshall afirma que Trump cancelou o comício no Kansas porque está “indo muito bem nas pesquisas”",
+      "titleOriginal": "Marshall says Trump dropping Kansas rally because he is 'doing so well in the polls'",
+      "link": "https://thehill.com/homenews/campaign/6183637-marshall-defends-trump-rally-cancellation/",
+      "publishedAt": "2026-10-30T13:44:49.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Nesta eleição, confie no candidato que ousa abordar a Previdência Social",
@@ -10,18 +24,18 @@
       "publishedAt": "2026-10-30T13:30:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Respostas às suas perguntas sobre a cobertura do *New York Times* das eleições de meio de mandato",
-      "titleOriginal": "Answers to Your Questions About New York Times Midterm Election Coverage",
-      "link": "https://www.nytimes.com/2026/10/29/insider/questions-and-answers-about-midterm-election-coverage.html",
-      "publishedAt": "2026-10-30T13:25:43.000Z"
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo sobem após ataque a petroleiro no Estreito de Ormuz; declarações dos houthis alimentam temores sobre o abastecimento",
+      "titleOriginal": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+      "publishedAt": "2026-10-30T13:24:00.000Z"
     },
     {
       "source": "New York Times",
       "title": "O casaco de Halloween de Melania Trump era uma fantasia à sua maneira",
       "titleOriginal": "Melania Trump’s Halloween Coat Was Its Own Kind of Costume",
       "link": "https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html",
-      "publishedAt": "2026-10-30T13:22:11.000Z"
+      "publishedAt": "2026-10-30T13:22:12.000Z"
     },
     {
       "source": "New York Times",
@@ -38,39 +52,25 @@
       "publishedAt": "2026-10-30T13:11:00.000Z"
     },
     {
+      "source": "New York Times",
+      "title": "Tem dúvidas sobre as eleições de meio de mandato? Pergunte-nos o que quiser.",
+      "titleOriginal": "Have Questions About the Midterm Elections? Ask Us Anything.",
+      "link": "https://www.nytimes.com/2026/10/29/insider/midterm-elections-coverage-questions.html",
+      "publishedAt": "2026-10-30T13:08:41.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Papa Leão XIV tornou-se o primeiro papa da história a votar em uma eleição nos Estados Unidos",
+      "titleOriginal": "Pope Leo XIV has become the first pope in history to vote in a US election",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGtJQXdjdzUwNWRVSDhJZGpLbEhhQ1V5aHlfa0R3czdQdmZLMGUtcHNJY2lxaU1GNktWQ1BCYjNYb0xXQUM0c3pMeTU5Y3Y5RlEzT3F4b3NSQi1HUXhLTkYxVDlkVkR0SEh2VkZMQWY5ODZtLW1mX0F0WXI1bFBFRWhJVlpyR1BBLXRSeXlicUtUWlk?oc=5",
+      "publishedAt": "2026-10-30T13:02:00.000Z"
+    },
+    {
       "source": "Wall Street Journal",
       "title": "Executivo chinês próximo ao CEO da Nvidia é suspeito de ter repassado informações à China",
       "titleOriginal": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
       "publishedAt": "2026-10-30T13:01:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas têm vantagem de 10 pontos sobre o Partido Republicano na disputa pelo Congresso: pesquisa",
-      "titleOriginal": "Democrats hold 10-point lead over GOP in battle for Congress: Poll",
-      "link": "https://thehill.com/homenews/campaign/6181511-democrats-lead-gop-midterm-poll/",
-      "publishedAt": "2026-10-30T13:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O caos autoinfligido das eleições para o Congresso no Missouri",
-      "titleOriginal": "The self-inflicted chaos of Missouri’s congressional elections",
-      "link": "https://thehill.com/opinion/campaign/6181537-hoskins-gerrymandering-plan-backfires/",
-      "publishedAt": "2026-10-30T13:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: O caso do East Potomac Park volta aos tribunais; Trump deve realizar comício em Daytona Beach",
-      "titleOriginal": "Live updates: East Potomac Park fight returns to court; Trump set to rally in Daytona Beach",
-      "link": "https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/",
-      "publishedAt": "2026-10-30T12:53:19.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia está de volta ao campeonato mundial de hóquei no gelo após decisão de um tribunal esportivo",
-      "titleOriginal": "Russia is back in the ice hockey world championships after sports court ruling",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVdEQXZRcldlS21feHQ0ODMyTXVMTG9IM2ptRTB3V05CS3Rzd0NSNWxQNlpvWjI1bUZySGY5bXRjTDN0akhXUzF5NDZHdWZkZTdueV9QTWsxS0VuR095Q0FiVjAzZ3BiM1doMEVzSlJoRGU3UE5vd1M0ZzJ6Yk9aSUQ3MjdTQ09E?oc=5",
-      "publishedAt": "2026-10-30T12:32:00.000Z"
     }
   ]
 }
