@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-10-31T05:42:50.906Z",
-  "slot": "2026-10-31-AM",
+  "updatedAt": "2026-10-31T15:29:56.681Z",
+  "slot": "2026-10-31-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Trump afirma que sua popularidade está em “cerca de 49,2%” ao se aproximar do fim da intensa campanha eleitoral para as eleições de meio de mandato",
-      "titleOriginal": "Trump says his voice is at \"about 49.2%\" as he nears end of midterm rally blitz",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlI0ZU5wbWFpTzNRUUdUTWlUVVhEc1ROc21XMTRlcmk1NlVzZkN2N1NYWTdPN2JzdDk3Um5HUGFDLU5pc2MzR21LYlN3S1lUWXgtZTl1S3BHWEJwUi1qOUJjYWVUaUJ6RDRBY3pQNFROS2NXeU13VHFVX0xvcFI2djlVazczMVk?oc=5",
-      "source": "CNN",
+      "title": "Agente do ICE é acusado em Houston de ferir um migrante durante uma operação de fiscalização",
+      "titleOriginal": "ICE agent charged in Houston with injuring migrant during enforcement effort",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYTEyQVE2TGdYUDNGN3R6b09Hdk5qRm9penhWNmhGeV9saEx1bWI2YU02b1NRSXREd3p5ckhBNDk1WGhUbU5ycWRUMzhhck1SQnRGQThWVGxmb1B6ajZlOTkxNU4xbksxeWhKWURIX3JPNWZpNDRoZ05TeklOelg1c19rcWJodFl4Wnd2MzVpc3ZCUzU0bFVUNHAwMFlnaFB0bTJ3NHdsdlowMnE5MDhqdDJmVUxxc0N4MVVhYm44SXRLWi1kZDA0?oc=5",
+      "source": "Washington Post",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Schumer é acusado de uma conspiração que durou um ano para colocar um candidato “fantasma” em uma disputa decisiva pelo Senado",
-      "titleOriginal": "Schumer accused of yearlong plot to plant 'decoy' candidate in critical Senate race",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWlYaVp0My05NHJNMjlRUGlhX3JrTWFOSGRGWXRfZ0hRQ21EV2ttNHN3Qm91R3F0VFJWTUlxcGhTQjk5eUxPWklOelI2Z2twSDI1d2lpb0RESGRyRkF4eWU4WVE0dGxVMGlkN1NUSFRPNldnM2xURmR4djhZOHhVQ2hIY3VwTXYybzZkSDVCSWVfQm1PTHo3Q2Z6TzZtSF9taGwyckdNVjXSAa4BQVVfeXFMT0x3NEVZVWZKanpkSzlpclYtZk5PUk5OZjlEbWItNVcxdXgwaF93by1PcmItYkxZcm9JR2xYamQ3ajdHd1hSSDRxUjFCaGZQa1JaQXNPQUJ1UUs1VjZtN3dwSXh5YmpLZUdIR1VkeFl1WVBCMlVKQUhrOWt4RjVkeXlxQnJESGFpRUlMU2Y4QnR5OW5pOVRNRVFNVU1POGxlbDBCQ2xydFBaOUxwUnVR?oc=5",
+      "title": "O deputado Donalds e o senador Moody sobem ao palco no comício de Trump na Flórida",
+      "titleOriginal": "Rep Donalds, Sen Moody take stage at Florida Trump rally",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Z3hpTFdDSXg0M3FyQS1BZElRdFNjMFhOdUxDQVNzMTE2YnNZeGsyMWN1UEtIbUlTOG56a0MxdXllZHZWTmowVjNBMVZyYXVHNnNVNnF3?oc=5",
       "source": "Fox News",
       "coverage": 3
     }
