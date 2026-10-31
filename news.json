@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T21:36:02.792Z",
+  "updatedAt": "2026-10-31T22:49:41.068Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Mike Rogers afirma que está à frente por 7% nas cédulas apuradas até o momento, “segundo nossos modelos”",
+      "titleOriginal": "Mike Rogers claims he's ahead by 7 percent on ballots returned so far ‘by our models’",
+      "link": "https://thehill.com/homenews/campaign/6186460-rogers-claims-early-ballot-lead/",
+      "publishedAt": "2026-10-31T21:50:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Juiz rejeita novamente a ação movida por Trump contra a editora do Wall Street Journal",
+      "titleOriginal": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+      "publishedAt": "2026-10-31T21:07:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "5 disputas para o Supremo Tribunal estadual a serem acompanhadas nesta terça-feira",
@@ -18,6 +32,13 @@
     },
     {
       "source": "AP News",
+      "title": "Deslocados se reencontram com a família na fronteira entre a Ucrânia e a Bielorrússia após terem fugido de Oleshky",
+      "titleOriginal": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5",
+      "publishedAt": "2026-10-31T20:41:00.000Z"
+    },
+    {
+      "source": "AP News",
       "title": "Advogados do Alasca afirmam que a exigência “infundada” de Trump de anular os votos do Senado “nem sequer é possível”",
       "titleOriginal": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc?oc=5",
@@ -25,10 +46,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Peltola volta a negar as denúncias de manipulação de votos e mantém silêncio sobre a investigação federal",
+      "title": "Peltola reitera a negação das denúncias de manipulação de votos e mantém silêncio sobre a investigação federal",
       "titleOriginal": "Peltola repeats denial of ballot-stacking reports, stays silent on federal probe",
       "link": "https://thehill.com/homenews/campaign/6186389-peltola-repeats-denial-of-ballot-stacking-reports-stays-silent-on-federal-probe/",
       "publishedAt": "2026-10-31T20:26:45.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Análise revela que mais de 40% dos nomes que constam na lista do Departamento de Justiça (DOJ) de supostos não cidadãos não figuram nos cadernos eleitorais da Califórnia",
+      "titleOriginal": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
+      "publishedAt": "2026-10-31T20:24:00.000Z"
     },
     {
       "source": "AP News",
@@ -39,38 +67,10 @@
     },
     {
       "source": "Axios",
-      "title": "Juiz rejeita ação movida por Trump contra o WSJ e Murdoch por causa da matéria sobre Epstein",
-      "titleOriginal": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0b1ZETFZIRE5mNmcxdlptSnlxRTljRWRMSjhIWXlLVGlqYmF1bWtZUDdxMkVhWjQwNGRoeER5V09idEtkdTVTTkU2N0ZpUU5RcW1jZl9taTZESWJueGJyTmU5S044ZVRnTUE?oc=5",
-      "publishedAt": "2026-10-31T19:54:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tiroteio na loja Spirit Halloween, na Califórnia, deixa 1 morto e 6 feridos, segundo a polícia",
-      "titleOriginal": "Shooting at Spirit Halloween store in California leaves 1 dead and 6 wounded, police say",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
-      "publishedAt": "2026-10-31T19:35:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O FBI visita um doador de Dan J. Sullivan na cidade natal do candidato, à medida que a investigação sobre o Senado do Alasca se amplia",
-      "titleOriginal": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
-      "publishedAt": "2026-10-31T19:20:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Tanto Lula quanto Milei devem suas vitórias a Trump",
-      "titleOriginal": "Lula and Milei both owe their victories to Trump",
-      "link": "https://thehill.com/opinion/international/6185055-brazil-lula-victory-us-tariffs/",
-      "publishedAt": "2026-10-31T19:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Mais de 40% dos nomes que constam na lista do Departamento de Justiça (DOJ) de supostos não cidadãos não figuram nos cadernos eleitorais da Califórnia: análise",
-      "titleOriginal": "More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls: analysis",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
-      "publishedAt": "2026-10-31T18:46:00.000Z"
+      "title": "D.C. e Virgínia entram com ação para impedir a construção do arco de 250 pés de Trump",
+      "titleOriginal": "D.C., Virginia sue to block Trump's 250-foot arch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16YVpuTWNiWEYwWGlYNURlVk5ZYVlIMFZkMkUtaUI3eUJKM1ROWU1OanVvcnFmOEJFeUZ4T3Z3VXZESVhZYWQxUVRacWtHT2NZaXV6ejZhRXVQdEc5OHREeEdINFFBZw?oc=5",
+      "publishedAt": "2026-10-31T19:56:08.000Z"
     }
   ]
 }
