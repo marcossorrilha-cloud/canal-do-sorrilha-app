@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-10-31T05:42:44.543Z",
+  "updatedAt": "2026-10-31T08:55:17.365Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Gigantes da tecnologia intensificam a resistência ao ICE na tentativa de evitar o escrutínio dos democratas",
-      "titleOriginal": "Tech Giants Ramp Up Resistance to ICE in Bid to Avoid Democratic Scrutiny",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTWFHVV9ZMEdxaUEzZmVaYWZWeTdiLXBqdVV3NHpSUEFoOTRyMlIyYUhESkNTZmhkOXZkSDI5MTVRYmRlM1BqOGk1eGNiMEFXVklkdFhfczROTVQ4c3JuNWlRREd0VjV1OEZINXhFTUI4UVozZUcxMA?oc=5",
-      "publishedAt": "2026-10-31T05:31:12.000Z"
+      "title": "Exclusivo | A conturbada história do Instituto Antipeste da Rússia",
+      "titleOriginal": "Exclusive | The Troubled History of Russia’s Antiplague Institute",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmJJY2VmU2R0d1RraGcySXNRZWEyUEdsS0xnNUxiVDNfSUYtMG5OY014QTRiS1pzRURKd1AyZWRocFFtTXppakx0eVV5dDc0R1AwRE9aNlJ3OS1BWHlCa09TYmdmaUVjdVp5c2M0WElFQ3F4UjMxRHdhQ28zN2FkUEZucXJnVmQ0UnpzV0FDVDdHUWY2dVBDVTc0Yw?oc=5",
+      "publishedAt": "2026-10-31T07:31:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia reforça a segurança no Tribunal Constitucional da Polônia enquanto eclodem protestos contra a suspensão do presidente do tribunal",
+      "titleOriginal": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
+      "publishedAt": "2026-10-31T06:11:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Carney prevê acordo em junho para que o Canadá se torne membro associado da UE, enquanto Trump reestrutura as alianças",
+      "titleOriginal": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYwSnRTOGhSNzN0ekpKMjZreU8tS3RqZ1h1UXhiRjR6d0ttbFljQV9LQ1dlbHhNM3o5bzhwejFXMXV3akVmT19rYU1xYURiUGYtTXFHSmoyalJsV1F4TUNYcXJyN0FkcUdlVGFaVXJ5ZXJDSGRpWFYxUllCR3lVNEs4VlZacFJ2c2c?oc=5",
+      "publishedAt": "2026-10-31T05:35:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O Departamento de Justiça de Trump perde ação de última hora sobre cédulas eleitorais na Califórnia",
+      "titleOriginal": "Trump DOJ loses last-minute California ballot bid",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3NNM0NkRnNoM2pQRGxqVFRRZXZWM21takl1RUVtRkxCRXYwY21WTzVsWkJGTk51c1dzazd6Yl9VUHVNTlNRMmVTeVduU25MVEQtaVZwQ056b1dKR0tjTXJEbndKcW5xbEk1TG4wYkZodzMtR3NQWXZFXzJLc1o5OA?oc=5",
+      "publishedAt": "2026-10-31T04:53:19.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O cara que se tornou viral na Fox News por ser contra o MAGA é de Charlotte — e agora tem sua própria linha de produtos",
+      "titleOriginal": "The viral anti-MAGA guy on Fox News is from Charlotte — and he has merch now",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYklJLVFONU1OMVZNU0ZsSFp3Y29WdVRVSUR0WmJkSVNjUUdvSlplcThJcGl0dk15aTdmSzNfTTNxeHhLNWVTQWM0NkNqNXU1MkwtQXl4WTk3OWV1SlJKbHprQ190SzN3YnkxUGZseEZxSHNna2hMU2FleV9GV2dRYThZV2hWNTk1YWxkZWNyU0N2dHByaDYtYk9B?oc=5",
+      "publishedAt": "2026-10-31T04:21:41.000Z"
     },
     {
       "source": "New York Times",
@@ -18,59 +46,31 @@
     },
     {
       "source": "AP News",
-      "title": "Trump e Clinton ganham força à medida que a votação antecipada cresce, a investigação no Alasca se amplia e os democratas de Michigan entram em conflito",
-      "titleOriginal": "Trump and Clinton rally as early voting surges, Alaska probe widens, and Michigan Democrats feud",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
-      "publishedAt": "2026-10-31T02:30:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Juiz impede o Departamento de Justiça de ameaçar mesários eleitorais antes das eleições de meio de mandato",
-      "titleOriginal": "Judge blocks DOJ from threatening election workers before midterms",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zdndkaWZvRWVwWUlwZU82X1JCU1g4MDV2QTZ2QkQ1OUpVSlBhc3RLU3FXaWFfVVdVS0NLWlZXNHUwVTRGcHg1VVpLeWRIZzFLUEE0dk44M0djRmIwUUdLSW55eEF5MWV5bXZ1QUExZEMyeFNsV2RFT05n?oc=5",
-      "publishedAt": "2026-10-31T02:10:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os custos dos planos de saúde no site Healthcare.gov devem registrar um aumento de dois dígitos em 2027",
-      "titleOriginal": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
-      "link": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/",
-      "publishedAt": "2026-10-31T02:06:29.000Z"
+      "title": "Atividade industrial da China recua com a queda nos novos pedidos de exportação",
+      "titleOriginal": "China’s factory activity slips as new export orders weaken",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjYxcFNzbUhDZ2VfVXowN2ZEM0ppaVNFV2NMT0h1aHBZZGZSRkVRMGQwNGpGc0ZBb2hYbXdjSWVoc0VoNE1xWENGLTdOcWswcWdVaW55TmlybjFNVnUzMGMyQ1lLVTM0Q0FWNDdILWx4cUszekVUMGRSenVnNXdfZXpOTmVnSW16bWVzTGFqRHFoMDNtUWFfUUxsYlQ5U3ZZ?oc=5",
+      "publishedAt": "2026-10-31T04:13:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "A OpenAI arrecada menos da metade da meta de US$ 30 bilhões na última rodada de investimentos",
       "titleOriginal": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "publishedAt": "2026-10-31T01:56:25.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Departamento de Justiça confirma investigação no Alasca, embora o foco da investigação ainda não esteja claro",
-      "titleOriginal": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-      "publishedAt": "2026-10-31T01:33:31.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Como o Irã atacou bases americanas e causou bilhões em prejuízos",
-      "titleOriginal": "How Iran Battered U.S. Bases and Caused Billions in Damage",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTE8zc3NEN2VwbWxOcTlrbmZaZEowSjAwU3V3MGozMDUtMTFPbjRYcEVveGRyNmRtMGd0ZmtMbkhQY2M4Szl5dWdHZWVRUzNzSW9fNXVoU1JNYlFNRkxJdWxuNjllVEZRRzhkRHBKMW9DaHZ5ejFPamJXTQ?oc=5",
-      "publishedAt": "2026-10-31T01:30:00.000Z"
+      "publishedAt": "2026-10-31T02:56:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Catarenses realizam negociações maratonianas em Teerã na tentativa de chegar a um acordo entre os EUA e o Irã antes das eleições de meio de mandato",
-      "titleOriginal": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTg1UTZmdFFiVndiNS1OTnU2cUhBSk1lTVJDMWFOTEdKNmhtLV9wc0hJSlBqaEk0d2Z3UTdqQTRpbE1UMjV3WG1kaUE5TEFrOWp2clJGTTBFc2JkN0tXNXR5dnd3RGdjWlNhTkFRRFRwSmo5YW1Val83VWZuN3VYQnUteDFtdw?oc=5",
-      "publishedAt": "2026-10-31T01:21:38.000Z"
+      "title": "Juiz impede o Departamento de Justiça de ameaçar mesários eleitorais antes das eleições de meio de mandato",
+      "titleOriginal": "Judge blocks DOJ from threatening election workers before midterms",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zdndkaWZvRWVwWUlwZU82X1JCU1g4MDV2QTZ2QkQ1OUpVSlBhc3RLU3FXaWFfVVdVS0NLWlZXNHUwVTRGcHg1VVpLeWRIZzFLUEE0dk44M0djRmIwUUdLSW55eEF5MWV5bXZ1QUExZEMyeFNsV2RFT05n?oc=5",
+      "publishedAt": "2026-10-31T02:33:55.000Z"
     },
     {
       "source": "AP News",
-      "title": "A Graphika identifica contas do Spamouflage ligadas à China que se fazem passar por eleitores dos EUA no X",
-      "titleOriginal": "Graphika finds China-linked Spamouflage accounts posing as US voters on X",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3FDNW9WTmY5U1NndTFkaFRXVjJZSElBcWxTVnQtUWEzR21sTmVGZWVDV2t3NUtJQm0xeER2R2dCMV91VHVicWItWFhnREE5VU0wN2tURk4tSnNCNUFlY1RkT091OWdNUjdncUN4NzY4dEYwcC1Vd3QxOG00WklmVHY0ajhHTm9qbHN6VVZwMjU1QUxZQ0lpbTNLaXM?oc=5",
-      "publishedAt": "2026-10-31T01:19:00.000Z"
+      "title": "Trump e Clinton ganham força à medida que a votação antecipada cresce, a investigação no Alasca se amplia e os democratas de Michigan entram em conflito",
+      "titleOriginal": "Trump and Clinton rally as early voting surges, Alaska probe widens, and Michigan Democrats feud",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
+      "publishedAt": "2026-10-31T02:30:00.000Z"
     }
   ]
 }
