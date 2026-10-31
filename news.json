@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-10-31T02:42:51.006Z",
+  "updatedAt": "2026-10-31T05:42:44.543Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Gigantes da tecnologia intensificam a resistência ao ICE na tentativa de evitar o escrutínio dos democratas",
+      "titleOriginal": "Tech Giants Ramp Up Resistance to ICE in Bid to Avoid Democratic Scrutiny",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTWFHVV9ZMEdxaUEzZmVaYWZWeTdiLXBqdVV3NHpSUEFoOTRyMlIyYUhESkNTZmhkOXZkSDI5MTVRYmRlM1BqOGk1eGNiMEFXVklkdFhfczROTVQ4c3JuNWlRREd0VjV1OEZINXhFTUI4UVozZUcxMA?oc=5",
+      "publishedAt": "2026-10-31T05:31:12.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "El-Sayed entra em confronto com ex-rival nas primárias, que exigiu que ele se desculpasse",
+      "titleOriginal": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html",
+      "publishedAt": "2026-10-31T04:15:26.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump e Clinton ganham força à medida que a votação antecipada cresce, a investigação no Alasca se amplia e os democratas de Michigan entram em conflito",
       "titleOriginal": "Trump and Clinton rally as early voting surges, Alaska probe widens, and Michigan Democrats feud",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
       "publishedAt": "2026-10-31T02:30:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Juiz impede o Departamento de Justiça de ameaçar mesários eleitorais antes das eleições de meio de mandato",
+      "titleOriginal": "Judge blocks DOJ from threatening election workers before midterms",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zdndkaWZvRWVwWUlwZU82X1JCU1g4MDV2QTZ2QkQ1OUpVSlBhc3RLU3FXaWFfVVdVS0NLWlZXNHUwVTRGcHg1VVpLeWRIZzFLUEE0dk44M0djRmIwUUdLSW55eEF5MWV5bXZ1QUExZEMyeFNsV2RFT05n?oc=5",
+      "publishedAt": "2026-10-31T02:10:40.000Z"
     },
     {
       "source": "The Hill",
@@ -17,6 +38,13 @@
       "publishedAt": "2026-10-31T02:06:29.000Z"
     },
     {
+      "source": "Wall Street Journal",
+      "title": "A OpenAI arrecada menos da metade da meta de US$ 30 bilhões na última rodada de investimentos",
+      "titleOriginal": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+      "publishedAt": "2026-10-31T01:56:25.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Departamento de Justiça confirma investigação no Alasca, embora o foco da investigação ainda não esteja claro",
       "titleOriginal": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
@@ -24,53 +52,25 @@
       "publishedAt": "2026-10-31T01:33:31.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "El-Sayed entra em confronto com ex-rival nas primárias que exigiu que ele se desculpasse",
-      "titleOriginal": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html",
-      "publishedAt": "2026-10-31T01:29:58.000Z"
+      "source": "Wall Street Journal",
+      "title": "Como o Irã atacou bases americanas e causou bilhões em prejuízos",
+      "titleOriginal": "How Iran Battered U.S. Bases and Caused Billions in Damage",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTE8zc3NEN2VwbWxOcTlrbmZaZEowSjAwU3V3MGozMDUtMTFPbjRYcEVveGRyNmRtMGd0ZmtMbkhQY2M4Szl5dWdHZWVRUzNzSW9fNXVoU1JNYlFNRkxJdWxuNjllVEZRRzhkRHBKMW9DaHZ5ejFPamJXTQ?oc=5",
+      "publishedAt": "2026-10-31T01:30:00.000Z"
     },
     {
       "source": "Axios",
       "title": "Catarenses realizam negociações maratonianas em Teerã na tentativa de chegar a um acordo entre os EUA e o Irã antes das eleições de meio de mandato",
       "titleOriginal": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTg1UTZmdFFiVndiNS1OTnU2cUhBSk1lTVJDMWFOTEdKNmhtLV9wc0hJSlBqaEk0d2Z3UTdqQTRpbE1UMjV3WG1kaUE5TEFrOWp2clJGTTBFc2JkN0tXNXR5dnd3RGdjWlNhTkFRRFRwSmo5YW1Val83VWZuN3VYQnUteDFtdw?oc=5",
-      "publishedAt": "2026-10-31T01:05:58.000Z"
+      "publishedAt": "2026-10-31T01:21:38.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Apenas quatro dias antes do dia da eleição, o Departamento de Justiça investiga os registros eleitorais do Arizona",
-      "titleOriginal": "Just four days before Election Day, DOJ probes Arizona voter registrations",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTN5c2R3RHRsWndaZWUtclh2bDRxZG5iaDVSQVp1clRUWXhsOTVUR1JZWGdGQ3BldUxtdlpGOXlhQlpMQU9HUmsyV0QtUjBzb3UxUmtBMGl5RTJ2R0NFYWVMMkNydlItN2tIUkIwU3otb2I4aElhZm55R3Nac09JR2Y5eXB4aUZkbjB6Wk52NFZHd3JzQ2dj?oc=5",
-      "publishedAt": "2026-10-31T00:50:49.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz suspende, por enquanto, a tramitação acelerada dos processos de asilo de crianças migrantes",
-      "titleOriginal": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/children-asylum-fast-track-deport.html",
-      "publishedAt": "2026-10-31T00:50:07.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "A campanha de El-Sayed quer que Stevens se mantenha afastado após um dia de troca de farpas",
-      "titleOriginal": "El-Sayed campaign wants Stevens to stay away after day of back-and-forth sniping",
-      "link": "https://www.politico.com/news/2026/10/30/el-sayed-stevens-senate-race-fight-01144423",
-      "publishedAt": "2026-10-31T00:46:59.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ucrânia recebe aprovação para a venda de mísseis Patriot",
-      "titleOriginal": "Ukraine gets approval for Patriot missile sale",
-      "link": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/",
-      "publishedAt": "2026-10-31T00:36:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump afirma que a guerra contra o Irã terminará “em breve”",
-      "titleOriginal": "Trump says Iran war will end 'soon'",
-      "link": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
-      "publishedAt": "2026-10-31T00:21:53.000Z"
+      "source": "AP News",
+      "title": "A Graphika identifica contas do Spamouflage ligadas à China que se fazem passar por eleitores dos EUA no X",
+      "titleOriginal": "Graphika finds China-linked Spamouflage accounts posing as US voters on X",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3FDNW9WTmY5U1NndTFkaFRXVjJZSElBcWxTVnQtUWEzR21sTmVGZWVDV2t3NUtJQm0xeER2R2dCMV91VHVicWItWFhnREE5VU0wN2tURk4tSnNCNUFlY1RkT091OWdNUjdncUN4NzY4dEYwcC1Vd3QxOG00WklmVHY0ajhHTm9qbHN6VVZwMjU1QUxZQ0lpbTNLaXM?oc=5",
+      "publishedAt": "2026-10-31T01:19:00.000Z"
     }
   ]
 }
