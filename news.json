@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-31T22:49:41.068Z",
+  "updatedAt": "2026-11-01T01:10:54.398Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O ressurgimento do grupo Justice Democrats poderia redefinir o Congresso democrata",
+      "titleOriginal": "A Resurgent Justice Democrats Could Reshape a Democratic Congress",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/progressive-democrats-congress-2026.html",
+      "publishedAt": "2026-11-01T01:01:27.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Elon Musk, Starlink e Vladimir Putin",
+      "titleOriginal": "Opinion | Elon Musk, Starlink and Vladimir Putin",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVBtMWlPTUl4RXZqNWF6VUlMNDJ1TEcwVWNxRWQ4bVZXV3JpNzBuSklmM0lFU2JSR3JfcDJZNEZjczZuR2RFX0tWZ1pYQlZMVy1GdEpNVGdjTVZ1LUVzQ0hlSkdyZjFjS2RORWpEVVBxcEhGZWNTZUl1WmM1b0tIUlc4RDBvLVN5NWEtd2JTcllvQnpiZUhTeDdmS2Q?oc=5",
+      "publishedAt": "2026-10-31T23:28:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Scott Colom divulga anúncio de campanha com o tema “Pecadores” à medida que a disputa pelo Senado do Mississippi ganha força",
+      "titleOriginal": "Scott Colom releases ‘Sinners’-themed campaign ad as Mississippi Senate race heats up",
+      "link": "https://thehill.com/homenews/campaign/6186475-scott-colom-releases-sinners-themed-campaign-ad-as-mississippi-senate-race-heats-up/",
+      "publishedAt": "2026-10-31T22:50:05.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Análise revela que mais de 40% dos nomes que constam na lista do Departamento de Justiça (DOJ) de supostos não cidadãos não figuram nos cadernos eleitorais da Califórnia",
+      "titleOriginal": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
+      "publishedAt": "2026-10-31T22:32:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Mamdani afirma que Trump concordou em conceder visto à mãe do adolescente ganês morto em um tiroteio no Bronx",
+      "titleOriginal": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjUxQ1BrZmdmemFaS3RCY2dfeVF0c0pWaTVfSFkzU2lqMkp6OUNqVUgwVUhYM1dGOW1yQ25QMDA1UWJxQ0VsejB2Y3hfTFd0b0FGNzQ3WThMc2g4bXlrcnR3RVVMTWNSVTFZOEpTSWtCZ2wzYzZmM2ZDY1k2NlJZTUFDUGE4bC1XRGMwYVA3TUZNcE1jcGp1QVRGS0kzR2xVR01oTzdMRTZWbmhZWlF3?oc=5",
+      "publishedAt": "2026-10-31T22:03:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Mike Rogers afirma que está à frente por 7% nas cédulas apuradas até o momento, “segundo nossos modelos”",
@@ -32,45 +67,10 @@
     },
     {
       "source": "AP News",
-      "title": "Deslocados se reencontram com a família na fronteira entre a Ucrânia e a Bielorrússia após terem fugido de Oleshky",
+      "title": "Deslocados se reencontram com a família na fronteira entre a Ucrânia e a Bielorrússia após fugirem de Oleshky",
       "titleOriginal": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5",
       "publishedAt": "2026-10-31T20:41:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Advogados do Alasca afirmam que a exigência “infundada” de Trump de anular os votos do Senado “nem sequer é possível”",
-      "titleOriginal": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc?oc=5",
-      "publishedAt": "2026-10-31T20:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Peltola reitera a negação das denúncias de manipulação de votos e mantém silêncio sobre a investigação federal",
-      "titleOriginal": "Peltola repeats denial of ballot-stacking reports, stays silent on federal probe",
-      "link": "https://thehill.com/homenews/campaign/6186389-peltola-repeats-denial-of-ballot-stacking-reports-stays-silent-on-federal-probe/",
-      "publishedAt": "2026-10-31T20:26:45.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Análise revela que mais de 40% dos nomes que constam na lista do Departamento de Justiça (DOJ) de supostos não cidadãos não figuram nos cadernos eleitorais da Califórnia",
-      "titleOriginal": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
-      "publishedAt": "2026-10-31T20:24:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia de Londres prende 139 pessoas em frente à Embaixada dos EUA por apoiarem um grupo pró-palestino proibido",
-      "titleOriginal": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
-      "publishedAt": "2026-10-31T20:14:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "D.C. e Virgínia entram com ação para impedir a construção do arco de 250 pés de Trump",
-      "titleOriginal": "D.C., Virginia sue to block Trump's 250-foot arch",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16YVpuTWNiWEYwWGlYNURlVk5ZYVlIMFZkMkUtaUI3eUJKM1ROWU1OanVvcnFmOEJFeUZ4T3Z3VXZESVhZYWQxUVRacWtHT2NZaXV6ejZhRXVQdEc5OHREeEdINFFBZw?oc=5",
-      "publishedAt": "2026-10-31T19:56:08.000Z"
     }
   ]
 }
