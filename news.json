@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-02T15:55:29.910Z",
+  "updatedAt": "2026-11-02T18:49:48.774Z",
   "count": 10,
   "items": [
     {
-      "source": "The Hill",
-      "title": "O que acontece no período de transição? Será que uma surpresa em novembro vai afundar os democratas em Michigan?",
-      "titleOriginal": "What happens in the lame-duck? Will a November surprise sink Democrats in Michigan?",
-      "link": "https://thehill.com/homenews/editors-call/6188755-2026-midterms-michigan-senate-race-el-sayed-rogers-stevens-lame-duck-live-discussion/",
-      "publishedAt": "2026-11-02T15:50:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Carville critica duramente Stevens por causa do apoio a Rogers: “Sua carreira política acabou”",
-      "titleOriginal": "Carville rips Stevens over Rogers endorsement: 'Your political career is over'",
-      "link": "https://thehill.com/homenews/campaign/6188385-carville-slams-stevens-michigan-senate-endorsement/",
-      "publishedAt": "2026-11-02T15:50:41.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Juiz federal arquiva processo contra ex-funcionários do FBI acusados de mentir sobre a investigação do laptop de Biden",
-      "titleOriginal": "Federal judge dismisses case against ex-FBI officials accused of lying about Biden laptop probe",
-      "link": "https://thehill.com/regulation/court-battles/6188867-ex-fbi-nikki-floris-bradley-benavides-charges-dropped/",
-      "publishedAt": "2026-11-02T15:48:23.000Z"
-    },
-    {
       "source": "Axios",
-      "title": "A OPay, apoiada pela SoftBank, definiu o preço de sua oferta pública inicial (IPO), mas não vai abrir o capital",
-      "titleOriginal": "SoftBank-backed OPay priced its IPO, but isn't going public",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pR0lfaWNPcEFIQk1VdHpNSDhxOHBUR0Q0dVhJcVdyOU5ZdUhuNVRHNFdmbTIxSTg4S2Fodk5USVVFRURlR2hMakg5c3RZcnRhSlBJ?oc=5",
-      "publishedAt": "2026-11-02T15:34:08.000Z"
+      "title": "Os democratas superaram o Partido Republicano na participação na votação antecipada no sul da Flórida",
+      "titleOriginal": "Democrats led GOP in early voting turnout in South Florida",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalVhZTUzbUdWdkRqbDE0SnRYODFBXzlNNTBiZUxHYU5rMDdUaEQ3WmJPbTFWNFJDS2VVdXE3eV9NaHRBNEEwOWtwMFdSOTI3Z3RBakYta2RubTAtV3JxaG1HS0h4QTV5RE92NG5kdDE0ZTVxeFQyLUctckpXcndBSVl6WVB4MnFnT3JOYnA5Wkc3V2FrVjNCQnhvT09ZQjhFcGFfRXJ0RjhiWEtzUDVsQWVKblhyNWdJSnRsbndzTTBVQQ?oc=5",
+      "publishedAt": "2026-11-02T18:36:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A frota secreta da Rússia recorre a redes e pneus de borracha para criar blindagem improvisada para drones",
+      "titleOriginal": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtxM1NKZjFSUWFCMC1QYmV1SUVPa28zbHMzV1RCWDVhaks5RDZfTWR6Y1FTQW5yMXpVenFUZF90eUhwdFZ6OVV0ek9JREtzSnktbTdoZGljNG81LW5fTXNJNDc3NXk1dlJVbkVDelh6cXBmZWNFRUY5RExmcVpETWJYbTU2WEJYUzRXdGwtSFVqd25tclp0TWEtLVVBMWNQMW1DbjBRUXNqcEJqbEVQdE1B?oc=5",
+      "publishedAt": "2026-11-02T18:31:13.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Quais são as principais preocupações dos eleitores? Pesquisas sobre as eleições de meio de mandato apontam para a economia.",
+      "titleOriginal": "What Are Voters’ Top Concerns? Midterm Election Polls Point to the Economy.",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterm-election-polls-trump-economy-immigration.html",
+      "publishedAt": "2026-11-02T18:30:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O 119º Congresso conseguiu mais fazendo com que o governo fizesse menos",
+      "titleOriginal": "The 119th Congress did more by making government do less",
+      "link": "https://thehill.com/opinion/congress-blog/6187347-congressional-review-act-repeals/",
+      "publishedAt": "2026-11-02T18:30:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "A OpenAI arrecada menos da metade da meta de US$ 30 bilhões na última rodada de investimentos",
       "titleOriginal": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "publishedAt": "2026-11-02T15:27:01.000Z"
+      "publishedAt": "2026-11-02T18:27:02.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Ações dos EUA recuperam parte das perdas da semana passada após queda nos preços do petróleo",
-      "titleOriginal": "US stocks recover some of last week’s sell-off after oil prices drop",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
-      "publishedAt": "2026-11-02T15:24:00.000Z"
+      "source": "New York Times",
+      "title": "Começa a seleção do júri no primeiro caso de pena de morte em Baía de Guantánamo",
+      "titleOriginal": "Jury Selection Begins in First Death-Penalty Case at Guantánamo Bay",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html",
+      "publishedAt": "2026-11-02T18:22:32.000Z"
     },
     {
       "source": "Axios",
-      "title": "Os compromissos de gastos da Anthropic disparam para quase US$ 900 bilhões",
-      "titleOriginal": "Anthropic's spending commitments surge to nearly $900 billion",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RVFdYV0FQMm5FM3NiWldsUkNVOGNsUjVxN0llVjVPajVVWkh5X3VyeGNVdDMzMnVuLWRWbXpUN0RadFNnTXhQTDJBWXhNQXQ4QUFHc1JhUHVNa1dETDdIczJmck8zYzh2dDhGdFdYb3BRTW8?oc=5",
-      "publishedAt": "2026-11-02T15:06:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Por que só os homens têm carta branca na Casa Branca de Trump?",
-      "titleOriginal": "Why do only men get a free pass in Trump’s White House?",
-      "link": "https://thehill.com/opinion/white-house/6185321-white-house-gender-turnover/",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
+      "title": "Trump promete proteger Musk e sugere indultos preventivos para funcionários",
+      "titleOriginal": "Trump vows to protect Musk, floats pre-emptive staff pardons",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kbzdSM3VjTGRVRDFUMWxtX3V3THNJRzhfeldMaklLU21HMUxibTk2RGxUclZHWk1EeWlXV3lscmJpWTFQUzJRcVUzcHM1d1c5bk52UEVEbTQzRmdJdURFX0hVMA?oc=5",
+      "publishedAt": "2026-11-02T18:17:58.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "A Oracle pretende levantar US$ 20 bilhões para financiar suas ambições em IA",
-      "titleOriginal": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHhRVEJlYlluMGRWVGJtdDdjRTRwYjJWNVFDanFIYnVsd1hCYy11R0V6Uks3bEtYY0tHX051Z2pwdnNIaDNsREE4Q1Byb1h1YkZLQzlVY0Jva3lPbXA2TXpjMG9RVmxGUmswT0piZzF2TXdBaWxwcWFJRi11MWMzdTAxSnRTM2xuYVIxeVZicW5ndWk2?oc=5",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
+      "title": "Exclusivo | Bilionário do setor de fast-fashion paga US$ 31 milhões por cobertura em Nova York",
+      "titleOriginal": "Exclusive | Fast-Fashion Billionaire Pays $31 Million for New York Penthouse",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlhRNG81WW5OTU4zS1FZd0dmY3FKNk9Jam5Ybl9tNGZVU3VVSUwxVWlPUHUyUG9UeG14cXlNNWx1NmJZdE9NNWhIcnNheVhManZOZER1YjRhMTF6ZGFQNXI0bDhYX2p6dzA0V0RkaTNXOFVhamdGQkNBRDYzTm1zbU1KWERkakFmb1FfUDdwRXY2YnhPU2VxZ2k4bm8?oc=5",
+      "publishedAt": "2026-11-02T18:16:33.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Duas pessoas morreram em um caso de homicídio-suicídio nas proximidades de uma unidade da Amazon, segundo a polícia da Virgínia",
-      "titleOriginal": "2 killed in murder-suicide outside Amazon facility, Virginia police say",
-      "link": "https://thehill.com/homenews/state-watch/6188447-virginia-beach-murder-suicide-amazon-fulfillment-center/",
-      "publishedAt": "2026-11-02T14:57:17.000Z"
+      "title": "Setor manufatureiro registra 10 meses consecutivos de crescimento antes das eleições de meio de mandato",
+      "titleOriginal": "Manufacturing sector marks 10 straight months of growth ahead of midterms",
+      "link": "https://thehill.com/business/6189384-manufacturing-sector-growth-trump-midterms-inflation-employment/",
+      "publishedAt": "2026-11-02T18:16:06.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações dos EUA recuperam parte das perdas da semana passada após queda acentuada nos preços do petróleo",
+      "titleOriginal": "US stocks recover some of last week’s sell-off after oil prices fall sharply",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+      "publishedAt": "2026-11-02T18:02:00.000Z"
     }
   ]
 }
