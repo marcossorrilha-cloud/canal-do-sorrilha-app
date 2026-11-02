@@ -1,27 +1,41 @@
 {
-  "updatedAt": "2026-11-01T23:36:38.245Z",
+  "updatedAt": "2026-11-02T01:01:53.859Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Preços do petróleo sobem à medida que a situação no Oriente Médio e o conflito entre a Ucrânia e a Rússia alimentam preocupações com o abastecimento",
-      "titleOriginal": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
-      "publishedAt": "2026-11-01T23:29:41.000Z"
+      "source": "Axios",
+      "title": "A Carolina do Norte se junta à onda nacional de votação antecipada antes das eleições de meio de mandato",
+      "titleOriginal": "North Carolina joins nationwide early voting surge ahead of midterms",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFE4MmhzSzRWZXI4R2xDUF9HeXVfUS1GQk1yZWpYXy1rQUpEazNGXzZ6a3FDcWI2WTBjY2cxZjl2X252VFVxQXg4T3U4cEZ4SkRmd3lsTXNyLVF2WVdhX0ZHUjNtcUY5c19pcDVyXzdEaHNMUzJDdEdjMmYxZTFoaWI2Yl9xY1MwZzZQUjJxS254QWlXckJMRWlmdw?oc=5",
+      "publishedAt": "2026-11-02T00:54:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas mostram força nos últimos dias da disputa pelo Senado, segundo novas pesquisas",
+      "titleOriginal": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+      "publishedAt": "2026-11-02T00:53:08.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "O que a implosão da Weil Gotshal significa para o setor de escritórios de advocacia?",
-      "titleOriginal": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2tGYy1vUjBzZGUzQy1RQkt1NjFWX3d6ZWZfSWlaQURpTVlUZkJVRHlRRlVtUlhPUnY2RS1pZTFLYmpZMUFvSnhVclpMbzIwYkVXeGJnY1Z5R0dEQ0s4eW5aQk84ZDktOVJEWF9FSkpfSHNKX3R6NFgwSFRZbDV0M0duT1NnNnNkY0EwcWV1Vl8zUmR1UjJaazdmZFhOZG91cHlRRlQ1NUN0TzFzSGk0YzF6emxnUQ?oc=5",
-      "publishedAt": "2026-11-01T23:29:14.000Z"
+      "title": "Lucro da SanDisk dispara à medida que a demanda por IA eleva os preços",
+      "titleOriginal": "Sandisk Profit Soars as AI Demand Drives Up Prices",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1RFbVNYOXk3cFN1c1p2TjNmREh4c2J4bEl6TlBTN2lWanZaSTZYMzJQdzhMSmdQaWlDREQ1eFZNX05mUHA1V1NiblAxb3lIYjNsemROZFFJSUVxMXBKMmtjRGZZQmgtSjE0MzF3bmh5WEZVeV9GQ184Zl8wWkd2dzZOeHRyOUZhc3I4TlFYWlc1dkJVRXlmOWItaTBEZw?oc=5",
+      "publishedAt": "2026-11-02T00:45:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O valor de mercado da Alphabet cai US$ 500 bilhões",
+      "titleOriginal": "Alphabet’s Market Value Drops $500 Billion",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CdlNVWGZuakx2cUE0NTYzaHNNRXRoaUVrd1pfaVRsd0JmOS01UjNyeWxZdGQ1c0t0UVlzOE90c1M5THdkREdLM0QtU00yNGNVbGloN2NhdVJyOTczYzlXb2c2NTJzYzZmM2NHSld3RC1LZTNSdTB6aTlwaFY4N1E?oc=5",
+      "publishedAt": "2026-11-01T23:02:10.000Z"
     },
     {
       "source": "Axios",
-      "title": "Onde os democratas que almejam a Casa Branca estão apostando suas fichas nas eleições de meio de mandato",
+      "title": "Onde os democratas que almejam a Casa Branca estão apostando nas eleições de meio de mandato",
       "titleOriginal": "Where Dems eyeing the White House are putting their midterm chips",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lbFhndm16UV9rTUMtb3VOazBUSDFMenNiNEtIb2pGRHZyMl9IME5vZWFySTdSR28tUGtnQzJhYjNQaEVMTTFQbmtGaGJDUzZZODNSZ1hHT2s1ODBDclZkYkxacVl2SFFFTkhhZw?oc=5",
-      "publishedAt": "2026-11-01T22:46:28.000Z"
+      "publishedAt": "2026-11-01T22:49:56.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -39,38 +53,24 @@
     },
     {
       "source": "AP News",
-      "title": "O principal adversário de El-Sayed surpreende os democratas ao declarar apoio ao candidato republicano na disputa pelo Senado em Michigan",
-      "titleOriginal": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+      "title": "Civis em Kherson, na Ucrânia, se preparam para o retorno da guerra com o fim do cessar-fogo local",
+      "titleOriginal": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
       "publishedAt": "2026-11-01T22:24:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Lucro da Geely cresce à medida que vendas no exterior compensam a desaceleração da demanda na China",
+      "title": "Lucro da Geely cresce à medida que as vendas no exterior compensam a desaceleração da demanda na China",
       "titleOriginal": "Geely Profit Climbs as Overseas Sales Offset Slowing China Demand",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQak55S2dlYU5qSl9PTWFuOGt4S2VXMVo2M0otcmRndUQ0RUhOU2JoZ3VWV21vU1hqQW45LTZicmdlX19MVEdiZVdMbi1WaTdBVTJldTk2MVpfSm5CdGRQa2VyclhhNFJuUDB5S2tmWmM2QUZITXBxWlRRR29YbTN2NFY2YmJVanR3Z3Rwc1lzcnQzdFpwYTRJb243X2w3Zlo4NWJxUlhKT2NRTHlBSXc?oc=5",
       "publishedAt": "2026-11-01T22:20:06.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Caso envolvendo uma creche coloca os direitos LGBTQ e os direitos religiosos em conflito na Suprema Corte",
-      "titleOriginal": "Preschool case puts LGBTQ and religious rights at odds in Supreme Court",
-      "link": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/",
-      "publishedAt": "2026-11-01T22:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Esta semana no Capitólio: o dia das eleições finalmente chegou",
-      "titleOriginal": "This Week on the Hill: Election Day is finally here",
-      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/",
-      "publishedAt": "2026-11-01T22:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bacon acredita que haverá um “debate” sobre o futuro do movimento MAGA caso o Partido Republicano tenha um desempenho ruim nas eleições de meio de mandato",
-      "titleOriginal": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
-      "link": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/",
-      "publishedAt": "2026-11-01T21:57:18.000Z"
+      "source": "Wall Street Journal",
+      "title": "Perspectivas para a semana no mercado de câmbio e de títulos: eleições intermediárias nos EUA e dados sobre o emprego em destaque; espera-se que o Banco da Inglaterra aumente as taxas de juros",
+      "titleOriginal": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnh0RUxfMGk2OW1JOE1LUUFsNkJzamc4RkZKODNFTlVSWk1wR2VseGlFWF9zZ1RKdTlrNVZldm94LWpIa3hHcVdjV3NmdlhqdWh5UlE3UTVyR1AyWUhrRGlpTVN3RkJOZGE4WVBDM0FHdW9jYmZua3RBWFhVOV80alRyUkY2V0ROb0Vrem1Jbmw3Qml2Zm1WZERhdWFCVUIyazVDc1VWemVEall3dGhDVG1RaE9Lc05KVXpDMg?oc=5",
+      "publishedAt": "2026-11-01T22:00:08.000Z"
     }
   ]
 }
