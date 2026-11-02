@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-02T06:05:37.145Z",
-  "slot": "2026-11-02-AM",
+  "updatedAt": "2026-11-02T15:55:36.780Z",
+  "slot": "2026-11-02-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Retomam-se os saques da Binance após um ataque cibernético de US$ 6 bilhões",
-      "titleOriginal": "Binance withdrawals resume following $6 billion hack",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
-      "source": "CNN",
-      "coverage": 3
+      "title": "Kamala Harris e Gavin Newsom, de olho nas eleições de 2028, fazem campanha juntos na Califórnia",
+      "titleOriginal": "Kamala Harris and Gavin Newsom, weighing 2028 runs, rally together in California",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2syYzYtYzktOWdVcm5IN0hqVmRJeGk3dlUwN2RrRW5CTGRZZjJZWkhwc1oweHpJVmkzMXM4WmRIQ2xLUXpCLVVPZElDd0xYWlJaSTVJWG81aTZ3U1pjMG1vN3prU3BEcDBMNkg0djFuNDBEc3ktanlxZ09wLUVVRUlrbWU0SmlUdFNreThuZThDYXRaTk80Y01CZ0cxLUdkQ29TN3BiVzB1Z1lSSHVlTWhJZnFfZFNlcVdLX0R0aHU?oc=5",
+      "source": "Washington Post",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Juiz nomeado por Obama decide contra Trump na disputa pelo “Decoy Dan” no Alasca",
-      "titleOriginal": "Obama-Appointed Judge Rules Against Trump In Alaska ‘Decoy Dan’ Fight",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlBvNmREYUtSMG9fbFpNclpNVnlvbmRkNV9iYU1ESUZROVVvb2hXRFpZWnVVbHVfWFNGVHFrNy1udDZKLVd1ZlYtdVRHZkR6aC1NYUpmQWFfYWpVUmhUVEEyX19pUWZQS095YkVYd2l5ZnRBY2pCSXRoZHdUUnVjVHlUaU9iTWVNTWI2dUxqMnBrTWc3LW9fNmpNNVpJdDA?oc=5",
-      "source": "Daily Wire",
-      "coverage": 3
+      "title": "O controle do Congresso depende de quatro eleições decisivas em Nova York",
+      "titleOriginal": "Control of Congress hinges on 4 key NY battleground elections",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelJnUmpNWC1Cai1wRHUtUWpkbGZaLWJvaUtacUY1NENDcWl2QkpTcUtiXzRzb1pzZ2ZRQlR0dWdkX1NPNGRJMXp2VlREOVY5MHdTVFFsLUprdHhOWUM2aGV6SXhrcTRfUXVna2lnRExldHhtWUIwcmV3N0NYRmJJUUo3WkZUWmQ3R0NtUzNjWmJXcjhxRzRjY0RDWk8tN2VYekE?oc=5",
+      "source": "New York Post",
+      "coverage": 2
     }
   ]
 }
