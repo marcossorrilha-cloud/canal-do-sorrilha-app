@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-11-02T06:05:30.062Z",
+  "updatedAt": "2026-11-02T08:18:49.295Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "A SK Hynix planeja distribuir US$ 75 bilhões aos acionistas após resultados financeiros impressionantes",
+      "titleOriginal": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORS13MExBQ0RLMjJkM1FxVkF0aVVJVzRib0Uxa0FTejhNTlY5M216LURtMFRrZ1Bwc1ZZU2E2cHRwS3FocGtvanZMRmdTWGxYUnRUd3FzMnMySDFZMmRBVVBvR3dsVDFqemZCdmdHcnpXZTZobTF0TlpaejgydmtkUUIwWGhaWGVNU1VEa3dwOFJEb1dkNUxNbXZBNFhPQVMxMjRQcWZ0dnl2VWR4TDZCdWFoeVBNcHM4eElJaGFTTQ?oc=5",
+      "publishedAt": "2026-11-02T08:05:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A frota secreta da Rússia recorre a redes e pneus de borracha para criar blindagem improvisada para drones",
+      "titleOriginal": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtxM1NKZjFSUWFCMC1QYmV1SUVPa28zbHMzV1RCWDVhaks5RDZfTWR6Y1FTQW5yMXpVenFUZF90eUhwdFZ6OVV0ek9JREtzSnktbTdoZGljNG81LW5fTXNJNDc3NXk1dlJVbkVDelh6cXBmZWNFRUY5RExmcVpETWJYbTU2WEJYUzRXdGwtSFVqd25tclp0TWEtLVVBMWNQMW1DbjBRUXNqcEJqbEVQdE1B?oc=5",
+      "publishedAt": "2026-11-02T08:01:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas mostram força nos últimos dias da disputa pelo Senado, segundo novas pesquisas",
+      "titleOriginal": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+      "publishedAt": "2026-11-02T07:49:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os bilionários não gostam do imposto sobre a fortuna. Veja o que alguns propõem como alternativa.",
+      "titleOriginal": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFI2VWppWUlUdl9fazN2ODFOS1Q3Z1BCbzduRjFZanB1TUNqa3RaYWpSMTZIdElrUGRVR3NxeG5idlo4WENHbnBfZjNLMkFpUVYxRERNbi15NTF0V1dBQm9kQkkxbTNDdGQ0eG1WWWhrbkdmckhHTGtYRlVQNzNqSlJJSDBfQ2djb3htczl2QUQwVUZCNndwcmd5bXRDU0tzLUI2ZEp5dWdXdw?oc=5",
+      "publishedAt": "2026-11-02T06:59:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A IA corporativa também está em jogo",
+      "titleOriginal": "Enterprise AI Is on the Ballot Too",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTVpMldVTW9uaXhuTGx5V21XWXJWSkh1ZERzVGFuUTZTRlF5Y2lOc1lWeEhHMUJDZ3ZzNEpTTHo0QmoxRnRoWFhhcXI1N3psenM0NV9INWFsaXpUS1AxR1dydGVfWVpzekZ1SVRraWdsX2tDUUk2TE9lZ0RKZlNmYw?oc=5",
+      "publishedAt": "2026-11-02T05:40:27.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "As ações asiáticas, em sua maioria, registram alta, mas os papéis do setor de tecnologia continuam voláteis, enquanto o petróleo cai 3,3%",
+      "titleOriginal": "Asian shares mostly advance but tech stocks remain volatile, while oil sinks 3.3%",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+      "publishedAt": "2026-11-02T05:29:00.000Z"
+    },
     {
       "source": "AP News",
       "title": "Trump realiza comícios em Iowa e no Kansas enquanto os republicanos lutam para manter o controle do Senado e da Câmara",
       "titleOriginal": "Trump rallies in Iowa and Kansas as Republicans fight to keep Senate and House control",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC13c2s2am5reGJsV1BBRXVWdjdfakxxb1RITFltVWdlVTZfX0lrUUN1MDZULUVvYktETVZtMHM5LUtWU3ZfbDdoYlZ1dDJfa0pPeS01ZEhKXzFBbU9hbWdlNXR1VGZPLVJFVlRCc1Zqd3VVNG5Xdm9BQ1VXdzk0dUVxOTVIV1ZjTkptV3NmNW91cGpWQmZuNXptcEdaUkE?oc=5",
       "publishedAt": "2026-11-02T04:25:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Onde os democratas que almejam a Casa Branca estão apostando nas eleições de meio de mandato",
-      "titleOriginal": "Where Dems eyeing the White House are putting their midterm chips",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lbFhndm16UV9rTUMtb3VOazBUSDFMenNiNEtIb2pGRHZyMl9IME5vZWFySTdSR28tUGtnQzJhYjNQaEVMTTFQbmtGaGJDUzZZODNSZ1hHT2s1ODBDclZkYkxacVl2SFFFTkhhZw?oc=5",
-      "publishedAt": "2026-11-02T04:11:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Bilionário do setor de fast-fashion paga US$ 31 milhões por cobertura em Nova York",
-      "titleOriginal": "Exclusive | Fast-Fashion Billionaire Pays $31 Million for New York Penthouse",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlhRNG81WW5OTU4zS1FZd0dmY3FKNk9Jam5Ybl9tNGZVU3VVSUwxVWlPUHUyUG9UeG14cXlNNWx1NmJZdE9NNWhIcnNheVhManZOZER1YjRhMTF6ZGFQNXI0bDhYX2p6dzA0V0RkaTNXOFVhamdGQkNBRDYzTm1zbU1KWERkakFmb1FfUDdwRXY2YnhPU2VxZ2k4bm8?oc=5",
-      "publishedAt": "2026-11-02T03:59:25.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,11 +59,11 @@
       "publishedAt": "2026-11-02T03:40:05.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Os quatro acadêmicos que idealizaram a Proposta 40, a lei tributária para bilionários da Califórnia",
-      "titleOriginal": "The Four Academics Who Dreamed Up California’s Billionaire Tax Prop. 40",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFpiR3diZGpWbjNDR1lBdjZ0Nlk4NWhESzc2c050ZXRmYUNpRzVaWDk0SVFIZGRTLTZicUVoZzRmNGVJOVpKRGZxczNsREk4WXh6VHdNV1lZVDBheUVXNmVwVmJTQVhXNGoxVHpYOFlKRHowSkRxRDJsV1JIUFpGNl9DYmVaX0s4VTM3clZDOV9OcC1rY0JWRHlwMk0zWDA?oc=5",
-      "publishedAt": "2026-11-02T03:09:50.000Z"
+      "source": "Axios",
+      "title": "Ação movida pelo Departamento de Justiça dos EUA sobre a confusão nas cédulas eleitorais no Alasca foi indeferida pelo juiz",
+      "titleOriginal": "DOJ's Alaska ballot-confusion suit dismissed by judge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1RmVHQybnZ3ZExpWkxDd2NfaUJ0dUN0bkw2bkFWVi1GUVVEMS1RMlpMY0d3Zm9TRl9zLUs4bzBGTEtscUxwVUdRSlJkcXJlR0xGLVpJblQwU3FQcUg2QzNYeFhDLXM5d0pZX2xuOVhMV1dPamNHQkhPU2k2cG1RampyQ0toaTRTeFQ0M2FDUQ?oc=5",
+      "publishedAt": "2026-11-02T03:24:33.000Z"
     },
     {
       "source": "AP News",
@@ -43,34 +71,6 @@
       "titleOriginal": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
       "publishedAt": "2026-11-02T03:05:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O principal adversário de El-Sayed surpreende os democratas ao declarar apoio ao candidato republicano na disputa pelo Senado em Michigan",
-      "titleOriginal": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
-      "publishedAt": "2026-11-02T03:04:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas levam vantagem sobre os republicanos em 7 disputas acirradas pelo Senado: pesquisas do NYT",
-      "titleOriginal": "Democrats edge out Republicans in 7 heated Senate races: NYT polls",
-      "link": "https://thehill.com/homenews/6187749-democrats-edge-out-gop-senate-poll/",
-      "publishedAt": "2026-11-02T03:03:49.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Haley Stevens enfrenta pressão para ser expulsa do grupo democrata da Câmara",
-      "titleOriginal": "Haley Stevens faces push for removal from House Dem caucus",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTV3c0E4d1FzWm05Z1BHelp2emE5RHVpVTFucWpseENwUFFYWl96ZXVWd0FlMUY3RFpNR2NSSzZTeXB0SlgyV2hqU2RoT2RNNGgtaEo2TFBLbGRkU0xMSzh3Z2pObU9WczRzckI5NUh4Q01xLVJnM2NWRXgzWU1SUjl3?oc=5",
-      "publishedAt": "2026-11-02T02:46:51.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Índice privado de manufatura da China aponta para uma expansão constante em outubro",
-      "titleOriginal": "China Private Manufacturing Gauge Shows Steady Expansion in October",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEpZejI2VDZEbXZsUGpOejlGM19Pc0JQbFNORFBhUVZYWUdMZzQ4SzJTVUtRNF9yZGwtd2hlN0RaeDZUV3c1NFFLZjY4WVQ0T2UtNE0xeEF4VFZ6ZlZNSWVHdWpQdURWR1p0RzFKVENSUy16TXZMMFlfeS1KdnlUV1BvZ3Fra1ZwM2pxTnFPeS1uYnJfNkoyQUlqSmpCSFdJcEtFQU1Zcw?oc=5",
-      "publishedAt": "2026-11-02T02:34:00.000Z"
     }
   ]
 }
