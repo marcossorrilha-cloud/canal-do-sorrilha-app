@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-02T06:05:37.000Z",
+  "updatedAt": "2026-11-03T06:48:57.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
-  "asOf": "02/11/2026",
-  "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 02/11/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
+  "asOf": "03/11/2026",
+  "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 03/11/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
   "house": {
-    "dem": 91.7,
-    "rep": 8.3
+    "dem": 92.4,
+    "rep": 7.6
   },
   "senate": {
-    "dem": 72.4,
-    "rep": 27.6
+    "dem": 76.8,
+    "rep": 23.2
   },
   "states": [
     {
@@ -27,18 +27,27 @@
       "office": "Senado",
       "candidates": "Adam Hamilton (D) × Roger Marshall (R)",
       "favored": "D",
-      "prob": 59,
+      "prob": 61,
       "name": "Hamilton",
-      "rating": "Toss-up"
+      "rating": "Lean D"
     },
     {
       "state": "South Carolina",
       "office": "Senado",
       "candidates": "Annie Andrews (D) × Darline Graham (R)",
       "favored": "R",
-      "prob": 63,
+      "prob": 62,
       "name": "Graham",
       "rating": "Lean R"
+    },
+    {
+      "state": "Alasca",
+      "office": "Senado",
+      "candidates": "Mary Peltola (D) × Dan Sullivan (R)",
+      "favored": "D",
+      "prob": 69,
+      "name": "Peltola",
+      "rating": "Lean D"
     },
     {
       "state": "Nebraska",
@@ -50,12 +59,12 @@
       "rating": "Lean R"
     },
     {
-      "state": "Alasca",
+      "state": "Maine",
       "office": "Senado",
-      "candidates": "Mary Peltola (D) × Dan Sullivan (R)",
+      "candidates": "Troy Jackson (D) × Susan Collins (R)",
       "favored": "D",
-      "prob": 71,
-      "name": "Peltola",
+      "prob": 74,
+      "name": "Jackson",
       "rating": "Lean D"
     },
     {
@@ -63,17 +72,8 @@
       "office": "Senado",
       "candidates": "Sherrod Brown (D) × Jon Husted (R)",
       "favored": "D",
-      "prob": 73,
-      "name": "Brown",
-      "rating": "Lean D"
-    },
-    {
-      "state": "Maine",
-      "office": "Senado",
-      "candidates": "Troy Jackson (D) × Susan Collins (R)",
-      "favored": "D",
       "prob": 75,
-      "name": "Jackson",
+      "name": "Brown",
       "rating": "Lean D"
     },
     {
@@ -99,7 +99,7 @@
       "office": "Senado",
       "candidates": "A definir (D × R)",
       "favored": "D",
-      "prob": 91,
+      "prob": 90,
       "name": "Democrata",
       "rating": "Likely D"
     },
@@ -113,21 +113,21 @@
       "rating": "Likely R"
     },
     {
-      "state": "Mississippi",
-      "office": "Senado",
-      "candidates": "Scott Colom (D) × Cindy Hyde-Smith (R)",
-      "favored": "R",
-      "prob": 93,
-      "name": "Hyde-Smith",
-      "rating": "Likely R"
-    },
-    {
       "state": "Louisiana",
       "office": "Senado",
       "candidates": "Jamie Davis (D) × Julia Letlow (R)",
       "favored": "R",
       "prob": 94,
       "name": "Letlow",
+      "rating": "Likely R"
+    },
+    {
+      "state": "Mississippi",
+      "office": "Senado",
+      "candidates": "Scott Colom (D) × Cindy Hyde-Smith (R)",
+      "favored": "R",
+      "prob": 94,
+      "name": "Hyde-Smith",
       "rating": "Likely R"
     },
     {
