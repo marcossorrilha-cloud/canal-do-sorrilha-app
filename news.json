@@ -1,13 +1,41 @@
 {
-  "updatedAt": "2026-11-04T23:40:19.904Z",
+  "updatedAt": "2026-11-05T00:31:30.803Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "A Coreia do Norte, em sua maior onda de testes com mísseis dos últimos anos, rejeita a diplomacia de Trump",
+      "titleOriginal": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
+      "publishedAt": "2026-11-05T00:09:45.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para governador de 2026",
+      "titleOriginal": "2026 Governor Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
+      "publishedAt": "2026-11-05T00:02:42.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O juiz Alito não se aposentará imediatamente, apesar do resultado das eleições",
-      "titleOriginal": "Justice Alito Will Not Retire Immediately, Despite Election Outcome",
+      "title": "Governo Trump toma medidas para destituir árbitros enquanto os pagamentos aos médicos disparam",
+      "titleOriginal": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+      "publishedAt": "2026-11-05T00:01:15.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O investimento de vários trilhões de dólares dos EUA em IA está em jogo nas eleições — e Wall Street está de olho",
+      "titleOriginal": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGRBeXJhcngwMjFaRi1WQXd4VnpvYUctLTVvY01ERTJibUdjeTJITl9XMFJncFRuTXJ1eUxYbnF6U2xybHpyd0R3NjBFem9jTmZHdVJwTFBDdjlDUG1QdWtTR1VXSVBpUFZSdVhoSlRoLXdZdUgtSjZiNzc2bnB0bTE4OVdkLU5Qejl1cXhsYmREN0t1QlMtbVFtLVRRU2FsVXh2UjZ1bGVXTG9oMVZQaTcwZ0NoNWJJ?oc=5",
+      "publishedAt": "2026-11-04T23:55:23.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O juiz Alito não se aposentará imediatamente da Suprema Corte, apesar do resultado das eleições",
+      "titleOriginal": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-      "publishedAt": "2026-11-04T23:37:21.000Z"
+      "publishedAt": "2026-11-04T23:44:50.000Z"
     },
     {
       "source": "The Hill",
@@ -43,34 +71,6 @@
       "titleOriginal": "Volvo Car Sales Drop on Continued China, U.S. Weakness",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeThxc2FES2hIbDZMM25YZVlNWFZnOUI1eUtsVEw3M0RrMUMtYWxMcEIzYVdpa3htb1pBUXZYTl90SUdsd1ZhVVhZc1Z0Wm5SSTBQRnlrQU9BTmlreks3b084UnlTUFVLUUhLdzBXSGtDZ3lhNGdmWU5iQXZwMFdqbHZDR0RnTFpxbEtZZ3VEaW1feVN0UkhJZl91M1k?oc=5",
       "publishedAt": "2026-11-04T23:15:13.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Profissionais da área médica estão entre os vencedores das eleições de meio de mandato",
-      "titleOriginal": "Medical Professionals Are Among the Winners of the Midterms",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-elections-doctors-nurses.html",
-      "publishedAt": "2026-11-04T23:14:58.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump enfrenta um novo papel: um presidente em fim de mandato diante de um Congresso hostil",
-      "titleOriginal": "Trump Confronts a New Role: A Lame Duck Facing a Hostile Congress",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
-      "publishedAt": "2026-11-04T23:02:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Governo Trump toma medidas para destituir árbitros enquanto os pagamentos aos médicos disparam",
-      "titleOriginal": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "publishedAt": "2026-11-04T22:51:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pesquisas à saída das urnas mostram que o eleitorado continua frustrado com os preços",
-      "titleOriginal": "Exit polling shows electorate still frustrated with prices",
-      "link": "https://thehill.com/newsletters/business-economy/6199636-exit-polling-shows-electorate-still-frustrated-with-prices/",
-      "publishedAt": "2026-11-04T22:48:14.000Z"
     }
   ]
 }
