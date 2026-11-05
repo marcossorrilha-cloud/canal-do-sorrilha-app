@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-05T06:47:47.684Z",
-  "slot": "2026-11-05-AM",
+  "updatedAt": "2026-11-05T15:28:14.416Z",
+  "slot": "2026-11-05-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O governador de Maryland, Wes Moore, reflete sobre a eleição histórica da democrata Keisha Lance Bottoms para o cargo de governadora",
-      "titleOriginal": "Maryland Gov. Wes Moore reflects on Democrat Keisha Lance Bottoms historic governor election",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnRqY2tzSXM2R3RYeFlPS29RblpsMlZUX1VtaWI5Tlhkc3p5RTFET2twNlRQZFY2elN1eUhxeHpnaXRtSXd4dEJmNnhDcU4zdDdiMjV3bGJPd0RlWWYwNmFHTU1FcExtM0IwSE1JSEhFSEN1c2I2U2huYUxXekljSmhRWU9zRWEyZmkxQUJuNWxaQ21zUnZCRmpqQlMxRnJ5Zy1pbXZ4ZnUzbjlwYTNUUlAtMV9tekhrQ0E4NHFaOGRkY1hRcFg0?oc=5",
-      "source": "CNN",
-      "coverage": 4
+      "title": "Opinião | Como Trump desperdiçou uma oportunidade de avanço junto aos eleitores latinos",
+      "titleOriginal": "Opinion | How Trump squandered a breakthrough with Latino voters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkNIYXc1Wjd3QS1ocGtJdkQ5eWVfNmRzaTFHLW5HUkM1UWFDZTFQTzZNTWhVakZhX2hrUy1QZndyU0IyOGJwQVlpbjRDeG11bHlzSGxHMEtOM21CVG1VcWVxMlRfMDVRTGJudFc3M0czS2ZZNFpQYTRrbFo0c2xuUFBQdW1DQXFyd1Q5NjBRRjRfaGtBNU9hY3YzVQ?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump: “Achei que o Partido Republicano teria se saído melhor; posso trabalhar com os democratas em ‘muitas coisas’”",
-      "titleOriginal": "Trump: I Thought GOP Would’ve Done Better, I Can Work Work With Dems on ‘Many Things’",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTlpNW1DbG03aTNZcVJvM3JuVmJyaloyN3hiV09tWmtFNjBTZi0zeTRPZUZaN01iSnpUTUdmS0FUNzJEazViQ3lybk80VkEwLU1CV3JTRGdJMDVEUUtnWmRyU0JHRWhHQVlSQW04RGx5ajNDb21LbmgtQ2N3LUJxU3FZS3VZY3JYMUlsYW9TcTZYTHJybmJIR0FvczhKX2FmWVRIV2JWRDRxRDRlR1lYM2wtX1hoQmxzNm5ndEVDMVFpUGhzREHSAcsBQVVfeXFMTjk4dm0zWGNkUDBzQ1FCV1I2LUs0eXdTUTdZY29jZ2ptU3V5bG9VeXBGcGhiZkpIbVBGcnprQWtWTjZWcHdDOEtxOFRYeGhvTHdOT0ZPNTZvYUlHNTFjb1lFb29YczViUm5kN21GMW44TExEQXBqTTVjRzJZQnBPLTNPNE1TUEVDQk1JaFlSc2xYMUR6SUlRQ2d6QmdJcTM0Zl9tM1o2ZmE4MDlJQ3RmMW1UMkJ1OFZOdWF2UkQzMEJBaXEyMXYxckpLT28?oc=5",
-      "source": "Breitbart",
+      "title": "O bilionário Leon Black move ação por difamação contra o deputado Robert Garcia por causa de comentários sobre Epstein",
+      "titleOriginal": "Billionaire Leon Black hits Rep. Robert Garcia with defamation suit over Epstein remarks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFEweWR0dzVXbTBFSXk2WFI5UzFZS1R4NXk3SHZlNFhSNTBhT05TdmduQnpuR0xUTU9kVHlDUll6Mkk3NFpZU2U0bzV3U3dfc28wVk1SVlZMc0VjVXJUMDM4N1FLS0lMTDNFZHhLSTRyWmdjVjdMWWRtdUoycGtKWFFuQUlIY251ZHFnQUJMaFUwd29LNHo1QmZ3SG1GMDVmVWVjRERjUktOZDlU?oc=5",
+      "source": "Washington Examiner",
       "coverage": 3
     }
   ]

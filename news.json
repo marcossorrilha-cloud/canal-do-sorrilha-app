@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-05T07:24:26.910Z",
+  "updatedAt": "2026-11-05T15:28:07.544Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "Por dentro do colapso histórico da equipe de Trump nas eleições intermediárias de 2026",
+      "titleOriginal": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+      "publishedAt": "2026-11-05T15:20:18.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | As eleições intermediárias de 2026: análise e comentários ao vivo",
+      "titleOriginal": "Opinion | The 2026 Midterm Elections: Live Analysis and Commentary",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3dFXzhYLUxGdFV4OGVJbGR5em9oR2M5bm5aNzhWOS1mMUJQNEJLSlhtNzY5T29GNkttb0tlSjJjSmtqMjRIbGpNNVk3M3hNM1NlclBYUVlGSWNhcmFFWnBzS3l1bl9iaFVpbUliRUlxVmZGSDhvUDFJN0oyTmh6ektTRU1sbG01U1Q5ZkkxRGwxbGxKT2tN?oc=5",
+      "publishedAt": "2026-11-05T15:07:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pritzker: Aumentar o salário mínimo é uma “maneira fácil” de os democratas darem o pontapé inicial no novo Congresso",
+      "titleOriginal": "Pritzker: Raising minimum wage an 'easy way' for Democrats to start in new Congress",
+      "link": "https://thehill.com/business/6200660-pritzker-calls-minimum-wage-increase/",
+      "publishedAt": "2026-11-05T15:05:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-funcionário de Trump pede que Wiles renuncie após a derrota esmagadora nas eleições de meio de mandato",
+      "titleOriginal": "Former Trump staffer calls for Wiles to resign over midterm wipeout",
+      "link": "https://thehill.com/homenews/administration/6200324-caroline-sunshine-calls-wiles-resign/",
+      "publishedAt": "2026-11-05T14:55:44.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Deputado democrata: “Vamos ter uma briga e tanto para acabar com essas tarifas”",
+      "titleOriginal": "House Democrat: 'We're going to have one hell of a donnybrook over ending these tariffs'",
+      "link": "https://thehill.com/business/6200381-stanton-trump-tariff-battle/",
+      "publishedAt": "2026-11-05T14:51:42.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "As eleições de meio de mandato abalam o cenário político, colocando os estados conservadores novamente em jogo",
-      "titleOriginal": "Midterm elections crack open political map, putting conservative states back in play",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFZPc3ZkSWlwVk5fZW0xU1FocVc0OG05cmlFbTVWWWQtVmY1blRFUXRxS1pEOUZYRjB6bFRCX0l2S3IzeUU0MjBZWnk3WjRpUFcyd1ZQU3JVNFFNRnpUcFdMZXh6V0FKUVZQZTgzVEtlQ1QxZ3BES0VCRkQ2T1Jya1RwamoweXpwdTFKYmdJcWNYUkJVdnlzRmVURk1kTk1aWG5hNThzRQ?oc=5",
-      "publishedAt": "2026-11-05T05:14:00.000Z"
+      "title": "Os republicanos foram penalizados nas eleições intermediárias por causa das políticas econômicas de Trump, segundo mostra a pesquisa de opinião da AP",
+      "titleOriginal": "Republicans were punished in the midterms for Trump's economic policies, The AP Voter Poll shows",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ21uZTBtcHVVa1pjcFN6eHhxWllCcEpzV2hpTmN6SWhMY3dqY2dpOWtxd0dtdGFPRV9RSUM1SEhrSDVHUHI3YmIwZzZucVoyZDd2V1hzNGJLT2w4OG5VRGpDRkNYbmJ4V2xadVlUVldoOUJ1THc2RVA0WkFtZmpaRDdWdG9iU3pZX285WkRhRi1MUF90UF9SekFzVjMyRzZNTmZoQmlEMVdmb3lHaUV2WTBZdFU?oc=5",
+      "publishedAt": "2026-11-05T14:35:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "As pesquisas erraram mais nas eleições de meio de mandato do que em 2016",
-      "titleOriginal": "Polls missed bigger on the midterms than in 2016",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MbDVxMlBxRkRDbWh0Z21OZVlNcGVIVlhLMHdGb09rbDlUMlN2eWVGdjluY0FialU0TldDaE1Xa3FaUFpSR1NiWTY4bHB1U3VjZTBQaE5QNzJjN0pFcXRMdXJjMWZJei0zd1N1OVJEa19scWp5TEtzZQ?oc=5",
-      "publishedAt": "2026-11-05T05:11:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Por trás da improvável vitória de Victoria Broderick nas eleições para o Congresso no Tennessee",
-      "titleOriginal": "Inside Victoria Broderick's unlikely congressional win in Tennessee",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMVZHV21IbFpOTzNweWN0aDB5TFVudkNyRkhFcExQa0RSQmFYdHdQRllsaXBpSkZfOUFXd21zcnRTMmJHcThiQnZ5Y1BQNHM4SV9POXFlbHgycHhMSERVbU0yaEVFbVZxM3lzSUc5R0JDTVk5eVNtMFFMSXZoMDR4bHpsRFFjcTdaVjQ5WUVFVU5GZjB0SkVzMG5vbHdSaVV3LVNKWS1nb3hvUHQwbmU1MzIyZTVWTlU?oc=5",
-      "publishedAt": "2026-11-05T04:52:07.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Eleitores de Washington aprovam proibição da participação de meninas trans em esportes femininos do ensino fundamental e médio",
-      "titleOriginal": "Washington voters approve ban on trans girls in girls' K-12 sports",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamttM1hOSnlZTElwaWVKalphcHVNVWRLdGo4eXNHQmhSNmVlUzRobjVpbFZkT1IzR2Eta1NjTDZVajZ3R21TY05JNTZVNHRQSnkxWnZPdmpXUl9zWGZ5ZWgya09BUnBaV1F4Tld6cm5nWHpBQmMxZUdHTGg5ZzAyTV84TjBMTkNhc0xEblgzQVVtNEtqS3FSakowRGthNDBaZnpxVE9uU1pHVWU2ZElr?oc=5",
-      "publishedAt": "2026-11-05T03:55:27.000Z"
+      "source": "The Hill",
+      "title": "Será que um funcionário desonesto poderia atrapalhar a tomada de posse da Câmara em 3 de janeiro? Não é bem assim tão simples.",
+      "titleOriginal": "Could a rogue clerk bollix House control on Jan. 3? It's not quite that simple.",
+      "link": "https://thehill.com/opinion/congress-blog/6198772-clerk-loophole-house-election/",
+      "publishedAt": "2026-11-05T14:30:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Governo Trump toma medidas para destituir árbitros enquanto os pagamentos aos médicos disparam",
-      "titleOriginal": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "publishedAt": "2026-11-05T03:51:21.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zelensky conversa com representantes dos EUA antes das negociações trilaterais",
-      "titleOriginal": "Zelensky speaks with US envoys ahead of trilateral talks",
-      "link": "https://thehill.com/policy/international/6200015-zelensky-witkoff-kushner-talks/",
-      "publishedAt": "2026-11-05T03:40:24.000Z"
+      "title": "Como Trump está reagindo aos resultados das eleições de meio de mandato",
+      "titleOriginal": "How Trump Is Reacting to the Midterm Results",
+      "link": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
+      "publishedAt": "2026-11-05T14:06:13.000Z"
     },
     {
       "source": "Axios",
-      "title": "Republicanos da Câmara passam do “choque” à fúria após a derrota nas eleições",
-      "titleOriginal": "House Republicans swing from \"shock\" to fury after elections loss",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR216LURZZEV1QXBSRFFoYnd5a3RXMVdoZ2dka2lqZmJheVpLSVlZeU45c0xVR0JtcE5sOHprd2VudExpVVo5YTJyOURwa0RpSnFDbHJUaVU5cUoxb18zaklhQzNoeE0tNmVTUDFQa0V5OGtlVTlVLUtfTkdsSGpoSndmbC10bl9LMjZIZzFlMVFQZXVKSWc?oc=5",
-      "publishedAt": "2026-11-05T03:10:19.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Esqueça as eleições de meio de mandato. Trump está de volta aos salões de baile.",
-      "titleOriginal": "Forget the midterm ballots. Trump is back to ballrooms.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3ZTVnR2amg3WlpmdWJRSGVncm42QmtuVzFCRE1EVGJXNU90VjFBNHpHWmxUdTNqQVhGZTVpSzZRZHVMaFR3Y1N2SW5NbXB2TlZaNDBpYl9hUWtUb0M4VUZWUHN2eTVkbGhyOXBnMzR0Ymt2SEcxbkFyc3I4eU9rWQ?oc=5",
-      "publishedAt": "2026-11-05T02:49:58.000Z"
+      "title": "Trump: O senador Sullivan deveria receber os votos dados ao outro Sullivan do Alasca",
+      "titleOriginal": "Trump: Sen. Sullivan should get votes cast for Alaska's other Sullivan",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41NTVERTB1UDRSUm1NbE54UDNmbzVhQXE0eWMycmp3WjhVcGctZi1YaDlxTDkyTUw1d0VPbFNwX2ZyUFBvc3FtNjhtOUxvR3VScFN4Rmo0RUhIRWh3UHJ6VGY1MWRRZzZpdEpwUkQ2VEZuUG1NS19meW5B?oc=5",
+      "publishedAt": "2026-11-05T13:55:20.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump insta o Congresso a aprovar projeto de lei sobre o horário de verão após o pôr do sol “ridículo”",
-      "titleOriginal": "Trump urges Congress to pass daylight saving bill after 'ridiculous' early sunset",
-      "link": "https://thehill.com/homenews/administration/6199783-trump-calls-congress-daylight-saving/",
-      "publishedAt": "2026-11-05T02:48:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Scott Wiener vence a disputa para suceder Pelosi, que está se aposentando",
-      "titleOriginal": "Scott Wiener prevails in race to succeed retiring Pelosi",
-      "link": "https://thehill.com/homenews/house/6184793-scott-wiener-wins-pelosi-seat/",
-      "publishedAt": "2026-11-05T02:43:36.000Z"
+      "title": "Líder republicano condena a sentença proferida contra o ativista de Hong Kong Joshua Wong, considerado um “herói”",
+      "titleOriginal": "Top Republican condemns sentencing of 'hero' Hong Kong activist Joshua Wong",
+      "link": "https://thehill.com/homenews/house/6200253-john-moolenar-joshua-wong-activist-china-sentencing-2026/",
+      "publishedAt": "2026-11-05T13:47:21.000Z"
     }
   ]
 }
