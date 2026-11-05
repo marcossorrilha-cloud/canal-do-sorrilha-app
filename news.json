@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-05T21:59:24.031Z",
+  "updatedAt": "2026-11-05T22:17:06.614Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Assessor de Trump defende uma alternativa a Thune para a liderança do Partido Republicano no Senado",
+      "titleOriginal": "Trump adviser calls for alternative to Thune for Senate GOP leader",
+      "link": "https://thehill.com/homenews/senate/6202589-trump-adviser-calls-gop-revolt/",
+      "publishedAt": "2026-11-05T22:10:45.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Democratas moderados aumentam seu número e sua influência",
@@ -31,6 +38,13 @@
       "publishedAt": "2026-11-05T21:42:17.000Z"
     },
     {
+      "source": "Axios",
+      "title": "Os processos contra Epstein voltam a ser destaque após as eleições de meio de mandato",
+      "titleOriginal": "Epstein files back in spotlight after midterms",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zbWIwdEtHUTN0Z0hQX0JPeTNZY1VTR2NRVUlQbnBrU19iak5HRk9CTmMwWVlSX19hMmdoa2k2VzNtUmZrTFNGcTM5aGd0eDNtblVkRWU1d0NzYk5tVGgzLXYzc3UyaE1udVJCcjUxREo0SUJFZ2Q0ekk4aw?oc=5",
+      "publishedAt": "2026-11-05T21:37:54.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Departamento de Estado: Notícias de que Rubio estaria pensando em se afastar são uma “farsa sem fundamento”",
       "titleOriginal": "State Department: Reports of Rubio mulling exit 'baseless hoax'",
@@ -45,13 +59,6 @@
       "publishedAt": "2026-11-05T21:27:29.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Ex-militar que conquistou uma cadeira na Câmara dos Deputados da Carolina do Norte: Hegseth “definitivamente” deveria sofrer um processo de impeachment",
-      "titleOriginal": "Army veteran who won NC House seat: Hegseth 'absolutely' should be impeached",
-      "link": "https://thehill.com/homenews/campaign/6202404-ojeda-dem-calls-impeach-hegseth/",
-      "publishedAt": "2026-11-05T21:21:20.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Bilionários do setor de tecnologia enfrentam um cenário político complicado após a vitória esmagadora dos democratas nas eleições de meio de mandato",
       "titleOriginal": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
@@ -64,13 +71,6 @@
       "titleOriginal": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
       "publishedAt": "2026-11-05T21:08:12.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Van Hollen não concorrerá ao cargo de líder da maioria no Senado, segundo fonte",
-      "titleOriginal": "Van Hollen not running for Senate majority leader, source says",
-      "link": "https://thehill.com/homenews/senate/6202343-van-hollen-not-challenging-schumer/",
-      "publishedAt": "2026-11-05T21:06:57.000Z"
     }
   ]
 }
