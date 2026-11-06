@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-11-06T17:58:08.961Z",
+  "updatedAt": "2026-11-06T18:27:46.221Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Resultados ao vivo da eleição para governador do Alasca em 2026",
+      "titleOriginal": "Alaska Governor Election Live Results 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVnF6Z256eUxiRnVxdl8zOHZZc1hya2VseWs4elFvOV9fZGVkdW1iOGVyVXh5LWxMa3NET0ZOSHNhWGhQd21sWUw0dXVNaTlhMnVaaFlWbzBYbVVMX0d6aU9ub2RoQ2Q0RlRkbEpBVzNFYjNPekE?oc=5",
+      "publishedAt": "2026-11-06T18:23:49.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jon Stewart critica duramente Chuck Schumer; democratas precisam se preparar para governar",
+      "titleOriginal": "Jon Stewart flames Chuck Schumer; Dems must get ready to govern",
+      "link": "https://thehill.com/opinion/lindseys-lens/6204626-schumer-jeffries-leadership-criticism/",
+      "publishedAt": "2026-11-06T18:13:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Autoridade de Washington, D.C., insta os novos governadores democratas a retirarem a Guarda Nacional",
+      "titleOriginal": "DC official urges incoming Democratic governors to withdraw National Guard",
+      "link": "https://thehill.com/homenews/state-watch/6204606-dc-democrats-recall-national-guard/",
+      "publishedAt": "2026-11-06T18:05:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Por que a Lei PEACE ainda não entrou em vigor?",
+      "titleOriginal": "Why isn’t the PEACE Act law already?",
+      "link": "https://thehill.com/opinion/international/6202836-peace-act-ukraine-funding/",
+      "publishedAt": "2026-11-06T18:00:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Comer afirma que “há muitas dúvidas sobre Hegseth” em meio à campanha pelo impeachment",
@@ -43,34 +71,6 @@
       "titleOriginal": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
       "publishedAt": "2026-11-06T17:21:54.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump se reúne com equipe de segurança nacional e afirma que a decisão sobre a guerra com o Irã será tomada “em breve”",
-      "titleOriginal": "Trump meets with national security team, says Iran war decision coming \"soon\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbW9jcGlzTlNQdWswMmp6NFFqVi1CRE9RSEtaOHp1U3FIUWp6Z0xYLW4tb2dld0tyQ3I0ODVILXBmZGNuSGxSNXo3TXJ4VWloN2tPeXZYcUZ5R195eno1U2lYUzloME1PN094Q2llQkZtWHpiNEtKOGU0d0k2SFRoSjFUTHpvUQ?oc=5",
-      "publishedAt": "2026-11-06T17:17:49.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Waters lança candidatura à presidência da Comissão de Serviços Financeiros da Câmara dos Deputados",
-      "titleOriginal": "Waters launches bid for House Financial Services chair",
-      "link": "https://thehill.com/homenews/house/6204390-maxine-waters-house-financial-chair-bid/",
-      "publishedAt": "2026-11-06T17:00:48.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas não conseguem restaurar o laço entre os EUA e o Canadá que Trump destruiu",
-      "titleOriginal": "Democrats can’t heal the US-Canada bond Trump destroyed",
-      "link": "https://thehill.com/opinion/international/6202256-canadas-strategic-autonomy-goal/",
-      "publishedAt": "2026-11-06T17:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Por dentro da disputa entre três candidatos pela liderança da luta dos democratas da Câmara dos Deputados na área da educação contra Trump",
-      "titleOriginal": "Inside the 3-way race to lead House Democrats' education fight against Trump",
-      "link": "https://thehill.com/homenews/education/6204242-house-democrats-majority-education-agenda-trump/",
-      "publishedAt": "2026-11-06T16:50:08.000Z"
     }
   ]
 }
