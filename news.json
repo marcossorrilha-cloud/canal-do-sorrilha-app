@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-05T22:17:06.614Z",
+  "updatedAt": "2026-11-06T02:26:59.027Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Assessor de Trump defende uma alternativa a Thune para a liderança do Partido Republicano no Senado",
-      "titleOriginal": "Trump adviser calls for alternative to Thune for Senate GOP leader",
-      "link": "https://thehill.com/homenews/senate/6202589-trump-adviser-calls-gop-revolt/",
-      "publishedAt": "2026-11-05T22:10:45.000Z"
+      "title": "2 deputados democratas da Câmara dos Deputados levantam a possibilidade de um processo de impeachment contra Blanche",
+      "titleOriginal": "2 House Democrats float idea of Blanche impeachment",
+      "link": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
+      "publishedAt": "2026-11-06T02:08:29.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rubio impõe sanções adicionais a Cuba, visando uma rede de transporte marítimo “ilícita”",
+      "titleOriginal": "Rubio places additional sanctions on Cuba, targeting 'illicit' shipping network",
+      "link": "https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/",
+      "publishedAt": "2026-11-06T01:53:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Líder democrata promete fiscalização “rigorosa” do Pentágono",
+      "titleOriginal": "Top Democrat vows 'vigorous' oversight of Pentagon",
+      "link": "https://thehill.com/newsletters/defense-national-security/6202978-asmith-pentagon-oversight-armed-services-committee/",
+      "publishedAt": "2026-11-06T01:48:13.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Democratas moderados aumentam seu número e sua influência",
-      "titleOriginal": "Moderate Democrats Increase Their Numbers, and Their Clout",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-      "publishedAt": "2026-11-05T21:53:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Ministério Público do Paraguai vai apresentar acusações contra o presidente Peña após o colapso do banco",
-      "titleOriginal": "Paraguay prosecutor will seek charges against President Peña following bank collapse",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
-      "publishedAt": "2026-11-05T21:49:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Para os democratas, as vitórias nas eleições de meio de mandato trazem um novo desafio",
-      "titleOriginal": "For Democrats, Midterm Wins Bring New Challenge",
-      "link": "https://www.nytimes.com/video/us/politics/100000011261785/for-democrats-midterm-wins-bring-new-challenge.html",
-      "publishedAt": "2026-11-05T21:42:41.000Z"
+      "title": "Trump toma medidas para transformar o Salão Oval em um monumento nacional",
+      "titleOriginal": "Trump Moves to Make Oval Office a National Monument",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
+      "publishedAt": "2026-11-06T01:24:38.000Z"
     },
     {
       "source": "New York Times",
       "title": "O Departamento de Justiça intensifica a investigação sobre o vazamento da decisão da Suprema Corte que revogou o caso Roe v. Wade",
       "titleOriginal": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "publishedAt": "2026-11-05T21:42:17.000Z"
+      "publishedAt": "2026-11-06T01:10:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "“Deixar viver e deixar morrer”: liga rival informa ao tribunal de falências que encerrará suas atividades",
+      "titleOriginal": "LIV and let die: Rival league tells bankruptcy court it will wind down operations",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
+      "publishedAt": "2026-11-06T00:51:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Os processos contra Epstein voltam a ser destaque após as eleições de meio de mandato",
-      "titleOriginal": "Epstein files back in spotlight after midterms",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zbWIwdEtHUTN0Z0hQX0JPeTNZY1VTR2NRVUlQbnBrU19iak5HRk9CTmMwWVlSX19hMmdoa2k2VzNtUmZrTFNGcTM5aGd0eDNtblVkRWU1d0NzYk5tVGgzLXYzc3UyaE1udVJCcjUxREo0SUJFZ2Q0ekk4aw?oc=5",
-      "publishedAt": "2026-11-05T21:37:54.000Z"
+      "title": "“Nunca ouvi falar deles”: Conheça os novos democratas da Câmara que surpreenderam até mesmo o próprio partido",
+      "titleOriginal": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbENrUFZlbkZaMFpRV0l2b2NPNTgzUFFQY1VvRnpGclh4T29YN1RrcnpuUzRFWXQzV1ZoeUpzTnBsOGtEdVFxWXRobVdSbUcxTTJKQUE0NjUwNy1FbWh5QzI1bU15SVA0Qjk4a1VkVU5JSmhoT3RXS24wQ3NtM1RGRmZVRDU?oc=5",
+      "publishedAt": "2026-11-06T00:47:54.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Departamento de Estado: Notícias de que Rubio estaria pensando em se afastar são uma “farsa sem fundamento”",
-      "titleOriginal": "State Department: Reports of Rubio mulling exit 'baseless hoax'",
-      "link": "https://thehill.com/homenews/administration/6202174-state-department-denies-rubio-exit/",
-      "publishedAt": "2026-11-05T21:28:25.000Z"
+      "source": "AP News",
+      "title": "O presidente do Paraguai, Peña, está sendo investigado e corre o risco de ser destituído do cargo devido ao colapso de um banco",
+      "titleOriginal": "Paraguay President Peña under investigation, faces removal from office over bank collapse",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+      "publishedAt": "2026-11-06T00:46:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Presidente de Israel anunciará no domingo quem foi escolhido para formar o governo",
-      "titleOriginal": "Israeli president to announce choice to form government on Sunday",
-      "link": "https://thehill.com/homenews/6202464-herzog-to-name-government-sunday/",
-      "publishedAt": "2026-11-05T21:27:29.000Z"
+      "source": "Axios",
+      "title": "Trump afirma que os eleitores devem se culpar pela queda do mercado de ações",
+      "titleOriginal": "Trump says voters should blame themselves for stock market rout",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWnJhcjAxNy13VVJxMFNoWGZGRkJYcEVvV2dGU3VCNEVzNk9xMk0zeFVMeHZaZ3hhOXFzaURDZ3RLS0xoX0hTODlMcTlkaS1fQmRMbXEwdnlwTTFZV3BJaUdlaVV0TW5CTEFxUA?oc=5",
+      "publishedAt": "2026-11-06T00:33:15.000Z"
     },
     {
       "source": "New York Times",
       "title": "Bilionários do setor de tecnologia enfrentam um cenário político complicado após a vitória esmagadora dos democratas nas eleições de meio de mandato",
       "titleOriginal": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
       "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "publishedAt": "2026-11-05T21:14:24.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Katherine Clark pode vir a ser a líder da maioria na Câmara. Quem é ela?",
-      "titleOriginal": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "publishedAt": "2026-11-05T21:08:12.000Z"
+      "publishedAt": "2026-11-06T00:33:00.000Z"
     }
   ]
 }
