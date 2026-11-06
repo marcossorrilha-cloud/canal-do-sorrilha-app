@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-11-06T02:26:59.027Z",
+  "updatedAt": "2026-11-06T02:49:37.541Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "Rubio afirma que as eleições na Venezuela deveriam, “idealmente”, ser realizadas no ano que vem",
+      "titleOriginal": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
+      "publishedAt": "2026-11-06T02:42:55.000Z"
+    },
     {
       "source": "The Hill",
       "title": "2 deputados democratas da Câmara dos Deputados levantam a possibilidade de um processo de impeachment contra Blanche",
       "titleOriginal": "2 House Democrats float idea of Blanche impeachment",
       "link": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
       "publishedAt": "2026-11-06T02:08:29.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Democratas estão elaborando um plano para reverter as tarifas impostas por Trump ao Canadá",
+      "titleOriginal": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+      "publishedAt": "2026-11-06T02:02:52.000Z"
     },
     {
       "source": "The Hill",
@@ -17,11 +31,25 @@
       "publishedAt": "2026-11-06T01:53:06.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Um experiente legislador árabe em Israel está disposto a romper com os precedentes para derrubar Netanyahu",
+      "titleOriginal": "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEhDWFhNT2VZVzZYNHZpenlNX0V5bTlpaWZDeEUtNkZwUkZGc3lfN3ViOFFDUHdBcUR4Q0Z4bFJZdWdXMTRFT3phbk41Rlc5aDA5ZlAyQ1hUU3dFd0RjNHQyUXdHcnE5WVRSbzFsWEdPamU2MkhjN0FQNTdFajFGQXc5Y2UxaTFNd3FOZVpsZ3Q1YXdLb2E3NWdSRFdlSkgtUDQxaFF3?oc=5",
+      "publishedAt": "2026-11-06T01:53:00.000Z"
+    },
+    {
       "source": "The Hill",
       "title": "Líder democrata promete fiscalização “rigorosa” do Pentágono",
       "titleOriginal": "Top Democrat vows 'vigorous' oversight of Pentagon",
       "link": "https://thehill.com/newsletters/defense-national-security/6202978-asmith-pentagon-oversight-armed-services-committee/",
       "publishedAt": "2026-11-06T01:48:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O empresário de Dolly Parton desiste da ação judicial contra o sobrinho da cantora",
+      "titleOriginal": "Dolly Parton’s Manager Drops Lawsuit Against Singer’s Nephew",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazN0dGxRRDRiUFFBVHhwZXNuRVJEUXUyUjlSS0pQYVV2Mm8zQXZZSWxDVWJRR1R6Rzd2S1RJWkV2aE41MUNZai1DR0taeFEyMFFFNDlhUjdTNWhaamRLMWlhUkdjY3pwLWswYUNvZEFvYlAxTjZtZjRSdmVoVGRWUVJLNGZsNXBTZ0p3SUVGOWpDa3lrV2dSYjVPM3o3WjJ2aHNTQg?oc=5",
+      "publishedAt": "2026-11-06T01:37:00.000Z"
     },
     {
       "source": "New York Times",
@@ -43,34 +71,6 @@
       "titleOriginal": "LIV and let die: Rival league tells bankruptcy court it will wind down operations",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
       "publishedAt": "2026-11-06T00:51:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "“Nunca ouvi falar deles”: Conheça os novos democratas da Câmara que surpreenderam até mesmo o próprio partido",
-      "titleOriginal": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbENrUFZlbkZaMFpRV0l2b2NPNTgzUFFQY1VvRnpGclh4T29YN1RrcnpuUzRFWXQzV1ZoeUpzTnBsOGtEdVFxWXRobVdSbUcxTTJKQUE0NjUwNy1FbWh5QzI1bU15SVA0Qjk4a1VkVU5JSmhoT3RXS24wQ3NtM1RGRmZVRDU?oc=5",
-      "publishedAt": "2026-11-06T00:47:54.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O presidente do Paraguai, Peña, está sendo investigado e corre o risco de ser destituído do cargo devido ao colapso de um banco",
-      "titleOriginal": "Paraguay President Peña under investigation, faces removal from office over bank collapse",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
-      "publishedAt": "2026-11-06T00:46:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Trump afirma que os eleitores devem se culpar pela queda do mercado de ações",
-      "titleOriginal": "Trump says voters should blame themselves for stock market rout",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWnJhcjAxNy13VVJxMFNoWGZGRkJYcEVvV2dGU3VCNEVzNk9xMk0zeFVMeHZaZ3hhOXFzaURDZ3RLS0xoX0hTODlMcTlkaS1fQmRMbXEwdnlwTTFZV3BJaUdlaVV0TW5CTEFxUA?oc=5",
-      "publishedAt": "2026-11-06T00:33:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bilionários do setor de tecnologia enfrentam um cenário político complicado após a vitória esmagadora dos democratas nas eleições de meio de mandato",
-      "titleOriginal": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-      "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "publishedAt": "2026-11-06T00:33:00.000Z"
     }
   ]
 }
