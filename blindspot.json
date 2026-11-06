@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-06T10:53:54.350Z",
-  "slot": "2026-11-06-AM",
+  "updatedAt": "2026-11-06T17:58:17.031Z",
+  "slot": "2026-11-06-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Esses candidatos democratas ao Senado venceram suas disputas antes do dia da eleição",
-      "titleOriginal": "These Democratic Senate candidates won their races before Election Day",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
-      "source": "Washington Post",
+      "title": "Jay Rockefeller, ex-governador da Virgínia Ocidental e senador dos EUA, que fazia parte de uma dinastia, morre aos 89 anos",
+      "titleOriginal": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjhzZ2FpMU1XR3J4TGdjcnNtUTBfS0ZVellYaHlFNVF1MDNjSE1XbUVDX0ZHQUp3UldLaUdOU1p4eGJQMXFPYWMtb0RQVGMxWmRlVjVSWWNNRFBzMzlRUU5yX1pBNGFaT0VkRlJDRC1mam9SRGZiMm5kc0oteVpWQU5hT1ZQdTc2b1VBYg?oc=5",
+      "source": "CNN",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "JD Vance parte para o ataque contra a guerra no Irã",
-      "titleOriginal": "JD Vance Comes Out Swinging Against The Iran War",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUZUVXdHVPOFozV0FjVnIxMEQzWVVvVjBOZjZxZG4tbGE1VkVHMktPbzczNW1xanpHU19SMGt3U0RKM2NZcmNlUzlac1NPa2hjMzR5Ung2bGZtY1RJVVFRek9pcGZzUmg4VUJuRGFLZw?oc=5",
+      "title": "Atirador mata policial e fere outras pessoas durante tiroteio em ônibus público",
+      "titleOriginal": "Gunman Kills Police Officer, Injures Others During Shootout On Public Bus",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUJXOXJRRTc1ekswamhhbGhScVJiWExFV3llUDNBMlBLZDRSOXNaM2ZMM0hUOGptZnhDYU02SkZyTHpqNXB6SFVjSk5KWGJDVGc1d21pNnR1YndUYk9qTUVJamlJZkNxX2dnc0VaeVpqRllUYjc0OE0wZy0zT1F2bVFLS2c3eHlKeXhRUmYwZTJ5LVB5UmlqLWlUZlh1SGt1MmdGcEtB?oc=5",
       "source": "Daily Wire",
-      "coverage": 5
+      "coverage": 2
     }
   ]
 }
