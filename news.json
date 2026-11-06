@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:53:44.674Z",
+  "updatedAt": "2026-11-06T11:29:54.317Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,35 @@
       "title": "Lucro da Emirates Airline cai após guerra no Irã interromper o tráfego aéreo",
       "titleOriginal": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
-      "publishedAt": "2026-11-06T10:42:07.000Z"
+      "publishedAt": "2026-11-06T11:25:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Irã recorre a táticas de guerrilha na tentativa de reafirmar seu domínio sobre o Estreito de Ormuz",
+      "titleOriginal": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0NDalZkZFhSSHNoLW9LRnRFdFVQVUFQaUVZRkdwSzliM2k3RHh2VnAwTk84Uy0zTmlzQUttejQ3cjl4bXEyNHQxYWlBWlRpTEota1JVT0trQS03cUJqVGNPRFhPSEEtT0V3bEpOZmlPYXF0bHFydWt0V3ZlWkFqQ1F4ZUllZXlKbndnUFhoUEMtS1RIdWNzbGx0V3Z1dVIzTUFXQWw5UU1fZWI2ZE0xUUlzYWh4NG11N1Jza3ZLUQ?oc=5",
+      "publishedAt": "2026-11-06T11:24:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os democratas aproveitaram a insatisfação da população rural para conquistar vitórias no Senado. Agora, os agricultores querem resultados",
+      "titleOriginal": "Democrats rode rural frustration to Senate wins. Now farmers want results",
+      "link": "https://thehill.com/business/6202564-farmers-demand-congressional-action-democratic-wins/",
+      "publishedAt": "2026-11-06T11:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A reta final do Partido Republicano na agenda de Trump perde força após a derrota eleitoral",
+      "titleOriginal": "GOP's final sprint on Trump agenda loses steam after election rout",
+      "link": "https://thehill.com/homenews/senate/6202573-gop-loses-hope-trump-agenda/",
+      "publishedAt": "2026-11-06T11:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os homens da Geração Z se afastaram do Partido Republicano nas eleições intermediárias e se voltaram fortemente para os democratas",
+      "titleOriginal": "Gen Z men split from GOP in midterms, and broke hard for Democrats",
+      "link": "https://thehill.com/homenews/campaign/6202692-gen-z-swung-midterm-results/",
+      "publishedAt": "2026-11-06T11:00:00.000Z"
     },
     {
       "source": "New York Times",
@@ -15,6 +43,13 @@
       "titleOriginal": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
       "publishedAt": "2026-11-06T10:22:23.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ações do setor de saúde são afetadas pela onda de vendas no mercado",
+      "titleOriginal": "Healthcare Stocks Caught Up in Market Selloff",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXo4QW9qZVVXdU5oMzRhVlRKSElBYzd3eElBdWdrQjQ1M1Z5eEtfS3ROd1ZicTF3azg4ZWNuQXdTMktrUklIUTB3WTFSWVJyeTBmOC1pbW5GSDF1amJZQWRaWXBYUXFSMGoxSjlYQWpyOGFvZ003ckdVME1lWl85SzRRMUVtbUtyZ0hJ?oc=5",
+      "publishedAt": "2026-11-06T10:11:00.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "Day Drinking With the President",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
       "publishedAt": "2026-11-06T10:00:06.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Os cartunistas do país comentam a semana na política",
-      "titleOriginal": "The nation’s cartoonists on the week in politics",
-      "link": "https://www.politico.com/gallery/2026/11/06/the-nations-cartoonists-on-the-week-in-politics-01153224",
-      "publishedAt": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "As eleições intermediárias revolucionaram o cenário eleitoral de 2028. Os republicanos estão em pânico.",
-      "titleOriginal": "The midterms blew open the 2028 map. Republicans are panicking.",
-      "link": "https://www.politico.com/news/2026/11/06/midterms-2028-presidential-map-republicans-panic-texas-ohio-iowa-01153026",
-      "publishedAt": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Pesquisa: Republicanos e democratas concordam em uma coisa: estão divididos.",
-      "titleOriginal": "Poll: Republicans and Democrats can agree on one thing. They’re divided.",
-      "link": "https://www.politico.com/news/2026/11/06/poll-republicans-democrats-divided-elections-01152054",
-      "publishedAt": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Vendas da Volvo Car caem devido à contínua desaceleração na China e nos EUA",
-      "titleOriginal": "Volvo Car Sales Drop on Continued China, U.S. Weakness",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeThxc2FES2hIbDZMM25YZVlNWFZnOUI1eUtsVEw3M0RrMUMtYWxMcEIzYVdpa3htb1pBUXZYTl90SUdsd1ZhVVhZc1Z0Wm5SSTBQRnlrQU9BTmlreks3b084UnlTUFVLUUhLdzBXSGtDZ3lhNGdmWU5iQXZwMFdqbHZDR0RnTFpxbEtZZ3VEaW1feVN0UkhJZl91M1k?oc=5",
-      "publishedAt": "2026-11-06T09:45:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Moscou confisca fábricas da Japan Tobacco na Rússia",
-      "titleOriginal": "Moscow Seizes Japan Tobacco’s Russia Factories",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJSYldodXRIdGxoX0t1RmdMSV9HRDM4TEh6SXBpc1BvMU5GWW1sNUN1SW1QNmd3Q0cycW1GWnlHanduYXNfQ3JiTmxoTTJaXzg2OXZzLWNkN095UThYNFFJYVdRWm9uSDJhQ1QxaEg5bFU0RE5fMURtcFktajE1TU4zZ291bDBkajlyTzI4UFppZ2l3cFhPYWF5eS1DNnc?oc=5",
-      "publishedAt": "2026-11-06T08:59:19.000Z"
     }
   ]
 }
