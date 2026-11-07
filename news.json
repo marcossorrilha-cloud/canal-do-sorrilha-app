@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-11-07T10:11:28.024Z",
+  "updatedAt": "2026-11-07T10:40:51.005Z",
   "count": 10,
   "items": [
     {
+      "source": "AP News",
+      "title": "Resultados das eleições para a Câmara dos Deputados dos EUA de 2026",
+      "titleOriginal": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "publishedAt": "2026-11-07T10:35:04.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "O Bom, o Ruim e o Embaraçoso: 10 comerciais que marcaram as eleições de meio de mandato",
+      "title": "O Bom, o Ruim e o Embaraçoso: 10 anúncios que marcaram as eleições de meio de mandato",
       "titleOriginal": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
       "publishedAt": "2026-11-07T10:03:35.000Z"
@@ -18,24 +25,10 @@
     },
     {
       "source": "New York Times",
-      "title": "Democratas, em ascensão, iniciam uma disputa para definir o futuro do partido",
-      "titleOriginal": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-      "publishedAt": "2026-11-07T10:02:07.000Z"
-    },
-    {
-      "source": "New York Times",
       "title": "Com tantos novos membros no Senado, a idade média está diminuindo. Para 63 anos.",
       "titleOriginal": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
       "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
       "publishedAt": "2026-11-07T09:58:34.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Resultados ao vivo da eleição de 2026 sobre a Medida 638 em Washington",
-      "titleOriginal": "2026 Washington Measure 638 Election Live Results",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTFBxck1yQUZOejFWdUk0TUxZcDBlYjlRbnJIUWVXZ2YxZWUza2hIZUtHeFhzdkxyYU5ZcGcxZHl0RzdjYU1kYl9UeTZTY1ZybVJHU2xCcTJPVDJhel9VRDhpLVZjMUU0Q2RPRXVkYTRwOTBQNkc5YmE2UVJoS28?oc=5",
-      "publishedAt": "2026-11-07T09:42:48.000Z"
     },
     {
       "source": "Axios",
@@ -71,6 +64,13 @@
       "titleOriginal": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
       "publishedAt": "2026-11-07T03:08:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Elon Musk apostou seu império no Texas. Agora, os democratas do estado querem colocá-lo sob controle.",
+      "titleOriginal": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVZsNTNhMFR3RTZST0VkeVNXVm52MndSd1VPbFJIUXlCZVBlQ2JJOUMtOEhxU0x6QXE0T29QaHUyRjkzRXBxRmRFNVhJOE45bVBrWTIxeE14TjFPOTNGRTI1bEpNWVZwQk1tMjIxLWFnV3I4NjZ1Unk5WU51QWZ5eXdoeDc?oc=5",
+      "publishedAt": "2026-11-07T03:00:00.000Z"
     }
   ]
 }
