@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-07T03:13:06.122Z",
+  "updatedAt": "2026-11-07T10:11:28.024Z",
   "count": 10,
   "items": [
     {
+      "source": "New York Times",
+      "title": "O Bom, o Ruim e o Embaraçoso: 10 comerciais que marcaram as eleições de meio de mandato",
+      "titleOriginal": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
+      "publishedAt": "2026-11-07T10:03:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Pedido misterioso complica importante processo sobre armas no Supremo Tribunal contra o Condado de Cook",
+      "titleOriginal": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
+      "publishedAt": "2026-11-07T10:02:14.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas, em ascensão, iniciam uma disputa para definir o futuro do partido",
+      "titleOriginal": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+      "publishedAt": "2026-11-07T10:02:07.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Com tantos novos membros no Senado, a idade média está diminuindo. Para 63 anos.",
+      "titleOriginal": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
+      "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+      "publishedAt": "2026-11-07T09:58:34.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "Resultados das eleições para o Senado dos EUA de 2026",
-      "titleOriginal": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-07T03:10:44.000Z"
+      "title": "Resultados ao vivo da eleição de 2026 sobre a Medida 638 em Washington",
+      "titleOriginal": "2026 Washington Measure 638 Election Live Results",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTFBxck1yQUZOejFWdUk0TUxZcDBlYjlRbnJIUWVXZ2YxZWUza2hIZUtHeFhzdkxyYU5ZcGcxZHl0RzdjYU1kYl9UeTZTY1ZybVJHU2xCcTJPVDJhel9VRDhpLVZjMUU0Q2RPRXVkYTRwOTBQNkc5YmE2UVJoS28?oc=5",
+      "publishedAt": "2026-11-07T09:42:48.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Como o Colorado votou nas propostas submetidas a plebiscito",
+      "titleOriginal": "How Colorado voted on ballot measures",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTURLejhOZXc4NjlNV3h1bWxLazQ2eHpER0dfbDB0MkNQVTl0RGVSRUpuRGVWYmNyVU1yT2E2MnhHZndhZEZWeXU4X2NzMndJQVluSDFma2d2TGtNYS1XNEFJNG9MWE5KOUU1Zi16YnktNkRxR1ZMbDVhXzEycVlJVXhYMA?oc=5",
+      "publishedAt": "2026-11-07T07:44:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Dez meses de guerra para conquistar 46 milhas quadradas: como a Rússia está fracassando no campo de batalha",
+      "titleOriginal": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
+      "publishedAt": "2026-11-07T04:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Departamento de Justiça dos EUA desiste da tentativa de obrigar a Califórnia a anular votos contestados",
+      "titleOriginal": "US Justice Department drops bid to force California to set aside disputed ballots",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGFjVjRiVjQ3UVh4U0NDVG1wWjdscjlGdEZ0TEZNdmNTVXBlR1l3SWdlRlJFYzRvLTFsUHdaQkFPNEI0SDQ2c0loSnN3ZTNHRk4xbC1NVENNU2FUcGlNd3djNnlZcG1FTmltdjJmN2w1ZEZabHdtVjZWZS1DQUY3Y2VzczlPWHowOW1FZjh1N0I3TnROaFFqTHNtUGVwV2RUa2tKYkxpdjdqZzA3cXkw?oc=5",
+      "publishedAt": "2026-11-07T03:41:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ex-governador do Partido Republicano: “Wisconsin é um estado democrata”",
+      "titleOriginal": "Former GOP governor: 'Wisconsin is a blue state'",
+      "link": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/",
+      "publishedAt": "2026-11-07T03:13:21.000Z"
     },
     {
       "source": "New York Times",
       "title": "A onda de obras de Trump em Washington, D.C., pode estar prestes a ficar mais intensa",
       "titleOriginal": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
-      "publishedAt": "2026-11-07T03:08:57.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que é preciso saber sobre Stephen Miller, o novo chefe de gabinete de Trump",
-      "titleOriginal": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-      "publishedAt": "2026-11-07T02:56:14.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "A principal agência de espionagem da China recrutou uma mulher que tinha como alvo Jensen Huang",
-      "titleOriginal": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-      "publishedAt": "2026-11-07T02:18:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Califórnia rejeita proposta de imposto sobre bilionários, o que representa uma vitória para os executivos e para Newsom",
-      "titleOriginal": "California rejects billionaire tax proposal in win for executives, Newsom",
-      "link": "https://thehill.com/business/6185092-california-voters-reject-wealth-tax/",
-      "publishedAt": "2026-11-07T02:12:13.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump sinaliza que os próximos dois anos serão combativos com a promoção de Stephen Miller",
-      "titleOriginal": "Trump Signals Combative Next Two Years With Elevation of Stephen Miller",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQklTWk85enBPOUxKci1UNlVPTGpOZERqYVdRLVJiZk9reU5WNi1McE1iYmlxSEdaR0U4UGlSa0JhU3E4RE9fb1VpYXJwbTRQNFZnbWhhdU96RXhHWmVZbTBkZXhFU1FEVnJwbF84eDR6bkRtVGdpNjhDaUxNaGt6Y1BoTU1XaTgydUVN?oc=5",
-      "publishedAt": "2026-11-07T02:01:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Wahab derrota colega democrata em disputa acirrada pela vaga de Swalwell na Câmara dos Deputados",
-      "titleOriginal": "Wahab beats fellow Democrat in heated race for Swalwell's House seat",
-      "link": "https://thehill.com/homenews/campaign/6182641-aisha-wahab-eric-swalwell-california-house-seat-democrat-miderms-2026/",
-      "publishedAt": "2026-11-07T01:49:38.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-assessor de RFK Jr. critica a Casa Branca por causa das prioridades da MAHA",
-      "titleOriginal": "Ex-RFK Jr adviser bashes White House on MAHA priorities",
-      "link": "https://thehill.com/homenews/administration/6205715-calley-means-susan-wiles-departure-maha/",
-      "publishedAt": "2026-11-07T01:47:20.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Ex-presidente do Paraguai é colocado em prisão domiciliar após colapso de banco",
-      "titleOriginal": "Ousted Paraguayan president placed under house arrest after bank collapse",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
-      "publishedAt": "2026-11-07T01:47:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Vance lidera esforços nos bastidores para um novo acordo com o Irã",
-      "titleOriginal": "Vance leads behind-the-scenes push for new Iran deal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTEp6MWZCeDhmaF9pcWdHYjB4STJHVlJ0TjBMT3dub2Q1OXE5d1owd0VZbnRjVWx6M3FpY2lzT0hJX1VNblYzLURFM0ctajQ1OGxlVm9ndTJjZzI4R2lEUWhPeHZGSUNSYUdLOC1kdzY?oc=5",
-      "publishedAt": "2026-11-07T01:10:41.000Z"
+      "publishedAt": "2026-11-07T03:08:58.000Z"
     }
   ]
 }
