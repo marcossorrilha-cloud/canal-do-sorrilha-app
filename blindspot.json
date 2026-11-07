@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-06T17:58:17.031Z",
-  "slot": "2026-11-06-PM",
+  "updatedAt": "2026-11-07T03:13:13.510Z",
+  "slot": "2026-11-07-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Jay Rockefeller, ex-governador da Virgínia Ocidental e senador dos EUA, que fazia parte de uma dinastia, morre aos 89 anos",
-      "titleOriginal": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjhzZ2FpMU1XR3J4TGdjcnNtUTBfS0ZVellYaHlFNVF1MDNjSE1XbUVDX0ZHQUp3UldLaUdOU1p4eGJQMXFPYWMtb0RQVGMxWmRlVjVSWWNNRFBzMzlRUU5yX1pBNGFaT0VkRlJDRC1mam9SRGZiMm5kc0oteVpWQU5hT1ZQdTc2b1VBYg?oc=5",
-      "source": "CNN",
+      "title": "Vários democratas voltam a pedir a suspensão das atividades dos centros de dados após a “onda azul”",
+      "titleOriginal": "Several Democrats renew calls for datacenter pauses after blue wave",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVlBaF9ySDJtNHBSYkZBYkVTQ1g4cHlER2ZIYnFzakVsUDBSTXpHVXhLU0lWVU83N05INjluWHZVWnBvcVg3YTlHTG5BU0pHRDFKY1NYYlFRZHBVMlQ2cDJmdzFteTV6NHFiYVpETkd1RThhTGFhdWIzWVVxRWRCQWUtUEFqTDFCU3hXbVk0amwyOWZHdWc?oc=5",
+      "source": "The Guardian",
       "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Atirador mata policial e fere outras pessoas durante tiroteio em ônibus público",
-      "titleOriginal": "Gunman Kills Police Officer, Injures Others During Shootout On Public Bus",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUJXOXJRRTc1ekswamhhbGhScVJiWExFV3llUDNBMlBLZDRSOXNaM2ZMM0hUOGptZnhDYU02SkZyTHpqNXB6SFVjSk5KWGJDVGc1d21pNnR1YndUYk9qTUVJamlJZkNxX2dnc0VaeVpqRllUYjc0OE0wZy0zT1F2bVFLS2c3eHlKeXhRUmYwZTJ5LVB5UmlqLWlUZlh1SGt1MmdGcEtB?oc=5",
+      "title": "Homem armado abre fogo em agência dos Correios de Iowa",
+      "titleOriginal": "Gunman Opens Fire At Iowa Post Office",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fQUhsYVp3bS0yNnhwQ3hIUzAwT2pVbmxrcUxydEJlN04tcWN1azdtZF9TQ0J3SW9vemZqcDNaWXptYXo3c1VvbzRGeUdueXNSckNOZzNhb0lMOXpmQ0MwWU9WNnZxamdfUkVkSjY3WnV6TU1zVXRF?oc=5",
       "source": "Daily Wire",
-      "coverage": 2
+      "coverage": 3
     }
   ]
 }

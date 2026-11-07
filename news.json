@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-11-07T02:48:41.490Z",
+  "updatedAt": "2026-11-07T03:13:06.122Z",
   "count": 10,
   "items": [
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-07T03:10:44.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A onda de obras de Trump em Washington, D.C., pode estar prestes a ficar mais intensa",
+      "titleOriginal": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+      "publishedAt": "2026-11-07T03:08:57.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O que é preciso saber sobre Stephen Miller, o novo chefe de gabinete de Trump",
+      "titleOriginal": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
+      "publishedAt": "2026-11-07T02:56:14.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A principal agência de espionagem da China recrutou uma mulher que tinha como alvo Jensen Huang",
@@ -15,6 +36,13 @@
       "titleOriginal": "California rejects billionaire tax proposal in win for executives, Newsom",
       "link": "https://thehill.com/business/6185092-california-voters-reject-wealth-tax/",
       "publishedAt": "2026-11-07T02:12:13.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump sinaliza que os próximos dois anos serão combativos com a promoção de Stephen Miller",
+      "titleOriginal": "Trump Signals Combative Next Two Years With Elevation of Stephen Miller",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQklTWk85enBPOUxKci1UNlVPTGpOZERqYVdRLVJiZk9reU5WNi1McE1iYmlxSEdaR0U4UGlSa0JhU3E4RE9fb1VpYXJwbTRQNFZnbWhhdU96RXhHWmVZbTBkZXhFU1FEVnJwbF84eDR6bkRtVGdpNjhDaUxNaGt6Y1BoTU1XaTgydUVN?oc=5",
+      "publishedAt": "2026-11-07T02:01:35.000Z"
     },
     {
       "source": "The Hill",
@@ -38,39 +66,11 @@
       "publishedAt": "2026-11-07T01:47:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Autoridades de Washington, D.C., pedem aos novos governadores democratas que retirem as tropas da Guarda Nacional",
-      "titleOriginal": "DC officials ask incoming Democratic governors to pull Guard troops",
-      "link": "https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-ask-incoming-democratic-governors-to-pull-guard-troops/",
-      "publishedAt": "2026-11-07T00:43:12.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Ao promover Stephen Miller, Trump reforça sua agenda de linha dura",
-      "titleOriginal": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-      "publishedAt": "2026-11-07T00:39:51.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Departamento de Justiça dos EUA desiste da tentativa de obrigar a Califórnia a anular votos contestados",
-      "titleOriginal": "US Justice Department drops bid to force California to set aside disputed ballots",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGFjVjRiVjQ3UVh4U0NDVG1wWjdscjlGdEZ0TEZNdmNTVXBlR1l3SWdlRlJFYzRvLTFsUHdaQkFPNEI0SDQ2c0loSnN3ZTNHRk4xbC1NVENNU2FUcGlNd3djNnlZcG1FTmltdjJmN2w1ZEZabHdtVjZWZS1DQUY3Y2VzczlPWHowOW1FZjh1N0I3TnROaFFqTHNtUGVwV2RUa2tKYkxpdjdqZzA3cXkw?oc=5",
-      "publishedAt": "2026-11-07T00:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Prime Video divulga trailer da série em duas partes sobre Melania Trump",
-      "titleOriginal": "Prime Video releases trailer for 2-part Melania Trump series",
-      "link": "https://thehill.com/blogs/in-the-know/6205637-prime-video-melania-trump-series/",
-      "publishedAt": "2026-11-07T00:12:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Senado votará a aprovação do projeto de lei sobre licenciamento",
-      "titleOriginal": "Senate to vote on advancing permitting bill",
-      "link": "https://thehill.com/newsletters/energy-environment/6205580-senate-to-vote-on-advancing-permitting-bill/",
-      "publishedAt": "2026-11-06T23:33:23.000Z"
+      "source": "Axios",
+      "title": "Vance lidera esforços nos bastidores para um novo acordo com o Irã",
+      "titleOriginal": "Vance leads behind-the-scenes push for new Iran deal",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTEp6MWZCeDhmaF9pcWdHYjB4STJHVlJ0TjBMT3dub2Q1OXE5d1owd0VZbnRjVWx6M3FpY2lzT0hJX1VNblYzLURFM0ctajQ1OGxlVm9ndTJjZzI4R2lEUWhPeHZGSUNSYUdLOC1kdzY?oc=5",
+      "publishedAt": "2026-11-07T01:10:41.000Z"
     }
   ]
 }
