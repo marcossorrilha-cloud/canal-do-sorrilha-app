@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:30:00.427Z",
+  "updatedAt": "2026-11-07T20:53:31.664Z",
   "count": 10,
   "items": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "source": "New York Times",
-      "title": "Após as eleições de meio de mandato, a idade média no Senado cai para 63 anos",
+      "title": "Após as eleições intermediárias, a idade média no Senado cai para 63 anos",
       "titleOriginal": "After the Midterms, the Average Age in the Senate Falls to 63",
       "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
       "publishedAt": "2026-11-07T20:17:37.000Z"
@@ -59,18 +59,18 @@
       "publishedAt": "2026-11-07T20:00:00.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Após a derrota esmagadora do trumpismo nas eleições de meio de mandato nos EUA, o mundo tem dificuldade para voltar a confiar nos Estados Unidos",
+      "titleOriginal": "After the US midterm rout of Trumpism, the world struggles to trust America again",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXNYQ2lKWTBvdUM0cEp2ekZuSkxnUWYxRFJHSXEwaXpNaFRMM09BQjhteF9sZGZraDVKY1l2djlmZnByeWlONWZxZ3lZdWVlSFVsaFFUMjRhNEF6WWlGUXRiUmIwOUFYLXROVTBXZHE0eHZXTFhEaGhjRVExcW1tVkJfX2pSY21OZ0Z3bE5rWDJYOEhndGFLbVczYw?oc=5",
+      "publishedAt": "2026-11-07T18:06:00.000Z"
+    },
+    {
       "source": "New York Times",
       "title": "Departamento de Justiça intervém em ação judicial contra a Planned Parenthood no Texas",
       "titleOriginal": "Justice Department Intervenes in Planned Parenthood Lawsuit in Texas",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html",
       "publishedAt": "2026-11-07T17:54:25.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Qual era a reclamação dos eleitores? Os preços da carne bovina",
-      "titleOriginal": "What was voters' beef? Beef prices",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTNWRLS3dybEJEQ29nYS03Qm0wcElfMzg5Rkx5bUFselhnQTk3UmdoWnhxY08ydlJkYzdxdFFaeFlfZFFOWkZnbkJqWGxSbkRGRWlNN2F2bDNIOUlEYXJOVUZDVTBEZldUYmFjelZWcjRTOXJzVWJn?oc=5",
-      "publishedAt": "2026-11-07T17:28:35.000Z"
     }
   ]
 }
