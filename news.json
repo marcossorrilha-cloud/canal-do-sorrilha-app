@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-08T19:09:06.604Z",
+  "updatedAt": "2026-11-08T19:42:55.494Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Cobertura em Manhattan de um produtor vencedor do Grammy é colocada à venda por US$ 11 milhões",
+      "titleOriginal": "Exclusive | A Grammy-Winning Producer’s Manhattan Penthouse Lists for $11 Million",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1lTRWxhbEFDelhPNmhUbjhPekRyY0M2b2tGTGpBQ09lY2VNd3RQaVAtT3hucnFmanhkUFR5bXliR3RLQTNMUy04cEY1dDhvYmFfVndGZW9YWEt1SndIQjRYeEx1TG9KSVVleUc3bXFwSy1zR0VHYWdvb29NS3g3eXV5TTNSNjdtaWFReEZR?oc=5",
+      "publishedAt": "2026-11-08T19:33:57.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Elon Musk apostou seu império no Texas. Agora, os democratas do estado querem colocá-lo sob controle.",
+      "titleOriginal": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVZsNTNhMFR3RTZST0VkeVNXVm52MndSd1VPbFJIUXlCZVBlQ2JJOUMtOEhxU0x6QXE0T29QaHUyRjkzRXBxRmRFNVhJOE45bVBrWTIxeE14TjFPOTNGRTI1bEpNWVZwQk1tMjIxLWFnV3I4NjZ1Unk5WU51QWZ5eXdoeDc?oc=5",
+      "publishedAt": "2026-11-08T19:31:39.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Jeffries apoia o processo de impeachment contra Hegseth enquanto os democratas pressionam por responsabilização",
+      "titleOriginal": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+      "publishedAt": "2026-11-08T19:22:52.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Futuros do petróleo caem enquanto o mercado mantém esperanças na diplomacia no Oriente Médio",
+      "titleOriginal": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5",
+      "publishedAt": "2026-11-08T19:16:44.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O empresário de Dolly Parton retira a ação judicial contra o sobrinho da cantora",
+      "titleOriginal": "Dolly Parton’s Manager Drops Lawsuit Against Singer’s Nephew",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazN0dGxRRDRiUFFBVHhwZXNuRVJEUXUyUjlSS0pQYVV2Mm8zQXZZSWxDVWJRR1R6Rzd2S1RJWkV2aE41MUNZai1DR0taeFEyMFFFNDlhUjdTNWhaamRLMWlhUkdjY3pwLWswYUNvZEFvYlAxTjZtZjRSdmVoVGRWUVJLNGZsNXBTZ0p3SUVGOWpDa3lrV2dSYjVPM3o3WjJ2aHNTQg?oc=5",
+      "publishedAt": "2026-11-08T19:04:15.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Os eleitores que fizeram o Congresso se afastar de Trump",
@@ -24,13 +59,6 @@
       "publishedAt": "2026-11-08T18:30:44.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Jeffries apoia o processo de impeachment contra Hegseth enquanto os democratas pressionam por prestação de contas",
-      "titleOriginal": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
-      "publishedAt": "2026-11-08T18:12:17.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Exclusivo: Trump pediu a Netanyahu que avançasse com o plano de paz para Gaza em ligação após as eleições",
       "titleOriginal": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
@@ -43,34 +71,6 @@
       "titleOriginal": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
       "publishedAt": "2026-11-08T18:07:24.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O procurador-geral de Trump não descarta a possibilidade de processar democratas que ameacem abrir investigações",
-      "titleOriginal": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVZiN25FOFNGUDl4UjFlY2VIZ0QzLUg4TzhMWk51UXpkT0RKMnVJME1XR1l3ejNHVHNvWHdTbXJlNDF6V1VuM0pSbi1KM3lRZFByZEQwQWVPSGZZdENFR1lxMG5ZWGh1dVNEa3lPTDN0cGJVdmhKWUZtX1NSbDJHb3p6OC1yUktN?oc=5",
-      "publishedAt": "2026-11-08T18:03:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Câmara dos Deputados se prepara para abrir processo de impeachment contra Pete Hegseth após a derrota do Partido Republicano nas eleições de meio de mandato",
-      "titleOriginal": "House poised to impeach Pete Hegseth after GOP midterm defeat",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2RtQjlxZWRELUVPUWlKTG1rN0I2WjNBbjlmTG96em1sakN3OGppdUZrbkdmb0tHVkNIX2RrNEllbGxmSE1FV2xnV2Y4c0twaUcxZW9GeF90LXRhaWplUzlDM0JqNEhGeXBfSFVFNWxNN2Vac3d0SFprSDBySWs1VFB3MmFmSVozd0E?oc=5",
-      "publishedAt": "2026-11-08T18:03:57.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sanders afirma que os democratas devem responsabilizar Trump, mas “não podem dedicar todo o nosso tempo” a isso",
-      "titleOriginal": "Sanders says Democrats should hold Trump accountable but 'cannot spend all of our time'",
-      "link": "https://thehill.com/homenews/senate/6206576-sanders-democrats-trump-accountability/",
-      "publishedAt": "2026-11-08T17:21:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Ex-assessor de RFK Jr. solicita documentos sobre a influência de Wiles na política de saúde",
-      "titleOriginal": "Ex-RFK Jr adviser requests records on Wiles's health policy influence",
-      "link": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
-      "publishedAt": "2026-11-08T17:13:43.000Z"
     }
   ]
 }
