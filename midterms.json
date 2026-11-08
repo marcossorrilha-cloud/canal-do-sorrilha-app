@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T03:13:13.000Z",
+  "updatedAt": "2026-11-08T06:42:34.000Z",
   "source": "Split Ticket",
   "sourceUrl": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
-  "asOf": "07/11/2026",
-  "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 07/11/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
+  "asOf": "08/11/2026",
+  "note": "Fonte: Split Ticket (modelo publicado no The Argument), leitura de 08/11/2026. Câmara e Senado mostram a chance de cada partido conquistar a maioria; nos estados, a probabilidade de vitória do candidato favorito. Modelo probabilístico com simulação de Monte Carlo.",
   "house": {
     "dem": 92.4,
     "rep": 7.6
