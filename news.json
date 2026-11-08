@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:42:26.786Z",
+  "updatedAt": "2026-11-08T07:22:15.946Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,14 @@
       "title": "Resultados das eleições para o Senado dos EUA de 2026",
       "titleOriginal": "2026 U.S. Senate Election Results",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-08T05:58:41.000Z"
+      "publishedAt": "2026-11-08T07:21:13.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O Kremlin espera que a reviravolta nas eleições nos EUA não altere a postura de Trump nas negociações sobre a Ucrânia",
+      "titleOriginal": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUxIWEJndWwxMnBKclZqYl9iRzdUc18yQXlDR0p6WFUzX3VFQnV3UVRuZ2FJV3QtV2pMcU8tZDhsdUdYY0ZJVU5rSjN0V3M0UjJYOEZuSFczOUp6c0FDMDFPNlRsUk5tSXB5ZDEzSTRLQmJRVXZuYXl0U0Z1cTVOVk1wRDNKMmQ0aHczOWM1WWpaVHNiZ0gxc3JQcHRHZU00?oc=5",
+      "publishedAt": "2026-11-08T05:00:00.000Z"
     },
     {
       "source": "AP News",
@@ -29,6 +36,13 @@
       "titleOriginal": "Scoop: First major White House departure as Miller takes charge",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDJWbEg4ZTZlMDdfRWZYTW9obDZtdmJFN3ZUeDUyd05mUVVNYk5vU1dUVVRQZDJab1ZjZDZ4UDhxd2dRby1LVU5MRXg0SlNrN255MmZLUG1mQ2Z6QVJqVnBmNThyUElKZWV0dGpKTzhwNHFmdnRTNHRaZlVVcWV6Rw?oc=5",
       "publishedAt": "2026-11-08T03:36:14.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "\"O Congresso vai investigar\": Jensen Huang, CEO da Nvidia, enfrenta inquérito por supostas ligações com espionagem chinesa",
+      "titleOriginal": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
+      "publishedAt": "2026-11-08T03:23:09.000Z"
     },
     {
       "source": "Axios",
@@ -57,20 +71,6 @@
       "titleOriginal": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
       "publishedAt": "2026-11-08T00:37:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "\"O Congresso vai investigar\": Jensen Huang, CEO da Nvidia, enfrenta inquérito por supostas ligações com espionagem chinesa",
-      "titleOriginal": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
-      "publishedAt": "2026-11-08T00:36:50.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump pede a Dana White, da UFC, para ser seu secretário de imprensa",
-      "titleOriginal": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
-      "publishedAt": "2026-11-08T00:20:00.000Z"
     }
   ]
 }
