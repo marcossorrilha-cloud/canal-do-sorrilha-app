@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-08T13:53:48.776Z",
+  "updatedAt": "2026-11-08T15:13:37.585Z",
   "count": 10,
   "items": [
+    {
+      "source": "New York Times",
+      "title": "O Departamento de Justiça considerou a possibilidade de apontar o “The Times” como cúmplice no caso do vazamento envolvendo Comey",
+      "titleOriginal": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+      "publishedAt": "2026-11-08T15:09:41.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "A goleada dos democratas redesenha o mapa do poder estadual",
+      "titleOriginal": "Democratic thrashing redraws the map of state power",
+      "link": "https://www.politico.com/news/2026/11/08/democratic-thrashing-redraws-the-map-of-state-power-01154607",
+      "publishedAt": "2026-11-08T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A China revela como pretende chegar à Lua antes da NASA",
+      "titleOriginal": "China reveals how it intends to beat NASA back to the moon",
+      "link": "https://thehill.com/opinion/technology/6204829-space-race-nasa-vs-china/",
+      "publishedAt": "2026-11-08T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Giorgia Meloni atribui a hackers pró-Rússia a responsabilidade pelo vazamento dos dados pessoais da ministra das Relações Exteriores na dark web",
+      "titleOriginal": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister's personal data to dark web",
+      "link": "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
+      "publishedAt": "2026-11-08T14:27:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Três maneiras pelas quais o novo Congresso pode impedir a guerra de Trump",
+      "titleOriginal": "Three ways the new Congress can stop Trump’s war",
+      "link": "https://thehill.com/opinion/congress-blog/6205683-congress-tools-end-iran-war/",
+      "publishedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Os democratas planejam promover a energia limpa para reduzir as contas e contestar a agenda de Trump em relação aos combustíveis fósseis",
+      "titleOriginal": "Democrats plan to push clean energy to lower bills and challenge Trump’s fossil fuel agenda",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHFjRVMzbEZndUhYM0sycFZhdi1qQWotWnFnQU56YjF0T1pWYXFTSGRUclQxWmVMUmRRRnFnRTFsUFVnYWc5VExMZnM5c3NOVFBzWDFIdVZWSmhvSzN3a1pqVGlhempaRzItTTMtR1JpaUUyMDZnWUI5d3d6Q2lsQ0tuVWdjbDB5UzAyZk9ObWVzb2RyTERFdG9TZFRjTTRDeUpsT3FBV3Z1bURCeV9WLWtn?oc=5",
+      "publishedAt": "2026-11-08T13:59:00.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Os democratas venceram — agora precisam fazer uma limpeza interna",
@@ -18,59 +60,17 @@
     },
     {
       "source": "AP News",
-      "title": "Uma língua que transmite um sentimento de pertencimento: Dicas para aprender a língua materna de seus ancestrais",
+      "title": "Os eleitores exigiram medidas de alívio econômico. Trump e os democratas enfrentam decisões difíceis sobre como atendê-las",
+      "titleOriginal": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmZSMGRvWVljbG14SGpMOGtMNGRvT1ZYUTR1MDM3TFpNbFNjRFlzNDlrOTgxZ1FSUmNYcHhYdVdGd0xWMUpvdnFvR0lBM1BKRDBCUlJuWmxrN0d0aHpMS2RGRWVreEU5YldVaVYteVhqaGtQNllfLW9na3lrYjhqTklKMUdBTzBPekZqVXdod1BjeTVONGx0dVdCeWxxVlA5Wm5V?oc=5",
+      "publishedAt": "2026-11-08T12:44:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Uma língua que transmite um sentimento de pertencimento: dicas para aprender a língua materna de seus ancestrais",
       "titleOriginal": "A language of belonging: Advice for learning the mother tongue of your ancestors",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzJFYTNKSXZzLVZvd0ZoTzZDQnloQ1pKZ3Z1MXNqeTA3M0ZTTFlzb3VKLTZ4MHM3S1Z6Q1hHYUw4bDhqZlJXZWtveE1GS29US0R3OS1sQ1BqYy02dDNJRzRsSWdMN2wzU21GWkNYdEhWTk1ESXRRZ2FWeFRCRVB0cDl5ejZ2OGF1NU1GY1FrQlRnekllOWtlc0ZydEFjVHlzeHZYdHNGNUJvTEs0OUI1cQ?oc=5",
       "publishedAt": "2026-11-08T12:19:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O quinto governador católico consecutivo da Califórnia é um exemplo das profundas raízes dessa religião",
-      "titleOriginal": "California’s fifth consecutive Catholic governor exemplifies the faith’s deep roots",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTF6Y1RSWnhjLThWODY4c0ktZ05zTmItS1FBbWJKQVRJdVlmbmphaXBXX0Y2NFFWQXBOWTNhTzd0RE9POFVfa3lzM04xWnoxYnp3OEhfZ0RRbjk5N25faE1QT2ZKRXpna0ZMVk9SUnNvUmFxbXdYZlNpWFFjNUZrd2k1Zi1Dd1ItMHpzWWpwUXFyLTVzNTd6cEp2c21HbndFYU9rNkd3bkczX1k5dnV6MWQ0VWE?oc=5",
-      "publishedAt": "2026-11-08T12:16:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Hakeem Jeffries precisa lidar com um Partido Democrata com prioridades conflitantes",
-      "titleOriginal": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVc1d3BwWURXVUhJM1dBc0hQRkdobXJDVVQ1RkRSMDdRcldvamVOSVNWbDBMNmpvSUtaalMtb0h5UmdVdEpVaGZ1M1c0NDFCSXZXVHdnc0Q3SlgxMkMyUHlXNHc3ZGlDY1JodWNZc1BacFVnZjhkdVRJakJZeThHS1p0d1h4YzMzczFibWtvOE5XQ1NtRWg3X0lzR1FPOUNqQjM1Y1VYWU5mUVFvS3pDLThR?oc=5",
-      "publishedAt": "2026-11-08T11:59:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A Rússia tem como alvo as equipes de emergência no local de um ataque mortal no sul da Ucrânia",
-      "titleOriginal": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
-      "publishedAt": "2026-11-08T11:49:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Resultados das eleições intermediárias de 2026: disputas pelo Senado, pela Câmara dos Deputados e para o cargo de governador",
-      "titleOriginal": "2026 Midterm Election Results: Senate, House and Governor Races",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
-      "publishedAt": "2026-11-08T11:31:48.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Mandem Glenn Youngkin para a Casa Branca",
-      "titleOriginal": "Opinion | Send Glenn Youngkin to the White House",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3JsZXlGcmRiSUhBQldjSnQ5QXlOb3YyUS0yZlRPcGlnT2dxWTZRY1h6LUdvdWxzSUI2Uk83T2R3Wld6ZkVJQ2hCNmNVUVdILWNPRFVjVXJ2ZjdkSUFDYlFidFBoRm9qeFYtQ1hMZmJFQ3p3VE9PUXQ0R2Nsb0dmZQ?oc=5",
-      "publishedAt": "2026-11-08T11:27:26.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Texas, Iowa e Geórgia se preparam para novas disputas na área da educação sob governos democratas",
-      "titleOriginal": "Texas, Iowa, Georgia brace for new education fights under Democratic governors",
-      "link": "https://thehill.com/homenews/education/6205094-texas-iowa-georgia-schools-classrooms-students/",
-      "publishedAt": "2026-11-08T11:12:28.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Resultados das eleições intermediárias provocam uma “onda de juventude” na política americana",
-      "titleOriginal": "Midterm results deliver ‘youth quake’ to American politics",
-      "link": "https://thehill.com/policy/healthcare/6205511-younger-candidates-win-midterm-wave/",
-      "publishedAt": "2026-11-08T11:00:00.000Z"
     }
   ]
 }
