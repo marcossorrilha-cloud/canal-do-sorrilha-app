@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:57:42.570Z",
+  "updatedAt": "2026-11-08T00:36:49.985Z",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,6 @@
       "titleOriginal": "2026 U.S. Senate Election Results",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
       "publishedAt": "2026-11-07T23:56:54.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Moscou confisca fábricas da Japan Tobacco na Rússia",
-      "titleOriginal": "Moscow Seizes Japan Tobacco’s Russia Factories",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJSYldodXRIdGxoX0t1RmdMSV9HRDM4TEh6SXBpc1BvMU5GWW1sNUN1SW1QNmd3Q0cycW1GWnlHanduYXNfQ3JiTmxoTTJaXzg2OXZzLWNkN095UThYNFFJYVdRWm9uSDJhQ1QxaEg5bFU0RE5fMURtcFktajE1TU4zZ291bDBkajlyTzI4UFppZ2l3cFhPYWF5eS1DNnc?oc=5",
-      "publishedAt": "2026-11-07T23:54:19.000Z"
     },
     {
       "source": "The Hill",
@@ -32,10 +25,17 @@
     },
     {
       "source": "AP News",
-      "title": "Melania Trump e a LSU anunciam doação de US$ 7,2 milhões para financiar bolsas de estudo destinadas a ex-alunos que passaram por acolhimento familiar",
+      "title": "Melania Trump e a LSU anunciam doação de US$ 7,2 milhões para financiar bolsas de estudo destinadas a ex-alunos que passaram pelo sistema de acolhimento familiar",
       "titleOriginal": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
       "publishedAt": "2026-11-07T22:24:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "\"O Congresso vai investigar\": Jensen Huang, CEO da Nvidia, enfrenta inquérito por supostas ligações com espionagem chinesa",
+      "titleOriginal": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
+      "publishedAt": "2026-11-07T21:20:59.000Z"
     },
     {
       "source": "Axios",
@@ -45,15 +45,8 @@
       "publishedAt": "2026-11-07T21:11:59.000Z"
     },
     {
-      "source": "Axios",
-      "title": "\"O Congresso vai investigar\": Jensen Huang, CEO da Nvidia, enfrenta inquérito por supostas ligações com espionagem chinesa",
-      "titleOriginal": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
-      "publishedAt": "2026-11-07T21:06:45.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "O Bom, o Ruim e o Embaraçoso: 10 anúncios que marcaram as eleições de meio de mandato",
+      "title": "O Bom, o Ruim e o Embaraçoso: 10 comerciais que marcaram as eleições de meio de mandato",
       "titleOriginal": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
       "publishedAt": "2026-11-07T21:00:41.000Z"
@@ -71,6 +64,13 @@
       "titleOriginal": "Rep.-elect Ojeda posts tribute to father who died after midterms: 'He held on'",
       "link": "https://thehill.com/homenews/state-watch/6206210-ojeda-dedicates-victory-father/",
       "publishedAt": "2026-11-07T20:44:51.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Após as eleições intermediárias, a idade média no Senado cai para 63 anos",
+      "titleOriginal": "After the Midterms, the Average Age in the Senate Falls to 63",
+      "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+      "publishedAt": "2026-11-07T20:17:37.000Z"
     }
   ]
 }
