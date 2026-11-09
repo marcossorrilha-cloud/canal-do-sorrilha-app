@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-08T23:43:32.914Z",
+  "updatedAt": "2026-11-09T02:58:28.581Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Trump se reunirá com o primeiro-ministro do Catar para discutir os esforços de mediação com o Irã",
+      "titleOriginal": "Trump to meet Qatari prime minister about mediation efforts with Iran",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlDY3R3QlVMOE8ydE15X3lId2x2aFNSMnhWd2w2UXI0MmxHVUk4M1lTV3JGSDc2aTZpcTZlTm9nOVlUOXRpOHlRSDBEc0VUQnZLS2xaeWlxREJGVWhuMHViblprZVNXYWRVVzVDYXd0UUVXZ3pXWTJINXFsTXNRTHZFa3c?oc=5",
+      "publishedAt": "2026-11-09T02:50:55.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Blackstone lidera investimento de US$ 3,1 bilhões na participação da Mitsubishi na LNG Canada",
+      "titleOriginal": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMExNQUM3VkdXdjRocldFZ090VTVla0ZGMkd1Um9CN1pCVTQtRGN4cnZPaVQweDg4Mi1IcmxIYnNPNl9iSHdjYVJrZlRIUXlrMDJJRGlaWGhvSjZrSUVJa0FaQl80MC1ybWJDOVJXWUdPMVRubHZuOGhUSVJBaGJqMDY5T0RuRHVpTnF5clF3Wmd5bjlqQm5Ba25KMmVkUzJpYS0wZlFOc3lIYm4tRlJnMHg1VDc2eFFoTjhuazRn?oc=5",
+      "publishedAt": "2026-11-09T02:43:31.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump afirma que o “ódio” entre Zelensky e Putin é o principal obstáculo para o fim da guerra",
+      "titleOriginal": "Trump says ‘hatred’ between Zelensky, Putin is main obstacle to ending war",
+      "link": "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
+      "publishedAt": "2026-11-09T02:41:43.000Z"
+    },
     {
       "source": "Wall Street Journal",
       "title": "Casa da Semana: Uma casa geminada de tijolos do século XIX na Filadélfia",
       "titleOriginal": "House of the Week: A 19th-Century Brick Row House in Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VtaW1jYW1tNml6WHRvZUNpVVhISXc1VmdGakl1bjQ5RDREUHh1VUZkdGNxdXdnVE16TEVoWnNFTGJaTDBKVmJab2haTGdVd1VmQnc3dVZBZ2NOM05wQTJSVmpLcGw5TGRBVHVKN1VKSDFKMnVsTDJKQ0pJWm1HRHdGcXcxNEF1a01ZbVhfWmVhUng3cFRRVUFzOA?oc=5",
-      "publishedAt": "2026-11-08T23:34:07.000Z"
+      "publishedAt": "2026-11-09T02:34:08.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Opinião | Caos eleitoral no condado de Westchester, em Nova York",
-      "titleOriginal": "Opinion | Election Chaos in Westchester County, N.Y.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFpwaWgwZGNEY0F1cmpzZTZoSm5teklTTFpEem9mWnFHQmFGcjVpTGV6OGRucEp4cmNBamFRYjl3amNhMl9xZS1vamo2ZmcyZVJWQi1LRld1SlpITXBSaUtRN3BXTHlJX29kVGQ5N2tLcWVTb2prSDJFWXBETjRJUFRIOUtfMklud2dvWnV5LXkzTlhmMURBRA?oc=5",
-      "publishedAt": "2026-11-08T23:18:20.000Z"
+      "title": "Ações do setor de saúde caem à medida que a queda generalizada no mercado se alastra",
+      "titleOriginal": "Healthcare Stocks Fall as Market Rout Spreads",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzZIb3Q5NG5tdV9oRGRhUFlnVmc5dVBvcy0wRTZuWlJZMTdnNUo3ck9LM0ZTVTJ5bUdINEVmQUN1VU93XzA4cU0ybEJYODJTYW1rTW92MVI4WEFSY2daUElxbFRjdlhSeVA3X29rU2VNZzluMzExNUJ6UVdhWGk3VUMxaGM0bDNjQzBFWFpYVlZhNTA?oc=5",
+      "publishedAt": "2026-11-09T02:24:14.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Alegria e lágrimas enquanto os americanos acompanham a eleição",
+      "titleOriginal": "Cheers and Tears as Americans Take In the Election",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjNxNGt4cHhqZGpjWXRWcXM3U1FLZVpPWVQtWjBwU3FMYmg4eDJzbzIwWEFNb0s5RUhIdHJYMGQtcVQwamNyOHBPQ1pzY1c3RGxtYWNDcHc0MmFETlgtTmoxRHFlUldZUXpRVzJBSVlFSHJ0U1p2SlBhLXJPV2R5cWI0d1o4MHFxa1lwTTl5VnVHVllRZnE0NjBlU1JSMVRGaTI2V0lJMA?oc=5",
+      "publishedAt": "2026-11-09T02:22:40.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A OpenAI contrata o ex-secretário do Exército Dan Driscoll para um cargo na área de segurança cibernética",
+      "titleOriginal": "OpenAI Hires Former Army Secretary Dan Driscoll to Cybersecurity Role",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmRFM0NiT29ENURKdXhSMjBHaU9MS25FUGd2dnJHeXh6Q2lPd1FpUXpJWHBUU0FpRVdqcnh3QzhuLWZDRlVqRmVVQVIyaWhKdVZ2MFFXU0t5U2EteGNwamMxV0FEUU83WTZpQnFhODA5M3JsdldoaEI4Wjk2dDdpV1owY3lPUU1JS0RuUmJmNUFCa3Q5TE1RLTExX1lKOUpXQlhmTFY2cjVGSDIyWEszWkZOMU5HTW81Q1ktdzhKTktUVU0?oc=5",
+      "publishedAt": "2026-11-09T02:18:17.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Biden afirma que a saúde o impedirá de promover o livro, já que o câncer “me deixa mais lento”",
+      "titleOriginal": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+      "publishedAt": "2026-11-09T02:14:35.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Voo de deportação de iranianos dos EUA foi cancelado no último minuto, afirma advogado",
+      "titleOriginal": "Deportation flight of Iranians from US scuttled at last minute, attorney says",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVF0ZXBvcU0tWmZJZ1BlQTJQVlFxak9rc1dhcmY0NkV6Wkg0Vy1SU0ZWdGFCNTdPRFB2eGZXRURGQTI1eThnU2UyVVIyMjl0c3Z2cjU0WkwydnBNMzE4TFQzVk1pYkdqM052VE1ZcWtoOFlldTEtV3o5VUtHNUFpUU9haFBNOG95RmhOUldTenBiX3FzUFppcWhwWFB2MjZtQlA4VGJkYw?oc=5",
+      "publishedAt": "2026-11-09T02:05:00.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "Opinião | E se os republicanos não perderem?",
       "titleOriginal": "Opinion | What If Republicans Don’t Lose?",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMS1pN2htYy11dGJ1NXQwNGRDbW9zQ1ZTQlpPMkNMUnpCWWxBdGhBMHk3NDVRNXdfbjBrY0dvOFA4TWxtX3NEeHc4Q1lvcUozeEM2T2hpQnhlelFMS3RrSFk1ZG1RbFpuTXFtU0dMdm8yS0VvTE1mOWRxQXRWWTRoYVl6V3pzMGpvdWc?oc=5",
-      "publishedAt": "2026-11-08T23:00:20.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O discurso de Trump na segunda-feira, no Reflecting Pool, em meio a grande agitação, é um final adequado para as eleições de meio de mandato",
-      "titleOriginal": "Trump’s Monday Speech at High-Drama Reflecting Pool Is an Apt End to Midterms",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVFOcHFhcHlyTTVFOVhkNkFSVGNPUDhJXzUxcE14MV9vVmdOaVp3TTZBVlNScnVUeS16MlBiNUFoY3BxRlA5aVpCNENhZVE3aWpCNmpYVkkxNmVMTERvSTVGcHdyeEp1Y1hpMlhSUmdOVUVUQWhTSjRmZzZDNWRmSjh2UU41d29QaGdWdEFHWURLNnFpZ3I1eXo3b2FVTzFlTm1ScFVfTW9HOV8yNVVxNE5xaFo?oc=5",
-      "publishedAt": "2026-11-08T23:00:18.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O Departamento de Justiça considerou a possibilidade de apontar o “The Times” como co-conspirador no caso do vazamento envolvendo Comey",
-      "titleOriginal": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-      "publishedAt": "2026-11-08T22:59:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Republicanos de olho nos “Alligator People” da Flórida para 2028",
-      "titleOriginal": "Republicans eye Florida's \"Alligator People\" for 2028",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QVXRDQmktMUZyU3hLUjJhWVRvOXIwV2pqZHhTZDVVRl95X1VhNDFTNloyOWJaQ245Umw3eUJmcFpqTVlfYmpiZ0tpdmNnNndfdklQQmFxS1h4Ukt6dDlTN2NkYkdOWWM4MDN6TQ?oc=5",
-      "publishedAt": "2026-11-08T22:44:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A polícia prende suspeito de um tiroteio fatal na Universidade Estadual de Winston-Salem durante o fim de semana do homecoming",
-      "titleOriginal": "Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTR3OXF3aHFnTy1Wa013a0E3aTNnYnR6OEo2V1JnZERvMzZicU4xT28tNTRhcWJYT0tld250UTFaM2ZiRnlsUTFnUzFxVnY4N1F3eXdfY04tOG9iMVFVOTN3UWlVcmUxUFF6Zi1rNV9NMDZGcjMxZFNxSFVyR0lTVVVpTUJ3MWFPbkNua2QteWRZYnhpWVBEMg?oc=5",
-      "publishedAt": "2026-11-08T22:41:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Kremlin espera que a reviravolta nas eleições nos EUA não altere a postura de Trump nas negociações sobre a Ucrânia",
-      "titleOriginal": "The Kremlin hopes the US election shake-up won’t shift Trump’s negotiations on Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUxIWEJndWwxMnBKclZqYl9iRzdUc18yQXlDR0p6WFUzX3VFQnV3UVRuZ2FJV3QtV2pMcU8tZDhsdUdYY0ZJVU5rSjN0V3M0UjJYOEZuSFczOUp6c0FDMDFPNlRsUk5tSXB5ZDEzSTRLQmJRVXZuYXl0U0Z1cTVOVk1wRDNKMmQ0aHczOWM1WWpaVHNiZ0gxc3JQcHRHZU00?oc=5",
-      "publishedAt": "2026-11-08T22:38:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Cobertura em Manhattan de um produtor vencedor do Grammy é colocada à venda por US$ 11 milhões",
-      "titleOriginal": "Exclusive | A Grammy-Winning Producer’s Manhattan Penthouse Lists for $11 Million",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1lTRWxhbEFDelhPNmhUbjhPekRyY0M2b2tGTGpBQ09lY2VNd3RQaVAtT3hucnFmanhkUFR5bXliR3RLQTNMUy04cEY1dDhvYmFfVndGZW9YWEt1SndIQjRYeEx1TG9KSVVleUc3bXFwSy1zR0VHYWdvb29NS3g3eXV5TTNSNjdtaWFReEZR?oc=5",
-      "publishedAt": "2026-11-08T22:33:57.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "As reservas cambiais da China registraram um ligeiro aumento em outubro",
-      "titleOriginal": "China Forex Reserves Edged Up in October",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEU0WkZIaWhfN2ZoRjdJUTdIM2p6OVppSUtuVkxad3prd1FTaFdvb1dPWlVHY3kyMnpiSGhHbmQ4NkpQN1JTWnRoWEthRGlvbzBZRXduYnBJVS16Q0R4ckFLR1UyV2w3WXlWZFpUZXBSa2hMX1VCSUQxbmZHLVhPaTU0ZWpZVjlMZ1drd1JUbmV5Vk5RODZxcw?oc=5",
-      "publishedAt": "2026-11-08T22:33:54.000Z"
+      "publishedAt": "2026-11-09T02:00:16.000Z"
     }
   ]
 }
