@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-10T04:20:57.056Z",
-  "slot": "2026-11-10-AM",
+  "updatedAt": "2026-11-10T17:51:13.072Z",
+  "slot": "2026-11-10-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O Irã invadiu centenas de refrigeradores de supermercados franceses, afirma a França",
-      "titleOriginal": "Iran hacked hundreds of French supermarket refrigerators, France says",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "Opinião | Foi assim que os democratas venceram as eleições de meio de mandato",
+      "titleOriginal": "Opinion | This Is How Democrats Won the Midterms",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmFRV202VUVaeE9Ialh4RlVkX29RM0VmNDh3ZVNZdnZhMVpmemIzdGNhZmVkc1hPSWd3UnJRWVNQMTlWbWdkX3RNRkdxRS1zOGVLa3hjeWY5eTB6NVUxRW5mWHAzMGk5bHZiQ3p6cnR0Q2ZUeDlRdUR1TW1Cd0M3Uw?oc=5",
+      "source": "New York Times",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Republicanos se concentram na integridade eleitoral nas disputas ainda sem resultado para a Câmara dos Deputados da Carolina do Norte",
-      "titleOriginal": "Republicans Focusing on Election Integrity in Uncalled NC House Races",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXVtVlBKR0l2a1g3NHFWWDkwRDVoUnZFRnhoX2xhcjZmcURhVE41QVgtd1A4dmx0VFM1NlBVMnJmZzZKNC02R2N1M25CaWhIRkJSUWxNRWMweVBXODVtMGVlSE54VGtaT002OGdXU242ZXl6dkJoWU52YkVTaEhnMDl1WlByM0NDMllzZkFSdmN1bXU0SkxWZmpBUjNDeHJBRkNJR2JodjUtQi1RVjFkR1dodHFRWnNfTnfSAb8BQVVfeXFMUDNqbURHRmFqVUNxX2tlZjVVaU9odnFhUGI3eFFkLUVUWDNneWJXRTNzQ2lFRnpzd3pYNGZVSWZlSDBOVDFHbE5JeGFlc0JNSGxBSEhwZzQ5STNVcXF0RXptS0VqUElPVWEtZjNvcjZ0R3E4ZzR5OWtfbTZiQ3A2cjdlLXIyZ0xmWWJ5U21jdEZ0SmhLRHotWUFFMlBCRGNYclJabUMyTmE4Q0x2ZVQwSmtKcWZuU2hNMTc3ZUxCTHc?oc=5",
+      "title": "Massie: “É altamente provável” que Hegseth não esteja no cargo em dezembro",
+      "titleOriginal": "Massie: ‘High Probability’ Hegseth Won’t Be in Office in December",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWE3WFNJQkdxdUgxSUZPM1pibEVhV3pPLUFsbG9FX3h3MUQyQURsd0JwQUNVcWh2WG5sUFZjXzUwc05xU0dtc2dOSjlSaFVVb1VYNlBiNkJ3am04R0RBZE1xMExLNjFTTVNvS1NNQ3ZOUXNlWFRKODR0ZTk0OXgxM1JMTGlQa3ZxazlBLU9GV1h0Y1gtSWJ0d0FXWHVJdWk1SlBVM3IwYTTSAa4BQVVfeXFMT1ZFY0VhQUdXVjE1XzhTNHd3RnJkS015UHpPY2JqMllHOGp4bUx0R2lYRWpXOWNDWUxERXBmWEZGMS11cnpJVnE2SHFURG1ZdUI1dFk1LUs0V21aRDV0MVdQaXJ5cm1tbVNGdHFpT2lPd1BlMzR3bVRiOWRkLUQ1RF95S3M0Nm5nN1I1Q1hMSkhkN0ZWcjd1UUVkdi1UNUxLNGNwSkxJUWVfV3lSaUFB?oc=5",
       "source": "Breitbart",
       "coverage": 3
     }
