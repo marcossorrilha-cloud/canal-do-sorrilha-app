@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-11T06:22:51.695Z",
+  "updatedAt": "2026-11-11T08:23:28.528Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "Democratas prometeram consertar a economia. O que eles podem realmente fazer?",
+      "titleOriginal": "Democrats Promised to Fix the Economy. What Can They Really Do?",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT05IVGRRTEY1Ni1Mb0RmX1RLdUFlS3B6T1Q5RWh2Y0dzX0tNUnVDLXdLcG9CSVBJN0J1RE5fQzBUTDQ0dWxxNlo5WVVxMkhubUVQVl9CYy1uaC1DSXRMcGtyNWlXalJWYnlWVXdPYjNpU0RvVmF4VnVISG9WVkJrOGpSR1o0SGFkZ3k1RVA5OGVubEtZQ0RJ?oc=5",
+      "publishedAt": "2026-11-11T08:01:14.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A primeira greve geral da Espanha em 14 anos traz à tona desejos sociais e políticos conflitantes",
+      "titleOriginal": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+      "publishedAt": "2026-11-11T07:16:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump divulga seus maiores sucessos caóticos para um público cansado",
+      "titleOriginal": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
+      "publishedAt": "2026-11-11T06:20:03.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "TSMC Aprova Plano de Investimento de até $ 1 Bilhão em Antrópicos, OpenAI",
+      "titleOriginal": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
+      "publishedAt": "2026-11-11T05:29:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "As táticas de espionagem da velha escola da China estão vivas e bem",
+      "titleOriginal": "China's old-school spy tactics are alive and well",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84ZmI1V0NzM0VQc2tzSlZJVm15RG9ZeG5wR2QtTmlVd3N3TUJ5OUc2NEd0TEZBVTlBa1pZMVQybFJPczJrRzJCSkJTZWQxTGdQbzA3VDNScVV6X2I2dS1TZzUxU1pObUJpbF9PTHFhU0lwRmZRR1NfbWFaZw?oc=5",
+      "publishedAt": "2026-11-11T04:08:13.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Tribunal de apelações bloqueia demanda do governo Trump por dados do LinkedIn de jornalistas",
@@ -10,11 +45,18 @@
       "publishedAt": "2026-11-11T04:00:25.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Democrata da Câmara diz que incidente de trânsito impediu que ela e outros votassem no impeachment de Hegseth",
-      "titleOriginal": "House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment",
-      "link": "https://thehill.com/homenews/house/6212500-stansbury-misses-hegseth-vote/",
-      "publishedAt": "2026-11-11T03:09:50.000Z"
+      "source": "AP News",
+      "title": "Vendas fracas para o Dia dos Solteiros, festival de compras online da China, sinalizam fraco apetite por gastos",
+      "titleOriginal": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZldKVkFrVWlEQmhhVUpOTGNoT3lnSU1qakFBbmtUTWdTM0I4U3BKbmFNbEV3eUhXY2UwZFY2Z1V4RjRHY1lUQVhYOWMwbXp2aXNja2lpMkxNNG5FalVpWTRxQ3daTk1lWllsRXBLbjJRRlJHaTU3Wi1xNXNsSEkteW1yenZjTFozRlUwR0RUU05jNlFFbk1FbUM2eGtXZjRX?oc=5",
+      "publishedAt": "2026-11-11T03:42:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O arrendamento do aeroporto de Charlotte não oferece nenhum alívio garantido nos preços das passagens",
+      "titleOriginal": "Charlotte airport lease offers no guaranteed relief on ticket prices",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS29rMWltaXhOU0dGX2l1bTctZ1lpTFNKNzhWSTNOb0dtcU5oakV1VGlnc29uNVJSanVuNTFkVDctNmVHOUJWWEt6Q1RsZE1sVkxVcDBZampLYWx6Y0ZlOWYtRTFGNWstX2Q2ZmF5YU9ma0dRU0ZrOFdLTzBvZnhWOFV0VUNzcmRXaTRGR0pRUUZkMTJfN3R4bVNZc3FWU081RDl3Y1l0cVVTUQ?oc=5",
+      "publishedAt": "2026-11-11T03:34:00.000Z"
     },
     {
       "source": "New York Times",
@@ -24,53 +66,11 @@
       "publishedAt": "2026-11-11T03:08:02.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O que Trump disse em sua carta a Biden em 2021",
-      "titleOriginal": "What Trump Said in His Letter to Biden in 2021",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-      "publishedAt": "2026-11-11T02:40:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Repórteres Sem Fronteiras pede impeachment de Carr por 'armar' a FCC",
-      "titleOriginal": "Reporters Without Borders calls for Carr to be impeached for 'weaponizing' FCC",
-      "link": "https://thehill.com/homenews/media/6212455-rsf-urges-impeachment-brendan-carr/",
-      "publishedAt": "2026-11-11T02:11:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Permitindo que o projeto de reforma avance mais perto do fim do Senado",
-      "titleOriginal": "Permitting reform bill advances closer to Senate finish",
-      "link": "https://thehill.com/homenews/6212389-senate-advances-infrastructure-energy-bill/",
-      "publishedAt": "2026-11-11T02:09:19.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Bernie Sanders se opõe a Schumer como líder da maioria",
-      "titleOriginal": "Bernie Sanders Opposes Schumer as Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
-      "publishedAt": "2026-11-11T02:01:55.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Sobre a defesa: conclusões das observações de Hegseth sobre os artigos de impeachment",
-      "titleOriginal": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
-      "publishedAt": "2026-11-11T01:56:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Membros da família Kennedy se juntam à luta legal pelo arco de Trump",
-      "titleOriginal": "Kennedy family members join legal fight over Trump’s arch",
-      "link": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/",
-      "publishedAt": "2026-11-11T01:52:23.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O deputado republicano da Califórnia, Ken Calvert, derrota o deputado Young Kim na corrida pelo 40º distrito fundido",
-      "titleOriginal": "California GOP Rep. Ken Calvert defeats Rep. Young Kim in race for merged 40th District",
-      "link": "https://thehill.com/homenews/campaign/6194420-calvert-wins-ca-40th-district/",
-      "publishedAt": "2026-11-11T01:19:22.000Z"
+      "source": "Axios",
+      "title": "A revolta da liderança democrata tem um problema gritante",
+      "titleOriginal": "The Democratic leadership revolt has a glaring problem",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenpJRXhTbjY2QWRXZHNHbVZoUzVLclpYYUhnRzNSa2VqQ0dNZkFFN1RiQi1qM1B0UEE5SzQ3ZkFMMTR1bFZReEhXbk10N1A2R2ZRc3oyNHJxelh0UXBoQlZtODM5T1pwaV9hWDhia2MxbTlXWXAwR0xFakYxRkQwcDdjYlZRUVk?oc=5",
+      "publishedAt": "2026-11-11T03:00:12.000Z"
     }
   ]
 }
