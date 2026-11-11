@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-11T21:58:52.742Z",
+  "updatedAt": "2026-11-11T23:03:36.773Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Aeronaves dos EUA evacuadas de uma segunda base no Reino Unido devido à ameaça do Irã",
-      "titleOriginal": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5",
-      "publishedAt": "2026-11-11T21:56:45.000Z"
+      "source": "Politico",
+      "title": "Mississippi elege o democrata Scott Colom para o Senado em uma grande surpresa",
+      "titleOriginal": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+      "link": "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555",
+      "publishedAt": "2026-11-11T23:01:13.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Democrata do Texas apresenta projeto de lei para cumprir a promessa de cheque de US$ 1,5 mil de Hinojosa",
-      "titleOriginal": "Texas Democrat files bill to follow through on Hinojosa's $1.5K check promise",
-      "link": "https://thehill.com/homenews/state-watch/6214487-texas-senator-files-household-check-bill/",
-      "publishedAt": "2026-11-11T21:53:32.000Z"
+      "title": "Karp, da Palantir, diz que tem criticado Trump sobre imigração \"em particular\"",
+      "titleOriginal": "Palantir's Karp says he's been criticizing Trump on immigration 'in private'",
+      "link": "https://thehill.com/policy/technology/6214634-palantir-ceo-criticizes-trump-immigration/",
+      "publishedAt": "2026-11-11T23:00:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicanos de Ohio flexibilizam as regulamentações sobre silenciadores de armas e espingardas de cano serrado",
+      "titleOriginal": "Ohio Republicans loosen regulations on gun silencers, sawed-off shotguns",
+      "link": "https://thehill.com/homenews/state-watch/6214635-ohio-republicans-loosen-regulations-on-gun-silencers-sawed-off-shotguns/",
+      "publishedAt": "2026-11-11T22:59:26.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O memorando: o fracasso na votação de Hegseth aumenta as tensões entre os democratas",
+      "titleOriginal": "The Memo: Misfire on Hegseth vote adds to Democratic tensions",
+      "link": "https://thehill.com/homenews/analysis/6214600-democrats-fail-hegseth-impeachment/",
+      "publishedAt": "2026-11-11T22:56:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O governo Trump anuncia um novo plano para vender terras públicas",
+      "titleOriginal": "Trump administration announces new plan to sell public lands",
+      "link": "https://thehill.com/policy/energy-environment/6214564-trump-admin-plans-land-sales/",
+      "publishedAt": "2026-11-11T22:29:16.000Z"
     },
     {
       "source": "AP News",
-      "title": "Resultados das eleições para o Senado dos EUA de 2026",
-      "titleOriginal": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-11T21:52:14.000Z"
+      "title": "Resultados ao vivo da eleição para governador do Alasca de 2026",
+      "titleOriginal": "Alaska Governor Election Live Results 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVnF6Z256eUxiRnVxdl8zOHZZc1hya2VseWs4elFvOV9fZGVkdW1iOGVyVXh5LWxMa3NET0ZOSHNhWGhQd21sWUw0dXVNaTlhMnVaaFlWbzBYbVVMX0d6aU9ub2RoQ2Q0RlRkbEpBVzNFYjNPekE?oc=5",
+      "publishedAt": "2026-11-11T22:26:52.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Warren alerta as empresas dos Estados Unidos",
+      "titleOriginal": "Warren puts corporate America on notice",
+      "link": "https://thehill.com/newsletters/business-economy/6214570-warren-puts-corporate-america-on-notice/",
+      "publishedAt": "2026-11-11T22:15:54.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Casa Branca confronta os democratas sobre as investigações planejadas, alegando possível \"criminalidade\"",
+      "titleOriginal": "White House confronts Democrats over planned probes, claiming possible ‘criminality’",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
+      "publishedAt": "2026-11-11T22:15:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Residentes de Delaware entram com ação judicial buscando uma segunda cadeira na Câmara",
+      "titleOriginal": "Delaware residents file lawsuit seeking second House seat",
+      "link": "https://thehill.com/homenews/state-watch/6214517-delaware-residents-sue-extra-house-seat/",
+      "publishedAt": "2026-11-11T22:02:25.000Z"
     },
     {
       "source": "New York Times",
       "title": "Um Departamento de Justiça enfraquecido se prepara para novas batalhas após a derrota nas eleições de meio de mandato",
       "titleOriginal": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
       "link": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
-      "publishedAt": "2026-11-11T21:51:34.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratas reclamam de jogada desleal após os republicanos acelerarem a tramitação de um projeto de lei partidário para veteranos: \"manobras sujas\"",
-      "titleOriginal": "Democrats cry foul after Republicans fast track partisan veterans bill: ‘Dirty tricks’",
-      "link": "https://thehill.com/homenews/house/6214482-gop-passes-tcava-veterans-bill/",
-      "publishedAt": "2026-11-11T21:39:57.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Massie, adversário de Trump que está deixando o cargo, força a divulgação de novos arquivos sobre Epstein",
-      "titleOriginal": "Outgoing Trump foe Massie forces new Epstein files showdown",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSnZmaDRncmRrSElxV3kwSXJRVEZyZC1HVnZ0QnZBMk1SVmx5TEpyemJpanJVMWF4V1I1RjRzeHJHTnFoR2h3M3lKc2o0akNhb3ZOZXR0OTlCbEVNVGdDOWx3SzBzd1F1RjF4UjBGc0EzSkU?oc=5",
-      "publishedAt": "2026-11-11T21:21:37.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Organização de vigilância tecnológica apresenta agenda democrata para os primeiros 100 dias",
-      "titleOriginal": "Tech watchdog lays out Democratic agenda for first 100 days",
-      "link": "https://thehill.com/policy/technology/6214401-tech-oversight-project-democrats-ai/",
-      "publishedAt": "2026-11-11T21:18:44.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Juiz permite que o processo por difamação de Trump contra a BBC prossiga",
-      "titleOriginal": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
-      "publishedAt": "2026-11-11T21:14:46.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Quem é Alice Huang? A mulher no centro do escândalo da Nvidia continua sendo um mistério",
-      "titleOriginal": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
-      "publishedAt": "2026-11-11T21:07:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Informação exclusiva: Lutnick adiou a restrição das vendas de chips da Nvidia para a China — mais uma vez — após um confronto no Salão Oval",
-      "titleOriginal": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
-      "publishedAt": "2026-11-11T21:02:51.000Z"
+      "publishedAt": "2026-11-11T21:59:02.000Z"
     }
   ]
 }
