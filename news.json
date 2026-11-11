@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-11T08:23:28.528Z",
+  "updatedAt": "2026-11-11T15:13:23.960Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Democratas prometeram consertar a economia. O que eles podem realmente fazer?",
-      "titleOriginal": "Democrats Promised to Fix the Economy. What Can They Really Do?",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT05IVGRRTEY1Ni1Mb0RmX1RLdUFlS3B6T1Q5RWh2Y0dzX0tNUnVDLXdLcG9CSVBJN0J1RE5fQzBUTDQ0dWxxNlo5WVVxMkhubUVQVl9CYy1uaC1DSXRMcGtyNWlXalJWYnlWVXdPYjNpU0RvVmF4VnVISG9WVkJrOGpSR1o0SGFkZ3k1RVA5OGVubEtZQ0RJ?oc=5",
-      "publishedAt": "2026-11-11T08:01:14.000Z"
+      "source": "The Hill",
+      "title": "Trump declara \"grande vitória\" após juiz permitir que processo contra BBC prossiga",
+      "titleOriginal": "Trump declares 'huge victory' after judge allows suit against BBC to proceed",
+      "link": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
+      "publishedAt": "2026-11-11T15:09:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Trump marca o Dia dos Veteranos no Cemitério Nacional de Arlington",
+      "titleOriginal": "Watch live: Trump marks Veterans Day at Arlington National Cemetery",
+      "link": "https://thehill.com/video-clips/6213100-watch-live-donald-trump-veterans-day-arlington-national-cemetery/",
+      "publishedAt": "2026-11-11T15:04:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O alto custo da moeda de $ 1 da Trump",
+      "titleOriginal": "The high cost of Trump's $1 coin",
+      "link": "https://thehill.com/opinion/white-house/6211481-treasury-mint-living-presidents/",
+      "publishedAt": "2026-11-11T15:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "A primeira greve geral da Espanha em 14 anos traz à tona desejos sociais e políticos conflitantes",
-      "titleOriginal": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
-      "publishedAt": "2026-11-11T07:16:00.000Z"
+      "title": "Alice Huang, que supostamente teve um caso com o CEO da Nvidia, é uma banqueira chinesa que se tornou executiva de tecnologia",
+      "titleOriginal": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
+      "publishedAt": "2026-11-11T14:55:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Presidente de Inteligência da Câmara Promete Supervisão do Uso de Ação Secreta da CIA",
+      "titleOriginal": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+      "publishedAt": "2026-11-11T14:45:10.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: painel da casa examina a ascensão do jogo esportivo nos campi universitários",
+      "titleOriginal": "Watch live: House panel examines rise of sports gambling on college campuses",
+      "link": "https://thehill.com/video-clips/6212964-watch-live-house-education-panel-college-sports-gambling/",
+      "publishedAt": "2026-11-11T14:40:16.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Casa Branca afirma que investigações democratas podem \"cruzar a linha da criminalidade flagrante\"",
+      "titleOriginal": "White House asserts Democratic investigations could 'cross the line into blatant criminality'",
+      "link": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
+      "publishedAt": "2026-11-11T14:39:24.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Democratas não estão perdendo tempo investigando os maiores nomes da América corporativa",
+      "titleOriginal": "Democrats Are Wasting No Time Investigating Corporate America’s Biggest Names",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2lPUU9ocHVfVWJ5WDBTN2owcnY3LUZGdVpyRHhBTTBlUFB1LTZKWklHZnZpLTYwZjVZWk5OeXFhU19meGdEVXphNkJIWGxGTF9qa3h0T0pwaVJEUWR3S1drX0RuZC1Ib3J4MzR1Q3RKd0pSY2ozcjhfdWpFd1BIaXhLMHRiQkJUN0hNUGhtZnhmRUY1QjhKN01YUUxCc0cyRkJSMUU0VHduVXpGRTh2RUVKTGs?oc=5",
+      "publishedAt": "2026-11-11T14:36:34.000Z"
     },
     {
       "source": "New York Times",
       "title": "Trump divulga seus maiores sucessos caóticos para um público cansado",
       "titleOriginal": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
-      "publishedAt": "2026-11-11T06:20:03.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "TSMC Aprova Plano de Investimento de até $ 1 Bilhão em Antrópicos, OpenAI",
-      "titleOriginal": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
-      "publishedAt": "2026-11-11T05:29:00.000Z"
+      "publishedAt": "2026-11-11T14:30:07.000Z"
     },
     {
       "source": "Axios",
-      "title": "As táticas de espionagem da velha escola da China estão vivas e bem",
-      "titleOriginal": "China's old-school spy tactics are alive and well",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84ZmI1V0NzM0VQc2tzSlZJVm15RG9ZeG5wR2QtTmlVd3N3TUJ5OUc2NEd0TEZBVTlBa1pZMVQybFJPczJrRzJCSkJTZWQxTGdQbzA3VDNScVV6X2I2dS1TZzUxU1pObUJpbF9PTHFhU0lwRmZRR1NfbWFaZw?oc=5",
-      "publishedAt": "2026-11-11T04:08:13.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Tribunal de apelações bloqueia demanda do governo Trump por dados do LinkedIn de jornalistas",
-      "titleOriginal": "Appeals Court Blocks Trump Administration Demand for Journalists’ LinkedIn Data",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/doj-linkedin-data-reporters-trump.html",
-      "publishedAt": "2026-11-11T04:00:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Vendas fracas para o Dia dos Solteiros, festival de compras online da China, sinalizam fraco apetite por gastos",
-      "titleOriginal": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZldKVkFrVWlEQmhhVUpOTGNoT3lnSU1qakFBbmtUTWdTM0I4U3BKbmFNbEV3eUhXY2UwZFY2Z1V4RjRHY1lUQVhYOWMwbXp2aXNja2lpMkxNNG5FalVpWTRxQ3daTk1lWllsRXBLbjJRRlJHaTU3Wi1xNXNsSEkteW1yenZjTFozRlUwR0RUU05jNlFFbk1FbUM2eGtXZjRX?oc=5",
-      "publishedAt": "2026-11-11T03:42:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O arrendamento do aeroporto de Charlotte não oferece nenhum alívio garantido nos preços das passagens",
-      "titleOriginal": "Charlotte airport lease offers no guaranteed relief on ticket prices",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS29rMWltaXhOU0dGX2l1bTctZ1lpTFNKNzhWSTNOb0dtcU5oakV1VGlnc29uNVJSanVuNTFkVDctNmVHOUJWWEt6Q1RsZE1sVkxVcDBZampLYWx6Y0ZlOWYtRTFGNWstX2Q2ZmF5YU9ma0dRU0ZrOFdLTzBvZnhWOFV0VUNzcmRXaTRGR0pRUUZkMTJfN3R4bVNZc3FWU081RDl3Y1l0cVVTUQ?oc=5",
-      "publishedAt": "2026-11-11T03:34:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Republicanos Voltam Esforço para Impeachment Hegseth",
-      "titleOriginal": "Republicans Turn Back Effort to Impeach Hegseth",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-      "publishedAt": "2026-11-11T03:08:02.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "A revolta da liderança democrata tem um problema gritante",
-      "titleOriginal": "The Democratic leadership revolt has a glaring problem",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenpJRXhTbjY2QWRXZHNHbVZoUzVLclpYYUhnRzNSa2VqQ0dNZkFFN1RiQi1qM1B0UEE5SzQ3ZkFMMTR1bFZReEhXbk10N1A2R2ZRc3oyNHJxelh0UXBoQlZtODM5T1pwaV9hWDhia2MxbTlXWXAwR0xFakYxRkQwcDdjYlZRUVk?oc=5",
-      "publishedAt": "2026-11-11T03:00:12.000Z"
+      "title": "Trump oscilou entre a guerra e a diplomacia — depois escolheu uma terceira via",
+      "titleOriginal": "Trump swung between war and diplomacy — then chose a third way",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
+      "publishedAt": "2026-11-11T14:30:06.000Z"
     }
   ]
 }

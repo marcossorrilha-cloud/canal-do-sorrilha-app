@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-11T06:27:43.327Z",
-  "slot": "2026-11-11-AM",
+  "updatedAt": "2026-11-11T15:13:33.287Z",
+  "slot": "2026-11-11-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Opinião | Foi assim que os democratas venceram as eleições de meio de mandato",
-      "titleOriginal": "Opinion | This Is How Democrats Won the Midterms",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmFRV202VUVaeE9Ialh4RlVkX29RM0VmNDh3ZVNZdnZhMVpmemIzdGNhZmVkc1hPSWd3UnJRWVNQMTlWbWdkX3RNRkdxRS1zOGVLa3hjeWY5eTB6NVUxRW5mWHAzMGk5bHZiQ3p6cnR0Q2ZUeDlRdUR1TW1Cd0M3Uw?oc=5",
+      "title": "Prazos de votação passam na corrida ao Senado do Mississippi após lutas consideráveis",
+      "titleOriginal": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRS1yQUdkaWR2UmdKOXlWeW5iZkJHaW9DZnVNaHhSWU9LeURkZi1RdGI2QnY2MGcyY19KeW9paWJGWkZZVVdma2NSbzQtTXVxZ3FreUdxNlJFX3RLdl9qTmNGMncxdURFOGVGU25kRjJpMTFSZ1U3bHFRSnhYUXFITVdDc0dFUzROUzV2aGRsTQ?oc=5",
       "source": "New York Times",
-      "coverage": 2
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Massie: “É altamente provável” que Hegseth não esteja no cargo em dezembro",
-      "titleOriginal": "Massie: ‘High Probability’ Hegseth Won’t Be in Office in December",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWE3WFNJQkdxdUgxSUZPM1pibEVhV3pPLUFsbG9FX3h3MUQyQURsd0JwQUNVcWh2WG5sUFZjXzUwc05xU0dtc2dOSjlSaFVVb1VYNlBiNkJ3am04R0RBZE1xMExLNjFTTVNvS1NNQ3ZOUXNlWFRKODR0ZTk0OXgxM1JMTGlQa3ZxazlBLU9GV1h0Y1gtSWJ0d0FXWHVJdWk1SlBVM3IwYTTSAa4BQVVfeXFMT1ZFY0VhQUdXVjE1XzhTNHd3RnJkS015UHpPY2JqMllHOGp4bUx0R2lYRWpXOWNDWUxERXBmWEZGMS11cnpJVnE2SHFURG1ZdUI1dFk1LUs0V21aRDV0MVdQaXJ5cm1tbVNGdHFpT2lPd1BlMzR3bVRiOWRkLUQ1RF95S3M0Nm5nN1I1Q1hMSkhkN0ZWcjd1UUVkdi1UNUxLNGNwSkxJUWVfV3lSaUFB?oc=5",
-      "source": "Breitbart",
-      "coverage": 3
+      "title": "Tentativas ilegais duas vezes deportadas de invadir o cockpit, alega que ele tem bomba no voo da United",
+      "titleOriginal": "Twice-Deported Illegal Tries To Storm Cockpit, Claims He Has Bomb On United Flight",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUU9TVEdHOWxhTHRXZnlzQ0xfNHVTbE82cDRQODhIa3BPemhiaFRpTUxTZ3VBcVBtcVdGTGdlcGIyc2FvWmlhRDVtQm5CdVFJcllRWWp1WFFFbEpITWJRamZzcHhkLWROeldNaUgwOTV4aE0yRDQwdTd2RGJnTEhoSk93RXA1TnFmby01ZG9Jb3lnVVdOSDdheEJiZWpxbW1DRnlhT1c3UXZ4YmRjWG8tR0Jn?oc=5",
+      "source": "Daily Wire",
+      "coverage": 4
     }
   ]
 }
