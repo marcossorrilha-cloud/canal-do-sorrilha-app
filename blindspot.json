@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-12T03:00:22.604Z",
-  "slot": "2026-11-12-AM",
+  "updatedAt": "2026-11-12T18:57:36.556Z",
+  "slot": "2026-11-12-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Nenhum titular democrata da Câmara dos Deputados perdeu para um republicano nas eleições de meio de mandato",
-      "titleOriginal": "Zero House Democratic incumbents lost to a Republican in the midterms",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDBESlVMcmdGNFBDVGg4U3B5M0FWbWdYTklvZWZpYnRtWHVGQjI3QWRVMENfN2lQR29HQ2xtc1ZHWGFrT1d6UmZpdG91N2x4VUlvNGVEenlRS3dnYVZFakI2RWRHT1ViUHhtRHZmazlhZmdGeC0wVlBScGZ5U01hUWFpazNqamRwWHZDUTBqVjNsbjg5SnJvRFZRMGQ4b2VEeGJidVd2T3VISUtiVUk4?oc=5",
+      "title": "Oficial do Exército dos EUA preso no Reino Unido sob suspeita de tentar roubar segredos para a Rússia",
+      "titleOriginal": "U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5",
       "source": "Washington Post",
-      "coverage": 2
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Imigrante ilegal deportado duas vezes tenta invadir a cabine de comando e afirma ter uma bomba em voo da United",
-      "titleOriginal": "Twice-Deported Illegal Tries To Storm Cockpit, Claims He Has Bomb On United Flight",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUU9TVEdHOWxhTHRXZnlzQ0xfNHVTbE82cDRQODhIa3BPemhiaFRpTUxTZ3VBcVBtcVdGTGdlcGIyc2FvWmlhRDVtQm5CdVFJcllRWWp1WFFFbEpITWJRamZzcHhkLWROeldNaUgwOTV4aE0yRDQwdTd2RGJnTEhoSk93RXA1TnFmby01ZG9Jb3lnVVdOSDdheEJiZWpxbW1DRnlhT1c3UXZ4YmRjWG8tR0Jn?oc=5",
-      "source": "Daily Wire",
+      "title": "O governo Trump bate recordes de deportação, removendo quase meio milhão de estrangeiros ilegais dos EUA",
+      "titleOriginal": "Trump Administration Breaks Deportation Records, Removing Almost Half a Million Illegal Aliens from U.S.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTRzaG85eUJ0cFdkMURjaXBSZkk3b0M3QU9RY2M0Q3ZwNVIydlFvWXVfaEZlVHZNTzZiUkxnYmFPRmNLR3FlX3Q0a1lLMGxsdUxvT2prWHVzZHptOGx2Tm44N3luZWhKVHA3eC1tSmc2eHpxaDNIVFRReWpSNnFZRlZWeWFTZGw1TmNwdUpxRVBMZ0x0NE5xcUJfdUd0MjFZbzlOVkx1MTgwckh5VTV4ZHhJNm84UHVDZmwtNUs0a1FjWWgt?oc=5",
+      "source": "Breitbart",
       "coverage": 4
     }
   ]
