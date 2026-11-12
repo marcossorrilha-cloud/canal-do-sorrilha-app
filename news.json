@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-12T18:57:27.564Z",
+  "updatedAt": "2026-11-12T21:06:09.938Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Trump diz que está retirando Vance das negociações com o Irã para se concentrar na campanha sobre fraudes",
-      "titleOriginal": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-      "publishedAt": "2026-11-12T18:51:48.000Z"
+      "source": "The Hill",
+      "title": "Atualizações ao vivo: Huang deixa a Nvidia; democratas isolam a mansão do governador do Kansas",
+      "titleOriginal": "Live updates: Huang exits Nvidia; Democrat locks down Kansas governor's mansion",
+      "link": "https://thehill.com/homenews/administration/6214786-live-updates-trump-midterms-alaska-congress/",
+      "publishedAt": "2026-11-12T21:04:46.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-12T21:02:14.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "SoftBank registra prejuízo de US$ 7 bilhões com a desaceleração do mercado de IA",
-      "titleOriginal": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZV9GaFNkemwwODVVTVMyS1d3dWxqSUlTVV9mQ0Y5d185blZxc3BWR1VBVjlhcG1PaU1RSnJzU3kzTTRROVBPbmlOMTZnWDE5Y3hzeW8wdUsyVW4tQ1dkRVhGZHU3Qk5WR2dJZk5aZjFxMUdabVZWTDBUbTEyNHFOUXcwUlgxY2NwZ0tKYUd4UDJCbXJGOVRNWnBOdEtlNm5xc3c5WTN3WTRxdUJDVjhTaENJb2VObHRjc29uWjBFRFFQUl9vZ0xUWFZBSm9qZllw?oc=5",
-      "publishedAt": "2026-11-12T18:40:25.000Z"
+      "title": "Preços do petróleo se recuperam enquanto Trump questiona a necessidade do acordo com o Irã",
+      "titleOriginal": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+      "publishedAt": "2026-11-12T21:01:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A participação dos negros aumentou na Geórgia, impulsionada pelos eleitores mais jovens",
+      "titleOriginal": "Black Turnout Rose in Georgia, Powered by Younger Voters",
+      "link": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+      "publishedAt": "2026-11-12T20:30:11.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que as pesquisas para as eleições de meio de mandato de 2026 subestimaram o apoio aos democratas",
+      "titleOriginal": "Why 2026 Midterm Polls Underestimated Democratic Support",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
+      "publishedAt": "2026-11-12T20:29:06.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Um presidente para toda a Câmara",
-      "titleOriginal": "A Speaker for the whole House",
-      "link": "https://thehill.com/opinion/congress-blog/6215212-house-speaker-build-consensus/",
-      "publishedAt": "2026-11-12T18:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O'Reilly: O novo relatório dos democratas da Câmara sobre Epstein é \"um monte de besteira\"",
-      "titleOriginal": "O'Reilly: House Democrats' new Epstein report 'a bunch of bull'",
-      "link": "https://thehill.com/homenews/media/6216776-oreilly-judiciary-committee-epstein-report-bull/",
-      "publishedAt": "2026-11-12T18:27:48.000Z"
+      "title": "Diretor da Heritage Foundation: o Partido Republicano cometeu um \"erro\" nas eleições de meio de mandato em relação aos data centers",
+      "titleOriginal": "Heritage Foundation head: GOP made midterm 'mistake' on data centers",
+      "link": "https://thehill.com/policy/technology/6217137-heritage-leader-gop-data-center-mistake/",
+      "publishedAt": "2026-11-12T20:27:30.000Z"
     },
     {
       "source": "New York Times",
       "title": "A Suprema Corte vai impedir as investigações do Congresso?",
       "titleOriginal": "Will the Supreme Court Thwart Congressional Investigations?",
       "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-      "publishedAt": "2026-11-12T18:27:08.000Z"
+      "publishedAt": "2026-11-12T20:27:03.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Senadores investigam o depoimento de RFK Jr. sobre sua viagem a Samoa após a AP e o The Guardian terem divulgado documentos que o refutam",
-      "titleOriginal": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lEekgxMHlib0FkWW1YaWRoV0hKd1dQTzFuQ002eUNjZi1yWHc1a0U1MFd5VkFScUg1VDh3YmRqVXoxSGFHUlF6NWYtZXgydzFqOUktTjJELUJCS2J4azljdVZRZ3ZUUWdpMjdub1JGWmNHT3hVc28wTFJFMVpnUmt2aHpOb3dvVV9VcVV3OERjeEU4SUVRVncwNzBPNnRJREZpMWJMeXBHTlBveUIw?oc=5",
-      "publishedAt": "2026-11-12T18:20:00.000Z"
+      "source": "The Hill",
+      "title": "\"Muitas evidências\" em torno das alegações de corrupção do governo Trump: Ben Shapiro",
+      "titleOriginal": "'Plenty of smoke' around Trump administration corruption allegations: Ben Shapiro",
+      "link": "https://thehill.com/homenews/administration/6217132-shapiro-trump-corruption-smoke/",
+      "publishedAt": "2026-11-12T20:26:56.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "O futuro de Kennedy: os democratas tentarão submetê-lo a um processo de impeachment ou realmente trabalharão com ele?",
-      "titleOriginal": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
-      "publishedAt": "2026-11-12T18:18:11.000Z"
+      "source": "The Hill",
+      "title": "Trump pede à liderança do Senado que aprove o projeto de lei de conciliação de US$ 350 bilhões",
+      "titleOriginal": "Trump urges Senate leadership to move $350B reconciliation bill",
+      "link": "https://thehill.com/homenews/senate/6217053-donald-trump-senate-leadership-350b-reconciliation-bill/",
+      "publishedAt": "2026-11-12T20:25:31.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Democratas avisam seus alvos à medida que a fiscalização de Trump vai tomando forma",
-      "titleOriginal": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
-      "link": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
-      "publishedAt": "2026-11-12T18:07:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Desabamento de prédio no Brooklyn matou 2 crianças e 6 adultos, diz prefeito",
-      "titleOriginal": "Brooklyn building collapse killed 2 children and 6 adults, mayor says",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5",
-      "publishedAt": "2026-11-12T18:07:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas se unem em torno do populismo econômico após as vitórias nas eleições de meio de mandato",
-      "titleOriginal": "Democrats Unite on Economic Populism After Midterm Victories",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html",
-      "publishedAt": "2026-11-12T18:00:19.000Z"
+      "source": "The Hill",
+      "title": "Witkoff e Kushner se reunirão com Zelensky enquanto a Ucrânia informa sobre restrições ao Starshield pela segunda vez",
+      "titleOriginal": "Witkoff, Kushner to meet with Zelensky as Ukraine reports Starshield restrictions for second time",
+      "link": "https://thehill.com/policy/international/6217022-witkoff-kushner-zelensky-meeting-starshield-update/",
+      "publishedAt": "2026-11-12T20:24:47.000Z"
     }
   ]
 }
