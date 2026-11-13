@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-11-13T07:59:36.956Z",
+  "updatedAt": "2026-11-13T09:59:09.308Z",
   "count": 10,
   "items": [
+    {
+      "source": "Wall Street Journal",
+      "title": "O Federal Reserve deve renunciar à decisão sobre as taxas na reunião de outubro de 2027",
+      "titleOriginal": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+      "publishedAt": "2026-11-13T09:27:25.000Z"
+    },
     {
       "source": "AP News",
       "title": "Resultados ao vivo das eleições para a Câmara dos Deputados dos EUA no Colorado em 2026",
       "titleOriginal": "Colorado U.S. House Election Live Results 2026",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
-      "publishedAt": "2026-11-13T06:46:29.000Z"
+      "publishedAt": "2026-11-13T08:38:43.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A interrupção da Microsoft afeta empresas e governos em todo o mundo enquanto a empresa tenta restaurar os serviços",
+      "titleOriginal": "Microsoft outage hits companies and governments worldwide as it struggles to restore services",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+      "publishedAt": "2026-11-13T07:47:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Atirador de Logan Circle disparou 4 vezes de uma varanda e iniciou um incêndio, segundo a polícia",
+      "titleOriginal": "Logan Circle gunman shot 4 from balcony, started fire, police say",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHpnQ2lKRTR0QXl5U3FBY2pET0Jra0NxNlQ1aDBIXy1EU050SFJZbXFNQXlHNlc1ZU4yX2dMQm4tM2JPaHlXbHdMYTUwbENWT0ROTmpJRURPUklmSVZxYlJTUi1hX05zMEUtV2JIZkhFWjR5VE5CU1ZBVTdiMnprb0FKOTFfQnIxX0VlNnhVWXI?oc=5",
+      "publishedAt": "2026-11-13T05:45:02.000Z"
     },
     {
       "source": "New York Times",
       "title": "Após alegações de tráfico de influência, a Casa Branca restringe as reuniões com lobistas",
       "titleOriginal": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
-      "publishedAt": "2026-11-13T05:24:14.000Z"
+      "publishedAt": "2026-11-13T05:24:15.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Grupo político democrata lança nova iniciativa para moldar a agenda da IA antes de 2028",
+      "titleOriginal": "Democratic political group launches new push to shape AI agenda ahead of 2028",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFcwWkZEbUlrWUJEY3B2ZlBjUnhqci14R2xyV3FXWWFRM1FXTzdWbU1lZm4tcWxYbE1QbEhKRWVIQ0dNVnhHTktnZWdTVFk4T1QtZ2Y2RUJuRDIwaHVCZFhscjhaMEFmeEhTWVRSOEp5NURfZFlTOGpYZ2J6Y1d5NU55bnZ6UjRmTlo3WF9malo?oc=5",
+      "publishedAt": "2026-11-13T05:01:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Alex Murdaugh quer que as acusações de homicídio sejam anuladas, alegando que o agente mentiu para o grande júri",
+      "titleOriginal": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUNIWjQ4UThiQ2tmYXAwelYzYks4cVlSWV9ZUDR6WmdpcUdtd3Y0YmJfR002QmFBWEotVEppYlFyZGxFNzJxZ0RvZHMyd3QzOEZWRzVEYTJfLUJPTjJzQlY4VTY3Z2lFM3hiQmF0VnJCZDBiNm50NHJsYlNId1B0MWk0RXVuNEI1V3p3aWpLQWIwV1dYUUdsQ2hrMjU5czNN?oc=5",
+      "publishedAt": "2026-11-13T05:01:00.000Z"
     },
     {
       "source": "Politico",
@@ -24,53 +59,18 @@
       "publishedAt": "2026-11-13T05:00:00.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Democratas se reúnem em Denver para uma reflexão pós-eleições de meio de mandato que se transformou em celebração",
-      "titleOriginal": "Democrats flock to Denver for a post-midterms introspection-turned-celebration",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaW9jeExhRlZIbTRtaU12NXJuZUVnQkRjeWdmNGNTN1VkSVNnZ095NnktWEJoQnQ2VUxvaW5UX0IxNjByQXR0SThiSXJMWlFaRXBEQ1p0bG9rMkwxYzFUcDFHeHI4RXhDbmRhbTU4YkZERzlhb3VSdzRjMWlOcFJwaTFtaWdCY2tnZENWa2lBQ2VTMEU?oc=5",
-      "publishedAt": "2026-11-13T04:46:00.000Z"
+      "source": "New York Times",
+      "title": "Chris Van Hollen se prepara para disputar com Chuck Schumer a liderança da maioria no Senado",
+      "titleOriginal": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "publishedAt": "2026-11-13T04:11:39.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump disse a Huang para lutar pelo seu emprego após escândalos de caso extraconjugal: notícia",
-      "titleOriginal": "Trump told Huang to fight for his job after affair scandals: Report",
-      "link": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/",
-      "publishedAt": "2026-11-13T04:05:58.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Alito adverte que o Congresso pode \"apagar as luzes\" da Suprema Corte",
+      "title": "Alito alerta que o Congresso pode \"apagar as luzes\" da Suprema Corte",
       "titleOriginal": "Alito warns Congress can ‘turn off the lights’ at Supreme Court",
       "link": "https://thehill.com/regulation/court-battles/6217960-alito-warns-congress-defunding/",
       "publishedAt": "2026-11-13T03:39:47.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Líderes democratas da Câmara enfrentam repercussões por erros de votação em plenário no momento errado",
-      "titleOriginal": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX25nVm5yVllVUXBBYW5NdzlkWk9zOGMxaUE4V2tiSGF5dUoyc2VONGVIYUViYkhGWExaaEZmRmtoa3NUamxQMDdRdHkwRG5wam54VXp5MVZ2WUVuRDBJQ21RUnNQSHd3cVE0VVN4Z1U5TXFQUndyNlBtQm5zZENsaUFXam1ESjRlQlE?oc=5",
-      "publishedAt": "2026-11-13T03:32:07.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Um ataque israelense a um hospital destaca a devastação do sistema de saúde de Gaza",
-      "titleOriginal": "An Israeli strike on a hospital highlights the devastation to Gaza’s healthcare system",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRoNWNUVU5mZVpLZ2VBVW1DUWxwYnVrX0JFemdmTHR1SFp4ZVFibDE1S1ltZzhQWl9OaUNwZVctTjh2b3IteDBOWldsRVk0MUJ3REY2MWx0MVpKOGEycE9xSjBKT2YyWTZQQ3I2RTc4MmEyMHN2anlUNWN0NFlhZ0hjZHR3aG1ZNDFoX2QxLVhLNHRfTW9uU0k5aWRtb0du?oc=5",
-      "publishedAt": "2026-11-13T03:28:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump havia pedido a Jensen Huang, da Nvidia, que lutasse pelo seu emprego",
-      "titleOriginal": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
-      "publishedAt": "2026-11-13T03:27:02.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Jones destitui democrata da Câmara na Califórnia",
-      "titleOriginal": "Jones ousts House Democrat in California",
-      "link": "https://thehill.com/homenews/campaign/6217945-jones-wins-california-house-race/",
-      "publishedAt": "2026-11-13T03:20:25.000Z"
     }
   ]
 }
