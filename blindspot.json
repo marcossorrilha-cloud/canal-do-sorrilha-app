@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T07:59:46.419Z",
-  "slot": "2026-11-13-AM",
+  "updatedAt": "2026-11-13T16:25:51.017Z",
+  "slot": "2026-11-13-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "O juiz Richard A. Posner faleceu. Sua influência no Direito foi incomparável.",
-      "titleOriginal": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11X1dWMEdWTWExblJCZHZkaEFpbldDaFkyNWdqUmgyQ0puRGNraURzck93aVJFeDBnRHprcDU0X0t2VXh4ZVVleU1ITVZtZ0xsMnRGUkdlbGVrdUpDZlZGOWFpdnFaUWxWOWthSEdGYw?oc=5",
+      "title": "A relação entre os EUA e Israel está rompida. Veja como Eisenkot poderia consertá-la.",
+      "titleOriginal": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDl3Q3pVM1Z2bFc0QldEZlFCVHdJdVFOek5lS1NVeVBpdWE3SFY2ZkJCbHN5WWN4MGRBNndIMlBNYXROYnJuYklpWTNta00taEVBM2g4OFFPRkxDTG1UTGFGaXY0aHRkMjFOS0doRHNwbDJabUJXWVdrZE1hMHlLVjFtQks?oc=5",
       "source": "New York Times",
       "coverage": 2
     },
@@ -16,11 +16,11 @@
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Democratas da Câmara dos Deputados abrem investigação sobre Meredith O’Rourke, arrecadadora de fundos para Trump",
-      "titleOriginal": "House Democrats Open Inquiry into Trump Fundraiser Meredith O’Rourke",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWhJTUp0clA3N1Zlc1V1ajZuMXVEamhaaTNTakJpM1pBMVJiZ2xjanMtblhvcHZuNzFsY0VuRHhJb21WaXh4VnRoU3lGMDFFb2gyZ2ctZHFIcnFha3ZrbURfTWpiTS1aaG4yaHhVd09yb3hFR2ppN0F4d1paNzhjcDh4ZVFwTHpteXpyQ00tQlIwV21PZTVKR0kzbDVvRmlNbGd0SVFXc1Y?oc=5",
-      "source": "Breitbart",
-      "coverage": 3
+      "title": "Ameaças de assassinato iranianas complicam os esforços de Trump para acabar com a guerra no Irã",
+      "titleOriginal": "Iranian Assassination Threats Complicate Trump’s Efforts to End the Iran War",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wR3Utakw5aTA1elZHY1NmanNhdmxFWXBBbzBJMGphNW9mQmpJbTRiMnNIdG1Sc005RC1nTEFSNndwNWUzZXV2eDdxZW5OQkRwTVBrOUZtZWJ2N2tpVEJZWlRLSHV0S2toN1lzd29B?oc=5",
+      "source": "National Review",
+      "coverage": 5
     }
   ]
 }

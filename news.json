@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-13T09:59:09.308Z",
+  "updatedAt": "2026-11-13T16:25:39.364Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "O Federal Reserve deve renunciar à decisão sobre as taxas na reunião de outubro de 2027",
-      "titleOriginal": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
-      "publishedAt": "2026-11-13T09:27:25.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Resultados ao vivo das eleições para a Câmara dos Deputados dos EUA no Colorado em 2026",
-      "titleOriginal": "Colorado U.S. House Election Live Results 2026",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
-      "publishedAt": "2026-11-13T08:38:43.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "A interrupção da Microsoft afeta empresas e governos em todo o mundo enquanto a empresa tenta restaurar os serviços",
-      "titleOriginal": "Microsoft outage hits companies and governments worldwide as it struggles to restore services",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
-      "publishedAt": "2026-11-13T07:47:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Atirador de Logan Circle disparou 4 vezes de uma varanda e iniciou um incêndio, segundo a polícia",
-      "titleOriginal": "Logan Circle gunman shot 4 from balcony, started fire, police say",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHpnQ2lKRTR0QXl5U3FBY2pET0Jra0NxNlQ1aDBIXy1EU050SFJZbXFNQXlHNlc1ZU4yX2dMQm4tM2JPaHlXbHdMYTUwbENWT0ROTmpJRURPUklmSVZxYlJTUi1hX05zMEUtV2JIZkhFWjR5VE5CU1ZBVTdiMnprb0FKOTFfQnIxX0VlNnhVWXI?oc=5",
-      "publishedAt": "2026-11-13T05:45:02.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Após alegações de tráfico de influência, a Casa Branca restringe as reuniões com lobistas",
-      "titleOriginal": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
-      "publishedAt": "2026-11-13T05:24:15.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Grupo político democrata lança nova iniciativa para moldar a agenda da IA antes de 2028",
-      "titleOriginal": "Democratic political group launches new push to shape AI agenda ahead of 2028",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFcwWkZEbUlrWUJEY3B2ZlBjUnhqci14R2xyV3FXWWFRM1FXTzdWbU1lZm4tcWxYbE1QbEhKRWVIQ0dNVnhHTktnZWdTVFk4T1QtZ2Y2RUJuRDIwaHVCZFhscjhaMEFmeEhTWVRSOEp5NURfZFlTOGpYZ2J6Y1d5NU55bnZ6UjRmTlo3WF9malo?oc=5",
-      "publishedAt": "2026-11-13T05:01:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Alex Murdaugh quer que as acusações de homicídio sejam anuladas, alegando que o agente mentiu para o grande júri",
-      "titleOriginal": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUNIWjQ4UThiQ2tmYXAwelYzYks4cVlSWV9ZUDR6WmdpcUdtd3Y0YmJfR002QmFBWEotVEppYlFyZGxFNzJxZ0RvZHMyd3QzOEZWRzVEYTJfLUJPTjJzQlY4VTY3Z2lFM3hiQmF0VnJCZDBiNm50NHJsYlNId1B0MWk0RXVuNEI1V3p3aWpLQWIwV1dYUUdsQ2hrMjU5czNN?oc=5",
-      "publishedAt": "2026-11-13T05:01:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Mark Kelly fala sobre Trump, a guerra com o Irã e sua decisão para 2028",
-      "titleOriginal": "Mark Kelly on Trump, the Iran War and his 2028 decision",
-      "link": "https://www.politico.com/video/2026/11/13/mark-kelly-on-trump-the-iran-war-and-his-2028-decision-2229213",
-      "publishedAt": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Chris Van Hollen se prepara para disputar com Chuck Schumer a liderança da maioria no Senado",
-      "titleOriginal": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "publishedAt": "2026-11-13T04:11:39.000Z"
+      "source": "The Hill",
+      "title": "Funcionários da Casa Branca precisarão de aprovação prévia para se reunir com lobistas, de acordo com o memorando de Stephen Miller",
+      "titleOriginal": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo",
+      "link": "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
+      "publishedAt": "2026-11-13T16:20:29.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Alito alerta que o Congresso pode \"apagar as luzes\" da Suprema Corte",
-      "titleOriginal": "Alito warns Congress can ‘turn off the lights’ at Supreme Court",
-      "link": "https://thehill.com/regulation/court-battles/6217960-alito-warns-congress-defunding/",
-      "publishedAt": "2026-11-13T03:39:47.000Z"
+      "title": "O Departamento de Justiça dos EUA (DOJ) orienta suas agências a \"priorizar\" o inglês em relação a todos os outros idiomas",
+      "titleOriginal": "DOJ instructs its agencies to 'prioritize' English over all other languages",
+      "link": "https://thehill.com/homenews/administration/6218825-doj-designates-english-official/",
+      "publishedAt": "2026-11-13T16:03:28.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "As eleições de meio de mandato e a história de duas Américas: caviar versus custo de vida",
+      "titleOriginal": "The midterms and a tale of two Americas: Caviar versus cost of living",
+      "link": "https://thehill.com/opinion/white-house/6217237-donald-trump-election-loss/",
+      "publishedAt": "2026-11-13T16:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aprovação de Trump atinge o menor nível histórico para um segundo mandato: pesquisa",
+      "titleOriginal": "Trump approval hits record second-term low: Survey",
+      "link": "https://thehill.com/homenews/administration/6218757-trump-approval-iran-midterms-2028/",
+      "publishedAt": "2026-11-13T15:57:55.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Microsoft informa sobre o progresso na recuperação de e-mails e outros serviços durante uma interrupção global",
+      "titleOriginal": "Microsoft reports progress in reviving email and other services during a global outage",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+      "publishedAt": "2026-11-13T15:31:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A economia da Rússia está cambaleando — Trump deveria aumentar a pressão se quiser paz",
+      "titleOriginal": "Russia's economy is reeling — Trump should be raising the pressure if he wants peace",
+      "link": "https://thehill.com/opinion/national-security/6215155-russian-economy-worsens-inflation-rises/",
+      "publishedAt": "2026-11-13T15:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Colom: \"Não é correto\" dizer que Schumer o recrutou",
+      "titleOriginal": "Colom: 'Not accurate' to say Schumer recruited him",
+      "link": "https://thehill.com/homenews/campaign/6218515-colom-denies-schumer-recruitment/",
+      "publishedAt": "2026-11-13T15:05:45.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Votamos porque eles não podem: o que os democratas devem fazer agora para corrigir a imigração",
+      "titleOriginal": "We vote because they can't: What Democrats must do now to fix mmigration",
+      "link": "https://thehill.com/opinion/immigration/6214421-democrats-immigration-enforcement-accountability/",
+      "publishedAt": "2026-11-13T15:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Casa Branca envia as indicações para a CFTC e a SEC ao Senado",
+      "titleOriginal": "White House sends CFTC, SEC nominations to Senate",
+      "link": "https://thehill.com/homenews/administration/6218493-white-house-cftc-sec-nominations-senate/",
+      "publishedAt": "2026-11-13T14:54:41.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O futuro de Kennedy: os democratas tentarão submetê-lo a um processo de impeachment ou realmente trabalharão com ele?",
+      "titleOriginal": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
+      "publishedAt": "2026-11-13T14:38:10.000Z"
     }
   ]
 }
