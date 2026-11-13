@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-12T18:57:36.556Z",
-  "slot": "2026-11-12-PM",
+  "updatedAt": "2026-11-13T07:59:46.419Z",
+  "slot": "2026-11-13-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Oficial do Exército dos EUA preso no Reino Unido sob suspeita de tentar roubar segredos para a Rússia",
-      "titleOriginal": "U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5",
-      "source": "Washington Post",
-      "coverage": 4
+      "title": "O juiz Richard A. Posner faleceu. Sua influência no Direito foi incomparável.",
+      "titleOriginal": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11X1dWMEdWTWExblJCZHZkaEFpbldDaFkyNWdqUmgyQ0puRGNraURzck93aVJFeDBnRHprcDU0X0t2VXh4ZVVleU1ITVZtZ0xsMnRGUkdlbGVrdUpDZlZGOWFpdnFaUWxWOWthSEdGYw?oc=5",
+      "source": "New York Times",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "O governo Trump bate recordes de deportação, removendo quase meio milhão de estrangeiros ilegais dos EUA",
-      "titleOriginal": "Trump Administration Breaks Deportation Records, Removing Almost Half a Million Illegal Aliens from U.S.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTRzaG85eUJ0cFdkMURjaXBSZkk3b0M3QU9RY2M0Q3ZwNVIydlFvWXVfaEZlVHZNTzZiUkxnYmFPRmNLR3FlX3Q0a1lLMGxsdUxvT2prWHVzZHptOGx2Tm44N3luZWhKVHA3eC1tSmc2eHpxaDNIVFRReWpSNnFZRlZWeWFTZGw1TmNwdUpxRVBMZ0x0NE5xcUJfdUd0MjFZbzlOVkx1MTgwckh5VTV4ZHhJNm84UHVDZmwtNUs0a1FjWWgt?oc=5",
+      "title": "Democratas da Câmara dos Deputados abrem investigação sobre Meredith O’Rourke, arrecadadora de fundos para Trump",
+      "titleOriginal": "House Democrats Open Inquiry into Trump Fundraiser Meredith O’Rourke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWhJTUp0clA3N1Zlc1V1ajZuMXVEamhaaTNTakJpM1pBMVJiZ2xjanMtblhvcHZuNzFsY0VuRHhJb21WaXh4VnRoU3lGMDFFb2gyZ2ctZHFIcnFha3ZrbURfTWpiTS1aaG4yaHhVd09yb3hFR2ppN0F4d1paNzhjcDh4ZVFwTHpteXpyQ00tQlIwV21PZTVKR0kzbDVvRmlNbGd0SVFXc1Y?oc=5",
       "source": "Breitbart",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
