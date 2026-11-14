@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-11-14T19:28:44.899Z",
+  "updatedAt": "2026-11-14T21:30:58.670Z",
   "count": 10,
   "items": [
     {
       "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-14T19:26:30.000Z"
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-14T21:25:25.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Os democratas resistem à exigência de Duffy de US$ 50 bilhões para modernizar os sistemas de tráfego aéreo.",
+      "titleOriginal": "Democrats push back on Duffy’s demand for $50 billion to upgrade air traffic systems.",
+      "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa",
+      "publishedAt": "2026-11-14T21:15:09.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A polícia suspende a evacuação após a descoberta de uma bomba perto de uma usina de etanol no centro de Illinois",
+      "titleOriginal": "Police lift evacuation after bomb found near ethanol plant in central Illinois",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREM5bzlpMHFTVDBhTU14TWxjU0xRcEd6bWNGSzlRd1VJVWdKV3p3NEdyWTRHZ2QxaDhkb0NtTlNmSXZCRU9VSDhtR3V4QWVXVms4NFFzaWpxRmhrbVI1RC1nNjJzbG82Ykx6by1ZbHBac2FoTGdQQ0xDd3ByNjFLLV9TYV9iZEpOcHo2bFlBUlE?oc=5",
+      "publishedAt": "2026-11-14T20:37:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump diz que está trabalhando com senadores de ambos os partidos na legislação da indústria cinematográfica",
+      "titleOriginal": "Trump says he's working with bipartisan senators on film industry legislation",
+      "link": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/",
+      "publishedAt": "2026-11-14T20:29:07.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Irã leva a guerra para além do Oriente Médio",
+      "titleOriginal": "Iran Takes the War Beyond the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
+      "publishedAt": "2026-11-14T20:25:50.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Preços do petróleo se recuperam enquanto Trump questiona a necessidade do acordo com o Irã",
+      "titleOriginal": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+      "publishedAt": "2026-11-14T20:23:47.000Z"
     },
     {
       "source": "The Hill",
@@ -15,13 +50,6 @@
       "titleOriginal": "The MAGA-lomaniacs who could drag America into the abyss",
       "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
       "publishedAt": "2026-11-14T19:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O trader de 31 anos que denunciou o \"problema da China\" de Jensen Huang e vendeu a Nvidia a descoberto",
-      "titleOriginal": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-      "publishedAt": "2026-11-14T18:49:35.000Z"
     },
     {
       "source": "New York Times",
@@ -32,10 +60,10 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Esta startup arrecadou US$ 1 bilhão para desenvolver IA mais rapidamente e com menos pessoas",
-      "titleOriginal": "This Startup Raised $1 Billion to Build AI Faster and With Fewer Humans",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkxPOGVxOXJ1ZHo1Wjh4YjRHamNPWFZUUXhWMG1FSU5EUmZRcHZ2QXRyWk5Va1hiRFEyOHdlZGZkNTkwYjJkVUh6Y3l4TVhuTnFiSDRfa2M4amV6ODc5MnFSVi0xd3ZsTzVEZ2lEdlNfVE1OX2ZKSkJDZDlaUHNFV3JsVHhMX3ZEOGlrdEpRMEtTMGxyck1kbVlPSWhnSmZuelVZRnRNcUR2M0dULWJpd3phaGRoOXc5WXVz?oc=5",
-      "publishedAt": "2026-11-14T18:10:18.000Z"
+      "title": "Duffy culpa o Congresso e exige US$ 50 bilhões enquanto a Casa Branca enfrenta o caos nos aeroportos",
+      "titleOriginal": "Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUF9BSS0xMzVoWGd0S3BxRUR1V2MxRGxteDFuN0FLRGstVmZwOHItR0VQUG1VM0ZtblBKYUZwVGJmWWNTNlVXOXZpcVhUYmtqOUFLWUdkakl2NmVFZDY4U3dkU3FKTDJIaGlaRklvelIwMEtvNDJMZEVJNHpXUDB4d2JSdl96WmpQMUkzRk9CcEZHcFNaQ1VLQkJleEJ5QVZWWEZFLTktcS12RFVEdlpJdE1peGxxX1RjZjktUUJLR20?oc=5",
+      "publishedAt": "2026-11-14T18:35:00.000Z"
     },
     {
       "source": "The Hill",
@@ -43,34 +71,6 @@
       "titleOriginal": "Russia must be held accountable for its crimes",
       "link": "https://thehill.com/opinion/international/6218654-russia-war-crimes-ukraine/",
       "publishedAt": "2026-11-14T18:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Homens: veja como renovar seu guarda-roupa de trabalho com roupas vintage",
-      "titleOriginal": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV0anlhUWFuejdoNnNpVmZOUzYwanZvaTBnZXB5RFhkMTVsQXNLUF9jQ0ZpdC1sdEtwb240dXNfOC1YblJsWVV3R0Y5S1poYWNNWE82YXlqbFB4NUJxamdCMEhPQ24yRlcxNG9LeDdxOTd5NW5aR0Vjbm5YNXNJbw?oc=5",
-      "publishedAt": "2026-11-14T17:10:57.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump, Xi e Putin planejam reunião conjunta sem precedentes à margem da APEC, dizem a Casa Branca e o Kremlin",
-      "titleOriginal": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-      "publishedAt": "2026-11-14T17:04:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Nova York entra com ação judicial contra a lei de \"rótulos de advertência\" para aplicativos de redes sociais",
-      "titleOriginal": "New York sued over 'warning label' law for social media applications",
-      "link": "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/",
-      "publishedAt": "2026-11-14T17:01:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Chega de guerra política contra Elon Musk — nossa própria sobrevivência pode depender dele",
-      "titleOriginal": "Stop the political warfare against Elon Musk — our very survival may depend on him",
-      "link": "https://thehill.com/opinion/campaign/6218513-musk-space-civilization-survival/",
-      "publishedAt": "2026-11-14T17:00:00.000Z"
     }
   ]
 }
