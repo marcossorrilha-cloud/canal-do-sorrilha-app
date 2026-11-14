@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-13T16:25:51.017Z",
-  "slot": "2026-11-13-PM",
+  "updatedAt": "2026-11-14T03:17:20.577Z",
+  "slot": "2026-11-14-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "A relação entre os EUA e Israel está rompida. Veja como Eisenkot poderia consertá-la.",
-      "titleOriginal": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDl3Q3pVM1Z2bFc0QldEZlFCVHdJdVFOek5lS1NVeVBpdWE3SFY2ZkJCbHN5WWN4MGRBNndIMlBNYXROYnJuYklpWTNta00taEVBM2g4OFFPRkxDTG1UTGFGaXY0aHRkMjFOS0doRHNwbDJabUJXWVdrZE1hMHlLVjFtQks?oc=5",
-      "source": "New York Times",
-      "coverage": 2
+      "title": "A Europa e a Ucrânia recebem um impulso nas negociações de paz, mas Putin está ganhando tempo",
+      "titleOriginal": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
+      "source": "CNN",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Ameaças de assassinato iranianas complicam os esforços de Trump para acabar com a guerra no Irã",
-      "titleOriginal": "Iranian Assassination Threats Complicate Trump’s Efforts to End the Iran War",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wR3Utakw5aTA1elZHY1NmanNhdmxFWXBBbzBJMGphNW9mQmpJbTRiMnNIdG1Sc005RC1nTEFSNndwNWUzZXV2eDdxZW5OQkRwTVBrOUZtZWJ2N2tpVEJZWlRLSHV0S2toN1lzd29B?oc=5",
-      "source": "National Review",
-      "coverage": 5
+      "title": "Médico-chefe do Congresso renuncia em meio a investigação sobre ambiente de trabalho tóxico e alegações de que ele fez com que funcionários cortassem as unhas dos pés dos legisladores",
+      "titleOriginal": "Congress’ top doc resigns amid probe into toxic work environment, claims he made staff cut lawmakers’ toenails",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFN2aElyVFVQZ2laV0VjcE9Gc0dKVWR4V0JhelliaG5MMFhOSWlVNU5rLVRpUG9PdWhkSFdKZmw1eTVoNlRfOGFzSHpqdDNaVFUxWGh6Wm16cHRjcVcycFNVR1JXOXFZZ2pqZ1Y4a05POE9ZdXhHYjNPdTJYMnNWZEdFajlEWW9GclZ4azZBQUc0aHlVWEVVYTRveGZFSWJpa3hqVVhiY25PMW5DXzRHcTRhN3hRem4xWjZ2TXVXMm9WS3ZGVVByekFaZms5aHhIWGhzRlVqaG9XN3JKVl9n?oc=5",
+      "source": "New York Post",
+      "coverage": 3
     }
   ]
 }
