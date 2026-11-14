@@ -1,34 +1,69 @@
 {
-  "updatedAt": "2026-11-14T14:31:23.543Z",
+  "updatedAt": "2026-11-14T17:09:33.518Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "O trader de 31 anos que denunciou o \"problema da China\" de Jensen Huang e vendeu a Nvidia a descoberto",
-      "titleOriginal": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-      "publishedAt": "2026-11-14T14:19:35.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações em tempo real: as viagens aéreas nos EUA se recuperam após a paralisação; a Federalist Society se reúne após a onda azul",
-      "titleOriginal": "Live updates: US air travel recovers from ground stop; Federalist Society gathers following blue wave",
-      "link": "https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/",
-      "publishedAt": "2026-11-14T14:00:00.000Z"
+      "source": "AP News",
+      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
+      "titleOriginal": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "publishedAt": "2026-11-14T17:05:22.000Z"
     },
     {
       "source": "AP News",
-      "title": "Resultados das eleições para o Senado dos EUA de 2026",
-      "titleOriginal": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-14T13:38:15.000Z"
+      "title": "Trump, Xi e Putin planejam reunião conjunta sem precedentes à margem da APEC, dizem a Casa Branca e o Kremlin",
+      "titleOriginal": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+      "publishedAt": "2026-11-14T17:04:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nova York entra com ação judicial contra a lei de \"rótulos de advertência\" para aplicativos de redes sociais",
+      "titleOriginal": "New York sued over 'warning label' law for social media applications",
+      "link": "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/",
+      "publishedAt": "2026-11-14T17:01:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "É preciso parar a guerra política contra Elon Musk — nossa própria sobrevivência pode depender dele",
+      "titleOriginal": "Stop the political warfare against Elon Musk — our very survival may depend on him",
+      "link": "https://thehill.com/opinion/campaign/6218513-musk-space-civilization-survival/",
+      "publishedAt": "2026-11-14T17:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Musk: \"Negócios importantes serão perdidos\" na Nvidia sem Huang",
+      "titleOriginal": "Musk: 'Critical deals will be lost' at Nvidia without Huang",
+      "link": "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/",
+      "publishedAt": "2026-11-14T16:02:25.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Putin tinha quatro planos para derrotar a Ucrânia. Agora, só lhe restam dois.",
-      "titleOriginal": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUwtNDZmd2xnRmh5QU5UQWs1UWhXZXZsT3Vab2dPU3E4S295N0ZtWW1mQWN3NkdSNkJDeHdPV3FmUDRVVXVGWjlxS1B5dU50a2xMSGF4dEpjajltZEtrVmxWd1Y0Nlo2bGJBN0pWNUVBQlRvRlItSFJRcDROaGhXWk1yeDJDTzFGZm00WDBVSWpNRkx5VTgzcUFYY2xZVFlEa0tZ?oc=5",
-      "publishedAt": "2026-11-14T13:31:37.000Z"
+      "title": "O Irã leva a guerra para além do Oriente Médio",
+      "titleOriginal": "Iran Takes the War Beyond the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
+      "publishedAt": "2026-11-14T15:55:50.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os democratas vencem uma eleição e imediatamente passam a subverter a democracia",
+      "titleOriginal": "Democrats win an election and immediately move to subvert democracy",
+      "link": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/",
+      "publishedAt": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Democratas da Câmara dos Deputados abrem inquérito após legislador recém-eleito ser acusado de assédio sexual",
+      "titleOriginal": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html",
+      "publishedAt": "2026-11-14T14:51:05.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações ao vivo: as viagens aéreas nos EUA se recuperam após a paralisação; a Federalist Society se reúne após a onda azul",
+      "titleOriginal": "Live updates: US air travel recovers from ground stop; Federalist Society gathers following blue wave",
+      "link": "https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/",
+      "publishedAt": "2026-11-14T14:00:00.000Z"
     },
     {
       "source": "New York Times",
@@ -36,41 +71,6 @@
       "titleOriginal": "What’s Behind the Trump-Huang Relationship?",
       "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
       "publishedAt": "2026-11-14T13:27:10.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Peltola tem uma vantagem de quase 4 pontos sobre Sullivan na última contagem de votos",
-      "titleOriginal": "Peltola holds nearly 4-point lead on Sullivan in latest ballot drop",
-      "link": "https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/",
-      "publishedAt": "2026-11-14T13:02:13.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assassinos enfrentam a justiça décadas depois. Por que os estupradores de crianças são protegidos de acusações mais antigas?",
-      "titleOriginal": "Murderers face justice decades later. Why are child-rapists protected from older charges?",
-      "link": "https://thehill.com/opinion/judiciary/6216057-justice-for-sexual-abuse-victims/",
-      "publishedAt": "2026-11-14T13:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Irã leva a guerra para além do Oriente Médio",
-      "titleOriginal": "Iran Takes the War Beyond the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-      "publishedAt": "2026-11-14T12:55:50.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O MAGA se volta contra Lutnick em meio ao escândalo de espionagem da China",
-      "titleOriginal": "MAGA turns on Lutnick amid China spy scandal",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
-      "publishedAt": "2026-11-14T12:39:39.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Os preços dos alimentos no atacado estão subindo",
-      "titleOriginal": "Wholesale food prices are on the rise",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKc05JZEtZNzBDd1dRVlI2anE2Qi12ZG1pSmgzOGh0ZGxzUURiYVhDVHV5Y0hheHRWTmQyVUNUcVZDM0RMYmlsekxqMmRQbHFGZHFwQ3dhRmVuSDdXZ1pxZWprUFJ2TG56azRjYUsxMXN6M21xSFl0TWwzMA?oc=5",
-      "publishedAt": "2026-11-14T11:30:36.000Z"
     }
   ]
 }
