@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:09:33.518Z",
+  "updatedAt": "2026-11-14T19:28:44.899Z",
   "count": 10,
   "items": [
     {
@@ -7,7 +7,49 @@
       "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
       "titleOriginal": "2026 U.S. House Election Results",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-14T17:05:22.000Z"
+      "publishedAt": "2026-11-14T19:26:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Os megalomaníacos do MAGA que poderiam levar os Estados Unidos ao abismo",
+      "titleOriginal": "The MAGA-lomaniacs who could drag America into the abyss",
+      "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
+      "publishedAt": "2026-11-14T19:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O trader de 31 anos que denunciou o \"problema da China\" de Jensen Huang e vendeu a Nvidia a descoberto",
+      "titleOriginal": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+      "publishedAt": "2026-11-14T18:49:35.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump se reunirá com Putin e Xi na China, com a proliferação nuclear na pauta",
+      "titleOriginal": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+      "publishedAt": "2026-11-14T18:36:58.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Esta startup arrecadou US$ 1 bilhão para desenvolver IA mais rapidamente e com menos pessoas",
+      "titleOriginal": "This Startup Raised $1 Billion to Build AI Faster and With Fewer Humans",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkxPOGVxOXJ1ZHo1Wjh4YjRHamNPWFZUUXhWMG1FSU5EUmZRcHZ2QXRyWk5Va1hiRFEyOHdlZGZkNTkwYjJkVUh6Y3l4TVhuTnFiSDRfa2M4amV6ODc5MnFSVi0xd3ZsTzVEZ2lEdlNfVE1OX2ZKSkJDZDlaUHNFV3JsVHhMX3ZEOGlrdEpRMEtTMGxyck1kbVlPSWhnSmZuelVZRnRNcUR2M0dULWJpd3phaGRoOXc5WXVz?oc=5",
+      "publishedAt": "2026-11-14T18:10:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A Rússia deve ser responsabilizada por seus crimes",
+      "titleOriginal": "Russia must be held accountable for its crimes",
+      "link": "https://thehill.com/opinion/international/6218654-russia-war-crimes-ukraine/",
+      "publishedAt": "2026-11-14T18:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Homens: veja como renovar seu guarda-roupa de trabalho com roupas vintage",
+      "titleOriginal": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV0anlhUWFuejdoNnNpVmZOUzYwanZvaTBnZXB5RFhkMTVsQXNLUF9jQ0ZpdC1sdEtwb240dXNfOC1YblJsWVV3R0Y5S1poYWNNWE82YXlqbFB4NUJxamdCMEhPQ24yRlcxNG9LeDdxOTd5NW5aR0Vjbm5YNXNJbw?oc=5",
+      "publishedAt": "2026-11-14T17:10:57.000Z"
     },
     {
       "source": "AP News",
@@ -25,52 +67,10 @@
     },
     {
       "source": "The Hill",
-      "title": "É preciso parar a guerra política contra Elon Musk — nossa própria sobrevivência pode depender dele",
+      "title": "Chega de guerra política contra Elon Musk — nossa própria sobrevivência pode depender dele",
       "titleOriginal": "Stop the political warfare against Elon Musk — our very survival may depend on him",
       "link": "https://thehill.com/opinion/campaign/6218513-musk-space-civilization-survival/",
       "publishedAt": "2026-11-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Musk: \"Negócios importantes serão perdidos\" na Nvidia sem Huang",
-      "titleOriginal": "Musk: 'Critical deals will be lost' at Nvidia without Huang",
-      "link": "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/",
-      "publishedAt": "2026-11-14T16:02:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O Irã leva a guerra para além do Oriente Médio",
-      "titleOriginal": "Iran Takes the War Beyond the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-      "publishedAt": "2026-11-14T15:55:50.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas vencem uma eleição e imediatamente passam a subverter a democracia",
-      "titleOriginal": "Democrats win an election and immediately move to subvert democracy",
-      "link": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/",
-      "publishedAt": "2026-11-14T15:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Democratas da Câmara dos Deputados abrem inquérito após legislador recém-eleito ser acusado de assédio sexual",
-      "titleOriginal": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html",
-      "publishedAt": "2026-11-14T14:51:05.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Atualizações ao vivo: as viagens aéreas nos EUA se recuperam após a paralisação; a Federalist Society se reúne após a onda azul",
-      "titleOriginal": "Live updates: US air travel recovers from ground stop; Federalist Society gathers following blue wave",
-      "link": "https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/",
-      "publishedAt": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O que está por trás da relação entre Trump e Huang?",
-      "titleOriginal": "What’s Behind the Trump-Huang Relationship?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
-      "publishedAt": "2026-11-14T13:27:10.000Z"
     }
   ]
 }
