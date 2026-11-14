@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-14T03:17:11.183Z",
+  "updatedAt": "2026-11-14T07:01:27.856Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Resultados das eleições para o Senado dos EUA de 2026",
-      "titleOriginal": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-14T03:12:55.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O governo Trump culpa os sistemas \"sobrecarregados\" pela paralisação dos voos após a FAA permitir a retomada dos voos",
-      "titleOriginal": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-      "publishedAt": "2026-11-14T03:05:00.000Z"
-    },
-    {
       "source": "New York Times",
-      "title": "Democratas da Câmara abrem investigação após legislador recém-eleito ser acusado de assédio sexual",
-      "titleOriginal": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html",
-      "publishedAt": "2026-11-14T02:15:50.000Z"
+      "title": "Chris Van Hollen se prepara para disputar com Chuck Schumer a liderança da maioria no Senado",
+      "titleOriginal": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "publishedAt": "2026-11-14T06:59:09.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para a Câmara dos Deputados dos EUA de 2026",
+      "titleOriginal": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "publishedAt": "2026-11-14T06:57:01.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | Poderosos aliados de Trump ajudaram uma operação chinesa de cigarros eletrônicos",
-      "titleOriginal": "Exclusive | Powerful Trump Allies Aided a Chinese Vape Operation",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0xSTUNxS1dwNy00ZHBHSmVqSUlEdmhUWENKUGZZYzRSOEdRZE1SVGVvQ2ZRUG1WSkZrQTBQVnJaOHgtN3JoMGhiYjJMRVhxNjdLcW05U3VmU1k1ZXA3bWduWmZmdWJPUTA2MW4xbjQ3XzNMSWQ4dXVuVE1nRnBCT2RwTQ?oc=5",
-      "publishedAt": "2026-11-14T02:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "\"A surra que precisávamos levar\": uma derrota no coração do Partido Republicano expõe um partido em frangalhos",
-      "titleOriginal": "‘The Ass-Kicking We Needed’: A Loss in GOP Heartland Exposes a Party in Pieces",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVFha3pPSHFEVGRaeElSNGFpWjBvSng0UzN5SlNXRnRtbE5fOWNkZXJBaHNaQXZYWk5WR0U1NE9EckJwNGFTTkNldGxGb2J3TkdVYTBZUUVPODYteVRTU3JrSjRzTUkzdGtQbTlwbXNETTZySlpYM1piWnVGaS11akZlTGxPT3lqdzhWSW54R3lqaFQw?oc=5",
-      "publishedAt": "2026-11-14T01:50:42.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump, Putin e Xi se reunirão no primeiro encontro trilateral entre os líderes",
-      "titleOriginal": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
-      "link": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
-      "publishedAt": "2026-11-14T01:30:55.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "As guerras de redistritamento saíram pela culatra para os republicanos? Em uma palavra, não.",
-      "titleOriginal": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
-      "link": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
-      "publishedAt": "2026-11-14T01:18:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O governo Trump cancela o aumento salarial obrigatório para professores do programa Head Start",
-      "titleOriginal": "Trump administration cancels mandatory pay hike for Head Start teachers",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdElLamtHcXp3Wnl1ZkVQLVNXTTBhcWtsMUZsSDRXUzhkWWhDOEtvZGhoSEU4U0FEeXRTd2YwOHZYVXg3Z0t3ZllqWEI4MkhNc1Z6TzNDZVRGbW9YaS1OenpMeThBNjJnTnM2Uno2M0tjMlhaSE1kY240SzNzQnUtcHR2OTEzLUtEM2dzdElHcUhRT3lwZDNMMEt3?oc=5",
-      "publishedAt": "2026-11-14T00:57:00.000Z"
+      "title": "O trader de 31 anos que denunciou o \"problema da China\" de Jensen Huang e vendeu a Nvidia a descoberto",
+      "titleOriginal": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+      "publishedAt": "2026-11-14T06:49:33.000Z"
     },
     {
       "source": "Wall Street Journal",
       "title": "O Irã leva a guerra para além do Oriente Médio",
       "titleOriginal": "Iran Takes the War Beyond the Middle East",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-      "publishedAt": "2026-11-14T00:50:50.000Z"
+      "publishedAt": "2026-11-14T06:17:05.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "As guerras de redistritamento saíram pela culatra para os republicanos? Em uma palavra, não.",
+      "titleOriginal": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+      "link": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
+      "publishedAt": "2026-11-14T05:14:26.000Z"
     },
     {
       "source": "AP News",
-      "title": "Rubio afirma que não são necessárias mais ações militares dos EUA contra o Irã, que está economicamente enfraquecido",
-      "titleOriginal": "Rubio says further US military action is not needed against economically weakened Iran",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
-      "publishedAt": "2026-11-14T00:45:00.000Z"
+      "title": "Eleitores do Alasca rejeitam proposta de emenda constitucional que buscava revogar as primárias abertas e o sistema de votação preferencial",
+      "titleOriginal": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHZxR0tjdTY5VnFOYTNrR2pnTENGQnZ5NUVQNDlSYmVuU1lOU2xwZllqRVVFUVI2Q181NFFpU3hjNEtNNHlGRFg3TUhabGJoX2k2VUJ4SmNldjBYNTdidlpjbGM0bklGZUk1S0dEVDN6U3VGRWpvMnZSX2ZzUHF5cEFqOEpmOEcydGliRnpjMjJMeVVkT044WHJJZWw?oc=5",
+      "publishedAt": "2026-11-14T05:14:00.000Z"
+    },
+    {
+      "source": "Politico",
+      "title": "O democrata Jonathan Kreiss-Tomkins conquista o cargo de governador do Alasca",
+      "titleOriginal": "Democrat Jonathan Kreiss-Tomkins flips Alaska’s gubernatorial seat",
+      "link": "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573",
+      "publishedAt": "2026-11-14T05:07:08.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "O governo Trump culpa os sistemas \"sobrecarregados\" pela paralisação dos voos após a FAA permitir que eles fossem retomados",
+      "titleOriginal": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+      "publishedAt": "2026-11-14T04:57:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Até mesmo os democratas mais ambiciosos se viram de pés no chão na cidade de Denver, conhecida como \"Mile High City\" (cidade a uma milha de altura).",
+      "titleOriginal": "Even High-Flying Democrats Found Themselves Grounded in the Mile High City",
+      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html",
+      "publishedAt": "2026-11-14T04:03:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump se reunirá com Putin e Xi na China, com a proliferação nuclear na pauta",
+      "titleOriginal": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+      "publishedAt": "2026-11-14T02:24:24.000Z"
     }
   ]
 }
