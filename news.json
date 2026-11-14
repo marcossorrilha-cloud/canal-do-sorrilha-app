@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-14T07:01:27.856Z",
+  "updatedAt": "2026-11-14T10:39:43.859Z",
   "count": 10,
   "items": [
-    {
-      "source": "New York Times",
-      "title": "Chris Van Hollen se prepara para disputar com Chuck Schumer a liderança da maioria no Senado",
-      "titleOriginal": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "publishedAt": "2026-11-14T06:59:09.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Deputados dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-14T06:57:01.000Z"
-    },
     {
       "source": "Wall Street Journal",
       "title": "O trader de 31 anos que denunciou o \"problema da China\" de Jensen Huang e vendeu a Nvidia a descoberto",
       "titleOriginal": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-      "publishedAt": "2026-11-14T06:49:33.000Z"
+      "publishedAt": "2026-11-14T10:35:09.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "O Irã leva a guerra para além do Oriente Médio",
-      "titleOriginal": "Iran Takes the War Beyond the Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-      "publishedAt": "2026-11-14T06:17:05.000Z"
+      "title": "A Ucrânia afirma que seu Starlink militar está interrompido novamente, prejudicando as defesas",
+      "titleOriginal": "Ukraine Says Its Military Starlink Is Disrupted Again, Hurting Defenses",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON21HTW5paGs5bGJjV0FNQVEwNDY2Q2hWaWJ2QmZaVW1zZGdWOGNWN2Vfdi11bWNNZUY2RFVMLXpoSHkzejBUMEpKcjlXSVVlWmd4Zm5iZjNtMWJDa0lPZFphU2NyOFdsZHFVVHZ4TG55alIwZlFTV0thOFdKTWx6clotUldJdlVxdWFQM2JVT29ZbVE0ajd4aldmTHppeVZiMWVnVThvdC0?oc=5",
+      "publishedAt": "2026-11-14T10:11:47.000Z"
     },
     {
       "source": "New York Times",
-      "title": "As guerras de redistritamento saíram pela culatra para os republicanos? Em uma palavra, não.",
-      "titleOriginal": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
-      "link": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
-      "publishedAt": "2026-11-14T05:14:26.000Z"
+      "title": "Principal democrata busca projeto de lei orçamentária à prova de obstrucionismo para destravar a agenda de acessibilidade",
+      "titleOriginal": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+      "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
+      "publishedAt": "2026-11-14T10:01:49.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "\"A surra que precisávamos levar\": uma derrota no coração do Partido Republicano expõe um partido em frangalhos",
+      "titleOriginal": "‘The Ass-Kicking We Needed’: A Loss in GOP Heartland Exposes a Party in Pieces",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVFha3pPSHFEVGRaeElSNGFpWjBvSng0UzN5SlNXRnRtbE5fOWNkZXJBaHNaQXZYWk5WR0U1NE9EckJwNGFTTkNldGxGb2J3TkdVYTBZUUVPODYteVRTU3JrSjRzTUkzdGtQbTlwbXNETTZySlpYM1piWnVGaS11akZlTGxPT3lqdzhWSW54R3lqaFQw?oc=5",
+      "publishedAt": "2026-11-14T10:00:09.000Z"
     },
     {
       "source": "AP News",
-      "title": "Eleitores do Alasca rejeitam proposta de emenda constitucional que buscava revogar as primárias abertas e o sistema de votação preferencial",
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-14T09:42:24.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "A Microsoft afirma que os serviços foram totalmente restabelecidos após uma interrupção global que durou horas",
+      "titleOriginal": "Microsoft says services fully restored after hourslong global outage",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+      "publishedAt": "2026-11-14T09:12:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump, Xi e Putin planejam uma reunião conjunta sem precedentes à margem da APEC, diz a Casa Branca",
+      "titleOriginal": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+      "publishedAt": "2026-11-14T07:56:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por dentro da primeira semana frenética de Stephen Miller como chefe de gabinete da Casa Branca",
+      "titleOriginal": "Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzRVVWxXX2pWd1I0WUZzak9QMFFMSXVWMEJ0eUVtTG56bDQ3TmY0dGU0Rm53bnl4T3hjU0w0ekxhQlRoOXNJYjU5MlM0dzJUalBSR05VcDQ5SXI5akl1Q3gzX2RieUt2SmVJOHRfTUh5VHp1ZUFvd2lVSW1TcV9adkpTN18xYXdmcHc5bVJSOGUxd1JZREw4RHNkWU5Sc2NDYS1hRGpsWlNHbU5JUmVPbUpUTlI4Y0tq?oc=5",
+      "publishedAt": "2026-11-14T06:30:51.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Eleitores do Alasca rejeitam proposta de emenda constitucional que visava revogar as primárias abertas e o sistema de votação preferencial",
       "titleOriginal": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHZxR0tjdTY5VnFOYTNrR2pnTENGQnZ5NUVQNDlSYmVuU1lOU2xwZllqRVVFUVI2Q181NFFpU3hjNEtNNHlGRFg3TUhabGJoX2k2VUJ4SmNldjBYNTdidlpjbGM0bklGZUk1S0dEVDN6U3VGRWpvMnZSX2ZzUHF5cEFqOEpmOEcydGliRnpjMjJMeVVkT044WHJJZWw?oc=5",
-      "publishedAt": "2026-11-14T05:14:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "O democrata Jonathan Kreiss-Tomkins conquista o cargo de governador do Alasca",
-      "titleOriginal": "Democrat Jonathan Kreiss-Tomkins flips Alaska’s gubernatorial seat",
-      "link": "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573",
-      "publishedAt": "2026-11-14T05:07:08.000Z"
+      "publishedAt": "2026-11-14T06:00:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "O governo Trump culpa os sistemas \"sobrecarregados\" pela paralisação dos voos após a FAA permitir que eles fossem retomados",
-      "titleOriginal": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-      "publishedAt": "2026-11-14T04:57:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Até mesmo os democratas mais ambiciosos se viram de pés no chão na cidade de Denver, conhecida como \"Mile High City\" (cidade a uma milha de altura).",
-      "titleOriginal": "Even High-Flying Democrats Found Themselves Grounded in the Mile High City",
-      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html",
-      "publishedAt": "2026-11-14T04:03:04.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Trump se reunirá com Putin e Xi na China, com a proliferação nuclear na pauta",
-      "titleOriginal": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
-      "publishedAt": "2026-11-14T02:24:24.000Z"
+      "title": "Com a mudança na retórica sobre o Irã após as eleições nos EUA, Trump deixa o Oriente Médio em dúvida sobre o caminho a seguir",
+      "titleOriginal": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5",
+      "publishedAt": "2026-11-14T05:56:00.000Z"
     }
   ]
 }
