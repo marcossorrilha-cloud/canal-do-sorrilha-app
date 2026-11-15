@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-15T03:05:39.180Z",
-  "slot": "2026-11-15-AM",
+  "updatedAt": "2026-11-15T17:12:43.319Z",
+  "slot": "2026-11-15-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Zelensky acusa a SpaceX de mentir sobre o Starshield e diz que os EUA propuseram um acordo de Donbass pela OTAN | Ucrânia",
-      "titleOriginal": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5",
+      "title": "Informe sobre a guerra na Ucrânia: Zelensky afirma que os EUA propõem que Kiev ceda terras à Rússia em troca da adesão à OTAN",
+      "titleOriginal": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
       "source": "The Guardian",
-      "coverage": 2
+      "coverage": 3
     },
     {
       "audience": "left",
@@ -20,7 +20,7 @@
       "titleOriginal": "Gavin Newsom Reveals When He’ll Decide on 2028 Presidential Run",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzRKVXJkdGs1eEdUTmlFVWFkd2pLbWZQMkdWdTIxbGRSY0YweW1US0dHNkY0Z3NGdmJNazRCTEQtQjZaSjlNcm1WRkw2NUpxQkJMNXdFM3I2T2xJX3ZZR2s4d292MVlmbGREMVlZVkJScWk0dDRKeFlwMXA4dUdrUVgwTmZzSkxpS2EzSzJWVTFZTHVXTG13bXRQTTQ0Y0dvaWhHcWh2WkVIeS1yN2c?oc=5",
       "source": "Breitbart",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
