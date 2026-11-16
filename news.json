@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-16T20:29:56.042Z",
+  "updatedAt": "2026-11-16T22:31:20.744Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Clientes dos principais bancos dos EUA relatam dificuldades com alguns serviços online",
-      "titleOriginal": "Customers at major US banks report difficulty with some online services",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-      "publishedAt": "2026-11-16T20:08:00.000Z"
+      "source": "New York Times",
+      "title": "O governo Trump buscou dados do LinkedIn em um esforço para identificar fontes do New York Times",
+      "titleOriginal": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+      "publishedAt": "2026-11-16T22:13:59.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Resultados das eleições para o Senado dos EUA de 2026",
-      "titleOriginal": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "publishedAt": "2026-11-16T19:58:04.000Z"
+      "source": "The Hill",
+      "title": "Procurador-geral da Califórnia processa a OpenAI por supostas falhas de segurança",
+      "titleOriginal": "California attorney general sues OpenAI over alleged safety failures",
+      "link": "https://thehill.com/homenews/state-watch/6223583-california-sues-openai-huggingface-hack/",
+      "publishedAt": "2026-11-16T22:09:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lista de líderes: Schumer enfrenta desafio de Van Hollen para a liderança democrata no Senado",
+      "titleOriginal": "Whip List: Schumer faces challenge from Van Hollen for Senate Democratic leader",
+      "link": "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
+      "publishedAt": "2026-11-16T22:05:44.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Democratas entram com ação judicial para impedir que o líder do Senado assuma seu assento",
+      "titleOriginal": "Democrats sue to block Senate leader from taking seat",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkRDN3Z0WWtEM1JDNVlmYU9yYVJtTWNmVlpXZkg3Q09QaS1DTnI5dU9PV1NjWGJlb2otdUxQRU1UZFBSVUYycmdFcm5hd1VWYm51dV9rSFJENGg3anN5NXVINE93amVNMW9vZndLbzdtbEtQZVhzTTVTN1hxa1IzR2tYdkxueDd1eV9HSWVBMTU1SU5QUGZETWk4d2NrODg?oc=5",
+      "publishedAt": "2026-11-16T22:04:02.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Menos estudantes internacionais, bilhões em jogo",
+      "titleOriginal": "Fewer international students, billions at stake",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTRsWkNLVjRtZU0wUVI4MGo3QWF3cVFTSFF4cXkxQ2RnRWtpRWhrV1Y0X1g4ZWt5VHVLMmhZWWZXdk1obGR2dEpWMS03THk2eHRaVElZNFBfN0xCdV96ZFA0M045UFhISUxNNTFQVVVtNW44eEtlbnc3UUw1RmZSTGVhbFBfbF9HUnFDMWtyRHZOUDQ?oc=5",
+      "publishedAt": "2026-11-16T21:39:06.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "O Irã volta a ter o Bahrein como alvo após retomar os ataques ao aliado dos EUA",
-      "titleOriginal": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
-      "publishedAt": "2026-11-16T19:55:31.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Dana White após a ação publicitária da secretária de imprensa: \"Não quero ter nada a ver com política\"",
-      "titleOriginal": "Dana White after press secretary stunt: 'I want nothing to do with politics'",
-      "link": "https://thehill.com/homenews/administration/6223190-dana-white-declines-press-secretary/",
-      "publishedAt": "2026-11-16T19:54:43.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Joe Rogan critica Trump e diz que o movimento MAGA traiu os \"irmãos podcasters\"",
-      "titleOriginal": "Joe Rogan slams Trump, says MAGA betrayed 'podcast bros'",
-      "link": "https://thehill.com/opinion/robbys-radar/6223386-gop-loses-young-men-economic-betrayal/",
-      "publishedAt": "2026-11-16T19:47:01.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Preços das passagens aéreas e da gasolina devem afetar as viagens no Dia de Ação de Graças: AAA",
-      "titleOriginal": "Airfare, gas prices expected to impact Thanksgiving travel: AAA",
-      "link": "https://thehill.com/policy/transportation/6223078-airfare-gas-prices-thanksgiving-holiday-travel-predictions/",
-      "publishedAt": "2026-11-16T19:24:45.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Khanna propõe cheques de reembolso de US$ 1.700 para os americanos pela guerra com o Irã",
-      "titleOriginal": "Khanna proposes $1,700 Iran war refund checks for Americans",
-      "link": "https://thehill.com/the-120/6223191-khanna-proposes-iran-war-refunds/",
-      "publishedAt": "2026-11-16T19:22:45.000Z"
+      "title": "A Tesla investirá US$ 3,31 bilhões para expandir a fábrica alemã para a produção do Cybercab",
+      "titleOriginal": "Tesla Will Invest $3.31 Billion to Expand German Factory for Cybercab Production",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdktrVUd5d0c1dVV0VG5ZSnJEZmstVjQzZFNFdzd6MEFrRmM2YnRSaF95cEljZ0FOR1VIenBEV0VCRzRWTUVxYXZQYVdEb0E1UDBucGZWQ2VjR2t1UlcxLXJNVGdwYnJKdmRPQWR4U1BNSGR0VXpEQUZRRXhVd0RVYnQ0aTRBYk56bjhpUGMxLWU4QldpRUV2RzNtWVlYc2tzOGMwdzNaOFRhYm9fLTZRTDFLdlh3QQ?oc=5",
+      "publishedAt": "2026-11-16T21:33:00.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Suprema Corte rejeita pedido de Trump para retomar cortes em pesquisas universitárias",
-      "titleOriginal": "Supreme Court Rejects Trump Bid to Revive University Research Cuts",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-trump-university-of-california.html",
-      "publishedAt": "2026-11-16T19:19:16.000Z"
+      "title": "Bessent adota postura mais agressiva no debate da Casa Branca sobre a China",
+      "titleOriginal": "Bessent Takes Hawkish Turn in White House Debate on China",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+      "publishedAt": "2026-11-16T21:25:31.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Prefeito de Peoria diz que suspeito está sob custódia em relação ao atentado a bomba na usina de etanol de Illinois",
-      "titleOriginal": "Peoria mayor says suspect in custody related to Illinois ethanol plant bomb",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHFXR1F5TWFNWFBYQ1hKWFQ0ZjZuSHVic2ZmOHJaNXpoNkNISDZvWlljTVZuZ2h1NnMtQUxDaTc0QnAza3dVNDRacVB0ZXMtWXZzNkFxSm9oOFVSZnZzRHVPZ1NoX1ZVZWhoaGdQa2dlb1RmUkgyZWp4TDdnLUFpV3FKUDVEa2xKckwybVNraEFmTHc2NG1MbHdDeHBaWkU5NXJSUw?oc=5",
-      "publishedAt": "2026-11-16T18:51:00.000Z"
+      "source": "New York Times",
+      "title": "Governo Trump toma medidas para fechar brecha em chips de IA antes da viagem à China",
+      "titleOriginal": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "publishedAt": "2026-11-16T21:07:23.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Atirador encontrado morto após dois agentes de segurança pública serem baleados em um complexo de apartamentos na cidade de Nova York",
-      "titleOriginal": "Gunman found dead after 2 public safety officers are shot at New York City apartment complex",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXNKbGlZLTZqc0RCYlB3QktzZGNzT2IxNXB0b1RxLUVzcklsaVk5S04wR0hlVGRYenhMRnd3U2VCLXBmQlZnY2s2ME8wS0E0Z1lndFhJUW9namozRndZanNpYTNJYnN4czNDNFNFQTFBb1BuYkpaWGxyYldvTlRPcUgwU2d0MUVvdHN0ZVZ4RU5jbEdkS0JIbw?oc=5",
-      "publishedAt": "2026-11-16T18:47:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "Eleitores da Califórnia aprovam proibição de impostos sobre a riqueza",
+      "titleOriginal": "California Voters Pass Ban on Wealth Taxes",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE1wZDZOZzRmY1R0N2diaU4xbWlOZ2ZDTVVuaTlqbzJQNkRzd2FXQ1NVT1U0NGJudnVPRVRmMG50RVJ6M0N0dHE0ZkxIN3p0cVZhRTJMaHRfYkJyMzllclBxcVVKdzRpVjRwRGlPTjdibjlRNnhBZVVGeVI5VVl5WFlKZ3JFLUU?oc=5",
+      "publishedAt": "2026-11-16T20:58:01.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Os preços do petróleo recuam à medida que o mercado absorve as expectativas de superávit global",
+      "titleOriginal": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5",
+      "publishedAt": "2026-11-16T20:52:03.000Z"
     }
   ]
 }
