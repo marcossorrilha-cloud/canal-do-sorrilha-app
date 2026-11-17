@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-17T13:27:58.520Z",
+  "updatedAt": "2026-11-17T14:54:30.003Z",
   "count": 10,
   "items": [
+    {
+      "source": "Axios",
+      "title": "Hakeem Jeffries muda de tática antes da votação interna dos democratas da Câmara para presidente",
+      "titleOriginal": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTQ4MHFuODA0c2hFTkMzNzREZEszZkN5YVU2V1JQd2VrUzlSU1p1dklDTU04WnVTeHFDWTZ3blZ1ODZUWHVzMUV1cjBmSXktenpJcWhhWnZrcDE4bzZZY1dsMDBvWnFFcTlFNmgwTXM4YklJNWozM2lNVjh4MkY4dVZtRQ?oc=5",
+      "publishedAt": "2026-11-17T14:36:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A reforma do abuso dos poderes de emergência deve começar com uma solução federal",
+      "titleOriginal": "Reforming the abuse of emergency powers should start with a federal fix",
+      "link": "https://thehill.com/opinion/congress-blog/politics/6223322-texas-governor-emergency-powers-reform/",
+      "publishedAt": "2026-11-17T14:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pentágono reprova na 9ª auditoria financeira consecutiva",
+      "titleOriginal": "Pentagon fails 9th financial audit in a row",
+      "link": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "publishedAt": "2026-11-17T14:24:06.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump diz que a Tailândia eliminará as tarifas sobre as exportações dos EUA com o novo acordo",
+      "titleOriginal": "Trump says Thailand will eliminate tariffs on US exports under new deal",
+      "link": "https://thehill.com/homenews/administration/6224521-trump-thailand-trade-deal/",
+      "publishedAt": "2026-11-17T14:11:33.000Z"
+    },
     {
       "source": "New York Times",
       "title": "Os democratas prometeram preços mais baixos. O que eles podem realmente fazer?",
       "titleOriginal": "Democrats Promised Lower Prices. What Can They Actually Do?",
       "link": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-      "publishedAt": "2026-11-17T13:24:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Vance sobre se os americanos devem estocar alimentos e água: \"Não vemos uma crise se aproximando\"",
-      "titleOriginal": "Vance on whether Americans should stock up on food, water: 'We don't see a crisis coming down'",
-      "link": "https://thehill.com/homenews/administration/6224270-jd-vance-trump-administration-tech-outages-crisis-response/",
-      "publishedAt": "2026-11-17T13:12:00.000Z"
+      "publishedAt": "2026-11-17T14:01:13.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump chega às Filipinas para iniciar sua viagem pela Ásia com acordos econômicos e conversas com aliados",
-      "titleOriginal": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5",
-      "publishedAt": "2026-11-17T13:10:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os conservadores buscam proteger o Colégio Eleitoral dos democratas",
-      "titleOriginal": "Conservatives look to protect Electoral College from Democrats",
-      "link": "https://thehill.com/newsletters/the-movement/6224084-conservatives-protect-electoral-college-democrats/",
-      "publishedAt": "2026-11-17T13:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A justificativa das tarifas não explica a onda azul",
-      "titleOriginal": "The tariff scapegoat doesn't explain the blue wave",
-      "link": "https://thehill.com/opinion/finance/6223061-trump-tariffs-foreign-exporters-absorb-cost/",
-      "publishedAt": "2026-11-17T13:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O presidente da Mongólia diz que vai renunciar após enfrentar acusações de corrupção",
-      "titleOriginal": "Mongolia’s president says he will step down after facing accusations of corruption",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjZaTl9iN2I4eHBFUWlkWTNmY29qZndVdUdlUXpfbjJhSllpTnNncTFWcGhzdzliRU9aVkxQOVdGcWxqUWd3NjQtMUtEMlg0NU1uVjljc29aRFBHSDU2NXlIWXRyOTk5MnFJcGtKX0ZKdlo3b2FGRTdsU2ZFdjN2NVpTUXRRei14MUFiUGpaNjJFanBBXzRmR3VqS0FXbW1uTU5r?oc=5",
-      "publishedAt": "2026-11-17T12:42:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A paralisação das operações de sexta-feira deve ser um alerta para o Congresso",
-      "titleOriginal": "Friday's ground stop should be a wakeup call for Congress",
-      "link": "https://thehill.com/opinion/congress-blog/6223592-faa-ground-stop-modernization/",
-      "publishedAt": "2026-11-17T12:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre o relatório da bomba suja: \"Levamos isso muito a sério\"",
-      "titleOriginal": "Trump on dirty bomb report: 'We take it very seriously'",
-      "link": "https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/",
-      "publishedAt": "2026-11-17T12:19:18.000Z"
+      "title": "Os consumidores reduziram os gastos em outubro, com os preços altos levando à cautela",
+      "titleOriginal": "Shoppers slowed spending in October with high prices leading to caution",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnhodTU0QTZJVUtLNU5HT216MHpfWkQ1Q0QybkhIVzlEcDF3a29mX2E1X19PbGY2a0RON0J0bUN3ZFFWSi12M1lDTmxMQm9DMVZULUk1UDl4UHNoaG1oa054Z1Ewd2NUeHA1NzhFWDd5Rk1LSEJOOVV3bGNkeGswd3JQWkhvVHJVSEZLR25kOXVyMExzeVRV?oc=5",
+      "publishedAt": "2026-11-17T13:46:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Líderes europeus estão perto de um acordo para escolher um economista espanhol como próximo presidente do BCE",
-      "titleOriginal": "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnRmY2xlT3llVlRPWm5PNXFJQ25YVFY0OHp5NkJCbE1obGx1TkRjZzNET19NNTJLQVltSTB3c0lVbjdmaGxfTHMyeC02b3ZJRkpDV3VwQTJZc0RWdVNmRFdzcWJ6TUV2ZzRzWGtzcEY3SmlEM3NpUmNxNkVqYnNNUmtHM0h5M2ttN2YwTU9odWFMMjJJLXZnSk5HOE15MTAwd3RNNl8xdWg1RExNcUwwdnJxaDFpWXM?oc=5",
-      "publishedAt": "2026-11-17T12:11:00.000Z"
+      "title": "O tráfego no Aeroporto de Dubai cai, mas mostra sinais de recuperação em meio à guerra com o Irã",
+      "titleOriginal": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
+      "publishedAt": "2026-11-17T13:44:30.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-17T11:52:43.000Z"
+      "source": "The Hill",
+      "title": "Trump sobre as quedas de energia: \"Está tudo bem\"",
+      "titleOriginal": "Trump on outages: ‘It’s fine’",
+      "link": "https://thehill.com/homenews/administration/6224428-donald-trump-dismisses-tech-outages/",
+      "publishedAt": "2026-11-17T13:38:19.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Trump retorna ao cenário mundial após revés nas eleições de meio de mandato",
+      "titleOriginal": "Trump Returns to World Stage After Midterm Setback",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkkwTDR1Nm9YNDNoREQ3d0VkUXpfR2tBZjBVVTA5UVVLX1I1cEZybTZkdmVhbVoxR3N4OGl5a003emxjOUlrX0xVUDNhR0Q1VXhRb1BIZkxIamExZndxMXlXX2xNT25Bb0VvNlJxaWZRMVdGV2ZmVkU4bjB0V3Y3N0Z5TVJFZkphdFhqaGNR?oc=5",
+      "publishedAt": "2026-11-17T13:35:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aprovação de Trump se mantém próxima ao nível mais baixo de sua presidência: pesquisa",
+      "titleOriginal": "Trump approval holding near record low of presidency: Survey",
+      "link": "https://thehill.com/homenews/administration/6224349-donald-trump-approval-rating-postelection-survey/",
+      "publishedAt": "2026-11-17T13:33:00.000Z"
     }
   ]
 }
