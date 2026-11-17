@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-17T14:54:30.003Z",
+  "updatedAt": "2026-11-17T22:25:04.251Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Conversas sobre a Ucrânia geram progresso: Kushner",
+      "titleOriginal": "Ukraine talks yielding progress: Kushner",
+      "link": "https://thehill.com/policy/international/6226498-ukraine-talks-yielding-progress-kushner/",
+      "publishedAt": "2026-11-17T22:20:21.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Mais da metade considera Trump o presidente de quem menos gostam nos últimos 25 anos: pesquisa",
+      "titleOriginal": "Over half rank Trump their least favorite president of the past 25 years: Poll",
+      "link": "https://thehill.com/homenews/administration/6226501-trump-presidential-poll-bush-obama-biden/",
+      "publishedAt": "2026-11-17T22:20:15.000Z"
+    },
+    {
       "source": "Axios",
-      "title": "Hakeem Jeffries muda de tática antes da votação interna dos democratas da Câmara para presidente",
-      "titleOriginal": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTQ4MHFuODA0c2hFTkMzNzREZEszZkN5YVU2V1JQd2VrUzlSU1p1dklDTU04WnVTeHFDWTZ3blZ1ODZUWHVzMUV1cjBmSXktenpJcWhhWnZrcDE4bzZZY1dsMDBvWnFFcTlFNmgwTXM4YklJNWozM2lNVjh4MkY4dVZtRQ?oc=5",
-      "publishedAt": "2026-11-17T14:36:18.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A reforma do abuso dos poderes de emergência deve começar com uma solução federal",
-      "titleOriginal": "Reforming the abuse of emergency powers should start with a federal fix",
-      "link": "https://thehill.com/opinion/congress-blog/politics/6223322-texas-governor-emergency-powers-reform/",
-      "publishedAt": "2026-11-17T14:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pentágono reprova na 9ª auditoria financeira consecutiva",
-      "titleOriginal": "Pentagon fails 9th financial audit in a row",
-      "link": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
-      "publishedAt": "2026-11-17T14:24:06.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump diz que a Tailândia eliminará as tarifas sobre as exportações dos EUA com o novo acordo",
-      "titleOriginal": "Trump says Thailand will eliminate tariffs on US exports under new deal",
-      "link": "https://thehill.com/homenews/administration/6224521-trump-thailand-trade-deal/",
-      "publishedAt": "2026-11-17T14:11:33.000Z"
+      "title": "Notícia exclusiva: Democratas investigam o papel do Departamento de Justiça na disputa de direitos autorais da OpenAI",
+      "titleOriginal": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5",
+      "publishedAt": "2026-11-17T21:54:52.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Os democratas prometeram preços mais baixos. O que eles podem realmente fazer?",
-      "titleOriginal": "Democrats Promised Lower Prices. What Can They Actually Do?",
-      "link": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-      "publishedAt": "2026-11-17T14:01:13.000Z"
+      "title": "Encorajado pelas derrotas eleitorais do Partido Republicano, o Irã se entrincheira, dizem autoridades",
+      "titleOriginal": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+      "publishedAt": "2026-11-17T21:53:10.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Kevin Bleyer, escritor responsável pelo discurso de Obama criticando Trump, morreu aos 54 anos",
+      "titleOriginal": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
+      "link": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
+      "publishedAt": "2026-11-17T21:46:19.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hung Cao é questionado pelo Senado sobre tentativas de suicídio e guerra no Irã: 5 pontos importantes",
+      "titleOriginal": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways",
+      "link": "https://thehill.com/policy/defense/6226459-navy-secretary-confirmation-clash/",
+      "publishedAt": "2026-11-17T21:44:13.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Legisladores democratas criticam declaração de Huang sobre possível retorno da Nvidia: \"Vá com calma\"",
+      "titleOriginal": "Democratic lawmakers slam Huang statement on possible Nvidia return: 'Slow your roll'",
+      "link": "https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/",
+      "publishedAt": "2026-11-17T21:36:42.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump nomeia novo chefe do Estado-Maior do Exército após a destituição de Hegseth em abril",
+      "titleOriginal": "Trump nominates new Army chief of staff after Hegseth's April ouster",
+      "link": "https://thehill.com/policy/defense/6226253-trump-nominates-laneve-army-chief/",
+      "publishedAt": "2026-11-17T21:29:20.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Quem venceu as eleições para o Congresso na Carolina do Norte",
+      "titleOriginal": "Who won North Carolina's congressional races",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOW1DdWF1UTFzSmZBdUZoR0xQNGplVDhLbjZIdEd3aktPN1BqMS1IWFV6RmR1YkpiX3NEZ0xub1IzdG84eUpNbWExU3Z2ckFBZ0pPT25vaXEtRnh5T0N3VTcyVmRzMkQwOHEtemNUeFFvWU9tNVFKak5RRWhDQUpMelI5R3lwVVRjXzM0WkJCZGgydV9mRHVfZlNIRVNTZ2JIaVIw?oc=5",
+      "publishedAt": "2026-11-17T21:21:10.000Z"
     },
     {
       "source": "AP News",
-      "title": "Os consumidores reduziram os gastos em outubro, com os preços altos levando à cautela",
-      "titleOriginal": "Shoppers slowed spending in October with high prices leading to caution",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnhodTU0QTZJVUtLNU5HT216MHpfWkQ1Q0QybkhIVzlEcDF3a29mX2E1X19PbGY2a0RON0J0bUN3ZFFWSi12M1lDTmxMQm9DMVZULUk1UDl4UHNoaG1oa054Z1Ewd2NUeHA1NzhFWDd5Rk1LSEJOOVV3bGNkeGswd3JQWkhvVHJVSEZLR25kOXVyMExzeVRV?oc=5",
-      "publishedAt": "2026-11-17T13:46:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O tráfego no Aeroporto de Dubai cai, mas mostra sinais de recuperação em meio à guerra com o Irã",
-      "titleOriginal": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
-      "publishedAt": "2026-11-17T13:44:30.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump sobre as quedas de energia: \"Está tudo bem\"",
-      "titleOriginal": "Trump on outages: ‘It’s fine’",
-      "link": "https://thehill.com/homenews/administration/6224428-donald-trump-dismisses-tech-outages/",
-      "publishedAt": "2026-11-17T13:38:19.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Trump retorna ao cenário mundial após revés nas eleições de meio de mandato",
-      "titleOriginal": "Trump Returns to World Stage After Midterm Setback",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkkwTDR1Nm9YNDNoREQ3d0VkUXpfR2tBZjBVVTA5UVVLX1I1cEZybTZkdmVhbVoxR3N4OGl5a003emxjOUlrX0xVUDNhR0Q1VXhRb1BIZkxIamExZndxMXlXX2xNT25Bb0VvNlJxaWZRMVdGV2ZmVkU4bjB0V3Y3N0Z5TVJFZkphdFhqaGNR?oc=5",
-      "publishedAt": "2026-11-17T13:35:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Aprovação de Trump se mantém próxima ao nível mais baixo de sua presidência: pesquisa",
-      "titleOriginal": "Trump approval holding near record low of presidency: Survey",
-      "link": "https://thehill.com/homenews/administration/6224349-donald-trump-approval-rating-postelection-survey/",
-      "publishedAt": "2026-11-17T13:33:00.000Z"
+      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
+      "titleOriginal": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "publishedAt": "2026-11-17T21:12:21.000Z"
     }
   ]
 }
