@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-17T03:55:19.435Z",
+  "updatedAt": "2026-11-17T04:46:35.402Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "Peltola amplia vantagem sobre Sullivan na última contagem de votos",
+      "titleOriginal": "Peltola expands lead over Sullivan in latest ballot drop",
+      "link": "https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/",
+      "publishedAt": "2026-11-17T03:49:38.000Z"
+    },
     {
       "source": "New York Times",
       "title": "A divisão do governo Trump sobre a política em relação à China vem à tona publicamente",
@@ -22,27 +29,6 @@
       "titleOriginal": "Comer announces bid for Kentucky governor",
       "link": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
       "publishedAt": "2026-11-17T03:07:31.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Principais assessores de Trump se reunirão com europeus e ucranianos para discutir plano de paz",
-      "titleOriginal": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWNEbnVkS3ROcjFHa3lVNFRvQ29IWk1TaUpFUkl6Y2hYaEpBOUprcm5nRGtkbFptS2VGVVo2X0dacDljcHRIMnV5bmVQNjVjcTE5NC1NbDl6NUl6U2RIRlNlakNNNDdsMnd1QTdxMFRwcmg0ejZWQ1hpbVFIN2pIdC1hV2VtazQ1Sk90c2d3?oc=5",
-      "publishedAt": "2026-11-17T03:06:24.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Os assessores de Trump estão em guerra contra a China antes da cúpula com Xi",
-      "titleOriginal": "Trump’s Advisers Are at War Over China Ahead of Xi Summit",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
-      "publishedAt": "2026-11-17T02:46:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O marido de Alice Huang construiu um império de data centers com o apoio do Estado chinês",
-      "titleOriginal": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHhHZXp0eFpvVEQwNWQwUXgwSDZETWdWeF9UMTdLaTFLUFN6Q3lvMGI1OU1iYXc3dGszaVJqUWpZTzk3cVlsajJqMWhmYWVfZ2dlNFpxaFh3QVV6d2FTRlBmbC1EZ0dZNDhrWVRadjVaWnQ5c3NiR2d2UEZRdlRIdGEybHRCejhTa2k4cV9LWFlhbkRjRk9CSTVJVmRpUWlRLUI1QWpLeGFjOTZVVjdfaW9nWXRBSjQ?oc=5",
-      "publishedAt": "2026-11-17T02:24:11.000Z"
     },
     {
       "source": "The Hill",
@@ -66,11 +52,25 @@
       "publishedAt": "2026-11-17T02:03:05.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Jordan herda a disputa do Partido Republicano na Câmara sobre a punição de dissidentes",
-      "titleOriginal": "Jordan inherits House GOP fight over punishing rebels",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CekY4Ykh5bW5fXzEtaVl0U0NLc1ZtVjRDUjgtak8wQUJZZXJIVXZaaG9DU2Z0Y3djdlRaYUtBMzIwaGc0WTB3SUpySkNmRlhva2luSUhMRDNNRzYzQWYyRWN4NXgwVkpaZ0RZ?oc=5",
-      "publishedAt": "2026-11-17T01:49:32.000Z"
+      "source": "The Hill",
+      "title": "Senado supera obstáculo para aprovar pacote de reforma de licenciamento bipartidário",
+      "titleOriginal": "Senate clears hurdle for bipartisan permitting reform package",
+      "link": "https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package/",
+      "publishedAt": "2026-11-17T01:03:04.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O governo Trump buscou dados do LinkedIn em um esforço para identificar fontes do New York Times",
+      "titleOriginal": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+      "publishedAt": "2026-11-16T23:44:56.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Futuro membro democrata da Câmara acusa Hegseth de \"crimes de guerra\"",
+      "titleOriginal": "Incoming House Democrat accuses Hegseth of 'war crimes'",
+      "link": "https://thehill.com/homenews/house/6223902-wellman-accuses-hegseth-crimes/",
+      "publishedAt": "2026-11-16T23:38:43.000Z"
     }
   ]
 }
