@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-11-18T13:29:21.369Z",
+  "updatedAt": "2026-11-18T13:59:33.718Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "Os motoristas dos EUA estão apenas absorvendo os altos preços da gasolina",
+      "titleOriginal": "U.S. drivers are just absorbing high gasoline prices",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EeWIxOTZobWlhN2U1WElkRGNhR1FYbWh4OHRBMVFsRW1fd2JtNGd6M1hhVk95aFZkLTFpZXF5eklSQjlwaDRJQURScFhiU3BlYkVMYjlEZjc0cV9jSTVzcDRMWHdfdw?oc=5",
+      "publishedAt": "2026-11-18T13:53:51.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Disputas internas no Partido Republicano ameaçam a corrida de Trump para as nomeações judiciais",
-      "titleOriginal": "GOP infighting threatens Trump’s judicial confirmation sprint",
+      "title": "Sanders vai pressionar pelo plano abrangente de Medicare para Todos no próximo Congresso",
+      "titleOriginal": "Sanders to push sweeping Medicare for All plan in next Congress",
+      "link": "https://thehill.com/policy/healthcare/6227340-bernie-sanders-plans-medicare-for-all/",
+      "publishedAt": "2026-11-18T13:42:09.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Haiti não deve se tornar um laboratório de guerra para os cães-robôs autônomos da China",
+      "titleOriginal": "Haiti must not become a war lab for China’s autonomous robot dogs",
+      "link": "https://thehill.com/opinion/technology/6224723-chinese-robot-dogs-haiti-testing-ground/",
+      "publishedAt": "2026-11-18T13:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Putin adora as negociações de paz — veja como fazer com que ele ame a paz",
+      "titleOriginal": "Putin loves peace talks — here's how to make him love peace",
+      "link": "https://thehill.com/opinion/international/6225697-putin-diplomacy-russia-war-crimes/",
+      "publishedAt": "2026-11-18T13:30:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Por que os republicanos em fim de mandato estão bloqueando as escolhas judiciais de Trump",
+      "titleOriginal": "Why lame-duck Republicans are blocking Trump’s judicial picks",
       "link": "https://thehill.com/newsletters/the-gavel/6226421-gop-infighting-judicial-confirmation-sprint/",
       "publishedAt": "2026-11-18T13:00:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Trump busca mostrar força na China, mas uma série de problemas tecnológicos gera preocupações nos Estados Unidos",
+      "titleOriginal": "Trump seeks to show strength in China, but a series of technological snafus raises concerns at home",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
+      "publishedAt": "2026-11-18T12:49:00.000Z"
     },
     {
       "source": "AP News",
@@ -25,7 +60,7 @@
     },
     {
       "source": "AP News",
-      "title": "Mullin vai ao Congresso para responder a perguntas sobre transtornos nos voos, viagem de futebol e imigração",
+      "title": "Mullin vai ao Congresso para responder a perguntas sobre cancelamentos de voos, viagem de futebol e imigração",
       "titleOriginal": "Mullin heads to Congress to face questions over flight disruptions, football trip and immigration",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDEtcVdMZnJyYmFnRzhTLVJHcHZNYXZuTzZPM1JlQW5HTVVJSWdMZk54ajE1NjF2V0laVjhScWh3LURPNlBmTnVBd0VvTERPeFU4ZXNKN1UwZVVDcEN6MnU5VVBDTEluVUFrUWt6VHlCSHJHUjBWQ29GYm50ZUpWUmRGY3cycHp0d042YmtBV0Y3amFOaTdJX3VUSzhoalA2djJDMDczTWppaHYxVm5vYUliSQ?oc=5",
       "publishedAt": "2026-11-18T12:19:00.000Z"
@@ -36,41 +71,6 @@
       "titleOriginal": "‘A savagely brutal map’: Senate GOP braces for 2028",
       "link": "https://www.politico.com/news/2026/11/18/senate-map-2028-bernie-moreno-01170846",
       "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Faz alguma diferença se Alice Huang era uma espiã?",
-      "titleOriginal": "Does it even matter if Alice Huang was a spy?",
-      "link": "https://thehill.com/opinion/technology/6226189-nvidia-ceo-resigns-affair-spy/",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Xi Jinping quebra o protocolo para cumprimentar e abraçar Trump no aeroporto da China",
-      "titleOriginal": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWU9SRlZtc2VjdFZDUnZISTFLVk1XU2NwRDRMN1dtbktrRTZBT0dUNnNORE5VeFhoRFc2djRtYTUxRlFpX3l2UUREbEo4SGRuU3RYSjBRMnZsbUxQNWZmZGJmdlRIRjUyX0g4?oc=5",
-      "publishedAt": "2026-11-18T11:43:52.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Exclusivo da AP: Bernie Sanders revela seu plano de promover o Medicare para Todos quando os democratas assumirem o poder",
-      "titleOriginal": "AP Exclusive: Bernie Sanders unveils his plan to push Medicare for All when Democrats take power",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZLUi01ZGQwY1pvT2ZOYnQwTmM5UkFYa3NQRnI1eDBRQ0pqN0lfTWozdzQ2VUxKejJHYzVhQWJ3emhYR2FWT1AxLWJhNUlqVEV1bkRZSExhOU9OLTRkVWdnMWh0QjBtYk1sQmtjOTEyYmo3TnZDaGlvakxQU3ExU20zRjB5bmdwRVhMbktzU25yNnFJWTNpZ3E0WWVkbWM?oc=5",
-      "publishedAt": "2026-11-18T11:28:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas da Câmara se preparam para ampla investigação da família Trump",
-      "titleOriginal": "House Dems prepare for broad Trump family probe",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZ0hqM3Jqd0l1dWNrRmxrOXdjOU50dWxjM2NLYVJ5VVQxWjZvR0E5MER5Zm1RdTdKVnlRSzVkMjMtSUpDRXdzQmhnVFkxSExYT3FVaEI2d0FZQWtBRThnNjdKRXZnU05KR28wV2hB?oc=5",
-      "publishedAt": "2026-11-18T11:25:51.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: Donald Trump Jr. explica a separação da Kalshi",
-      "titleOriginal": "Exclusive: Donald Trump Jr. explains Kalshi split",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sWWFjVFRVdk4tQmtPdGM3UGg3bzBScmEzU3FrYXpWZnBpQmFITlhoUl9sbVJHUnVWeFdMUkQtMWo4R1hiZVdzUWlXMl82UVZkTlY0VXl1azhOaGxKU2UySHNfTFpOa19qcDJwY05jb2hpVVNUcXJYMjFOcTI?oc=5",
-      "publishedAt": "2026-11-18T11:17:11.000Z"
     }
   ]
 }
