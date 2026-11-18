@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-18T13:59:33.718Z",
+  "updatedAt": "2026-11-18T21:35:53.766Z",
   "count": 10,
   "items": [
     {
-      "source": "Axios",
-      "title": "Os motoristas dos EUA estão apenas absorvendo os altos preços da gasolina",
-      "titleOriginal": "U.S. drivers are just absorbing high gasoline prices",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EeWIxOTZobWlhN2U1WElkRGNhR1FYbWh4OHRBMVFsRW1fd2JtNGd6M1hhVk95aFZkLTFpZXF5eklSQjlwaDRJQURScFhiU3BlYkVMYjlEZjc0cV9jSTVzcDRMWHdfdw?oc=5",
-      "publishedAt": "2026-11-18T13:53:51.000Z"
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A Palo Alto Networks vai comprar a startup de IA Applied Compute por US$ 4,5 bilhões",
+      "titleOriginal": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5",
+      "publishedAt": "2026-11-18T21:00:00.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Sanders vai pressionar pelo plano abrangente de Medicare para Todos no próximo Congresso",
-      "titleOriginal": "Sanders to push sweeping Medicare for All plan in next Congress",
-      "link": "https://thehill.com/policy/healthcare/6227340-bernie-sanders-plans-medicare-for-all/",
-      "publishedAt": "2026-11-18T13:42:09.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Haiti não deve se tornar um laboratório de guerra para os cães-robôs autônomos da China",
-      "titleOriginal": "Haiti must not become a war lab for China’s autonomous robot dogs",
-      "link": "https://thehill.com/opinion/technology/6224723-chinese-robot-dogs-haiti-testing-ground/",
-      "publishedAt": "2026-11-18T13:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Putin adora as negociações de paz — veja como fazer com que ele ame a paz",
-      "titleOriginal": "Putin loves peace talks — here's how to make him love peace",
-      "link": "https://thehill.com/opinion/international/6225697-putin-diplomacy-russia-war-crimes/",
-      "publishedAt": "2026-11-18T13:30:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Por que os republicanos em fim de mandato estão bloqueando as escolhas judiciais de Trump",
-      "titleOriginal": "Why lame-duck Republicans are blocking Trump’s judicial picks",
-      "link": "https://thehill.com/newsletters/the-gavel/6226421-gop-infighting-judicial-confirmation-sprint/",
-      "publishedAt": "2026-11-18T13:00:00.000Z"
+      "title": "Britt propõe a criação de um órgão nacional para combater as fraudes financeiras",
+      "titleOriginal": "Britt proposes creating national office to address financial fraud",
+      "link": "https://thehill.com/homenews/senate/6228590-britt-proposed-national-fraud-office/",
+      "publishedAt": "2026-11-18T20:56:23.000Z"
     },
     {
       "source": "AP News",
-      "title": "Trump busca mostrar força na China, mas uma série de problemas tecnológicos gera preocupações nos Estados Unidos",
-      "titleOriginal": "Trump seeks to show strength in China, but a series of technological snafus raises concerns at home",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
-      "publishedAt": "2026-11-18T12:49:00.000Z"
+      "title": "Cornyn bloqueia a nomeação de uma importante autoridade do Departamento de Justiça para uma vaga no judiciário do Texas",
+      "titleOriginal": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnA5WkdYc21sV1ZVaHBqQTBpRnktWG1hYUw2cGh6QUtvSllCVk9rcmNWd290MjhydWRIVUlyYkE4UnRGcTNSNjBWNFBCaUVsb0NBVjNoS3lfRG5RQVdMMEZNendoajhGRkZoVG9FUl9Zc1ZmNUtEOFdmY05lbVRUc0h2WU54WnZNVV9jeWtNMVNMb084?oc=5",
+      "publishedAt": "2026-11-18T20:43:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O senador Bill Cassidy bloqueia a escolha de Trump para chefiar agência científica",
+      "titleOriginal": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
+      "publishedAt": "2026-11-18T20:41:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Atualizações em tempo real: democratas escolhem Jeffries como presidente da Câmara",
+      "titleOriginal": "Live updates: Democrats pick Jeffries as Speaker",
+      "link": "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/",
+      "publishedAt": "2026-11-18T20:31:38.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Murkowski se junta aos democratas nas preocupações com a nomeação do autor do Projeto 2025 para o cargo de fiscal do Departamento do Interior",
+      "titleOriginal": "Murkowski joins Democrats in concerns about Project 2025 author's nomination to be Interior watchdog",
+      "link": "https://thehill.com/policy/energy-environment/6228542-murkowski-trump-interior-oig-watchdog/",
+      "publishedAt": "2026-11-18T20:19:59.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os democratas que estão assumindo no Illinois questionam o pedido de US$ 50 bilhões da FAA feito por Trump",
+      "titleOriginal": "Illinois' incoming Democrats question Trump's $50 billion FAA request",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREVQQ2NTcWlDWW5nMC1CekhJcVR0al9vMEQwendNeExmWFRaT3ZTVUVIU05iN1hCOTN2NkpWRDR5TTJLTUdjWlNBZnVzTV9BMjJtTTBTLS1iYnRQVXdBVVJHalB3NnlFWEVOOFVVQWdLMmtoZF93YWp5UGZublhsUXJKSmRTWmU2YWVma3dTOWJ2X1pZMjcxZTN3?oc=5",
+      "publishedAt": "2026-11-18T20:16:20.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump, Xi e Putin se reunirão pela primeira vez. Não será como em Ialta.",
+      "titleOriginal": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
+      "publishedAt": "2026-11-18T20:12:59.000Z"
     },
     {
       "source": "AP News",
       "title": "O Irã amplia os ataques no Golfo, visando uma base aérea dos EUA no Kuwait e instalações no Bahrein",
       "titleOriginal": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
-      "publishedAt": "2026-11-18T12:44:00.000Z"
+      "publishedAt": "2026-11-18T20:11:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "O asilo é um privilégio — trate-o como tal",
-      "titleOriginal": "Asylum is a privilege — treat it like one",
-      "link": "https://thehill.com/opinion/immigration/6225582-congressional-asylum-privilege-reform/",
-      "publishedAt": "2026-11-18T12:30:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Mullin vai ao Congresso para responder a perguntas sobre cancelamentos de voos, viagem de futebol e imigração",
-      "titleOriginal": "Mullin heads to Congress to face questions over flight disruptions, football trip and immigration",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDEtcVdMZnJyYmFnRzhTLVJHcHZNYXZuTzZPM1JlQW5HTVVJSWdMZk54ajE1NjF2V0laVjhScWh3LURPNlBmTnVBd0VvTERPeFU4ZXNKN1UwZVVDcEN6MnU5VVBDTEluVUFrUWt6VHlCSHJHUjBWQ29GYm50ZUpWUmRGY3cycHp0d042YmtBV0Y3amFOaTdJX3VUSzhoalA2djJDMDczTWppaHYxVm5vYUliSQ?oc=5",
-      "publishedAt": "2026-11-18T12:19:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "\"Um mapa extremamente brutal\": o Partido Republicano do Senado se prepara para 2028",
-      "titleOriginal": "‘A savagely brutal map’: Senate GOP braces for 2028",
-      "link": "https://www.politico.com/news/2026/11/18/senate-map-2028-bernie-moreno-01170846",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
+      "source": "New York Times",
+      "title": "Novos membros recebem um curso intensivo sobre o Congresso com uma atmosfera de escola primária",
+      "titleOriginal": "New Members Get a Congress Crash Course With Grade School Vibes",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/new-members-congress.html",
+      "publishedAt": "2026-11-18T20:04:41.000Z"
     }
   ]
 }

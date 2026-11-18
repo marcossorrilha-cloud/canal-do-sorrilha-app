@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-18T04:22:23.435Z",
-  "slot": "2026-11-18-AM",
+  "updatedAt": "2026-11-18T21:36:02.774Z",
+  "slot": "2026-11-18-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Opinião | O Congresso deve impedir Trump de dar uma bomba nuclear a esse regime não democrático",
-      "titleOriginal": "Opinion | Congress must stop Trump from giving this non-democracy a nuclear bomb",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDk4ckVUX1V1VmR6Y1lFR21mUzZWSzhpRkU0eE1Ec0tYUXNhdFlwRmwxRHMzbzktY0hVaGJJaTRjNmN5eDhRdkwwMTdGZDdHclZZcVRsam50MEE1TXRjczUyUE1TVWR5WGFMRU5JZXZaaXVJUGVTMUpEVllhdDdJSF9ienhiNTVpVTRDejR6QmdIMTlqTWk5SGFZRE1sZ0hTMnJLMw?oc=5",
-      "source": "Washington Post",
-      "coverage": 3
+      "title": "A Rússia e a China não são amigas dos Estados Unidos. Por que Trump acha que são?",
+      "titleOriginal": "Russia and China are not America’s friends. Why does Trump think they are?",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZenFxaXhndk94aFhBaVl3RHR1TWZXWWtkN1EyNGhuNzFfb0trNGlyYkZLQ0k1ZG5NeC1YZTVqRXR6d1l3R2JWZW5QeTJtcTFwRTVpVkxaYW5vQVVLdnZYV256OE50MlBmanVuY0dlNkp1blp1SlE?oc=5",
+      "source": "CNN",
+      "coverage": 2
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "O democrata Ro Khanna propõe um cheque de reembolso de US$ 1.700 para os americanos \"para compensá-los pela guerra no Irã\"",
-      "titleOriginal": "Democrat Ro Khanna Proposes $1,700 Refund Check to Americans to 'Make Them Whole for the War in Iran'",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWmpyOVRESDAzSnYtXy0tdDlvc1VxZUFHMmozTjFSUWhmd0o3M3RhcGJ0S0lfM05yQzFCcTVVOHpvSDB2OFpjTExnWTJ0czNnLWdUeUtwZXVJdmxBaTJ2bU5ZdjJoUm1iYzN2Z0hmTk1RMm1Zd1U5OXg5OU1fUjN3QU95bTl4OE4xM2RkZ3JKOTlHQkRFWWdnTktYMWdyNlF2QjJKSjhpUktoU2h5SlpiVGNpeElTeDItbFZLTFlsNlFkLXk4eFhPTVZobnpUb1YtRnJnOWZsS1F2VDVy?oc=5",
+      "title": "iFalha: a Apple sofre uma interrupção em seus serviços, incluindo o iCloud, a App Store e o Apple Pay",
+      "titleOriginal": "iFailure: Apple Suffers Outage on Services Including iCloud, App Store, Apple Pay",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDczdzNrNEt5SXJORVRpYWoxekhMS19MdXNldDc0OHhOTXNjaEdfU1lzYmE1OHY1dlMyV1RQUWRqT2VyNzZCMDRMcmhkb05XWDdPdnB3TFNJMEI5azN4Z2Zrb3YtR2VGLTh6VHJqOExwNVFWSU9HLU8zakVOX2g4X0dhMVNmUGpQcU1Gd3ZrUnNCMTlvLUlISWRqNV9qcGQ0SGZpWlNEdGhRNTk1M2Vpa3JJZTRqckJIZ2pFeXNB?oc=5",
       "source": "Breitbart",
-      "coverage": 4
+      "coverage": 3
     }
   ]
 }
