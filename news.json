@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T04:22:14.408Z",
+  "updatedAt": "2026-11-18T04:42:59.490Z",
   "count": 10,
   "items": [
     {
       "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-18T04:18:27.000Z"
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-18T04:35:58.000Z"
     },
     {
       "source": "New York Times",
@@ -17,8 +17,15 @@
       "publishedAt": "2026-11-18T04:11:30.000Z"
     },
     {
+      "source": "AP News",
+      "title": "Trump quer mostrar força na China, mas uma série de problemas tecnológicos gera preocupações nos Estados Unidos",
+      "titleOriginal": "Trump wants to show strength in China, but a series of technological snafus raises concerns at home",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
+      "publishedAt": "2026-11-18T03:50:00.000Z"
+    },
+    {
       "source": "The Hill",
-      "title": "Huang concorda em testemunhar perante a Comissão Bancária do Senado",
+      "title": "Huang concorda em testemunhar perante a Comissão de Assuntos Bancários do Senado",
       "titleOriginal": "Huang agrees to testify before Senate Banking panel",
       "link": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
       "publishedAt": "2026-11-18T03:48:10.000Z"
@@ -64,13 +71,6 @@
       "titleOriginal": "Stephen A. Smith defends response to Trump's claims about helping Black Americans",
       "link": "https://thehill.com/blogs/in-the-know/6227004-smith-defends-trump-interview/",
       "publishedAt": "2026-11-18T03:12:02.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "O Congresso está cético enquanto funcionários do governo Trump buscam US$ 50 bilhões para o sistema de transporte aéreo",
-      "titleOriginal": "Congress skeptical as Trump officials seek $50B for air travel system",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
-      "publishedAt": "2026-11-18T03:06:00.000Z"
     }
   ]
 }
