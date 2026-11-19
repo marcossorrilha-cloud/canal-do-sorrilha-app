@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-19T20:58:40.994Z",
+  "updatedAt": "2026-11-19T21:35:51.473Z",
   "count": 10,
   "items": [
+    {
+      "source": "The Hill",
+      "title": "70% dos americanos apoiam tarifas direcionadas ao aço: pesquisa",
+      "titleOriginal": "70 percent of Americans back targeted tariffs on steel: Poll",
+      "link": "https://thehill.com/business/6231601-americans-support-targeted-steel-tariffs/",
+      "publishedAt": "2026-11-19T21:31:12.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O setor de criptomoedas encara o novo Congresso: 5 conclusões do Capitol Crypto Forum",
+      "titleOriginal": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum",
+      "link": "https://thehill.com/policy/technology/6231502-capitol-crypto-forum-policy-congress-uncertainty/",
+      "publishedAt": "2026-11-19T21:20:43.000Z"
+    },
     {
       "source": "The Hill",
       "title": "Meta leva disputa sobre a lei de anúncios de campanha do estado de Washington à Suprema Corte",
@@ -18,10 +32,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Sanders joga um balde de água fria na candidatura à Casa Branca em 2028",
+      "title": "Sanders joga um balde de água fria na sua candidatura à Casa Branca em 2028",
       "titleOriginal": "Sanders pours cold water on 2028 White House bid",
       "link": "https://thehill.com/homenews/campaign/6231265-sanders-rules-out-presidential-run/",
       "publishedAt": "2026-11-19T20:17:18.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Os preços do diesel nos EUA continuarão caindo, aliviando os consumidores, afirma o secretário de Energia dos EUA",
+      "titleOriginal": "Exclusive | U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSm9TdEFSdXNqVlB3bDlkMlpVVnpFQ0NaemFrRmNuZHR4X21HTVhIdHhNS3NQekFDN3pMVFFoQTJTTEVIVU5wR25xNHFDRVRsTXVxaVE2b2Y1VFhhd1JuY0hHcDlQZ1lpNDhJWnU3V3hyV1ZaYjZoM0ZabGZhSlhndlp3VEdwWm1mWEhqRUFWdnRyUTJoWDBBNEdqZ3NSMWluOG5QbzFnTjlyemF5cmlPZjRCOVU1MDVfMVJxRllfSnZJUnV5cnA5cXJQSlcydklidVE?oc=5",
+      "publishedAt": "2026-11-19T20:12:00.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "DOJ, DHS launch hub to fight cyber crime",
       "link": "https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/",
       "publishedAt": "2026-11-19T19:52:13.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Kushner diz acreditar que a Rússia está \"confortável\" com garantias de segurança semelhantes às da OTAN para a Ucrânia",
-      "titleOriginal": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
-      "publishedAt": "2026-11-19T19:52:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "\"Eles deveriam estar subsidiando os contribuintes\": governador da Carolina do Norte diz que os subsídios para data centers devem ser reduzidos",
-      "titleOriginal": "‘They should be subsidizing the ratepayers’: NC governor says data center subsidies should be rolled back",
-      "link": "https://www.politico.com/news/2026/11/19/josh-stein-north-carolina-data-centers-01176128",
-      "publishedAt": "2026-11-19T19:39:11.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O que a onda azul no Texas significa para a Tesla e a SpaceX de Elon Musk",
-      "titleOriginal": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGRaS0psc00yb1MySC1qZTVTdjhELU1HdmxSSmdhWE52YWM4b0hmVzMzYlFlYmVUZTl3d19OVzk5UFl4YkRMek82NEZLbFJIeWtpSnEwMExFVlYtazRuQ0liTjg2ZFFHX0ZFbUlEbnV5UU5OVFNiNEVYOC02bzBJdzBPREp4ek1VYXA3V01Oa0h4TFF5TFlzQVdhR3ZwTTVy?oc=5",
-      "publishedAt": "2026-11-19T19:25:25.000Z"
     }
   ]
 }
