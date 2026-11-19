@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-18T21:36:02.774Z",
-  "slot": "2026-11-18-PM",
+  "updatedAt": "2026-11-19T03:29:31.976Z",
+  "slot": "2026-11-19-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "A Rússia e a China não são amigas dos Estados Unidos. Por que Trump acha que são?",
-      "titleOriginal": "Russia and China are not America’s friends. Why does Trump think they are?",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZenFxaXhndk94aFhBaVl3RHR1TWZXWWtkN1EyNGhuNzFfb0trNGlyYkZLQ0k1ZG5NeC1YZTVqRXR6d1l3R2JWZW5QeTJtcTFwRTVpVkxaYW5vQVVLdnZYV256OE50MlBmanVuY0dlNkp1blp1SlE?oc=5",
-      "source": "CNN",
-      "coverage": 2
+      "title": "DealBook Summit: Elon Musk se apresenta como um político moderado e diz que \"não é MAGA\"",
+      "titleOriginal": "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
+      "source": "New York Times",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "iFalha: a Apple sofre uma interrupção em seus serviços, incluindo o iCloud, a App Store e o Apple Pay",
-      "titleOriginal": "iFailure: Apple Suffers Outage on Services Including iCloud, App Store, Apple Pay",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDczdzNrNEt5SXJORVRpYWoxekhMS19MdXNldDc0OHhOTXNjaEdfU1lzYmE1OHY1dlMyV1RQUWRqT2VyNzZCMDRMcmhkb05XWDdPdnB3TFNJMEI5azN4Z2Zrb3YtR2VGLTh6VHJqOExwNVFWSU9HLU8zakVOX2g4X0dhMVNmUGpQcU1Gd3ZrUnNCMTlvLUlISWRqNV9qcGQ0SGZpWlNEdGhRNTk1M2Vpa3JJZTRqckJIZ2pFeXNB?oc=5",
+      "title": "Peter Schweizer: A jogada de espionagem de Pequim contra o CEO da Nvidia, Jensen Huang, custou à China seu principal aliado tecnológico",
+      "titleOriginal": "Peter Schweizer: Beijing’s Spy Play Against Nvidia CEO Jensen Huang Cost China Its Top Tech Ally",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONWtVaENRMW82WkxlZVFYbzlDTXhOSzRyUDg0LXAwRkFPOElhTWFMNklRSFpCSzlsX3VZb1NtSFRsYVZXb3NnRGVTMkoteWlzQmoxZDRDOHJYWkRPV245MnFiZ1oyNldZSUUtcXd2ODdreDVoUDBkejJWUlZCWkNCTy1GaXFpd3U2Vld3c3lwQWpQX0dmNTQ3bTZwOW1rNnVqRDlZY0dnV1dpWkpIanNhdFdSek5uVlN2UkRIS3lYS01wSmFHblVYalAxOWZvR0dpVnBhS2xwWQ?oc=5",
       "source": "Breitbart",
-      "coverage": 3
+      "coverage": 4
     }
   ]
 }

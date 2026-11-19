@@ -1,20 +1,41 @@
 {
-  "updatedAt": "2026-11-19T02:48:54.396Z",
+  "updatedAt": "2026-11-19T03:29:22.636Z",
   "count": 10,
   "items": [
     {
-      "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-19T02:42:20.000Z"
+      "source": "New York Times",
+      "title": "A disputa sobre as proteções contra a deportação de venezuelanos se intensifica com o pedido ao Supremo Tribunal Federal",
+      "titleOriginal": "Fight Over Deportation Protections for Venezuelans Escalates With Request to Supreme Court",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/supreme-court-trump-deportation-venezuelans.html",
+      "publishedAt": "2026-11-19T03:18:25.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Republicano do Alasca derrota por pouco candidato independente à Câmara dos Representantes",
+      "title": "Republicano do Alasca vence por pouco candidato independente à Câmara dos Representantes",
       "titleOriginal": "Alaska Republican Narrowly Defeats Independent House Candidate",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-      "publishedAt": "2026-11-19T02:38:53.000Z"
+      "publishedAt": "2026-11-19T03:14:27.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Com a apuração dos votos do Senado do Alasca, o que vem a seguir na Última Fronteira?",
+      "titleOriginal": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
+      "publishedAt": "2026-11-19T02:58:29.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Obama diz aos democratas da Câmara que estão assumindo seus cargos para manter o trabalho de conscientização nas áreas republicanas",
+      "titleOriginal": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
+      "publishedAt": "2026-11-19T02:54:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Aumento da Previdência Social: o que sobra após o aumento do prêmio do Medicare?",
+      "titleOriginal": "Social Security raise: What's left after the Medicare premium hike?",
+      "link": "https://thehill.com/homenews/6229319-social-security-raise-whats-left-after-the-medicare-premium-hike/",
+      "publishedAt": "2026-11-19T02:48:14.000Z"
     },
     {
       "source": "The Hill",
@@ -24,18 +45,18 @@
       "publishedAt": "2026-11-19T02:32:15.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "O marido de Alice Huang construiu um império de data centers com o apoio do Estado chinês",
-      "titleOriginal": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHhHZXp0eFpvVEQwNWQwUXgwSDZETWdWeF9UMTdLaTFLUFN6Q3lvMGI1OU1iYXc3dGszaVJqUWpZTzk3cVlsajJqMWhmYWVfZ2dlNFpxaFh3QVV6d2FTRlBmbC1EZ0dZNDhrWVRadjVaWnQ5c3NiR2d2UEZRdlRIdGEybHRCejhTa2k4cV9LWFlhbkRjRk9CSTVJVmRpUWlRLUI1QWpLeGFjOTZVVjdfaW9nWXRBSjQ?oc=5",
-      "publishedAt": "2026-11-19T02:23:47.000Z"
-    },
-    {
       "source": "Axios",
       "title": "Trump considera ataques ao Irã enquanto Israel alerta sobre armas químicas",
       "titleOriginal": "Trump weighs strikes on Iran as Israel warns of chemical weapons",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhsMGFnUEhueFlmbkpjTEdvbU1LVkxiUk8wVzhQMUZ2QlNfYUo2Nmh4N3dVSzI5ZXByTHpmdU9FNE9HaTloeTBGQU51cHNEbkZ0VEZJZFgxVWdoMFJKdDJkQk00a0Q0VXJlRmQ0RlJKX2RBalV4cy1ZaVVkeFE3bQ?oc=5",
       "publishedAt": "2026-11-19T02:12:51.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A saga de Jensen Huang revitalizou os falcões da China em Washington",
+      "titleOriginal": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazk0b19YRzZMSjFudnc5Nm4xLTNNMjQ5RDBCRDVuZjBYZzUtdzRMOGpsT1hob0lqbGNDR2hwREJGeUh6UWtGTTgxLVFmVXB4d0JWWTN4eTBqRU54VDcyTEVrYm5xdmQ4cGpLc2F3OVYxOFlrQW5Ga2ZwSEoxLTFVVTdnMUFpa0V6ZjFFSDNNU3g5VkxFeU5jbGxpYW81UDBlSk13WXMyZ21tdnplTFY2cXNvT3NobFhCVmE0?oc=5",
+      "publishedAt": "2026-11-19T02:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -50,27 +71,6 @@
       "titleOriginal": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
       "publishedAt": "2026-11-19T01:56:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Interrupções tecnológicas generalizadas colocam o foco nos cortes de Trump na segurança nacional",
-      "titleOriginal": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
-      "publishedAt": "2026-11-19T01:16:32.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Musk sobre os gastos com as eleições de meio de mandato: \"Sinto-me muito tolo\"",
-      "titleOriginal": "Musk on midterms spending: 'I feel pretty foolish'",
-      "link": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
-      "publishedAt": "2026-11-19T01:11:24.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Obama diz aos democratas da Câmara que estão assumindo seus cargos para manter o trabalho de conscientização nas áreas republicanas",
-      "titleOriginal": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
-      "publishedAt": "2026-11-19T01:10:37.000Z"
     }
   ]
 }
