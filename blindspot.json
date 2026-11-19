@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-19T03:29:31.976Z",
-  "slot": "2026-11-19-AM",
+  "updatedAt": "2026-11-19T20:59:46.549Z",
+  "slot": "2026-11-19-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "DealBook Summit: Elon Musk se apresenta como um político moderado e diz que \"não é MAGA\"",
-      "titleOriginal": "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
-      "source": "New York Times",
-      "coverage": 3
+      "title": "Mianmar cometeu genocídio contra a minoria rohingya, segundo decisão do principal tribunal da ONU",
+      "titleOriginal": "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5",
+      "source": "Washington Post",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Peter Schweizer: A jogada de espionagem de Pequim contra o CEO da Nvidia, Jensen Huang, custou à China seu principal aliado tecnológico",
-      "titleOriginal": "Peter Schweizer: Beijing’s Spy Play Against Nvidia CEO Jensen Huang Cost China Its Top Tech Ally",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONWtVaENRMW82WkxlZVFYbzlDTXhOSzRyUDg0LXAwRkFPOElhTWFMNklRSFpCSzlsX3VZb1NtSFRsYVZXb3NnRGVTMkoteWlzQmoxZDRDOHJYWkRPV245MnFiZ1oyNldZSUUtcXd2ODdreDVoUDBkejJWUlZCWkNCTy1GaXFpd3U2Vld3c3lwQWpQX0dmNTQ3bTZwOW1rNnVqRDlZY0dnV1dpWkpIanNhdFdSek5uVlN2UkRIS3lYS01wSmFHblVYalAxOWZvR0dpVnBhS2xwWQ?oc=5",
-      "source": "Breitbart",
-      "coverage": 4
+      "title": "China expulsa repórter de cúpula após ele gritar uma pergunta sobre Jensen Huang",
+      "titleOriginal": "China kicks out reporter from summit after shouting question about Jensen Huang",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWRvSENWNUxmWnQ4cVNOVGNlMjB1S1hWNDZVZThnTUY4NGNQcFlOU2MwdWdSMDh5OGdsTE5XN3BYRUoyRS1OSl84WDdoUmZFR1h2TlFYenNOS1hVdU9UNTFuQmRydGtwQmdDM25SX3Z3TGNMQ3dYU01FOHFvb3VYdmhOSlN1Qm9qVzNFUjk5d0lGQS1teHozNUpUOTctMV9QSWRYRDh3ejJjM0ZkVHRqdzFDNWk?oc=5",
+      "source": "Washington Examiner",
+      "coverage": 3
     }
   ]
 }

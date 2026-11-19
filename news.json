@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-19T13:09:55.048Z",
+  "updatedAt": "2026-11-19T20:58:40.994Z",
   "count": 10,
   "items": [
     {
       "source": "The Hill",
-      "title": "Elon Musk está doando US$ 11 bilhões em ações da SpaceX — e saindo na frente",
-      "titleOriginal": "Elon Musk is giving away $11 billion in SpaceX stock — and coming out ahead",
-      "link": "https://thehill.com/opinion/finance/6227645-trump-accounts-tax-loophole/",
-      "publishedAt": "2026-11-19T13:00:00.000Z"
+      "title": "Meta leva disputa sobre a lei de anúncios de campanha do estado de Washington à Suprema Corte",
+      "titleOriginal": "Meta brings fight over Washington state campaign ad law to Supreme Court",
+      "link": "https://thehill.com/policy/technology/6231297-meta-supreme-court-washington-political-ads/",
+      "publishedAt": "2026-11-19T20:32:47.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Na cédula: democratas da classe trabalhadora querem reformular a cultura do Congresso",
-      "titleOriginal": "On the Ballot: Working-class Democrats want to remake the culture of Congress",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6229056-democratic-house-majority-growth-midterms/",
-      "publishedAt": "2026-11-19T13:00:00.000Z"
+      "title": "Prefeito de Baltimore critica Marlon Humphrey após comentário de \"criminosos\" do jogador dos Ravens",
+      "titleOriginal": "Baltimore mayor blasts Marlon Humphrey after Ravens player's 'criminals' comment",
+      "link": "https://thehill.com/policy/sports-gaming/6231324-baltimore-ravens-marlon-humphrey-criminals-comment/",
+      "publishedAt": "2026-11-19T20:21:36.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump cumprimenta Putin: \"Ele é meu amigo\"",
-      "titleOriginal": "Trump greets Putin: 'He's my friend'",
-      "link": "https://thehill.com/policy/international/6229700-donald-trump-vladimir-putin-friendship-china-summit/",
-      "publishedAt": "2026-11-19T12:58:31.000Z"
+      "title": "Sanders joga um balde de água fria na candidatura à Casa Branca em 2028",
+      "titleOriginal": "Sanders pours cold water on 2028 White House bid",
+      "link": "https://thehill.com/homenews/campaign/6231265-sanders-rules-out-presidential-run/",
+      "publishedAt": "2026-11-19T20:17:18.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Tribunal de apelações nega revisão por um painel completo do pedido de McIver para anular o caso",
+      "titleOriginal": "Appeals court denies full panel review of McIver bid to toss case",
+      "link": "https://thehill.com/regulation/court-battles/6231366-third-circuit-rejects-mciver-dismissal/",
+      "publishedAt": "2026-11-19T20:10:23.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Van Hollen e Merkley pressionam por reformas no Senado em meio à disputa pela liderança democrata",
+      "titleOriginal": "Watch live: Van Hollen, Merkley push Senate reforms amid Democratic leadership fight",
+      "link": "https://thehill.com/homenews/senate/6231262-watch-live-chris-van-hollen-jeff-merkley-senate-reforms-press-conference/",
+      "publishedAt": "2026-11-19T19:59:34.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hillary Clinton: Xi e Putin manipulam Trump \"como se fosse um violão de criança\"",
+      "titleOriginal": "Hillary Clinton: Xi, Putin play Trump 'like a child's guitar'",
+      "link": "https://thehill.com/policy/international/6231312-clinton-trump-xi-putin/",
+      "publishedAt": "2026-11-19T19:57:32.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O Departamento de Justiça e o Departamento de Segurança Interna dos EUA lançam um centro para combater o cibercrime",
+      "titleOriginal": "DOJ, DHS launch hub to fight cyber crime",
+      "link": "https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/",
+      "publishedAt": "2026-11-19T19:52:13.000Z"
     },
     {
       "source": "AP News",
-      "title": "China, Rússia e Estados Unidos concordam com as reformas da ONU e com a redução dos riscos nucleares, mas não há grandes avanços",
-      "titleOriginal": "China, Russia and the US agree to UN reforms and reducing nuclear risks but no major breakthroughs",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-      "publishedAt": "2026-11-19T12:57:00.000Z"
+      "title": "Kushner diz acreditar que a Rússia está \"confortável\" com garantias de segurança semelhantes às da OTAN para a Ucrânia",
+      "titleOriginal": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+      "publishedAt": "2026-11-19T19:52:00.000Z"
     },
     {
-      "source": "The Hill",
-      "title": "Cassidy rejeita o indicado de Trump para liderar a Fundação Nacional de Ciências",
-      "titleOriginal": "Cassidy rejects Trump nominee to lead National Science Foundation",
-      "link": "https://thehill.com/policy/healthcare/6229707-senate-rejects-nsf-nominee-jim-oneill/",
-      "publishedAt": "2026-11-19T12:49:54.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A China expulsa repórter da Bloomberg por gritar perguntas para Trump",
-      "titleOriginal": "China shuts out Bloomberg reporter for shouting questions at Trump",
-      "link": "https://thehill.com/homenews/media/6229710-china-blocks-bloomberg-reporter-trump-question/",
-      "publishedAt": "2026-11-19T12:49:47.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump, Xi e Putin emitem \"declaração em prol da paz\" com 4 pontos após a cúpula",
-      "titleOriginal": "Trump, Xi, Putin issue 4-point 'declaration toward peace' after summit",
-      "link": "https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/",
-      "publishedAt": "2026-11-19T12:31:40.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Assista ao vivo: Fórum de Criptomoedas do Capitólio do The Hill",
-      "titleOriginal": "Watch live: The Hill's Capitol Crypto Forum",
-      "link": "https://thehill.com/policy/technology/6229646-watch-live-the-hill-capitol-crypto-forum/",
-      "publishedAt": "2026-11-19T12:21:29.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Em uma decisão histórica, o principal tribunal da ONU afirma que Mianmar cometeu genocídio contra os rohingyas",
-      "titleOriginal": "In a landmark judgment, top UN court says Myanmar committed genocide against the Rohingya",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
-      "publishedAt": "2026-11-19T12:17:00.000Z"
+      "source": "Politico",
+      "title": "\"Eles deveriam estar subsidiando os contribuintes\": governador da Carolina do Norte diz que os subsídios para data centers devem ser reduzidos",
+      "titleOriginal": "‘They should be subsidizing the ratepayers’: NC governor says data center subsidies should be rolled back",
+      "link": "https://www.politico.com/news/2026/11/19/josh-stein-north-carolina-data-centers-01176128",
+      "publishedAt": "2026-11-19T19:39:11.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "O Pentágono precisa urgentemente de mais mísseis Patriot. Ele está enfrentando um problema com o rayon.",
-      "titleOriginal": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BOEozME1HbXpIc2tEZ1RVNjE4d21GWGpVN3dZUXU0aEpDU09rS0oyN0FNRjVKU1lPbTN2NS1nQ2F3bGxHSlB4V1RBMkFOLWNKWGpoTm1TbXdNSzM5T3AzQkZmbXpXY2l5eHBtZTZhYUlBQU1ISzFVeHpabw?oc=5",
-      "publishedAt": "2026-11-19T12:10:20.000Z"
+      "title": "O que a onda azul no Texas significa para a Tesla e a SpaceX de Elon Musk",
+      "titleOriginal": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGRaS0psc00yb1MySC1qZTVTdjhELU1HdmxSSmdhWE52YWM4b0hmVzMzYlFlYmVUZTl3d19OVzk5UFl4YkRMek82NEZLbFJIeWtpSnEwMExFVlYtazRuQ0liTjg2ZFFHX0ZFbUlEbnV5UU5OVFNiNEVYOC02bzBJdzBPREp4ek1VYXA3V01Oa0h4TFF5TFlzQVdhR3ZwTTVy?oc=5",
+      "publishedAt": "2026-11-19T19:25:25.000Z"
     }
   ]
 }
