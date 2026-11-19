@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-19T12:09:13.718Z",
+  "updatedAt": "2026-11-19T13:09:55.048Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Elon Musk está doando US$ 11 bilhões em ações da SpaceX — e saindo na frente",
+      "titleOriginal": "Elon Musk is giving away $11 billion in SpaceX stock — and coming out ahead",
+      "link": "https://thehill.com/opinion/finance/6227645-trump-accounts-tax-loophole/",
+      "publishedAt": "2026-11-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Na cédula: democratas da classe trabalhadora querem reformular a cultura do Congresso",
+      "titleOriginal": "On the Ballot: Working-class Democrats want to remake the culture of Congress",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6229056-democratic-house-majority-growth-midterms/",
+      "publishedAt": "2026-11-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump cumprimenta Putin: \"Ele é meu amigo\"",
+      "titleOriginal": "Trump greets Putin: 'He's my friend'",
+      "link": "https://thehill.com/policy/international/6229700-donald-trump-vladimir-putin-friendship-china-summit/",
+      "publishedAt": "2026-11-19T12:58:31.000Z"
+    },
+    {
       "source": "AP News",
-      "title": "A China e a Rússia afirmam que elas e os Estados Unidos concordam com as reformas da ONU, o aumento do fornecimento de combustíveis e o diálogo sobre questões nucleares",
-      "titleOriginal": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
+      "title": "China, Rússia e Estados Unidos concordam com as reformas da ONU e com a redução dos riscos nucleares, mas não há grandes avanços",
+      "titleOriginal": "China, Russia and the US agree to UN reforms and reducing nuclear risks but no major breakthroughs",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-      "publishedAt": "2026-11-19T11:53:00.000Z"
+      "publishedAt": "2026-11-19T12:57:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cassidy rejeita o indicado de Trump para liderar a Fundação Nacional de Ciências",
+      "titleOriginal": "Cassidy rejects Trump nominee to lead National Science Foundation",
+      "link": "https://thehill.com/policy/healthcare/6229707-senate-rejects-nsf-nominee-jim-oneill/",
+      "publishedAt": "2026-11-19T12:49:54.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "A China expulsa repórter da Bloomberg por gritar perguntas para Trump",
+      "titleOriginal": "China shuts out Bloomberg reporter for shouting questions at Trump",
+      "link": "https://thehill.com/homenews/media/6229710-china-blocks-bloomberg-reporter-trump-question/",
+      "publishedAt": "2026-11-19T12:49:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump, Xi e Putin emitem \"declaração em prol da paz\" com 4 pontos após a cúpula",
+      "titleOriginal": "Trump, Xi, Putin issue 4-point 'declaration toward peace' after summit",
+      "link": "https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/",
+      "publishedAt": "2026-11-19T12:31:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Assista ao vivo: Fórum de Criptomoedas do Capitólio do The Hill",
+      "titleOriginal": "Watch live: The Hill's Capitol Crypto Forum",
+      "link": "https://thehill.com/policy/technology/6229646-watch-live-the-hill-capitol-crypto-forum/",
+      "publishedAt": "2026-11-19T12:21:29.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Em uma decisão histórica, o principal tribunal da ONU afirma que Mianmar cometeu genocídio contra os rohingyas",
+      "titleOriginal": "In a landmark judgment, top UN court says Myanmar committed genocide against the Rohingya",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
+      "publishedAt": "2026-11-19T12:17:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Wall Street prometeu US$ 500 bilhões para a Nvidia. Nem um dólar foi investido.",
-      "titleOriginal": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3B6VkpjZGJoaUJSX2xTUlNWekU1cVJBNzRHdWZZTl9Oa3NRazQ3WnprNTJ5TmduWDdMMjFRTnBhS1c3M1hKSUJuRWJTNnFKVjA4c054S0hHUnZINzkxU2FzV3RjLVhQY3NjaXA0dUhIQ2phSWRycmdULTJaTElNZXc0UU1pRmdOUk83YWIzN3hCdGlHbDc4a3VncElSWXVFNW8ySEU2elluRkxm?oc=5",
-      "publishedAt": "2026-11-19T11:03:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Aliados de Buttigieg iniciam esforço para apoiar outra candidatura presidencial",
-      "titleOriginal": "Buttigieg allies launch effort to back another presidential run",
-      "link": "https://www.politico.com/news/2026/11/19/buttigieg-allies-2028-campaign-01174766",
-      "publishedAt": "2026-11-19T11:00:08.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Republicano da Câmara dos Deputados promove minerais e comércio em troca de paz na crise crescente entre Etiópia e Eritreia",
-      "titleOriginal": "House Republican pushes minerals, trade for peace in escalating Ethiopia, Eritrea crisis",
-      "link": "https://thehill.com/policy/international/6229124-baird-proposes-africa-peace-trade/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O memorando: o governo Trump não consegue amenizar as preocupações com a série de interrupções tecnológicas",
-      "titleOriginal": "The Memo: Trump administration fails to quell concern over cascade of tech outages",
-      "link": "https://thehill.com/homenews/analysis/6228960-trump-administration-tech-failures/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os democratas temem que a postura inflexível de Van Hollen em relação ao Irã possa desencadear uma paralisação",
-      "titleOriginal": "Democrats worry Van Hollen’s hard-line Iran stance could trigger shutdown",
-      "link": "https://thehill.com/homenews/senate/6228970-senate-democrats-avoid-shutdown/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os legisladores veem o IPO iminente da Anthropic com cautela",
-      "titleOriginal": "Policymakers view Anthropic's looming IPO with wary eye",
-      "link": "https://thehill.com/policy/technology/6229055-lawmakers-watch-anthropic-ipo-debut/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O Congresso se aproxima do prazo para o fechamento sem uma estratégia de financiamento",
-      "titleOriginal": "Congress drifts toward shutdown deadline without a funding strategy",
-      "link": "https://thehill.com/homenews/senate/6229008-congress-faces-government-shutdown-deadline/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rubio lidera, Ossoff sobe nas pesquisas de 2028",
-      "titleOriginal": "Rubio leads, Ossoff rises in 2028 polling",
-      "link": "https://thehill.com/homenews/campaign/6228848-rubio-ossoff-presidential-poll/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "Politico",
-      "title": "Uma semana de impasse na Casa Branca",
-      "titleOriginal": "A week of White House static",
-      "link": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
-      "publishedAt": "2026-11-19T10:45:00.000Z"
+      "title": "O Pentágono precisa urgentemente de mais mísseis Patriot. Ele está enfrentando um problema com o rayon.",
+      "titleOriginal": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BOEozME1HbXpIc2tEZ1RVNjE4d21GWGpVN3dZUXU0aEpDU09rS0oyN0FNRjVKU1lPbTN2NS1nQ2F3bGxHSlB4V1RBMkFOLWNKWGpoTm1TbXdNSzM5T3AzQkZmbXpXY2l5eHBtZTZhYUlBQU1ISzFVeHpabw?oc=5",
+      "publishedAt": "2026-11-19T12:10:20.000Z"
     }
   ]
 }
