@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-20T11:53:47.312Z",
+  "updatedAt": "2026-11-20T18:50:11.554Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Eles queriam uma casa maior. Acabaram ficando com uma mansão de 500 anos.",
-      "titleOriginal": "They Wanted a Bigger House. They Ended Up With a 500-Year-Old Mansion.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkJLRnNzRWF5bDduNDJzLTRvRkpIclNBbm43RzdTVUNXN0dTM3FFNkJncU5jZml2eWFvc3hJaGdJeGx6OVZsNUF2bm1sbWc4RGpDNHBSb3NJT3dwS09vbnpEcGhhbTVJRXpKYnZDaVJ1X0tRVllhWU9NWWtMai02U2MxNXBNOVU1MHhR?oc=5",
-      "publishedAt": "2026-11-20T11:40:43.000Z"
+      "source": "The Hill",
+      "title": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "titleOriginal": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "link": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+      "publishedAt": "2026-11-20T18:47:38.000Z"
     },
     {
-      "source": "AP News",
-      "title": "Resultados das eleições para a Câmara dos Deputados dos EUA de 2026",
-      "titleOriginal": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "publishedAt": "2026-11-20T11:10:53.000Z"
+      "source": "The Hill",
+      "title": "Live updates: Trump, Vance and Rubio brief reporters on China summit; GOP at odds over reconciliation",
+      "titleOriginal": "Live updates: Trump, Vance and Rubio brief reporters on China summit; GOP at odds over reconciliation",
+      "link": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/",
+      "publishedAt": "2026-11-20T18:27:04.000Z"
     },
     {
       "source": "New York Times",
-      "title": "O que Trump, Putin e Xi deixaram sobre a mesa",
-      "titleOriginal": "What Trump, Putin and Xi Left on the Table",
-      "link": "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html",
-      "publishedAt": "2026-11-20T11:00:19.000Z"
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "titleOriginal": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "publishedAt": "2026-11-20T18:21:13.000Z"
     },
     {
       "source": "The Hill",
-      "title": "A pressão de Trump sobre o Pentágono coloca em risco os cortes do Partido Republicano no Medicaid",
-      "titleOriginal": "Trump’s Pentagon push puts GOP Medicaid cuts at risk",
-      "link": "https://thehill.com/homenews/senate/6232138-thune-hesitates-pentagon-budget/",
-      "publishedAt": "2026-11-20T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "A Geração Z ajudou os democratas a vencer. Agora, ela pode querer uma nova liderança",
-      "titleOriginal": "Gen Z helped Democrats win. Now it may want new leadership",
-      "link": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
-      "publishedAt": "2026-11-20T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "O memorando: Trump, sob ataque, busca se reerguer com coletiva de imprensa na Casa Branca",
-      "titleOriginal": "The Memo: Embattled Trump seeks reset with White House news conference",
-      "link": "https://thehill.com/homenews/analysis/6231674-trump-post-midterm-election-reset/",
-      "publishedAt": "2026-11-20T11:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rubio ganha destaque enquanto a sorte de Vance vacila na disputa do Partido Republicano",
-      "titleOriginal": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
-      "link": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
-      "publishedAt": "2026-11-20T11:00:00.000Z"
+      "title": "Trump seeks curbs on US companies building data centers overseas",
+      "titleOriginal": "Trump seeks curbs on US companies building data centers overseas",
+      "link": "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/",
+      "publishedAt": "2026-11-20T18:16:33.000Z"
     },
     {
       "source": "Axios",
-      "title": "Os \"sem religião\" dos Estados Unidos passam de eleitores a legisladores",
-      "titleOriginal": "America's religious \"nones\" move from voters to lawmakers",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTFhdXFkd3FyUFlGVGNWQnFLSm5oWGdwekhTbXhwc3hIUldkb1JHOUJiMUJWUF9jcWZaX3RNUW5YdzYySUxhelF3WlpVeTdwM0pOYlJTVkFVQjBOdEhZVXM1WDFOM0hfbUluZ1dMQVN1RHY1ZG9HTUhHbjVneloyWHlha0wxUkg4?oc=5",
-      "publishedAt": "2026-11-20T10:52:58.000Z"
+      "title": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
+      "titleOriginal": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbG5pRzBtX2tSRU1PQU9ZejlEeWw5dzZOZ21aSE9hNWVqZnpXN21DNmFGS0RYTk1LZGZNOU5lT3VSSWJ1TVI4M2o1RlhScTR1LTdqZ3AyUHpqOG9sV2J3dVlkQW8zQnk5OGpYTmVWWi1HblpoTHRsQUx2QXBUdVU?oc=5",
+      "publishedAt": "2026-11-20T18:13:27.000Z"
     },
     {
-      "source": "Politico",
-      "title": "Escolhas dos governadores democratas para 2028",
-      "titleOriginal": "Democratic Governors’ 2028 picks",
-      "link": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
-      "publishedAt": "2026-11-20T10:45:00.000Z"
+      "source": "New York Times",
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "titleOriginal": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "publishedAt": "2026-11-20T18:05:36.000Z"
     },
     {
-      "source": "Axios",
-      "title": "A expansão do Medicaid não é uma \"vitória certa\" para os novos governadores democratas",
-      "titleOriginal": "Medicaid expansion isn't a \"slam dunk\" for new Dem governors",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzFaREVXdkV3UHBDU0o1cFZpRDktaWxsQXhTLUU4LXVXb2gtZEMtNkZnWDRKZEVCUEVzNXB5MThjUC1NVU5aSWtxUmhMdFhScHZ5RjNYTUdhbE1val9LRTZad2thSGhXb1BUdVo1SFF2MDRtUmVwcmlNOGxIcUhhNHVUU2diN1k?oc=5",
-      "publishedAt": "2026-11-20T10:34:32.000Z"
+      "source": "The Hill",
+      "title": "Democrat trolls Van Orden with photo lying down in Capitol Rotunda",
+      "titleOriginal": "Democrat trolls Van Orden with photo lying down in Capitol Rotunda",
+      "link": "https://thehill.com/homenews/house/6233692-cooke-van-orden-rotunda-clash/",
+      "publishedAt": "2026-11-20T17:49:40.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
+      "titleOriginal": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGl6dU85bExfQlhuODY0Rkh6a3M2UVhRTlV1QmRsclI5ZHpRbWo5M3JIbUdydkRzOFNrZkZ6RDBIMHJVNGhqeklnRl9UVVAzRFpFUUk0OTVDVnU3RVh2VjdWZ2ktMUhMNmZZMUZkVDE5RFAtTjJ4UEZjUDlKZWd4YlhSaFBoYXdnYVI1ajFaRkdnTkpyMExkU0U4YjBHMTNSblZkRWt6aUVtTGJ5UWU1RVdrNA?oc=5",
+      "publishedAt": "2026-11-20T17:41:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democrats must tackle affordability without breaking the budget",
+      "titleOriginal": "Democrats must tackle affordability without breaking the budget",
+      "link": "https://thehill.com/opinion/congress-blog/economy-budget/6231213-democrats-congress-strategy-2028/",
+      "publishedAt": "2026-11-20T17:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+      "titleOriginal": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUt2OHExSjcwRHNmWnFlWTlYWU5sSmlVRmtSeURfa0pFMmZ5TEtTdGRlelEwLXV3SXI0TTU1SkZQNjhpMElnRzVidXdQWEdfdkRrbFdjYlppekVfc3pUMk1jUVdSODEzSzk1WXJ4QVJJSklkdEVEMnZGcXVDT2lLaUh6dGN4dVpYbWhpR0VqUlFRVkxraTJqR25NX1JKanRrcmNR?oc=5",
+      "publishedAt": "2026-11-20T16:59:00.000Z"
     }
   ]
 }
