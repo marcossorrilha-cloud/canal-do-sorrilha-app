@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-11-20T02:36:20.576Z",
+  "updatedAt": "2026-11-20T03:17:00.241Z",
   "count": 10,
   "items": [
     {
+      "source": "Wall Street Journal",
+      "title": "O Irã ataca o Kuwait e o Bahrein, intensificando ainda mais a disputa pelo Estreito",
+      "titleOriginal": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+      "publishedAt": "2026-11-20T03:10:34.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "O Pentágono precisa urgentemente de mais mísseis Patriot. Ele está enfrentando um problema com o rayon.",
+      "titleOriginal": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BOEozME1HbXpIc2tEZ1RVNjE4d21GWGpVN3dZUXU0aEpDU09rS0oyN0FNRjVKU1lPbTN2NS1nQ2F3bGxHSlB4V1RBMkFOLWNKWGpoTm1TbXdNSzM5T3AzQkZmbXpXY2l5eHBtZTZhYUlBQU1ISzFVeHpabw?oc=5",
+      "publishedAt": "2026-11-20T03:10:22.000Z"
+    },
+    {
       "source": "New York Times",
-      "title": "Trump ostenta sua camaradagem com Xi e Putin, mas tem pouco a mostrar em termos de resultados",
+      "title": "Mensagens cristãs do secretário de Agricultura aos funcionários foram \"longe demais\", diz juiz",
+      "titleOriginal": "Agriculture Secretary’s Christian Messages to Staff Went ‘Too Far,’ Judge Says",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html",
+      "publishedAt": "2026-11-20T02:52:59.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Kushner diz acreditar que a Rússia está \"confortável\" com garantias de segurança semelhantes às da OTAN para a Ucrânia",
+      "titleOriginal": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+      "publishedAt": "2026-11-20T02:49:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Trump ostenta camaradagem com Xi e Putin, mas tem pouco a mostrar disso",
       "titleOriginal": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
       "publishedAt": "2026-11-20T02:10:57.000Z"
@@ -25,10 +53,17 @@
     },
     {
       "source": "AP News",
-      "title": "Promotor se recusa a acusar um policial de Madison, Wisconsin, que atirou e matou um homem negro",
+      "title": "Promotor se recusa a acusar um policial de Madison, Wisconsin, que atirou fatalmente em um homem negro",
       "titleOriginal": "Prosecutor declines to charge a Madison, Wisconsin, police officer who fatally shot a Black man",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1ZSN2N0aVZUclNSWFA2R0xFbXhobGI0d2g4TGtPZjc4VVVLODBpRDdkbjFpLUxFZXZGZU9RQTZoSExqcGZwc0hQR3lLaUNNYzZTem5aNVNHQV9aQlItWTRvS3p2eUctOU05RFBHY2ZJTi1ZVDZ1NFhSRVU3dVFMWlhDRUYtTzJNMkxsalJ0dXQ0VDBvRjZ2RWxn?oc=5",
       "publishedAt": "2026-11-20T01:13:00.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para o Senado dos EUA de 2026",
+      "titleOriginal": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "publishedAt": "2026-11-20T01:06:40.000Z"
     },
     {
       "source": "The Hill",
@@ -36,41 +71,6 @@
       "titleOriginal": "California attorney general issues subpoena to Nvidia over chip sales to China",
       "link": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/",
       "publishedAt": "2026-11-20T01:05:38.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Principal autoridade de cibersegurança da Casa Branca renuncia ao cargo",
-      "titleOriginal": "Top White House Cybersecurity Official Steps Down",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "publishedAt": "2026-11-20T00:57:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Advogado pessoal de Trump vai deixar o cargo de copresidente da Sullivan & Cromwell",
-      "titleOriginal": "Trump’s Personal Lawyer to Step Back as Sullivan & Cromwell Co-Chair",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3Y5a1NvdXBmYjhnRUtTRVFXVnRUYm4zRDhGM08ySGlQVXJ2VHo3WjJNQUJLZEZGRG5Ic3Y3Vkl0VXUyWGVUQm92ZC10MWhKRGZNSGp3UHFEd2F0U3JqWDBwUEphanZTUDUxRC1Uam5WNmRUOUZzOExVZ0VQRVkyRjM5UkdFMmFoeHZKa01wcVc2M2pDSUdrVHFMeE9NVG5MdnFKLU05ZlJ5Zw?oc=5",
-      "publishedAt": "2026-11-20T00:50:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "TPG e Corpay vão comprar a plataforma financeira Bill por cerca de US$ 6 bilhões",
-      "titleOriginal": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXJCQzRCQ1FLaXI2THdlRktBd2owbk9uZFNEc3RRWXdzQURnbTNqTjZfd2l5bExBT1FsWURWS2pSYS11ZS1EUm5hNXhnSkFEeEh2cHFBSTZPWnNSTzJDX1Z3aE5LTVFtUzFjZ2Q2QV9PanE1VVQtcjlxbHVQQjdQNzczRENYUlRGaVVvTXpELXp2TWhaVXVSajVSamtCZGJsUnA0TjVB?oc=5",
-      "publishedAt": "2026-11-20T00:46:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Conclusões da cúpula histórica entre Trump, Xi e Putin",
-      "titleOriginal": "Takeaways from the historic summit among Trump, Xi and Putin",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGR5Qm9EVktTdGlZU2p0QlJOOGRieUpsczVJc2RfTXA2XzZFRUtnaUNZWHdVLTN1X3JnZ2FTQ0J4V3ZyWkJEV21aMzhqV2pqbzB4amYyM0pCdWs4NWNUUE1aakhtWW9IZDhmR2ZSUl9NNFhXZ3JMQmEzVjJVVmswODFhOHU2VkZ5TmE3NWF3?oc=5",
-      "publishedAt": "2026-11-20T00:39:00.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Democratas da Câmara recuam diante da ideia de forçar um fechamento em dezembro para cortar o financiamento da guerra com o Irã",
-      "titleOriginal": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbG5pRzBtX2tSRU1PQU9ZejlEeWw5dzZOZ21aSE9hNWVqZnpXN21DNmFGS0RYTk1LZGZNOU5lT3VSSWJ1TVI4M2o1RlhScTR1LTdqZ3AyUHpqOG9sV2J3dVlkQW8zQnk5OGpYTmVWWi1HblpoTHRsQUx2QXBUdVU?oc=5",
-      "publishedAt": "2026-11-20T00:33:36.000Z"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-19T20:59:46.549Z",
-  "slot": "2026-11-19-PM",
+  "updatedAt": "2026-11-20T03:17:09.406Z",
+  "slot": "2026-11-20-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Mianmar cometeu genocídio contra a minoria rohingya, segundo decisão do principal tribunal da ONU",
-      "titleOriginal": "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5",
-      "source": "Washington Post",
+      "title": "Atualizações ao vivo: tribunal da ONU decide que Mianmar cometeu genocídio contra os rohingyas",
+      "titleOriginal": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
+      "source": "New York Times",
       "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "China expulsa repórter de cúpula após ele gritar uma pergunta sobre Jensen Huang",
-      "titleOriginal": "China kicks out reporter from summit after shouting question about Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWRvSENWNUxmWnQ4cVNOVGNlMjB1S1hWNDZVZThnTUY4NGNQcFlOU2MwdWdSMDh5OGdsTE5XN3BYRUoyRS1OSl84WDdoUmZFR1h2TlFYenNOS1hVdU9UNTFuQmRydGtwQmdDM25SX3Z3TGNMQ3dYU01FOHFvb3VYdmhOSlN1Qm9qVzNFUjk5d0lGQS1teHozNUpUOTctMV9QSWRYRDh3ejJjM0ZkVHRqdzFDNWk?oc=5",
+      "title": "Trump sugere que o Irã pode lançar um ataque com \"gás\" ou \"biológico\" após notícia sobre bomba suja",
+      "titleOriginal": "Trump hints Iran could launch ‘gas’ or ‘bio’ attack following dirty bomb report",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVdPTkpka0pKbFFxX0NOLUdXMGd2ZDM1c3BDSkFOdVRSNGxDSmxrVG1XWWpZeWhDM3EzZDU2dVdyVzNhRmFHNmU2UjF6ZmFxZ2UxNXBja1JxMThtSmFkOGh0MmJFUUhZV1dhNjAzeE9tRXR3SVJZYld2dHVzM1BHNnBaTjRZd3Z4SnhQVVh4Q0J1LXpESVEzaTBZWWV2dw?oc=5",
       "source": "Washington Examiner",
-      "coverage": 3
+      "coverage": 5
     }
   ]
 }
