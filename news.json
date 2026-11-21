@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-21T08:46:03.224Z",
+  "updatedAt": "2026-11-21T09:56:00.780Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Até mesmo os entusiastas de finanças pessoais têm dificuldades com as conversões Roth e as regras da Receita Federal dos EUA",
-      "titleOriginal": "Even Personal-Finance Devotees Struggle With Roth Conversions and IRS Rules",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczdnRWd5SFI0bExkcW1BS0xBTFU0Ukd1eDlWdnpFeGJJWnA5bjA1Q0tCWU1nbTI1UWU5TURWNW85dnRKWk1zVXhSVkxiRFhiSURZLTZGaU9WdzJndEp0R3BCQmx1TUYzYzFITDBWUVFLM0VDcURKdENZbDVaeDI0Yy1XX01nb0xCR3ExbzljRHJRLW1MSHVxY3FUY01PVm5CRGVEdFFCcFJMUnhGRllpbHZMUUZCTVNjZFM3WUtNNWZDeXlmc0E?oc=5",
-      "publishedAt": "2026-11-21T08:09:49.000Z"
+      "title": "TPG e Corpay vão comprar a plataforma financeira Bill por cerca de US$ 6 bilhões",
+      "titleOriginal": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXJCQzRCQ1FLaXI2THdlRktBd2owbk9uZFNEc3RRWXdzQURnbTNqTjZfd2l5bExBT1FsWURWS2pSYS11ZS1EUm5hNXhnSkFEeEh2cHFBSTZPWnNSTzJDX1Z3aE5LTVFtUzFjZ2Q2QV9PanE1VVQtcjlxbHVQQjdQNzczRENYUlRGaVVvTXpELXp2TWhaVXVSajVSamtCZGJsUnA0TjVB?oc=5",
+      "publishedAt": "2026-11-21T09:51:47.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Intuit vende o Mailchimp por US$ 3,68 bilhões para a Bending Spoons, apoiada pela Berkshire Hathaway",
+      "titleOriginal": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFlmLXRMU01PMnc0NWFXWXhPck5ad1pSR2xQMUdlTEhvam9pZmdXamg4eFlqaktJX2RvZWtYVjR5ZW9Xd0IxdHNSNHdBeHpnQkhQVjBvVzVLSjM0Y2d1Ukg5SS03V0hxV2hzRWptTTJFTEJqeGcyekZUQjVhdjJxRC1wcHNUeUR1N19fMEkzYTc3UQ?oc=5",
+      "publishedAt": "2026-11-21T09:37:49.000Z"
     },
     {
       "source": "Axios",
@@ -25,24 +32,17 @@
     },
     {
       "source": "New York Times",
-      "title": "Tribunal Federal suspende lei de proteção às trabalhadoras grávidas",
+      "title": "Tribunal Federal suspende a lei de proteção às trabalhadoras grávidas",
       "titleOriginal": "Federal Court Halts Pregnant Workers’ Protection Law",
       "link": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html",
       "publishedAt": "2026-11-21T05:53:09.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Alice Huang, acusada de espionar o CEO da Nvidia, tem vínculos com empresas ligadas às Forças Armadas da China",
+      "title": "Alice Huang, acusada de espionar o CEO da Nvidia, está ligada a empresas com vínculos com as Forças Armadas da China",
       "titleOriginal": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
       "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
       "publishedAt": "2026-11-21T05:13:03.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O Congresso passa por uma reformulação histórica em todos os aspectos",
-      "titleOriginal": "Congress gets a historic overhaul from every direction",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEVUTHF4RmpWYkEyZXRpS0NZaGxCNkdaemtRZEU5SGxhVFRXazdQTlNuQktRdm0yYVdWdEVnT0ptaVBkRWpGZlhOOUdCU0tRLVJ1MEFpVmZYUTJudnlKRGRmMmRIcm9zVXNqOXY5ZTgyc25QRWczb21ZMV9XQUlDdWZR?oc=5",
-      "publishedAt": "2026-11-21T04:13:34.000Z"
     },
     {
       "source": "New York Times",
@@ -67,7 +67,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Ex-prefeito de Jackson, Mississippi, condenado a prisão federal por suborno",
+      "title": "Ex-prefeito de Jackson, Mississippi, condenado à prisão federal por suborno",
       "titleOriginal": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
       "link": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
       "publishedAt": "2026-11-21T02:10:18.000Z"
