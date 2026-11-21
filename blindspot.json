@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-20T18:51:10.735Z",
-  "slot": "2026-11-20-PM",
+  "updatedAt": "2026-11-21T08:47:04.174Z",
+  "slot": "2026-11-21-AM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
-      "titleOriginal": "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5",
-      "source": "Washington Post",
+      "title": "Os EUA reagem com cautela à decisão sobre o genocídio em Mianmar, enquanto a UE elogia o papel \"fundamental\" do principal tribunal da ONU",
+      "titleOriginal": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUszNnItRFg4bG9QMUhWUUhmRVhJT3hldnVnLTNWLU8wdWFDZWs5WWlnbFRKRmo5aUR4TURuVjdtMFd5T0JQcWsyWnYtTVhBS05tWmRGREhUZEdMbGV6b056NGhaNnAybXhrR1FSYlh1WXl1RFJIR3NoZ0dIVzMtMlk3U2w2THhLY0tiTFlyYkZIX0dIZFlod2Q2RVp0d2VMbWlJbGQwQWVfSHRmeC1ienF0M0k4RGpiYmFV?oc=5",
+      "source": "The Guardian",
       "coverage": 5
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Texas Democrat Gov-Elect Gina Hinojosa Aims to Flood Government Jobs, Public Schools with Migrant Hires",
-      "titleOriginal": "Texas Democrat Gov-Elect Gina Hinojosa Aims to Flood Government Jobs, Public Schools with Migrant Hires",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTYxRjBMOHJHYWdjUmNoa0lEaUNRbTdRSTZhOVFLSUxLaVF0dUxtUWlycG9tbmY3Ukp5LWtXTmg5eHFWTXJpZW1IU18xU0tLLVZDd1pxZ0V3TWo2cjZMbXNwa0JMOEd1VWtZZXd6dEhmc0xybjVUNEtabnR1Mmx0N1EzbEpscmxwRHlHRTNUSWJJd3FQWS14OTI3dXpfT211Wk1pX0lRc21xci01amc1WjN3UmVDWmFEU1lJSHZyQW5WcVphMkdPX256T3pSR0VSR3FDeWFfQThQWjk3dlh3RkE1VGd3clk?oc=5",
+      "title": "Trump quer tributar empresas que constroem data centers no exterior",
+      "titleOriginal": "Trump to Tax Companies That Build Data Centers Overseas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1pWR2hGS09QSm1oYmlsVXhWN0l5ZVlYYXVQUHVUQnN6WlotcWd3V0lWeXBjSG1GSWFEcXFmZFR0ZmxueUgxOVJmcnlldjlMZDVaQWpxU2s3N19pc1dtOVVZaGNWcWFHdG1DSTB0QjdhZXZVYUFHS1RpY00wZHJrR3YtTVFhSEswcjlDV2RuWEJqLWtxaTVqUW1R?oc=5",
       "source": "Breitbart",
       "coverage": 3
     }
