@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-11-22T06:50:00.721Z",
+  "updatedAt": "2026-11-22T10:18:39.974Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "A Ucrânia está correndo para evitar que sua próspera indústria de defesa entre em estagnação",
-      "titleOriginal": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
-      "publishedAt": "2026-11-22T05:27:43.000Z"
+      "source": "New York Times",
+      "title": "Verificação de fatos sobre Stephen Miller, o novo chefe de gabinete da Casa Branca",
+      "titleOriginal": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+      "publishedAt": "2026-11-22T10:02:17.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Como Kim Jong-un consegue construir armas nucleares e ignorar Trump",
-      "titleOriginal": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
-      "publishedAt": "2026-11-22T02:01:08.000Z"
+      "source": "New York Times",
+      "title": "Annie Andrews é autêntica demais para o Senado? Os habitantes da Carolina do Sul estão prestes a descobrir.",
+      "titleOriginal": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+      "publishedAt": "2026-11-22T10:02:15.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Na Ucrânia, a luta para manter o inverno do lado de fora começa com uma janela quebrada",
+      "titleOriginal": "In Ukraine, the fight to keep winter outside begins with a broken window",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRWNURuNy1QRzlYWm0yaHlkaVh0N1RXQV9SdXNsXzc2RTJHTHlTLWszWW13OEZROEY4a0NWc0lqa2psbHZOdTQ0dkR5OFB0QkdwY3BVU0ZwRWo4UDh6NlZXX0VVTTQtalp4Z3l6azBsR1U3b21qNDZwX3NmRkFYSFBnQXIyQWU2M29VT2lCeUZLNEtybnZ3Ulh0aHF4dC1IU3QzVmJTbnJhaGxXT1hXdFpQVjhyYjA?oc=5",
+      "publishedAt": "2026-11-22T07:02:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -31,13 +38,6 @@
       "publishedAt": "2026-11-22T01:57:37.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A longa guerra da Rússia contra a Ucrânia",
-      "titleOriginal": "Opinion | Ukraine’s Long Russian War",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
-      "publishedAt": "2026-11-22T01:44:15.000Z"
-    },
-    {
       "source": "New York Times",
       "title": "Trump toma medidas para restringir a supervisão dos contratados pelo Congresso",
       "titleOriginal": "Trump Moves to Restrict Congressional Oversight of Contractors",
@@ -45,11 +45,11 @@
       "publishedAt": "2026-11-22T01:29:53.000Z"
     },
     {
-      "source": "Wall Street Journal",
-      "title": "Opinião | É um milagre de permissão no Senado",
-      "titleOriginal": "Opinion | It’s a Permitting Miracle in the Senate",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHhGRGxWZnRpVHNOZlpoSkZrM2N4S1dnYXJXUE92cHlGejcyY25wQm9RZHhLVjNiQ1V3X0JRQ21xTGktUVMyeWgxSjFZR19vNzRONnZydy1abmdOOGhrd1J6VVlSSDBJQjByMUhHT1hqc0EtRlkzaThyMV95WnpiaQ?oc=5",
-      "publishedAt": "2026-11-22T01:25:38.000Z"
+      "source": "Axios",
+      "title": "Trump diz que trabalharia com os democratas para limitar os juros e as taxas dos cartões de crédito",
+      "titleOriginal": "Trump says he'd work with Dems to cap credit card interest, fees",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VmlHVnQwVGE3ejRNcTlLSmhLbGtPb3VwNGpxMmtPMGRjeWEtaXVIaUJCUWNuaTFpVG55ZkI4RkNDTXFPZ1NfR1dIb25McVhTeVhIc3pBbEx0X1FXdWJRLXlTcmoxeVhVTml1SVZTRWhudw?oc=5",
+      "publishedAt": "2026-11-22T01:26:01.000Z"
     },
     {
       "source": "AP News",
@@ -59,18 +59,18 @@
       "publishedAt": "2026-11-22T01:25:00.000Z"
     },
     {
-      "source": "Axios",
-      "title": "O ataque hacker mais recente ao FBI coloca registros pessoais em risco",
-      "titleOriginal": "Latest hack of FBI puts personal records at risk",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90d3daMHJ2WG9UMlB0eDlrSlFBMVYwdDd2R09PdzBwUG5EcGZTUzNsVVZzR2U2elhGcnhSOXRIMVRKUHhQdkxEWHE1Z3d5dExCSnF0OFFxX3ZSVkdGaFk3cmgyeG1XbnI4X1hDcUxxcVY?oc=5",
-      "publishedAt": "2026-11-22T00:08:49.000Z"
+      "source": "Wall Street Journal",
+      "title": "Como Kim Jong-un consegue construir armas nucleares e ignorar Trump",
+      "titleOriginal": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
+      "publishedAt": "2026-11-22T00:31:37.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Howard Lutnick é o último sobrevivente do governo Trump",
-      "titleOriginal": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
-      "publishedAt": "2026-11-22T00:00:00.000Z"
+      "title": "A Ucrânia está correndo para evitar que sua próspera indústria de defesa entre em estagnação",
+      "titleOriginal": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+      "publishedAt": "2026-11-22T00:27:44.000Z"
     }
   ]
 }
