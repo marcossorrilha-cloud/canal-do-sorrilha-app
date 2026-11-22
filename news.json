@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-22T18:02:19.528Z",
+  "updatedAt": "2026-11-22T21:46:09.657Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Chefe da espionagem israelense pressionou por novos ataques ao Irã durante visita aos EUA",
-      "titleOriginal": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5",
-      "publishedAt": "2026-11-22T17:41:10.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O ataque hacker mais recente ao FBI coloca registros pessoais em risco",
-      "titleOriginal": "Latest hack of FBI puts personal records at risk",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90d3daMHJ2WG9UMlB0eDlrSlFBMVYwdDd2R09PdzBwUG5EcGZTUzNsVVZzR2U2elhGcnhSOXRIMVRKUHhQdkxEWHE1Z3d5dExCSnF0OFFxX3ZSVkdGaFk3cmgyeG1XbnI4X1hDcUxxcVY?oc=5",
-      "publishedAt": "2026-11-22T17:33:02.000Z"
+      "source": "The Hill",
+      "title": "Os democratas conquistam a maior maioria na Câmara em eleições em três décadas",
+      "titleOriginal": "Democrats secure largest House majority in election in three decades",
+      "link": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+      "publishedAt": "2026-11-22T21:33:52.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Diretor de Inteligência Nacional: Putin \"não é amigo dos Estados Unidos na Ucrânia\"",
-      "titleOriginal": "Director of National Intelligence: Putin is 'not America's friend in Ukraine'",
-      "link": "https://thehill.com/homenews/administration/6235931-clayton-defends-trump-putin-friendship/",
-      "publishedAt": "2026-11-22T17:19:23.000Z"
+      "title": "El-Sayed aprovaria o Medicare para Todos como \"TrumpCare\": \"Eu realmente não me importo com o nome que ele tem.",
+      "titleOriginal": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called",
+      "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
+      "publishedAt": "2026-11-22T21:24:40.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Os republicanos têm sorte que 2026 não foi 2028.",
-      "titleOriginal": "Republicans are lucky 2026 wasn't 2028",
-      "link": "https://thehill.com/opinion/campaign/6232755-trump-impact-republican-defeats/",
-      "publishedAt": "2026-11-22T17:00:00.000Z"
+      "title": "Deputado democrata afirma que o próximo Congresso se concentrará no uso da IA para melhorar a saúde, o emprego e a agricultura",
+      "titleOriginal": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
+      "link": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
+      "publishedAt": "2026-11-22T20:52:30.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Trump odeia a energia eólica. Um projeto de lei que ele apoia pode ajudar a desenvolvê-la",
-      "titleOriginal": "Trump hates wind power. A bill he supports may help it get built",
-      "link": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
-      "publishedAt": "2026-11-22T17:00:00.000Z"
+      "title": "Flanagan diz que as vitórias alcançadas por ela, Mary Peltola, \"fazem com que nosso Capitólio se pareça um pouco mais com os Estados Unidos\".",
+      "titleOriginal": "Flanagan says wins made by her, Mary Peltola 'makes our capitol look a little bit more like America'",
+      "link": "https://thehill.com/homenews/senate/6235791-peggy-flanagan-says-wins-made-by-her-mary-peltola-makes-our-capitol-look-a-little-bit-more-like-america/",
+      "publishedAt": "2026-11-22T20:27:35.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Jeffries diz que vai tomar medidas para proibir os legisladores de negociar ações \"muito cedo\" no próximo Congresso",
+      "titleOriginal": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
+      "link": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
+      "publishedAt": "2026-11-22T20:20:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump culpa as vitórias dos democratas nas eleições de meio de mandato pela queda de US$ 6 trilhões no mercado de ações",
+      "titleOriginal": "Trump blames $6T stock market slide on Democrats' midterm wins",
+      "link": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
+      "publishedAt": "2026-11-22T19:46:02.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Foxx concede a vitória a Hubbard na disputa pela Câmara da Carolina do Norte",
+      "titleOriginal": "Foxx concedes to Hubbard in North Carolina House race",
+      "link": "https://thehill.com/homenews/6236031-foxx-concedes-nc-5th/",
+      "publishedAt": "2026-11-22T18:56:48.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Flanagan diz que \"admira\" Schumer, mas Van Hollen lidera \"como um organizador\"",
+      "titleOriginal": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
+      "link": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
+      "publishedAt": "2026-11-22T18:21:02.000Z"
     },
     {
       "source": "New York Times",
-      "title": "Annie Andrews é autêntica demais para o Senado? Os habitantes da Carolina do Sul estão prestes a descobrir.",
-      "titleOriginal": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-      "publishedAt": "2026-11-22T16:56:08.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá e China se aproximam com pacto comercial ampliado",
-      "titleOriginal": "Canada and China Draw Closer with Expanded Trade Pact",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-      "publishedAt": "2026-11-22T16:48:59.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "Exclusivo: O argumento do Pentágono para que o Canadá \"leve a sério\" a defesa",
-      "titleOriginal": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFFwRnFSYzA5SjZLSmVqR1NjVUUzalNjdjJQZFRWWU5EUlBCM21SbzdFX0NHV241RldSZU1KXzVObkd3djVKdHZrbm1xQ0I0RkF4ZHJtR1F5Mm11dDkyazMyQkgyYlFVRkpoQXNCZGJMRHZGT05uWDVoSlVmeFRjcFJZS2lKN00?oc=5",
-      "publishedAt": "2026-11-22T16:43:47.000Z"
+      "title": "Como Melania Trump encontrou uma abertura diplomática na guerra na Ucrânia",
+      "titleOriginal": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+      "publishedAt": "2026-11-22T18:12:18.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O custo da lealdade: o legado de Kamala Harris em Gaza a assombrará em 2028",
-      "titleOriginal": "The cost of loyalty: Kamala Harris’s legacy on Gaza will haunt her in 2028",
-      "link": "https://thehill.com/opinion/6231623-harris-political-malpractice-gaza/",
-      "publishedAt": "2026-11-22T16:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Clayton diz que confia \"plenamente\" em Trump depois de este ter chamado Putin de amigo",
-      "titleOriginal": "Clayton says he trusts Trump 'completely' after calling Putin a friend",
-      "link": "https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/",
-      "publishedAt": "2026-11-22T15:48:15.000Z"
+      "title": "Os democratas estão demitindo muitas das pessoas que acabaram de tornar sua vitória possível.",
+      "titleOriginal": "Democrats are laying off many of the people who just made their victory possible",
+      "link": "https://thehill.com/opinion/campaign/6232453-dnc-lays-off-digital-staff/",
+      "publishedAt": "2026-11-22T18:00:00.000Z"
     }
   ]
 }
