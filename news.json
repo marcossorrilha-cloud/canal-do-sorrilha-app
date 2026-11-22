@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-11-22T02:39:12.736Z",
+  "updatedAt": "2026-11-22T06:50:00.721Z",
   "count": 10,
   "items": [
     {
       "source": "Wall Street Journal",
-      "title": "Exclusivo | A associada Alice Huang, acusada de desviar chips da Nvidia para a China",
+      "title": "A Ucrânia está correndo para evitar que sua próspera indústria de defesa entre em estagnação",
+      "titleOriginal": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+      "publishedAt": "2026-11-22T05:27:43.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Como Kim Jong-un consegue construir armas nucleares e ignorar Trump",
+      "titleOriginal": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
+      "publishedAt": "2026-11-22T02:01:08.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | A associada Alice Huang acusada de desviar chips da Nvidia para a China",
       "titleOriginal": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
-      "publishedAt": "2026-11-22T02:01:11.000Z"
+      "publishedAt": "2026-11-22T02:00:00.000Z"
     },
     {
       "source": "The Hill",
@@ -17,11 +31,11 @@
       "publishedAt": "2026-11-22T01:57:37.000Z"
     },
     {
-      "source": "Axios",
-      "title": "Hackeamento recente do FBI coloca registros pessoais em risco",
-      "titleOriginal": "Latest hack of FBI puts personal records at risk",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90d3daMHJ2WG9UMlB0eDlrSlFBMVYwdDd2R09PdzBwUG5EcGZTUzNsVVZzR2U2elhGcnhSOXRIMVRKUHhQdkxEWHE1Z3d5dExCSnF0OFFxX3ZSVkdGaFk3cmgyeG1XbnI4X1hDcUxxcVY?oc=5",
-      "publishedAt": "2026-11-22T01:45:42.000Z"
+      "source": "Wall Street Journal",
+      "title": "Opinião | A longa guerra da Rússia contra a Ucrânia",
+      "titleOriginal": "Opinion | Ukraine’s Long Russian War",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
+      "publishedAt": "2026-11-22T01:44:15.000Z"
     },
     {
       "source": "New York Times",
@@ -32,45 +46,31 @@
     },
     {
       "source": "Wall Street Journal",
-      "title": "Opinião | O sucesso da China se baseia em mentiras",
-      "titleOriginal": "Opinion | China’s Success Is Built on Lies",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUpfZThrbTJtY0p4bFdZa05QcThIODdoU2Z0Vkw1YmdJZ0lTRmE0djNqeC1QdFRaR25HR0dOMkx0cFVIb0twcjZCbWYyYjR5V0hzd0xSWUlNZF8tNnIyZF9JSGx4WE1vOWRVQWxzcUVzaEVUMTRkTGl5b3VidFlqa3lUUk9vQVZNWVVScQ?oc=5",
-      "publishedAt": "2026-11-22T01:12:36.000Z"
+      "title": "Opinião | É um milagre de permissão no Senado",
+      "titleOriginal": "Opinion | It’s a Permitting Miracle in the Senate",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHhGRGxWZnRpVHNOZlpoSkZrM2N4S1dnYXJXUE92cHlGejcyY25wQm9RZHhLVjNiQ1V3X0JRQ21xTGktUVMyeWgxSjFZR19vNzRONnZydy1abmdOOGhrd1J6VVlSSDBJQjByMUhHT1hqc0EtRlkzaThyMV95WnpiaQ?oc=5",
+      "publishedAt": "2026-11-22T01:25:38.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Agentes de imigração fazem prisões no aeroporto de Seattle em cena \"angustiante\", atrasando o voo",
+      "titleOriginal": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0VtbzJLdTFnT0owUXZrN0pDdmowMWxnS09WNkowUi1JWktwVXplU3FtOWtFeTRKMUVOcm8tcHlrcm5LaVFDVDlPLVllem1jdWFnRE02bXpmRFdId0htWXVwdDZ3SUpvQ001YVF2N2hzWDBZYUE2dFZWSUIzVTF0a3RIVjVWdGNzYkdPUmdYUk9QdE9IMnp6aHpTZUVIS2s?oc=5",
+      "publishedAt": "2026-11-22T01:25:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O ataque hacker mais recente ao FBI coloca registros pessoais em risco",
+      "titleOriginal": "Latest hack of FBI puts personal records at risk",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90d3daMHJ2WG9UMlB0eDlrSlFBMVYwdDd2R09PdzBwUG5EcGZTUzNsVVZzR2U2elhGcnhSOXRIMVRKUHhQdkxEWHE1Z3d5dExCSnF0OFFxX3ZSVkdGaFk3cmgyeG1XbnI4X1hDcUxxcVY?oc=5",
+      "publishedAt": "2026-11-22T00:08:49.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Chefe da espionagem israelense pressionou por novos ataques ao Irã durante visita aos EUA",
-      "titleOriginal": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5",
-      "publishedAt": "2026-11-22T01:11:03.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Rounds: O Pentágono restringiu a socialização entre autoridades de defesa dos EUA e do Canadá",
-      "titleOriginal": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
-      "link": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
-      "publishedAt": "2026-11-21T23:52:23.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Trump ordena que os contratados federais consultem a Casa Branca antes de responder ao Congresso",
-      "titleOriginal": "Trump orders federal contractors to check with White House before responding to Congress",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5",
-      "publishedAt": "2026-11-21T23:41:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "São Francisco se prepara para marés gigantescas. O prefeito pede aos moradores que reconsiderem suas viagens",
-      "titleOriginal": "San Francisco braces for massive tides. Mayor urges residents to reconsider travel",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTczNHdJNmo2V09VMDFuX2U1Sk9WYkFQSGNyaXBUNlFZdDVoT0hSSE51V3ZLR2dCX3ZMN0liTXZRcERnaXN2OFBpUUluRnhidHdRU05zYlJMVTFyWGQ1RmdMRzNEUDJ0WHJmWmp0VkpBb2VQWERMd3hwdzBIV3JnS1ZjMVdhUloyRDNVSHRnZEtqRlRpdmRnbm9jSDJ6WEp0dEZTRVZB?oc=5",
-      "publishedAt": "2026-11-21T23:27:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Prévia dos programas de domingo: a agenda de segurança de Trump e as eleições para a liderança da Câmara dos Deputados são os temas centrais",
-      "titleOriginal": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
-      "publishedAt": "2026-11-21T23:06:51.000Z"
+      "title": "Howard Lutnick é o último sobrevivente do governo Trump",
+      "titleOriginal": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
+      "publishedAt": "2026-11-22T00:00:00.000Z"
     }
   ]
 }
