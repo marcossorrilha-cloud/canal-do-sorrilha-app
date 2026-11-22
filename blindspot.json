@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-22T06:50:56.255Z",
-  "slot": "2026-11-22-AM",
+  "updatedAt": "2026-11-22T15:18:22.656Z",
+  "slot": "2026-11-22-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "Agentes de imigração fazem prisões no aeroporto de Seattle em cena \"angustiante\", atrasando voo",
-      "titleOriginal": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmN2WGowYmtXVnBSRWtCYW5ROTRlOW91ZXBLd043aEVDU1lHMkEzSDJ0d01rN0Y0UDI1ZFE4RnFUWGVxbXdVM3UxMWdTUDVwSC1SS0JTbVZYck1fRzA2bzBKc0wtMWxtRExtTGxBUkxiSWM0NlhFdmNlcVVPU1Y5OU5KWWg?oc=5",
-      "source": "CNN",
-      "coverage": 2
+      "title": "Vance se recusa a dizer que a guerra com o Irã valeu a pena, mas afirma que apoia Trump",
+      "titleOriginal": "Vance declines to say Iran war was worth it, but says he supports Trump",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpxWmRybDNVbVRiRkJoekFKYTcxaGxjOXhiUmxXYkh5c09kT1E5eFZPRjVyZy1lTzQ?oc=5",
+      "source": "Washington Post",
+      "coverage": 3
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "Trump quer tributar empresas que constroem data centers no exterior",
-      "titleOriginal": "Trump to Tax Companies That Build Data Centers Overseas",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1pWR2hGS09QSm1oYmlsVXhWN0l5ZVlYYXVQUHVUQnN6WlotcWd3V0lWeXBjSG1GSWFEcXFmZFR0ZmxueUgxOVJmcnlldjlMZDVaQWpxU2s3N19pc1dtOVVZaGNWcWFHdG1DSTB0QjdhZXZVYUFHS1RpY00wZHJrR3YtTVFhSEswcjlDV2RuWEJqLWtxaTVqUW1R?oc=5",
+      "title": "A guerra econômica de Trump atinge o Irã com força — o presidente iraniano admite que ela é \"muito mais difícil\" do que ataques com mísseis",
+      "titleOriginal": "Trump's Economic Warfare Hits Iran Hard -- Iranian President Admits It's ‘Far More Difficult’ Than Missile Strikes",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUl96VHpCUWstY0hTN3V6blZ3czFLNlBzTExFWEFkUl9Ed1pZYTlsdEQwMVNXdlV5UC1mODBPRmJoMm1ZbW1TRnc1U3JfS1VBZEh6Slp2clM2bTJoVTVQVWQ4U01ZOGRGem9tZkR6Yjl4eFc1cHZibk53NXlVYkJkbHE5REhWd2N1VHlyXy1YRXJ4WmNBZnpGNFBiM1EtZ2hyWmY2NGVfT1N3bkoyQWkxTkhKUHphZlJuR2k4UEg2NkVkT285Q3dzSFlleF93anlmcTk4SERjUDhaQk5oM3pYSW1hRENQeTc0MEE?oc=5",
       "source": "Breitbart",
-      "coverage": 3
+      "coverage": 4
     }
   ]
 }
