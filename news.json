@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-22T23:50:33.573Z",
+  "updatedAt": "2026-11-23T02:45:50.023Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "TPG e Corpay vão comprar a plataforma financeira Bill por cerca de US$ 6 bilhões",
-      "titleOriginal": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXJCQzRCQ1FLaXI2THdlRktBd2owbk9uZFNEc3RRWXdzQURnbTNqTjZfd2l5bExBT1FsWURWS2pSYS11ZS1EUm5hNXhnSkFEeEh2cHFBSTZPWnNSTzJDX1Z3aE5LTVFtUzFjZ2Q2QV9PanE1VVQtcjlxbHVQQjdQNzczRENYUlRGaVVvTXpELXp2TWhaVXVSajVSamtCZGJsUnA0TjVB?oc=5",
-      "publishedAt": "2026-11-22T23:21:54.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | A gigante de armazéns GXO muda o foco para data centers e defesa para aumentar as margens",
-      "titleOriginal": "Exclusive | Warehouse Giant GXO Pivots to Data Centers and Defense to Boost Margins",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRBdmZGcGhWUmR3MFhja3Mwc25lazI1bDlSUnFXc1ZxaE5LWEI5bmg5c0x6eFZJWEQzM0g0TGFfelVaWFktalFsejVIdGhtdS1sY3JFSjROY05iN2VIQ0dtaTBFLW1XanB6UFhKcW1WNUlKVy1Fc3VRV21SQWNDVEt6U3hlX3hIa3pfa3JiQ1JGajljTGFWVGJEamxjTzNYRHF3WWFxbHlmMG43TnJtbUhaSEhFTDdf?oc=5",
-      "publishedAt": "2026-11-22T23:13:39.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Chefe de Defesa Europeu repreende funcionário do Pentágono por críticas à Ucrânia",
-      "titleOriginal": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNzdmd2QWUxaUJvZm1kaU1EVWNUdmtDWUp6SHljdmZwZDUxM2ZYX1hmY0xQWXhvcFZlZDRqODJJWUI3aE53cDJBTG1ldDNoNHVaaHNnOVlEUW5fYU1SZU5qMlJFMEZTR0ZDcTEyN3l2WWRfUmZZSktIV1FZaVU4NDJTeUpoS3NZdkdJc01TNkV5YkZKTXE2d2xDTjZmLURXX0xESjFYVE42S3R2SlJfdC1GTGI?oc=5",
-      "publishedAt": "2026-11-22T23:04:32.000Z"
+      "source": "New York Times",
+      "title": "Os EUA monitoraram os contatos de Alice Huang com a agência de espionagem da China durante o caso da Nvidia",
+      "titleOriginal": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "publishedAt": "2026-11-23T02:17:16.000Z"
     },
     {
       "source": "Axios",
-      "title": "Exclusivo: Projeto de livro secreto de DeSantis alimenta especulações sobre 2028",
-      "titleOriginal": "Scoop: DeSantis' secret book project fuels 2028 speculation",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTV6N09EbG5TaGdwUDcyZ3ZFSmE2dkkxZ0Y3Nm5VREd4VF9ybjl1LWJ5Mjg4aWxoV2JlQi1HblB1MTVQTHI3SUZvZDlaRGNUbWVNQmxEY1NRQVBCN3ZHTGt4WTJael9YZTdDMEV4b3Rva3BiWFpUaF93dktqQzZhd0c4TmFJVWVfd1FFVnYwWGc2ekJk?oc=5",
-      "publishedAt": "2026-11-22T22:40:30.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O cara do MAGA de Trump no TikTok flerta com uma campanha",
-      "titleOriginal": "Trump's MAGA TikTok guy flirts with a campaign",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YV9YMUIzRnRzemFmQnM2NFN4RzQ1UV9tNklTSXNvRmptVmJpVEMzeVFtOTJPN3NBbUozdURFdHZZbHF1U1BKS2tHYlZQOGZLX2xUUkhCU01BSUQxRzFxaWg4WHp0c1Z6WEE?oc=5",
-      "publishedAt": "2026-11-22T22:35:47.000Z"
+      "title": "O Legislativo da Carolina do Norte será dividido entre democratas e republicanos",
+      "titleOriginal": "North Carolina's legislature will be split between Democrats and Republicans",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3VCY0NMTUR0TUlvYjcxb3FId0ZqdkI5OWNOeWRNbnRpLWVTSE16MDAxRTc2ay0tNGVMbmhSMWRXVjlNYTBzMmdIQTVOdXNiOFNUSmJqRTBuY3YxaDVjekNYcmVrMHFERk9Fbm5HcHJRMVRLS3RZQWtOX09NakVuM0lNMkFVZjRmWUpmSXhwUzVoMlJEWUlmMWFrSXdobG1jeUpkY0cwUnN0ZzBaTWFpMDVKcw?oc=5",
+      "publishedAt": "2026-11-23T02:14:45.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Esta semana no Congresso: os legisladores entram em recesso para o Dia de Ação de Graças enquanto a agenda de fim de ano se aproxima",
-      "titleOriginal": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
-      "link": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/",
-      "publishedAt": "2026-11-22T22:00:00.000Z"
+      "title": "Van Hollen diz que os democratas têm uma \"oportunidade geracional\" no Senado, mas o partido está \"em período de experiência\"",
+      "titleOriginal": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
+      "link": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/",
+      "publishedAt": "2026-11-23T02:09:55.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Bill Zerella, conhecido por abrir o capital de startups, fala sobre por que ele se juntou à Stord como CFO",
-      "titleOriginal": "Bill Zerella, Known for Taking Startups Public, on Why He Joined Stord as CFO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUlQTnZqLVQ4T3BGdXpDZm1hTDNVNGVZSlAzYzhURVJhUzBzT3ZwaW1vc0l6cTlPYnZCbWI5RElPTGNvOHZiXzlpNFY3SS1VNUwyLWFMNGREMlpzd2NzLWsxV2E0S0RhWW03RGluekZrQU9lU2xYTkxyZ0hqcE1pUEt2NGtFTV9oN0xwWVlQQXNUcDVyZW00TXZBTXVkODhrY1F5NnpoNmJuXy1jZGFjQVZTNmVCa0k?oc=5",
-      "publishedAt": "2026-11-22T21:52:05.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Bryce Young faz 2 passes para TD, Chuba Hubbard marca duas vezes e os Panthers vencem os Ravens por 35 x 33",
-      "titleOriginal": "Bryce Young throws 2 TD passes, Chuba Hubbard scores twice as Panthers beat Ravens 35-33",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjlrVVpfS1dya1ZYdVJ1RHcwUkF3b3JTTGRtM19ORHNESGpaNkt3cW1mV3V0bEhWTXFjVVBVeWdEa2FqYlVlVFlGaHlhQjY2ZVJvc0JqMWZCYzQ4bGRFaDk1RjN6NWxBNzV1ZXpKcDVwSVFWdUpMd19DcFpuZDF5WTNHX3NSV1hu?oc=5",
-      "publishedAt": "2026-11-22T21:46:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "El-Sayed aprovaria o Medicare para Todos como \"TrumpCare\": \"Eu realmente não me importo com o nome dele\"",
-      "titleOriginal": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called'",
-      "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
-      "publishedAt": "2026-11-22T21:24:40.000Z"
+      "title": "Canadá e China se aproximam com pacto comercial ampliado",
+      "titleOriginal": "Canada and China Draw Closer with Expanded Trade Pact",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+      "publishedAt": "2026-11-23T01:49:01.000Z"
     },
     {
       "source": "Axios",
-      "title": "Democratas voltam suas atenções para as caras compras de prisões feitas pelo ICE",
-      "titleOriginal": "Dems set sights on ICE's costly prison purchases",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ueWYxaHZHcUU2WGNNWk1PbXFwZFZWNTFlQnQ5TUdhYmJNeXZBeVlJWWpwcHdFc2p0V045T2hrNXpXUmdhWG42MVprZmJTTnZZdkpIMm0wWXd5XzR0YkpZc1hPLU9Ha0RGS29JTEtCSzh3NG8?oc=5",
-      "publishedAt": "2026-11-22T21:11:58.000Z"
+      "title": "Quem venceu as eleições para o Congresso na Carolina do Norte",
+      "titleOriginal": "Who won North Carolina's congressional races",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JfSEFmZ19TVlBxYlF0bUx5VUgwZG5UVkhfVDVvT0t3R191NkZfQzNPaTZIUWNhdGFEX1hTLVc1Qmp1SDZ4Q2JQNktYbmhfTXQwVUQyandvVGxBZVBFRkJ5dUxWWFM0angxNGtyOUdPUXd1VXFQUkgxallfdXItUmU3c2t6V244SUE1OUtGdXVabmd1V0xETEc5alpleHJPODd3?oc=5",
+      "publishedAt": "2026-11-23T01:36:45.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A Amazon pede aos clientes de Nova York que se oponham ao projeto de lei de entregas apoiado por Mamdani",
+      "titleOriginal": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
+      "publishedAt": "2026-11-23T00:49:46.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "O principal oficial de inteligência de Trump também está assumindo a responsabilidade pela política cibernética",
+      "titleOriginal": "Trump's top intelligence official is also taking charge of cyber policy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0RRd3NmeHVWMUg2Rjd5UVlYcE1rbEREUVlzcWRqQ01JZFNibGRkUkdacm5Ea1lPNDhzUXZWRUdSWkxIZzU2QjVQV2tab3VkSTNIV2YzLXVwYV9oQWFDN25DYV9aTEI0YmpfV3VYRFVXZVNWOVFGNXVwb1JoRDRCNQ?oc=5",
+      "publishedAt": "2026-11-23T00:35:30.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "Por que o democrata Abdul El-Sayed está falando sobre o \"TrumpCare\"",
+      "titleOriginal": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+      "publishedAt": "2026-11-23T00:27:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | A Geração Z está em alta com o \"WhimZ\" após as eleições de meio de mandato",
+      "titleOriginal": "Opinion | Gen Z Is Riding High on ‘WhimZ’ After the Midterms",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXJFWmpicDQyRzVQd0dlbU94QzluT3VMTkNETXZuWHRRTkd4R25vM3hGdloxd0pCTUEwbWR5VTFWSEptMHh6THZ0SkdpYjV3d09nZ0Z2bzRQbWlxMzNtb2hQRXpPX1JpTTEtMW1pRjVGNF81NkVmM0s5LVhMREN5ZUpYN0VqNlBNRVR1MmZlTXdra0pfOVdZZEowdGJPUDJscHBB?oc=5",
+      "publishedAt": "2026-11-23T00:23:39.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Abdul El-Sayed já está causando impacto no Senado",
+      "titleOriginal": "Exclusive | Abdul El-Sayed Is Already Shaking Up the Senate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXJpTGQ2T2N2VWc5THZqZTJVaFB6V1BGT0xSMXpKVmFhU1BsS3ZtVlZYOVBXSHRXWFViSFVNczlqaEtmUjRKQ2dZZVBNRVlRekhVT0hteVRSSGcyaUl0MWpZRHBHQnQ0U3owR0U0VlFzbnk2VTlyc3h3c0wtcS0zRXRqLVl1QmN3NVZFM0VR?oc=5",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
     }
   ]
 }
