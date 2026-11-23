@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-23T02:45:50.023Z",
+  "updatedAt": "2026-11-23T08:14:16.813Z",
   "count": 10,
   "items": [
     {
-      "source": "New York Times",
-      "title": "Os EUA monitoraram os contatos de Alice Huang com a agência de espionagem da China durante o caso da Nvidia",
-      "titleOriginal": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
-      "publishedAt": "2026-11-23T02:17:16.000Z"
+      "source": "Wall Street Journal",
+      "title": "Os preços do petróleo recuam à medida que o mercado digere as expectativas de superávit global",
+      "titleOriginal": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5",
+      "publishedAt": "2026-11-23T07:17:10.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Os preços do diesel nos EUA continuarão caindo, aliviando os consumidores, diz o secretário de Energia dos EUA",
+      "titleOriginal": "Exclusive | U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSm9TdEFSdXNqVlB3bDlkMlpVVnpFQ0NaemFrRmNuZHR4X21HTVhIdHhNS3NQekFDN3pMVFFoQTJTTEVIVU5wR25xNHFDRVRsTXVxaVE2b2Y1VFhhd1JuY0hHcDlQZ1lpNDhJWnU3V3hyV1ZaYjZoM0ZabGZhSlhndlp3VEdwWm1mWEhqRUFWdnRyUTJoWDBBNEdqZ3NSMWluOG5QbzFnTjlyemF5cmlPZjRCOVU1MDVfMVJxRllfSnZJUnV5cnA5cXJQSlcydklidVE?oc=5",
+      "publishedAt": "2026-11-23T06:54:16.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Resultados das eleições para a Câmara dos Representantes dos EUA de 2026",
+      "titleOriginal": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "publishedAt": "2026-11-23T06:31:25.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Exclusivo | Databricks em negociações iniciais para captar recursos com uma avaliação de US$ 225 bilhões",
+      "titleOriginal": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlI3WDRaRWc2bGliV0g4WXhMSEx5UVdSQmNiVDJFUkt6UjZIQkVQckduc0pLRkEwWmtRY21XRUZFY3NETDRZM2NiQ05KV2FLeVBRdFhaY0dLdENCdXN2RzRIU2Jvd2dJZUJTQmlFR1JLNHljWUxoNzR1OE1aVkp6QmF1Y1Rzbk5vVm1aSVdMblFiS2NrYkFjNExBeU1GWk1KS1p3WQ?oc=5",
+      "publishedAt": "2026-11-23T06:22:17.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Processo de Trump contra o New York Times avança",
+      "titleOriginal": "Opinion | Trump Case Against the New York Times Advances",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWVMZkNvXzUtOHFtZ09fVUtHZ01SeTUzcWpCSHZHVkM0MFZVcXBKeUNEY1VfdkJBTnliS1ZBcXcxaGFzS2dCUkNjRjNlamxRcW9KR1lVdnE3aE9QakZaa0tKTEE4ZWJDc2kyWVptamZXMlpoZmdUbm1DRm9JYVJvQXhESjJ3b19hamln?oc=5",
+      "publishedAt": "2026-11-23T05:48:25.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Comprar o carro do Batman pode exigir um orçamento de Bruce Wayne, já que o Batmóvel de 1992 vai a leilão",
+      "titleOriginal": "Buying Batman’s ride may take a Bruce Wayne budget as 1992 Batmobile heads to auction",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXFOUGFSQVpGYzR2YjdsUTFucFBMb2hhSXZWT093Y0k1Si1Ob1dvakt3RzRodS1SNnoyQmRlZk44czZBVWVWTEJqT1l2LVJwc2hka2JJNlJYcWdBWEpZR0hqT3VlZ0ZQQnRJaGFzeWpDWmVWaVN3RUNLbVJBTDE2LUVOZl9xS2xSMXhiWjNLZm90RGdrazFnUmpZd3VnUjJ1TC1JUHFJQW4?oc=5",
+      "publishedAt": "2026-11-23T05:21:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Wall Street prometeu US$ 500 bilhões para a Nvidia. Nem um dólar foi investido.",
+      "titleOriginal": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3B6VkpjZGJoaUJSX2xTUlNWekU1cVJBNzRHdWZZTl9Oa3NRazQ3WnprNTJ5TmduWDdMMjFRTnBhS1c3M1hKSUJuRWJTNnFKVjA4c054S0hHUnZINzkxU2FzV3RjLVhQY3NjaXA0dUhIQ2phSWRycmdULTJaTElNZXc0UU1pRmdOUk83YWIzN3hCdGlHbDc4a3VncElSWXVFNW8ySEU2elluRkxm?oc=5",
+      "publishedAt": "2026-11-23T05:09:31.000Z"
     },
     {
       "source": "Axios",
-      "title": "O Legislativo da Carolina do Norte será dividido entre democratas e republicanos",
-      "titleOriginal": "North Carolina's legislature will be split between Democrats and Republicans",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3VCY0NMTUR0TUlvYjcxb3FId0ZqdkI5OWNOeWRNbnRpLWVTSE16MDAxRTc2ay0tNGVMbmhSMWRXVjlNYTBzMmdIQTVOdXNiOFNUSmJqRTBuY3YxaDVjekNYcmVrMHFERk9Fbm5HcHJRMVRLS3RZQWtOX09NakVuM0lNMkFVZjRmWUpmSXhwUzVoMlJEWUlmMWFrSXdobG1jeUpkY0cwUnN0ZzBaTWFpMDVKcw?oc=5",
-      "publishedAt": "2026-11-23T02:14:45.000Z"
+      "title": "O cara do MAGA de Trump no TikTok flerta com uma campanha",
+      "titleOriginal": "Trump's MAGA TikTok guy flirts with a campaign",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YV9YMUIzRnRzemFmQnM2NFN4RzQ1UV9tNklTSXNvRmptVmJpVEMzeVFtOTJPN3NBbUozdURFdHZZbHF1U1BKS2tHYlZQOGZLX2xUUkhCU01BSUQxRzFxaWg4WHp0c1Z6WEE?oc=5",
+      "publishedAt": "2026-11-23T04:16:13.000Z"
     },
     {
       "source": "The Hill",
-      "title": "Van Hollen diz que os democratas têm uma \"oportunidade geracional\" no Senado, mas o partido está \"em período de experiência\"",
-      "titleOriginal": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
-      "link": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/",
-      "publishedAt": "2026-11-23T02:09:55.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Canadá e China se aproximam com pacto comercial ampliado",
-      "titleOriginal": "Canada and China Draw Closer with Expanded Trade Pact",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-      "publishedAt": "2026-11-23T01:49:01.000Z"
+      "title": "John Kennedy sobre uma possível candidatura à presidência em 2028: \"Se eu realmente me cansar, posso me candidatar\"",
+      "titleOriginal": "John Kennedy on potential 2028 presidential run: 'If I get really fed up, I could run'",
+      "link": "https://thehill.com/homenews/campaign/6236538-john-kennedy-on-potential-2028-presidential-run-if-i-get-really-fed-up-i-could-run/",
+      "publishedAt": "2026-11-23T03:59:48.000Z"
     },
     {
       "source": "Axios",
-      "title": "Quem venceu as eleições para o Congresso na Carolina do Norte",
-      "titleOriginal": "Who won North Carolina's congressional races",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JfSEFmZ19TVlBxYlF0bUx5VUgwZG5UVkhfVDVvT0t3R191NkZfQzNPaTZIUWNhdGFEX1hTLVc1Qmp1SDZ4Q2JQNktYbmhfTXQwVUQyandvVGxBZVBFRkJ5dUxWWFM0angxNGtyOUdPUXd1VXFQUkgxallfdXItUmU3c2t6V244SUE1OUtGdXVabmd1V0xETEc5alpleHJPODd3?oc=5",
-      "publishedAt": "2026-11-23T01:36:45.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A Amazon pede aos clientes de Nova York que se oponham ao projeto de lei de entregas apoiado por Mamdani",
-      "titleOriginal": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
-      "publishedAt": "2026-11-23T00:49:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O principal oficial de inteligência de Trump também está assumindo a responsabilidade pela política cibernética",
-      "titleOriginal": "Trump's top intelligence official is also taking charge of cyber policy",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0RRd3NmeHVWMUg2Rjd5UVlYcE1rbEREUVlzcWRqQ01JZFNibGRkUkdacm5Ea1lPNDhzUXZWRUdSWkxIZzU2QjVQV2tab3VkSTNIV2YzLXVwYV9oQWFDN25DYV9aTEI0YmpfV3VYRFVXZVNWOVFGNXVwb1JoRDRCNQ?oc=5",
-      "publishedAt": "2026-11-23T00:35:30.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por que o democrata Abdul El-Sayed está falando sobre o \"TrumpCare\"",
-      "titleOriginal": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
-      "publishedAt": "2026-11-23T00:27:25.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | A Geração Z está em alta com o \"WhimZ\" após as eleições de meio de mandato",
-      "titleOriginal": "Opinion | Gen Z Is Riding High on ‘WhimZ’ After the Midterms",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXJFWmpicDQyRzVQd0dlbU94QzluT3VMTkNETXZuWHRRTkd4R25vM3hGdloxd0pCTUEwbWR5VTFWSEptMHh6THZ0SkdpYjV3d09nZ0Z2bzRQbWlxMzNtb2hQRXpPX1JpTTEtMW1pRjVGNF81NkVmM0s5LVhMREN5ZUpYN0VqNlBNRVR1MmZlTXdra0pfOVdZZEowdGJPUDJscHBB?oc=5",
-      "publishedAt": "2026-11-23T00:23:39.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Exclusivo | Abdul El-Sayed já está causando impacto no Senado",
-      "titleOriginal": "Exclusive | Abdul El-Sayed Is Already Shaking Up the Senate",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXJpTGQ2T2N2VWc5THZqZTJVaFB6V1BGT0xSMXpKVmFhU1BsS3ZtVlZYOVBXSHRXWFViSFVNczlqaEtmUjRKQ2dZZVBNRVlRekhVT0hteVRSSGcyaUl0MWpZRHBHQnQ0U3owR0U0VlFzbnk2VTlyc3h3c0wtcS0zRXRqLVl1QmN3NVZFM0VR?oc=5",
-      "publishedAt": "2026-11-23T00:00:00.000Z"
+      "title": "Exclusivo: O argumento do Pentágono para que o Canadá \"leve a sério\" a defesa",
+      "titleOriginal": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFFwRnFSYzA5SjZLSmVqR1NjVUUzalNjdjJQZFRWWU5EUlBCM21SbzdFX0NHV241RldSZU1KXzVObkd3djVKdHZrbm1xQ0I0RkF4ZHJtR1F5Mm11dDkyazMyQkgyYlFVRkpoQXNCZGJMRHZGT05uWDVoSlVmeFRjcFJZS2lKN00?oc=5",
+      "publishedAt": "2026-11-23T03:57:16.000Z"
     }
   ]
 }
