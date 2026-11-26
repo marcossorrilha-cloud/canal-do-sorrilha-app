@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-26T13:09:41.071Z",
+  "updatedAt": "2026-11-26T19:00:37.351Z",
   "count": 10,
   "items": [
     {
-      "source": "Wall Street Journal",
-      "title": "Howard Lutnick é o último sobrevivente do governo Trump",
-      "titleOriginal": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
-      "publishedAt": "2026-11-26T13:07:52.000Z"
+      "source": "New York Times",
+      "title": "Strobe Talbott, jornalista que integrou o Departamento de Estado de Clinton, faleceu",
+      "titleOriginal": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
+      "link": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
+      "publishedAt": "2026-11-26T18:10:07.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O Quad segue existindo, mas corre o risco de se tornar estrategicamente irrelevante",
-      "titleOriginal": "The quad lives on but risks strategic irrelevance",
-      "link": "https://thehill.com/opinion/international/6243234-the-quad-lives-on-but-risks-strategic-irrelevance/",
-      "publishedAt": "2026-11-26T13:00:00.000Z"
+      "title": "Pare de perseguir bilionários — em vez disso, conserte o sistema de impostos corporativos falho",
+      "titleOriginal": "Stop chasing billionaires — fix the broken corporate tax system instead",
+      "link": "https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/",
+      "publishedAt": "2026-11-26T18:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Nate Silver: Trump poderia \"absolutamente\" ser destituído do cargo após a turbulência das eleições de meio de mandato",
+      "titleOriginal": "Nate Silver: Trump could ‘absolutely’ be removed from office after midterm turmoil",
+      "link": "https://thehill.com/homenews/administration/6244759-nate-silver-donald-trump-impeachment-post-midterms/",
+      "publishedAt": "2026-11-26T17:42:47.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "5 questões que o presidente Trump enfrenta neste Dia de Ação de Graças",
+      "titleOriginal": "5 questions facing President Trump this Thanksgiving",
+      "link": "https://thehill.com/homenews/analysis/6242015-iran-war-impact-election/",
+      "publishedAt": "2026-11-26T17:00:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Ataque de drone iraniano mata dois italianos no Kuwait",
+      "titleOriginal": "Iranian Drone Attack Kills Two Italians in Kuwait",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0JXYTAzOTNnajlLczdFM0FKUXdjbHlSLUFPRlhHQWpXaV9JRnQzNGRETWR6c1pWM3hQZnptczZaQVZqeExWa1JqdFRDWlJDcUItNEVra09WVEFfSDlSUm1nT3B3SUVZRGZHMTdieHlaSDhBWDdvMUhTVjJ0eTZmbFlfWHM2MUYyYnpHNWtFcTg3Q2JndEw4LTl3MHg?oc=5",
+      "publishedAt": "2026-11-26T16:55:00.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Opinião | Por que devemos derrotar a China",
+      "titleOriginal": "Opinion | Why We Must Defeat China",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SbG44UFRQbEF5WlRIM2l3U0duSDRNZU1oSkpWTkVLc0JhMVJXWXJ2QWpNZk82VzU1VTNSZmlyOXQ4RGFlQ2dSZ3IzR3hDNWk2TTN6MU1uN01Yd0R4Tk1HZVdHWWxuM1RWcm01R0JR?oc=5",
+      "publishedAt": "2026-11-26T16:47:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump e o chefe da OTAN pedem à Rússia que não amplie a guerra na Ucrânia",
+      "titleOriginal": "Trump, NATO chief urge Russia not to expand war in Ukraine",
+      "link": "https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war/",
+      "publishedAt": "2026-11-26T16:44:26.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Mehdi Mahmoudian, ativista iraniano e roteirista indicado ao Oscar, foi preso em Teerã",
+      "titleOriginal": "Iranian activist and Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzNyQXhjYjAxWFltcXJvVW02V3lBZVlIQzdHdHYwWjFqX25EeW5WUXVROFczbXZsaERySUNOVmhXN1dDZGM4aWo1VkJOQUVMb1dZbElKdWpJTXFteEVfY0NQdGp3Vkc4TlN3cTNXQW5pRjBCTGVKRVptb29yZlczWWhhWHdNMDVsUV80emFSOUZVZTBEUnR0alI3Z3M?oc=5",
+      "publishedAt": "2026-11-26T16:39:00.000Z"
     },
     {
       "source": "Axios",
-      "title": "Os prós e contras do Medicare para todos",
-      "titleOriginal": "The pros and cons of Medicare for All",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FndlRDdjh6dDFRYUE3OXNseXpoU2RRMno4dGdGak5KSHBDY0xOOWs3MWFRX0YzSm1xeUotbU5oLVlOejVMZXl2QW9TaDRPbWF5cXhabE95b3A0STRjNkhSWTVkWUVCcmthSFBmay0?oc=5",
-      "publishedAt": "2026-11-26T12:11:15.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Como uma tradição do Dia de Ação de Graças está relacionada aos poderes presidenciais",
-      "titleOriginal": "How a Thanksgiving Tradition Connects to Presidential Powers",
-      "link": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
-      "publishedAt": "2026-11-26T12:08:22.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Xi e Putin estão gratos a Trump este ano",
-      "titleOriginal": "Xi and Putin are thankful this year for Trump",
-      "link": "https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy/",
-      "publishedAt": "2026-11-26T12:00:00.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Os 5 democratas com maior probabilidade de ganhar a nomeação presidencial em 2028",
-      "titleOriginal": "5 Democrats most likely to win the presidential nomination in 2028",
-      "link": "https://thehill.com/homenews/campaign/6243458-democratic-2028-presidential-candidates/",
-      "publishedAt": "2026-11-26T11:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "O desejo bipartidário de regulamentar a IA enfrenta obstáculos no Congresso",
-      "titleOriginal": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
-      "link": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-      "publishedAt": "2026-11-26T10:03:47.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Jornalistas da Associated Press em Gaza ganham o prestigiado prêmio Rory Peck",
-      "titleOriginal": "Associated Press journalists in Gaza win prestigious Rory Peck prize",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVRIc2szTkM1aUl4QUgzcGNDckozQVlGWjJjOW9sZGhVUUVpNF9XTHh4Ni1Ya3ZGOGFfQ0xZbndCUHdwMWVWQmlTdDBaOXdUVF93SktFUV9xeC02UW1JRS05LWxPUGFRbkt2SjVZVjhaTlBHQjljNDdzWWM5bVc2NzJzR1lIaWxFM3dkZDBadU42UFhkSUdKN3Bvd1hRX1FkdHUzeVA1TTJ5aVk?oc=5",
-      "publishedAt": "2026-11-26T10:00:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Kim, da Coreia do Norte, promete construir mais armas nucleares depois de ignorar a proposta de Trump",
-      "titleOriginal": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5",
-      "publishedAt": "2026-11-26T09:16:00.000Z"
+      "title": "Trump exige investigação sobre as revisões dos dados do PIB",
+      "titleOriginal": "Trump demands investigation into GDP data revisions",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVlCaW5mTVRqakpXMHNGRVhybk5hTFZTSFVyRGlQbUJ4dU9yQ0Znam1ua3JGdVBubXhXanNtVVNzUExzeTZwTFpqMjdVZmVVbDZCQmNZbGlucFRHaE5zRTVkRkdBQk8ybkdaNjdKN1hKSVhWdXIyNlFCcGd5X3A0MA?oc=5",
+      "publishedAt": "2026-11-26T16:29:57.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Novas tarifas sobre a China correm o risco de prejudicar a trégua comercial com os EUA",
-      "titleOriginal": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-      "publishedAt": "2026-11-26T08:42:00.000Z"
+      "title": "A diferença entre o espetáculo militar da China e a realidade do campo de batalha",
+      "titleOriginal": "The Gap Between China’s Military Spectacle and Battlefield Reality",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDN4d1ZQZ3BaZzhDMzFUN0xBa2dqbU14SFltZGdfWmR5eTFRSjRHanJoY1NETTNKWkFkVjBYNTlVLVVFcktuWllBSkdoZnJYblRuMEhVMXdvVHM3M3ZsLXV3TTVONVJjMDg4RVRVcm9kZEN2akJVQklxcXA1a1NDM1ZoeGM4ZGxKb2xZWkI1SHp4Y29zNUF5azdwNF9yNjBwZm1kQlRtT1R0QQ?oc=5",
+      "publishedAt": "2026-11-26T16:26:33.000Z"
     }
   ]
 }
