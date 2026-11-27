@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-11-26T22:35:30.443Z",
+  "updatedAt": "2026-11-27T02:10:43.303Z",
   "count": 10,
   "items": [
     {
+      "source": "The Hill",
+      "title": "Trump: A guerra com o Irã vai acabar \"mais ou menos quando eu quiser\"",
+      "titleOriginal": "Trump: Iran war will be over 'sort of whenever I want it to be'",
+      "link": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
+      "publishedAt": "2026-11-27T01:41:40.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump sinaliza maior abertura para trabalhar com os democratas na área da saúde",
+      "titleOriginal": "Trump signals further openness to working with Democrats on healthcare",
+      "link": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/",
+      "publishedAt": "2026-11-27T00:33:50.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "O desejo bipartidário de regulamentar a IA enfrenta obstáculos no Congresso",
+      "titleOriginal": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+      "link": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+      "publishedAt": "2026-11-26T23:19:08.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Como o principal policial bilionário de Nova York e o prefeito socialista estão fazendo as coisas funcionarem",
-      "titleOriginal": "How New York’s Billionaire Top Cop and Socialist Mayor Are Making It Work",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1pYcW1CWGZxM1BhdzJmT0xENXU0OFJheXlXejd3a1hvTHBKOVpMSTY3YkVLMm43SEJOc2V5bll1YXNDSFNpZWZsNHVsWGdrcm54NE01NVpvNEd3bjlJejF3WVlJU0RCS2kyLTBSQ0VEbmxDbXlpVHlOdklYYUM0YUdKZmo1dno5dmpLZEFickVBQ3J3SnlrOEV5aFRlWHRocDgwTVBGRVR0YXdqVGc?oc=5",
-      "publishedAt": "2026-11-26T22:01:44.000Z"
+      "title": "Por que este democrata quer derrotar Chuck Schumer",
+      "titleOriginal": "Why This Democrat Wants to Defeat Chuck Schumer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFZPQ3ItczJDdnFkU09XbVBzNVh2aWJZT1pSd09yUll5d1ZfSzlWbXpldS1ZeG1CcnFPbjRqXy1iZThvalMwNlN0a21MY3MydjhWSjhrOTVMb09YdGU3dTZNRk80VUJSVHFOdHQwSkliMktFWF92eGRXdXVPZ0JtS2dPdG04aXR6NFpFRE9MS0N0bkV2ZGJV?oc=5",
+      "publishedAt": "2026-11-26T22:01:35.000Z"
     },
     {
       "source": "The Hill",
@@ -15,13 +36,6 @@
       "titleOriginal": "Democrats’ plan to end funding for Iran war leaves open what comes next",
       "link": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
       "publishedAt": "2026-11-26T22:00:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Por que este democrata quer derrotar Chuck Schumer",
-      "titleOriginal": "Why This Democrat Wants to Defeat Chuck Schumer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFZPQ3ItczJDdnFkU09XbVBzNVh2aWJZT1pSd09yUll5d1ZfSzlWbXpldS1ZeG1CcnFPbjRqXy1iZThvalMwNlN0a21MY3MydjhWSjhrOTVMb09YdGU3dTZNRk80VUJSVHFOdHQwSkliMktFWF92eGRXdXVPZ0JtS2dPdG04aXR6NFpFRE9MS0N0bkV2ZGJV?oc=5",
-      "publishedAt": "2026-11-26T21:31:35.000Z"
     },
     {
       "source": "AP News",
@@ -52,25 +66,11 @@
       "publishedAt": "2026-11-26T20:32:44.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "Strobe Talbott, jornalista que integrou o Departamento de Estado de Clinton, faleceu",
-      "titleOriginal": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
-      "link": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
-      "publishedAt": "2026-11-26T19:53:46.000Z"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump ataca os críticos em um longo discurso de Dia de Ação de Graças",
-      "titleOriginal": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
-      "link": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
-      "publishedAt": "2026-11-26T19:42:46.000Z"
-    },
-    {
-      "source": "Axios",
-      "title": "O movimento MAGA se divide ainda mais após a surpresa de Trump com a Nvidia",
-      "titleOriginal": "MAGA splinters further over Trump's Nvidia shocker",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OOHA5WGpUV2J2X3N1elhtYWhEQ1pfVzNFcThQSWNITmcyYzZRRXJUUmFiNW5SMlFBNkQ4RV95NDFKaGh5YmxOVEg0dWF5Z1BXS1M2UTFaZlJvM2RsMHNCanA0Si1JdFlwblRB?oc=5",
-      "publishedAt": "2026-11-26T19:06:11.000Z"
+      "source": "AP News",
+      "title": "Os itens essenciais se juntam aos presentes nos carrinhos de compras da Black Friday, à medida que a IA e os custos mais altos influenciam os gastos",
+      "titleOriginal": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2owWWh6dEFmYm4tT1lvMDBDbkI1dS1rZEoydHEzeHA5cjgwei11aWlyNVFya21QU3V5ZG8zTjNpYld2YWNTdVZabWo2cUsxTmZnQUZGTXozSThuaUpPWDIxRXpKQ1pQN3VSQVFWcnVDekFSb3ZFT2I3UF81NS0yOVpPWGw4ZmptMXRLdGthNlhLTjhPR0QwZ0dPYw?oc=5",
+      "publishedAt": "2026-11-26T20:28:00.000Z"
     }
   ]
 }
