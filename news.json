@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-27T10:52:45.939Z",
+  "updatedAt": "2026-11-27T14:20:59.973Z",
   "count": 10,
   "items": [
     {
-      "source": "Politico",
-      "title": "Os cartunistas do país comentam a semana na política",
-      "titleOriginal": "The nation’s cartoonists on the week in politics",
-      "link": "https://www.politico.com/gallery/2026/11/27/the-nations-cartoonists-on-the-week-in-politics-01184228",
-      "publishedAt": "2026-11-27T10:00:00.000Z"
+      "source": "Wall Street Journal",
+      "title": "O proprietário dos Dodgers, Todd Boehly, fecha acordo para os ativos no exterior da russa Lukoil",
+      "titleOriginal": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGh0OFRqZkhfUm9zcTV1NkxZdW0zc2hWVENhRC16TF9XdUdlQlROUVpBZXdDeDhFYjRrVlJtcTlVcXRVeFVUMEZDUXVuOTFWLVpBVDliSVZmTlFSWDc3VjNlc19FUW1LX283Y1BWdnVoNjVzSUEwbGtmWnE4TVhCbjZUZ09tSDBEVk80M0hrTFJuTk13WklUQTBKQlNKajVlUEtTNkV6QkhOTEU2dmJGMHRBTTFNbUx3SlREaXZB?oc=5",
+      "publishedAt": "2026-11-27T13:58:30.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hackers invadem a plataforma de computação em nuvem da Força Aérea dos EUA: relatório",
+      "titleOriginal": "Hackers break into US Air Force cloud computing platform: Report",
+      "link": "https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/",
+      "publishedAt": "2026-11-27T13:54:01.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Carville e Sununu analisam as eleições de meio de mandato e o que vem a seguir para os dois partidos",
+      "titleOriginal": "Carville, Sununu unpack midterms and what’s next for both parties",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6242279-carville-sununu-midterms-lessons-live-discussion/",
+      "publishedAt": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cabe ao Congresso arrumar a bagunça do mercado de apostas do país",
+      "titleOriginal": "It's up to Congress to clean up the country's prediction-market mess",
+      "link": "https://thehill.com/opinion/finance/6240695-utah-kalshi-sports-betting-lawsuit/",
+      "publishedAt": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "Política sem limites: alimento para o cérebro intercalado com política",
+      "titleOriginal": "Whole Hog Politics: Brain food sandwiched between politics",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/6243219-thanksgiving-holiday-politics-stream/",
+      "publishedAt": "2026-11-27T13:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Opinião | O sucesso da China se baseia em mentiras",
-      "titleOriginal": "Opinion | China’s Success Is Built on Lies",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUpfZThrbTJtY0p4bFdZa05QcThIODdoU2Z0Vkw1YmdJZ0lTRmE0djNqeC1QdFRaR25HR0dOMkx0cFVIb0twcjZCbWYyYjR5V0hzd0xSWUlNZF8tNnIyZF9JSGx4WE1vOWRVQWxzcUVzaEVUMTRkTGl5b3VidFlqa3lUUk9vQVZNWVVScQ?oc=5",
-      "publishedAt": "2026-11-27T09:48:28.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O aumento dos preços do petróleo pode afetar o euro em relação ao dólar",
-      "titleOriginal": "Rising Oil Prices Could Weigh on Euro Versus Dollar",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkdlR2dYLURqVzYyRl84azV1UVJnblJWb05nOF90c2FtaEFTWk9RLVJabFlnMXI3OUpyQ3hhaTNOTmhNSnJsVTNVd1NBdlc5X1F3LXNTSG1zSmMwTmt0Zl9kdWRHQlQzNmt5MzZJTlhUa3RWTTZjdFRJYkRCcEZqbFRqZVNYbEI1R1RxY0RuZkhhdkNPcmF5NzRn?oc=5",
-      "publishedAt": "2026-11-27T09:04:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A SpaceX recebe aprovação para lançar um milhão de satélites para data centers orbitais",
-      "titleOriginal": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0hjaTV1MVlwMmJMM2ZxTVk3SVNhdTlPWUlhYlJlc2ZJcDVscW1VRTdKTUEwczNHRlpPeURRVnhQQzlMeVQwblFXcFdzVVV5S2JWc3d3WUpYbk94NTdmVjh6SFU0VWoxRmZZOFMzdVI3Ukk0UHBub3Vtc0xWbTM1RzhKY0NaeGx5TmNzY0RmNWFiWDAxQmx4Y0NFNUhfMk5DS2c?oc=5",
-      "publishedAt": "2026-11-27T08:58:54.000Z"
+      "title": "Preços do petróleo apresentam resultados mistos antes da reunião da OPEP+, enquanto os riscos de fornecimento no Oriente Médio persistem",
+      "titleOriginal": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5",
+      "publishedAt": "2026-11-27T12:50:00.000Z"
     },
     {
       "source": "AP News",
-      "title": "As principais questões que impulsionam as eleições na Espanha e por que elas são importantes para a Europa",
-      "titleOriginal": "The main issues driving Spain’s election and why they matter for Europe",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5",
-      "publishedAt": "2026-11-27T08:31:00.000Z"
+      "title": "O resultado final empatado das eleições na Nova Zelândia deixa um recém-chegado de centro como o fator decisivo",
+      "titleOriginal": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5",
+      "publishedAt": "2026-11-27T12:20:00.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Vance e Rubio aprendem o preço da lealdade a Trump",
+      "titleOriginal": "Vance and Rubio learn the price of loyalty to Trump",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XUDl6RG9JYjlNOHN4MlNkem1IbnRweGVqZUxuUlE4M2Y0RXdZbkxPZ3F4N01nVjktdjJCcHJIbkhIa2paQklGNTRvWXR5eWlNMTZQY1JxLURiQjhYcUUzUVlEbFdndXpfRzgzVFQ5RVlUUQ?oc=5",
+      "publishedAt": "2026-11-27T12:10:07.000Z"
+    },
+    {
+      "source": "The Hill",
+      "title": "O ciclo eleitoral presidencial de 2028 gira em torno de Trump",
+      "titleOriginal": "The 2028 presidential election cycle is all about Trump",
+      "link": "https://thehill.com/opinion/white-house/6243594-vance-rubio-presidential-race/",
+      "publishedAt": "2026-11-27T12:00:00.000Z"
     },
     {
       "source": "Wall Street Journal",
-      "title": "Os rendimentos dos títulos da zona do euro acompanham os rendimentos dos títulos do Tesouro, e os preços do petróleo sobem",
-      "titleOriginal": "Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
-      "publishedAt": "2026-11-27T08:23:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "A pressão da Casa Branca para reintegrar Jensen Huang",
-      "titleOriginal": "The White House Push to Reinstate Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWERhWWVrWXBua0FNN0d6WnltMEpUN1hrRy05Skdrd2xUX2J2UUNwVHZ4aEtGd2drYlpfY0VPNXAxLXoxbDVoMjJqN3NyYnZFSkUtVWc1WkNrRXdEb3dCMVAwNHNEVUxaVDdlYVF6SGUweHVkUHhiXzJQV1I0R1FJVXRBem51UVpid1BQRQ?oc=5",
-      "publishedAt": "2026-11-27T07:52:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Tyler Bass acerta um field goal de 57 jardas quando o tempo acaba para fazer os Bills superarem os Chiefs por 13 a 10",
-      "titleOriginal": "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0VTdkhoTk9yeHdFZFFGWlA3dmRVUnNRX0JZc2F3d212bGJ5QjVWNVFPY2VIUGJxZUx4SFlySzhnZzJIUkhDOGFxakxNVUF1V1NnSThfOFliQUQ0QjMtdDcxS1VEdkRKVVFKUEd0MGd0ZmxUdlpLdEJpRmh2dWs5bVJqZ0s?oc=5",
-      "publishedAt": "2026-11-27T07:25:00.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Conheça a candidata a prefeita em ascensão em Taiwan, que também foi sancionada pela China",
-      "titleOriginal": "Meet the rising mayoral candidate in Taiwan who’s also sanctioned by China",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0tsMjNfSi1fbVBpV3ZtNmRiYzhNMmZsbUh4dThyNXotSEd6Q0hldlY4bWYyUWdmb055bm83RmF6VFpZYjl5OHh2bnkyNkRmbThDV1lobXY3Qm5NRElfNDRNYXk2Ni1pVDlDZy1zRjdMaFE3c2d4bFh4WkZLMXZWTkRJc2hCci1PMU9vNnVvZjBjREkzRlUtSmx3?oc=5",
-      "publishedAt": "2026-11-27T07:20:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "Opinião | Taylor Swift foi gentil comigo",
-      "titleOriginal": "Opinion | Taylor Swift Was Nice to Me",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2NhX2FmYjY2RWU0Ynl0OWc2eGFneThnRFNQbDVMb3FOX2FnN3ozamxiSkhoVl9UYWpxTmx2Q0x4X2ZvcFY1TWF2dF9kbkxtSUxlX1FrbXp6cXk3TndCZUhxMS1MbW16WUF2Si1LWmlTNFJucjhtbjFzdVNlVmhrUTNfN3pDZ2s?oc=5",
-      "publishedAt": "2026-11-27T07:08:51.000Z"
+      "title": "Howard Lutnick é o último sobrevivente do governo Trump",
+      "titleOriginal": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
+      "publishedAt": "2026-11-27T11:53:13.000Z"
     }
   ]
 }
