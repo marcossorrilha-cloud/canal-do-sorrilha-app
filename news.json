@@ -1,41 +1,62 @@
 {
-  "updatedAt": "2026-11-28T04:57:41.518Z",
+  "updatedAt": "2026-11-28T11:46:34.039Z",
   "count": 10,
   "items": [
     {
+      "source": "Axios",
+      "title": "O Congresso lida com casos de conduta sexual inapropriada",
+      "titleOriginal": "Congress grapples with sexual misconduct",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmVThVbFF4c1RRb1Q4UERfVjRzbU1UQ0QwR1Exek1iM19hS2VFd3hfWTZMVTBLb0VIZVFUaTlxM2RWRnEycWpVWmhVMGExTU4tMV9FV2E0ZUFwVmVibGZXLUFaTFRxTXBBS2l6ZmxWUWVaaVZvUUU4eXBaMUc?oc=5",
+      "publishedAt": "2026-11-28T11:20:06.000Z"
+    },
+    {
       "source": "Wall Street Journal",
-      "title": "Howard Lutnick é o último sobrevivente do governo Trump",
-      "titleOriginal": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
-      "publishedAt": "2026-11-28T04:19:03.000Z"
+      "title": "Eleição na Nova Zelândia termina em impasse e transforma um outsider em decisor",
+      "titleOriginal": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVdfLVRUcEF0MmVUdXBONm9KaVExVFgxUHMwWXd3VW03djBsMkx2QzZOMlRvOWd0N2x6bmRwM0JhVWxNVXd1OWlDOWJwbDgxSVJva2gwRWJ6RHpHZHhzLWItX1dLNGQxazQ0Zk5NOGtYZ1FFWWFOTFY4aEdQZ0ZJUk5uay1QeVg3bnRpMjdsajR1ZXV2X0RpNnRxR0pvX3hETG5BQVNwQWNQNGlReU9jak8tVVg5UQ?oc=5",
+      "publishedAt": "2026-11-28T11:17:09.000Z"
+    },
+    {
+      "source": "Axios",
+      "title": "Os republicanos estão encontrando sua voz",
+      "titleOriginal": "Republicans are finding their voice",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3VJMDRUVVhtdEVvdU9oREZ4MG9aQ2U0WjJ1dUdmclpsZTJRVFNKcjd3aGdVdTYtT0FYbHIzQTRjRXprS0k3a21wX04zZ0tzdmUtRnJoRnFaUTl4YkRKRlVUU3FWV3Nsb1Y3aHAxeW13bm4xZndiQUtaMHRLamQzTmlHekJRZWg4ZDJCeg?oc=5",
+      "publishedAt": "2026-11-28T11:04:48.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "Por trás da agitação na França está um declínio histórico no poder de compra",
+      "titleOriginal": "Behind France’s Unrest Lies a Historic Decline in Spending Power",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTdWRFhWSmJreVR4d1dsWVdWUGQzR3JQaUl0NV90OEtidWxndlI2Y28tSG5uc1ZmYzZuOEdldkpRLWdHdkF3YS1NamU3ZXIyb01id1gxU3VtdHZNUk1EWUhKV3VSNDgxUlpiY0xPZ0VCdTFHb2R3TzRudl9SNk1QSVpWMTRYQTNoRFFnYkF3OVdEbkNKWXRRX2JBd25TMHE1NmNoRFZyXzA?oc=5",
+      "publishedAt": "2026-11-28T10:31:16.000Z"
+    },
+    {
+      "source": "Wall Street Journal",
+      "title": "A diferença entre o espetáculo militar da China e a realidade do campo de batalha",
+      "titleOriginal": "The Gap Between China’s Military Spectacle and Battlefield Reality",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDN4d1ZQZ3BaZzhDMzFUN0xBa2dqbU14SFltZGdfWmR5eTFRSjRHanJoY1NETTNKWkFkVjBYNTlVLVVFcktuWllBSkdoZnJYblRuMEhVMXdvVHM3M3ZsLXV3TTVONVJjMDg4RVRVcm9kZEN2akJVQklxcXA1a1NDM1ZoeGM4ZGxKb2xZWkI1SHp4Y29zNUF5azdwNF9yNjBwZm1kQlRtT1R0QQ?oc=5",
+      "publishedAt": "2026-11-28T10:26:34.000Z"
+    },
+    {
+      "source": "AP News",
+      "title": "Taiwan aguarda os resultados das eleições locais enquanto a China observa",
+      "titleOriginal": "Taiwan awaits local election results as China watches",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
+      "publishedAt": "2026-11-28T10:15:00.000Z"
+    },
+    {
+      "source": "New York Times",
+      "title": "A aproximação de Trump com Xi e Huang surpreende os críticos da China em Washington",
+      "titleOriginal": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
+      "link": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+      "publishedAt": "2026-11-28T05:19:36.000Z"
     },
     {
       "source": "The Hill",
-      "title": "O procurador-geral eleito do Texas não vai defender a lei que obriga a exposição dos Dez Mandamentos nas salas de aula",
+      "title": "O procurador-geral eleito do Texas não vai defender a lei que obriga a exibir os Dez Mandamentos nas salas de aula",
       "titleOriginal": "Texas AG-elect won't defend Ten Commandments classroom law",
       "link": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/",
       "publishedAt": "2026-11-28T03:44:48.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "LeBron James e os 76ers passam pelos Pacers com facilidade, vencendo por 111 a 87, e avançam para a fase eliminatória da Copa da NBA",
-      "titleOriginal": "LeBron James and 76ers breeze past Pacers 111-87, advance to NBA Cup knockout round",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkNHWEIyUTBWOGRqWEcteGFiLWRWcVZxbjR2VzNiRjIyOWdnd0FwVDJlZnc1dElMMno1eXdSTGxTRU5aUTZWbHk1TW1PQXpQV0VoZFE0Rk15N05KdUxINXc0b3NfeTlwNVJzNjgwLTZ1eG1ZaERjRk5HNHBzZTVGYUpRdkM?oc=5",
-      "publishedAt": "2026-11-28T03:36:00.000Z"
-    },
-    {
-      "source": "Wall Street Journal",
-      "title": "O proprietário dos Dodgers, Todd Boehly, fecha acordo para os ativos no exterior da russa Lukoil",
-      "titleOriginal": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGh0OFRqZkhfUm9zcTV1NkxZdW0zc2hWVENhRC16TF9XdUdlQlROUVpBZXdDeDhFYjRrVlJtcTlVcXRVeFVUMEZDUXVuOTFWLVpBVDliSVZmTlFSWDc3VjNlc19FUW1LX283Y1BWdnVoNjVzSUEwbGtmWnE4TVhCbjZUZ09tSDBEVk80M0hrTFJuTk13WklUQTBKQlNKajVlUEtTNkV6QkhOTEU2dmJGMHRBTTFNbUx3SlREaXZB?oc=5",
-      "publishedAt": "2026-11-28T03:28:30.000Z"
-    },
-    {
-      "source": "AP News",
-      "title": "Taiwan realiza eleições para escolher prefeitos e outros líderes locais enquanto a China observa",
-      "titleOriginal": "Taiwan holds elections to choose mayors and other local leaders as China looks on",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
-      "publishedAt": "2026-11-28T03:14:00.000Z"
     },
     {
       "source": "Wall Street Journal",
@@ -45,32 +66,11 @@
       "publishedAt": "2026-11-28T03:00:00.000Z"
     },
     {
-      "source": "New York Times",
-      "title": "As decisões do Supremo Tribunal, aplaudidas pelos republicanos, acabaram prejudicando-os",
-      "titleOriginal": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
-      "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
-      "publishedAt": "2026-11-28T02:46:33.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Conselho de Planejamento realizará reunião de última hora para considerar a construção de Trump em Washington, D.C.",
-      "titleOriginal": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
-      "link": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
-      "publishedAt": "2026-11-28T02:33:52.000Z"
-    },
-    {
       "source": "Wall Street Journal",
-      "title": "O alto custo político da lealdade de Trump a Jensen Huang",
-      "titleOriginal": "The High Political Cost of Trump’s Loyalty to Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0RESWZCNURwWGRtNHhIZTY0OXFScXNJYVk5TUJ2djBDWHVKNXVsZlVmRDZfUmFucEJqTUZBdkF0NkY4Y2JmQUJqZzRfazlhN0dWbnY0WTJCRXJ0X0NQTXAySXE3bGtKNnVWbWJhQ1czWGhJVk1qV1NBM01HMXE2S1J2S2VzTlBmT3VUa2pObFBGMHZzUUtRYkNsNnUzUzc5Ty16OQ?oc=5",
-      "publishedAt": "2026-11-28T02:00:00.000Z"
-    },
-    {
-      "source": "New York Times",
-      "title": "Por um momento tempestuoso, Washington, D.C., se deleitou com uma parede em branco onde antes estava pendurado o nome de Trump",
-      "titleOriginal": "For One Stormy Moment, D.C. Reveled in a Blank Wall Where Trump’s Name Once Hung",
-      "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
-      "publishedAt": "2026-11-28T01:26:03.000Z"
+      "title": "Com uma arma no quadril, o novo presidente da Colômbia transforma a guerra às drogas em teatro",
+      "titleOriginal": "A Handgun on His Hip, Colombia’s New President Turns Drug War Into Theater",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGl5OUZtUUp6NzdlNjQwUWt2bVAtVFJVdGdYNTVfNFdoeHVGXzRiXzZIVTZheERsZkY3YlpmSTVyTlBWak1MbnhZT3duZ3NsQ3pkQ0MxbWlaTTR3S0Z4LUtQdW5ZTVZta0tXSlQzbnU1MWE4QmMtSjBEWVZPUFhkRjdoTndBem41UjhPWmlOVkd6U2JEWVl1VlBaek1mQnc?oc=5",
+      "publishedAt": "2026-11-28T03:00:00.000Z"
     }
   ]
 }
