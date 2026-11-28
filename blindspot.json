@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-28T04:57:50.739Z",
-  "slot": "2026-11-28-AM",
+  "updatedAt": "2026-11-28T20:04:16.149Z",
+  "slot": "2026-11-28-PM",
   "items": [
     {
       "audience": "right",
       "label": "Ponto cego da direita",
       "note": "Muito coberto pela imprensa de esquerda e ignorado pela direita.",
-      "title": "A Quince está reduzindo os preços durante seu evento de Black Friday. Estes são os itens que vale a pena comprar",
-      "titleOriginal": "Quince is slashing prices during its Black Friday event. These are the items worth shopping",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0VQMVBMdGxwMkxWN0NFeGpRenRydXdHRDRvUmtKRFJGei1URWFRVGNMbGRPam9mTGtwazRoM05sRURhM01PRVI3MzRqQlh4N1IxZmM1Vzd0dFNZUEh5bm9xRkxxREl2R1lqM040M1dsU1FjWkt3aUs1UTNVSDJvOVFPYw?oc=5",
-      "source": "CNN",
-      "coverage": 2
+      "title": "Ataque israelense em Gaza mata dois funcionários de Médicos Sem Fronteiras, diz a organização humanitária",
+      "titleOriginal": "Israeli strike on Gaza kills 2 Doctors Without Borders staff, charity says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDZoTFA0TEZyRUhzODNLZ3lIeUdSMXRCMXhJRjNRb2pVVER1dENTVDJ1bnlIdjRWa05VV2R2bFFtU0NmNzdhY0wtTEdwbDk0OVdUMkEwaldmWkJsLWd2VjlrelExTjYwMFlGMUZRMTRRLUJWeHVlZ2lveDVrZkQydEo5TXFQa1pmYjZXdkVKajhzNHNnOXlIU3ZRMnU0MmRRNjlUeW55ejJwRHVyNzN0TlRMUm5aVWJmRy1n?oc=5",
+      "source": "Washington Post",
+      "coverage": 4
     },
     {
       "audience": "left",
       "label": "Ponto cego da esquerda",
       "note": "Muito coberto pela imprensa de direita e ignorado pela esquerda.",
-      "title": "O alto custo político da lealdade de Trump a Jensen Huang",
-      "titleOriginal": "The High Political Cost of Trump’s Loyalty to Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0RESWZCNURwWGRtNHhIZTY0OXFScXNJYVk5TUJ2djBDWHVKNXVsZlVmRDZfUmFucEJqTUZBdkF0NkY4Y2JmQUJqZzRfazlhN0dWbnY0WTJCRXJ0X0NQTXAySXE3bGtKNnVWbWJhQ1czWGhJVk1qV1NBM01HMXE2S1J2S2VzTlBmT3VUa2pObFBGMHZzUUtRYkNsNnUzUzc5Ty16OQ?oc=5",
-      "source": "Wall Street Journal",
-      "coverage": 3
+      "title": "A FCC autoriza a SpaceX de Elon Musk a lançar 1 milhão de satélites para data centers espaciais",
+      "titleOriginal": "FCC Clears Elon Musk's SpaceX to Launch 1 Million Satellites for Space-Based Data Centers",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmxscUFRUVBfN29qZEpCOFZWTjZNek5BcEZGZEFTSVhqb3VVc2FCUFBINWZpVktZWFJBa2dmYlRjOTFFZHE5Tkowb2JnbnY4VHl6YXE3bUxaOGNHWnZBb1Q1UTZFM2ZHLTVVdHREU1VFRHZ6VEFjLWxCTG5TZkhkOHIzaVAtek05aVRmdTA1aDFhamhTLWVQd09kOTZ6bk5JWkJLV21FRkJOSVVEMVhXVVk0ZHB1VWVQVzVrR0IwbWt1SWtOc09wLWxQWVRQeHN4V0Iw?oc=5",
+      "source": "Breitbart",
+      "coverage": 5
     }
   ]
 }
